@@ -28,7 +28,11 @@ class university_spider_thread(threading.Thread):
             # threadLock.acquire()
             # 线程需要执行的方法
             url = url_queue.get()
-            print(url, url_queue.qsize())
+            # print(url, url_queue.qsize())
+            print("当前爬取链接：", url,
+                  "\t待爬链接数量：", url_queue.qsize(),
+                  "\t总共获取练级数量：", len(url_set))
+            sleep(10)
             get_children_url(url)
             # 释放锁
             # threadLock.release()
@@ -41,12 +45,12 @@ url_queue = Queue()
 threadLock = threading.Lock()
 # 创建线程列表
 threads = []
-num_thread = 1
+num_thread = 10
 
 
 def get_children_url(url):
     try:
-        html = requests.get(url).content
+        html = requests.get(url, timeout=5).content
     except:
         return
 
@@ -63,12 +67,13 @@ def get_children_url(url):
         # 如果当前内部链接就是http时，则不考虑原始链接
         if new.startswith("http"):
             new_url = new
+            # print(new_url)
         else:
             new_url = create_new_url(url, new)
         # print(url, new)
 
         # 新的链接不能在过往的链接中，且不能离开现有的域名
-        if not url_set.__contains__(new_url) and new_url.startswith(startPage):
+        if not url_set.__contains__(new_url):
             url_set.add(new_url)
             url_queue.put(new_url)
     save_html(url, beautifulSoupText)
@@ -86,7 +91,7 @@ def save_html(url, text):
 def single_thread():
     while not url_queue.empty():
         url = url_queue.get()
-        sleep(1)
+        sleep(0.5)
         print(url, url_queue.qsize(), len(url_set))
         get_children_url(url)
 
@@ -123,4 +128,5 @@ if __name__ == "__main__":
     url_set.add(startPage)
     print(startPage, url_queue.qsize(), len(url_set))
     get_children_url(startPage)
-    single_thread()
+    # single_thread()
+    mutil_thread()

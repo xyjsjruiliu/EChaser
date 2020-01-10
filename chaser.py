@@ -1,6 +1,7 @@
 # coding: utf-8
 # author: liu rui
 import codecs
+import random
 import threading
 from time import ctime, sleep
 
@@ -32,7 +33,7 @@ class university_spider_thread(threading.Thread):
             print("当前爬取链接：", url,
                   "\t待爬链接数量：", url_queue.qsize(),
                   "\t总共获取练级数量：", len(url_set))
-            sleep(10)
+            sleep(random.randint(2, 7))
             get_children_url(url)
             # 释放锁
             # threadLock.release()
@@ -50,7 +51,7 @@ num_thread = 10
 
 def get_children_url(url):
     try:
-        html = requests.get(url, timeout=5).content
+        html = requests.get(url, timeout=2).content
     except:
         return
 
@@ -62,7 +63,16 @@ def get_children_url(url):
         # print(a)
         new = temp_url.attrib.get("href", "")
         # 如果当前链接为JavaScript或者为空时，则不保存
-        if new.startswith("javascript") or new == "":
+        if new.startswith("javascript") or new == "" \
+                or new.endswith(".pdf")\
+                or new.endswith(".jpg")\
+                or new.endswith(".png")\
+                or new.endswith(".doc")\
+                or new.endswith(".docx")\
+                or new.endswith(".xls")\
+                or new.endswith(".xlsx")\
+                or new.endswith(".apk")\
+                or new.endswith(".ipa"):
             continue
         # 如果当前内部链接就是http时，则不考虑原始链接
         if new.startswith("http"):
@@ -98,6 +108,9 @@ def single_thread():
 
 # 根据
 def create_new_url(start, end):
+    if len(start.split("/")) == 3:
+        return start + "/" + end
+
     tempStart = start.split("/")[:-1]
     tempEnd = end.split("/")
 

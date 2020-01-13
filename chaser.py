@@ -18,6 +18,8 @@ startPage = "http://news.xjtu.edu.cn/"
 url_set = set()
 # 待爬取队列
 url_queue = Queue()
+# 已经爬取的网页链接数量
+number_page = {"count": 0}
 # 创建线程列表
 threads = []
 num_thread = 10
@@ -32,12 +34,15 @@ class university_spider_thread(threading.Thread):
 
     def run(self):
         while not url_queue.empty():
+            # if number_page["count"] >= 100:
+            #     exit(0)
             # 线程需要执行的方法
             url = url_queue.get()
             print("当前爬取链接：", url,
                   "\t待爬链接数量：", url_queue.qsize(),
                   "\t总共获取链接数量：", len(url_set),
-                  "\t当前时间：", ctime())
+                  "\t当前时间：", ctime(),
+                  "\t当前下载链接数量：", number_page["count"])
             sleep(random.randint(2, 7))
             get_children_url(url)
 
@@ -61,6 +66,7 @@ def get_children_url(url):
         handle_url(url, new)
     # 保存当前链接的内容
     save_html(url, beautifulSoupText)
+    number_page["count"] += 1
 
 
 # 处理新的子链接

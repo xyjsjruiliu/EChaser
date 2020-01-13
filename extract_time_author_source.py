@@ -4,20 +4,24 @@ import re
 import os
 import codecs
 
+from bs4 import BeautifulSoup
+
 
 sourcePagePath = "data/"
 hashSourceFile = "index_url.txt"
 
 
 def mapFile():
-    pattern = "来源"
+    pattern = "更新日期："
     allPath = fromAllPage()
 
     for k, v in allPath.items():
-        print(v)
-        s = re.match(pattern, v)
-        if s is not None:
-            print(k)
+        beautifulSoupText = BeautifulSoup(v, 'html.parser').text
+        # print(beautifulSoupText)
+        for ss in beautifulSoupText.split("\n"):
+            s = re.match(pattern, ss)
+            if s is not None:
+                print(k, ss)
 
 
 def getHashFile():

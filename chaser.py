@@ -36,7 +36,7 @@ class university_spider_thread(threading.Thread):
             url = url_queue.get()
             print("当前爬取链接：", url,
                   "\t待爬链接数量：", url_queue.qsize(),
-                  "\t总共获取练级数量：", len(url_set),
+                  "\t总共获取链接数量：", len(url_set),
                   "\t当前时间：", ctime())
             sleep(random.randint(2, 7))
             get_children_url(url)

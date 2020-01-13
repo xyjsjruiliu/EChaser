@@ -5,6 +5,9 @@ startPage = "http://news.xjtu.edu.cn/"
 
 
 def create_new_url(start, end):
+    if len(start.split("/")) == 3:
+        return start + "/" + end
+
     tempStart = start.split("/")[:-1]
     tempEnd = end.split("/")
 
@@ -17,5 +20,5 @@ def create_new_url(start, end):
 
 
 if __name__ == "__main__":
-    n = create_new_url("http://news.xjtu.edu.cn/index/html", "index/gjjs.htm")
+    n = create_new_url("http://news.xjtu.edu.cn", "index/gjjs.htm")
     print(n)

@@ -1,0 +1,400 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html><head><title>科学技术与学科建设处</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><link href="style.css" rel="stylesheet" type="text/css"/>
+<style type="text/css">
+<!--
+.STYLE1 {color: #fff;}
+-->
+</style>
+<!--Announced at 2019-11-22 11:39:32-->
+<!-- CustomerNO:7765626265673132697547545253554b03020000 -->
+<link href="index.vsb.css" rel="stylesheet" type="text/css">
+<meta content="科学技术与学科建设处" name="keywords">
+<script src="system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1135555708)</script>
+<!--[if lt IE 7]><script type="text/javascript" src="/system/resource/js/unitpngfix/unitpngfix.js"></script><![endif]--></meta></link></head>
+<body target="_blank"><a href="&lt;span style='color:red;font-size:9pt'&gt;转换链接错误&lt;/span&gt;"></a>
+<div class="w-980">
+<div class="top-bar">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="29" width="965">
+<tbody>
+<tr>
+<td width="139"><a href="&lt;span style='color:red;font-size:9pt'&gt;转换链接错误&lt;/span&gt;"></a>
+<div>
+<div>欢迎访问本网站 今天是：</div></div></td>
+<td width="673"><!--#begineditable contype="" name="文本日历" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="文本日历" viewid="65400" stylesysid=""--><script language="javascript" src="system/resource/js/calendar/cld.js"></script>
+<script language="JavaScript">
+function RunGLNL65400(){          
+var today=new Date();          
+var d=new Array("星期日","星期一","星期二","星期三","星期四","星期五","星期六");
+var nian = getYear(today)+"年"+(today.getMonth()+1)+"月" +today.getDate()+"日";         
+document.write('<div  class="fontstyle65400" >');          
+document.write(nian+"&nbsp;&nbsp;"+d[today.getDay()]);          
+document.write("</div>");         
+} RunGLNL65400();          
+</script> <!--#endeditable--></td>
+<td align="right" width="153"><!--#begineditable contype="" name="主页|收藏" action="" layout="" clone="0" namechanged="0" order="1" ispublic="0" tagname="主页|收藏" viewid="65402" stylesysid=""--><script language="javascript">
+function dosuba65402a()
+{
+    try{
+		var ua = navigator.userAgent.toLowerCase();
+		if(ua.indexOf("msie 8")>-1)
+		{
+			window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+		}else{
+			if (document.all) 
+			{
+				window.external.addFavorite(document.location.href, document.title);
+			}else if(window.sidebar)
+			{
+				window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+			}
+		}
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function setHomepagea65402a()
+{
+		var url = document.location.href;
+    if (document.all){
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }else if (window.sidebar){
+        if(window.netscape){
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+    }
+var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+prefs.setCharPref('browser.startup.homepage',url);}
+}
+</script><table><tr><td style="font-size:9pt"><a href="javascript:setHomepagea65402a()"><span class="font65402">设为首页</span></a> <span class="splitcharstyle65402"> | </span> <a href="#" onclick="javascript:dosuba65402a();"><span class="font65402">加入收藏</span></a></td></tr></table><!--#endeditable--></td></tr></tbody></table></div>
+<div class="banner"><!--#begineditable contype="" name="LOGO" action="" layout="" clone="0" namechanged="0" order="2" ispublic="0" tagname="LOGO" viewid="65401" stylesysid=""--><table border="0" cellpadding="0" cellspacing="0"><tr><td><img alt="/logo20180901.png" border="0" src="logo20180901.png"/></td></tr></table><!--#endeditable--></div></div>
+<div class="w-980 nav">
+<table border="0" cellpadding="0" cellspacing="0" height="40" width="980">
+<tbody>
+<tr>
+<td align="center" width="980"><!--#begineditable contype="" name="网站导航" action="" layout="" clone="0" namechanged="0" order="3" ispublic="0" tagname="网站导航" viewid="65403" stylesysid=""--><style type="text/css">
+td.b1_3_{FONT-SIZE:9pt;}
+td.b2_3_{FONT-SIZE:9pt;}
+td.b3_3_{FONT-SIZE:9pt;BORDER-BOTTOM: #cccccc 1px solid;BACKGROUND-COLOR: #eeeeee;BORDER-RIGHT: #cccccc 1px solid;}
+td.b4_3_{FONT-SIZE:9pt;BORDER-BOTTOM: #cccccc 1px solid;BACKGROUND-COLOR: #eeeeee;BORDER-RIGHT: #cccccc 1px solid;}
+a.menu0_3_:link {TEXT-DECORATION: none;};
+a.menu0_3_:visited { TEXT-DECORATION: none;};
+a.menu0_3_:hover {TEXT-DECORATION: none;};
+a.menu0_3_:active {TEXT-DECORATION: none;};
+table.tb1_3_{FONT-SIZE:9pt;border:0;}
+span.s1_3_{TEXT-ALIGN: center;LINE-HEIGHT: 160%;MARGIN: 0px auto;FONT-FAMILY: 宋体;COLOR: #ffffff;FONT-SIZE: 14px;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s2_3_{LINE-HEIGHT: 160%;FONT-FAMILY: 宋体;COLOR: #cc0000;FONT-SIZE: 11pt;TEXT-DECORATION: none;}
+span.s10_3_{TEXT-ALIGN: center;LINE-HEIGHT: 160%;MARGIN: 0px auto;FONT-FAMILY: 宋体;COLOR: #ffffff;FONT-SIZE: 14px;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s20_3_{LINE-HEIGHT: 160%;FONT-FAMILY: 宋体;COLOR: #000000;FONT-SIZE: 11pt;TEXT-DECORATION: none;}
+</style>
+<script language="javascript"> 
+ var showfix_3_ = 1;
+ var isvertical_3_ = false;
+</script>
+<script language="javascript" src="system/resource/js/menu/text.js"></script>
+<table border="0" cellpadding="0" cellspacing="0" height="42" id="t1_3_" width="930"><tr><td valign="center"></td><td align="center" class="b1_3_" height="0" id="a_3_1001" nowrap="" onmouseout="thideLayers('1001','b1_3_', '_3_')" onmouseover="tshowLayers('1001','b2_3_', '_3_')" valign="middle" width="0"><a class="menu0_3_" href="index.htm"><span class="currentfontStyle65403"> 网站首页 </span></a></td><td class="leaderfont65403" valign="center">|</td><td align="center" class="b1_3_" id="a_3_1002" nowrap="" onmouseout="thideLayers('1002','b1_3_', '_3_')" onmouseover="tshowLayers('1002','b2_3_', '_3_')" valign="middle" width="0"><a class="menu0_3_" href="csgk.htm"><span class="fontstyle65403"> 处室概况 </span></a></td><td class="leaderfont65403" valign="center">|</td><td align="center" class="b1_3_" id="a_3_1003" nowrap="" onmouseout="thideLayers('1003','b1_3_', '_3_')" onmouseover="tshowLayers('1003','b2_3_', '_3_')" valign="middle" width="0"><a class="menu0_3_" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1003"><span class="fontstyle65403"> 工作动态 </span></a></td><td class="leaderfont65403" valign="center">|</td><td align="center" class="b1_3_" id="a_3_1004" nowrap="" onmouseout="thideLayers('1004','b1_3_', '_3_')" onmouseover="tshowLayers('1004','b2_3_', '_3_')" valign="middle" width="0"><a class="menu0_3_" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1004"><span class="fontstyle65403"> 通知公告 </span></a></td><td class="leaderfont65403" valign="center">|</td><td align="center" class="b1_3_" id="a_3_1007" nowrap="" onmouseout="thideLayers('1007','b1_3_', '_3_')" onmouseover="tshowLayers('1007','b2_3_', '_3_')" valign="middle" width="0"><a class="menu0_3_" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1007"><span class="fontstyle65403"> 学科建设 </span></a></td><td class="leaderfont65403" valign="center">|</td><td align="center" class="b1_3_" id="a_3_1008" nowrap="" onmouseout="thideLayers('1008','b1_3_', '_3_')" onmouseover="tshowLayers('1008','b2_3_', '_3_')" valign="middle" width="0"><a class="menu0_3_" href="copy_1_list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1008"><span class="fontstyle65403"> 科学研究 </span></a></td><td class="leaderfont65403" valign="center">|</td><td align="center" class="b1_3_" id="a_3_1027" nowrap="" onmouseout="thideLayers('1027','b1_3_', '_3_')" onmouseover="tshowLayers('1027','b2_3_', '_3_')" valign="middle" width="0"><a class="menu0_3_" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1027"><span class="fontstyle65403"> 学术交流 </span></a></td><td class="leaderfont65403" valign="center">|</td><td align="center" class="b1_3_" id="a_3_1009" nowrap="" onmouseout="thideLayers('1009','b1_3_', '_3_')" onmouseover="tshowLayers('1009','b2_3_', '_3_')" valign="middle" width="0"><a class="menu0_3_" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1009"><span class="fontstyle65403"> 文档下载 </span></a></td><td class="leaderfont65403" valign="center">|</td><td align="center" class="b1_3_" id="a_3_1025" nowrap="" onmouseout="thideLayers('1025','b1_3_', '_3_')" onmouseover="tshowLayers('1025','b2_3_', '_3_')" valign="middle" width="0"><a class="menu0_3_" href="English.htm"><span class="fontstyle65403"> English </span></a></td></tr></table></td></tr></tbody></table><!--#endeditable--></div></body></html>
+<div class="white-bg w-980">
+<div class="side-left">
+<div class="news-pic"><span><img src="image/index_33.jpg"/></span>
+<div class="news-pic-contant"><!--#begineditable contype="" name="图片新闻" action="" layout="" clone="0" namechanged="0" order="4" ispublic="0" tagname="图片新闻" viewid="65409" stylesysid=""-->
+<link href="system/resource/style/component/news/list/imagechangenews.css" rel="stylesheet" type="text/css"/>
+<script language="javascript" src="system/resource/js/news/imagechangenews.js"></script><script language="JavaScript">
+var u_ars2mmod2y_icn = new ImageChangeNews("u_ars2mmod2y_", 230, 170, 4, 2.0, true, false, false, true);
+
+//初始化图片, 并启动定时
+function u_ars2mmod2y_init_img()
+{
+
+    u_ars2mmod2y_icn.addimg("\/_mediafile\/kxjs\/2019\/07\/31\/_thumb\/duubhyi1z1.jpg", "\/info\/1003\/1513.htm", "环境与疾病相关基因教育部...", "");
+
+    u_ars2mmod2y_icn.addimg("\/_mediafile\/kxjs\/2018\/12\/25\/_thumb\/bx46cvfxod.jpg", "\/info\/1003\/1391.htm", "医学部国家自然科学基金申...", "");
+
+    u_ars2mmod2y_icn.addimg("\/_mediafile\/kxjs\/2018\/11\/12\/_thumb\/258fhjw5ek.jpg", "\/info\/1003\/1372.htm", "医学部召开医学学科建设研讨会", "");
+
+    u_ars2mmod2y_icn.addimg("\/_mediafile\/kxjs\/2018\/10\/30\/_thumb\/2vbfzpw9wj.png", "\/info\/1003\/1364.htm", "吕毅团队“外科梦工场”逐梦记", "");
+
+    u_ars2mmod2y_icn.addimg("\/_mediafile\/kxjs\/2018\/10\/24\/_thumb\/4w433ank0m.jpg", "\/info\/1003\/1354.htm", "公共卫生学院召开2019年国...", "");
+
+    u_ars2mmod2y_icn.addimg("\/_mediafile\/kxjs\/2018\/09\/30\/_thumb\/fq9x4nyaw2.jpg", "\/info\/1003\/1343.htm", "药学院召开2019年国家自然...", "");
+
+    u_ars2mmod2y_icn.changeimg(0);
+}
+</script><table border="0" cellpadding="0" cellspacing="0" style="padding:0px margin:0px;border:0px">
+<tr><td>
+<div style="OVERFLOW: hidden;height:170px;width:230px">
+<div align="center" id="u_ars2mmod2y_div" style="padding:0px;margin:0px;border:0px solid black;background-color:#000000;FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2.0,transition=23);height:170px;width:230px">
+<div id="u_ars2mmod2y_imgdiv" style="padding:0px;margin-top:0px;border:0px"><a id="u_ars2mmod2y_url" target="_blank"><img border="0" height="170" id="u_ars2mmod2y_pic" src="system/resource/images/space.gif" width="230"/></a></div>
+</div>
+<div style="filter:alpha(style=1,opacity=10,finishOpacity=80);width:229px;height:19px;text-align:right;top:-19px;position:relative;padding:0px;margin:0px;border:0px">
+<a ;="" class="imagechangenews_pnode" href="javascript:u_ars2mmod2y_icn.changeimg(0)" id="u_ars2mmod2y_selectNode0" target="_self">1</a><a ;="" class="imagechangenews_pnode" href="javascript:u_ars2mmod2y_icn.changeimg(1)" id="u_ars2mmod2y_selectNode1" target="_self">2</a><a ;="" class="imagechangenews_pnode" href="javascript:u_ars2mmod2y_icn.changeimg(2)" id="u_ars2mmod2y_selectNode2" target="_self">3</a><a ;="" class="imagechangenews_pnode" href="javascript:u_ars2mmod2y_icn.changeimg(3)" id="u_ars2mmod2y_selectNode3" target="_self">4</a><a ;="" class="imagechangenews_pnode" href="javascript:u_ars2mmod2y_icn.changeimg(4)" id="u_ars2mmod2y_selectNode4" target="_self">5</a><a ;="" class="imagechangenews_pnode" href="javascript:u_ars2mmod2y_icn.changeimg(5)" id="u_ars2mmod2y_selectNode5" target="_self">6</a>
+</div></div></td></tr>
+<tr><td height="25">
+<div align="center" style="overflow:hidden;text-overflow:ellipsis;height:25px;width:230px"><a class="titlestyle65409" id="u_ars2mmod2y_newstitle" target="_blank"></a></div>
+</td></tr>
+<div align="left" display="none" style="overflow:hidden;text-overflow:ellipsis;height:0px;width:230px;padding-left:2px;padding-right:2px"><a class="summarystyle65409" id="u_ars2mmod2y_newssummary" target="_blank"></a></div>
+</table><script language="JavaScript">u_ars2mmod2y_init_img();</script><!--#endeditable--></div></div>
+<div class="side-bottom m-t-5">
+<h1 class="side-botton-title2"><span>办事指南</span><a class="more" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1024" target="_blank">更多&gt;&gt;</a></h1></div></div></div>
+<ul class="side-botton-content"><!--#begineditable contype="" name="办事指南" action="" layout="" clone="0" namechanged="0" order="5" ispublic="0" tagname="办事指南" viewid="65410" stylesysid=""--><script language="javascript" src="system/resource/js/dynclicks.js"></script><ul>
+<li><a class="c65410" href="info/1024/1524.htm" target="_blank" title="科技处联系方式">科技处联系方式</a></li>
+<li><a class="c65410" href="info/1024/1455.htm" target="_blank" title="纵向科研项目（课题）预算调整办理流程（自然科学类）">纵向科研项目（课题）预算调整办理...</a></li>
+<li><a class="c65410" href="info/1024/1454.htm" target="_blank" title="纵向外协\测试化验加工\合同审查办理流程">纵向外协\测试化验加工\合同审查办...</a></li>
+<li><a class="c65410" href="info/1024/1453.htm" target="_blank" title="纵向科研项目/合同审查办理流程">纵向科研项目/合同审查办理流程</a></li>
+<li><a class="c65410" href="info/1024/1452.htm" target="_blank" title="陕西省创新团队、科技新星申报流程">陕西省创新团队、科技新星申报流程</a></li>
+<li><a class="c65410" href="info/1009/1404.htm" target="_blank" title="西安交通大学医学部生物医学伦理审批表">西安交通大学医学部生物医学伦理审批表</a></li>
+<li><a class="c65410" href="info/1024/1267.htm" target="_blank" title="横向外协合同审查办理流程">横向外协合同审查办理流程</a></li>
+<li><a class="c65410" href="info/1024/1250.htm" target="_blank" title="科研项目劳务用工人员工资发放表">科研项目劳务用工人员工资发放表</a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u5_1524','dynclicks_u5_1455','dynclicks_u5_1454','dynclicks_u5_1453','dynclicks_u5_1452','dynclicks_u5_1404','dynclicks_u5_1267','dynclicks_u5_1250'],[1524,1455,1454,1453,1452,1404,1267,1250],"wbnews", 1135555708)</script>
+<!--#endeditable--></ul>
+<div class="side-right">
+<div class="work">
+<h2 class="work-title"><span>工作动态<a class="f-12-000" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1003" target="_blank">更多&gt;&gt;</a></span></h2>
+<ul class="work-content"><!--#begineditable contype="" name="工作动态" action="" layout="" clone="0" namechanged="0" order="6" ispublic="0" tagname="工作动态" viewid="65411" stylesysid=""--><ul>
+<li><a class="c65411" href="info/1003/1526.htm" target="_blank" title="医学部国家自然科学基金人才项目取得新成绩">医学部国家自然科学基金人才项目取得新成绩</a></li>
+<li><a class="c65411" href="info/1003/1525.htm" target="_blank" title="陈苏课题组的合作研究成果揭示肿瘤能量代谢重编程（the Warburg effect）的表观遗传调控机制">陈苏课题组的合作研究成果揭示肿瘤能量代谢重编程（the Warburg e...</a></li>
+<li><a class="c65411" href="info/1003/1513.htm" target="_blank" title="环境与疾病相关基因教育部重点实验室2019年度学术委员会会议顺利召开">环境与疾病相关基因教育部重点实验室2019年度学术委员会会议顺利...</a></li>
+<li><a class="c65411" href="info/1003/1508.htm" target="_blank" title="关于2019年度陕西省科学技术奖合作申报项目的公示通知">关于2019年度陕西省科学技术奖合作申报项目的公示通知</a></li>
+<li><a class="c65411" href="info/1003/1498.htm" target="_blank" title="SCI论文写作课程及润色平台使用通知">SCI论文写作课程及润色平台使用通知</a></li>
+<li><a class="c65411" href="info/1003/1489.htm" target="_blank" title="2019年度西安交通大学自主创新能力提升计划拟资助项目公示-医学">2019年度西安交通大学自主创新能力提升计划拟资助项目公示-医学</a></li>
+<li><a class="c65411" href="info/1003/1488.htm" target="_blank" title="一图读懂《西安交通大学科研用房配置实施办法》">一图读懂《西安交通大学科研用房配置实施办法》</a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u6_1526','dynclicks_u6_1525','dynclicks_u6_1513','dynclicks_u6_1508','dynclicks_u6_1498','dynclicks_u6_1489','dynclicks_u6_1488'],[1526,1525,1513,1508,1498,1489,1488],"wbnews", 1135555708)</script>
+<!--#endeditable--></ul></div>
+<div class="m-top-8 side-bottom">
+<h1 class="side-botton-title"><span>通知公告<a class="more" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1004" target="_blank">更多&gt;&gt;</a></span></h1>
+<ul class="side-botton-content"><!--#begineditable contype="" name="通知公告" action="" layout="" clone="0" namechanged="0" order="7" ispublic="0" tagname="通知公告" viewid="65412" stylesysid=""--><ul>
+<li><a class="c65412" href="info/1004/1517.htm" target="_blank" title="关于做好2019年中青年科技创新领军人才和重点领域创新团队推荐工作的通知">关于做好2019年中青年科技创新领军...</a></li>
+<li><a class="c65412" href="info/1004/1515.htm" target="_blank" title="陕西省科技厅关于征集与西安交通大学联合资助项目的通知">陕西省科技厅关于征集与西安交通大...</a></li>
+<li><a class="c65412" href="info/1004/1512.htm" target="_blank" title="关于申报2020年度陕西省青年科技新星的通知">关于申报2020年度陕西省青年科技新...</a></li>
+<li><a class="c65412" href="info/1004/1507.htm" target="_blank" title="关于组织申报国家重点研发计划“合成生物学”等重点专项2019年度项目的通知">关于组织申报国家重点研发计划“合...</a></li>
+<li><a class="c65412" href="info/1004/1506.htm" target="_blank" title="关于申报2020年陕西省科技计划项目的通知">关于申报2020年陕西省科技计划项目...</a></li>
+<li><a class="c65412" href="info/1004/1505.htm" target="_blank" title="关于组织教育部科技管理信息系统专家库专家遴选推荐工作的通知">关于组织教育部科技管理信息系统专...</a></li>
+<li><a class="c65412" href="info/1004/1504.htm" target="_blank" title="关于申报2019年度军队后勤开放研究项目的通知">关于申报2019年度军队后勤开放研究...</a></li>
+<li><a class="c65412" href="info/1004/1502.htm" target="_blank" title="关于使用SCI论文写作课程及润色平台的通知">关于使用SCI论文写作课程及润色平台...</a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u7_1517','dynclicks_u7_1515','dynclicks_u7_1512','dynclicks_u7_1507','dynclicks_u7_1506','dynclicks_u7_1505','dynclicks_u7_1504','dynclicks_u7_1502'],[1517,1515,1512,1507,1506,1505,1504,1502],"wbnews", 1135555708)</script>
+<!--#endeditable--></ul></div>
+<div class="work m-t-5">
+<h2 class="work-title"><span>规章制度<a class="f-12-000" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1023" target="_blank">更多&gt;&gt;</a></span></h2>
+<ul class="work-content"><!--#begineditable contype="" name="规章制度" action="" layout="" clone="0" namechanged="0" order="8" ispublic="0" tagname="规章制度" viewid="65413" stylesysid=""--><ul>
+<li><a class="c65413" href="info/1023/1334.htm" target="_blank" title="关于公布西安交通大学医学部第一届学术委员会成员名单的通知">关于公布西安交通大学医学部第一届学术委员会成员名单的通知</a></li>
+<li><a class="c65413" href="info/1023/1316.htm" target="_blank" title="关于学习贯彻《国务院关于优化科研管理提升科研绩效若干措施的通知》精神的通知">关于学习贯彻《国务院关于优化科研管理提升科研绩效若干措施的通知...</a></li>
+<li><a class="c65413" href="info/1023/1305.htm" target="_blank" title="西安交通大学进一步落实中央财政科研项目资金管理等政策的实施办法">西安交通大学进一步落实中央财政科研项目资金管理等政策的实施办法</a></li>
+<li><a class="c65413" href="info/1023/1304.htm" target="_blank" title="西安交通大学科研项目（课题）过程管理办法">西安交通大学科研项目（课题）过程管理办法</a></li>
+<li><a class="c65413" href="info/1023/1303.htm" target="_blank" title="西安交通大学纵向科研项目(课题)间接费用管理办法">西安交通大学纵向科研项目(课题)间接费用管理办法</a></li>
+<li><a class="c65413" href="info/1023/1301.htm" target="_blank" title="西安交通大学横向科研经费管理办法">西安交通大学横向科研经费管理办法</a></li>
+<li><a class="c65413" href="info/1023/1300.htm" target="_blank" title="西安交通大学促进自然科学学术繁荣的实施办法">西安交通大学促进自然科学学术繁荣的实施办法</a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u8_1334','dynclicks_u8_1316','dynclicks_u8_1305','dynclicks_u8_1304','dynclicks_u8_1303','dynclicks_u8_1301','dynclicks_u8_1300'],[1334,1316,1305,1304,1303,1301,1300],"wbnews", 1135555708)</script>
+<!--#endeditable--></ul></div>
+<div class="side-bottom m-t-5">
+<h1 class="side-botton-title1"><span>文档下载</span><a class="more" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1009" target="_blank">更多&gt;&gt;</a></h1></div></div>
+<ul class="side-botton-content"><!--#begineditable contype="" name="文档下载" action="" layout="" clone="0" namechanged="0" order="9" ispublic="0" tagname="文档下载" viewid="65414" stylesysid=""--><ul>
+<li><a class="c65414" href="info/1009/1176.htm" target="_blank" title="关于印发《西安交通大学基本科研业务费专项资金管理办法》的通知">关于印发《西安交通大学基本科研业...</a></li>
+<li><a class="c65414" href="info/1009/1167.htm" target="_blank" title="异常脑功能活动位点与连接的多模态影像学研究">异常脑功能活动位点与连接的多模态...</a></li>
+<li><a class="c65414" href="info/1009/1166.htm" target="_blank" title="生物活性小分子调控病理性心肌重构机制研究">生物活性小分子调控病理性心肌重构...</a></li>
+<li><a class="c65414" href="info/1009/1165.htm" target="_blank" title="神经性视觉损伤与修复的机制研究">神经性视觉损伤与修复的机制研究</a></li>
+<li><a class="c65414" href="info/1009/1164.htm" target="_blank" title="肠道微生态影响慢性重大炎症性肠肝疾病的机制研究”重大项目指南（2017）">肠道微生态影响慢性重大炎症性肠肝...</a></li>
+<li><a class="c65414" href="info/1009/1074.htm" target="_blank" title="西安交通大学动物实验伦理审查批准书">西安交通大学动物实验伦理审查批准书</a></li>
+<li><a class="c65414" href="info/1009/1407.htm" target="_blank" title="西安交通大学医学部生物医学伦理审批表">西安交通大学医学部生物医学伦理审批表</a></li>
+<li><a class="c65414" href="info/1009/1265.htm" target="_blank" title="西安交通大学科研合同审查登记表">西安交通大学科研合同审查登记表</a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u9_1176','dynclicks_u9_1167','dynclicks_u9_1166','dynclicks_u9_1165','dynclicks_u9_1164','dynclicks_u9_1074','dynclicks_u9_1407','dynclicks_u9_1265'],[1176,1167,1166,1165,1164,1074,1407,1265],"wbnews", 1135555708)</script>
+<!--#endeditable--></ul>
+<div class="clear"></div>
+<div class="w-980">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="960">
+<form id="form" name="form">
+<tbody>
+<tr>
+<td align="center" height="50"><!--#begineditable contype="" name="下拉链接一" action="" layout="" clone="0" namechanged="0" order="10" ispublic="0" tagname="下拉链接一" viewid="65404" stylesysid=""-->
+<script language="javascript">    
+<!--    
+    function doLinksb86iwyod2y(o)    
+    {    
+        var link=document.getElementsByName("sb86iwyod2y")[0];    
+        var index=link.selectedIndex;    
+        if (index==-1 || index>=link.options.length)    
+        {    
+          return;    
+        }    
+        var value = link.options[index].value;    
+        var obj = document.getElementById("hc4iletcd2y");    
+        obj.href = value;
+        var wburlid =link.options[index].getAttribute("aa65404aa");
+        _addDynClicks('wburl',1135555708,wburlid)
+            
+                     obj.target = "_blank"
+                    
+         if(document.all){
+          obj.click();     
+        }         
+         else 
+        { 
+          window.open(value);
+         }
+       
+       if(o.selectedIndex != 0)    
+       {    
+           o.selectedIndex = 0;    
+       }    
+    }    
+-->    
+</script>
+<table>
+<tr><td align="center">
+<span class="titlestyle65404"></span> <a id="hc4iletcd2y"></a>
+<select class="selectstyle65404" name="sb86iwyod2y" onchange="doLinksb86iwyod2y(this)">
+<option value="">-----全国高校链接-----</option>
+<option aa65404aa="12222" value="http://www.tsinghua.edu.cn" vsbhrefname="value">清华大学    
+                <option aa65404aa="12221" value="http://www.pku.edu.cn" vsbhrefname="value">北京大学    
+                <option aa65404aa="12303" value="http://www.sjtu.edu.cn" vsbhrefname="value">上海交通大学    
+                <option aa65404aa="12304" value="http://www.fudan.edu.cn" vsbhrefname="value">复旦大学    
+                </option></option></option></option></select>
+</td><tr></tr></tr></table><!--#endeditable--></td>
+<td align="center"><!--#begineditable contype="" name="下拉链接二" action="" layout="" clone="0" namechanged="0" order="11" ispublic="0" tagname="下拉链接二" viewid="65405" stylesysid=""-->
+<script language="javascript">    
+<!--    
+    function doLinksds35r14d2y(o)    
+    {    
+        var link=document.getElementsByName("sds35r14d2y")[0];    
+        var index=link.selectedIndex;    
+        if (index==-1 || index>=link.options.length)    
+        {    
+          return;    
+        }    
+        var value = link.options[index].value;    
+        var obj = document.getElementById("her2gh03d2y");    
+        obj.href = value;
+        var wburlid =link.options[index].getAttribute("aa65405aa");
+        _addDynClicks('wburl',1135555708,wburlid)
+            
+                     obj.target = "_blank"
+                    
+         if(document.all){
+          obj.click();     
+        }         
+         else 
+        { 
+          window.open(value);
+         }
+       
+       if(o.selectedIndex != 0)    
+       {    
+           o.selectedIndex = 0;    
+       }    
+    }    
+-->    
+</script>
+<table>
+<tr><td align="center">
+<span class="titlestyle65405"></span> <a id="her2gh03d2y"></a>
+<select class="selectstyle65405" name="sds35r14d2y" onchange="doLinksds35r14d2y(this)">
+<option value="">-----省内高校链接-----</option>
+<option aa65405aa="12224" value="http://www.fmmu.edu.cn" vsbhrefname="value">第四军医大学    
+                <option aa65405aa="12223" value="http://www.nwu.edu.cn" vsbhrefname="value">西北大学    
+                <option aa65405aa="12305" value="http://www.xahu.edu.cn" vsbhrefname="value">长安大学    
+                <option aa65405aa="12306" value="http://www.nwpu.edu.cn" vsbhrefname="value">西北工业大学    
+                </option></option></option></option></select>
+</td><tr></tr></tr></table><!--#endeditable--></td>
+<td align="center"><!--#begineditable contype="" name="下拉链接三" action="" layout="" clone="0" namechanged="0" order="12" ispublic="0" tagname="下拉链接三" viewid="65406" stylesysid=""-->
+<script language="javascript">    
+<!--    
+    function doLinksfl2kpy5d2y(o)    
+    {    
+        var link=document.getElementsByName("sfl2kpy5d2y")[0];    
+        var index=link.selectedIndex;    
+        if (index==-1 || index>=link.options.length)    
+        {    
+          return;    
+        }    
+        var value = link.options[index].value;    
+        var obj = document.getElementById("hg6nil0ud2y");    
+        obj.href = value;
+        var wburlid =link.options[index].getAttribute("aa65406aa");
+        _addDynClicks('wburl',1135555708,wburlid)
+            
+                     obj.target = "_blank"
+                    
+         if(document.all){
+          obj.click();     
+        }         
+         else 
+        { 
+          window.open(value);
+         }
+       
+       if(o.selectedIndex != 0)    
+       {    
+           o.selectedIndex = 0;    
+       }    
+    }    
+-->    
+</script>
+<table>
+<tr><td align="center">
+<span class="titlestyle65406"></span> <a id="hg6nil0ud2y"></a>
+<select class="selectstyle65406" name="sfl2kpy5d2y" onchange="doLinksfl2kpy5d2y(this)">
+<option value="">-----医学部链接-----</option>
+<option aa65406aa="12296" value="http://bms.xjtu.edu.cn" vsbhrefname="value">基础医学院    
+                <option aa65406aa="12295" value="http://sph.xjtu.edu.cn" vsbhrefname="value">公共卫生学院    
+                <option aa65406aa="12297" value="http://forensmed.xjtu.edu.cn" vsbhrefname="value">法医学院    
+                <option aa65406aa="12293" value="http://pharm.xjtu.edu.cn" vsbhrefname="value">药学院    
+                <option aa65406aa="12294" value="http://nursing.xjtu.edu.cn" vsbhrefname="value">护理系    
+                <option aa65406aa="12298" value="http://yxbzhb.xjtu.edu.cn" vsbhrefname="value">综合办公室    
+                <option aa65406aa="12299" value="http://hrm.xjtu.edu.cn" vsbhrefname="value">人力资源处    
+                <option aa65406aa="12300" value="http://yxbpyc.xjtu.edu.cn" vsbhrefname="value">人才培养处    
+                <option aa65406aa="12302" value="http://ygc.xjtu.edu.cn" vsbhrefname="value">医院管理处    
+                </option></option></option></option></option></option></option></option></option></select>
+</td><tr></tr></tr></table><!--#endeditable--></td>
+<td align="center"><!--#begineditable contype="" name="下拉链接四" action="" layout="" clone="0" namechanged="0" order="13" ispublic="0" tagname="下拉链接四" viewid="65407" stylesysid=""-->
+<script language="javascript">    
+<!--    
+    function doLinkshrrqu07d2y(o)    
+    {    
+        var link=document.getElementsByName("shrrqu07d2y")[0];    
+        var index=link.selectedIndex;    
+        if (index==-1 || index>=link.options.length)    
+        {    
+          return;    
+        }    
+        var value = link.options[index].value;    
+        var obj = document.getElementById("him6iun1d2y");    
+        obj.href = value;
+        var wburlid =link.options[index].getAttribute("aa65407aa");
+        _addDynClicks('wburl',1135555708,wburlid)
+            
+                     obj.target = "_blank"
+                    
+         if(document.all){
+          obj.click();     
+        }         
+         else 
+        { 
+          window.open(value);
+         }
+       
+       if(o.selectedIndex != 0)    
+       {    
+           o.selectedIndex = 0;    
+       }    
+    }    
+-->    
+</script>
+<table>
+<tr><td align="center">
+<span class="titlestyle65407"></span> <a id="him6iun1d2y"></a>
+<select class="selectstyle65407" name="shrrqu07d2y" onchange="doLinkshrrqu07d2y(this)">
+<option value="">-----公共资源链接-----</option>
+<option aa65407aa="12228" value="http://www.12306.cn" vsbhrefname="value">火车时刻    
+                <option aa65407aa="12227" value="http://www1.xbus.cn" vsbhrefname="value">西安公交    
+                <option aa65407aa="12229" value="http://m.weather.com.cn" vsbhrefname="value">天气预报    
+                <option aa65407aa="12219" value="http://map.xjtu.edu.cn:8080" vsbhrefname="value">交大地图    
+                <option aa65407aa="12220" value="http://202.117.3.96" vsbhrefname="value">电子校历    
+                </option></option></option></option></option></select>
+</td><tr></tr></tr></table><!--#endeditable--></td></tr></tbody></form></table></div>
+<div class="clear"></div>
+<div class="w-980 footer"><!--#begineditable contype="" name="版权" action="" layout="" clone="0" namechanged="0" order="14" ispublic="0" tagname="版权" viewid="65408" stylesysid=""--><p><font style="font-size: 9pt">版权所有  科学研究与学科建设处</font></p><!--#endeditable--></div><a href="http://webscan.360.cn/index/checkwebsite/url/yxbkjc.xjtu.edu.cn" name="f6c53c96b7cc2d4249e99c36518610e2"></a>
+

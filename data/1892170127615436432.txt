@@ -1,0 +1,105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>西安交通大学公派留学信息网</title><meta content="公派留学信息网" name="keywords"/>
+<link href="style/mystyle.css" rel="stylesheet" type="text/css"/><script src="js/jquerya.js" type="text/javascript"></script><script src="js/jqueryb.js" type="text/javascript"></script><!--Announced by Visual SiteBuilder 9-->
+<link href="_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230697547545257544003060005 -->
+<link href="index.vsb.css" rel="stylesheet" type="text/css"/>
+<script src="/system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1458020569)</script>
+</link></head>
+<body>
+<div class="top clearfix"><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="LOGO" viewid="204060" contentviewid="" contype="" stylesysid="" layout="" action="" name="LOGO"-->
+<div class="logo fl" style="background:url(images/logo.png) no-repeat left center;"><a href=""></a></div><!--#endeditable-->
+<div class="nav fr"><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="网站导航" viewid="204061" contentviewid="" contype="" stylesysid="" layout="" action="" name="网站导航"-->
+<ul>
+<li><a href="index.htm" title="首页">首页</a>
+<li><a href="zxdt.htm" title="最新动态">最新动态</a>
+<li><a href="cjwt.htm" title="常见问题">常见问题</a>
+<li><a href="zcgd.htm" title="政策规定">政策规定</a>
+<li><a href="zlxz.htm" title="资料下载">资料下载</a>
+</li></li></li></li></li></ul><!--#endeditable--> </div></div><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="图片列表" viewid="204062" contentviewid="" contype="" stylesysid="" layout="" action="" name="图片列表"--> <script language="javascript" src="/system/resource/js/dynclicks.js"></script><div class="slideBox" id="slideBox">
+<div class="hd">
+<ul>
+<li class=""></li>
+<li class=""></li>
+<li class=""></li>
+<li class=""></li>
+<li class=""></li>
+</ul>
+</div>
+<div class="bd">
+<ul>
+<li><a href="" onclick='_addDynClicks("wbimage", 1458020569, 41431)' title=""><img src="images/banner.png" width="100%"/></a></li>
+<li><a href="" onclick='_addDynClicks("wbimage", 1458020569, 41430)' title=""><img src="images/banner.png" width="100%"/></a></li>
+<li><a href="" onclick='_addDynClicks("wbimage", 1458020569, 41429)' title=""><img src="images/banner.png" width="100%"/></a></li>
+<li><a href="" onclick='_addDynClicks("wbimage", 1458020569, 41428)' title=""><img src="images/banner.png" width="100%"/></a></li>
+<li><a href="" onclick='_addDynClicks("wbimage", 1458020569, 41427)' title=""><img src="images/banner.png" width="100%"/></a></li>
+</ul>
+</div>
+</div><!--#endeditable--> <script type="text/javascript">
+		jQuery(".slideBox").slide({mainCell:".bd ul",autoPlay:true});
+		</script>
+<div class="main1_all">
+<div class="main1 clearfix"><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="图片链接" viewid="204063" contentviewid="" contype="" stylesysid="" layout="" action="" name="图片链接"-->
+<div class="ite fl">
+<a class="a1" href="zxdt.htm" onclick='_addDynClicks("wbimage", 1458020569, 41432)' title="最新动态">最新动态</a>
+<div class="pic1"><a class="a2" href="zxdt.htm" onclick='_addDynClicks("wbimage", 1458020569, 41432)' title="最新动态"><img src="images/l1.png"/></a></div>
+<div class="sp1"></div>
+</div>
+<div class="ite fl">
+<a class="a1" href="cjwt.htm" onclick='_addDynClicks("wbimage", 1458020569, 41433)' title="常见问题">常见问题</a>
+<div class="pic1"><a class="a2" href="cjwt.htm" onclick='_addDynClicks("wbimage", 1458020569, 41433)' title="常见问题"><img src="images/l2.png"/></a></div>
+<div class="sp2"></div>
+</div>
+<div class="ite fl">
+<a class="a1" href="zcgd.htm" onclick='_addDynClicks("wbimage", 1458020569, 41434)' title="政策规定">政策规定</a>
+<div class="pic1"><a class="a2" href="zcgd.htm" onclick='_addDynClicks("wbimage", 1458020569, 41434)' title="政策规定"><img src="images/l3.png"/></a></div>
+<div class="sp3"></div>
+</div>
+<div class="ite fl">
+<a class="a1" href="zlxz.htm" onclick='_addDynClicks("wbimage", 1458020569, 41435)' title="资料下载">资料下载</a>
+<div class="pic1"><a class="a2" href="zlxz.htm" onclick='_addDynClicks("wbimage", 1458020569, 41435)' title="资料下载"><img src="images/l4.png"/></a></div>
+<div class="sp4"></div>
+</div>
+<!--#endeditable--> </div></div>
+<div class="main2_all">
+<div class="main2 clearfix">
+<div class="main2_left fl"><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="文字链接列表" viewid="204064" contentviewid="" contype="" stylesysid="" layout="" action="" name="文字链接列表"--><script language="javascript" src="/system/resource/js/openlink.js"></script><a href="yqlj.htm" onclick='_addDynClicks("wburl", 1458020569, 40343)' target="_blank" title="">友情链接</a>
+|
+<a href="lxdh.htm" onclick='_addDynClicks("wburl", 1458020569, 40344)' target="_blank" title="">常用电话</a>
+<!--#endeditable--> </div>
+<div class="main2_right fr"><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="全文检索" viewid="204065" contentviewid="" contype="" stylesysid="" layout="" action="" name="全文检索"--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode204065').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword204065").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword204065").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword204065").value = base64.encode(document.getElementById("lucenenewssearchkeyword204065").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode204065"));
+        return true;
+    } 
+</script>
+<form action="sousuo.jsp?wbtreeid=1001" id="au5a" method="post" name="au5a" onsubmit="return _nl_ys_check()" style="display: inline">
+<input id="lucenenewssearchkeyword204065" name="lucenenewssearchkeyword" type="hidden" value=""/><input id="_lucenesearchtype204065" name="_lucenesearchtype" type="hidden" value="1"/><input id="searchScope204065" name="searchScope" type="hidden" value="0"/>
+<input class="ip_txt" id="showkeycode204065" name="showkeycode"/>
+<input align="absmiddle" class="ip_but" src="images/tm.png" type="image"/>
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable--> </div></div></div>
+<div class="foot"><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="版权" viewid="204066" contentviewid="" contype="" stylesysid="" layout="" action="" name="版权"--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>版权所有：西安交通大学研究生院  地址：陕西省西安市咸宁西路28号 邮编：710049   制作：西安交通大学软件学院</p><!--#endeditable--> </div>
+</body></html>

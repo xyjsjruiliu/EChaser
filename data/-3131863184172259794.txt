@@ -1,0 +1,241 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html><head><title>科研动态-西安交大新闻网</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="CSS:AloeR@BMY,美工设计:阿颖" name="author"/>
+<meta content="西安交通大学 新闻网XJTUNEWS" name="description"/><link href="../AloeR/AloeR_news.css" rel="stylesheet" type="text/css"/><script language="JavaScript" src="../AloeR/AloeR_news.js" type="text/JavaScript"></script>
+<!--Announced by Visual SiteBuilder 9-->
+<link href="../_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230697547545255564203030000 -->
+<link href="../erji.vsb.css" rel="stylesheet" type="text/css"/>
+<meta content="西安交大新闻网" name="keywords">
+<script src="../system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1004,'/erji.jsp',-1,1025023737)</script>
+</meta></link></head>
+<body>
+<div class="i_top">
+<div class="i_top_xjtu"><!--#begineditable "交大LOGO" name="交大LOGO" viewid="43031" tagname="交大LOGO" contype="" stylesysid="" clone="0"--><table border="0" cellpadding="0" cellspacing="0"><tr><td><img alt="/AloeR/i_top_xjtu.jpg" border="0" src="../AloeR/i_top_xjtu.jpg"/></td></tr></table><!--#endeditable--></div>
+<div class="i_top_news"><!--#begineditable "新闻网logo" name="新闻网logo" viewid="43060" tagname="新闻网logo" contype="" stylesysid="" clone="0"-->
+<script language="javascript" src="../system/resource/js/dynclicks.js"></script>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img border="0" height="85" hspace="3" src="../newindex/pic/i_top_news.jpg" vspace="2" width="340"/></td>
+</tr>
+</table><!--#endeditable--></div>
+<div class="i_top_right" style="padding-top:20px">
+<div class="i_top_datett"><script language="JavaScript" src="../AloeR/datatime.js" type="text/javascript"></script>| <a class="i_white" href="http://xiaoli.xjtu.edu.cn" target="_blank">电子校历
+
+</a></div>
+<div class="i_top_writesq" style="float:right;width:112px"><a class="i_white" href="http://202.117.3.237:8080/system/contribute/login.jsp" target="_blank"><img height="51" src="../images/xwtg_r2_c2.jpg" width="112"/></a></div></div>
+</div>
+<div class="i_menu"><!--#begineditable "网站导航" name="网站导航" viewid="43061" tagname="网站导航" contype="" stylesysid="" clone="0"--> <div class="i_menu_home">
+<a class="i_home" href="../index.htm">新闻网首页</a>
+<a class="i_home" href="http://www.xjtu.edu.cn" target="_blank">交大首页</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../zyxw.htm">主页新闻</a>
+<a class="i_menu" href="../zhxw.htm">综合新闻</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../jyjx.htm">教育教学</a>
+<a class="i_menu" href="../kydt.htm">科研动态</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../wshd.htm">外事活动</a>
+<a class="i_menu" href="../zsjy.htm">招生就业</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../ybdt.htm">院部动态</a>
+<a class="i_menu" href="../dcsy.htm">多彩书院</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../xysh.htm">校园生活</a>
+<a class="i_menu" href="../syjt.htm">思源讲堂</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../rwfc.htm">人物风采</a>
+<a class="i_menu" href="../xyzs.htm">校友之声</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../ylzx.htm">医疗在线</a>
+<a class="i_menu" href="../shfw.htm">社会服务</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../mtjd.htm">媒体交大</a>
+<a class="i_menu" href="../xwzh.htm">新闻纵横</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../xwzt.htm">新闻专题</a>
+<a class="i_menu" href="../tpxw.htm">图片新闻</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../spjd.htm">视频交大</a>
+<a class="i_menu" href="../llyd.htm">理论园地</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../xxyg.htm">信息预告</a>
+<a class="i_menu" href="../xysb.htm">校园随笔</a>
+</div>
+<!--#endeditable--></div>
+<div class="i_menu_bottom"> </div>
+<div class="pw">
+<div class="i_left">
+<div class="l_location"><!--#begineditable "当前位置" name="当前位置" viewid="43063" tagname="当前位置" contype="" stylesysid="" clone="0"-->
+<table cellpadding="0" cellspacing="0" class="winstyle43063"><tr><td nowrap="">
+<a href="../index.htm"><span class="fontstyle43063">新闻网首页</span></a><span class="splitflagstyle43063"> &gt; </span><a href="../kydt.htm"><span class="fontstyle43063">科研动态</span></a></td></tr></table><!--#endeditable--></div></div></div></body></html>
+<div class="l_split"> </div><!--#begineditable "静态翻页列表" name="静态翻页列表" viewid="42986" tagname="静态翻页列表" contype="" stylesysid="" clone="0"-->
+<div class="l_li" id="lineu4_0" style="display:none"><a class="i_li" href="../info/1004/4727.htm" title="基金委紧急启动22个防治“非典型肺炎”基础研究项目">基金委紧急启动22个防治“非典型肺炎”基础研究项目</a> <cite>[2003-05-14 00:00:00]</cite></div>
+<div class="l_li" id="lineu4_1" style="display:none"><a class="i_li" href="../info/1004/4725.htm" title="征集“国家自然科学基金法研究”软课题研究单位启事">征集“国家自然科学基金法研究”软课题研究单位启事</a> <cite>[2003-05-14 00:00:00]</cite></div>
+<div class="l_li" id="lineu4_2" style="display:none"><a class="i_li" href="../info/1004/4724.htm" title="８６３计划设立“非典型肺炎防治关键技术及产品研制”">８６３计划设立“非典型肺炎防治关键技术及产品研制”</a> <cite>[2003-05-13 00:00:00]</cite></div>
+<div class="l_li" id="lineu4_3" style="display:none"><a class="i_li" href="../info/1004/4723.htm" title="我校校友留美学者傅四东等发现了一个新基因">我校校友留美学者傅四东等发现了一个新基因</a> <cite>[2003-05-13 00:00:00]</cite></div>
+<div class="l_li" id="lineu4_4" style="display:none"><a class="i_li" href="../info/1004/4722.htm" title="基金委首期拔款600万元,重点资助非典病原体生物学特性科研攻关">基金委首期拔款600万元,重点资助非典病原体生物学特性科研攻关</a> <cite>[2003-05-12 00:00:00]</cite></div>
+<div class="l_li" id="lineu4_5" style="display:none"><a class="i_li" href="../info/1004/4721.htm" title="理学院成立“ＳＡＲＳ”流行趋势预测研究攻关项目组">理学院成立“ＳＡＲＳ”流行趋势预测研究攻关项目组</a> <cite>[2003-05-09 00:00:00]</cite></div>
+<div class="l_li" id="lineu4_6" style="display:none"><a class="i_li" href="../info/1004/4720.htm" title="我校科技处紧急启动SARS研究培植计划项目">我校科技处紧急启动SARS研究培植计划项目</a> <cite>[2003-05-07 00:00:00]</cite></div>
+<div class="l_li" id="lineu4_7" style="display:none"><a class="i_li" href="../info/1004/4718.htm" title="关于申报2003年度西安交通大学科学技术奖的说明">关于申报2003年度西安交通大学科学技术奖的说明</a> <cite>[2003-05-05 00:00:00]</cite></div>
+<div class="l_li" id="lineu4_8" style="display:none"><a class="i_li" href="../info/1004/4715.htm" title="我校兼职教授陆祖宏等人在非典研究中的重大进展：空气">我校兼职教授陆祖宏等人在非典研究中的重大进展：空气</a> <cite>[2003-05-04 00:00:00]</cite></div>
+<div class="l_li" id="lineu4_9" style="display:none"><a class="i_li" href="../info/1004/4714.htm" title="郑大非典攻关组宣布　SARS可能早已独立存在">郑大非典攻关组宣布　SARS可能早已独立存在</a> <cite>[2003-05-03 00:00:00]</cite></div>
+<div class="l_li" id="lineu4_10" style="display:none"><a class="i_li" href="../info/1004/4713.htm" title="《科学》：非典病毒并非已知冠状病毒变种">《科学》：非典病毒并非已知冠状病毒变种</a> <cite>[2003-05-02 00:00:00]</cite></div>
+<div class="l_li" id="lineu4_11" style="display:none"><a class="i_li" href="../info/1004/4712.htm" title="我国专家完成冠状病毒全基因序列测定">我国专家完成冠状病毒全基因序列测定</a> <cite>[2003-04-20 00:00:00]</cite></div>
+<div class="l_li" id="lineu4_12" style="display:none"><a class="i_li" href="../info/1004/4711.htm" title="国家自然科学基金委员会中德科学基金交流中心主任来我校作报告">国家自然科学基金委员会中德科学基金交流中心主任来我校作报告</a> <cite>[2003-04-15 00:00:00]</cite></div>
+<div class="l_li" id="lineu4_13" style="display:none"><a class="i_li" href="../info/1004/4756.htm" title="关于推荐申报2003年度陕西省科学技术奖的通知">关于推荐申报2003年度陕西省科学技术奖的通知</a> <cite>[2003-04-14 00:00:00]</cite></div>
+<div class="l_li" id="lineu4_14" style="display:none"><a class="i_li" href="../info/1004/4754.htm" title="全国高校机械设计制造及自动化专业2003年年会召开">全国高校机械设计制造及自动化专业2003年年会召开</a> <cite>[2003-04-10 00:00:00]</cite></div>
+<div class="l_li" id="lineu4_15" style="display:none"><a class="i_li" href="../info/1004/4752.htm" title="西部最大的国家大学科技园在西安开园">西部最大的国家大学科技园在西安开园</a> <cite>[2003-04-10 00:00:00]</cite></div>
+<div class="l_li" id="lineu4_16" style="display:none"><a class="i_li" href="../info/1004/4750.htm" title="全国高校机械设计制造及自动化专业2003年年会召开">全国高校机械设计制造及自动化专业2003年年会召开</a> <cite>[2003-04-10 00:00:00]</cite></div>
+<div class="l_li" id="lineu4_17" style="display:none"><a class="i_li" href="../info/1004/98315.htm" title="西安交大国家大学科技园隆重举行新区开园典礼">西安交大国家大学科技园隆重举行新区开园典礼</a> <cite>[2003-04-09 00:00:00]</cite></div>
+<div class="l_li" id="lineu4_18" style="display:none"><a class="i_li" href="../info/1004/4747.htm" title="交大博源高技术论坛－西安交大与陕西IT企业的高峰论坛">交大博源高技术论坛－西安交大与陕西IT企业的高峰论坛</a> <cite>[2003-04-08 00:00:00]</cite></div>
+<div class="l_li" id="lineu4_19" style="display:none"><a class="i_li" href="../info/1004/4745.htm" title="我校自主研制的大化肥尿素装置 CO2压缩机组在安庆石化">我校自主研制的大化肥尿素装置 CO2压缩机组在安庆石化</a> <cite>[2003-04-05 00:00:00]</cite></div>
+<div class="l_li" id="lineu4_20" style="display:none"><a class="i_li" href="../info/1004/4744.htm" title="2001—2002年度陕西省科学技术奖我校获奖44项">2001—2002年度陕西省科学技术奖我校获奖44项</a> <cite>[2003-04-01 00:00:00]</cite></div>
+<div class="l_li" id="lineu4_21" style="display:none"><a class="i_li" href="../info/1004/4743.htm" title="CFD软件应用讲座的通知">CFD软件应用讲座的通知</a> <cite>[2003-03-27 00:00:00]</cite></div>
+<div class="l_li" id="lineu4_22" style="display:none"><a class="i_li" href="../info/1004/4742.htm" title="我校率先被批准加入国际工业设计学会">我校率先被批准加入国际工业设计学会</a> <cite>[2003-03-26 00:00:00]</cite></div>
+<div class="l_li" id="lineu4_23" style="display:none"><a class="i_li" href="../info/1004/4741.htm" title='"科学与中国"院士专家巡讲团巡讲题目'>"科学与中国"院士专家巡讲团巡讲题目</a> <cite>[2003-03-25 00:00:00]</cite></div>
+<div class="l_li" id="lineu4_24" style="display:none"><a class="i_li" href="../info/1004/4740.htm" title="探索心脏电活动的奥秘——记黄诒焯教授的报告">探索心脏电活动的奥秘——记黄诒焯教授的报告</a> <cite>[2003-03-25 00:00:00]</cite></div>
+<div class="l_li" id="lineu4_25" style="display:none"><a class="i_li" href="../info/1004/4738.htm" title="两院院士张光斗先生对社科版两篇文章的评论">两院院士张光斗先生对社科版两篇文章的评论</a> <cite>[2003-03-20 00:01:25]</cite></div>
+<div class="l_li" id="lineu4_26" style="display:none"><a class="i_li" href="../info/1004/4737.htm" title="两院院士张光斗先生对社科版两篇文章的评论">两院院士张光斗先生对社科版两篇文章的评论</a> <cite>[2003-03-10 00:01:25]</cite></div>
+<div class="l_li" id="lineu4_27" style="display:none"><a class="i_li" href="../info/1004/4736.htm" title="为“造口人”恢复生活自信">为“造口人”恢复生活自信</a> <cite>[2003-02-27 00:01:25]</cite></div>
+<div class="l_li" id="lineu4_28" style="display:none"><a class="i_li" href="../info/1004/4735.htm" title="我校与台湾士林电机集团签订科技合作合同4项">我校与台湾士林电机集团签订科技合作合同4项</a> <cite>[2003-02-26 00:01:25]</cite></div>
+<div class="l_page"><form method="GET" name="a42986" style="display: inline"><input name="actiontype" type="hidden" value=""/><input name="_scode_" type="hidden" value="1547715472016"/><input name="urltype" type="hidden" value="tree.TreeTempUrl"/><input name="wbtreeid" type="hidden" value="1004"/><input name="startnum" type="hidden" value="2042"/><input name="endnum" type="hidden" value="2100"/><input name="queryParam" type="hidden" value="urltype=tree.TreeTempUrl&amp;wbtreeid=1004"/><style type="text/css">.headStyle1b321ysgg8, .headStyle1b321ysgg8 td, .headStyle1b321ysgg8 div {font-size: 12px;font-family:宋体;color: #000000; margin-left: auto; margin-right: auto; line-height:14px;}.defaultButtonStyle {font-size: 12px;font-family:宋体;height:20px;color: #000000;BORDER: #AFD5F5 1px solid; margin: 0px;padding: 0px; FILTER:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#ffffff, EndColorStr=#BDDBF7);  CURSOR: hand; line-height:14px;}.defaultinputStyle {font-size: 12px;font-family:宋体;height:20px; border:1px solid #AFD5F5; line-height:14px;}.colHeader {font-size: 12px;font-family:宋体;line-height:14px;}.headStyle1b321ysgg8 a, .pageList .this-page {font-size: 12px;font-family:宋体;display:inline-block;height:14px; padding: 2px 4px; border: solid 1px #AFD5F5; background: #fff; text-decoration: none; MARGIN-RIGHT: 1px;line-height:14px;}.headStyle1b321ysgg8 a:visited {font-size: 12px;font-family:宋体;color: #000000; text-decoration: none; line-height:14px;}.headStyle1b321ysgg8 .PrevDisabled {font-size: 12px;font-family:宋体;display:inline-block; height:14px;  margin-right: 3px; padding: 2px 4px; background: #fff; color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}.headStyle1b321ysgg8 .SelectList {font-size: 12px;font-family:宋体;height:16px;line-height:14px;}.headStyle1b321ysgg8 .Prev { font-size: 12px;font-family:宋体;margin-right: 3px; padding: 2px 4px;line-height:14px;}.headStyle1b321ysgg8 .break {font-size: 12px;font-family:宋体; border: none; text-decoration: none; line-height:14px;}.headStyle1b321ysgg8 .NextDisabled { font-size: 12px;font-family:宋体;display:inline-block; height:14px; margin-left: 2px; padding: 2px 4px;background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}.headStyle1b321ysgg8 .Next { font-size: 12px;font-family:宋体; margin-left: 2px; padding: 2px 4px;line-height:14px;}.headStyle1b321ysgg8 .this-page {font-size: 12px;font-family:宋体;display:inline-block; height:14px;padding: 2px 4px; border: solid 1px #AFD5F5; background: #E1F0FD; font-weight: bold; color:black; MARGIN-RIGHT: 1px;line-height:14px;}.headStyle1b321ysgg8 a:hover {font-size: 12px;font-family:宋体;color: black; background: #EFF7FE; border-color: #AFD5F5; text-decoration: none;line-height:14px;}.headStyle1b321ysgg8 a:link {font-size: 12px;font-family:宋体;color: #000000; text-decoration: none;line-height:14px;}.headStyle1b321ysgg8 a:active { font-size: 12px;font-family:宋体;color: black; text-decoration: none; background: #bddbf7; line-height:14px;}
+</style><script language="javascript" src="../system/resource/js/gotopage.js"></script><script type="text/javascript">function a42986_gopage_fun(){_simple_list_gotopage_fun(72,'a42986GOPAGE',2)}</script><table border="0" cellpadding="0" cellspacing="0"><tr><td colspan="0"><table cellpadding="1" cellspacing="0" class="headStyle1b321ysgg8" width="100%"><tr valign="middle"><td align="left" id="fanyeu4" nowrap="" width="1%">共2071条  72/72 </td><td align="left" nowrap=""><div><a class="Prev" href="../kydt.htm">首页</a><a class="Prev" href="2.htm">上页</a><span class="NextDisabled">下页</span><span class="NextDisabled">尾页</span>  <input align="absmiddle" class="defaultButtonStyle" id="gotopagebut" name="a42986Find" onclick="javascript:a42986_gopage_fun()" type="button" value="转到"/><input align="absmiddle" class="defaultInputStyle" id="a42986GOPAGE" name="a42986GOPAGE" size="2" style="margin-left:1px;margin-right:1px" value=""/>页</div></td></tr></table></td></tr></table></form></div>
+<script language="javascript">
+    document.write("<s"+"cript type='text/javascript' src='/kydt/statlist.js?d=" + escape(new Date().toUTCString()) + "'></scr"+"ipt>");
+    document.write("<s"+"cript type='text/javascript' src='/system/resource/js/news/statpagedown.js'></scr"+"ipt>");
+</script>
+<script language="javascript">
+    var size = 29;//文章条数
+    var pageNums = 29;//每页文章条数(默认10条)
+    var oldrowcount = 2071;
+    var oldnowpage = 72;
+    var oldtotal = 72;
+    try{showStaticList('u4', size, pageNums, pageCount, rowCount, oldrowcount, oldnowpage, oldtotal);}catch(e){}
+</script>
+<script>_showDynClickBatch(['dynclicks_u4_4727','dynclicks_u4_4725','dynclicks_u4_4724','dynclicks_u4_4723','dynclicks_u4_4722','dynclicks_u4_4721','dynclicks_u4_4720','dynclicks_u4_4718','dynclicks_u4_4715','dynclicks_u4_4714','dynclicks_u4_4713','dynclicks_u4_4712','dynclicks_u4_4711','dynclicks_u4_4756','dynclicks_u4_4754','dynclicks_u4_4752','dynclicks_u4_4750','dynclicks_u4_98315','dynclicks_u4_4747','dynclicks_u4_4745','dynclicks_u4_4744','dynclicks_u4_4743','dynclicks_u4_4742','dynclicks_u4_4741','dynclicks_u4_4740','dynclicks_u4_4738','dynclicks_u4_4737','dynclicks_u4_4736','dynclicks_u4_4735'],[4727,4725,4724,4723,4722,4721,4720,4718,4715,4714,4713,4712,4711,4756,4754,4752,4750,98315,4747,4745,4744,4743,4742,4741,4740,4738,4737,4736,4735],"wbnews", 1025023737)</script>
+<!--#endeditable-->
+<div class="clear"> </div>
+<div class="i_right">
+<div class="i_search">
+<!--#begineditable contype="" name="全文检索" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="全文检索" viewid="65621" stylesysid=""--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode65621').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword65621").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword65621").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword65621").value = base64.encode(document.getElementById("lucenenewssearchkeyword65621").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode65621"));
+        return true;
+    } 
+</script>
+<form action="../ssjgy.jsp?wbtreeid=1004" id="au5a" method="post" name="au5a" onsubmit="return _nl_ys_check()" style="display: inline">
+<input id="lucenenewssearchkeyword65621" name="lucenenewssearchkeyword" type="hidden" value=""/><input id="_lucenesearchtype65621" name="_lucenesearchtype" type="hidden" value="1"/><input id="searchScope65621" name="searchScope" type="hidden" value="0"/>
+<div>
+<table border="0" cellpadding="0" cellspacing="1">
+<tr>
+<td height="20px">
+<input id="showkeycode65621" name="showkeycode" style="height:20px;width:136px"/>
+</td>
+<td width="5px"> </td>
+<td align="absmiddle" height="1" nowrap="nowrap">
+<input align="absmiddle" src="../i_search_btn.jpg" style="cursor: hand" type="image" valign="bottom"/>
+</td>
+<td width="5px"> </td>
+<td align="absmiddle" class="i_search_left" nowrap="nowrap"><a "arial";="" background:="" center="" href="../index/gjjs.htm" no-repeat="" style="font-family:" top;="" url(i_body_bg.jpg)="" 宋体",="">高级搜索</a></td>
+</tr>
+</table>
+</div>
+</form>
+<script language="javascript" src="../system/resource/js/base64.js"></script><script language="javascript" src="../system/resource/js/formfunc.js"></script>
+<!--#endeditable-->
+</div>
+<div class="split"> </div>
+<div class="split"> </div>
+<div class="l_redian"><span class="l_redian">信息预告</span> <a class="l_redian_more" href="../xxyg.htm" target="_blank">更多</a>
+<div class="clear"> </div></div>
+<div class="l_redian_con"><!--#begineditable "信息预告" name="信息预告" viewid="42987" tagname="信息预告" contype="" stylesysid="" clone="0"--> <div class="l_redian_li"><a class="i_li" href="../info/1017/105571.htm" title="央视《开讲啦》12月30日11时播出王树国校长专场">·央视《开讲啦》12月30日11时播出王...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../info/1017/104328.htm" title="西安交大庆祝改革开放40周年合唱汇演直播预告">·西安交大庆祝改革开放40周年合唱汇...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../info/1017/103952.htm" title="创新港高端装备研究院院徽设计及机械学科口号、标语征集大赛">·创新港高端装备研究院院徽设计及机...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../info/1017/103524.htm" title="世界非物质文化遗产——西安鼓乐“东仓鼓乐社”走进西安交通大学专场音乐会">·世界非物质文化遗产——西安鼓乐“...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../info/1017/103300.htm" title="西安交大庆祝改革开放40周年图片摄影书画展26日开幕">·西安交大庆祝改革开放40周年图片摄...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../info/1017/103069.htm" title="博物馆奇妙夜讲座——走近大漆艺术">·博物馆奇妙夜讲座——走近大漆艺术</a></div>
+<div class="l_redian_li"><a class="i_li" href="../info/1017/102370.htm" title="博物馆奇妙夜——中国陶艺鉴赏">·博物馆奇妙夜——中国陶艺鉴赏</a></div>
+<div class="l_redian_li"><a class="i_li" href="../info/1017/102246.htm" title="中国教育电视台8日晚播出“西迁人”爱国奋斗报告会录像">·中国教育电视台8日晚播出“西迁人”...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../info/1017/101461.htm" title="博物馆奇妙夜——校园文物展讲座：西安交通大学千年地缘文化">·博物馆奇妙夜——校园文物展讲座：...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../info/1017/101059.htm" title="中国大学MOOC走进西安交大：我的人生我做主">·中国大学MOOC走进西安交大：我的人...</a></div>
+<script>_showDynClickBatch(['dynclicks_u6_105571','dynclicks_u6_104328','dynclicks_u6_103952','dynclicks_u6_103524','dynclicks_u6_103300','dynclicks_u6_103069','dynclicks_u6_102370','dynclicks_u6_102246','dynclicks_u6_101461','dynclicks_u6_101059'],[105571,104328,103952,103524,103300,103069,102370,102246,101461,101059],"wbnews", 1025023737)</script>
+<!--#endeditable--></div>
+<div class="split"> </div>
+<div class="l_lanmu"><span class="l_redian">栏目新闻</span>  
+<div class="clear"> </div></div>
+<div class="l_redian_con"><!--#begineditable "栏目新闻" name="栏目新闻" viewid="42988" tagname="栏目新闻" contype="" stylesysid="" clone="0"--> <div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/106782.htm" title="【数说2018】新闻宣传“大放异彩”">·【数说2018】新闻宣传“大放异彩”</a></div></div></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/106769.htm" title="【改革启新程】李小跃：真抓实干 砥砺前行">·【改革启新程】李小跃：真抓实干 砥...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/106762.htm" title="第二期本科专业类教学质量提升与评估认证创新专题报告会召开">·第二期本科专业类教学质量提升与评...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/106760.htm" title="【追梦2019】西北高校教师物理实验教学研修班在西安交大举行">·【追梦2019】西北高校教师物理实验...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/106685.htm" title="一场别开生面的支部辩论赛：在思想激荡中深化立德树人内涵">·一场别开生面的支部辩论赛：在思想...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/106679.htm" title="【数看创新港】凝眸8号楼、9号楼——创新港的“点睛之笔”">·【数看创新港】凝眸8号楼、9号楼—...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/106673.htm" title="全校工会组织贴心细致做好全年教职工福利工作">·全校工会组织贴心细致做好全年教职...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/106656.htm" title="西安交大召开纪委（监委）扩大会暨纪检系统学习贯彻中纪委三次全会精神会议">·西安交大召开纪委（监委）扩大会暨...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/106319.htm" title="【数说2018】校园文化“百花齐放”">·【数说2018】校园文化“百花齐放”</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/106612.htm" title="【改革启新程】基础医学院：解放思想求突破 改革创新谋发展">·【改革启新程】基础医学院：解放思...</a></div>
+<script>_showDynClickBatch(['dynclicks_u7_106782','dynclicks_u7_106769','dynclicks_u7_106762','dynclicks_u7_106760','dynclicks_u7_106685','dynclicks_u7_106679','dynclicks_u7_106673','dynclicks_u7_106656','dynclicks_u7_106319','dynclicks_u7_106612'],[106782,106769,106762,106760,106685,106679,106673,106656,106319,106612],"wbnews", 1025023737)</script>
+<!--#endeditable-->
+<div class="i_weibo" id="div_weibo_span"><span class="i_weibo_now" id="span_weibo_1" onmousemove="switchWeibo(1);"><img align="absMiddle" src="../AloeR/i_sina.jpg"/> 新浪微博</span> <span class="i_weibo_split"> </span> <span class="i_weibo" id="span_weibo_2" onmousemove="switchWeibo(2);"><img align="absMiddle" src="../AloeR/i_toutiao.png"/> 今日头条</span> <span class="i_weibo_split"> </span> <span class="i_weibo" id="span_weibo_3" onmousemove="switchWeibo(3);"><img align="absMiddle" src="../AloeR/i_weixin.jpg"/> 微信</span> </div>
+<div class="i_weibo_con" id="div_weibo_div">
+<div class="i_weibo_detail" id="div_weibo_1" style="display: block"><img src="../pic/weibo_ewm.png"/> </div>
+<div class="i_weibo_detail" id="div_weibo_2" style="display: none"><!--#begineditable "人人网" name="人人网" viewid="43083" tagname="人人网" contype="" stylesysid="" clone="0"-->
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><a href="https://www.toutiao.com/c/user/6223492102/#mid=6223492102" onclick="_addDynClicks('wbimage',1025023737,11002)" target="_blank"><img border="0" height="190" hspace="3" src="../toutiao_ewm.png" vspace="2" width="266"/></a></td>
+</tr>
+</table><!--#endeditable--></div>
+<div class="i_weibo_detail" id="div_weibo_3" style="display: none"><!--#begineditable "微信" name="微信" viewid="43084" tagname="微信" contype="" stylesysid="" clone="0"-->
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img border="0" height="190" hspace="3" src="../02.jpg" vspace="2" width="266"/></td>
+</tr>
+</table><!--#endeditable--></div>
+<div class="clear"> </div></div>
+<div class="clear"> </div>
+<div class="clear"> </div>
+<div class="split"> </div>
+<div class="i_bottom"><!--#begineditable "底部链接" name="底部链接" viewid="42989" tagname="底部链接" contype="" stylesysid="" clone="0"--><script language="javascript" src="../system/resource/js/openlink.js"></script> <a class="i_bottom" href="http://202.117.3.237:8080/system/contribute/login.jsp">在线投稿</a>
+<strong>|</strong>
+<a class="i_bottom" href="../lxwm.htm">联系我们</a>
+<strong>|</strong>
+<a class="i_bottom" href="http://202.117.3.24:8080/system/login.jsp">管理登陆</a>
+<strong>|</strong>
+<a class="i_bottom" href="http://xwlc1.xjtu.edu.cn/">新闻流程</a>
+<!--#endeditable--><br/> <!--#begineditable "版权" name="版权" viewid="42990" tagname="版权" contype="" stylesysid="" clone="0"-->版权所有：西安交大校园文化管理办公室 网站建设：<a class="design" href="http://nic.xjtu.edu.cn">网络信息中心</a><br/>陕ICP备06008037号 网络信息中心提供网络带宽 <!--#endeditable--></div>
+

@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>欢迎访问党建学习平台</title>
+<meta content="webkit|ie-comp|ie-stand" name="renderer">
+<meta content="chrome=1,IE=edge" http-equiv="X-UA-Compatible"/>
+<!--<link rel="stylesheet" href="layer/css/layui.css">-->
+<link href="css/merge.min.css" rel="stylesheet"/>
+<script src="js/jquery.min.js"></script>
+<script src="js/handlebars-v4.0.11.js"></script>
+<script src="js/jqthumb.min.js"></script>
+<script src="js/md5.js"></script>
+<script src="js/jquery.cookie.js"></script>
+<script src="js/carousel.min.js"></script>
+<script src="layer/layer.js"></script>
+</meta></head>
+<body>
+<div class="xjdp" style="background: #fff;">
+<div id="head">
+</div>
+<!--banner-->
+<div class="plrKm">
+<div id="banner">
+<div class="carousel-content" id="carousel">
+</div>
+<div class="banner_info">
+<div class="rhomboid">
+<div class="red_hei">
+<div class="per_img_bg"></div>
+<div class="per_img" id="per_img"></div>
+</div>
+<div class="para">
+<div class="parabg">
+<div class="tel-name clearfix">
+<span class="tel" id="rname"></span>
+<span class="tname" id="tel"></span>
+</div>
+<div class="yonghu">
+<a class="yhcent" href="djnfo.html?navId=zone_index&amp;zTempId=basicInfo">用户中心</a><a onclick="loginout()">退出登录</a>
+</div>
+</div>
+</div>
+<div class="para1">
+<div class="integration">目前为止您的积分为<i class="inte" id="userPoint"></i>分</div>
+<div class="ranking">全校排名<i class="place">第<span id="experienceRanking">-</span>名</i><a href="djnfo.html?navId=zone_index&amp;zTempId=learnSelectRank">详情&gt;&gt;</a>
+</div>
+<div class="column"></div>
+</div>
+</div>
+<div class="banner_nav">
+<a class="banner_nav_a a_first" href="index.html?navId=homePage">平台首页</a>
+<a class="banner_nav_a" id="bPlatformA">平台公告</a>
+<a class="banner_nav_a" id="learningDy">学习动态</a>
+<a class="banner_nav_a" href="styudyspecial.html?navId=topicList">学习专题</a>
+<a class="banner_nav_a" href="source.html?navId=course_list">课程资源</a>
+<a class="banner_nav_a" href="study_list.html?navId=study_list">学习圈</a>
+<a class="banner_nav_a" href="djnfo.html?navId=zone_index&amp;zTempId=basicInfo">我的空间</a>
+</div>
+</div>
+</div>
+</div>
+<!--banner-->
+<!--习近平教我们的智慧-->
+<div class="plrKm">
+<div class="hotcourses">
+<div class="index_mid_per_tit_l_2">
+<!--<span class="i-m-tit">习近平教给我们的智慧</span>-->
+<span class="i-news-tit"><i>习近平</i>教给我们的智慧</span>
+</div>
+<div class="wisdom clearfix" id="wisdom"></div>
+</div>
+</div>
+<!--习近平教我们的智慧-->
+<!--最新公告/学习动态/最新计划-->
+<div class="plrKm">
+<div class="index_per clearfix">
+<div class="ku-rl">
+<div class="index_per_ku">
+<div class="index_mid_per">
+<div id="newsNotice">
+</div>
+</div>
+</div>
+<div class="index_per_ku">
+<div class="index_mid_per">
+<div id="studyDynamic">
+</div>
+</div>
+</div>
+<div class="index_per_ku">
+<div class="index_mid_per">
+<div id="latestPlan">
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--广告-->
+<div class="advertising" id="advertising"></div>
+<!--广告end-->
+</div>
+<div class="mountain-bg">
+<div class="plrKm">
+<div class="hotcourses">
+<div class="index_mid_per_tit_l_2">
+<span class="i-m-tit">DANG IIAN XUE XI PING TAI JING PIN KE CHENG</span>
+<span class="i-n-name">热门<i>课程</i></span>
+<a class="courseAll" href="courseList.html?navId=course_list&amp;type=hotCourses">查看更多&gt;&gt;</a>
+</div>
+<p class="module_left_right">
+<img alt="左键" id="_goLeft" src="images/left.png"/>
+</p>
+<p class="module_left_right_1">
+<img alt="右键" id="_goRight" src="images/right.png"/>
+</p>
+<div class="_prolist">
+<div class="_prolist_content">
+<ul id="hotscourse"></ul>
+</div>
+</div>
+</div>
+<div class="hotcourses">
+<div class="index_mid_per_tit_l_2">
+<span class="i-m-tit">DANG IIAN XUE XI PING TAI JING PIN KE CHENG</span>
+<span class="i-n-name">最新<i>课程</i></span>
+<a class="courseAll" href="courseList.html?navId=course_list&amp;type=lastCourses">查看更多&gt;&gt;</a>
+</div>
+<p class="_module_left_right">
+<img alt="左键" id="goLeft" src="images/left.png"/>
+</p>
+<p class="_module_left_right_1">
+<img alt="右键" id="goRight" src="images/right.png"/>
+</p>
+<div class="prolist">
+<div class="prolist_content">
+<ul id="newscourse"></ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="plrKm">
+<div class="hotcourses">
+<div class="index_mid_per_z_l_2">课程资源</div>
+<div class="courseresource clearfix" id="courseresource">
+</div>
+</div>
+<div class="index_per ranking clearfix">
+<div class="index_mid_per_z_l_2">排行榜</div>
+<div class="index_per clearfix">
+<div class="ku-rl resource">
+<div class="index_per_ku">
+<div class="index_mid_per">
+<div class="index_p_tit_l">人气课程</div>
+<div id="mpcourse">
+</div>
+</div>
+</div>
+<div class="index_per_ku">
+<div class="index_mid_per">
+<div class="index_p_tit_l">分党委学习排行</div>
+<div id="FDWStudyrank"></div>
+</div>
+</div>
+<div class="index_per_ku">
+<div class="index_mid_per">
+<div class="index_p_tit_l">支部学习排行</div>
+<div id="ZBStudyrank"></div>
+</div>
+</div>
+<div class="index_per_ku">
+<div class="index_mid_per">
+<div class="index_p_tit_l">个人学习排行</div>
+<div id="GRStudyrank"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer" id="footer">
+</div>
+</div>
+<script src="js/pcinfo.js"></script>
+<script src="js/common.js"></script>
+<!--模板部分-->
+<!--bannerImg-->
+<script id="carousel-template" type="text/x-handlebars-template">
+    <ul class="carousel">
+        {{#bannerImgs}}
+        <li><img src="{{host}}{{configValue}}"></li>
+        {{/bannerImgs}}
+    </ul>
+    <ul class="img-index"></ul>
+    <!--<div class="carousel-prev"><img src="images/left_btn1.png"></div>-->
+    <!--<div class="carousel-next"><img src="images/right_btn2.png"></div>-->
+</script>
+<!--bannerImgEnd-->
+<!--习近平教给我们的智慧-->
+<script id="wisdom-template" type="text/x-handlebars-template">
+    {{#data}}
+    {{#if list}}
+    {{#list}}
+    <div class="wisdom-item">
+        <div class="wisdom-item-img"><img src="{{picUrl}}"></div>
+        <div class="wisdom-item-text">
+            <a class="wisdom-item-title" href="xjplist.html?wbtreeid={{wbtreeid}}&newsId={{newsId}}">{{showTitle}}</a>
+            <div class="wisdom-item-cont">{{showAbstract}}</div>
+        </div>
+    </div>
+    {{/list}}
+    {{else}}
+    沒有数据
+    {{/if}}
+    {{/data}}
+</script>
+<!--习近平教给我们的智慧-->
+<!--最新公告-->
+<script id="newsNotice-template" type="text/x-handlebars-template">
+    <div class="index_mid_per_tit clearfix">
+        <div class="index_mid_per_tit_l">
+            <span class="index_mid_per_tit_l">最新公告</span>
+            <a id="newsN" class="more">MORE+</a>
+        </div>
+    </div>
+
+    {{#each list}}
+    <div class="index_mid_per_tit_1">
+        <a href="nDetail.html?navId=hPlatformA&newsId={{newsId}}" class="content_title">{{title}}</a>
+        <span class="index_mid_per_tit_r_1">{{createTime}}</span>
+    </div>
+    {{else}}
+    没有数据
+    {{/each}}
+</script>
+<!--学习动态-->
+<script id="studyDynamic-template" type="text/x-handlebars-template">
+    <div class="index_mid_per_tit clearfix">
+        <span class="index_mid_per_tit_l">学习动态</span>
+        <a id="studyDy" class="more">MORE+</a>
+    </div>
+    {{#each list}}
+    <div class="index_mid_per_tit_1">
+        <a href="dongtaiDetail.html?navId=hLearningDy&newsId={{newsId}}" class="content_title">{{showTitle}}</a>
+        <span class="index_mid_per_tit_r_1">{{showDate}}</span>
+    </div>
+    {{else}}
+    没有数据
+    {{/each}}
+</script>
+<!--最新计划-->
+<script id="latestPlan-template" type="text/x-handlebars-template">
+    <div class="index_mid_per_tit">
+        <span class="index_mid_per_tit_l">最新计划</span>
+        <a href="djnfo.html?navId=zone_index&zTempId=learnPlan" class="more">MORE+</a>
+    </div>
+    {{#list}}
+    <div class="index_mid_per_tit_1">
+        <a class="content_title"
+           href="djnfo.html?navId=zone_index&zTempId=learnPlan&planDetId=planDet&scheduleId={{scheduleId}}">{{scheduleName}}</a>
+        <span class="index_mid_per_tit_r_1">
+            有<font style="color:red;">{{count}}</font>人加入
+        </span>
+    </div>
+    {{else}}
+    没有数据
+    {{/list}}
+</script>
+<!--热门课程-->
+<script id="hotscourse-template" type="text/x-handlebars-template">
+    {{#each list}}
+    <li class="border_style">
+        <a class="hotsjqImg" href="course_detail.html?navId=course_list&courseId={{courseId}}">
+            <img src="{{host}}{{courseImg}}" alt="" class="imageOver"/>
+        </a>
+        <div class="coursename">{{courseName}}</div>
+    </li>
+    {{else}}
+    没有数据
+    {{/each}}
+</script>
+<!--最新课程-->
+<script id="newscourse-template" type="text/x-handlebars-template">
+    {{#each list}}
+    <li class="border_style">
+        <a class="jqImg" href="course_detail.html?navId=course_list&courseId={{courseId}}">
+            <img src="{{host}}{{courseImg}}" alt="" class="imageOver"/>
+        </a>
+        <div class="coursename">{{courseName}}</div>
+    </li>
+    {{else}}
+    没有数据
+    {{/each}}
+</script>
+<!--热门课程-->
+<!--课程资源-->
+<script id="courseresource-template" type="text/x-handlebars-template">
+    {{#each data}}
+    <a href="courseList.html?navId=course_list&courseGenreId={{courseGenreId}}"><i class="vi-icon"></i>{{courseGenreName}}</a>
+    {{/each}}
+</script>
+<!--人气课程-->
+<script id="mpcourse-template" type="text/x-handlebars-template">
+    {{#list}}
+    <div class="index_mid_sen_tit_1">
+        <a href="course_detail.html?navId=course_list&courseId={{courseId}}" class="content_title">{{addOne @index}}
+            {{courseName}}</a>
+        <span class="index_mid_per_tit_r_1">{{pv}}</span>
+    </div>
+    {{/list}}
+</script>
+<!--分党委学习排行-->
+<script id="FDWStudyrank-template" type="text/x-handlebars-template">
+    {{#list}}
+    <div class="index_mid_sen_tit_1">
+        <a class="content_title">{{addOne @index}} {{orgName}}</a>
+        <span class="index_mid_per_tit_r_1">{{experienceScore}}</span>
+    </div>
+    {{/list}}
+</script>
+<!--支部学习排行-->
+<script id="ZBStudyrank-template" type="text/x-handlebars-template">
+    {{#list}}
+    <div class="index_mid_sen_tit_1">
+        <a class="content_title">{{addOne @index}} {{orgName}}</a>
+        <span class="index_mid_per_tit_r_1">{{experienceScore}}</span>
+    </div>
+    {{/list}}
+</script>
+<!--个人学习排行-->
+<script id="GRStudyrank-template" type="text/x-handlebars-template">
+    {{#list}}
+    <div class="index_mid_sen_tit_1">
+        <a class="content_title">{{addOne @index}} {{usrName}} ({{orgName}})</a>
+        <span class="index_mid_per_tit_r_1">{{experienceScore}}</span>
+    </div>
+    {{/list}}
+</script>
+<!--模板部分-->
+<script src="js/goleft.min.js"></script>
+<script src="js/modules/home/index.js"></script>
+</body>
+</html>

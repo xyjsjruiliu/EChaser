@@ -1,0 +1,557 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<title>西安交大报-数字报</title>
+<link href="css/ys.css" rel="stylesheet" type="text/css"/>
+<script language="Javascript" src="js/prototype.js"></script>
+<script language="Javascript" src="js/range1.js"></script>
+<script language="Javascript" src="js/calendar.js"></script>
+<script language="Javascript" src="js/menu.js"></script>
+<script language="Javascript" src="js/jquery-1.9.1.min.js"></script>
+<script language="Javascript" src="js/163css.js"></script>
+<meta content="交大报,西安交大报,西安交大数字报,西安交大数字报纸 ,西安交大电子报" name="keywords">
+<meta content="交大报,西安交大报,西安交大数字报,西安交大数字报纸 ,西安交大电子报" name="description"/>
+<script type="text/javascript">
+			jQuery(document).ready(function () {
+			
+			jQuery.get("/tbpaper.do?epaper=wyBeforelist",function(data,status){ 
+					
+					jQuery("#div2").html(data);
+				});
+			var dt = new Date();
+			var iYear = dt.getFullYear();
+			var iMonth = ("0"+ (dt.getMonth())).slice(-2);
+			
+            jQuery.get('/tbpaper.do?epaper=riliShow1&year='+iYear+'&month='+iMonth,
+            function(data) {
+			jQuery("#rilishowkongjian").html(data);
+			});
+			
+			
+		});
+       
+		</script>
+<style type="text/css">
+	.bantu_img {position:relative;  top:22px; left:15px;width:402px;height:542px;z-index:99;}
+</style>
+<script type="text/javascript">
+
+         jQuery(document).ready(function () {
+			  //通版
+			if(402>403){
+			jQuery('#zhankan').click(function(){
+			jQuery('img.bantu_img').css("width","790");
+			
+			  });
+			jQuery("#shousuo").click(function(){
+            jQuery("img.bantu_img").css("width","402");
+			
+            });
+			jQuery("#tongban").show();
+			}
+			if(402<403){
+			jQuery("#tongban").hide();
+			}
+			//选框移入移出
+		   jQuery("map").mouseover(function(event){
+  
+	    rangeDeltaX =11;
+		rangeDeltaY = -60;
+		drawLine(event.target,event);
+		  });
+
+		jQuery("#sss").mouseout(function(){
+		var divElm = document.getElementById("leveldiv");
+		divElm.style.border = "";
+	
+		showTitlePane(false);
+
+		});
+		jQuery("#ttt").mouseout(function(){
+		var divElm = document.getElementById("leveldiv");
+		divElm.style.border = "";
+	
+		showTitlePane(false);
+
+		});
+
+
+               
+
+			     //日历控件
+			   	var dd = '19-10-31'.split('-');
+		
+			
+			$("#rili").html("<span  class='search_span1'>20"+dd[0]+"年"+dd[1]+"月"+dd[2]+"日</span>");
+            
+		});
+		</script>
+<script>
+
+		  function postrili(year,month) {
+            jQuery.get('/tbpaper.do?epaper=riliShow&year='+year+'&month='+month,
+         
+            function(data) {  jQuery("#rilishow").html(data) }
+            );
+        }       
+    </script>
+<script>
+		  function postrili1(year,month) {
+            jQuery.get('/tbpaper.do?epaper=riliShow1&year='+year+'&month='+month,
+         
+            function(data) {  jQuery("#rilishowkongjian").html(data) }
+            );
+        }       
+    </script>
+<script> 
+	function nf(n) { 
+	//alert($("#yf").val());
+	 var  yf = $("#yf").val();
+		 jQuery.get('/tbpaper.do?epaper=riliShow&year='+n+'&month='+yf,
+         
+            function(data) { $("#rilishow").html(data) }
+            );
+	} 
+	</script>
+<script> 
+	function yf(y) { 
+	 //alert($("#nf").val());
+	 var  nf = $("#nf").val();
+		 jQuery.get('/tbpaper.do?epaper=riliShow&year='+nf+'&month='+y,
+         
+            function(data) { $("#rilishow").html(data) }
+            );
+	} 
+	</script>
+<script> 
+	function nf1(n) { 
+	//alert($("#yf").val());
+	 var  yf = $("#yf1").val();
+		 jQuery.get('/tbpaper.do?epaper=riliShow1&year='+n+'&month='+yf,
+         
+            function(data) { $("#rilishowkongjian").html(data) }
+            );
+	} 
+	</script>
+<script> 
+	function yf1(y) { 
+	 //alert($("#nf").val());
+	 var  nf = $("#nf1").val();
+		 jQuery.get('/tbpaper.do?epaper=riliShow1&year='+nf+'&month='+y,
+         
+            function(data) { $("#rilishowkongjian").html(data) }
+            );
+	} 
+	</script>
+</meta></head>
+<body>
+<div id="myrightu18" style="position: absolute; width: 0px; visibility: visible; z-index: 1; top: 1033px; left: 1387px;">
+<img src="images/y.jpg"/>
+<script language="javascript" type="text/javascript">        
+    var imgheight_closeu18          
+    var bdyu18 = document.body;  
+    if (document.compatMode && document.compatMode != "BackCompat")
+        bdyu18 = document.documentElement;
+    else
+        bdyu18 = document.body;
+
+         
+    imgheight_closeu18=130;
+    function myloadu18()          
+    {          
+		var bdy_scrollTop = document.body.scrollTop | document.documentElement.scrollTop;
+        document.getElementById("myrightu18").style.top=bdy_scrollTop+bdyu18.clientHeight-imgheight_closeu18+"px"; 
+          
+        document.getElementById("myrightu18").style.left=bdyu18.offsetWidth-130+"px";
+          
+        mymoveu18();        
+    }          
+    function mymoveu18()          
+    {
+        try
+        {    
+			var bdy_scrollTop = document.body.scrollTop | document.documentElement.scrollTop;   
+			document.getElementById("myrightu18").style.top=bdy_scrollTop+bdyu18.clientHeight-imgheight_closeu18+100-314 + "px";       
+          
+            document.getElementById("myrightu18").style.left=bdyu18.scrollLeft+bdyu18.offsetWidth-130+100-120+"px";
+           
+            setTimeout("mymoveu18();",50)          
+        }
+        catch(e)
+        {
+        }
+    }          
+    
+    function close_float_rightu18()
+    {          
+        document.getElementById("myrightu18").style.visibility='hidden';          
+    }          
+    myloadu18();
+   
+</script>
+</div>
+<div id="ttt">
+</div><div id="leveldiv" style="z-index:100;  POSITION: absolute; pointer-events: none;"></div>
+<div class="main_02">
+<div class="logo_dt_1">
+</div>
+<div class="daoh">
+<div class="menu">
+<div class="menu_nei">
+<ul id="nav">
+<li class="top1">
+<a class="top_link" href="/"><span>数字报首页</span></a>
+</li>
+<li class="top1">
+<a class="top_link" href="" id="products"><span class="down">版面导航</span></a>
+<ul class="sub1">
+<li>
+<div onclick="window.open('index.htm','_self')"><a href="#">第01版：要闻</a></div>
+<div onclick="window.open('page_01.htm','_self')"><a href="#">第02版：专版</a></div>
+<div onclick="window.open('page_02.htm','_self')"><a href="#">第03版：专版</a></div>
+<div onclick="window.open('page_03.htm','_self')"><a href="#">第04版：综合信息</a></div>
+</li>
+</ul>
+</li>
+<li class="top1">
+<a class="top_link" href="" id="contacts"><span class="down">标题导航</span></a>
+<ul class="sub2">
+<li>
+<div onclick="window.open('index_content_002.htm','_self')" title="全面振兴中西部高等教育更好服务国家和区域经济社会发展 ">
+<div id="mp002" style="DISPLAY: inline">
+<a href="#">全面振兴中西部高等教育更好服务国家和区域经济社会发展 </a>
+</div>
+</div>
+<div onclick="window.open('index_content_000.htm','_self')" title="学校持续深化“不忘初心、牢记使命”主题教育">
+<div id="mp000" style="DISPLAY: inline">
+<a href="#">学校持续深化“不忘初心、牢记使命”主题教育</a>
+</div>
+</div>
+<div onclick="window.open('index_content_005.htm','_self')" title="我校一研究成果在《科学》发表">
+<div id="mp005" style="DISPLAY: inline">
+<a href="#">我校一研究成果在《科学》发表</a>
+</div>
+</div>
+<div onclick="window.open('index_content_006.htm','_self')" title="严如强入选国家“百千万人才工程”">
+<div id="mp006" style="DISPLAY: inline">
+<a href="#">严如强入选国家“百千万人才工程”</a>
+</div>
+</div>
+<div onclick="window.open('index_content_003.htm','_self')" title="学校召开党委常委会">
+<div id="mp003" style="DISPLAY: inline">
+<a href="#">学校召开党委常委会</a>
+</div>
+</div>
+<div onclick="window.open('index_content_001.htm','_self')" title="一流大学建设系列研讨会—2019暨中国大学校长联谊会举行">
+<div id="mp001" style="DISPLAY: inline">
+<a href="#">一流大学建设系列研讨会—2019暨中国大学校长联谊会举行</a>
+</div>
+</div>
+<div onclick="window.open('index_content_004.htm','_self')" title="空天与力学研究院入驻创新港 ">
+<div id="mp004" style="DISPLAY: inline">
+<a href="#">空天与力学研究院入驻创新港 </a>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="top1">
+<a class="top_link" href="outline.htm" id="privacy"><span>版面概览</span></a>
+</li>
+<li class="top1">
+<a class="top_link" href="/about.jsp" target="_blank"><span>联系我们</span></a>
+</li>
+<li class="shijian">
+<script type="text/javascript">
+ var today = new Date(); //新建一个Date对象
+  var date = today.getDate();//查询当月日期
+  var day = today.getDay();//查询当前星期几
+  var month = today.getMonth()+1;//查询月份
+  var year = today.getFullYear();//查询年份  
+  var hour=today.getHours();
+  var morning="";
+  if (hour>=8 & hour<=12) morning="上午好";
+  var week="";                               
+  if (day==0) week='星期日';
+  if (day==1) week='星期一';
+  if (day==2) week='星期二';
+  if (day==3) week='星期三';
+  if (day==4) week='星期四';
+  if (day==5) week='星期五';
+  if (day==6) week='星期六';
+  document.write(year+"年"+month+"月"+date+"日 "+week+" ");
+</script></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="main">
+<div style=" clear:both"></div>
+<div class="page">
+<div id="sss" style="width: 440px;height: 591px;float: left;background: url('images/bz_bg.png') no-repeat;">
+<img border="0" class="bantu_img" src="index.jpg" usemap="#Map"/>
+</div>
+<div id="tongban">
+<div class="dianji">通版阅读请点击：</div><div id="zhankan">展开通版</div> <div id="shousuo">收缩通版</div>
+</div>
+<div class="bott_1">
+<div class="b_bot">
+                       当前版：01版
+              </div>
+<div class="page_bottom">
+<a href="index.htm"><b>首版</b></a>
+<a href="#"><b>上一版</b></a>
+<a href="page_01.htm"><b>下一版</b></a>
+<a href="page_03.htm"><b>末版</b></a>
+</div>
+</div>
+</div>
+<div class="right">
+<div class="r_top">
+<div class="ss_rl"><span class="ss_rl_1">发布日期:</span><span class="ss_rl_2" id="rili"></span></div>
+<div class="search">
+<form action="/tbarticle.do?" id="Form1" method="get" name="formSearch" target="_blank">
+<input name="epaper" type="hidden" value="searchlistWy"/>
+<input name="STime" type="hidden" value=""/>
+<input name="ETime" type="hidden" value=""/>
+<div class="search_span"><select name="type" style=" font-size:12px; padding-left: 5px;border:1px solid #D0D0D0;  height:25px; float:left; width:80px;"><option selected="selected" value="1"><b>文章标题</b></option>
+<option value="2"><b>文章内容</b></option>
+<option value="3"><b>文章作者</b></option></select></div>
+<div class="search_text01">
+<input id="title" name="title" style="border:1px solid #D0D0D0;  width:172px; height:21px;  line-height:23px;float:left;" type="text"/>
+</div>
+<div class="search_bat"><input name="image" onclick="return searchSubmit();" src="images/search_btn.jpg" type="image"/></div>
+</form>
+<script type="text/javascript">
+		function searchSubmit(){
+		var title = document.getElementById("title").value;
+			if(title==''){
+				alert('搜索关键字不能为空！');
+				return false;
+			}else{
+				return true;
+			}
+		
+		}
+	</script>
+</div>
+</div>
+<div style=" clear:both;"></div>
+<div>
+<div class="bmdh">
+<div class="bmdh_title2">
+<span class="bm_dh">
+                        本版导读
+                    </span>
+<script type="text/javascript">
+						jQuery(document).ready(function(){ 
+							jQuery("#epup_1").click(function(){
+								var str_dizhi = location.href;
+								var str_1 = str_dizhi.replace(/[^0-9]/ig,"") ;
+								
+								var s;
+								var i;
+								for(i = 0; i<7;i++){
+								
+									if(str_1.charAt(i)=="2" && str_1.charAt(i+1)=="0" && str_1.charAt(i+2)=="1"){
+									
+										s = str_1.substring(i,i+8);
+									}
+								}
+								jQuery.get("/tbpaper.do?epaper=lastPaper",{epdate_1:s},function(data){
+									if(data == "0"){
+										alert("这已经是最旧一期报纸了，没有上一期了");
+									}else{
+										window.location.href =data;
+									}
+								});
+							});
+							
+						}); 
+                    </script>
+<script type="text/javascript">
+						jQuery(document).ready(function(){ 
+							jQuery("#epdown_1").click(function(){
+								
+								var str_dizhi = location.href;
+								var str_1 = str_dizhi.replace(/[^0-9]/ig,"") ;
+								
+								var s;
+								var i;
+								for(i = 0; i<7;i++){
+								
+									if(str_1.charAt(i)=="2" && str_1.charAt(i+1)=="0" && str_1.charAt(i+2)=="1"){
+									
+										s = str_1.substring(i,i+8);
+									}
+								}
+							
+								
+								jQuery.get("/tbpaper.do?epaper=nextPaper",{epdate_1:s},function(data){
+									if(data == "0"){
+										alert("这已经是最新一期报纸了，没有下一期了");
+									}else{
+										window.location.href =data;
+									}
+								});
+							});
+							
+						}); 
+                    </script>
+<span class="bm_syb" style="float:right">
+<a href="#;"><span id="epup_1">上一期</span></a>
+<a href="#;"><span id="epdown_1">下一期</span></a>
+</span>
+</div>
+<div style=" width:311px; height:470px; float:left;border: 1px solid #D5D3D3;">
+<div class="right_bqdd_top_bat" id="pre2"><img src="images/bqdd_bat_top.jpg"/></div>
+<div class="right_bqdd_text" id="titleList1" style="overflow:hidden;height:435px;">
+<ol class="list6" id="breakNewsList">
+<a class="bmdh_con_a" href="index_content_002.htm">全面振兴中西部高等教育更好服务国家和区域经济社会发展 </a>
+<a class="bmdh_con_a" href="index_content_000.htm">学校持续深化“不忘初心、牢记使命”主题教育</a>
+<a class="bmdh_con_a" href="index_content_005.htm">我校一研究成果在《科学》发表</a>
+<a class="bmdh_con_a" href="index_content_006.htm">严如强入选国家“百千万人才工程”</a>
+<a class="bmdh_con_a" href="index_content_003.htm">学校召开党委常委会</a>
+<a class="bmdh_con_a" href="index_content_001.htm">一流大学建设系列研讨会—2019暨中国大学校长联谊会举行</a>
+<a class="bmdh_con_a" href="index_content_004.htm">空天与力学研究院入驻创新港 </a>
+</ol>
+</div>
+<div class="right_bqdd_bottom_bat" id="next2"><img src="images/bqdd_bat_bottom.jpg"/></div>
+</div>
+</div>
+<div class="bmml">
+<div class="bmml_title">
+<span class="bm_dh">
+                        版面导航
+                    </span>
+</div>
+<div style="width:230px; height:470px; float:left; border: 1px solid #D5D3D3; ">
+<div class="right_bmml_top_bat" id="pre12"><img src="images/bmml_bat_top.jpg"/></div>
+<div class="right_bmml_text" id="titleList1" style="overflow:hidden;height:435px;">
+<ol class="list6" id="breakNewsList1">
+<div class="bmml_con_div">
+<a class="bmml_con_div_name" href="index.htm">第01版：要闻</a>
+<a class="bmml_con_div_pic" href="f542d0518de5c617b9d8c53b4eef35e5.pdf"><img src="images/banmian_icon.png"/></a>
+</div>
+<div class="bmml_con_div">
+<a class="bmml_con_div_name" href="page_01.htm">第02版：专版</a>
+<a class="bmml_con_div_pic" href="c2bd032a8ce2cb041263fcca17f1252d.pdf"><img src="images/banmian_icon.png"/></a>
+</div>
+<div class="bmml_con_div">
+<a class="bmml_con_div_name" href="page_02.htm">第03版：专版</a>
+<a class="bmml_con_div_pic" href="7dfffd5c0debf0d848d8c6deec133e89.pdf"><img src="images/banmian_icon.png"/></a>
+</div>
+<div class="bmml_con_div">
+<a class="bmml_con_div_name" href="page_03.htm">第04版：综合信息</a>
+<a class="bmml_con_div_pic" href="8785385533dbdcc3936f1080106ce77d.pdf"><img src="images/banmian_icon.png"/></a>
+</div>
+</ol>
+</div>
+<div class="right_bmml_bottom_bat" id="next12"><img src="images/bmml_bat_bottom.jpg"/></div></div>
+<script language="javascript" type="text/javascript">
+
+	var scroll2 = new ScrollText("breakNewsList","pre2","next2",true,50,true);
+
+	scroll2.LineHeight = 103;
+
+	</script>
+<script language="javascript" type="text/javascript">
+
+	var scroll2 = new ScrollText("breakNewsList1","pre12","next12",true,50,true);
+
+	scroll2.LineHeight = 103;
+
+	</script>
+</div>
+</div>
+</div>
+<div class="guanggao">
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" height="145" id="FlashID" width="1000">
+<param name="movie" value="images/zj.swf"/>
+<param name="quality" value="high"/>
+<param name="wmode" value="opaque"/>
+<param name="swfversion" value="8.0.35.0"/>
+<!-- 此 param 标签提示使用 Flash Player 6.0 r65 和更高版本的用户下载最新版本的 Flash Player。如果您不想让用户看到该提示，请将其删除。 -->
+<param name="expressinstall" value="Scripts/expressInstall.swf"/>
+<!-- 下一个对象标签用于非 IE 浏览器。所以使用 IECC 将其从 IE 隐藏。 -->
+<!--[if !IE]>-->
+<object data="images/zj.swf" height="145" type="application/x-shockwave-flash" width="1000">
+<!--<![endif]-->
+<param name="quality" value="high"/>
+<param name="wmode" value="opaque"/>
+<param name="swfversion" value="8.0.35.0"/>
+<param name="expressinstall" value="Scripts/expressInstall.swf"/>
+<!-- 浏览器将以下替代内容显示给使用 Flash Player 6.0 和更低版本的用户。 -->
+<div>
+<h4>此页面上的内容需要较新版本的 Adobe Flash Player。</h4>
+<p><a href="http://www.adobe.com/go/getflashplayer"><img alt="获取 Adobe Flash Player" height="33" src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" width="112"/></a></p>
+</div>
+<!--[if !IE]>-->
+</object>
+<!--<![endif]-->
+</object>
+</div>
+<div class="sy_xia">
+<div class="wq_ll">
+<div class="wq_tit"><span><a href="/list.jsp" style="color:#fff;">往期浏览</a></span>
+<a class="more" href="/list.jsp"><b>更多&gt;&gt;</b></a></div>
+<div class="guowang_wy" id="div2">
+<div class="wqll_div01">
+<div class="wqll_div01_img"><img height="225" src="images/wp_pic01.jpg" width="161"/></div>
+<div class="wqll_div02_span">【第923期】</div>
+<div class="wqll_div02_span">2017年02月03日</div>
+<div class="wqll_div02_bat"><a href=""><img height="20" src="images/xz.jpg" width="66"/></a></div>
+</div>
+<div class="wqll_div01">
+<div class="wqll_div01_img"><img height="225" src="images/wp_pic01.jpg" width="161"/></div>
+<div class="wqll_div02_span">【第923期】</div>
+<div class="wqll_div02_span">2017年02月03日</div>
+<div class="wqll_div02_bat"><a href=""><img height="20" src="images/xz.jpg" width="66"/></a></div>
+</div>
+<div class="wqll_div01">
+<div class="wqll_div01_img"><img height="225" src="images/wp_pic01.jpg" width="161"/></div>
+<div class="wqll_div02_span">【第923期】</div>
+<div class="wqll_div02_span">2017年02月03日</div>
+<div class="wqll_div02_bat"><a href=""><img height="20" src="images/xz.jpg" width="66"/></a></div>
+</div>
+<div class="wqll_div01">
+<div class="wqll_div01_img"><img height="225" src="images/wp_pic01.jpg" width="161"/></div>
+<div class="wqll_div02_span">【第923期】</div>
+<div class="wqll_div02_span">2017年02月03日</div>
+<div class="wqll_div02_bat"><a href=""><img height="20" src="images/xz.jpg" width="66"/></a></div>
+</div>
+<div class="wqll_div01">
+<div class="wqll_div01_img"><img height="225" src="images/wp_pic01.jpg" width="161"/></div>
+<div class="wqll_div02_span">【第923期】</div>
+<div class="wqll_div02_span">2017年02月03日</div>
+<div class="wqll_div02_bat"><a href=""><img height="20" src="images/xz.jpg" width="66"/></a></div>
+</div>
+</div>
+</div>
+<div class="rl_r">
+<div class="rqcx_tit"><span>日期查询</span></div>
+<div class="rl" id="rilishowkongjian"><div <img="" height="233" src="images/ri.jpg" style="width:269px; height:233px;    margin-left: 6px;margin-top: 30px;" width="269"></div> </div>
+</div>
+</div>
+</div></div>
+<div style=" clear:both; height:10px;"></div>
+<div class="main">
+<div class="bottom">
+版权所有：西安交通大学 陕ICP备05001571号  技术支持：<a href="http://www.joyhua.com">锦华科技</a>
+</div></div>
+<map name="Map">
+<area coords="0,0,0,0,0,0,0,0,0,0,0,0" href="#" shape="poly"/><area coords="139,103,368,220" href="index_content_000.htm" shape="rect"/>
+<area coords="139,350,295,505" href="index_content_001.htm" shape="rect"/>
+<area coords="34,104,133,326" href="index_content_002.htm" shape="rect"/>
+<area coords="139,233,296,343" href="index_content_003.htm" shape="rect"/>
+<area coords="302,232,368,463" href="index_content_004.htm" shape="rect"/>
+<area coords="34,339,133,427" href="index_content_005.htm" shape="rect"/>
+<area coords="34,441,132,502" href="index_content_006.htm" shape="rect"/>
+</map>
+</body>
+</html>

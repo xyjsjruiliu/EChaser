@@ -1,0 +1,274 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<title>我校深化主题教育立行立改出实效-西安交通大学数字报</title>
+<link href="css/ys.css" rel="stylesheet" type="text/css"/>
+<script language="Javascript" src="js/prototype.js"></script>
+<script language="Javascript" src="js/range1.js"></script>
+<script language="Javascript" src="js/calendar.js"></script>
+<script language="Javascript" src="js/menu.js"></script>
+<script language="Javascript" src="js/jquery-1.9.1.min.js"></script>
+<meta content="交大报,西安交大报,西安交大数字报,西安交大数字报纸 ,西安交大电子报" name="keywords">
+<meta content="交大报,西安交大报,西安交大数字报,西安交大数字报纸 ,西安交大电子报" name="description"/>
+<script type="text/javaScript">
+		function doZoom(size){
+			document.getElementById('zoom').style.fontSize=size+'px'}
+	</script>
+<style type="text/css">
+	.bantu_img {position:relative;  top:22px; left:15px;width:402px;height:542px;z-index:99;}
+</style>
+<script type="text/javascript">
+
+         jQuery(document).ready(function () {
+			 	  //通版
+			if(402>403){
+			jQuery('#zhankan').click(function(){
+			jQuery('img.bantu_img').css("width","790");
+			
+			  });
+			jQuery("#shousuo").click(function(){
+            jQuery("img.bantu_img").css("width","373");
+			
+            });
+			jQuery("#tongban").show();
+			}
+			if(402<403){
+			jQuery("#tongban").hide();
+			}
+			//选框移入移出
+		   jQuery("map").mouseover(function(event){
+  
+	    rangeDeltaX =11;
+		rangeDeltaY = -60;
+		drawLine(event.target,event);
+		  });
+
+		jQuery("#sss").mouseout(function(){
+		var divElm = document.getElementById("leveldiv");
+		divElm.style.border = "";
+	
+		showTitlePane(false);
+
+		});
+		jQuery("#ttt").mouseout(function(){
+		var divElm = document.getElementById("leveldiv");
+		divElm.style.border = "";
+	
+		showTitlePane(false);
+
+		});
+		var content = jQuery("#zoom").html().replace(/&nbsp;&nbsp;&nbsp;&nbsp;/g,"&#12288;&#12288;");
+		jQuery("#zoom").html(content);
+
+		//点击量和文章字数统计
+               var count1=content.length;
+			   jQuery.get("/tbarticle.do?epaper=sum&riqi="+"19-11-28"+"&banci="+"01"+"&title="+encodeURIComponent("我校深化主题教育立行立改出实效"),function(data,status){
+			  
+					var str = "文章字数："+count1+"&nbsp;&nbsp;&nbsp;&nbsp;文章浏览数："+data;;
+					jQuery("#div1").html(str);
+				});
+
+			     //日历控件
+			   	
+			var dd='19-11-28'.split('-');
+			$("#rili").html("<span  class='search_span1'>20"+dd[0]+"年"+dd[1]+"月"+dd[2]+"日</span>");
+            
+		});
+		</script>
+</meta></head>
+<body>
+<div id="ttt">
+</div><div id="leveldiv" style="z-index:100;  POSITION: absolute; pointer-events: none;"></div>
+<div class="tb_sxrb">
+<!--导航-->
+</div>
+<div class="main_02">
+<div class="logo_dt_1">
+</div>
+<div class="daoh">
+<div class="menu">
+<div class="menu_nei">
+<ul id="nav">
+<li class="top1">
+<a class="top_link" href="/"><span>数字报首页</span></a>
+</li>
+<li class="top1">
+<a class="top_link" href="" id="products"><span class="down">版面导航</span></a>
+<ul class="sub1">
+<li>
+<div onclick="window.open('index.htm','_self')"><a href="#">第01版：要闻</a></div>
+<div onclick="window.open('page_01.htm','_self')"><a href="#">第02版：综合信息</a></div>
+<div onclick="window.open('page_02.htm','_self')"><a href="#">第03版：校园生活</a></div>
+<div onclick="window.open('page_03.htm','_self')"><a href="#">第04版：校园笔会</a></div>
+</li>
+</ul>
+</li>
+<li class="top1">
+<a class="top_link" href="" id="contacts"><span class="down">标题导航</span></a>
+<ul class="sub2">
+<li>
+<div onclick="window.open('index_content_000.htm','_self')" title="我校深化主题教育立行立改出实效">
+<div id="mp000" style="DISPLAY: inline">
+<a href="#">我校深化主题教育立行立改出实效</a>
+</div>
+</div>
+<div onclick="window.open('index_content_002.htm','_self')" title="省委宣讲团党的十九届四中全会精神报告会在我校举行 ">
+<div id="mp002" style="DISPLAY: inline">
+<a href="#">省委宣讲团党的十九届四中全会精神报告会在我校举行 </a>
+</div>
+</div>
+<div onclick="window.open('index_content_003.htm','_self')" title="学校召开党委常委会">
+<div id="mp003" style="DISPLAY: inline">
+<a href="#">学校召开党委常委会</a>
+</div>
+</div>
+<div onclick="window.open('index_content_004.htm','_self')" title="我校与辽宁省签署全面战略合作协议">
+<div id="mp004" style="DISPLAY: inline">
+<a href="#">我校与辽宁省签署全面战略合作协议</a>
+</div>
+</div>
+<div onclick="window.open('index_content_005.htm','_self')" title="管晓宏获何梁何利科学与技术进步奖">
+<div id="mp005" style="DISPLAY: inline">
+<a href="#">管晓宏获何梁何利科学与技术进步奖</a>
+</div>
+</div>
+<div onclick="window.open('index_content_001.htm','_self')" title="整改落实要看效果">
+<div id="mp001" style="DISPLAY: inline">
+<a href="#">整改落实要看效果</a>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="top1">
+<a class="top_link" href="outline.htm" id="privacy"><span>版面概览</span></a>
+</li>
+<li class="top1">
+<a class="top_link" href="/about.jsp" target="_blank"><span>联系我们</span></a>
+</li>
+<li class="shijian">
+<script type="text/javascript">
+ var today = new Date(); //新建一个Date对象
+  var date = today.getDate();//查询当月日期
+  var day = today.getDay();//查询当前星期几
+  var month = today.getMonth()+1;//查询月份
+  var year = today.getFullYear();//查询年份  
+  var hour=today.getHours();
+  var morning="";
+  if (hour>=8 & hour<=12) morning="上午好";
+  var week="";                               
+  if (day==0) week='星期日';
+  if (day==1) week='星期一';
+  if (day==2) week='星期二';
+  if (day==3) week='星期三';
+  if (day==4) week='星期四';
+  if (day==5) week='星期五';
+  if (day==6) week='星期六';
+  document.write(year+"年"+month+"月"+date+"日 "+week+" ");
+</script></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div style=" clear:both"></div>
+<div class="wrap_03">
+<div class="main">
+<div class="page">
+<div id="sss" style="width: 440px;height: 591px;float: left;background: url('images/bz_bg.png') no-repeat;">
+<img border="0" class="bantu_img" src="index.jpg" usemap="#Map"/>
+</div>
+<div id="tongban">
+<div class="dianji">通版阅读请点击：</div><div id="zhankan">展开通版</div> <div id="shousuo">收缩通版</div>
+</div>
+<div class="bott_1">
+<div class="b_bot">
+                        当前版：01版
+                </div>
+<div class="page_bottom">
+<a href="index.htm">首版</a>
+<a href="#">上一版</a>
+<a href="page_01.htm">下一版</a>
+<a href="page_03.htm">末版</a>
+</div>
+</div>
+</div>
+<div class="right">
+<div class="r_top">
+<div class="ss_rl"><span class="ss_rl_1">发布日期:</span><span class="ss_rl_2" id="rili"></span></div>
+<div class="search">
+<form action="/tbarticle.do?" id="Form1" method="get" name="formSearch" target="_blank">
+<input name="epaper" type="hidden" value="searchlistWy"/>
+<input name="STime" type="hidden" value=""/>
+<input name="ETime" type="hidden" value=""/>
+<div class="search_span"><select name="type" style=" font-size:12px; border:1px solid #D0D0D0;  height:25px; float:left; width:80px;"><option selected="selected" value="1">文章标题</option>
+<option value="2">文章内容</option>
+<option value="3">文章作者</option></select></div>
+<div class="search_text01">
+<input id="title" name="title" style="  border: 1px solid #D0D0D0;  width: 172px; height: 21px; line-height: 23px;  float: left;" type="text"/>
+</div>
+<div class="search_bat"><input height="25" name="image" onclick="return searchSubmit();" src="images/search_btn.jpg" type="image" width="60"/></div>
+</form>
+<script type="text/javascript">
+		function searchSubmit(){
+		var title = document.getElementById("title").value;
+			if(title==''){
+				alert('搜索关键字不能为空！');
+				return false;
+			}else{
+				return true;
+			}
+		
+		}
+	</script>
+</div>
+</div>
+<div class="bmnr">
+<div class="list_title">
+<a class="list_title_fanye" href="#">上一篇</a>
+<a class="list_title_fanye" href="index_content_002.htm">下一篇</a>
+<div class="list_title_ziti">字体：</div>
+<a class="list_title_ziti_a" href="javascript:doZoom(18)">放大<img src="images/fangda_icon.gif"/></a>
+<a class="list_title_ziti_a" href="javascript:doZoom(12)">缩小<img src="images/suoxiao_icon.gif"/></a>
+<a class="list_title_ziti_a" href="javascript:doZoom(14)">默认<img src="images/moren_icon.gif"/></a>
+</div>
+<div class="bmnr_con">
+<div class="bmnr_con_yinti">在体制机制整改落实上下真功 动真章</div>
+<div class="bmnr_con_biaoti">
+						我校深化主题教育立行立改出实效 	
+					</div>
+<div class="bmnr_con_yinti"> </div>
+<div class="bmnr_con_biaoti"><div id="div1" style="font-size:12px; class:#ccc; font-weight:100;height:20px"></div></div>
+<div class="bmnr_con_con">
+<div id="zoom">　　<strong>本报讯</strong> 印发《中共西安交通大学委员会关于建设“常委读书班”的实施意见》，制定《中共西安交通大学委员会落实部属高校党的建设和思想政治工作会议精神工作举措》，实行校领导信箱常委轮值工作制，推出二级党委中心组学习线上“一学一报”申报流程，开设《习近平新时代中国特色社会主义思想概论》课程……我校主题教育期间，对基层党组织建设、意识形态管理、文化传承与创新、人才培养供给侧改革、高水平人才队伍建设、教育教学质量提升、拔尖创新人才培养模式等诸多方面开展深度调研，有的放矢地探索破解制约学校发展瓶颈的务实举措和有效途径，在健全全员全过程全方位育人的体制机制方面下真功、动真章、出实效。<br/> <br/><strong>守初心 担使命 立足体制机制深刨细究</strong> <br/>　　创新体制机制，是新时代建设中国特色世界一流大学的重要环节，也是充分发挥高校人才培养、科学研究、社会服务、文化传承与创新、国际交流与合作的五大功能的必由之路。 <br/>　　“通过对习近平新时代中国特色社会主义思想的深入学习领会，坚持用世界一流标准和作为建设学校”，校党委书记张迈曾强调，以正视问题的自觉和刀刃向内的勇气，在体制机制方面下功夫，高质量、超额完成学校发展任务。“要主动对接国家需求，深化体制机制改革”，校长王树国要求，要在“卡脖子”问题上展示交大人的进取与努力，进一步把成果用于经济社会发展，加快中国特色世界一流大学建设步伐，在落实立德树人根本任务、推进“双一流”建设上实现新突破。 <br/>　　在前不久召开的全校干部党员大会上，张迈曾和王树国分别就完善体质机制建设作出要求和部署，全校职能部门立即行动，聚焦调研中发现的“问题难点”和“工作盲区”，对标学校中心工作，围绕自身体制机制存在的问题，建立整改台账、明确整改节点、扎实推进落实，让“即知即改、立行立改”成为常态。 <br/>　　教务处创新课程培育机制，对41门基础通识类核心课进行了二次认定和升级改造，组织专家进行评审，遴选15门课作为标杆课进行培育，夯实本科教学根基；财务处对学校千万级别以上重大项目提供“一对一”财务服务，尽可能减轻科研人员的负担，并推出商旅平台，让师生切实享受到电子化、信息化和智能化的优质财务服务体验；审计处重新修订《西安交通大学领导干部经济责任审计实施办法》和《西安交通大学经济责任审计整改工作办法》，全面梳理审计规范；网信中心围绕创新港师生工作学习需求，建设“创新港网上报修系统”“创新港班车查询系统”，高效快速解决师生诉求；宣传部在校内重点单位试行《西安交通大学新闻宣传考核办法（征求意见稿）》，健全新闻宣传考评指标体系，加强新闻宣传价值引导…… <br/>　　提高效率、突出优势，兼顾公平、补齐短板，变“大水漫灌”为“精准滴灌”，把主题教育的成效落到实处成为职能部门的一致方向。<br/> <br/><strong>找差距 抓落实 创新体制机制与时俱进 <br/></strong>　　“把中央要求、实际需要和新鲜经验结合起来，破除思想和制度上的藩篱和瓶颈”“把该堵塞的漏洞堵好，把该完善的体制机制完善起来，在中国高等教育事业发展中走前头、做表率、树品牌”，正当学校职能部门大刀阔斧地进行制度改革的同时，各分党委的体制机制创新也如火如荼地进行着。 <br/>　　理学院修订了《理学院意识形态工作领导小组工作实施方案》，草拟了《理学院师德师风建设实施办法》，并制定了学院领导干部听课计划，以提升学院行政管理效能；电信学部把“院士上党课”和“艺术与科学的交汇”音乐会纳入学部思政育人体系建设，打造独特的学部文化，为研究生党员和积极分子讲述中国故事，弘扬中国精神，厚植爱国情怀；钱学森学院制定《少年班预科培养管理质量综合评价实施办法》和《少年班预科教育教学规范》，进一步强化对预科中学的评价和考核机制。 <br/>　　“完善体制机制，既要治已病，又要治未病。”“对不利于践行初心使命的制度机制，坚决予以废止。”“对有利于践行初心使命的制度规定，要边实践，边总结，继续坚持，逐步完善。”“对工作中可能遇到的新情况、新问题，要发扬改革创新精神，建立新的制度。”各分党委转变工作理念，改进工作方法，真正适应新形势新任务的要求，不断提升服务工作效能。 <br/>　　管理学院实施“院士带团队”计划，聘请院士、领军学者指导青年教师和专职科研人员开展科研，并设立“海外引智育才基地”，助推青年科研人员迅速成长；马克思主义学院组建“中国优秀传统文化与马克思主义理论融合”等多个研究团队，修订集体备课、互相听课制度，加强提升思政课课程质量；苏州党工委下发了《西安交通大学苏州研究院研究员评定管理条例》《西安交通大学苏州研究院专职科研人员薪酬体系》，并重新修订了《苏州研究院兼职科研人员管理办法》，持续加强科技人才的聘用和管理…… <br/>　　理念一旦创新，就要贯彻落实；制度一经形成，就要严格遵守。整改落实期间，学校职能部门和分党委纷纷反馈表示，体制机制无小事，改革永远在路上，只有崇尚实干，才能真正激发学校内生动力，为实现中国特色世界一流大学目标积攒改革活力，提供制度保证。 <br/>　　<strong>（新闻中心 组织部）</strong></div>
+<script charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript"></script>
+<script charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript"></script>
+</div>
+</div>
+<div style="clear:both"></div>
+<div class="fx">
+<div class="bshare-custom" style="position:relative; left:10px; top:10px">
+<a class="bshare-more" href="http://www.bShare.cn/" id="bshare-shareto" title="分享到">分享到</a><a class="bshare-weixin" title="分享到微信">微信</a><a class="bshare-qqim" title="分享到QQ好友">QQ好友</a><a class="bshare-qzone" title="分享到QQ空间">QQ空间</a><a class="bshare-sinaminiblog" title="分享到新浪微博">新浪微博</a><a class="bshare-more bshare-more-icon more-style-sharethis" title="更多平台"></a><span class="BSHARE_COUNT bshare-share-count">0</span></div><script charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=cc34420b-96de-4724-8b64-1634161dff4e&amp;pophcol=3&amp;lang=zh" type="text/javascript"></script><script charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript"></script>
+</div>
+</div>
+</div>
+<div style="clear:both;height:10px;"></div>
+</div></div>
+</body></html>
+<div class="main">
+<div class="bottom">
+版权所有：西安交通大学 陕ICP备05001571号  技术支持：<a href="http://www.joyhua.com">锦华科技</a>
+</div></div>
+<map name="Map">
+<area coords="0,0,0,0,0,0,0,0,0,0,0,0" href="#" shape="poly"/><area coords="34,103,262,270" href="index_content_000.htm" shape="rect"/>
+<area coords="266,103,359,498" href="index_content_001.htm" shape="rect"/>
+<area coords="34,283,120,505" href="index_content_002.htm" shape="rect"/>
+<area coords="123,283,262,376" href="index_content_003.htm" shape="rect"/>
+<area coords="122,385,261,457" href="index_content_004.htm" shape="rect"/>
+<area coords="123,464,262,505" href="index_content_005.htm" shape="rect"/>
+</map>
+
+

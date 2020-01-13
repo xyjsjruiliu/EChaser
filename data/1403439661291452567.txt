@@ -1,0 +1,365 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>杀毒工具-西安交通大学网络信息中心</title><meta content="西安交通大学网络信息中心" name="keywords"/>
+<link href="../css/style.css" rel="stylesheet" type="text/css"/>
+<script src="../js/jquery.min.js" type="text/javascript"></script>
+<script src="../js/koala.min.js" type="text/javascript"></script>
+<script src="../js/ddsmoothmenu.js" type="text/javascript"></script>
+<script src="../js/terminator.min.js" type="text/javascript"></script>
+<script src="../js/menu_min.js" type="text/javascript"></script>
+<script type="text/javascript">
+        $(document).ready(function (){
+          $(".menu ul li").menu();
+        }); 
+        </script>
+<!--Announced by Visual SiteBuilder 9-->
+<link href="../_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css"/>
+<script language="javascript" src="../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230697547545257544003060005 -->
+<link href="../lest.vsb.css" rel="stylesheet" type="text/css"/>
+<script src="/system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1293,'/lest.jsp',-1,1380259949)</script>
+</head>
+<body>
+<div id="wrapper">
+<!--head start-->
+<div class="xian_top">
+<!--head start-->
+<div class="top">
+<div class="logo fl">
+<!--#begineditable name="LOGO" viewid="180161" tagname="LOGO" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"-->
+<img alt="网络信息中心" border="0" height="72" src="../images/logo.png" title="网络信息中心" width="530"/><!--#endeditable-->
+</div>
+<div class="top_right fr">
+<!--#begineditable name="顶部语言切换-链接列表" action="webber.wbst.com.url.ColumnUrl" layout="/system/_component/columnurl/tpllinklist.jsp" tpltype="1" contype="url" clone="" viewid="204725" contentviewid="" tagname="顶部语言切换-链接列表"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script><div class="top_links">
+<a href="../index.htm">中文版</a> |
+<a href="../English.htm">English</a>
+</div><!--#endeditable-->
+<div class="ssbg">
+<!--#begineditable name="全文检索" viewid="180162" tagname="全文检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode180162').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword180162").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword180162").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword180162").value = base64.encode(document.getElementById("lucenenewssearchkeyword180162").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode180162"));
+        return true;
+    } 
+</script>
+<form action="../ssjgy.jsp?wbtreeid=1293" id="au2a" method="post" name="au2a" onsubmit="return _nl_ys_check()" style="display: inline">
+<input id="lucenenewssearchkeyword180162" name="lucenenewssearchkeyword" type="hidden" value=""/><input id="_lucenesearchtype180162" name="_lucenesearchtype" type="hidden" value="1"/><input id="searchScope180162" name="searchScope" type="hidden" value="0"/>
+<input class="sou fl" id="showkeycode180162" name="showkeycode" onblur="if (value ==''){value='Search'};this.style.color='#c7e3ff';" onfocus="if (value =='Search'){value =''};this.style.color='#fafafa';" style="vertical-align: middle; color: rgb(187, 187, 187)" type="text" value="Search">
+<input class="suo fr" src="../images/ss.png" type="image">
+</input></input></form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable--></div>
+</div> <!--nav开始-->
+<div class="nav_da clearfix">
+<div class="nav">
+<div class="ddsmoothmenu" id="smoothmenu1">
+<!--#begineditable name="网站导航" viewid="180163" tagname="网站导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"--><ul>
+<li>
+<a href="../index.htm">首页</a>
+</li>
+<li>
+<a href="../zxgk/zxjj.htm">中心概况</a>
+<ul>
+<li>
+<a href="../zxgk/zxjj.htm">中心简介</a>
+</li>
+<li>
+<a href="../zxgk/zzjg.htm">组织机构</a>
+</li>
+<li>
+<a href="../zxgk/yjcg.htm">研究成果</a>
+</li>
+<li>
+<a href="../zxgk/mfxf.htm">模范先锋</a>
+</li>
+<li>
+<a href="../zxgk/zxdsj.htm">中心大事记</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="../xwzx/xwzx.htm">新闻中心</a>
+<ul>
+<li>
+<a href="../xwzx/xwzx.htm">新闻资讯</a>
+</li>
+<li>
+<a href="../xwzx/mtbd.htm">媒体报道</a>
+</li>
+<li>
+<a href="../xwzx/tzgg.htm">通知公告</a>
+</li>
+<li>
+<a href="../xwzx/xydt.htm">行业动态</a>
+</li>
+<li>
+<a href="../xwzx/gzzd.htm">规章制度</a>
+</li>
+<li>
+<a href="../xwzx/hdsp.htm">活动视频</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="../wlfw/wlfw.htm">网络服务</a>
+<ul>
+<li>
+<a href="../wlfw/wlfw.htm">网络服务</a>
+</li>
+<li>
+<a href="../wlfw/xjwgh.htm">西交网管会</a>
+</li>
+<li>
+<a href="../wlfw/wlyxzb.htm">网络运行周报</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="../xxhjs/jcyyfw.htm">信息化建设</a>
+<ul>
+<li>
+<a href="../xxhjs/jcyyfw.htm">基础应用服务</a>
+</li>
+<li>
+<a href="../xxhjs/jxjwfw.htm">教学教务服务</a>
+</li>
+<li>
+<a href="../xxhjs/xwglfw.htm">校务管理服务</a>
+</li>
+<li>
+<a href="../xxhjs/kycwfw.htm">科研财务服务</a>
+</li>
+<li>
+<a href="../xxhjs/dwxxhfwzx.htm">对外信息化服务专项</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="../gszx/fwjj.htm">高算中心</a>
+<ul>
+<li>
+<a href="../gszx/fwjj.htm">服务简介</a>
+</li>
+<li>
+<a href="../gszx/zhsq.htm">账号申请</a>
+</li>
+<li>
+<a href="../gszx/xgcg.htm">相关成果</a>
+</li>
+<li>
+<a href="../gszx/fwzn.htm">服务指南</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="../wlaq/yjtb.htm">网络安全</a>
+<ul>
+<li>
+<a href="../wlaq/yjtb.htm">预警通报</a>
+</li>
+<li>
+<a href="../wlaq/jsgf.htm">技术规范</a>
+</li>
+<li>
+<a href="../wlaq/wlaqzs.htm">网络安全知识</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="../dyzj/zbjj.htm">党员之家</a>
+<ul>
+<li>
+<a href="../dyzj/zbjj.htm">支部简介</a>
+</li>
+<li>
+<a href="../dyzj/zzsh.htm">组织生活</a>
+</li>
+<li>
+<a href="../dyzj/zbly.htm">支部留影</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="cur" href="zlxz.htm">服务指南</a>
+<ul>
+<li>
+<a href="zlxz.htm">资料下载</a>
+</li>
+<li>
+<a href="zbrjxz.htm">正版软件下载</a>
+</li>
+<li>
+<a href="sdgj.htm">杀毒工具</a>
+</li>
+<li>
+<a href="xmgl.htm">项目管理</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="../zgjyhkyjsjw_CERNET_xbzx.htm">中国教育和科研计算机网（CERNET)西北中心</a>
+</li>
+</ul><!--#endeditable-->
+</div>
+<script type="text/javascript">
+                                ddsmoothmenu.init({
+                                    mainmenuid: "smoothmenu1", //menu DIV id
+                                    orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+                                    classname: 'ddsmoothmenu', //class added to menu's outer DIV
+                                    //customtheme: ["#1c5a80", "#18374a"],
+                                    contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+                                })
+                            </script>
+</div>
+</div>
+</div>
+</div>
+<!--main start-->
+<div class="lestbanner">
+<div class="dhxt">
+<!--#begineditable name="图片列表-列表页banner" viewid="180189" tagname="图片列表-列表页banner" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"--> <img src="../images/lestbanner.jpg"/>
+<!--#endeditable-->
+</div>
+<div class="main">
+<div class="list_right_tit clearfix">
+<!--#begineditable name="当前位置" viewid="180190" tagname="当前位置" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"--><span class="location">
+<a href="../index.htm">首页</a>
+        
+                &gt;
+                <a href="zlxz.htm">服务指南</a>
+        
+                &gt;
+                <a href="sdgj.htm">杀毒工具</a>
+</span><!--#endeditable-->
+</div>
+<div class="list-bg clearfix">
+<div class="list_bottom_left fl">
+<div class="list_tit">
+<!--#begineditable name="栏目名称-左" viewid="180191" tagname="栏目名称-左" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"-->服务指南<!--#endeditable-->
+</div>
+<!--二级导航-->
+<div class="menu">
+<!--#begineditable name="网站导航-左侧" viewid="180194" tagname="网站导航-左侧" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"--><ul>
+<li>
+<a href="javascript:;">资料下载</a>
+<ul>
+<li>
+<a href="zlxz/sqbg.htm">申请表格</a>
+</li>
+<li>
+<a href="zlxz/PPTmb.htm">PPT模板</a>
+</li>
+<li>
+<a href="zlxz/scxz.htm">手册下载</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="zbrjxz.htm">正版软件下载</a>
+</li>
+<li class="level1">
+<a href="sdgj.htm">杀毒工具</a>
+</li>
+<li>
+<a href="xmgl.htm">项目管理</a>
+</li>
+</ul><!--#endeditable-->
+</div>
+</div>
+<div class="list_right fr">
+<div class="lm">
+<h1>
+<!--#begineditable name="栏目名称-右" viewid="180192" tagname="栏目名称-右" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"-->杀毒工具<!--#endeditable-->
+</h1>
+</div>
+<div class="list_right_con">
+<!--#begineditable name="静态翻页列表" viewid="180193" tagname="静态翻页列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"-->
+<script language="javascript" src="/system/resource/js/news/statpagedown.js"></script><ul>
+<li id="line_u9_0">
+<span class="time fr">2019-09-25</span>
+<a href="../info/1293/5405.htm" target="_blank">ESET NOD32安全套装 7.0 Windows 桌面系统</a>
+</li>
+<li id="line_u9_1">
+<span class="time fr">2019-09-25</span>
+<a href="../info/1293/5404.htm" target="_blank">ESET NOD32安全套装 7.0 Window Server</a>
+</li>
+<li id="line_u9_2">
+<span class="time fr">2019-09-25</span>
+<a href="../info/1293/5402.htm" target="_blank">ESET NOD32安全套装 7.0 MAc系统安装包</a>
+</li>
+<li id="line_u9_3">
+<span class="time fr">2019-09-25</span>
+<a href="../info/1293/5401.htm" target="_blank">ESET NOD32安全套装 7.0 Linux版本安装包</a>
+</li>
+</ul>
+<div align="center"><input name="actiontype" type="hidden" value=""/><input name="_scode_" type="hidden" value="1578046244580"/><input name="urltype" type="hidden" value="tree.TreeTempUrl"/><input name="wbtreeid" type="hidden" value="1293"/><input name="outFlag" type="hidden" value="false"/>
+<style type="text/css">
+.headStyle3qs4unci4y, .headStyle3qs4unci4y td, .headStyle3qs4unci4y div {font-size: 12px;font-family:宋体; color: #000000; margin-left: auto; margin-right: auto; line-height:14px;}
+.defaultButtonStyle {font-size: 12px;font-family:宋体; height:20px;color: #000000;BORDER: #AFD5F5 1px solid; margin: 0px;padding: 0px; FILTER:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#ffffff, EndColorStr=#BDDBF7);  CURSOR: pointer; line-height:14px;background:-webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#BDDBF7));background: -moz-linear-gradient( top,#ffffff,#BDDBF7);background:-ms-linear-gradient(top,#ffffff 0%,#bddbf7 100%);}
+.defaultinputStyle {font-size: 12px;font-family:宋体; height:20px; border:1px solid #AFD5F5; line-height:14px;}
+.colHeader {font-size: 12px;font-family:宋体; line-height:14px;}
+.headStyle3qs4unci4y a, .pageList .this-page {font-size: 12px;font-family:宋体; display:inline-block; height:14px; padding: 2px 4px; border: solid 1px #AFD5F5; background: #fff; text-decoration: none; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle3qs4unci4y a:visited {font-size: 12px;font-family:宋体; color: #000000; text-decoration: none; line-height:14px;}
+.headStyle3qs4unci4y .PrevDisabled {font-size: 12px;font-family:宋体; display:inline-block;height:14px;  margin-right: 3px; padding: 2px 4px; background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyle3qs4unci4y .SelectList {font-size: 12px;font-family:宋体;line-height:14px;}
+.headStyle3qs4unci4y .Prev { font-size: 12px;font-family:宋体; margin-right: 3px; padding: 2px 4px;line-height:14px;}
+.headStyle3qs4unci4y .break {font-size: 12px;font-family:宋体; border: none; text-decoration: none; line-height:14px;}
+.headStyle3qs4unci4y .NextDisabled { font-size: 12px;font-family:宋体;display:inline-block; height:14px; margin-left: 2px; padding: 2px 4px;background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyle3qs4unci4y .Next { font-size: 12px;font-family:宋体; margin-left: 2px; padding: 2px 4px;line-height:14px;}
+.headStyle3qs4unci4y .this-page {font-size: 12px;font-family:宋体;display:inline-block;height:14px;padding: 2px 4px; border: solid 1px #AFD5F5; background: #E1F0FD; font-weight: bold; color:black; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle3qs4unci4y a:hover {font-size: 12px;font-family:宋体;color: black; background: #EFF7FE; border-color: #AFD5F5; text-decoration: none;line-height:14px;}
+.headStyle3qs4unci4y a:link {font-size: 12px;font-family:宋体;color: #000000; text-decoration: none;line-height:14px;}
+.headStyle3qs4unci4y a:active { font-size: 12px;font-family:宋体;color: black; text-decoration: none; background: #EFF7FE; line-height:14px;}
+</style><script language="javascript" src="/system/resource/js/gotopage.js"></script><script type="text/javascript">function a180193_gopage_fun(){_simple_list_gotopage_fun(1,'a180193GOPAGE',2)}</script><table border="0" cellpadding="0" cellspacing="0"><tr><td colspan="0"><table cellpadding="1" cellspacing="0" class="headStyle3qs4unci4y" width="100%"><tr valign="middle"><td align="left" id="fanye180193" nowrap="" width="1%">共4条  1/1 </td><td align="left" nowrap=""><div><span class="PrevDisabled">首页</span><span class="PrevDisabled">上页</span><span class="NextDisabled">下页</span><span class="NextDisabled">尾页</span></div></td></tr></table></td></tr></table></div><script>_showDynClickBatch(['dynclicks_u9_5405','dynclicks_u9_5404','dynclicks_u9_5402','dynclicks_u9_5401'],[5405,5404,5402,5401],"wbnews", 1380259949)</script><!--#endeditable-->
+</div>
+</div>
+</div>
+</div>
+<!--main end-->
+<!--foot start-->
+<div class="foot1">
+<div class="bq">
+<div class="bq1 fl">
+<!--#begineditable name="版权" viewid="180180" tagname="版权" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>版权所有：西安交通大学 站点建设与维护： 网络信息中心 联系人：贺喜梅 王齐 电话：82664996</p><p>地址：陕西省西安市咸宁西路28号西安交通大学 主楼1703  邮编：710049</p><!--#endeditable-->
+</div>
+<div class="bq2 fr">
+<div class="wb0 fl">
+<img src="../images/wb.jpg"/>
+<div class="wb">
+<!--#begineditable name="图片列表-微博" viewid="180181" tagname="图片列表-微博" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"--> <img src="../images/wb111.png"/>
+<!--#endeditable-->
+</div>
+</div>
+<div class="wx0 fr">
+<img src="../images/wx.jpg"/>
+<div class="wx">
+<!--#begineditable name="图片列表-微信" viewid="180182" tagname="图片列表-微信" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"--> <img src="../images/wx111.jpg"/>
+<!--#endeditable-->
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--foot end-->
+</div>
+</div>
+</body>
+</html>

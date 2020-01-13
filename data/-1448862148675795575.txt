@@ -1,0 +1,1334 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html><head><title>交大综合信息</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="CSS制作:AloeR@BMY,美工设计:阿颖" name="author"/>
+<meta content="西安交通大学 综合信息服务" name="description"/><link href="AloeR/AloeR_info.css" rel="stylesheet" type="text/css"/><script language="JavaScript" src="AloeR/AloeR_info.js" type="text/JavaScript"></script><script type="text/JavaScript"> 
+    function resetType(word)
+    {
+        document.getElementById("guancangmulu").action="http://innopac.lib.xjtu.edu.cn/search/"+word;
+    }
+    function formReset(formid)
+    {
+        document.getElementById(formid).reset();
+    }
+    function isDigit(s) 
+    {
+        var reg=/^[0-9A-Za-z]{1,60}$/; 
+        return reg.exec(s);
+    } 
+    function prodentfundchaxunCheck()
+    {
+    
+        if(!isDigit(document.getElementById('identityno').value))
+        {
+            alert("请输入正确的身份证号!");
+            return false;
+        }
+        if(!isDigit(document.getElementById('wageno').value))
+        {
+            alert("请输入正确的工资卡号!");
+            return false;
+        }
+        return true;
+    }
+</script>
+<!--Announced at 2020-01-13 00:05:41-->
+<!-- CustomerNO:7765626265722342697547545253554b03020000 -->
+<link href="index.vsb.css" rel="stylesheet" type="text/css">
+<meta content="交大综合信息" name="keywords">
+<script src="system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1002,'/index.jsp',-1,868083490)</script>
+</meta></link></head>
+<body target="_blank">
+<div class="pw i_top">
+<div class="i_top_date"><script language="JavaScript" src="AloeR/AloeR_datatime.js" type="text/javascript"></script></div>
+<div class="right"><!--#begineditable contype="" name="思源搜索" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="思源搜索" viewid="2546" stylesysid=""-->
+<form action="http://search.xjtu.edu.cn/default.jsp" method="get" target="_blank">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td><img src="AloeR/i_top_search.jpg"/></td>
+<td class="i_mail">思源搜索</td>
+<td class="i_mail"><input class="i_search" name="query" type="text"/><input name="cdtype2" type="hidden" value="GB"/></td>
+<td class="i_mail"><input name="i_search_button" src="AloeR/i_search_button.jpg" type="image"/>
+<select class="style13" name="select" style="display:none">
+<option selected="selected" value="all">所有网页</option>
+<option value="news">新闻</option>
+<option value="tech">教学</option>
+<option value="sci">科研</option>
+</select>
+</td>
+</tr>
+</table>
+</form><!--#endeditable--></div></div>
+<div class="pw i_xjtu"><img src="AloeR/i_xjtu.jpg"/></div>
+<div class="pw i_menu">
+<div class="i_menu_con"><!--#begineditable contype="" name="网站导航" action="" layout="" clone="0" namechanged="0" order="1" ispublic="0" tagname="网站导航" viewid="2572" stylesysid=""--> <a class="i_menu" href="http://www.xjtu.edu.cn" target="_blank" title="交大首页">交大首页</a>
+    |
+    <a class="i_menu" href="http://oa.xjtu.edu.cn" target="_blank" title="办公自动化">办公自动化</a>
+    |
+    <a class="i_menu" href="http://oa.xjtu.edu.cn/mzhy_index.jsp" target="_blank" title="每周会议">每周会议</a>
+    |
+    <a class="i_menu" href="http://one.xjtu.edu.cn" target="_blank" title="师生服务大厅">师生服务大厅</a>
+    |
+    <a class="i_menu" href="http://office.xjtu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1015" target="_blank" title="统计公报">统计公报</a>
+    |
+    <a class="i_menu" href="http://meeting.xjtu.edu.cn/" target="_blank" title="会议讲座">会议讲座</a>
+    |
+    <a class="i_menu" href="http://hello.xjtu.edu.cn/" target="_blank" title="迎新·注册·离校">迎新·注册·离校</a>
+    |
+    <a class="i_menu" href="http://jdzfpt.xjtu.edu.cn" target="_blank" title="财务缴费平台">财务缴费平台</a>
+    |
+    <a class="i_menu" href="http://gis.xjtu.edu.cn/" target="_blank" title="虚拟校园">虚拟校园</a>
+    |
+    <a class="i_menu" href="https://one.xjtu.edu.cn/EIP/schoolCalendar/schoolCalendar1.html" target="_blank" title="校历">校历</a>
+<!--#endeditable--></div></div>
+<div class="pw i_email">
+<div class="i_email_left"><!--#begineditable contype="" name="登录邮箱" action="" layout="" clone="0" namechanged="0" order="2" ispublic="0" tagname="登录邮箱" viewid="2545" stylesysid=""-->
+<script language="javascript">
+function mailKeyDown()
+{
+    if (event.keyCode == 13)
+    {
+        event.returnValue=false;
+        event.cancel = true;
+        document.login.submit();
+        document.login.password.value='';
+    }
+}
+</script>
+<form action="http://webmail.xjtu.edu.cn/coremail/index.jsp?cus=1" id="login" method="post" name="login" target="_blank">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td class="i_mail"><img align="absmiddle" height="20" src="AloeR/i_mail.jpg" width="27"/></td>
+<td class="i_mail" nowrap="nowrap">邮箱登录</td>
+<td class="i_mail" nowrap="nowrap">  用户名:</td>
+<td class="i_mail"><input class="i_username" id="uid" name="uid" type="text"/></td>
+<td class="i_mail">@</td>
+<td class="i_mail"><select id="logindomain" name="logindomain" size="1">
+<option selected="selected" value="mail.xjtu.edu.cn">@mail.xjtu.edu.cn</option>
+<option value="mfmail.xjtu.edu.cn">@mfmail.xjtu.edu.cn</option>
+<option value="mailst.xjtu.edu.cn">@mailst.xjtu.edu.cn</option>
+</select></td>
+<td class="i_mail" nowrap="nowrap"> 密码:</td>
+<td class="i_mail"><input class="i_password" id="password" name="password" onkeydown="mailKeyDown()" type="password"/></td>
+<td class="i_mail"><img border="0" name="i_mail_login" onclick="login.submit();login.password.value='';" src="AloeR/i_mail_login.jpg"/></td>
+</tr>
+</table>
+</form><!--#endeditable--></div>
+<div class="i_email_right">
+<table cellpadding="0" cellspacing="0" class="i_userlogin" width="390">
+<tbody>
+<tr>
+<td><img src="AloeR/i_email_split.jpg"/></td>
+<td> 欢迎访问西安交通大学综合信息服务平台！</td>
+<td align="left" style="padding-top: 10px" valign="middle"><a href="http://202.117.18.198:8080/system/contribute/alogin.jsp" target="_blank"><img height="25" src="AloeR/xwtg2_r2_c2.jpg" width="88"/></a></td></tr></tbody></table></div></div>
+<div class="split"> </div>
+<div class="pw">
+<div class="i_tzgg">
+<div class="i_tzgg_title">
+<div class="left" id="div_tzgg_a"><a class="i_tzgg_now" href="http://oa.xjtu.edu.cn/zxgg_index.jsp" id="tzgg_a_1" onmouseover="switchTzgg(1)" target="_blank">通知公告</a> <a class="i_tzgg" href="http://std.xjtu.edu.cn/" id="tzgg_a_2" onmouseover="switchTzgg(2)" target="_blank">科研信息</a><a class="i_tzgg" href="http://cgb.xjtu.edu.cn/" id="tzgg_a_3" onmouseover="switchTzgg(3)" target="_blank">采购信息</a></div>
+<div class="i_tzgg_more" id="div_tzgg_more"><a class="i_more" href="http://oa.xjtu.edu.cn/zxgg_index.jsp" id="tzgg_more_1" target="_blank">更多&gt;&gt;</a><a class="i_more" href="http://std.xjtu.edu.cn/" id="tzgg_more_2" style="display: none" target="_blank">更多&gt;&gt;</a><a class="i_more" href="http://cgb.xjtu.edu.cn/" id="tzgg_more_3" style="display: none" target="_blank">更多&gt;&gt;</a></div>
+<div class="clear"> </div></div>
+<div class="i_tzgg_con" id="i_tzgg_table">
+<table cellpadding="0" cellspacing="0" id="tzgg_table_1">
+<tbody>
+<tr>
+<td>
+<div class="i_tzgg_con_left">
+<ul class="i_tzgg" id="i_tzgg_ul_1"><!--#begineditable contype="" name="通知公告" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="通知公告" viewid="2587" stylesysid=""-->
+<script language="javascript" src="_dwr/engine.js"></script>
+<script language="javascript" src="_dwr/util.js"></script>
+<script language="javascript" src="_dwr/interface/LinkListUtilDWR.js"></script>
+<script>
+document.getElementById('i_tzgg_ul_1').innerHTML="<li class=\"i_tzgg\">正在加载中．．．．．．</li>";
+LinkListUtilDWR.getNoaString('http://oa.xjtu.edu.cn/xxdh.jsp',showNoaList);
+function showNoaList(data)
+{
+    var json = eval('(' +data+ ')');
+    if('ok'==json.msg)
+    {
+        var info = "";
+        for(var i=0;i<json.infos.length;i++)
+        {
+            if(json.infos[i].isnew)
+                info = info+"<li class=\"i_tzgg\"><a href=\""+json.infos[i].link+"\" class=\"i_tzgg_new\" target=\"_blank\" title=\""+json.infos[i].tip+"\">"+json.infos[i].title+"</a><img class=\"i_tzgg_new\" align=\"absmiddle\" src=\"AloeR/i_tzgg_new.jpg\" /><cite>"+json.infos[i].date+"</cite></li>";
+            else
+                info = info+"<li class=\"i_tzgg\"><a href=\""+json.infos[i].link+"\" class=\"i_tzgg_li\" target=\"_blank\" title=\""+json.infos[i].tip+"\">"+json.infos[i].title+"</a><cite>"+json.infos[i].date+"</cite></li>";
+        }
+        document.getElementById('i_tzgg_ul_1').innerHTML=info;
+    }
+}
+</script><!--#endeditable--></ul></div>
+<div class="i_tzgg_con_right"><!--#begineditable contype="" name="常用链接" action="" layout="" clone="0" namechanged="0" order="3" ispublic="0" tagname="图片列表" viewid="2573" stylesysid=""--><script language="javascript" src="system/resource/js/dynclicks.js"></script>
+<a href="http://oa.xjtu.edu.cn/mzhy_index.jsp" target="_blank" title="每周会议"><img border="0" class="i_tzgg" src="i_mzhy.jpg" style="margin-top:8px"/></a>
+<a href="http://oa.xjtu.edu.cn/dxhd_index.jsp" target="_blank" title="大型活动"><img border="0" class="i_tzgg" src="AloeR/i_hyap.jpg" style="margin-top:8px"/></a>
+<a href="http://oa.xjtu.edu.cn/help.jsp" target="_blank" title="常见问题"><img border="0" class="i_tzgg" src="i_cjwt.jpg" style="margin-top:8px"/></a>
+<a href="http://985ap.xjtu.edu.cn/viewlist.php?id=traindetail&amp;pid=2" target="_blank" title="用户手册下载"><img border="0" class="i_tzgg" src="i_yhsc.jpg" style="margin-top:8px"/></a>
+<!--#endeditable--></div></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0" id="tzgg_table_2" style="display: none">
+<tbody>
+<tr>
+<td>
+<div class="i_tzgg_con_left">
+<ul class="i_tzgg"><!--#begineditable contype="" name="科研信息" action="" layout="" clone="0" namechanged="0" order="4" ispublic="0" tagname="科研信息" viewid="2549" stylesysid=""--> <li class="i_tzgg"><a class="i_tzgg_li" href="http://std.xjtu.edu.cn/info/1007/32953.htm" target="_blank" title="关于转发《陕西省科技厅关于征集与西安交通大学联合资助项目的通知》的通知">关于转发《陕西省科技厅关于征集与西安交通大学联合资助项目的通知》的通知</a><cite>2019-08-12</cite>
+</li>
+<li class="i_tzgg"><a class="i_tzgg_new" href="http://std.xjtu.edu.cn/info/1007/33348.htm" target="_blank" title="关于申报“高校科研诚信建设”基金课题的通知">关于申报“高校科研诚信建设”基金课题的通知</a><img align="absmiddle" class="i_tzgg_new" src="AloeR/i_tzgg_new.jpg"/><cite>2020-01-11</cite>
+</li>
+<li class="i_tzgg"><a class="i_tzgg_li" href="http://std.xjtu.edu.cn/info/1007/33347.htm" target="_blank" title="科研院关于2020年寒假期间工作安排的通知">科研院关于2020年寒假期间工作安排的通知</a><cite>2020-01-10</cite>
+</li>
+<li class="i_tzgg"><a class="i_tzgg_li" href="http://std.xjtu.edu.cn/info/1007/33346.htm" target="_blank" title="关于2020年度国防科学技术进步奖合作申报项目的公示通知">关于2020年度国防科学技术进步奖合作申报项目的公示通知</a><cite>2020-01-08</cite>
+</li>
+<li class="i_tzgg"><a class="i_tzgg_li" href="http://std.xjtu.edu.cn/info/1007/33344.htm" target="_blank" title="关于2020年度国家科学技术奖合作申报项目的公示通知（六）">关于2020年度国家科学技术奖合作申报项目的公示通知（六）</a><cite>2020-01-07</cite>
+</li>
+<li class="i_tzgg"><a class="i_tzgg_li" href="http://std.xjtu.edu.cn/info/1007/33341.htm" target="_blank" title="关于开展国家重点研发计划“十四五”重大研发需求征集工作的通知">关于开展国家重点研发计划“十四五”重大研发需求征集工作的通知</a><cite>2020-01-06</cite>
+</li>
+<li class="i_tzgg"><a class="i_tzgg_li" href="http://std.xjtu.edu.cn/info/1007/33332.htm" target="_blank" title="关于2020年度山东省科学技术奖合作申报项目的公示通知（二）">关于2020年度山东省科学技术奖合作申报项目的公示通知（二）</a><cite>2020-01-03</cite>
+</li>
+<li class="i_tzgg"><a class="i_tzgg_li" href="http://std.xjtu.edu.cn/info/1007/33331.htm" target="_blank" title="关于对科技创新2030—“新一代人工智能”重大项目2020年度第一批项目申报指南征求意见的通知">关于对科技创新2030—“新一代人工智能”重大项目2020年度第一批项目申报指南征求意见的通知</a><cite>2020-01-03</cite>
+</li>
+<li class="i_tzgg"><a class="i_tzgg_li" href="http://std.xjtu.edu.cn/info/1007/33329.htm" target="_blank" title="关于2020年度国家科学技术奖合作申报项目的公示通知（五）">关于2020年度国家科学技术奖合作申报项目的公示通知（五）</a><cite>2020-01-03</cite>
+</li>
+<script>_showDynClickBatch(['dynclicks_u5_27654','dynclicks_u5_28660','dynclicks_u5_28654','dynclicks_u5_28639','dynclicks_u5_28631','dynclicks_u5_28629','dynclicks_u5_28616','dynclicks_u5_28615','dynclicks_u5_28612'],[27654,28660,28654,28639,28631,28629,28616,28615,28612],"wbnews", 868083490)</script>
+<!--#endeditable--></ul></div>
+<div class="i_tzgg_con_right"><!--#begineditable contype="" name="常用链接" action="" layout="" clone="0" namechanged="0" order="3" ispublic="0" tagname="图片列表" viewid="2573" stylesysid=""-->
+<a href="http://oa.xjtu.edu.cn/mzhy_index.jsp" target="_blank" title="每周会议"><img border="0" class="i_tzgg" src="i_mzhy.jpg" style="margin-top:8px"/></a>
+<a href="http://oa.xjtu.edu.cn/dxhd_index.jsp" target="_blank" title="大型活动"><img border="0" class="i_tzgg" src="AloeR/i_hyap.jpg" style="margin-top:8px"/></a>
+<a href="http://oa.xjtu.edu.cn/help.jsp" target="_blank" title="常见问题"><img border="0" class="i_tzgg" src="i_cjwt.jpg" style="margin-top:8px"/></a>
+<a href="http://985ap.xjtu.edu.cn/viewlist.php?id=traindetail&amp;pid=2" target="_blank" title="用户手册下载"><img border="0" class="i_tzgg" src="i_yhsc.jpg" style="margin-top:8px"/></a>
+<!--#endeditable--></div></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0" id="tzgg_table_3" style="display: none">
+<tbody>
+<tr>
+<td>
+<div class="i_tzgg_con_left">
+<ul class="i_tzgg"><!--#begineditable contype="" name="采购信息" action="" layout="" clone="0" namechanged="0" order="5" ispublic="0" tagname="采购信息" viewid="2584" stylesysid=""--> <li class="i_tzgg"><a class="i_tzgg_new" href="info/1045/28665.htm" target="_blank" title="干式平板加热实验台架中标（成交）公告">干式平板加热实验台架中标（成交）公告</a><img align="absmiddle" class="i_tzgg_new" src="AloeR/i_tzgg_new.jpg"/><cite>2020-01-12</cite>
+</li>
+<li class="i_tzgg"><a class="i_tzgg_li" href="info/1045/28658.htm" target="_blank" title="创新港19号楼化工研究院实验室高强度复合地坪漆采购和涂装中标（成交）公告">创新港19号楼化工研究院实验室高强度复合地坪漆采购和涂装中标（成交）公告</a><cite>2020-01-10</cite>
+</li>
+<li class="i_tzgg"><a class="i_tzgg_li" href="info/1045/28657.htm" target="_blank" title="多功能热学特性智能测试系统中标（成交）公告">多功能热学特性智能测试系统中标（成交）公告</a><cite>2020-01-10</cite>
+</li>
+<li class="i_tzgg"><a class="i_tzgg_li" href="info/1045/28648.htm" target="_blank" title="三维运动捕捉系统中标（成交）公告">三维运动捕捉系统中标（成交）公告</a><cite>2020-01-09</cite>
+</li>
+<li class="i_tzgg"><a class="i_tzgg_li" href="info/1045/28647.htm" target="_blank" title="创新港2020年二次装修20万元以内遴选施工单位中标（成交）公告">创新港2020年二次装修20万元以内遴选施工单位中标（成交）公告</a><cite>2020-01-09</cite>
+</li>
+<li class="i_tzgg"><a class="i_tzgg_li" href="info/1045/28635.htm" target="_blank" title="兴庆校区物业服务标段二中标（成交）公告">兴庆校区物业服务标段二中标（成交）公告</a><cite>2020-01-07</cite>
+</li>
+<li class="i_tzgg"><a class="i_tzgg_li" href="info/1045/28634.htm" target="_blank" title="兴庆校区物业服务标段三中标（成交）公告">兴庆校区物业服务标段三中标（成交）公告</a><cite>2020-01-07</cite>
+</li>
+<li class="i_tzgg"><a class="i_tzgg_li" href="info/1045/28633.htm" target="_blank" title="兴庆校区物业服务标段一中标（成交）公告">兴庆校区物业服务标段一中标（成交）公告</a><cite>2020-01-07</cite>
+</li>
+<li class="i_tzgg"><a class="i_tzgg_li" href="info/1045/28632.htm" target="_blank" title="大宗物资-粳米中标（成交）公告">大宗物资-粳米中标（成交）公告</a><cite>2020-01-07</cite>
+</li>
+<script>_showDynClickBatch(['dynclicks_u7_28665','dynclicks_u7_28658','dynclicks_u7_28657','dynclicks_u7_28648','dynclicks_u7_28647','dynclicks_u7_28635','dynclicks_u7_28634','dynclicks_u7_28633','dynclicks_u7_28632'],[28665,28658,28657,28648,28647,28635,28634,28633,28632],"wbnews", 868083490)</script>
+<!--#endeditable--></ul></div>
+<div class="i_tzgg_con_right"><!--#begineditable contype="" name="常用链接" action="" layout="" clone="0" namechanged="0" order="3" ispublic="0" tagname="图片列表" viewid="2573" stylesysid=""-->
+<a href="http://oa.xjtu.edu.cn/mzhy_index.jsp" target="_blank" title="每周会议"><img border="0" class="i_tzgg" src="i_mzhy.jpg" style="margin-top:8px"/></a>
+<a href="http://oa.xjtu.edu.cn/dxhd_index.jsp" target="_blank" title="大型活动"><img border="0" class="i_tzgg" src="AloeR/i_hyap.jpg" style="margin-top:8px"/></a>
+<a href="http://oa.xjtu.edu.cn/help.jsp" target="_blank" title="常见问题"><img border="0" class="i_tzgg" src="i_cjwt.jpg" style="margin-top:8px"/></a>
+<a href="http://985ap.xjtu.edu.cn/viewlist.php?id=traindetail&amp;pid=2" target="_blank" title="用户手册下载"><img border="0" class="i_tzgg" src="i_yhsc.jpg" style="margin-top:8px"/></a>
+<!--#endeditable--></div></td></tr></tbody></table></div></div>
+<div class="i_jdxw">
+<div class="i_jdxw_title">
+<div class="left" id="div_jdxw_a"><a class="i_jdxw_now" href="http://news.xjtu.edu.cn/" id="jdxw_a_1" onmouseover="switchJdxw(1)" target="_blank">交大新闻</a> <a class="i_jdxw" href="http://meeting.xjtu.edu.cn/" id="jdxw_a_2" onmouseover="switchJdxw(2)" target="_blank">学术信息</a></div>
+<div class="i_jdxw_more" id="div_jdxw_more"><a class="i_more" href="http://news.xjtu.edu.cn/" id="jdxw_more_1" target="_blank">更多&gt;&gt;</a> <a class="i_more" href="http://meeting.xjtu.edu.cn/" id="jdxw_more_2" style="display: none" target="_blank">更多&gt;&gt;</a></div>
+<div class="clear"> </div></div>
+<div class="i_jdxw_con" id="div_jdxw_ul">
+<ul class="i_jdxw" id="jdxw_ul_1"><!--#begineditable contype="" name="交大新闻" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="交大新闻" viewid="2588" stylesysid=""-->
+<script language="javascript" src="_dwr/interface/LinkListUtilDWRU8.js"></script>
+<script>
+document.getElementById('jdxw_ul_1').innerHTML="<li class=\"i_tzgg\">正在加载中．．．．．．</li>";
+LinkListUtilDWRU8.getNewsString('http://news.xjtu.edu.cn/info_list_u8.html',showNewsList);
+function showNewsList(data)
+{
+    var json = eval('(' +data+ ')');
+    if('ok'==json.msg)
+    {
+        var info = "";
+        for(var i=0;i<json.infos.length;i++)
+        {
+            if(json.infos[i].isnew)
+                info = info+"<li class=\"i_jdxw\"><a href=\""+json.infos[i].link+"\" class=\"i_jdxw_new\" target=\"_blank\" title=\""+json.infos[i].tip+"\">"+json.infos[i].title+"</a><img class=\"i_tzgg_new\" align=\"absmiddle\" src=\"AloeR/i_tzgg_new.jpg\" /><cite>"+json.infos[i].date+"</cite></li>";
+            else
+                info = info+"<li class=\"i_jdxw\"><a href=\""+json.infos[i].link+"\" class=\"i_jdxw_li\" target=\"_blank\" title=\""+json.infos[i].tip+"\">"+json.infos[i].title+"</a><cite>"+json.infos[i].date+"</cite></li>";
+        }
+        document.getElementById('jdxw_ul_1').innerHTML=info;
+    }
+}
+</script><!--#endeditable--> </ul>
+<ul class="i_jdxw" id="jdxw_ul_2" style="display: none"><!--#begineditable contype="" name="学术信息" action="" layout="" clone="0" namechanged="0" order="6" ispublic="0" tagname="学术信息" viewid="2551" stylesysid=""--> <li class="i_jdxw"><a class="i_jdxw_li" href="info/1041/28630.htm" target="_blank" title="Seismic Metamaterials with Low Frequency Wide Bandgaps Using Steel Barriers">Seismic Metamaterials with Low Frequency Wide Bandgaps Using Steel Barriers</a><cite>2020-01-07</cite>
+</li>
+<li class="i_jdxw"><a class="i_jdxw_li" href="info/1041/28624.htm" target="_blank" title="【前沿讲坛】Wettability matched interface for high efficiency heterogeneous catalysis">【前沿讲坛】Wettability matched interface for high efficiency heterogeneous catalysis</a><cite>2020-01-06</cite>
+</li>
+<li class="i_jdxw"><a class="i_jdxw_li" href="info/1041/28619.htm" target="_blank" title="Tiling of the plane">Tiling of the plane</a><cite>2020-01-03</cite>
+</li>
+<li class="i_jdxw"><a class="i_jdxw_li" href="info/1041/28618.htm" target="_blank" title="全面学习领会习近平强军思想">全面学习领会习近平强军思想</a><cite>2020-01-03</cite>
+</li>
+<li class="i_jdxw"><a class="i_jdxw_li" href="info/1041/28593.htm" target="_blank" title="元启发式算法—粒子群优化算法">元启发式算法—粒子群优化算法</a><cite>2019-12-30</cite>
+</li>
+<li class="i_jdxw"><a class="i_jdxw_li" href="info/1041/28581.htm" target="_blank" title="Estimating the diagnosed proportion of HIV in Japan">Estimating the diagnosed proportion of HIV in Japan</a><cite>2019-12-27</cite>
+</li>
+<li class="i_jdxw"><a class="i_jdxw_li" href="info/1041/28580.htm" target="_blank" title="Robust Machine Learning for Operations">Robust Machine Learning for Operations</a><cite>2019-12-27</cite>
+</li>
+<li class="i_jdxw"><a class="i_jdxw_li" href="info/1041/28579.htm" target="_blank" title="珠光体钢丝的多级结构与强化机制/Hierarchical Structure and Strengthening Mechanisms in Pearlitic Steel Wire">珠光体钢丝的多级结构与强化机制/Hierarchical Structure and Strengthening Mechanisms in Pearlitic Steel Wire</a><cite>2019-12-27</cite>
+</li>
+<li class="i_jdxw"><a class="i_jdxw_li" href="info/1041/28525.htm" target="_blank" title="“产经纵横讲坛”第十六讲:城市居民碳辨识能力扩散路径及引导策略">“产经纵横讲坛”第十六讲:城市居民碳辨识能力扩散路径及引导策略</a><cite>2019-12-20</cite>
+</li>
+<script>_showDynClickBatch(['dynclicks_u10_28630','dynclicks_u10_28624','dynclicks_u10_28619','dynclicks_u10_28618','dynclicks_u10_28593','dynclicks_u10_28581','dynclicks_u10_28580','dynclicks_u10_28579','dynclicks_u10_28525'],[28630,28624,28619,28618,28593,28581,28580,28579,28525],"wbnews", 868083490)</script>
+<!--#endeditable--></ul></div></div>
+<div class="clear"> </div></div>
+<div class="split"> </div>
+<div class="i_zzjg_top" id="div_zzjg_a"><a class="i_zzjg_now" href="#" id="zzjg_a_1" onmouseover="switchZzjg(1)">学院、中心</a> <a class="i_zzjg" href="#" id="zzjg_a_9" onmouseover="switchZzjg(9)">本科书院</a> <a class="i_zzjg" href="#" id="zzjg_a_2" onmouseover="switchZzjg(2)">党群机构</a> <a class="i_zzjg" href="#" id="zzjg_a_3" onmouseover="switchZzjg(3)">行政部门</a> <a class="i_zzjg" href="#" id="zzjg_a_4" onmouseover="switchZzjg(4)">直属单位</a> <a class="i_zzjg" href="#" id="zzjg_a_5" onmouseover="switchZzjg(5)">其他</a> <a class="i_zzjg" href="#" id="zzjg_a_6" onmouseover="switchZzjg(6)">附属单位</a> <a class="i_zzjg" href="#" id="zzjg_a_8" onmouseover="switchZzjg(8)">分党委</a> <a class="i_zzjg" href="http://qjxq.xjtu.edu.cn" id="zzjg_a_10" target="_blank">曲江校区</a> </div>
+<div class="i_zzjg">
+<div class="i_zzjg_left" id="div_zzjg_ul">
+<ul class="i_zzjg" id="zzjg_ul_1"><!--#begineditable contype="" name="学院中心" action="" layout="" clone="0" namechanged="0" order="7" ispublic="0" tagname="学院中心" viewid="2562" stylesysid=""--><script language="javascript" src="system/resource/js/openlink.js"></script> <li class="i_zzjg">
+<a class="i_zzjg_li" href="http://phych.xjtu.edu.cn/" target="_blank" title="理学院">理学院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://math.xjtu.edu.cn" target="_blank" title="">数学学院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://mec.xjtu.edu.cn/" target="_blank" title="机械学院">机械学院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://ee.xjtu.edu.cn/" target="_blank" title="电气学院">电气学院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://epe.xjtu.edu.cn/" target="_blank" title="能动学院">能动学院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://eie.xjtu.edu.cn/" target="_blank" title="电信学院">电信学部</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://mse.xjtu.edu.cn/" target="_blank" title="材料学院">材料学院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://hsce.xjtu.edu.cn" target="_blank" title="人居学院">人居学院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://slst.xjtu.edu.cn/" target="_blank" title="生命学院">生命学院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://sae.xjtu.edu.cn/" target="_blank" title="航天学院">航天学院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://clet.xjtu.edu.cn/" target="_blank" title="化工学院">化工学院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.med.xjtu.edu.cn/" target="_blank" title="医学院">医学部</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://fist.xjtu.edu.cn/" target="_blank" title="前沿科学技术研究院">前沿科学技术研究院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://sef.xjtu.edu.cn/" target="_blank" title="经金学院">经金学院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://jinhe.xjtu.edu.cn/" target="_blank" title="金禾中心">金禾中心</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://som.xjtu.edu.cn/" target="_blank" title="管理学院">管理学院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://sppa.xjtu.edu.cn/" target="_blank" title="公管学院">公管学院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://rwxy.xjtu.edu.cn/" target="_blank" title="人文学院">人文学院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://xmtxy.xjtu.edu.cn/" target="_blank" title="新媒体学院">新媒体学院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://mkszy.xjtu.edu.cn/" target="_blank" title="马克思主义学院">马克思主义学院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://fxy.xjtu.edu.cn/" target="_blank" title="法学院">法学院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://sfs.xjtu.edu.cn" target="_blank" title="外国语学院">外国语学院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://tyzx.xjtu.edu.cn/" target="_blank" title="体育中心">体育中心</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://sce.xjtu.edu.cn" target="_blank" title="继续教育学院（网络教育学院）">继续教育学院（网络教育学院）</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.xjtudlc.com/" target="_blank" title="网络教育学院">网络教育学院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://sie.xjtu.edu.cn/" target="_blank" title="国际教育学院">国际教育学院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://zzxtzx.xjtu.edu.cn" target="_blank" title="高端制造装备协同创新中心">制造协同中心</a>
+</li>
+<!--#endeditable--></ul>
+<ul class="i_zzjg" id="zzjg_ul_9" style="display: none"><!--#begineditable contype="" name="本科书院" action="" layout="" clone="0" namechanged="0" order="8" ispublic="0" tagname="本科书院" viewid="2577" stylesysid=""--> <li class="i_zzjg">
+<a class="i_zzjg_li" href="http://pksy.xjtu.edu.cn" target="_blank" title="">彭康书院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://wen.xjtu.edu.cn/" target="_blank" title="">文治书院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://zlsy.xjtu.edu.cn/" target="_blank" title="">宗濂书院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://nanyang.xjtu.edu.cn/" target="_blank" title="">南洋书院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://qdsy.xjtu.edu.cn/" target="_blank" title="">启德书院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://cy.xjtu.edu.cn/" target="_blank" title="">仲英书院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://lizhi.xjtu.edu.cn/" target="_blank" title="">励志书院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://cssy.xjtu.edu.cn/" target="_blank" title="">崇实书院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://bjb.xjtu.edu.cn/" target="_blank" title="钱学森书院">钱学森书院</a>
+</li>
+<!--#endeditable--></ul>
+<ul class="i_zzjg" id="zzjg_ul_2" style="display: none"><!--#begineditable contype="" name="党群机构" action="" layout="" clone="0" namechanged="0" order="9" ispublic="0" tagname="党群机构" viewid="2563" stylesysid=""--> <li class="i_zzjg">
+<a class="i_zzjg_li" href="http://office.xjtu.edu.cn/" target="_blank" title="党委办公室">党委办公室</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://jw.xjtu.edu.cn/" target="_blank" title="纪委办公室">纪委办公室</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://dwzzb.xjtu.edu.cn/" target="_blank" title="组织部">党委组织部</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://dwxcb.xjtu.edu.cn/" target="_blank" title="宣传部">党委宣传部</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://tzb.xjtu.edu.cn/" target="_blank" title="统战部">党委统战部</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://hr.xjtu.edu.cn/" target="_blank" title="">党委教师工作部</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://xsc.xjtu.edu.cn/" target="_blank" title="学生工作部">党委学生工作部</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://gs.xjtu.edu.cn/" target="_blank" title="">党委研究生工作部</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://jsjys.xjtu.edu.cn/" target="_blank" title="">党委人民武装部</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://bw.xjtu.edu.cn/" target="_blank" title="保卫部">保卫部</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://zys.xjtu.edu.cn/" target="_blank" title="党委政策研究室">党委政策研究室</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://gonghui.xjtu.edu.cn/" target="_blank" title="工会">校工会</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://tuanwei.tiaozhan.com/" target="_blank" title="团委">团委（学生会、研究生会）</a>
+</li>
+<!--#endeditable--></ul>
+<ul class="i_zzjg" id="zzjg_ul_3" style="display: none"><!--#begineditable contype="" name="行政部门" action="" layout="" clone="0" namechanged="0" order="10" ispublic="0" tagname="行政部门" viewid="2565" stylesysid=""--> <li class="i_zzjg">
+<a class="i_zzjg_li" href="http://office.xjtu.edu.cn/" target="_blank" title="校长办公室">校长办公室</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" title="">本科生院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://gs.xjtu.edu.cn" target="_blank" title="研究生院">研究生院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://due.xjtu.edu.cn/" target="_blank" title="教务处">教务处</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://std.xjtu.edu.cn/" target="_blank" title="科研院">科研院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://skc.xjtu.edu.cn/" target="_blank" title="社会科学处">社会科学处</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://hr.xjtu.edu.cn/" target="_blank" title="人力资源部">人力资源部</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://xsc.xjtu.edu.cn/" target="_blank" title="学生处">学生处</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://international.xjtu.edu.cn" target="_blank" title="国际合作与交流处">国际合作与交流处</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://jdcw.xjtu.edu.cn/" target="_blank" title="财务处">财务处</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://sjc.xjtu.edu.cn/" target="_blank" title="审计处">审计处</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.dpm.xjtu.edu.cn/" target="_blank" title="实验室与资产管理处">实验室与资产管理处</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://xkb.xjtu.edu.cn/" target="_blank" title="重点办">学科规划与建设办公室</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.ghjj.xjtu.edu.cn/" target="_blank" title="规划与基建管理中心">规划与基建管理中心</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://hq.xjtu.edu.cn" target="_blank" title="后勤保障部">后勤保障部</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://bw.xjtu.edu.cn/" target="_blank" title="保卫处">保卫处</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://ltxc.xjtu.edu.cn" target="_blank" title="离退处">离退处</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://jw.xjtu.edu.cn/" target="_blank" title="监察处">监察处</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://zs.xjtu.edu.cn/" target="_blank" title="招生办公室">招生办公室</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://job.xjtu.edu.cn/" target="_blank" title="学生就业创业中心">学生就业创业中心</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://alumni.xjtu.edu.cn/" target="_blank" title="">校友关系发展部</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://nic.xjtu.edu.cn/" target="_blank" title="">网络信息中心</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.ef.xjtu.edu.cn" target="_blank" title="">教育基金会</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://shjyc.xjtu.edu.cn/" target="_blank" title="社会教育管理处">社会教育管理处</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" title="保密工作办公室">保密工作办公室</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://qjxq.xjtu.edu.cn/" target="_blank" title="曲江校区">曲江校区</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://sgpx.xjtu.edu.cn/" target="_blank" title="干部教育培训基地">干部教育培训基地</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://cgb.xjtu.edu.cn/" target="_blank" title="采购与招标管理办公室">采购与招标管理办公室</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.iharbour.cn/" target="_blank" title="创新港管理办公室">创新港管理办公室</a>
+</li>
+<!--#endeditable--></ul>
+<ul class="i_zzjg" id="zzjg_ul_4" style="display: none"><!--#begineditable contype="" name="直属单位" action="" layout="" clone="0" namechanged="0" order="11" ispublic="0" tagname="直属单位" viewid="2566" stylesysid=""--> <li class="i_zzjg">
+<a class="i_zzjg_li" href="http://jfzx.xjtu.edu.cn/" target="_blank" title="教师教学发展中心">教师教学发展中心</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://wheec.edu.cn/" target="_blank" title="中国西部高等教育评估中心（高等教育研究所）">中国西部高等教育评估中心（高等教育研究所）</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.lib.xjtu.edu.cn/" target="_blank" title="图书馆">图书馆</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://58.206.125.28/" target="_blank" title="档案馆">档案馆</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://jdxqmuseum.xjtu.edu.cn/" target="_blank" title="">交大西迁博物馆</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://qkzx.xjtu.edu.cn/" target="_blank" title="期刊中心">期刊中心</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://gcf.xjtu.edu.cn/" target="_blank" title="工程坊">实践教学中心（工程坊）</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.museum.xjtu.edu.cn/" target="_blank" title="博物馆">博物馆</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://iac.xjtu.edu.cn/" target="_blank" title="分析测试共享中心">分析测试共享中心</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.collegian-health.xjtu.edu.cn/" target="_blank" title="校医院">校医院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://bjb.xjtu.edu.cn/" target="_blank" title="钱学森学院">钱学森学院</a>
+</li>
+<!--#endeditable--></ul>
+<ul class="i_zzjg" id="zzjg_ul_5" style="display: none"><!--#begineditable contype="" name="其他" action="" layout="" clone="0" namechanged="0" order="12" ispublic="0" tagname="社会服务" viewid="2567" stylesysid=""--> <li class="i_zzjg">
+<a class="i_zzjg_li" href="http://holding.xjtu.edu.cn/" target="_blank" title="西安交大资产经营有限公司">西安交大资产经营有限公司</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://kjjy.xjtu.edu.cn/" target="_blank" title="">科技与教育发展研究院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.xjtucc.edu.cn/" target="_blank" title="西安交通大学城市学院">西安交通大学城市学院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.xjtlu.edu.cn/" target="_blank" title="西交利物浦大学">西交利物浦大学</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.xajdyou.com/" target="_blank" title="交大幼儿园">交大幼儿园</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://tlo.xjtu.edu.cn/" target="_blank" title="西安交大科技园有限责任公司">西安交大科技园有限责任公司</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://holding.xjtu.edu.cn/" target="_blank" title="西安康桥后勤产业有限公司">西安康桥后勤产业有限公司</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" title="西安交大教育投资管理有限公司">西安交大教育投资管理有限公司</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.jdnyhotel.com/" target="_blank" title="西安交大南洋大酒店">西安交大南洋大酒店</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.ccatv.com/" target="_blank" title="陕西有线电视杂志社">陕西有线电视杂志社</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.xjtupress.com/" target="_blank" title="西安交通大学出版社/音像出版社">西安交通大学出版社/音像出版社</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.jdsyeng.com/" target="_blank" title="西安交大思源精密工程有限责任公司">西安交大思源精密工程有限责任公司</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.xjtuszyjy.com/" target="_blank" title="西安交通大学深圳研究院">深圳研究院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.xjtusz.cn/xjtu/default.asp" target="_blank" title="西安交通大学苏州研究院">苏州研究院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.xjqd.sd.cn/" target="_blank" title="西安交通大学青岛研究院">青岛研究院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.xjtuzhe.com/" target="_blank" title="浙江西安交通大学研究院">浙江研究院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.xjtugd.com/" target="_blank" title="广东西安交通大学研究院">广东研究院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" title="东汽研究院">东汽研究院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.xjtupress.com/" target="_blank" title="">西安交大出版社</a>
+</li>
+<!--#endeditable--></ul>
+<ul class="i_zzjg" id="zzjg_ul_6" style="display: none"><!--#begineditable contype="" name="附属单位" action="" layout="" clone="0" namechanged="0" order="13" ispublic="0" tagname="附属单位" viewid="2568" stylesysid=""--> <li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.dyyy.xjtu.edu.cn/" target="_blank" title="第一附属医院">第一附属医院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://2yuan.xjtu.edu.cn/" target="_blank" title="第二附属医院">第二附属医院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.dentalxjtu.com/" target="_blank" title="口腔医院">口腔医院</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.xajdfz.com.cn/" target="_blank" title="交大附中">交大附中</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://2fz.xjtu.edu.cn/" target="_blank" title="交大二附中">交大二附中</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.xajdfx.com/" target="_blank" title="交大附小">交大附小</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" title="医学院附设卫生学校">附设卫生学校</a>
+</li>
+<!--#endeditable--></ul>
+<ul class="i_zzjg" id="zzjg_ul_7" style="display: none"><!--#begineditable contype="" name="挂靠单位" action="" layout="" clone="0" namechanged="0" order="14" ispublic="0" tagname="挂靠单位" viewid="2569" stylesysid=""--> <li class="i_zzjg">
+<a class="i_zzjg_li" title="学位与研究生教育发展中心">学位与研究生教育发展中心</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://tlo.xjtu.edu.cn/" target="_blank" title="技术成果转移中心">技术成果转移中心</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://202.117.3.94/zzbtest33/" target="_blank" title="考核与绩效评估办公室">考核与绩效评估办公室</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://bw.xjtu.edu.cn/" target="_blank" title="校卫队">校卫队</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://202.117.41.126/" target="_blank" title="后勤服务中心">后勤服务中心</a>
+</li>
+<!--#endeditable--></ul>
+<ul class="i_zzjg" id="zzjg_ul_8" style="display: none"><!--#begineditable contype="" name="分党委" action="" layout="" clone="0" namechanged="0" order="15" ispublic="0" tagname="分党委" viewid="2564" stylesysid=""--> <li class="i_zzjg">
+<a class="i_zzjg_li" href="http://phych.xjtu.edu.cn/dtgh.htm" target="_blank" title="理学院党委">理学院党委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://math.xjtu.edu.cn/list2.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1130" target="_blank" title="">数学学院党委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://mec.xjtu.edu.cn/djgz/zzjj.htm" target="_blank" title="机械工程学院党委">机械学院党委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://ee.xjtu.edu.cn/fdw.htm" target="_blank" title="电气工程学院党委">电气学院党委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://epe.xjtu.edu.cn/xydj.htm" target="_blank" title="能源与动力学院党委">能动学院党委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://eie.xjtu.edu.cn/dtgh/xyfdw2.htm" target="_blank" title="电子与信息学部党委">电信学部党委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://mse.xjtu.edu.cn/jgsz1/dtgz.htm" target="_blank" title="材料科学与工程学院党委">材料学院党委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://hsce.xjtu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1039" target="_blank" title="人居环境与建筑工程学院党委">人居学院党委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://slst.xjtu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1193" target="_blank" title="生命学院党委">生命学院党委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://sae.xjtu.edu.cn/dtgh/zzjg.htm" target="_blank" title="航天航空学院党委">航天学院党委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://clet.xjtu.edu.cn/dtgz/zbsh.htm" target="_blank" title="">化学工程与技术学院党委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.med.xjtu.edu.cn/jcdj.htm" target="_blank" title="医学院党委">医学部党工委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://bms.xjtu.edu.cn/jcdj.htm" target="_blank" title="医学部基础医学院党委">医学部基础医学院党委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://forensmed.xjtu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1077" target="_blank" title="医学部法医学院党总支">医学部法医学院党总支</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://pharm.xjtu.edu.cn/dwgz.asp" target="_blank" title="医学部药学院党总支">医学部药学院党总支</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://fdwdj.xjtu.edu.cn/gwxydzz/dzz.htm" target="_blank" title="">医学部公共卫生学院党总支</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.dyyy.xjtu.edu.cn/dqgz.htm" target="_blank" title="http://yfydw.jdyfy.com/">第一附属医院党委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" title="第二附属医院党委">第二附属医院党委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.dentalxjtu.com/news.php?hcateid=129&amp;cateid=12911" target="_blank" title="口腔医院党委">口腔医院党委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://fist.xjtu.edu.cn/html/main.asp" target="_blank" title="科教前沿党总支">科教前沿党总支</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://sef.xjtu.edu.cn/lby1.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1022" target="_blank" title="经济与金融学院党委">经金学院党委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://som.xjtu.edu.cn/party/" target="_blank" title="管理学院党委">管理学院党委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://sppa.xjtu.edu.cn/xydj/zzjj.htm" target="_blank" title="公共政策与管理学院党委">公管学院党委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://rwxy.xjtu.edu.cn/xydj/fdw.htm" target="_blank" title="人文社会科学学院党委">人文学院党委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://xmtxy.xjtu.edu.cn/index.htm" target="_blank" title="">新媒体学院党总支</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://mkszy.xjtu.edu.cn/djgz/zzjj.htm" target="_blank" title="">马克思主义学院党委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://fxy.xjtu.edu.cn/dj/zzjj.htm" target="_blank" title="法学院党总支">法学院党总支</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://sfs.xjtu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1290" target="_blank" title="外国语学院党委">外国语学院党委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://tyzx.xjtu.edu.cn/“sbdxx”zl.htm" target="_blank" title="体育中心党总支">体育中心党总支</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://zss.xjtudlc.com/" target="_blank" title="继续教育学院党委">继续教育学院党委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://dxsdw.xjtu.edu.cn/" target="_blank" title="大学生党委">大学生党委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://jgdw.xjtu.edu.cn/" target="_blank" title="机关与直属单位党委">机关与直属单位党委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://ltxc.xjtu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1021" target="_blank" title="离退休党委">离退休党委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://holding.xjtu.edu.cn/dqgz/zzjj.htm" target="_blank" title="资产公司党委">资产公司党委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://hq.xjtu.edu.cn/hqdj/dwjj.htm" target="_blank" title="后勤物业党委">后勤保障部党委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://xjtujcjydw.xjtu.edu.cn/" target="_blank" title="基础教育党委">基础教育党委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://www.xjtucc.edu.cn/sjfy.jsp?wbtreeid=1391" target="_blank" title="城市学院党委">城市学院党委</a>
+</li>
+<li class="i_zzjg">
+<a class="i_zzjg_li" href="http://fdwdj.xjtu.edu.cn/szjddgw/szjddgw.htm" target="_blank" title="苏州教学科研基地党工委">苏州教科研基地党工委</a>
+</li>
+<!--#endeditable--></ul></div>
+<div class="i_zzjg_right" id="div_zzjg_right"> </div></div>
+<div class="split"> </div>
+<div class="i_cyzd">
+<div class="left"><img src="AloeR/i_cyzd.jpg"/></div>
+<div class="i_cyzd_right">
+<div class="i_cyzd_a" id="div_cyzd_a"><a class="i_cyzd_now" href="#" id="cyzd_a_1" onmouseover="switchCyzd(1)">校级信息系统</a> <a class="i_cyzd_de" href="#" id="cyzd_a_2" onmouseover="switchCyzd(2)">常用信息站点</a> <a class="i_cyzd_de" href="#" id="cyzd_a_3" onmouseover="switchCyzd(3)">公共信息资源</a> </div>
+<div class="clear"> </div>
+<div class="i_cyzd_ul" id="div_cyzd_ul">
+<ul class="i_cyzd" id="cyzd_ul_1"><!--#begineditable contype="" name="校级信息系统" action="" layout="" clone="0" namechanged="0" order="16" ispublic="0" tagname="常用站点" viewid="2571" stylesysid=""--> <div class="i_cyzd_li">
+<a class="i_cyzd" href="http://bbs.xjtu.edu.cn/" target="_blank" title="思源BBS">思源BBS</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://webmail.xjtu.edu.cn/" target="_blank" title="思源WebMail">思源WebMail</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://stu.xjtu.edu.cn/" target="_blank" title="思源学生Mail">思源学生Mail</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" title="思源空间">思源空间</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://my.xjtu.edu.cn/" target="_blank" title="校内信息门户">校内信息门户</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://gr.xjtu.edu.cn/" target="_blank" title="教师个人主页">教师个人主页</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://stdmis.xjtu.edu.cn/" target="_blank" title="科研管理信息系统">科研管理信息系统</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://xkfw.xjtu.edu.cn/" target="_blank" title="本科生选课系统">本科生选课系统</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://ehall.xjtu.edu.cn" target="_blank" title="本科师生服务系统">本科师生服务系统</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://202.117.1.11/info.htm" target="_blank" title="X J T U">X J T U</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://202.117.3.96/" target="_blank" title="校园活动">校园活动</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.lib.xjtu.edu.cn/" target="_blank" title="钱学森图书馆">钱学森图书馆</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.lib.xjtu.edu.cn/" target="_blank" title="中文资源检索">中文资源检索</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://meeting.xjtu.edu.cn/" target="_blank" title="学术资源">学术资源</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.xjtust.edu.cn/" target="_blank" title="科技在线">科技在线</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://jdcw.xjtu.edu.cn" target="_blank" title="工资查询系统">工资查询系统</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://photo.xjtu.edu.cn/photo/" target="_blank" title="校园图片网">校园图片网</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://byzt.xjtu.edu.cn/" target="_blank" title="毕业专题网">毕业专题网</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://cgb.xjtu.edu.cn/" target="_blank" title="公开招标信息">公开招标信息</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://px.xjtu.edu.cn/" target="_blank" title="信息化培训网">信息化培训网</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://auth.xjtu.edu.cn/" target="_blank" title="流量计费管理">流量计费管理</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://noc.xjtu.edu.cn/" target="_blank" title="防病毒软件服务">防病毒软件服务</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://news.xjtu.edu.cn/spjd.htm" target="_blank" title="视频交大">视频交大</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://alumni.xjtu.edu.cn/donation/index" target="_blank" title="在线捐赠">在线捐赠</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://gongpai.xjtu.edu.cn/" target="_blank" title="公派留学网">公派留学网</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://jypx.xjtu.edu.cn/" target="_blank" title="教育培训网">教育培训网</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://qiaolian.xjtu.edu.cn" target="_blank" title="西安交大侨联">西安交大侨联</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://tec.xjtu.edu.cn/" target="_blank" title="教师平台">教师平台</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://202.117.218.242" target="_blank" title="财务综合服务平台">财务综合服务平台</a>
+</div>
+<!--#endeditable--></ul>
+<ul class="i_cyzd" id="cyzd_ul_2" style="display: none"><!--#begineditable contype="" name="常用信息站点" action="" layout="" clone="0" namechanged="0" order="17" ispublic="0" tagname="常用信息站点" viewid="2574" stylesysid=""--> <div class="i_cyzd_li">
+<a class="i_cyzd" href="https://one.xjtu.edu.cn/EIP/schoolCalendar/schoolCalendar1.html" target="_blank" title="电子校历">电子校历</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://gmis.xjtu.edu.cn/" target="_blank" title="研究生信息查询">研究生信息查询</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://dean.xjtu.edu.cn/" target="_blank" title="本科生信息服务">本科生信息服务</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://xsc.xjtu.edu.cn/" target="_blank" title="本科生信息查询">本科生信息查询</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.xjtu.edu.cn/szdu_bssds.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1066" target="_blank" title="博士导师查询">博士导师查询</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.dpm.xjtu.edu.cn/" target="_blank" title="资产信息查询">资产信息查询</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://stdmis.xjtu.edu.cn/" target="_blank" title="科研项目查询">科研项目查询</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://jdcw.xjtu.edu.cn/" target="_blank" title="财务信息查询">财务信息查询</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://job.xjtu.edu.cn/" target="_blank" title="就业信息">就业信息</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.xjtu.edu.cn/jdgk/tjsj.htm" target="_blank" title="学校年鉴">学校年鉴</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.xjtu.edu.cn/szdw/zmjs.html" target="_blank" title="知名教授">知名教授</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://hr.xjtu.edu.cn/zpxx/gccrcyj.htm" target="_blank" title="人才招聘">人才招聘</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://58.206.125.28/" target="_blank" title="档案信息">档案信息</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://equip.xjtu.edu.cn" target="_blank" title="大型设备共享平台">大型设备共享平台</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://202.117.1.243" target="_blank" title="非在编人员管理">非在编人员管理</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.most.gov.cn/" target="_blank" title="科技部">科技部</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.moe.edu.cn/" target="_blank" title="教育部">教育部</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.nsfc.gov.cn/" target="_blank" title="国家自然科学基金委">国家自然科学基金委</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.npopss-cn.gov.cn/" target="_blank" title="全国社科规划办">全国社科规划办</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.cutech.edu.cn/" target="_blank" title="教育部科技发展中心">教育部科技发展中心</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.cscse.edu.cn/" target="_blank" title="教育部留学服务中心">教育部留学服务中心</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.sinoss.net/" target="_blank" title="教育部社科网管中心">教育部社科网管中心</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.snstd.gov.cn/" target="_blank" title="陕西省科技厅">陕西省科技厅</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.paper.edu.cn/" target="_blank" title="中国科技论文在线">中国科技论文在线</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.meeting.edu.cn/" target="_blank" title="中国学术会议在线">中国学术会议在线</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.chinanp.gov.cn/" target="_blank" title="国家重点新产品计划">国家重点新产品计划</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://bmp.xjtu.edu.cn/" target="_blank" title="教育部生物医学光子学网上合作研究中心">教育部生物医学光子学网上合作研究中心</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.etest.edu.cn/" target="_blank" title="教育部考试中心海外考试报名信息网">教育部考试中心海外考试报名信息网</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://mcm.xjtu.edu.cn/" target="_blank" title="西安交通大学数学建模">西安交通大学数学建模</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://createxa.xjtu.edu.cn/" target="_blank" title="">众创空间</a>
+</div>
+<!--#endeditable--></ul>
+<ul class="i_cyzd" id="cyzd_ul_3" style="display: none"><!--#begineditable contype="" name="公共信息资源" action="" layout="" clone="0" namechanged="0" order="18" ispublic="0" tagname="公共信息资源" viewid="2575" stylesysid=""--> <div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.edu.cn/" target="_blank" title="中国教育和科研网">中国教育和科研网</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://daxue.eol.cn/" target="_blank" title="中国大学">中国大学</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.edu.cn/HomePage/jiao_yu_zi_yuan/list.php?listid=545" target="_blank" title="美国大学">美国大学</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.edu.cn/HomePage/jiao_yu_zi_yuan/list.php?listid=522" target="_blank" title="国外大学">国外大学</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.edu.cn/HomePage/jiao_yu_zi_yuan/list_cernet.php?listid=687" target="_blank" title="国内高校BBS">国内高校BBS</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.edu.cn/HomePage/zhong_guo_jiao_yu/jiao_yu_yan_jiu/gao_deng/index.shtml" target="_blank" title="中国高等教育">中国高等教育</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.edu.cn/HomePage/jiao_yu_zi_yuan/list.php?listid=2111" target="_blank" title="中国高校图书馆">中国高校图书馆</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.edu.cn/HomePage/jiao_yu_zi_yuan/list.php?listid=2113" target="_blank" title="公共图书馆">公共图书馆</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.edu.cn/HomePage/jiao_yu_zi_yuan/list_cernet.php?listid=223" target="_blank" title="高校重点实验室">高校重点实验室</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.edu.cn/HomePage/jiao_yu_zi_yuan/list_cernet.php?listid=686" target="_blank" title="教育网娱乐">教育网娱乐</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.lib.xjtu.edu.cn/" target="_blank" title="国内报刊、杂志">国内报刊、杂志</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.univs.cn/" target="_blank" title="中国大学生在线">中国大学生在线</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.cctr.net.cn/" target="_blank" title="高校教学资源网">高校教学资源网</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://weblab.xjtu.edu.cn/" target="_blank" title="远程网络测控实验室">远程网络测控实验室</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://china-cotton.org/msc/" target="_blank" title="教育部学体联秘书处">教育部学体联秘书处</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.viryafoundation.org/" target="_blank" title="精进基金会">精进基金会</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.cylds.com/" target="_blank" title="中华青年精英基金会">中华青年精英基金会</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://202.117.3.94/slst/jdzjjh/" target="_blank" title="蒋大宗基金会">蒋大宗基金会</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://holding.xjtu.edu.cn/" target="_blank" title="后勤服务">后勤服务</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.cma.gov.cn/tqyb/index/57036/1.html" target="_blank" title="天气预报">天气预报</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.xbus.cn/" target="_blank" title="公交查询">公交查询</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.abkk.com/cn/train/search_station.asp" target="_blank" title="火车时刻">火车时刻</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.sunser.net/" target="_blank" title="新尚网">新尚网</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.9lvyou.com/map/xian/" target="_blank" title="西安地图">西安地图</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://gis.xjtu.edu.cn/" target="_blank" title="交大地图">交大地图</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://202.117.3.96/" target="_blank" title="校园活动">校园活动</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.xxia.com/" target="_blank" title="航班服务">航班服务</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://tzbx.xjtu.edu.cn" target="_blank" title="交大通洲保险">交大通洲保险</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://nic.xjtu.edu.cn/fwzn/zbrjxz.htm" target="_blank" title="软件下载">软件下载</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" title="交大电视台节目预告">交大电视台节目预告</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://202.117.3.63:8089/smis/salary.do" target="_blank" title="勤工助学工资申报">勤工助学工资申报</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.flymeal.cn/" target="_blank" title="飞饭网">飞饭网</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://www.12306.cn/" target="_blank" title="铁路网上售票">铁路网上售票</a>
+</div>
+<div class="i_cyzd_li">
+<a class="i_cyzd" href="http://202.117.218.41:8080/" target="_blank" title="软件通">软件通</a>
+</div>
+<!--#endeditable--></ul></div></div>
+<div class="clear"> </div></div>
+<div class="split"> </div>
+<div class="pw">
+<div class="i_left">
+<div class="i_left_top">
+<div class="left"><img src="AloeR/i_left_left.jpg"/></div>
+<div class="i_left_top_con" id="div_yjsy_a"><a class="i_left_now" href="#" id="yjsy_a_1" onmouseover="switchYjsy(1)">研究生院</a> <a class="i_left" href="#" id="yjsy_a_2" onmouseover="switchYjsy(2)">教务快讯</a> <a class="i_left" href="#" id="yjsy_a_3" onmouseover="switchYjsy(3)">科技快讯</a> <a class="i_left" href="#" id="yjsy_a_4" onmouseover="switchYjsy(4)">学术动态</a> <a class="i_left" href="#" id="yjsy_a_5" onmouseover="switchYjsy(5)">合作交流</a> </div>
+<div class="right"><img src="AloeR/i_left_right.jpg"/></div></div>
+<div class="i_left_con" id="div_yjsy_ul">
+<ul class="i_left" id="yjsy_ul_1"><!--#begineditable contype="" name="研究生院" action="" layout="" clone="0" namechanged="0" order="19" ispublic="0" tagname="研究生院" viewid="2552" stylesysid=""--> <li class="i_left"><a class="i_zhxw_li" href="http://gs.xjtu.edu.cn/info/1146/6658.htm" target="_blank" title="关于公布2019年研究生教改项目中期检查结果的通知">[研究生院]关于公布2019年研究生教改项目中期检查结果的通知</a><cite>2020-01-10</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="http://gs.xjtu.edu.cn/info/1147/6657.htm" target="_blank" title="关于做好2020年国家建设高水平大学公派研究生项目工作的通知">[研究生院]关于做好2020年国家建设高水平大学公派研究生项目工作的通知</a><cite>2020-01-10</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="http://gs.xjtu.edu.cn/info/1146/6656.htm" target="_blank" title="关于做好2019-2020学年第二学期研究生助教工作的通知">[研究生院]关于做好2019-2020学年第二学期研究生助教工作的通知</a><cite>2020-01-09</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="http://gs.xjtu.edu.cn/info/1149/6654.htm" target="_blank" title="2019年“蒋震奖（助）学金”推荐学生名单公示">[研究生院]2019年“蒋震奖（助）学金”推荐学生名单公示</a><cite>2020-01-06</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="http://gs.xjtu.edu.cn/info/1146/6644.htm" target="_blank" title="西安交通大学2020年春季学期研究生选班、调课及重修通知">[研究生院]西安交通大学2020年春季学期研究生选班、调课及重修通知</a><cite>2020-01-02</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="http://gs.xjtu.edu.cn/info/1149/6643.htm" target="_blank" title="关于2020年预毕业研究生信息核对的通知">[研究生院]关于2020年预毕业研究生信息核对的通知</a><cite>2020-01-02</cite>
+</li>
+<script>_showDynClickBatch(['dynclicks_u23_28655','dynclicks_u23_28652','dynclicks_u23_28642','dynclicks_u23_28625','dynclicks_u23_28608','dynclicks_u23_28607'],[28655,28652,28642,28625,28608,28607],"wbnews", 868083490)</script>
+<!--#endeditable-->
+<li class="i_left"><a class="i_left_more" href="http://gs.xjtu.edu.cn/" target="_blank">更多&gt;&gt;</a> </li></ul>
+<ul class="i_left" id="yjsy_ul_2" style="display: none"><!--#begineditable contype="" name="教务快讯" action="" layout="" clone="0" namechanged="0" order="20" ispublic="0" tagname="教务快讯" viewid="2553" stylesysid=""--> <li class="i_left"><a class="i_zhxw_li" href="info/1007/28661.htm" target="_blank" title="2019-2020学年第一学期“形势与政策” 慕课开课通知">[教务快讯]2019-2020学年第一学期“形势与政策” 慕课开课通知</a><cite>2020-01-11</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1007/28656.htm" target="_blank" title="关于2020年全国大学生英语竞赛报名的通知">[教务快讯]关于2020年全国大学生英语竞赛报名的通知</a><cite>2020-01-10</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1007/28650.htm" target="_blank" title="关于2019-2020学年第二学期初补考有关事宜的通知">[教务快讯]关于2019-2020学年第二学期初补考有关事宜的通知</a><cite>2020-01-10</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1007/28649.htm" target="_blank" title="2020年秋季日本北海道大学交换生项目选拔通知">[教务快讯]2020年秋季日本北海道大学交换生项目选拔通知</a><cite>2020-01-10</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1007/28646.htm" target="_blank" title="关于2020年寒假期间开放自习教室的通知">[教务快讯]关于2020年寒假期间开放自习教室的通知</a><cite>2020-01-09</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1007/28645.htm" target="_blank" title="关于公布2019-2020学年第二学期课表的温馨提示">[教务快讯]关于公布2019-2020学年第二学期课表的温馨提示</a><cite>2020-01-09</cite>
+</li>
+<script>_showDynClickBatch(['dynclicks_u24_28661','dynclicks_u24_28656','dynclicks_u24_28650','dynclicks_u24_28649','dynclicks_u24_28646','dynclicks_u24_28645'],[28661,28656,28650,28649,28646,28645],"wbnews", 868083490)</script>
+<!--#endeditable-->
+<li class="i_left"><a class="i_left_more" href="http://dean.xjtu.edu.cn/" target="_blank">更多&gt;&gt;</a> </li></ul>
+<ul class="i_left" id="yjsy_ul_3" style="display: none"><!--#begineditable contype="" name="科学技术处" action="" layout="" clone="0" namechanged="0" order="21" ispublic="0" tagname="科学技术处" viewid="2554" stylesysid=""--> <li class="i_left"><a class="i_zhxw_li" href="http://std.xjtu.edu.cn/info/1010/33316.htm" target="_blank" title="学校组织召开国家重点实验室2020年度专项设备采购工作推进会">[科技快讯]学校组织召开国家重点实验室2020年度专项设备采购工作推进会</a><cite>2019-12-27</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="http://std.xjtu.edu.cn/info/1010/33259.htm" target="_blank" title="科研院召开“不忘初心、牢记使命”专题民主生活会">[科技快讯]科研院召开“不忘初心、牢记使命”专题民主生活会</a><cite>2019-12-13</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="http://std.xjtu.edu.cn/info/1010/33215.htm" target="_blank" title="科研院开展“不忘初心、牢记使命”主题教育党课学习">[科技快讯]科研院开展“不忘初心、牢记使命”主题教育党课学习</a><cite>2019-11-29</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="http://std.xjtu.edu.cn/info/1010/33209.htm" target="_blank" title="沣西新城创新港管理服务办公室来校调研">[科技快讯]沣西新城创新港管理服务办公室来校调研</a><cite>2019-11-27</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="http://std.xjtu.edu.cn/info/1010/33202.htm" target="_blank" title="科研院党支部、宣传部党支部开展“不忘初心、牢记使命”主题教育志愿服务活动">[科技快讯]科研院党支部、宣传部党支部开展“不忘初心、牢记使命”主题教育志愿服务活动</a><cite>2019-11-22</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="http://std.xjtu.edu.cn/info/1010/33193.htm" target="_blank" title="科研院党支部集中学习十九届四中全会精神">[科技快讯]科研院党支部集中学习十九届四中全会精神</a><cite>2019-11-19</cite>
+</li>
+<script>_showDynClickBatch(['dynclicks_u25_28588','dynclicks_u25_28480','dynclicks_u25_28376','dynclicks_u25_28362','dynclicks_u25_28337','dynclicks_u25_28309'],[28588,28480,28376,28362,28337,28309],"wbnews", 868083490)</script>
+<!--#endeditable-->
+<li class="i_left"><a class="i_left_more" href="http://std.xjtu.edu.cn/" target="_blank">更多&gt;&gt;</a> </li></ul>
+<ul class="i_left" id="yjsy_ul_4" style="display: none"><!--#begineditable contype="" name="学术动态" action="" layout="" clone="0" namechanged="0" order="22" ispublic="0" tagname="学术动态" viewid="2555" stylesysid=""--> <li class="i_left"><a class="i_zhxw_li" href="http://meeting.xjtu.edu.cn/news/1/1875.htm" target="_blank" title="西安交大服务国家需求抢占国际直流开断制高点">[学术动态]西安交大服务国家需求抢占国际直流开断制高点</a><cite>2020-01-03</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="http://meeting.xjtu.edu.cn/news/1/1873.htm" target="_blank" title="西安交大陈烽教授团队科研成果入选2019中国光学十大新闻">[学术动态]西安交大陈烽教授团队科研成果入选2019中国光学十大新闻</a><cite>2020-01-03</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="http://meeting.xjtu.edu.cn/news/1/1872.htm" target="_blank" title="“民法典担保物权法编纂：问题与展望”学术讲座暨“法学研究方法、成果发表经验交流会”圆满举行">[学术动态]“民法典担保物权法编纂：问题与展望”学术讲座暨“法学研究方法、成果发表经验交流会”圆满举行</a><cite>2019-12-27</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="http://meeting.xjtu.edu.cn/news/1/1871.htm" target="_blank" title="外国语学院教师出席中国医药国际化与语言服务高端论坛">[学术动态]外国语学院教师出席中国医药国际化与语言服务高端论坛</a><cite>2019-11-24</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="http://meeting.xjtu.edu.cn/news/1/1870.htm" target="_blank" title="法学院举办心理健康主题讲座">[学术动态]法学院举办心理健康主题讲座</a><cite>2019-11-21</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="http://meeting.xjtu.edu.cn/news/1/1866.htm" target="_blank" title="【中国科技网】西安交大采用轧膜工艺制备出  高质量的钛酸钡基薄层化陶瓷">[学术动态]【中国科技网】西安交大采用轧膜工艺制备出  高质量的钛酸钡基薄层化陶瓷</a><cite>2019-11-11</cite>
+</li>
+<script>_showDynClickBatch(['dynclicks_u26_28617','dynclicks_u26_28613','dynclicks_u26_28576','dynclicks_u26_28346','dynclicks_u26_28324','dynclicks_u26_28251'],[28617,28613,28576,28346,28324,28251],"wbnews", 868083490)</script>
+<!--#endeditable-->
+<li class="i_left"><a class="i_left_more" href="http://meeting.xjtu.edu.cn/" target="_blank">更多&gt;&gt;</a> </li></ul>
+<ul class="i_left" id="yjsy_ul_5" style="display: none"><!--#begineditable contype="" name="合作交流" action="" layout="" clone="0" namechanged="0" order="23" ispublic="0" tagname="合作交流" viewid="2556" stylesysid=""--> <li class="i_left"><a class="i_zhxw_li" href="info/1012/28651.htm" target="_blank" title="2020年秋季日本北海道大学交换生项目选拔通知">[合作交流]2020年秋季日本北海道大学交换生项目选拔通知</a><cite>2020-01-10</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1012/28641.htm" target="_blank" title="关于做好2020年国家建设高水平大学公派研究生项目工作的通知">[合作交流]关于做好2020年国家建设高水平大学公派研究生项目工作的通知</a><cite>2020-01-09</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1012/28627.htm" target="_blank" title="关于韩国崔钟贤学术院2020-2021年度国际学术交流支援项目的申报通知">[合作交流]关于韩国崔钟贤学术院2020-2021年度国际学术交流支援项目的申报通知</a><cite>2020-01-06</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1012/28568.htm" target="_blank" title="关于2020年CSC-欧亚非地区部分国外合作奖学金项目的通知">[合作交流]关于2020年CSC-欧亚非地区部分国外合作奖学金项目的通知</a><cite>2019-12-26</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1012/28567.htm" target="_blank" title="关于2021年度CSC-日本政府（文部科学省）博士生、日本研究博士生奖学金项目的通知">[合作交流]关于2021年度CSC-日本政府（文部科学省）博士生、日本研究博士生奖学金项目的通知</a><cite>2019-12-26</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1012/28566.htm" target="_blank" title="关于2020年CSC-比利时微电子研究中心及比利时荷语鲁汶大学合作奖学金项目的通知">[合作交流]关于2020年CSC-比利时微电子研究中心及比利时荷语鲁汶大学合作奖学金项目的通知</a><cite>2019-12-26</cite>
+</li>
+<script>_showDynClickBatch(['dynclicks_u27_28651','dynclicks_u27_28641','dynclicks_u27_28627','dynclicks_u27_28568','dynclicks_u27_28567','dynclicks_u27_28566'],[28651,28641,28627,28568,28567,28566],"wbnews", 868083490)</script>
+<!--#endeditable-->
+<li class="i_left"><a class="i_left_more" href="http://zq.xjtu.edu.cn/gjc/" target="_blank">更多&gt;&gt;</a> </li></ul>
+<div class="clear"> </div></div>
+<div class="i_left_bottom">
+<div class="left"><img src="AloeR/i_left_bottom_left.jpg"/></div>
+<div class="right"><img src="AloeR/i_left_bottom_right.jpg"/></div></div></div>
+<div class="i_right">
+<div class="i_left_top">
+<div class="left"><img src="AloeR/i_left_left.jpg"/></div>
+<div class="i_left_top_con" id="div_jwkx_a"><a class="i_left_now" href="#" id="jwkx_a_1" onmouseover="switchJwkx(1)">团学动态</a> <a class="i_left" href="#" id="jwkx_a_2" onmouseover="switchJwkx(2)">人才招聘</a> <a class="i_left" href="#" id="jwkx_a_3" onmouseover="switchJwkx(3)">学生工作</a> <a class="i_left" href="#" id="jwkx_a_4" onmouseover="switchJwkx(4)">本科招生</a> <a class="i_left" href="#" id="jwkx_a_5" onmouseover="switchJwkx(5)">学生就业</a> </div>
+<div class="right"><img src="AloeR/i_left_right.jpg"/></div></div>
+<div class="i_left_con" id="div_jwkx_ul">
+<ul class="i_left" id="jwkx_ul_1"><!--#begineditable contype="" name="团学动态" action="" layout="" clone="0" namechanged="0" order="24" ispublic="0" tagname="团学动态" viewid="2557" stylesysid=""--> <li class="i_left"><a class="i_zhxw_li" href="info/1018/26484.htm" target="_blank" title="【通知】第三十九届交大之星报名开始">[团学动态]【通知】第三十九届交大之星报名开始</a><cite>2019-03-16</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1018/26437.htm" target="_blank" title="【通知】关于选拔推荐“2019全球青年领袖峰会”参会学生的通知">[团学动态]【通知】关于选拔推荐“2019全球青年领袖峰会”参会学生的通知</a><cite>2019-03-12</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1018/26432.htm" target="_blank" title="【预告】清华大学苏世民书院招生宣讲会">[团学动态]【预告】清华大学苏世民书院招生宣讲会</a><cite>2019-03-12</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1018/26420.htm" target="_blank" title="【公示】2019“知行中国-中美高校学生领袖学院”项目校内遴选结果">[团学动态]【公示】2019“知行中国-中美高校学生领袖学院”项目校内遴选结果</a><cite>2019-03-08</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1018/26400.htm" target="_blank" title="【公示】第18届“陕西青年五四奖章”推荐人选">[团学动态]【公示】第18届“陕西青年五四奖章”推荐人选</a><cite>2019-03-07</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1018/26393.htm" target="_blank" title="【四个一百】3月份讲座、报告预告">[团学动态]【四个一百】3月份讲座、报告预告</a><cite>2019-03-07</cite>
+</li>
+<script>_showDynClickBatch(['dynclicks_u28_26484','dynclicks_u28_26437','dynclicks_u28_26432','dynclicks_u28_26420','dynclicks_u28_26400','dynclicks_u28_26393'],[26484,26437,26432,26420,26400,26393],"wbnews", 868083490)</script>
+<!--#endeditable-->
+<li class="i_left"><a class="i_left_more" href="http://tuanwei.tiaozhan.com/" target="_blank">更多&gt;&gt;</a> </li></ul>
+<ul class="i_left" id="jwkx_ul_2" style="display: none"><!--#begineditable contype="" name="人才招聘" action="" layout="" clone="0" namechanged="0" order="25" ispublic="0" tagname="人才招聘" viewid="2558" stylesysid=""--> <li class="i_left"><a class="i_zhxw_li" href="http://hr.xjtu.edu.cn/info/1017/6594.htm" target="_blank" title="西安交通大学第六届丝绸之路青年学者春季研讨会">[人才招聘]西安交通大学第六届丝绸之路青年学者春季研讨会</a><cite>2020-01-09</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="http://hr.xjtu.edu.cn/info/1020/6571.htm" target="_blank" title="采购办招标管理文员招聘公告">[人才招聘]采购办招标管理文员招聘公告</a><cite>2019-12-12</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="http://hr.xjtu.edu.cn/info/1019/6564.htm" target="_blank" title="西安交通大学电信学部数据广播与工程技术研究中心实验技术岗位招聘公告">[人才招聘]西安交通大学电信学部数据广播与工程技术研究中心实验技术岗位招聘公告</a><cite>2019-12-09</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="http://hr.xjtu.edu.cn/info/1048/6563.htm" target="_blank" title="陕西省医疗健康大数据工程研究中心招聘科研人员">[人才招聘]陕西省医疗健康大数据工程研究中心招聘科研人员</a><cite>2019-12-06</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="http://hr.xjtu.edu.cn/info/1020/6558.htm" target="_blank" title="采购办招标管理主管招聘公告">[人才招聘]采购办招标管理主管招聘公告</a><cite>2019-11-26</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="http://hr.xjtu.edu.cn/info/1020/6557.htm" target="_blank" title="生命学院办公室主任招聘公告">[人才招聘]生命学院办公室主任招聘公告</a><cite>2019-11-22</cite>
+</li>
+<script>_showDynClickBatch(['dynclicks_u29_28659','dynclicks_u29_28473','dynclicks_u29_28449','dynclicks_u29_28435','dynclicks_u29_28356','dynclicks_u29_28341'],[28659,28473,28449,28435,28356,28341],"wbnews", 868083490)</script>
+<!--#endeditable-->
+<li class="i_left"><a class="i_left_more" href="http://hr.xjtu.edu.cn/zoxxlbye.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1017" target="_blank">更多&gt;&gt;</a> </li></ul>
+<ul class="i_left" id="jwkx_ul_3" style="display: none"><!--#begineditable contype="" name="学生工作" action="" layout="" clone="0" namechanged="0" order="26" ispublic="0" tagname="学生工作" viewid="2559" stylesysid=""--> <li class="i_left"><a class="i_zhxw_li" href="info/1009/28663.htm" target="_blank" title="大学生党委举行2019年度书院党建工作、">[学生工作]大学生党委举行2019年度书院党建工作、</a><cite>2020-01-12</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1009/28664.htm" target="_blank" title="关于表彰西安交通大学2019年“最美笔记”的决定">[学生工作]关于表彰西安交通大学2019年“最美笔记”的决定</a><cite>2020-01-12</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1009/28638.htm" target="_blank" title="2019年度书院教职工考核优秀名单公示">[学生工作]2019年度书院教职工考核优秀名单公示</a><cite>2020-01-08</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1009/28637.htm" target="_blank" title="公示">[学生工作]公示</a><cite>2020-01-08</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1009/28614.htm" target="_blank" title="关于在本科生中开展“最美笔记”评选活动的通知">[学生工作]关于在本科生中开展“最美笔记”评选活动的通知</a><cite>2020-01-02</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1009/28589.htm" target="_blank" title="世界名校都说不简单？牛津剑桥与交大谈“心事”">[学生工作]世界名校都说不简单？牛津剑桥与交大谈“心事”</a><cite>2019-12-28</cite>
+</li>
+<script>_showDynClickBatch(['dynclicks_u30_28663','dynclicks_u30_28664','dynclicks_u30_28638','dynclicks_u30_28637','dynclicks_u30_28614','dynclicks_u30_28589'],[28663,28664,28638,28637,28614,28589],"wbnews", 868083490)</script>
+<!--#endeditable-->
+<li class="i_left"><a class="i_left_more" href="http://xsc.xjtu.edu.cn/" target="_blank">更多&gt;&gt;</a> </li></ul>
+<ul class="i_left" id="jwkx_ul_4" style="display: none"><!--#begineditable contype="" name="本科招生" action="" layout="" clone="0" namechanged="0" order="27" ispublic="0" tagname="本科招生" viewid="2560" stylesysid=""--> <li class="i_left"><a class="i_zhxw_li" href="info/1016/28653.htm" target="_blank" title="西安交通大学2020年外语类保送生招生简章">[本科招生]西安交通大学2020年外语类保送生招生简章</a><cite>2020-01-09</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1016/28544.htm" target="_blank" title="关于某网站发布我校虚假招生简章的严正声明">[本科招生]关于某网站发布我校虚假招生简章的严正声明</a><cite>2019-12-24</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1016/28513.htm" target="_blank" title="西安交通大学2020年少年班招生考试初试指南">[本科招生]西安交通大学2020年少年班招生考试初试指南</a><cite>2019-12-18</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1016/28333.htm" target="_blank" title="西安交通大学2020年“少年班”招生简章">[本科招生]西安交通大学2020年“少年班”招生简章</a><cite>2019-11-21</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1016/28177.htm" target="_blank" title="2019年新生“育英奖学金”公示">[本科招生]2019年新生“育英奖学金”公示</a><cite>2019-10-30</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1016/28065.htm" target="_blank" title="2019年新生“育英奖学金”面试通知">[本科招生]2019年新生“育英奖学金”面试通知</a><cite>2019-10-13</cite>
+</li>
+<script>_showDynClickBatch(['dynclicks_u31_28653','dynclicks_u31_28544','dynclicks_u31_28513','dynclicks_u31_28333','dynclicks_u31_28177','dynclicks_u31_28065'],[28653,28544,28513,28333,28177,28065],"wbnews", 868083490)</script>
+<!--#endeditable-->
+<li class="i_left"><a class="i_left_more" href="http://zs.xjtu.edu.cn/" target="_blank">更多&gt;&gt;</a> </li></ul>
+<ul class="i_left" id="jwkx_ul_5" style="display: none"><!--#begineditable contype="" name="学生就业" action="" layout="" clone="0" namechanged="0" order="28" ispublic="0" tagname="学生就业" viewid="2561" stylesysid=""--> <li class="i_left"><a class="i_zhxw_li" href="info/1017/28662.htm" target="_blank" title="关于举办西安交通大学第八届创业实践大赛暨2020年国家级大学生创业训练项目选拔工作的通知">[学生就业]关于举办西安交通大学第八届创业实践大赛暨2020年国家级大学生创业训练项目选拔工作的通知</a><cite>2020-01-12</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1017/28636.htm" target="_blank" title="西安交通大学第二附属医院2020年招聘公告">[学生就业]西安交通大学第二附属医院2020年招聘公告</a><cite>2020-01-08</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1017/28604.htm" target="_blank" title="西安交通大学2019年就业质量报告">[学生就业]西安交通大学2019年就业质量报告</a><cite>2019-12-31</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1017/28578.htm" target="_blank" title="关于用人单位来校举办2020届毕业生春季校园招聘活动的通知">[学生就业]关于用人单位来校举办2020届毕业生春季校园招聘活动的通知</a><cite>2019-12-26</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1017/28557.htm" target="_blank" title="【全校选修课】创业训练与实践&amp;职业发展与规划">[学生就业]【全校选修课】创业训练与实践&amp;职业发展与规划</a><cite>2019-12-25</cite>
+</li>
+<li class="i_left"><a class="i_zhxw_li" href="info/1017/28481.htm" target="_blank" title="“可持续发展目标和联合国人才发展”讲座通知">[学生就业]“可持续发展目标和联合国人才发展”讲座通知</a><cite>2019-12-13</cite>
+</li>
+<script>_showDynClickBatch(['dynclicks_u32_28662','dynclicks_u32_28636','dynclicks_u32_28604','dynclicks_u32_28578','dynclicks_u32_28557','dynclicks_u32_28481'],[28662,28636,28604,28578,28557,28481],"wbnews", 868083490)</script>
+<!--#endeditable-->
+<li class="i_left"><a class="i_left_more" href="http://job.xjtu.edu.cn/" target="_blank">更多&gt;&gt;</a> </li></ul>
+<div class="clear"> </div></div>
+<div class="i_left_bottom">
+<div class="left"><img src="AloeR/i_left_bottom_left.jpg"/></div>
+<div class="right"><img src="AloeR/i_left_bottom_right.jpg"/></div></div></div></div>
+<div class="split"> </div>
+<div class="pw">
+<div class="i_bottom_left"><!--#begineditable contype="" name="个人借阅查询" action="" layout="" clone="0" namechanged="0" order="29" ispublic="0" tagname="个人借阅查询" viewid="2542" stylesysid=""-->
+<div class="i_grjy">
+<div class="i_grjy_top">个人借阅查询</div>
+<form action="http://innopac.lib.xjtu.edu.cn/patroninfo*chx" id="i_grjy" method="post" name="i_grjy" target="_blank">
+<table align="right" border="0" cellpadding="0" cellspacing="0" class="i_grjy">
+<tr>
+<td class="i_grjy">借书证号</td>
+<td class="i_grjy"><input class="i_grjy" id="code" name="code" type="text"/></td>
+</tr>
+<tr>
+<td class="i_grjy">密    码</td>
+<td class="i_grjy"><input class="i_grjy" id="pin" name="pin" type="password"/></td>
+</tr>
+<tr>
+<td class="i_grjy"></td>
+<td class="i_grjy"><input name="i_tijiao" src="images/AloeR/i_tijiao.jpg" type="image"/> <img border="0" name="i_tijiao" onclick="formReset('i_grjy');" src="images/AloeR/i_chongzhi.jpg"/></td>
+</tr>
+</table>
+</form>
+</div><!--#endeditable--><!--#begineditable contype="" name="馆藏书目查询" action="" layout="" clone="0" namechanged="0" order="30" ispublic="0" tagname="馆藏书目查询" viewid="2543" stylesysid=""-->
+<div class="i_gcsm">
+<div class="i_grjy_top">馆藏书目查询</div>
+<form action="http://innopac.lib.xjtu.edu.cn/search/X" id="guancangmulu" method="post" target="_blank">
+<table align="right" border="0" cellpadding="0" cellspacing="0" class="i_grjy">
+<tr>
+<td class="i_grjy">关键字</td>
+<td class="i_grjy"><input class="i_grjy" id="SEARCH" name="SEARCH" type="text"/></td>
+</tr>
+<tr>
+<td align="right" class="i_grjy" colspan="2">
+<label><input checked="checked" id="guanjianci" name="guancang" onclick="resetType('X')" type="radio"/>关键词</label>
+<label><input id="timing" name="guancang" onclick="resetType('t')" type="radio"/>题名</label>
+<label><input id="zhuti" name="guancang" onclick="resetType('d')" type="radio"/>主题</label>
+<label><input id="zuozhe" name="guancang" onclick="resetType('a')" type="radio"/>作者</label>
+</td>
+</tr>
+<tr>
+<td class="i_grjy"></td>
+<td class="i_grjy"><input name="i_tijiao" src="images/AloeR/i_tijiao.jpg" type="image"/> <img border="0" name="i_tijiao" onclick="formReset('guancangmulu');" src="images/AloeR/i_chongzhi.jpg"/></td>
+</tr>
+</table>
+</form>
+</div>
+</div><!--#endeditable--><!--#begineditable contype="" name="公积金查询" action="" layout="" clone="0" namechanged="0" order="31" ispublic="0" tagname="公积金查询" viewid="2544" stylesysid=""-->
+<div class="i_gjj">
+<div class="i_grjy_top">公积金查询</div>
+<form action="app/prodentfundchaxun.jsp" id="prodentfundchaxun" method="POST" onsubmit="javascript:return prodentfundchaxunCheck();" target="_blank">
+<table align="right" border="0" cellpadding="0" cellspacing="0" class="i_grjy">
+<tr>
+<td class="i_grjy">身份证号</td>
+<td class="i_grjy"><input class="i_grjy" id="identityno" name="identityno" type="text"/></td>
+</tr>
+<tr>
+<td class="i_grjy">工 资 号</td>
+<td class="i_grjy"><input class="i_grjy" id="wageno" name="wageno" type="password"/></td>
+</tr>
+<tr>
+<td class="i_grjy"><label>
+</label></td>
+<td class="i_grjy"><input name="i_tijiao" src="images/AloeR/i_tijiao.jpg" type="image"/> <img border="0" name="i_tijiao" onclick="formReset('prodentfundchaxun');" src="images/AloeR/i_chongzhi.jpg"/></td>
+</tr>
+</table>
+</form>
+</div>
+</div><!--#endeditable-->
+<div class="split"> </div>
+<div class="pw i_bottom">地址：陕西省西安市咸宁西路28号 邮编：710049 版权所有：西安交通大学 站点建设与维护：<a class="design" href="http://ic.xjtu.edu.cn/" target="_blank">网络信息中心</a> 陕ICP备05001571号<br/><!--#begineditable contype="" name="文字计数器" action="" layout="" clone="0" namechanged="0" order="32" ispublic="0" tagname="文字计数器" viewid="2579" stylesysid=""-->
+<span id="jsqspanjs2579js">读取内容中,请等待...</span>
+<script language="JavaScript" src="system/resource/js/jquery/jquery-1.3.min.js"></script>
+<script language="JavaScript">
+function getJSQjs2579js() { 
+    var url = '/system/resource/code/jsq.jsp?owner=868083490&columnid=1002&countertype=IP_TOTAL&basenum=0&len=8&r='+Math.random(); 
+    $.ajax({
+        type:'get',
+        url:url,
+        dataType:'text',
+        success:showJSQjs2579js
+    });
+}  
+function showJSQjs2579js(data) 
+{
+    var result="";
+    result+="<table width='1%' align='center'  >";
+    result+="<tr>";
+    result+="<td valign=middle align=center nowrap >";
+
+    result+="<span >您是第</span>";    
+ 
+    result+="<span  class='fontstyle2579' >"+data+"</span>";
+        
+    result+="<span >位访客</span>";
+ 
+    result+="</td>";
+    result+="</tr>";
+    result+="</table>";
+    if(result)
+    {
+        $("#jsqspanjs2579js").html(result);  
+    }    
+} 
+getJSQjs2579js() 
+</script><!--#endeditable--></div></body></html>
+

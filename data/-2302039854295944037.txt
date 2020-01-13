@@ -1,0 +1,262 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<title>交大人 干就要干出个好样子-西安交通大学数字报</title>
+<link href="css/ys.css" rel="stylesheet" type="text/css"/>
+<script language="Javascript" src="js/prototype.js"></script>
+<script language="Javascript" src="js/range1.js"></script>
+<script language="Javascript" src="js/calendar.js"></script>
+<script language="Javascript" src="js/menu.js"></script>
+<script language="Javascript" src="js/jquery-1.9.1.min.js"></script>
+<meta content="交大报,西安交大报,西安交大数字报,西安交大数字报纸 ,西安交大电子报" name="keywords">
+<meta content="交大报,西安交大报,西安交大数字报,西安交大数字报纸 ,西安交大电子报" name="description"/>
+<script type="text/javaScript">
+		function doZoom(size){
+			document.getElementById('zoom').style.fontSize=size+'px'}
+	</script>
+<style type="text/css">
+	.bantu_img {position:relative;  top:22px; left:15px;width:402px;height:542px;z-index:99;}
+</style>
+<script type="text/javascript">
+
+         jQuery(document).ready(function () {
+			 	  //通版
+			if(402>403){
+			jQuery('#zhankan').click(function(){
+			jQuery('img.bantu_img').css("width","790");
+			
+			  });
+			jQuery("#shousuo").click(function(){
+            jQuery("img.bantu_img").css("width","373");
+			
+            });
+			jQuery("#tongban").show();
+			}
+			if(402<403){
+			jQuery("#tongban").hide();
+			}
+			//选框移入移出
+		   jQuery("map").mouseover(function(event){
+  
+	    rangeDeltaX =11;
+		rangeDeltaY = -60;
+		drawLine(event.target,event);
+		  });
+
+		jQuery("#sss").mouseout(function(){
+		var divElm = document.getElementById("leveldiv");
+		divElm.style.border = "";
+	
+		showTitlePane(false);
+
+		});
+		jQuery("#ttt").mouseout(function(){
+		var divElm = document.getElementById("leveldiv");
+		divElm.style.border = "";
+	
+		showTitlePane(false);
+
+		});
+		var content = jQuery("#zoom").html().replace(/&nbsp;&nbsp;&nbsp;&nbsp;/g,"&#12288;&#12288;");
+		jQuery("#zoom").html(content);
+
+		//点击量和文章字数统计
+               var count1=content.length;
+			   jQuery.get("/tbarticle.do?epaper=sum&riqi="+"19-7-25"+"&banci="+"01"+"&title="+encodeURIComponent("交大人 干就要干出个好样子"),function(data,status){
+			  
+					var str = "文章字数："+count1+"&nbsp;&nbsp;&nbsp;&nbsp;文章浏览数："+data;;
+					jQuery("#div1").html(str);
+				});
+
+			     //日历控件
+			   	
+			var dd='19-7-25'.split('-');
+			$("#rili").html("<span  class='search_span1'>20"+dd[0]+"年"+dd[1]+"月"+dd[2]+"日</span>");
+            
+		});
+		</script>
+</meta></head>
+<body>
+<div id="ttt">
+</div><div id="leveldiv" style="z-index:100;  POSITION: absolute; pointer-events: none;"></div>
+<div class="tb_sxrb">
+<!--导航-->
+</div>
+<div class="main_02">
+<div class="logo_dt_1">
+</div>
+<div class="daoh">
+<div class="menu">
+<div class="menu_nei">
+<ul id="nav">
+<li class="top1">
+<a class="top_link" href="/"><span>数字报首页</span></a>
+</li>
+<li class="top1">
+<a class="top_link" href="" id="products"><span class="down">版面导航</span></a>
+<ul class="sub1">
+<li>
+<div onclick="window.open('index.htm','_self')"><a href="#">第01版：要闻</a></div>
+<div onclick="window.open('page_01.htm','_self')"><a href="#">第02版：综合信息</a></div>
+<div onclick="window.open('page_02.htm','_self')"><a href="#">第03版：综合信息</a></div>
+<div onclick="window.open('page_03.htm','_self')"><a href="#">第04版：校园笔会</a></div>
+</li>
+</ul>
+</li>
+<li class="top1">
+<a class="top_link" href="" id="contacts"><span class="down">标题导航</span></a>
+<ul class="sub2">
+<li>
+<div onclick="window.open('index_content_003.htm','_self')" title="我校召开2019年暑期工作会议">
+<div id="mp003" style="DISPLAY: inline">
+<a href="#">我校召开2019年暑期工作会议</a>
+</div>
+</div>
+<div onclick="window.open('index_content_002.htm','_self')" title="电气科学与技术研究院暨合作研究院入驻创新港">
+<div id="mp002" style="DISPLAY: inline">
+<a href="#">电气科学与技术研究院暨合作研究院入驻创新港</a>
+</div>
+</div>
+<div onclick="window.open('index_content_000.htm','_self')" title="学校教职工暑期全速推进重点工作">
+<div id="mp000" style="DISPLAY: inline">
+<a href="#">学校教职工暑期全速推进重点工作</a>
+</div>
+</div>
+<div onclick="window.open('index_content_001.htm','_self')" title="交大人 干就要干出个好样子">
+<div id="mp001" style="DISPLAY: inline">
+<a href="#">交大人 干就要干出个好样子</a>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="top1">
+<a class="top_link" href="outline.htm" id="privacy"><span>版面概览</span></a>
+</li>
+<li class="top1">
+<a class="top_link" href="/about.jsp" target="_blank"><span>联系我们</span></a>
+</li>
+<li class="shijian">
+<script type="text/javascript">
+ var today = new Date(); //新建一个Date对象
+  var date = today.getDate();//查询当月日期
+  var day = today.getDay();//查询当前星期几
+  var month = today.getMonth()+1;//查询月份
+  var year = today.getFullYear();//查询年份  
+  var hour=today.getHours();
+  var morning="";
+  if (hour>=8 & hour<=12) morning="上午好";
+  var week="";                               
+  if (day==0) week='星期日';
+  if (day==1) week='星期一';
+  if (day==2) week='星期二';
+  if (day==3) week='星期三';
+  if (day==4) week='星期四';
+  if (day==5) week='星期五';
+  if (day==6) week='星期六';
+  document.write(year+"年"+month+"月"+date+"日 "+week+" ");
+</script></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div style=" clear:both"></div>
+<div class="wrap_03">
+<div class="main">
+<div class="page">
+<div id="sss" style="width: 440px;height: 591px;float: left;background: url('images/bz_bg.png') no-repeat;">
+<img border="0" class="bantu_img" src="index.jpg" usemap="#Map"/>
+</div>
+<div id="tongban">
+<div class="dianji">通版阅读请点击：</div><div id="zhankan">展开通版</div> <div id="shousuo">收缩通版</div>
+</div>
+<div class="bott_1">
+<div class="b_bot">
+                        当前版：01版
+                </div>
+<div class="page_bottom">
+<a href="index.htm">首版</a>
+<a href="#">上一版</a>
+<a href="page_01.htm">下一版</a>
+<a href="page_03.htm">末版</a>
+</div>
+</div>
+</div>
+<div class="right">
+<div class="r_top">
+<div class="ss_rl"><span class="ss_rl_1">发布日期:</span><span class="ss_rl_2" id="rili"></span></div>
+<div class="search">
+<form action="/tbarticle.do?" id="Form1" method="get" name="formSearch" target="_blank">
+<input name="epaper" type="hidden" value="searchlistWy"/>
+<input name="STime" type="hidden" value=""/>
+<input name="ETime" type="hidden" value=""/>
+<div class="search_span"><select name="type" style=" font-size:12px; border:1px solid #D0D0D0;  height:25px; float:left; width:80px;"><option selected="selected" value="1">文章标题</option>
+<option value="2">文章内容</option>
+<option value="3">文章作者</option></select></div>
+<div class="search_text01">
+<input id="title" name="title" style="  border: 1px solid #D0D0D0;  width: 172px; height: 21px; line-height: 23px;  float: left;" type="text"/>
+</div>
+<div class="search_bat"><input height="25" name="image" onclick="return searchSubmit();" src="images/search_btn.jpg" type="image" width="60"/></div>
+</form>
+<script type="text/javascript">
+		function searchSubmit(){
+		var title = document.getElementById("title").value;
+			if(title==''){
+				alert('搜索关键字不能为空！');
+				return false;
+			}else{
+				return true;
+			}
+		
+		}
+	</script>
+</div>
+</div>
+<div class="bmnr">
+<div class="list_title">
+<a class="list_title_fanye" href="index_content_000.htm">上一篇</a>
+<a class="list_title_fanye" href="#">下一篇</a>
+<div class="list_title_ziti">字体：</div>
+<a class="list_title_ziti_a" href="javascript:doZoom(18)">放大<img src="images/fangda_icon.gif"/></a>
+<a class="list_title_ziti_a" href="javascript:doZoom(12)">缩小<img src="images/suoxiao_icon.gif"/></a>
+<a class="list_title_ziti_a" href="javascript:doZoom(14)">默认<img src="images/moren_icon.gif"/></a>
+</div>
+<div class="bmnr_con">
+<div class="bmnr_con_yinti">●思源时评</div>
+<div class="bmnr_con_biaoti">
+						交大人 干就要干出个好样子 	
+					</div>
+<div class="bmnr_con_yinti"> </div>
+<div class="bmnr_con_biaoti"><div id="div1" style="font-size:12px; class:#ccc; font-weight:100;height:20px"></div></div>
+<div class="bmnr_con_con">
+<div id="zoom">　　<strong>特约评论员 焦仲平</strong> <br/>　　“干就要干出个好样子！”这是2019年学校暑期工作会议上张迈曾书记的报告主题。这句话既是对当前学校全体师生干事创业热情的高度凝练，更是学校牢记使命担当、引领时代发展的豪迈宣言。历史总是要前进的，历史从不等待一切犹豫者、观望者、懈怠者、软弱者。这样一份工作报告以纵深的历史思维和宏阔的战略思维，为学校各项事业的下一步发展提出了明确要求，为交大师生立足新方位、找准新坐标、展现新作为指明了努力方向，注入了信心动力。 <br/>　　从历史大势来看，在近代以来漫长的历史进程中，中国人民经历了太多太多的磨难和付出，流淌了太多太多的鲜血和泪水。中国的大学正是孕育并成长于民族浩劫和国家危亡之际，南洋公学等建立于甲午战争后的中国第一批现代意义大学承载着“兴学强国”的梦想与重托。中国的大学从其诞生之日起就铭刻着“为民族而生，为时代而生”的伦理政治烙印。因此，中国大学的初心和使命就是“爱国、奋斗”。 <br/>　　今天，我们有幸赶上了这个民族最好的时代，中国人民已经在从富起来到强起来的征程上迈出了决定性的步伐。在新时代中国特色社会主义建设的重要时期，交大人必定回应新时代的呼唤，不断发挥西迁精神的示范作用和引领作用，勇挑时代重担，到国家最需要的地方建功立业，为民族和国家发展奉献智慧和力量。交大人，干就要干出个好样子！ <br/>　　从时代发展来看，世界面临百年未有之大变局，这给中华民族伟大复兴带来重大机遇。当今，第四次工业革命迅猛发展，网络化、信息化、智能化正在快速改变着经济社会结构，也给人们的生活方式带来很大变化。这一大变局对科技与教育提出了新的挑战。一方面，迫切需要大学通过人才培养和思想、知识和技术的原始创新，为世界和人类的文明进步作出应有的贡献。另一方面，大学传统的学科划分和科研组织已不能完全匹配科技发展的趋势，时代呼唤以“交叉、融合、拓展”为特征的新型学科架构。在这一变局中危和机同生并存，克服了危即是机，失去了机即是危。抓住机遇、迎接挑战，这就是交大人的唯一选择项。 <br/>　　“惟其艰难，才更显勇毅；惟其笃行，才弥足珍贵”。西安交大紧紧围绕建设世界一流大学的目标，以西迁精神、“四面旗帜”、四种文化重构学校的“精神逻辑”，以“四强五新”重构学校学科发展的“战略逻辑”，以绩效分配改革重构学校评价机制的“增长逻辑”，以“大平台、大项目、大成果、大团队”重构学校科学研究的“发展逻辑”，以创新港发展建设重构学校的“世界逻辑”。随着这些重要举措、“硬招实招”逐一落地，2019年上半年学校多项重要指标已经提前完成，在科研成果、科研获奖方面屡屡取得关键性的重大突破。但是，我们不能为取得的成绩而沾沾自喜，更不能有丝毫懈怠，必须风雨兼程、再接再厉。交大人，干就要干出个好样子！ <br/>　　从创新港建设现状来看，建设创新港，是科教引领国家发展的历史选择，也是交大构建世界一流大学增长点的现实选择。创新港以面向世界科技前沿、面向经济主战场、面向国家重大需求的现实问题为导向，以“大交叉、大融合”的“大平台”为基础，从适应并引领科技变革的需求出发开展跨学科、跨领域的研究，是交大人探索21世纪中国世界一流大学新形态，打造中国高等教育综合改革“交大样板”的“关键一招”。对于今天的西安交通大学来说，建设创建港具有重大现实意义和深远历史意义。 <br/>　　奋斗的征途上，一个个重要的时间节点，正是我们前行的坐标。当前创新港已经完成了科教板块159万平米的建设任务，取得了创新港空间建设的决定性胜利。目前，中国西部海外博士后创新示范中心、高性能计算中心、高端装备研究院、理化研究院、材料科学与工程研究院等已经成功入驻创新港，随后还有数十家研究院（中心）相继落户，其他配套服务设施正在紧锣密鼓地施工调试。2019年9月创新港将迎来她的第一批师生。创新港已经来了！“物有甘苦，尝之者识；道有夷险，履之者知”。唯物辩证法告诉我们，新生事物发展总会伴有这样那样的问题和困难，因此，交大人要直面问题，担起责任、拿出信心、采取行动，创造属于我们时代的光荣历史。交大人，干就要干出个好样子！ <br/>　　从个人事业成长来看，个人是社会的因子，人们在社会活动中通过社会关系实现自我。这也就是马克思所讲的“只有在集体中，个人才能获得全面发展其才能的手段”。因此，无论大到国家、民族发展，小到社群、集体发展，我们都要积极地以实际行动发挥主人翁精神，把个人理想追求融入波澜壮阔的国家和民族事业中，知识才会发挥更大作用，才能最终成就一番事业，在爱国奉献中书写精彩华章。 <br/>　　对于交大人而言，个人的发展与学校的前途和命运是唇齿相依的。如果学校的发展没有着落，个人的发展就无从谈起。学校能否顺利跨过发展的“刀锋期“，从根本上取决于今天交大每一名师生员工的努力和奉献。习近平总书记曾多次举战国赵括纸上谈兵、两晋学士虚谈废务的例子，就是警示我们要加强实践锻炼、真刀真枪打拼。每一个人的成长无捷径可走，经风雨、见世面才能壮筋骨、长才干。越是难事急事，交大人越要稳得住、沉得下，学真本领，练真功夫，把火热的实践作为最好的课堂，当几回“热锅上的蚂蚁”，多几次“连轴转”的经历，要保持“咬定青山不放松”的坚定，发扬“越是艰险越向前”的气概，集中精力做好自己的事情。交大人，干就要干出个好样子！ <br/>　　新时代，新使命，新担当，当前学校发展已经到了咬紧牙关的时候，屏息聚力的时候，比拼意志的时候，学校已然积蓄的发展势能，必将激励我们以必胜的信心、昂扬的斗志、扎实的努力投身学校各项事业的历史前行中，“干就要干出个好样子！”</div>
+<script charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript"></script>
+<script charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript"></script>
+</div>
+</div>
+<div style="clear:both"></div>
+<div class="fx">
+<div class="bshare-custom" style="position:relative; left:10px; top:10px">
+<a class="bshare-more" href="http://www.bShare.cn/" id="bshare-shareto" title="分享到">分享到</a><a class="bshare-weixin" title="分享到微信">微信</a><a class="bshare-qqim" title="分享到QQ好友">QQ好友</a><a class="bshare-qzone" title="分享到QQ空间">QQ空间</a><a class="bshare-sinaminiblog" title="分享到新浪微博">新浪微博</a><a class="bshare-more bshare-more-icon more-style-sharethis" title="更多平台"></a><span class="BSHARE_COUNT bshare-share-count">0</span></div><script charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=cc34420b-96de-4724-8b64-1634161dff4e&amp;pophcol=3&amp;lang=zh" type="text/javascript"></script><script charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript"></script>
+</div>
+</div>
+</div>
+<div style="clear:both;height:10px;"></div>
+</div></div>
+</body></html>
+<div class="main">
+<div class="bottom">
+版权所有：西安交通大学 陕ICP备05001571号  技术支持：<a href="http://www.joyhua.com">锦华科技</a>
+</div></div>
+<map name="Map">
+<area coords="0,0,0,0,0,0,0,0,0,0,0,0" href="#" shape="poly"/><area coords="32,333,270,506" href="index_content_000.htm" shape="rect"/>
+<area coords="278,107,364,498" href="index_content_001.htm" shape="rect"/>
+<area coords="34,214,270,325" href="index_content_002.htm" shape="rect"/>
+<area coords="34,101,270,204" href="index_content_003.htm" shape="rect"/>
+</map>
+
+

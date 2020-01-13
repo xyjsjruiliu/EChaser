@@ -1,0 +1,466 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html><head><title>群众路线教育实践活动专题网</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="CSS:AloeR@BMY,美工设计:阿颖" name="author"/>
+<meta content="西安交通大学 群众路线教育实践活动专题网" name="description"/><link href="AloeR/AloeR_qzlx.css" rel="stylesheet" type="text/css"/>
+<!--Announced at 2019-02-21 18:09:48-->
+<!-- CustomerNO:7765626265691e06697547545253554b03020000 -->
+<link href="index.vsb.css" rel="stylesheet" type="text/css">
+<meta content="群众路线教育实践活动专题网" name="keywords">
+<script src="system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,995137647)</script>
+</meta></link></head>
+<body>
+<div class="i_top"><img height="167" src="AloeR/i_top.jpg" width="980"/></div><!--#begineditable name="网站导航" clone="0" namechanged="0" order="0" ispublic="0" tagname="网站导航" viewid="43043" contype="" stylesysid="" layout="" action=""--><script>
+    var newimg1 = new Image();
+    newimg1.src = "/system/resource/images/nav/imgnav_vsb_level1_bg_1.gif";
+    var newimg2 = new Image();
+    newimg2.src = "/system/resource/images/nav/imgnav_vsb_level1_bg_2.gif";
+    var newimg3 = new Image();
+    newimg3.src = "/system/resource/images/nav/imgnav_vsb_level2_bg_1.png";
+</script>
+<!--[if IE 6]> <style>#c43043{behavior: url("/system/resource/js/hover.htc")</style><![endif]-->
+<div class="i_menu">
+<a class="i_menu" href="index.htm">首页</a>
+<a class="i_menu" href="gzjg.htm">工作机构</a>
+<a class="i_menu" href="zyjs.htm">重要精神</a>
+<a class="i_menu" href="xxdt.htm">学校动态</a>
+<a class="i_menu" href="jckx.htm">基层快讯</a>
+<a class="i_menu" href="xxxd.htm">学习心得</a>
+<a class="i_menu" href="gfgz.htm">各方关注</a>
+<a class="i_menu" href="http://www.xjtu.edu.cn/" target="_blank">交大主页</a> <a class="i_menu" href="http://xjtunews.xjtu.edu.cn/" target="_blank">新闻网首页</a>
+</div><!--#endeditable-->
+<div class="i_mid">
+<div class="i_mid_left">
+<div class="i_pic"><!--#begineditable name="头条内容展开变换图片" clone="0" namechanged="0" order="1" ispublic="0" tagname="头条内容展开变换图片" viewid="43045" contype="" stylesysid="" layout="" action=""-->
+<link href="system/resource/style/component/news/list/imagechangenews.css" rel="stylesheet" type="text/css"/>
+<script language="javascript" src="system/resource/js/news/imagechangenews.js"></script><script language="JavaScript">
+var u_2qesgy5ws6_icn = new ImageChangeNews("u_2qesgy5ws6_", 287, 218, 4, 2.0, true, false, false, true);
+
+//初始化图片, 并启动定时
+function u_2qesgy5ws6_init_img()
+{
+
+    u_2qesgy5ws6_icn.addimg("\/_mediafile\/qzlxjy\/2014\/04\/10\/_thumb\/25w9ffwhr1.jpg", "\/info\/1004\/1581.htm", "西安交大作风整改进行时", "");
+
+    u_2qesgy5ws6_icn.addimg("\/_mediafile\/qzlxjy\/2013\/09\/17\/_thumb\/2hkhumcj91.jpg", "\/info\/1004\/1353.htm", "西安交大党委专题研讨干部工作作风建设，要求边查…", "");
+
+    u_2qesgy5ws6_icn.addimg("\/_mediafile\/qzlxjy\/2013\/08\/20\/_thumb\/232a25iw3n.jpg", "\/info\/1005\/1281.htm", "人居学院党政领导班子开展党的群众路线教育实践活…", "");
+
+    u_2qesgy5ws6_icn.addimg("\/_mediafile\/qzlxjy\/2013\/07\/30\/_thumb\/2t5wsm05wg.jpg", "\/info\/1004\/1221.htm", "西安交大召开党的群众路线教育实践活动督导组第三…", "");
+
+    u_2qesgy5ws6_icn.addimg("\/_mediafile\/qzlxjy\/2013\/07\/12\/_thumb\/23d9jrvguw.jpg", "\/info\/1005\/1142.htm", "后勤物业党委召开深入开展党的群众路线教育实践活…", "");
+
+    u_2qesgy5ws6_icn.addimg("\/_mediafile\/qzlxjy\/2013\/07\/11\/_thumb\/2dqywdqsju.jpg", "\/info\/1005\/1141.htm", "机械学院装备所党支部赴延安吴起开展教育实践活动", "");
+
+    u_2qesgy5ws6_icn.changeimg(0);
+}
+</script><table border="0" cellpadding="0" cellspacing="0" style="padding:0px margin:0px;border:0px">
+<tr><td>
+<div style="OVERFLOW: hidden;height:218px;width:287px">
+<div align="center" id="u_2qesgy5ws6_div" style="padding:0px;margin:0px;border:0px solid black;background-color:black;FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2.0,transition=23);height:218px;width:287px">
+<div id="u_2qesgy5ws6_imgdiv" style="padding:0px;margin-top:0px;border:0px"><a id="u_2qesgy5ws6_url" target="_blank"><img border="0" height="218" id="u_2qesgy5ws6_pic" src="system/resource/images/space.gif" width="287"/></a></div>
+</div>
+<div style="filter:alpha(style=1,opacity=10,finishOpacity=80);width:286px;height:19px;text-align:right;top:-19px;position:relative;padding:0px;margin:0px;border:0px">
+<a ;="" class="imagechangenews_pnode" href="javascript:u_2qesgy5ws6_icn.changeimg(0)" id="u_2qesgy5ws6_selectNode0" target="_self">1</a><a ;="" class="imagechangenews_pnode" href="javascript:u_2qesgy5ws6_icn.changeimg(1)" id="u_2qesgy5ws6_selectNode1" target="_self">2</a><a ;="" class="imagechangenews_pnode" href="javascript:u_2qesgy5ws6_icn.changeimg(2)" id="u_2qesgy5ws6_selectNode2" target="_self">3</a><a ;="" class="imagechangenews_pnode" href="javascript:u_2qesgy5ws6_icn.changeimg(3)" id="u_2qesgy5ws6_selectNode3" target="_self">4</a><a ;="" class="imagechangenews_pnode" href="javascript:u_2qesgy5ws6_icn.changeimg(4)" id="u_2qesgy5ws6_selectNode4" target="_self">5</a><a ;="" class="imagechangenews_pnode" href="javascript:u_2qesgy5ws6_icn.changeimg(5)" id="u_2qesgy5ws6_selectNode5" target="_self">6</a>
+</div></div></td></tr>
+<tr><td height="22">
+<div align="center" style="overflow:hidden;text-overflow:ellipsis;height:22px;width:287px"><a class="titlestyle43045" id="u_2qesgy5ws6_newstitle" target="_blank"></a></div>
+</td></tr>
+<div align="left" display="none" style="overflow:hidden;text-overflow:ellipsis;height:0px;width:287px;padding-left:2px;padding-right:2px"><a class="summarystyle43045" id="u_2qesgy5ws6_newssummary" target="_blank"></a></div>
+</table><script language="JavaScript">u_2qesgy5ws6_init_img();</script><!--#endeditable--></div>
+<div class="i_search"><!--#begineditable name="简单检索" clone="0" namechanged="0" order="2" ispublic="0" tagname="简单检索2" viewid="43070" contype="" stylesysid="" layout="" action=""-->
+<form action="searchresult.jsp?wbtreeid=1001" method="post" name="a43070a" onsubmit="return subsearchdataa43070a()">
+<input name="Find" type="hidden" value="find"/><input name="entrymode" type="hidden" value="1"/><input id="INTEXT2" name="INTEXT2" type="hidden" value=""/><input name="news_search_code" type="hidden"/>
+<table cellpadding="0" cellspacing="1" class="i_search">
+<tr>
+<td>站内搜索</td>
+<input name="condition" type="hidden" value="0"/> <iframe frameborder="0" id="intextframea43070a" scrolling="no" src="about:blank" style="position:absolute;top:0px;left:0px;display:none"></iframe>
+<td><input class="i_search" name="INTEXT" type="text"/></td>
+<td><input name="i_search_btn" src="AloeR/i_search_btn.jpg" type="image"/></td>
+</tr>
+</table>
+</form>
+<script>
+function subsearchdataa43070a()
+{ 
+    if(checkDataa43070a(document.a43070a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+<script language="JavaScript" src="system/dwr/engine.js"></script>
+<script language="JavaScript" src="system/dwr/util.js"></script>
+<script language="JavaScript" src="system/dwr/interface/NewsSearchDWR.js"></script>
+<script language="JavaScript" src="system/resource/js/vsb_news_search.js"></script>
+<script language="JavaScript" src="system/resource/js/vsb_news_search_entry.js"></script>
+<script language="JavaScript" src="system/resource/js/language.js"></script>
+<script language="JavaScript" src="system/resource/js/base64.js"></script>
+<script language="JavaScript" src="system/resource/js/formfunc.js"></script>
+<script>    
+    news_searcha43070a = new vsb_news_search();
+    news_searcha43070a.isShowCode=false;
+    news_searcha43070a.tooltipid = 'tooltipa43070a';
+    news_searcha43070a.apptag = 'intextspana43070a';
+    news_searcha43070a.frametag = 'intextframea43070a';
+    news_search_entrya43070a = new vsb_news_search_entry();
+    news_search_entrya43070a.formname = "a43070a";
+    news_search_entrya43070a.news_search_obj = news_searcha43070a; 
+    news_search_entrya43070a.querytxtsize = 155
+    news_search_entrya43070a.yzmts ="您的查询过于频繁，请输入验证码后继续查询";
+    news_search_entrya43070a.qdstyle ="";
+    news_search_entrya43070a.qdname = "确定";
+    news_search_entrya43070a.qxstyle = "";
+    news_search_entrya43070a.qxname = "取消";    
+    function checkDataa43070a(formname)
+    {    
+        return news_search_entrya43070a.checkdata(formname)   
+    }
+    </script>
+<script language="javascript" src="system/resource/js/base64.js"></script>
+<!--#endeditable--></div></div>
+<div class="i_mid_right">
+<div class="i_mid_RL">
+<div class="i_mid_RLC"><!--#begineditable name="头条内容展开" clone="0" namechanged="0" order="3" ispublic="0" tagname="头条内容展开" viewid="43044" contype="" stylesysid="" layout="" action=""--><script language="javascript" src="system/resource/js/dynclicks.js"></script><div class="i_mid_RLT"><span class="i_mid_RLT"><a class="i_mid_RLM" href="info/1003/1584.htm">习近平在党的群众路线教育实践活动总结大…</a></span> </div>
+<div class="i_mid_RLD">习近平在党的群众路线教育实践活动总结大会上的讲话</div>
+<span class="i_mid_RLM"><a class="i_mid_RLM" href="info/1003/1584.htm">详细内容 &gt;&gt;</a></span>
+<div class="clear"> </div>
+<div class="i_mid_RLT"><span class="i_mid_RLT"><a class="i_mid_RLM" href="info/1003/1549.htm">中央纪委、中央教育实践活动领导小组发出…</a></span> </div>
+<div class="i_mid_RLD">近日，中央纪委、中央教育实践活动领导小组发出《关于在党的群众路线教育实践活动中严肃整治“会所中的歪风”的通知》。通知指出，近年来，一些地方将历史建筑、公园等公共资源变为私人会所的现象屡见不鲜…</div>
+<span class="i_mid_RLM"><a class="i_mid_RLM" href="info/1003/1549.htm">详细内容 &gt;&gt;</a></span>
+<div class="clear"> </div>
+<script>_showDynClickBatch(['dynclicks_u3_1584','dynclicks_u3_1549'],[1584,1549],"wbnews", 995137647)</script>
+<!--#endeditable--></div></div>
+<div class="i_mid_RR">
+<div class="i_zhxw">综合新闻</div>
+<div class="split"> </div><!--#begineditable name="综合新闻" clone="0" namechanged="0" order="4" ispublic="0" tagname="综合新闻" viewid="43074" contype="" stylesysid="" layout="" action=""-->
+<div class="winstyle43074" id="scrollupjs6y87pyfws6js" style="OVERFLOW: hidden;WIDTH: 251px;HEIGHT: 300px">
+<div id="scrollup1js6y87pyfws6js"><br/>
+<table class="winstyle43074">
+<tr>
+<td><span class="leaderfont43074">·</span></td>
+<td style="font-size:9pt">
+<a href="info/1005/1586.htm" target="_blank" title="一附院党委组织召开第二轮段教育实践活动“拟销号”整改工作答辩会">
+<span class="titlestyle43074">一附院党委组织召开第二轮段教育实…</span></a>
+<span></span>
+<span></span>
+</td>
+<td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle43074" style="width:1px"></span></td>
+</tr>
+<tr>
+<td><span class="leaderfont43074">·</span></td>
+<td style="font-size:9pt">
+<a href="info/1005/1585.htm" target="_blank" title="一附院召开党的群众路线教育实践活动整改工作督导组第三次会议">
+<span class="titlestyle43074">一附院召开党的群众路线教育实践活…</span></a>
+<span></span>
+<span></span>
+</td>
+<td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle43074" style="width:1px"></span></td>
+</tr>
+<tr>
+<td><span class="leaderfont43074">·</span></td>
+<td style="font-size:9pt">
+<a href="info/1003/1584.htm" target="_blank" title="习近平在党的群众路线教育实践活动总结大会上的讲话">
+<span class="titlestyle43074">习近平在党的群众路线教育实践活动…</span></a>
+<span></span>
+<span></span>
+</td>
+<td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle43074" style="width:1px"></span></td>
+</tr>
+<tr>
+<td><span class="leaderfont43074">·</span></td>
+<td style="font-size:9pt">
+<a href="info/1004/1583.htm" target="_blank" title="西安交大召开教育实践活动领导小组办公室第十次会议">
+<span class="titlestyle43074">西安交大召开教育实践活动领导小组…</span></a>
+<span></span>
+<span></span>
+</td>
+<td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle43074" style="width:1px"></span></td>
+</tr>
+<tr>
+<td><span class="leaderfont43074">·</span></td>
+<td style="font-size:9pt">
+<a href="info/1005/1582.htm" target="_blank" title="【整改进行时】曲江校区扎实推进整改落实工作">
+<span class="titlestyle43074">【整改进行时】曲江校区扎实推进整…</span></a>
+<span></span>
+<span></span>
+</td>
+<td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle43074" style="width:1px"></span></td>
+</tr>
+<tr>
+<td><span class="leaderfont43074">·</span></td>
+<td style="font-size:9pt">
+<a href="info/1004/1581.htm" target="_blank" title="西安交大作风整改进行时">
+<span class="titlestyle43074">西安交大作风整改进行时</span></a>
+<span></span>
+<span></span>
+</td>
+<td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle43074" style="width:1px"></span></td>
+</tr>
+<tr>
+<td><span class="leaderfont43074">·</span></td>
+<td style="font-size:9pt">
+<a href="info/1005/1580.htm" target="_blank" title="一附院召开党的群众路线教育实践活动总结大会">
+<span class="titlestyle43074">一附院召开党的群众路线教育实践活…</span></a>
+<span></span>
+<span></span>
+</td>
+<td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle43074" style="width:1px"></span></td>
+</tr>
+<tr>
+<td><span class="leaderfont43074">·</span></td>
+<td style="font-size:9pt">
+<a href="info/1005/1579.htm" target="_blank" title="人文学院召开党的群众路线教育实践活动总结报告会">
+<span class="titlestyle43074">人文学院召开党的群众路线教育实践…</span></a>
+<span></span>
+<span></span>
+</td>
+<td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle43074" style="width:1px"></span></td>
+</tr>
+<tr>
+<td><span class="leaderfont43074">·</span></td>
+<td style="font-size:9pt">
+<a href="info/1005/1578.htm" target="_blank" title="生命学院召开党的群众路线实践教育活动总结评议会">
+<span class="titlestyle43074">生命学院召开党的群众路线实践教育…</span></a>
+<span></span>
+<span></span>
+</td>
+<td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle43074" style="width:1px"></span></td>
+</tr>
+<tr>
+<td><span class="leaderfont43074">·</span></td>
+<td style="font-size:9pt">
+<a href="info/1005/1577.htm" target="_blank" title="法学院召开党的群众路线教育实践活动总结大会">
+<span class="titlestyle43074">法学院召开党的群众路线教育实践活…</span></a>
+<span></span>
+<span></span>
+</td>
+<td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle43074" style="width:1px"></span></td>
+</tr>
+<tr>
+<td><span class="leaderfont43074">·</span></td>
+<td style="font-size:9pt">
+<a href="info/1005/1575.htm" target="_blank" title="化工学院召开党的群众路线教育实践活动总结评议会">
+<span class="titlestyle43074">化工学院召开党的群众路线教育实践…</span></a>
+<span></span>
+<span></span>
+</td>
+<td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle43074" style="width:1px"></span></td>
+</tr>
+<tr>
+<td><span class="leaderfont43074">·</span></td>
+<td style="font-size:9pt">
+<a href="info/1005/1574.htm" target="_blank" title="航天学院召开党的群众路线教育实践活动总结大会">
+<span class="titlestyle43074">航天学院召开党的群众路线教育实践…</span></a>
+<span></span>
+<span></span>
+</td>
+<td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle43074" style="width:1px"></span></td>
+</tr>
+<tr>
+<td><span class="leaderfont43074">·</span></td>
+<td style="font-size:9pt">
+<a href="info/1005/1573.htm" target="_blank" title="管理学院召开党的群众路线教育实践活动总结大会">
+<span class="titlestyle43074">管理学院召开党的群众路线教育实践…</span></a>
+<span></span>
+<span></span>
+</td>
+<td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle43074" style="width:1px"></span></td>
+</tr>
+<tr>
+<td><span class="leaderfont43074">·</span></td>
+<td style="font-size:9pt">
+<a href="info/1005/1572.htm" target="_blank" title="医学部召开党的群众路线教育实践活动总结大会">
+<span class="titlestyle43074">医学部召开党的群众路线教育实践活…</span></a>
+<span></span>
+<span></span>
+</td>
+<td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle43074" style="width:1px"></span></td>
+</tr>
+<tr>
+<td><span class="leaderfont43074">·</span></td>
+<td style="font-size:9pt">
+<a href="info/1005/1571.htm" target="_blank" title="人居学院召开党的群众路线教育实践活动总结评议会">
+<span class="titlestyle43074">人居学院召开党的群众路线教育实践…</span></a>
+<span></span>
+<span></span>
+</td>
+<td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle43074" style="width:1px"></span></td>
+</tr>
+</table>
+</div>
+<div id="scrollup2js6y87pyfws6js"></div>
+</div>
+<script> 
+    function scrollupMarqueejs6y87pyfws6js()
+    { 
+        try
+        {
+            var scrollup = document.getElementById("scrollupjs6y87pyfws6js");
+            var scrollup1 = document.getElementById("scrollup1js6y87pyfws6js");
+    
+            //滚动到头继续滚
+            if(scrollup.scrollTop + scrollup.clientHeight == scrollup.scrollHeight)
+            {
+                scrollup.scrollTop-=scrollup1.clientHeight-1; 
+            }
+            else
+            {
+                scrollup.scrollTop++;
+            }
+            
+        } 
+        catch(e)
+        {
+        }
+    } 
+    var scrollupMyMarjs6y87pyfws6js;
+    function scrollupfunjs6y87pyfws6js()
+    {
+        var speed = 30; 
+        var scrollup = document.getElementById("scrollupjs6y87pyfws6js");
+        var scrollup1 = document.getElementById("scrollup1js6y87pyfws6js");
+        var scrollup2 = document.getElementById("scrollup2js6y87pyfws6js");
+        
+        scrollup2.innerHTML=scrollup1.innerHTML;
+        
+        if(scrollup1.clientHeight == 0 || scrollup1.clientHeight < 300)
+        {
+            scrollup1.style.height="300px";
+        }
+
+        if(scrollup2.clientHeight == 0 || scrollup2.clientHeight < 300)
+        {
+            scrollup2.style.height="300px";
+        }
+        
+        scrollupMyMarjs6y87pyfws6js=setInterval(scrollupMarqueejs6y87pyfws6js,speed); 
+        scrollup.onmouseover=function() {clearInterval(scrollupMyMarjs6y87pyfws6js)} 
+        scrollup.onmouseout=function() {scrollupMyMarjs6y87pyfws6js=setInterval(scrollupMarqueejs6y87pyfws6js,speed)} 
+    }
+    scrollupfunjs6y87pyfws6js();
+</script><!--#endeditable--></div></div>
+<div class="split"> </div>
+<div class="i_con_left">
+<div class="i_title"><span class="i_title">用户登录</span></div>
+<div class="i_login">
+<form action="#" method="post">
+<table cellpadding="0" cellspacing="0" class="i_login">
+<tbody>
+<tr>
+<td>姓名</td>
+<td><input class="i_login" name="i_login_username"/></td>
+<td><input src="AloeR/i_login_btn.jpg" type="image"/></td></tr>
+<tr>
+<td class="i_login_split" colspan="3"> </td></tr>
+<tr>
+<td>密码</td>
+<td><input class="i_login" name="i_login_password" type="password" value=""/></td>
+<td><input name="i_login_check" type="checkbox" value=""/>记住我</td></tr></tbody></table></form></div>
+<div class="clear"> </div></div>
+<div class="i_con_right">
+<div class="i_ad"><a href="http://dianxing.12371.cn/" target="_blank"><img src="pic/qzlx.jpg"/></a></div></div>
+<div class="split"> </div>
+<div class="i_con_left">
+<div class="i_title"><span class="i_title">资料汇编</span> <a class="i_left_more" href="zlhb.htm">更多 &gt;&gt;</a> </div>
+<div class="i_border">
+<div class="i_zlhb"><img class="i_zlhb" height="57" src="pic/i_zlhb_1.jpg" width="43"/> <span class="i_zlhb">重要论述</span> <span class="i_zlhb_d">[<a href="http://qzlx.xjtu.edu.cn/info/1012/1007.htm">详细</a>] [<a href="zlhb/zlhb1.htm">目录</a>]</span> </div>
+<div class="i_zlhb"><img class="i_zlhb" height="57" src="pic/i_zlhb_2.jpg" width="43"/> <span class="i_zlhb">专家辅导</span><span class="i_zlhb_d">[<a href="zlhb/zlhb2.htm">详细</a>] [<a href="zlhb/zlhb2.htm">目录</a>]</span> </div>
+<div class="i_zlhb"><img class="i_zlhb" height="57" src="pic/i_zlhb_3.jpg" width="43"/> <span class="i_zlhb">文件选编</span> <span class="i_zlhb_d">[<a href="http://qzlx.xjtu.edu.cn/info/1014/1106.htm">详细</a>] [<a href="zlhb/zlhb3.htm">目录</a>]</span> </div></div>
+<div class="split"> </div>
+<div class="i_title"><span class="i_title">作风建设辞典</span> <a class="i_left_more" href="zfjscd.htm">更多 &gt;&gt;</a> </div>
+<div class="i_border"><!--#begineditable name="作风建设辞典" clone="0" namechanged="0" order="5" ispublic="0" tagname="作风建设词典" viewid="43067" contype="" stylesysid="" layout="" action=""--><!-- <div class="i_zfjs"><A class="i_zfjs" href="#">《毛泽东 邓小平 江泽...</A></DIV> -->
+<div class="i_zfjs"><a href="info/1010/1558.htm">【民主作风】</a></div>
+<div class="i_zfjs"><a href="info/1010/1557.htm">【工作方法】</a></div>
+<div class="i_zfjs"><a href="info/1010/1556.htm">【党的先进性建设的根本任务】</a></div>
+<div class="i_zfjs"><a href="info/1010/1555.htm">【党的先进性建设】</a></div>
+<script>_showDynClickBatch(['dynclicks_u5_1558','dynclicks_u5_1557','dynclicks_u5_1556','dynclicks_u5_1555'],[1558,1557,1556,1555],"wbnews", 995137647)</script>
+<!--#endeditable--></div>
+<div class="split"> </div>
+<div class="i_title"><span class="i_title">作风建设视频</span> <a class="i_left_more" href="zfjssp.htm">更多 &gt;&gt;</a> </div>
+<div class="i_border"><!--#begineditable name="作风建设视频" clone="0" namechanged="0" order="6" ispublic="0" tagname="作风建设视频" viewid="43053" contype="" stylesysid="" layout="" action=""--><div class="i_zfjssp"><img src="AloeR/i_zfjssp.jpg"/><a href="info/1018/1114.htm">·党的群众路线教育实践活动领…</a></div>
+<div class="i_zfjssp"><img src="AloeR/i_zfjssp.jpg"/><a href="info/1018/1113.htm">·学校召开深入开展党的群众路…</a></div>
+<div class="i_zfjssp"><img src="AloeR/i_zfjssp.jpg"/><a href="info/1018/1112.htm">·中央党校韩庆祥教授为我校党…</a></div>
+<script>_showDynClickBatch(['dynclicks_u6_1114','dynclicks_u6_1113','dynclicks_u6_1112'],[1114,1113,1112],"wbnews", 995137647)</script>
+<!--#endeditable--></div>
+<div class="split"> </div></div>
+<div class="i_con_right">
+<div class="i_con_RL">
+<div class="i_con_RT"><span class="i_con_RT">重要精神</span> <a class="i_con_RTM" href="zyjs.htm">更多 &gt;&gt;</a> </div><!--#begineditable name="重要精神" clone="0" namechanged="0" order="7" ispublic="0" tagname="重要精神" viewid="43047" contype="" stylesysid="" layout="" action=""--><div class="i_zyjs"><a class="i_zyjs" href="info/1003/1584.htm">·习近平在党的群众路线教育实践活动总…</a> <cite>2014-10-09</cite></div>
+<div class="i_zyjs"><a class="i_zyjs" href="info/1003/1549.htm">·中央纪委、中央教育实践活动领导小组…</a> <cite>2013-12-27</cite></div>
+<div class="i_zyjs"><a class="i_zyjs" href="info/1003/1548.htm">·俞正声在京听取甘肃省群众路线教育实…</a> <cite>2013-12-25</cite></div>
+<div class="i_zyjs"><a class="i_zyjs" href="info/1003/1547.htm">·李克强听取广西党委群众路线教育实践…</a> <cite>2013-12-23</cite></div>
+<div class="i_zyjs"><a class="i_zyjs" href="info/1003/1495.htm">·刘云山：以认真的态度一鼓作气抓好教…</a> <cite>2013-12-18</cite></div>
+<script>_showDynClickBatch(['dynclicks_u7_1584','dynclicks_u7_1549','dynclicks_u7_1548','dynclicks_u7_1547','dynclicks_u7_1495'],[1584,1549,1548,1547,1495],"wbnews", 995137647)</script>
+<!--#endeditable--></div>
+<div class="i_con_RR">
+<div class="i_con_RT"><span class="i_con_RT">学校动态</span> <a class="i_con_RTM" href="xxdt.htm">更多 &gt;&gt;</a> </div><!--#begineditable name="学校动态" clone="0" namechanged="0" order="8" ispublic="0" tagname="学校动态" viewid="43048" contype="" stylesysid="" layout="" action=""--><div class="i_zyjs"><a class="i_zyjs" href="info/1004/1583.htm">·西安交大召开教育实践活动领导小组办公室…</a><cite>2014-09-29</cite></div>
+<div class="i_zyjs"><a class="i_zyjs" href="info/1004/1581.htm">·西安交大作风整改进行时</a><cite>2014-04-10</cite></div>
+<div class="i_zyjs"><a class="i_zyjs" href="info/1004/1568.htm">·西安交大召开党的群众路线教育实践活动督…</a><cite>2014-01-20</cite></div>
+<div class="i_zyjs"><a class="i_zyjs" href="info/1004/1560.htm">·西安交大召开常委会传达第22次全国高校党…</a><cite>2014-01-03</cite></div>
+<div class="i_zyjs"><a class="i_zyjs" href="info/1004/1561.htm">·西安交通大学2013年度十大新闻</a><cite>2013-12-31</cite></div>
+<script>_showDynClickBatch(['dynclicks_u8_1583','dynclicks_u8_1581','dynclicks_u8_1568','dynclicks_u8_1560','dynclicks_u8_1561'],[1583,1581,1568,1560,1561],"wbnews", 995137647)</script>
+<!--#endeditable--></div>
+<div class="split"> </div>
+<div class="i_con_RL">
+<div class="i_con_RT"><span class="i_con_RT">基层快讯</span> <a class="i_con_RTM" href="jckx.htm">更多 &gt;&gt;</a> </div><!--#begineditable name="基层快讯" clone="0" namechanged="0" order="9" ispublic="0" tagname="基层快讯" viewid="43049" contype="" stylesysid="" layout="" action=""--><div class="i_zyjs"><a class="i_zyjs" href="info/1005/1586.htm">·一附院党委组织召开第二轮段教育实践活动…</a> <cite>2014-12-12</cite></div>
+<div class="i_zyjs"><a class="i_zyjs" href="info/1005/1585.htm">·一附院召开党的群众路线教育实践活动整改…</a> <cite>2014-11-19</cite></div>
+<div class="i_zyjs"><a class="i_zyjs" href="info/1005/1582.htm">·【整改进行时】曲江校区扎实推进整改落实…</a> <cite>2014-05-13</cite></div>
+<div class="i_zyjs"><a class="i_zyjs" href="info/1005/1580.htm">·一附院召开党的群众路线教育实践活动总结…</a> <cite>2014-03-20</cite></div>
+<div class="i_zyjs"><a class="i_zyjs" href="info/1005/1579.htm">·人文学院召开党的群众路线教育实践活动总…</a> <cite>2014-03-19</cite></div>
+<script>_showDynClickBatch(['dynclicks_u9_1586','dynclicks_u9_1585','dynclicks_u9_1582','dynclicks_u9_1580','dynclicks_u9_1579'],[1586,1585,1582,1580,1579],"wbnews", 995137647)</script>
+<!--#endeditable--></div>
+<div class="i_con_RR">
+<div class="i_con_RT"><span class="i_con_RT">学习心得</span> <a class="i_con_RTM" href="xxxd.htm">更多 &gt;&gt;</a> </div><!--#begineditable name="学习心得" clone="0" namechanged="0" order="10" ispublic="0" tagname="学习心得" viewid="43050" contype="" stylesysid="" layout="" action=""--><div class="i_zyjs"><a class="i_zyjs" href="info/1006/1565.htm">·“走近”群众更要“走进”群众</a> <cite>2013-12-30</cite></div>
+<div class="i_zyjs"><a class="i_zyjs" href="info/1006/1564.htm">·张全景：建立长效机制　保持党与群众的密…</a> <cite>2013-12-26</cite></div>
+<div class="i_zyjs"><a class="i_zyjs" href="info/1006/1496.htm">·批评与自我批评要念好“四字经”</a> <cite>2013-12-18</cite></div>
+<div class="i_zyjs"><a class="i_zyjs" href="info/1006/1446.htm">·白春礼：缺了理想信念，就丢了精气神</a> <cite>2013-11-13</cite></div>
+<div class="i_zyjs"><a class="i_zyjs" href="info/1006/1445.htm">·赵正永：建设坚强前哨和巩固后院 充分发…</a> <cite>2013-11-13</cite></div>
+<script>_showDynClickBatch(['dynclicks_u10_1565','dynclicks_u10_1564','dynclicks_u10_1496','dynclicks_u10_1446','dynclicks_u10_1445'],[1565,1564,1496,1446,1445],"wbnews", 995137647)</script>
+<!--#endeditable--></div>
+<div class="split"> </div>
+<div class="i_con_RL">
+<div class="i_con_RT"><span class="i_con_RT">各方关注</span> <a class="i_con_RTM" href="gfgz.htm">更多 &gt;&gt;</a> </div><!--#begineditable name="各方关注" clone="0" namechanged="0" order="11" ispublic="0" tagname="各方关注" viewid="43051" contype="" stylesysid="" layout="" action=""--><div class="i_zyjs"><a class="i_zyjs" href="info/1007/1569.htm">·陕西省委三部门联合发出通知：向刘宝奇、…</a> <cite>2014-02-11</cite></div>
+<div class="i_zyjs"><a class="i_zyjs" href="info/1007/1563.htm">·81.2%受访者一直关注八项规定落实情况</a> <cite>2014-01-03</cite></div>
+<div class="i_zyjs"><a class="i_zyjs" href="info/1007/1562.htm">·中共“钉钉子”改作风 建章立制严治官</a> <cite>2013-12-30</cite></div>
+<div class="i_zyjs"><a class="i_zyjs" href="info/1007/1488.htm">·31所中管高校专题民主生活会反思五方面焦…</a> <cite>2013-12-16</cite></div>
+<div class="i_zyjs"><a class="i_zyjs" href="info/1007/1449.htm">·90.8%公众力挺中央继续严厉整治“四风”</a> <cite>2013-11-13</cite></div>
+<script>_showDynClickBatch(['dynclicks_u11_1569','dynclicks_u11_1563','dynclicks_u11_1562','dynclicks_u11_1488','dynclicks_u11_1449'],[1569,1563,1562,1488,1449],"wbnews", 995137647)</script>
+<!--#endeditable--></div>
+<div class="i_con_RR">
+<div class="i_con_RT"><span class="i_gzjg">工作机构</span> </div>
+<div class="i_gzjg">
+<div class="i_gzjg_con">
+<div class="i_gzjg_title">群众路线教育实践活动领导小组办公室</div>
+<div class="i_gzjg_tel">电　　话：82668242 82666874</div>
+<div class="i_gzjg_tel">E-mail：dwzzb@mail.xjtu.edu.cn<br/>         xcb@mail.xjtu.edu.cn</div></div></div></div>
+<div class="split"> </div></div>
+<div class="clear"> </div>
+<div class="i_yqlj">
+<div class="i_yqlj_title">友情链接</div>
+<div class="i_yqlj_li"><!--#begineditable name="友情链接" clone="0" namechanged="0" order="12" ispublic="0" tagname="友情链接" viewid="43052" contype="" stylesysid="" layout="" action=""-->
+<a href="http://dianxing.12371.cn/" target="_blank" title="榜样-共产党员网">
+<img border="0" class="i_yqlj" height="50" src="-684171.jpg" width="133"/>
+</a>
+<a href="http://www.moe.edu.cn/" target="_blank" title="教育部门户网站">
+<img border="0" class="i_yqlj" height="50" src="jiaoyub.jpg" width="133"/>
+</a>
+<a href="http://www.people.com.cn/" target="_blank" title="人民网">
+<img border="0" class="i_yqlj" height="50" src="renm.jpg" width="133"/>
+</a>
+<a href="http://www.xinhuanet.com/" target="_blank" title="新华网">
+<img border="0" class="i_yqlj" height="50" src="xh.jpg" width="133"/>
+</a>
+<a href="http://www.gmw.cn/" target="_blank" title="光明网">
+<img border="0" class="i_yqlj" height="50" src="gm.jpg" width="133"/>
+</a>
+<!--#endeditable--></div></div>
+<div class="clear"> </div></div>
+<div class="split"> </div>
+<div class="i_bottom">版权所有：西安交通大学 站点设计：<a class="design" href="http://nic.xjtu.edu.cn" target="_blank">网络信息中心</a> 陕ICP备06008037号<br/>地址：陕西省西安市咸宁西路28号 邮编：710049 电话：82668902 您是本站第<!--#begineditable name="计数器" clone="0" namechanged="0" order="13" ispublic="0" tagname="计数器" viewid="43082" contype="" stylesysid="" layout="" action=""-->
+<img src="system/_component/jsq/counter.jsp?wbtreeid=1001&amp;owner=995137647&amp;len=8&amp;style=1&amp;basenum=35628&amp;countertype=TOTAL_COUNTER"/>
+<!--#endeditable-->位访客</div>
+</body></html>

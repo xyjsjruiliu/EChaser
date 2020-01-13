@@ -1,0 +1,579 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html><head><title>西安交通大学网络信息中心</title><meta content="西安交通大学网络信息中心" name="keywords"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><link href="css/style.css" rel="stylesheet" type="text/css"/><script src="js/jquery.min.js" type="text/javascript"></script><script src="js/koala.min.js" type="text/javascript"></script><script src="js/ddsmoothmenu.js" type="text/javascript"></script><script src="js/terminator.min.js" type="text/javascript"></script><script>
+            <!--
+            function setTab(name, cursel, n) {
+                for(i = 1; i <= n; i++) {
+                    var menu = document.getElementById(name + i);
+                    var con = document.getElementById("con_" + name + "_" + i);
+                    menu.className = i == cursel ? "hover" : "";
+                    con.style.display = i == cursel ? "block" : "none";
+                }
+            }
+            //-->
+        </script>
+<!--Announced by Visual SiteBuilder 9-->
+<link href="_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230697547545257544003060005 -->
+<link href="index.vsb.css" rel="stylesheet" type="text/css"/>
+<script src="/system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1380259949)</script>
+</link></head>
+<body>
+<div id="wrapper">
+<div class="xian_top"><!--head start-->
+<div class="top">
+<div class="logo fl"><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="LOGO" viewid="180161" contentviewid="" contype="" stylesysid="" layout="" action="" name="LOGO"-->
+<img alt="网络信息中心" border="0" height="72" src="images/logo.png" title="网络信息中心" width="530"/><!--#endeditable--></div>
+<div class="top_right fr"><!--#begineditable clone="0" namechanged="0" order="1" ispublic="0" tagname="顶部语言切换-链接列表" viewid="204725" contentviewid="" contype="" stylesysid="" layout="" action="" name="顶部语言切换-链接列表"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script><div class="top_links">
+<a href="index.htm">中文版</a> |
+<a href="English.htm">English</a>
+</div><!--#endeditable-->
+<div class="ssbg"><!--#begineditable clone="0" namechanged="0" order="2" ispublic="0" tagname="全文检索" viewid="180162" contentviewid="" contype="" stylesysid="" layout="" action="" name="全文检索"--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode180162').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword180162").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword180162").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword180162").value = base64.encode(document.getElementById("lucenenewssearchkeyword180162").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode180162"));
+        return true;
+    } 
+</script>
+<form action="ssjgy.jsp?wbtreeid=1001" id="au2a" method="post" name="au2a" onsubmit="return _nl_ys_check()" style="display: inline">
+<input id="lucenenewssearchkeyword180162" name="lucenenewssearchkeyword" type="hidden" value=""/><input id="_lucenesearchtype180162" name="_lucenesearchtype" type="hidden" value="1"/><input id="searchScope180162" name="searchScope" type="hidden" value="0"/>
+<input class="sou fl" id="showkeycode180162" name="showkeycode" onblur="if (value ==''){value='Search'};this.style.color='#c7e3ff';" onfocus="if (value =='Search'){value =''};this.style.color='#fafafa';" style="vertical-align: middle; color: rgb(187, 187, 187)" type="text" value="Search">
+<input class="suo fr" src="images/ss.png" type="image">
+</input></input></form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable--></div></div><!--nav开始-->
+<div class="nav_da clearfix">
+<div class="nav">
+<div class="ddsmoothmenu" id="smoothmenu1"><!--#begineditable clone="0" namechanged="0" order="3" ispublic="0" tagname="网站导航" viewid="180163" contentviewid="" contype="" stylesysid="" layout="" action="" name="网站导航"--><ul>
+<li>
+<a class="cur" href="index.htm">首页</a>
+</li>
+<li>
+<a href="zxgk/zxjj.htm">中心概况</a>
+<ul>
+<li>
+<a href="zxgk/zxjj.htm">中心简介</a>
+</li>
+<li>
+<a href="zxgk/zzjg.htm">组织机构</a>
+</li>
+<li>
+<a href="zxgk/yjcg.htm">研究成果</a>
+</li>
+<li>
+<a href="zxgk/mfxf.htm">模范先锋</a>
+</li>
+<li>
+<a href="zxgk/zxdsj.htm">中心大事记</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="xwzx/xwzx.htm">新闻中心</a>
+<ul>
+<li>
+<a href="xwzx/xwzx.htm">新闻资讯</a>
+</li>
+<li>
+<a href="xwzx/mtbd.htm">媒体报道</a>
+</li>
+<li>
+<a href="xwzx/tzgg.htm">通知公告</a>
+</li>
+<li>
+<a href="xwzx/xydt.htm">行业动态</a>
+</li>
+<li>
+<a href="xwzx/gzzd.htm">规章制度</a>
+</li>
+<li>
+<a href="xwzx/hdsp.htm">活动视频</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="wlfw/wlfw.htm">网络服务</a>
+<ul>
+<li>
+<a href="wlfw/wlfw.htm">网络服务</a>
+</li>
+<li>
+<a href="wlfw/xjwgh.htm">西交网管会</a>
+</li>
+<li>
+<a href="wlfw/wlyxzb.htm">网络运行周报</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="xxhjs/jcyyfw.htm">信息化建设</a>
+<ul>
+<li>
+<a href="xxhjs/jcyyfw.htm">基础应用服务</a>
+</li>
+<li>
+<a href="xxhjs/jxjwfw.htm">教学教务服务</a>
+</li>
+<li>
+<a href="xxhjs/xwglfw.htm">校务管理服务</a>
+</li>
+<li>
+<a href="xxhjs/kycwfw.htm">科研财务服务</a>
+</li>
+<li>
+<a href="xxhjs/dwxxhfwzx.htm">对外信息化服务专项</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="gszx/fwjj.htm">高算中心</a>
+<ul>
+<li>
+<a href="gszx/fwjj.htm">服务简介</a>
+</li>
+<li>
+<a href="gszx/zhsq.htm">账号申请</a>
+</li>
+<li>
+<a href="gszx/xgcg.htm">相关成果</a>
+</li>
+<li>
+<a href="gszx/fwzn.htm">服务指南</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="wlaq/yjtb.htm">网络安全</a>
+<ul>
+<li>
+<a href="wlaq/yjtb.htm">预警通报</a>
+</li>
+<li>
+<a href="wlaq/jsgf.htm">技术规范</a>
+</li>
+<li>
+<a href="wlaq/wlaqzs.htm">网络安全知识</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="dyzj/zbjj.htm">党员之家</a>
+<ul>
+<li>
+<a href="dyzj/zbjj.htm">支部简介</a>
+</li>
+<li>
+<a href="dyzj/zzsh.htm">组织生活</a>
+</li>
+<li>
+<a href="dyzj/zbly.htm">支部留影</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="fwzn/zlxz.htm">服务指南</a>
+<ul>
+<li>
+<a href="fwzn/zlxz.htm">资料下载</a>
+</li>
+<li>
+<a href="fwzn/zbrjxz.htm">正版软件下载</a>
+</li>
+<li>
+<a href="fwzn/sdgj.htm">杀毒工具</a>
+</li>
+<li>
+<a href="fwzn/xmgl.htm">项目管理</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="zgjyhkyjsjw_CERNET_xbzx.htm">中国教育和科研计算机网（CERNET)西北中心</a>
+</li>
+</ul><!--#endeditable--></div><script type="text/javascript">
+                                ddsmoothmenu.init({
+                                    mainmenuid: "smoothmenu1", //menu DIV id
+                                    orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+                                    classname: 'ddsmoothmenu', //class added to menu's outer DIV
+                                    //customtheme: ["#1c5a80", "#18374a"],
+                                    contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+                                })
+                            </script></div></div></div></div><!--banner-->
+<div class="focus" id="fsD1"><!--#begineditable clone="0" namechanged="0" order="4" ispublic="0" tagname="图片列表-banner" viewid="180164" contentviewid="" contype="" stylesysid="" layout="" action="" name="图片列表-banner"--> <div class="fPic" id="D1pic1">
+<div class="fcon" style="display: none">
+<a href="https://www.edu.cn/c_html/cernet/25/liw/" onclick='_addDynClicks("wbimage", 1380259949, 45474)' target="_blank">
+<img src="images/nic2019102501.png" style="opacity: 1"/>
+</a>
+</div>
+<div class="fcon" style="display: none">
+<a href="#" onclick='_addDynClicks("wbimage", 1380259949, 45375)' target="_blank">
+<img src="images/nic2019091701.jpg" style="opacity: 1"/>
+</a>
+</div>
+<div class="fcon" style="display: none">
+<a href="info/1016/5271.htm" onclick='_addDynClicks("wbimage", 1380259949, 45261)' target="_blank">
+<img src="images/2019082101.jpg" style="opacity: 1"/>
+</a>
+</div>
+<div class="fcon" style="display: none">
+<a href="http://nic.xjtu.edu.cn/info/1016/5231.htm" onclick='_addDynClicks("wbimage", 1380259949, 45222)' target="_blank">
+<img src="images/2019072302nic.jpg" style="opacity: 1"/>
+</a>
+</div>
+<div class="fcon" style="display: none">
+<a href="http://nic.xjtu.edu.cn/info/1016/5206.htm" onclick='_addDynClicks("wbimage", 1380259949, 45212)' target="_blank">
+<img src="images/nic2019072201.jpg" style="opacity: 1"/>
+</a>
+</div>
+</div>
+<div class="fbg">
+<div class="D1fBt" id="D1fBt">
+<a class="current" hidefocus="true" href="javascript:void(0)" target="_self"><i>1</i></a>
+<a hidefocus="true" href="javascript:void(0)" target="_self"><i>2</i></a>
+<a hidefocus="true" href="javascript:void(0)" target="_self"><i>3</i></a>
+<a hidefocus="true" href="javascript:void(0)" target="_self"><i>4</i></a>
+<a hidefocus="true" href="javascript:void(0)" target="_self"><i>5</i></a>
+</div>
+</div><!--#endeditable--></div><script type="text/javascript">
+                Qfast.add('widgets');
+                Qfast(false, 'widgets', function() {
+                    K.tabs({
+                        id: 'fsD1', //????????id  
+                        conId: "D1pic1", //** ???????id  
+                        tabId: "D1fBt",
+                        tabTn: "a",
+                        conCn: '.fcon', //** ?????????class       
+                        auto: 1, //??????? 1??0
+                        effect: 'fade', //Ч??????
+                        eType: 'click', //** ??????
+                        pageBt: true, //????а???л????
+                        bns: ['.prev', '.next'], //** ????????class                          
+                        interval: 3000 //** ??????  
+                    })
+                })
+            </script>
+<div class="clearfix"></div><!--banner下链接-->
+<div class="bannerlj">
+<div class="bannerlj1">
+<div class="lj1">
+<div class="lj11"><!--#begineditable clone="0" namechanged="0" order="5" ispublic="0" tagname="标题列表-教工服务" viewid="180199" contentviewid="" contype="" stylesysid="" layout="" action="" name="标题列表-教工服务"--><ul class="clearfix">
+<li><a href="info/1047/2707.htm" target="_blank">MATLAB校园单机版安装</a></li>
+<li><a href="info/1047/2705.htm" target="_blank">教工VPN账号申请</a></li>
+<li><a href="info/1047/2704.htm" target="_blank">校园无线网络申请</a></li>
+<li><a href="info/1047/2703.htm" target="_blank">教学区入网申请</a></li>
+<li><a href="info/1047/2702.htm" target="_blank">教工更换IP地址</a></li>
+<li><a href="info/1047/2701.htm" target="_blank">教工网络故障申报</a></li>
+<li><a href="info/1047/2700.htm" target="_blank">教工电子邮箱申请</a></li>
+<li><a href="info/1047/2699.htm" target="_blank">单位电子邮箱申请</a></li>
+<li><a href="info/1047/2698.htm" target="_blank">教工校园一卡通</a></li>
+<li><a href="info/1047/2697.htm" target="_blank">校园卡挂失与解挂</a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u5_2707','dynclicks_u5_2705','dynclicks_u5_2704','dynclicks_u5_2703','dynclicks_u5_2702','dynclicks_u5_2701','dynclicks_u5_2700','dynclicks_u5_2699','dynclicks_u5_2698','dynclicks_u5_2697'],[2707,2705,2704,2703,2702,2701,2700,2699,2698,2697],"wbnews", 1380259949)</script>
+<!--#endeditable--><span><a href="jgfw.htm">更多&gt;&gt;</a></span> </div></div>
+<div class="lj2">
+<div class="lj11"><!--#begineditable clone="0" namechanged="0" order="6" ispublic="0" tagname="标题列表-学生服务" viewid="180200" contentviewid="" contype="" stylesysid="" layout="" action="" name="标题列表-学生服务"--><ul class="clearfix">
+<li><a href="info/1048/4255.htm" target="_blank">学生vpn申请流程</a></li>
+<li><a href="info/1048/2731.htm" target="_blank">MATLAB校园单机版安装</a></li>
+<li><a href="info/1048/2730.htm" target="_blank">外地学生NetID密码</a></li>
+<li><a href="info/1048/2729.htm" target="_blank">学生入网申请</a></li>
+<li><a href="info/1048/2728.htm" target="_blank">学生网络故障申报</a></li>
+<li><a href="info/1048/2727.htm" target="_blank">报修进度查询</a></li>
+<li><a href="info/1048/2726.htm" target="_blank">学生电子邮箱申请</a></li>
+<li><a href="info/1048/2725.htm" target="_blank">学生邮箱密码更改</a></li>
+<li><a href="info/1048/2724.htm" target="_blank">校园门户信息修改</a></li>
+<li><a href="info/1048/2723.htm" target="_blank">学生校园一卡通</a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u6_4255','dynclicks_u6_2731','dynclicks_u6_2730','dynclicks_u6_2729','dynclicks_u6_2728','dynclicks_u6_2727','dynclicks_u6_2726','dynclicks_u6_2725','dynclicks_u6_2724','dynclicks_u6_2723'],[4255,2731,2730,2729,2728,2727,2726,2725,2724,2723],"wbnews", 1380259949)</script>
+<!--#endeditable--><span><a href="xsfw.htm">更多&gt;&gt;</a></span> </div></div>
+<div class="lj3">
+<div class="lj11"><!--#begineditable clone="0" namechanged="0" order="7" ispublic="0" tagname="标题列表-网络服务" viewid="180201" contentviewid="" contype="" stylesysid="" layout="" action="" name="标题列表-网络服务"--><ul class="clearfix">
+<li><a href="wlfw/wlfw/cxgzjtgfw.htm" target="_blank">创新港主机托管服务</a></li>
+<li><a href="wlfw/wlfw/SSL_VPNfw.htm" target="_blank">SSL VPN服务</a></li>
+<li><a href="wlfw/wlfw/tysfrzxtjr.htm" target="_blank">统一身份认证系统接入</a></li>
+<li><a href="wlfw/wlfw/wldxfwpt.htm" target="_blank">网络短信服务平台</a></li>
+<li><a href="wlfw/wlfw/xxhxmcsfw.htm" target="_blank">信息化项目测试服务</a></li>
+<li><a href="wlfw/wlfw/dzyj.htm" target="_blank">电子邮件</a></li>
+<li><a href="wlfw/wlfw/ymfw.htm" target="_blank">域名服务</a></li>
+<li><a href="wlfw/wlfw/fbdrj.htm" target="_blank">防病毒软件</a></li>
+<li><a href="wlfw/wlfw/syFTP.htm" target="_blank">思源FTP</a></li>
+<li><a href="wlfw/wlfw/grcckj.htm" target="_blank">个人存储空间</a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u7_5440','dynclicks_u7_3268','dynclicks_u7_2877','dynclicks_u7_2821','dynclicks_u7_2814','dynclicks_u7_2743','dynclicks_u7_2742','dynclicks_u7_2741','dynclicks_u7_2739','dynclicks_u7_2738'],[5440,3268,2877,2821,2814,2743,2742,2741,2739,2738],"wbnews", 1380259949)</script>
+<!--#endeditable--><span><a href="wlfw/wlfw.htm">更多&gt;&gt;</a></span> </div></div>
+<div class="lj4">
+<div class="lj44"><!--#begineditable clone="0" namechanged="0" order="8" ispublic="0" tagname="图片列表-图链接" viewid="188490" contentviewid="" contype="" stylesysid="" layout="" action="" name="图片列表-图链接"--> <ul class="clearfix">
+<li><a href="fwzn/zlxz.htm" onclick='_addDynClicks("wbimage", 1380259949, 34756)' target="_blank">
+<img src="images/17/09/19/1ky8669dbo/b11.png"/>
+<p>资料下载</p>
+</a>
+</li>
+<li class="w200"><a href="fwzn/zbrjxz.htm" onclick='_addDynClicks("wbimage", 1380259949, 34757)' target="_blank">
+<img src="images/17/09/19/1ky8669dbo/b22.png"/>
+<p>正版软件下载</p>
+</a>
+</li>
+<li><a href="fwzn/sdgj.htm" onclick='_addDynClicks("wbimage", 1380259949, 34758)' target="_blank">
+<img src="images/17/09/19/1ky8669dbo/b33.png"/>
+<p>杀毒软件</p>
+</a>
+</li>
+</ul><!--#endeditable--></div></div></div></div><!--main start-->
+<div class="main-wrap">
+<div class="main"><!--one开始-->
+<div class="mian-one clearfix"><!--左侧新闻-->
+<div class="zuo fl">
+<div class="notice">
+<div class="news-qh">
+<ul class="cleafix">
+<li class="hover" id="one1" onmousemove="setTab('one',1,6)"><a href="xwzx/xwzx.htm">新闻资讯</a> </li>
+<li class="gang"></li>
+<li id="one2" onmousemove="setTab('one',2,6)"><a href="xwzx/tzgg.htm">通知公告</a> </li>
+<li class="gang"></li>
+<li id="one3" onmousemove="setTab('one',3,6)"><a href="wlaq/yjtb.htm">网络安全</a> </li>
+<li class="gang"></li>
+<li id="one4" onmousemove="setTab('one',4,6)"><a href="xwzx/xydt.htm">行业动态</a> </li>
+<li class="gang"></li>
+<li id="one5" onmousemove="setTab('one',5,6)"><a href="xwzx/mtbd.htm">媒体报道</a> </li>
+<li class="gang"></li>
+<li id="one6" onmousemove="setTab('one',6,6)"><a href="xwzx/hdsp.htm">活动视频</a> </li></ul></div>
+<div class="news-list-cont"><!--#begineditable clone="0" namechanged="0" order="9" ispublic="0" tagname="标题列表-新闻资讯" viewid="180169" contentviewid="" contype="" stylesysid="" layout="" action="" name="标题列表-新闻资讯"--><ul class="news-lb" id="con_one_1">
+<div class="qhst">
+<a href="info/1016/5575.htm"><img src="/__local/F/1B/A4/A3D16080F7E5797FAE91D528442_8D5FBD28_5D24.jpg"/></a>
+<div class="qhst1">
+<a href="info/1016/5575.htm" target="_blank">
+<h3>网信中心传达学习寒假工作会议精神</h3>
+<p>1月11日下午，网信中心召开处务会，传达学习学校2020年寒假工作会议精神，围绕王树国校长2019年学校工作报告和张迈曾书记“鼓满风帆、全力勇进、续航发展、奋...</p>
+<span>2020-01-12</span>
+</a>
+</div>
+</div>
+<li><span class="notice-time">2019-12-25</span>
+<a href="info/1016/5561.htm" target="_blank">“西安交通大学博物馆虚拟展馆”上线！<img src="images/new.gif"/></a>
+</li>
+<li><span class="notice-time">2019-12-20</span>
+<a href="info/1016/5555.htm" target="_blank">学校召开创新港公共平台建设方案论证及建设进展专题会<img src="images/new.gif"/></a>
+</li>
+<li><span class="notice-time">2019-12-18</span>
+<a href="info/1016/5553.htm" target="_blank">华南理工大学来校调研信息化建设<img src="images/new.gif"/></a>
+</li>
+<li><span class="notice-time">2019-12-12</span>
+<a href="info/1016/5541.htm" target="_blank">学校召开创新港信息化建设推进工作会议</a>
+</li>
+<li><span class="notice-time">2019-12-10</span>
+<a href="info/1016/5533.htm" target="_blank">【立行立改出实效】网络信息中心：打造五大服务矩阵，全方位...</a>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u9_5575','dynclicks_u9_5561','dynclicks_u9_5555','dynclicks_u9_5553','dynclicks_u9_5541','dynclicks_u9_5533'],[5575,5561,5555,5553,5541,5533],"wbnews", 1380259949)</script>
+<!--#endeditable--><!--#begineditable clone="0" namechanged="0" order="10" ispublic="0" tagname="标题列表-通知公告" viewid="180170" contentviewid="" contype="" stylesysid="" layout="" action="" name="标题列表-通知公告"--><ul class="news-lb" id="con_one_2" style="display:none">
+<div class="qhst">
+<a href="info/1017/5573.htm"><img src="/__local/A/C1/20/CD7A04AC066344ED704A629FEC8_BC962E3B_9B50.png"/></a>
+<div class="qhst1">
+<a href="info/1017/5573.htm" target="_blank">
+<h3>智慧校园信息化服务平台建设-西安交通大学党外教工信息系统项...</h3>
+<p>一、项目名称：智慧校园信息化服务平台建设-西安交通大学党外教工信息系统二、项目编号：西交网信招（2019）040三、评审日期：2020-1-2四、评审（磋商）小组...</p>
+<span>2020-01-03</span>
+</a>
+</div>
+</div>
+<li><span class="notice-time">2020-01-03</span>
+<a href="info/1017/5572.htm" target="_blank">智慧校园信息化服务平台建设-西安交通大学创新创业信息系统项...<img src="images/new.gif"/></a>
+</li>
+<li><span class="notice-time">2020-01-03</span>
+<a href="info/1017/5571.htm" target="_blank">省教育厅网络安全等级等保测评项目中标（成交）公告<img src="images/new.gif"/></a>
+</li>
+<li><span class="notice-time">2019-12-27</span>
+<a href="info/1017/5564.htm" target="_blank">《智慧校园信息化服务平台建设-西安交通大学党外教工信息系统...<img src="images/new.gif"/></a>
+</li>
+<li><span class="notice-time">2019-12-27</span>
+<a href="info/1017/5563.htm" target="_blank">《智慧校园信息化服务平台建设-西安交通大学创新创业信息系统...</a>
+</li>
+<li><span class="notice-time">2019-12-27</span>
+<a href="info/1017/5562.htm" target="_blank">《省教育厅网络安全等级等保测评》竞争性磋商采购公告</a>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u10_5573','dynclicks_u10_5572','dynclicks_u10_5571','dynclicks_u10_5564','dynclicks_u10_5563','dynclicks_u10_5562'],[5573,5572,5571,5564,5563,5562],"wbnews", 1380259949)</script>
+<!--#endeditable--><!--#begineditable clone="0" namechanged="0" order="11" ispublic="0" tagname="标题列表-网络安全" viewid="180171" contentviewid="" contype="" stylesysid="" layout="" action="" name="标题列表-网络安全"--><ul class="news-lb" id="con_one_3" style="display:none">
+<div class="qhst">
+<a href="info/1034/2219.htm"><img src="/__local/C/4E/84/F39DA8674BCFD7392C71FC4BF45_DF8962DE_18656.jpg"/></a>
+<div class="qhst1">
+<a href="info/1034/2219.htm" target="_blank">
+<h3>《网络安全法》主要内容</h3>
+<p></p>
+<span>2017-05-23</span>
+</a>
+</div>
+</div>
+<li><span class="notice-time">2019-01-04</span>
+<a href="info/1032/5122.htm" target="_blank">网络安全预警通报 第十期（2019.6.4）<img src="images/new.gif"/></a>
+</li>
+<li><span class="notice-time">2019-01-04</span>
+<a href="info/1032/4941.htm" target="_blank">网络安全预警通报 第九期（2019.1.4）<img src="images/new.gif"/></a>
+</li>
+<li><span class="notice-time">2018-12-11</span>
+<a href="info/1032/4871.htm" target="_blank">网络安全预警通报 第八期（2018.12.11）<img src="images/new.gif"/></a>
+</li>
+<li><span class="notice-time">2018-09-05</span>
+<a href="info/1032/4603.htm" target="_blank">网络安全预警通报 第七期（2018.09.05）</a>
+</li>
+<li><span class="notice-time">2018-03-01</span>
+<a href="info/1032/4171.htm" target="_blank">网络安全预警通报 第六期（2018.2.28）</a>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u11_2219','dynclicks_u11_5122','dynclicks_u11_4941','dynclicks_u11_4871','dynclicks_u11_4603','dynclicks_u11_4171'],[2219,5122,4941,4871,4603,4171],"wbnews", 1380259949)</script>
+<!--#endeditable--><!--#begineditable clone="0" namechanged="0" order="12" ispublic="0" tagname="标题列表-行业动态" viewid="180305" contentviewid="" contype="" stylesysid="" layout="" action="" name="标题列表-行业动态"--><ul class="news-lb" id="con_one_4" style="display:none">
+<div class="qhst">
+<a href="info/1018/3265.htm"><img src="/__local/F/13/1B/FC4DAC4E8CA5445CD1D6B324062_E9F157CB_86C8.jpg"/></a>
+<div class="qhst1">
+<a href="info/1018/3265.htm" target="_blank">
+<h3>利用互联网等公开数据评价大学和教师</h3>
+<p>　　对大学的评价要充分利用互联网等公开数据。在互联网时代，对于大学的评价，其评价体系设计更能趋于公平客观，也容易实行分类评价。同时，互联网的应用将...</p>
+<span>2017-09-29</span>
+</a>
+</div>
+</div>
+<li><span class="notice-time">2019-07-05</span>
+<a href="info/1018/5419.htm" target="_blank">它山之石资料汇编 第10期（2019.7.5）<img src="images/new.gif"/></a>
+</li>
+<li><span class="notice-time">2019-03-14</span>
+<a href="info/1018/5417.htm" target="_blank">它山之石资料汇编 第9期（2019.3.14）<img src="images/new.gif"/></a>
+</li>
+<li><span class="notice-time">2019-03-04</span>
+<a href="info/1018/4998.htm" target="_blank">它山之石资料汇编 第8期（2018.6.29）<img src="images/new.gif"/></a>
+</li>
+<li><span class="notice-time">2019-03-04</span>
+<a href="info/1018/4997.htm" target="_blank">它山之石资料汇编 第7期（2018.5.17）</a>
+</li>
+<li><span class="notice-time">2019-03-04</span>
+<a href="info/1018/4996.htm" target="_blank">它山之石资料汇编 第6期（2018.4.10）</a>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u12_3265','dynclicks_u12_5419','dynclicks_u12_5417','dynclicks_u12_4998','dynclicks_u12_4997','dynclicks_u12_4996'],[3265,5419,5417,4998,4997,4996],"wbnews", 1380259949)</script>
+<!--#endeditable--><!--#begineditable clone="0" namechanged="0" order="13" ispublic="0" tagname="标题列表-媒体报道" viewid="188342" contentviewid="" contype="" stylesysid="" layout="" action="" name="标题列表-媒体报道"--><ul class="news-lb" id="con_one_5" style="display:none">
+<div class="qhst">
+<a href="http://news.xjtu.edu.cn/info/1033/118438.htm"><img src="/__local/8/84/4C/5A102E7AF5D08509D34EE1E6C37_98AE4861_120F0.jpg"/></a>
+<div class="qhst1">
+<a href="http://news.xjtu.edu.cn/info/1033/118438.htm" target="_blank">
+<h3>【主页报道】张迈曾调研指导创新港综合服务大厅和研究院建设情况</h3>
+<p></p>
+<span>2019-08-21</span>
+</a>
+</div>
+</div>
+<li><span class="notice-time">2019-11-29</span>
+<a href="http://m.haiwainet.cn/middle/3544011/2019/1127/content_31672300_1.html" target="_blank">人民日报（海外版）： 2019年高校网络信息安全研讨会在西安召...<img src="images/new.gif"/></a>
+</li>
+<li><span class="notice-time">2019-11-29</span>
+<a href="http://en.xa.gov.cn/news/1876.htm" target="_blank">【中国日报】University Network Information Security Semin...<img src="images/new.gif"/></a>
+</li>
+<li><span class="notice-time">2019-11-29</span>
+<a href="http://www.cnr.cn/sxpd/sx/20191127/t20191127_524874946.shtml#10006-weixin-1-52626-6b3bffd01fdde4900130bc5a2751b6d1" target="_blank">【央广网】2019年高校网络信息安全研讨会在西安召开 近300所...<img src="images/new.gif"/></a>
+</li>
+<li><span class="notice-time">2019-11-29</span>
+<a href="https://m.chinanews.com/wap/detail/zw/cj/2019/11-27/9018930.shtml" target="_blank">【中国新闻网】2019年高校网络信息安全研讨会召开 探讨校园网...</a>
+</li>
+<li><span class="notice-time">2019-11-29</span>
+<a href="http://sn.cri.cn/2019-11-28/33a4ff32-bee5-fd6d-30fc-123adbb459ab.html?from=groupmessage" target="_blank">【中央广电总台国际在线】2019年高校网络信息安全研讨会在西...</a>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u13_5293','dynclicks_u13_5525','dynclicks_u13_5524','dynclicks_u13_5523','dynclicks_u13_5522','dynclicks_u13_5521'],[5293,5525,5524,5523,5522,5521],"wbnews", 1380259949)</script>
+<!--#endeditable--><!--#begineditable clone="0" namechanged="0" order="14" ispublic="0" tagname="标题列表-活动视频" viewid="188354" contentviewid="" contype="" stylesysid="" layout="" action="" name="标题列表-活动视频"--><ul class="news-lb" id="con_one_6" style="display:none">
+<div class="qhst">
+<a href="info/1092/5232.htm"><img src="/__local/4/12/25/486EC405D1F2AB796117B3FC401_EC5EC570_AEB13.png"/></a>
+<div class="qhst1">
+<a href="info/1092/5232.htm" target="_blank">
+<h3>重磅！全国首个5G智慧校园宣传片正式发布！</h3>
+<p></p>
+<span>2019-07-20</span>
+</a>
+</div>
+</div>
+<li><span class="notice-time">2019-11-29</span>
+<a href="info/1092/5512.htm" target="_blank"><img height="13" src="images/sp.png" style="margin-right:2px;"/>西安电视台：专家云集智慧闪耀 共绘“网安”精彩蓝图（视频报...<img src="images/new.gif"/></a>
+</li>
+<li><span class="notice-time">2019-09-29</span>
+<a href="info/1092/5412.htm" target="_blank"><img height="13" src="images/sp.png" style="margin-right:2px;"/>第五届百度&amp;西安交大大数据竞赛暨IKCEST首届“一带一路”国际...<img src="images/new.gif"/></a>
+</li>
+<li><span class="notice-time">2019-09-29</span>
+<a href="info/1092/5410.htm" target="_blank"><img height="13" src="images/sp.png" style="margin-right:2px;"/>新港报告启动视频<img src="images/new.gif"/></a>
+</li>
+<li><span class="notice-time">2019-08-29</span>
+<a href="info/1092/5411.htm" target="_blank"><img height="13" src="images/sp.png" style="margin-right:2px;"/>新港报告启动视频</a>
+</li>
+<li><span class="notice-time">2019-07-24</span>
+<a href="info/1092/5243.htm" target="_blank"><img height="13" src="images/sp.png" style="margin-right:2px;"/>【新华社】无人驾驶 VR授课！别人家的大学怎么这么酷（视频）</a>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u14_5232','dynclicks_u14_5512','dynclicks_u14_5412','dynclicks_u14_5410','dynclicks_u14_5411','dynclicks_u14_5243'],[5232,5512,5412,5410,5411,5243],"wbnews", 1380259949)</script>
+<!--#endeditable--></div></div></div>
+<div class="you fr"><!--#begineditable clone="0" namechanged="0" order="15" ispublic="0" tagname="文本框-服务电话" viewid="180175" contentviewid="" contype="" stylesysid="" layout="" action="" name="文本框-服务电话"--><script language="javascript" src="/system/resource/js/news/mp4video.js"></script>
+<div class="shang">
+<div class="ding">
+<img alt="" border="0" class="img_vsb_content" height="44" hspace="0" orisrc="/__local/3/EE/F6/49F08E8E2BB262B205AD2B2209E_992AA487_1705.jpg" src="/__local/3/EE/F6/49F08E8E2BB262B205AD2B2209E_992AA487_1705.jpg" title="" vheight="44" vsbhref="vurl" vurl="/_vsl/3EEF649F08E8E2BB262B205AD2B2209E/992AA487/1705?e=.jpg" vwidth="400" width="400"/>
+</div>
+<ul class="lb list-paddingleft-2">
+<li><p>服务中心电话： 82667777</p></li>
+<li><p>服务邮箱：nic@xjtu.edu.cn</p></li>
+<li><p>办公室电话： 82668801</p></li>
+<li><p>统一身份认证及校园卡咨询电话： 82668827</p></li>
+<li><p>电子邮件咨询电话： 82668682</p></li>
+</ul>
+</div><!--#endeditable-->
+<div class="xia">
+<div class="ding"><img src="images/xxhfw.jpg"/> </div>
+<div class="tu"><!--#begineditable clone="0" namechanged="0" order="16" ispublic="0" tagname="图片列表-信息化服务" viewid="180176" contentviewid="" contype="" stylesysid="" layout="" action="" name="图片列表-信息化服务"--> <ul>
+<li>
+<a href="http://nethelp.xjtu.edu.cn/" onclick='_addDynClicks("wbimage", 1380259949, 30397)' target="_blank">
+<img src="images/17/07/28/1owuf198de/xwxxh.jpg">
+<p>上网自助平台</p>
+</img></a>
+</li>
+<li>
+<a href="http://ms.xjtu.edu.cn/" onclick='_addDynClicks("wbimage", 1380259949, 30394)' target="_blank">
+<img src="images/17/07/28/1owuf198de/ggxxfw.jpg">
+<p>正版软件下载</p>
+</img></a>
+</li>
+<li>
+<a href="wlfw/wlfw/SSL_VPNfw.htm" onclick='_addDynClicks("wbimage", 1380259949, 30396)' target="_blank">
+<img src="images/17/07/28/1owuf198de/wlxxh.jpg"/>
+<p>VPN申请下载</p>
+</a>
+</li>
+<li>
+<a href="https://one.xjtu.edu.cn/EIP/cooperative/openCooperative.htm?flowId=4af591a969e5d6560169fbbeb5ce1e50" onclick='_addDynClicks("wbimage", 1380259949, 30395)' target="_blank">
+<img src="images/17/07/28/1owuf198de/kjqy.jpg"/>
+<p>正版软件预约</p>
+</a>
+</li>
+<li>
+<a href="http://xjtudj.edu.cn" onclick='_addDynClicks("wbimage", 1380259949, 30393)' target="_blank">
+<img src="images/17/07/28/1owuf198de/djxxpt.jpg"/>
+<p>党建学习平台</p>
+</a>
+</li>
+<li>
+<a href="https://infosec.xjtu.edu.cn/client/" onclick='_addDynClicks("wbimage", 1380259949, 41356)' target="_blank">
+<img src="images/aqfw_03.png"/>
+<p>安全服务平台</p>
+</a>
+</li>
+</ul><!--#endeditable--></div></div></div></div></div></div><!--main end--><!--foot start-->
+<div class="foot">
+<div class="bq">
+<div class="bq1 fl"><!--#begineditable clone="0" namechanged="0" order="17" ispublic="0" tagname="版权" viewid="180180" contentviewid="" contype="" stylesysid="" layout="" action="" name="版权"--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>版权所有：西安交通大学 站点建设与维护： 网络信息中心 联系人：贺喜梅 王齐 电话：82664996</p><p>地址：陕西省西安市咸宁西路28号西安交通大学 主楼1703  邮编：710049</p><!--#endeditable--></div>
+<div class="bq2 fr">
+<div class="wb0 fl"><img src="images/wb.jpg"/>
+<div class="wb"><!--#begineditable clone="0" namechanged="0" order="18" ispublic="0" tagname="图片列表-微博" viewid="180181" contentviewid="" contype="" stylesysid="" layout="" action="" name="图片列表-微博"--> <img src="images/wb111.png"/>
+<!--#endeditable--></div></div>
+<div class="wx0 fr"><img src="images/wx.jpg"/>
+<div class="wx"><!--#begineditable clone="0" namechanged="0" order="19" ispublic="0" tagname="图片列表-微信" viewid="180182" contentviewid="" contype="" stylesysid="" layout="" action="" name="图片列表-微信"--> <img src="images/wx111.jpg"/>
+<!--#endeditable--></div></div></div></div></div><!--foot end--></div>
+<div></div>
+</body></html>

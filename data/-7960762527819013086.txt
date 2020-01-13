@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html><head><title>西安交通大学中央财政科技政策专栏</title><meta content="西安交通大学中央财政科技政策专栏" name="keywords"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><link href="css/style.css" rel="stylesheet" type="text/css"/><script>
+
+<!--
+
+function setTab(name,cursel,n){
+
+for(i=1;i<=n;i++){
+
+var menu=document.getElementById(name+i);
+
+var con=document.getElementById("con_"+name+"_"+i);
+
+menu.className=i==cursel?"hover":"";
+
+con.style.display=i==cursel?"block":"none";
+
+}
+
+}
+
+//-->
+
+</script>
+<!--Announced by Visual SiteBuilder 9-->
+<link href="_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230697547545257544003060005 -->
+<link href="index.vsb.css" rel="stylesheet" type="text/css"/>
+<script src="/system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1362528197)</script>
+</link></head>
+<body>
+<div id="wrapper1"><!--head start-->
+<div class="head_top">
+<div class="logo"><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="LOGO" viewid="127896" contentviewid="" contype="" stylesysid="" layout="" action="" name="LOGO"-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="" title="中央财政科技政策专栏"><img alt="中央财政科技政策专栏" border="0" height="209" src="images/logo.png" title="中央财政科技政策专栏" width="685"/></a><!--#endeditable--></div></div><!--nav开始-->
+<div class="ssy">
+<div class="ss"><!--#begineditable clone="0" namechanged="0" order="1" ispublic="0" tagname="全文检索" viewid="127906" contentviewid="" contype="" stylesysid="" layout="" action="" name="全文检索"--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode127906').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword127906").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword127906").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword127906").value = base64.encode(document.getElementById("lucenenewssearchkeyword127906").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode127906"));
+        return true;
+    } 
+</script>
+<form action="ssjgy.jsp?wbtreeid=1001" id="au1a" method="post" name="au1a" onsubmit="return _nl_ys_check()" style="display: inline">
+<input id="lucenenewssearchkeyword127906" name="lucenenewssearchkeyword" type="hidden" value=""/><input id="_lucenesearchtype127906" name="_lucenesearchtype" type="hidden" value="1"/><input id="searchScope127906" name="searchScope" type="hidden" value="0"/>
+<input class="suo" src="images/suo.png" type="image"/>
+<input class="sou" id="showkeycode127906" name="showkeycode" type="text"/>
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable--></div></div><!--head end--><!--main start-->
+<div class="main-wrap">
+<div class="main clearfix"><!--one开始-->
+<div class="lm1">
+<div class="tou">
+<div class="more"><a href="xmglp.htm"><img src="images/more.jpg"/></a> </div></div><!--#begineditable clone="0" namechanged="0" order="2" ispublic="0" tagname="标题列表-项目管理篇" viewid="127897" contentviewid="" contype="" stylesysid="" layout="" action="" name="标题列表-项目管理篇"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><ul>
+<li><span></span><a href="info/1002/1114.htm" target="_blank" title="国务院关于优化科研管理提升科研绩效若干措施的通知">国务院关于优化科研管理提升科研绩效若干措施的通知</a></li>
+<li><span></span><a href="info/1002/1113.htm" target="_blank" title="国务院办公厅关于抓好赋予科研机构和人员更大自主权有关文件贯彻落实工作的通知">国务院办公厅关于抓好赋予科研机构和人员更大自主权有关文件贯彻落实工作的通知</a></li>
+<li><span></span><a href="info/1002/1112.htm" target="_blank" title="财政部办公厅关于抓好赋予科研机构和人员更大自主权有关文件贯彻落实的通知">财政部办公厅关于抓好赋予科研机构和人员更大自主权有关文件贯彻落实的通知</a></li>
+<li><span></span><a href="info/1002/1060.htm" target="_blank" title="国务院关于改进加强中央财政科研项目和资金管理的若干意见">国务院关于改进加强中央财政科研项目和资金管理的若干意见</a></li>
+<li><span></span><a href="info/1002/1074.htm" target="_blank" title="国务院印发关于深化中央财政科技计划（专项、基金等）管理改革方案的通知">国务院印发关于深化中央财政科技计划（专项、基金等）管理改革方案的通知</a></li>
+<li><span></span><a href="info/1002/1073.htm" target="_blank" title="《关于深化中央财政科技计划（专项、基金等）管理改革的方案》政策解读">《关于深化中央财政科技计划（专项、基金等）管理改革的方案》政策解读</a></li>
+<li><span></span><a href="info/1002/1072.htm" target="_blank" title="中共中央 国务院关于深化体制机制改革加快实施创新驱动发展战略的若干意见">中共中央 国务院关于深化体制机制改革加快实施创新驱动发展战略的若干意见</a></li>
+<li><span></span><a href="info/1002/1071.htm" target="_blank" title="中共中央办公厅 国务院办公厅关于印发《深化科技体制改革实施方案》的通知">中共中央办公厅 国务院办公厅关于印发《深化科技体制改革实施方案》的通知</a></li>
+<li><span></span><a href="info/1002/1070.htm" target="_blank" title="中华人民共和国促进科技成果转化法">中华人民共和国促进科技成果转化法</a></li>
+<li><span></span><a href="info/1002/1069.htm" target="_blank" title="国务院关于印发实施《中华人民共和国促进科技成果转化法》若干规定的通知">国务院关于印发实施《中华人民共和国促进科技成果转化法》若干规定的通知</a></li>
+<li><span></span><a href="info/1002/1068.htm" target="_blank" title="教育部 科技部关于加强高等学校科技成果转移转化工作的若干意见">教育部 科技部关于加强高等学校科技成果转移转化工作的若干意见</a></li>
+<li><span></span><a href="info/1002/1067.htm" target="_blank" title="西安交通大学科研项目（课题）过程管理办法">西安交通大学科研项目（课题）过程管理办法</a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u2_1114','dynclicks_u2_1113','dynclicks_u2_1112','dynclicks_u2_1060','dynclicks_u2_1074','dynclicks_u2_1073','dynclicks_u2_1072','dynclicks_u2_1071','dynclicks_u2_1070','dynclicks_u2_1069','dynclicks_u2_1068','dynclicks_u2_1067'],[1114,1113,1112,1060,1074,1073,1072,1071,1070,1069,1068,1067],"wbnews", 1362528197)</script>
+<!--#endeditable--></div><!--one结束--><!--two开始-->
+<div class="lm2">
+<div class="tou2">
+<div class="more"><a href="zjglp.htm"><img src="images/more.jpg"/></a> </div></div><!--#begineditable clone="0" namechanged="0" order="3" ispublic="0" tagname="标题列表-资金管理篇" viewid="127898" contentviewid="" contype="" stylesysid="" layout="" action="" name="标题列表-资金管理篇"--><ul>
+<li><span></span><a href="info/1003/1124.htm" target="_blank" title="中央财政科研项目专家咨询费管理办法">中央财政科研项目专家咨询费管理办法</a></li>
+<li><span></span><a href="info/1003/1123.htm" target="_blank" title="科技部关于印发《国家重点研发计划资金管理办法》配套实施细则的通知">科技部关于印发《国家重点研发计划资金管理办法》配套实施细则的通知</a></li>
+<li><span></span><a href="info/1003/1122.htm" target="_blank" title="科技部办公厅关于印发《国家重点研发计划项目综合绩效评价工作规范（试行）》的通知">科技部办公厅关于印发《国家重点研发计划项目综合绩效评价工作规范（试行）》的通知</a></li>
+<li><span></span><a href="info/1003/1121.htm" target="_blank" title="科技部 发展改革委 财政部关于印发《进一步深化管理改革 激发创新活力确保完成国家科技重大专项既定目标的十项措施》的通知">科技部 发展改革委 财政部关于印发《进一步深化管理改革 激发创新活力确保完成国家科技重大专项既定目标...</a></li>
+<li><span></span><a href="info/1003/1120.htm" target="_blank" title="科技部 发展改革委 财政部关于印发《国家科技重大专项（民口）管理规定》的通知">科技部 发展改革委 财政部关于印发《国家科技重大专项（民口）管理规定》的通知</a></li>
+<li><span></span><a href="info/1003/1119.htm" target="_blank" title="科技部 财政部关于印发《国家重点研发计划管理暂行办法》的通知">科技部 财政部关于印发《国家重点研发计划管理暂行办法》的通知</a></li>
+<li><span></span><a href="info/1003/1118.htm" target="_blank" title="科技部 财政部关于进一步优化国家重点研发计划项目和资金管理的通知">科技部 财政部关于进一步优化国家重点研发计划项目和资金管理的通知</a></li>
+<li><span></span><a href="info/1003/1117.htm" target="_blank" title="国家自然科学基金委员会关于国家自然科学基金资助项目资金管理的补充通知">国家自然科学基金委员会关于国家自然科学基金资助项目资金管理的补充通知</a></li>
+<li><span></span><a href="info/1003/1116.htm" target="_blank" title="财政部关于印发《国家科技重大专项（民口）项目（课题）财务验收办法》的通知">财政部关于印发《国家科技重大专项（民口）项目（课题）财务验收办法》的通知</a></li>
+<li><span></span><a href="info/1003/1115.htm" target="_blank" title="财政部、科技部、发展改革委关于印发《国家科技重大专项（民口）资金管理办法》的通知">财政部、科技部、发展改革委关于印发《国家科技重大专项（民口）资金管理办法》的通知</a></li>
+<li><span></span><a href="info/1003/1099.htm" target="_blank" title="关于印发《国家自然科学基金资助项目资金管理办法》的通知">关于印发《国家自然科学基金资助项目资金管理办法》的通知</a></li>
+<li><span></span><a href="info/1003/1098.htm" target="_blank" title="关于执行《国家自然科学基金资助项目资金管理办法》有关事项的通知">关于执行《国家自然科学基金资助项目资金管理办法》有关事项的通知</a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u3_1124','dynclicks_u3_1123','dynclicks_u3_1122','dynclicks_u3_1121','dynclicks_u3_1120','dynclicks_u3_1119','dynclicks_u3_1118','dynclicks_u3_1117','dynclicks_u3_1116','dynclicks_u3_1115','dynclicks_u3_1099','dynclicks_u3_1098'],[1124,1123,1122,1121,1120,1119,1118,1117,1116,1115,1099,1098],"wbnews", 1362528197)</script>
+<!--#endeditable--></div><!--two结束--></div></div><!--main end--><!--foot start-->
+<div class="foot clearfix"><!--#begineditable clone="0" namechanged="0" order="4" ispublic="0" tagname="版权" viewid="127899" contentviewid="" contype="" stylesysid="" layout="" action="" name="版权"--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>版权所有：西安交通大学 设计与制作：西安交通大学网络信息中心</p><p>地址：陕西省西安市雁塔西路76号 邮编：710061</p><!--#endeditable--></div><!--foot end--></div>
+</body></html>

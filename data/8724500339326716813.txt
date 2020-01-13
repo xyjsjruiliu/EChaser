@@ -1,0 +1,21 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+<base href="http://xajdb.xjtu.edu.cn:80/"/>
+<title>My JSP 'error.jsp' starting page</title>
+<meta content="no-cache" http-equiv="pragma"/>
+<meta content="no-cache" http-equiv="cache-control"/>
+<meta content="0" http-equiv="expires"/>
+<meta content="keyword1,keyword2,keyword3" http-equiv="keywords"/>
+<meta content="This is my page" http-equiv="description"/>
+<meta content="2; url=/index.jsp" http-equiv="refresh"/>
+<!--
+	<link rel="stylesheet" type="text/css" href="styles.css">
+	-->
+</head>
+<body>
+    操作错误，2秒钟自动返回首页！！！！ <br/>
+</body>
+</html>

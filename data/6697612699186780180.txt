@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+
+<html><head><title>Xi'an Jiaotong University</title>
+<script type="text/javascript">
+
+if(/AppleWebKit.*Mobile/i.test(navigator.userAgent) ||(/MIDP|SymbianOS|NOKIA|SAMSUNG|LG|NEC|TCL|Alcatel|BIRD|DBTEL|Dopod|PHILIPS|HAIER|LENOVO|MOT-|Nokia|SonyEricsson|SIE-|Amoi|ZTE/.test(navigator.userAgent))){
+    if(window.location.href.indexOf("?mobile")<0){
+        try{
+            if(/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)){
+                window.location.href="http://men.xjtu.edu.cn/";
+            }
+        }catch(e){}
+    }
+}
+
+</script>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><link href="style/style.css" rel="stylesheet"/><script src="js/jquery.1.8.2.min.js" type="text/javascript"></script><script src="js/jquery.foucs.js" type="text/javascript"></script>
+<!--Announced by Visual SiteBuilder 9-->
+<link href="_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230697547545352544203050000 -->
+<link href="index.vsb.css" rel="stylesheet" type="text/css"/>
+<meta content="Xi'an Jiaotong University" name="keywords">
+<script src="system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1161477149)</script>
+<!--[if lt IE 7]><script type="text/javascript" src="/system/resource/js/unitpngfix/unitpngfix.js"></script><![endif]--></meta></link></head>
+<body>
+<div id="header">
+<div class="continer">
+<div class="top-links fr">
+<ul><!--#begineditable name="顶部链接列表" viewid="65328"--><script language="javascript" src="system/resource/js/dynclicks.js"></script><script language="javascript" src="system/resource/js/openlink.js"></script> <li><a href="mailto:ic@mail.xjtu.edu.cn" target="_blank">Contacts</a></li>
+<li class="split"><img alt="" src="images/split.jpg"/></li>
+<li><a href="http://gis.xjtu.edu.cn/" target="_blank">Map</a></li>
+<li class="split"><img alt="" src="images/split.jpg"/></li>
+<li><a href="XJTU_News.htm" target="_blank">News</a></li>
+<li class="split"><img alt="" src="images/split.jpg"/></li>
+<li><a href="http://www.xjtu.edu.cn/" target="_blank">中文版</a></li>
+<!--#endeditable--></ul></div>
+<div class="clear"></div>
+<div class="logo fl"><!--#begineditable name="LOGO" viewid="65327"--><table border="0" cellpadding="0" cellspacing="0"><tr><td><a href="index.htm"><img alt="英文站" border="0" src="images/logo.jpg" title="英文站"/></a></td></tr></table><!--#endeditable--></div>
+<div class="search fr">
+<div class="search-top fr">
+<ul><!--#begineditable name="顶部链接列表二" viewid="65329"--> <li><a href="Education/International_Education.htm" onclick='_addDynClicks("wburl", 1161477149, 12189)' target="_blank">International Education</a></li>
+<li><a href="Faculty.htm" onclick='_addDynClicks("wburl", 1161477149, 12191)' target="_blank">Faculty</a></li>
+<li><a href="http://alumni.xjtu.edu.cn/web/guest" onclick='_addDynClicks("wburl", 1161477149, 12192)' target="_blank">Alumni</a></li>
+<!--#endeditable--></ul></div>
+<div class="search-box"><!--#begineditable name="全文检索" viewid="65326"--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode65326').value;
+        if(keyword==null||keyword==""){
+            alert("Please enter your content to be retrieved！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword65326").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword65326").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword65326").value = base64.encode(document.getElementById("lucenenewssearchkeyword65326").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode65326"));
+        return true;
+    } 
+</script>
+<form action="search.jsp?wbtreeid=1001" id="au3a" method="post" name="au3a" onsubmit="return _nl_ys_check()" style="display: inline">
+<input id="lucenenewssearchkeyword65326" name="lucenenewssearchkeyword" type="hidden" value=""/><input id="_lucenesearchtype65326" name="_lucenesearchtype" type="hidden" value="1"/><input id="searchScope65326" name="searchScope" type="hidden" value="0"/>
+<table>
+<tr>
+<td>
+<input align="absmiddle" id="showkeycode65326" name="showkeycode" style="font-family:宋体;font-size:12px;height:26px;padding:0;line-height:24px;border:1px solid #FFFFFF;background:#8f2637;width:210px;color:#FFFFFF"/>
+</td>
+<td>
+<input align="absmiddle" src="images/search.gif" style="cursor: hand" type="image"/>
+</td>
+</tr>
+</table>
+</form><script language="javascript" src="system/resource/js/base64.js"></script><script language="javascript" src="system/resource/js/formfunc.js"></script>
+<!--#endeditable--></div></div>
+<div class="clear"></div></div></div>
+<div class="line"></div>
+<div id="menu">
+<div class="continer">
+<ul class="nav"><!--#begineditable name="网站导航" viewid="65330"--> <li><a href="index.htm" title="Home">Home</a>
+</li>
+<li class="split"><img alt="" src="images/nav-split.png"/></li>
+<li><a href="javascript:;">XJTU Introduction</a>
+<ul>
+<li><a href="XJTU_Introduction/Presidents_Message.htm" title="President’s Message">President’s Message</a></li>
+<li><a href="XJTU_Introduction/Introduction.htm" title="Introduction">Introduction</a></li>
+<li><a href="XJTU_Introduction/Current_Leadership.htm" title="Current Leadership">Current Leadership</a></li>
+<li><a href="XJTU_Introduction/Past_Leadership.htm" title="Past Leadership">Past Leadership</a></li>
+<li><a href="XJTU_Introduction/History.htm" title="History">History</a></li>
+<li><a href="info/1016/1464.htm" title="Administrative Organization">Administrative Organization</a></li>
+</ul>
+</li>
+<li class="split"><img alt="" src="images/nav-split.png"/></li>
+<li><a href="javascript:;">XJTU News</a>
+<ul>
+<li><a href="XJTU_News/News.htm" title="News">News</a></li>
+<li><a href="XJTU_News/Academics.htm" title="Academics">Academics</a></li>
+<li><a href="XJTU_News/Events.htm" title="Events">Events</a></li>
+<li><a href="XJTU_News/Teaching_and_learning.htm" title="Teaching and learning">Teaching and learning</a></li>
+</ul>
+</li>
+<li class="split"><img alt="" src="images/nav-split.png"/></li>
+<li><a href="Schools_and_Colleges.htm" title="Schools and Colleges">Schools and Colleges</a>
+</li>
+<li class="split"><img alt="" src="images/nav-split.png"/></li>
+<li><a href="javascript:;">Faculty</a>
+<ul>
+<li><a href="info/1017/1635.htm" title="CAS Members">CAS Members</a></li>
+<li><a href="info/1018/1648.htm" title="CAE Members">CAE Members</a></li>
+<li><a href="Faculty/Faculty_Blogs.htm" title="Faculty Blogs">Faculty Blogs</a></li>
+<li><a href="Faculty/Faculty_Employment.htm" title="Faculty Employment">Faculty Employment</a></li>
+</ul>
+</li>
+<li class="split"><img alt="" src="images/nav-split.png"/></li>
+<li><a href="javascript:;">Education</a>
+<ul>
+<li><a href="Education/Undergraduate_Education.htm" title="Undergraduate Education">Undergraduate Education</a></li>
+<li><a href="Education/Graduate_Education.htm" title="Graduate Education">Graduate Education</a></li>
+<li><a href="Education/International_Education.htm" title="International Education">International Education</a></li>
+<li><a href="Education/Continuing_Education.htm" title="Continuing Education">Continuing Education</a></li>
+<li><a href="Education/International_Affairs.htm" title="International Affairs">International Affairs</a></li>
+<li><a href="Education/Alumni_Affairs.htm" title="Alumni Affairs">Alumni Affairs</a></li>
+</ul>
+</li>
+<li class="split"><img alt="" src="images/nav-split.png"/></li>
+<li><a href="javascript:;">Scientific Researches</a>
+<ul>
+<li><a href="Scientific_Researches/Department_of_Science_and_Technology.htm" title="Department of Science and Technology">Department of Science and Technology</a></li>
+<li><a href="Scientific_Researches/Research_Centers.htm" title="Research Centers">Research Centers</a></li>
+<li><a href="Scientific_Researches/Library.htm" title="Library">Library</a></li>
+<li><a href="Scientific_Researches/XJTU_Museum.htm" title="XJTU Museum">XJTU Museum</a></li>
+</ul>
+</li>
+<li class="split"><img alt="" src="images/nav-split.png"/></li>
+<li><a href="javascript:;">Campus Life</a>
+<ul>
+<li><a href="Campus_Life/Life_at_XJTU.htm" title="Life at XJTU">Life at XJTU</a></li>
+<li><a href="http://news.xjtu.edu.cn/wsp.htm" target="_blank" title="XJTU Videos">XJTU Videos</a></li>
+<li><a href="Campus_Life/Student_Bodies.htm" title="Student Bodies">Student Bodies</a></li>
+<li><a href="http://photo.xjtu.edu.cn" title="Campus Scenes">Campus Scenes</a></li>
+<li><a href="http://gis.xjtu.edu.cn/" title="Campus Maps">Campus Maps</a></li>
+<li><a href="Campus_Life/Campus_Internet.htm" title="Campus Internet">Campus Internet</a></li>
+<li><a href="http://english.shaanxi.gov.cn/articleAboutsx/aboutshaanx/mapshaanxi/201204/29418_1.html" title="Local Culture">Local Culture</a></li>
+</ul>
+</li>
+<!--#endeditable--></ul></div></div>
+<div id="bannerSlide">
+<div id="index_b_hero">
+<div class="hero-wrap">
+<ul class="heros clearfix"><!--#begineditable name="banner图片列表" viewid="65364"--><li class="hero">
+<a href="http://hr.xjtu.edu.cn/info/1017/6594.htm" target="_blank">
+<img border="0" src="images/2020011102_eng.jpg"/>
+</a>
+<div class="text">
+</div>
+</li>
+<li class="hero">
+<a href="http://news.xjtu.edu.cn/info/1033/119411.htm" target="_blank">
+<img border="0" src="images/2019090601_e.jpg"/>
+</a>
+<div class="text">
+                          西安交大-米兰理工联合设计学院入驻中国西部科技创新港仪式暨米兰理工大学日
+                      </div>
+</li>
+<li class="hero">
+<a href="http://uasr.xjtu.edu.cn/info/1053/2092.htm" target="_blank">
+<img border="0" src="images/15/03/16/10kh288e5j/2019071902-eng.jpg"/>
+</a>
+<div class="text">
+</div>
+</li>
+<li class="hero">
+<a href="http://hr.xjtu.edu.cn/info/1014/6257.htm" target="_blank">
+<img border="0" src="images/2019071201en.jpg"/>
+</a>
+<div class="text">
+</div>
+</li>
+<!--#endeditable--></ul></div>
+<div class="helper">
+<div class="mask-left"></div>
+<div class="mask-right"></div><a class="prev icon-arrow-a-left" onfocus="undefined" target="_blank"></a><a class="next icon-arrow-a-right" onfocus="undefined" target="_blank"></a></div></div></div>
+<div id="main">
+<div class="continer">
+<div class="col-1 fl box">
+<div class="top-line"></div>
+<div class="title"><a href="XJTU_News/News.htm" onfocus="undefined" target="_blank">News <img alt="" src="images/icon_1.gif"/></a></div>
+<div class="list">
+<ul><!--#begineditable name="news标题列表" viewid="65332"--><li>
+<a class="title" href="info/1042/2522.htm" style="font-weight:bold">XJTU signs an overall strategic cooperation agreement with Sichuan Provincial Government</a>
+<div class="time">2019-11-28</div>
+<div class="abstract">On November 25-26, 2019, a XJTU’s delegation visited Chengdu, Sichuan Province. XJTU’s President Wang Shuguo, on behalf of the universi...</div>
+</li>
+<li style="border-bottom:none">
+<a class="title" href="info/1042/2521.htm" style="font-weight:bold">XJTU signs an overall strategic cooperation agreement with Liaoning Provincial Government</a>
+<div class="time">2019-11-25</div>
+<div class="abstract">On November 20-22, 2019, a XJTU’s delegation, led by the university’s Council Chair Zhang Maizeng and the President Wang Shuguo, visite...</div>
+</li>
+<script>_showDynClickBatch(['dynclicks_u6_2522','dynclicks_u6_2521'],[2522,2521],"wbnews", 1161477149)</script>
+<!--#endeditable--></ul></div></div>
+<div class="col-2 fl box">
+<div class="top-line"></div>
+<div class="title"><a href="XJTU_News/Events.htm" onfocus="undefined" target="_blank">Events <img alt="" src="images/icon_1.gif"/></a></div>
+<div class="list"><!--#begineditable name="events图片文章列表" viewid="65333"--><div class="pic">
+<a href="info/1043/2517.htm"><img alt="/__local/2/F6/AF/132A7C744C027ECB8E761E15362_650448D9_5788C.jpg" height="188" src="__local/2/F6/AF/132A7C744C027ECB8E761E15362_650448D9_5788C.jpg" width="282"/></a>
+</div>
+<div class="event-abstract">
+                        XJTU signs an overall strategic cooperation agreement with Hebei Provincial Government
+                    </div>
+<p class="more">
+<a href="info/1043/2517.htm">Read More&gt;&gt;</a>
+</p>
+<script>_showDynClickBatch(['dynclicks_u7_2517'],[2517],"wbnews", 1161477149)</script>
+<!--#endeditable--></div></div>
+<div class="col-3 fr box">
+<div class="top-line"></div>
+<div class="title"><a href="XJTU_News/Teaching_and_learning.htm" onfocus="undefined" target="_blank">Teaching and learning <img alt="" src="images/icon_1.gif"/></a></div>
+<div class="list">
+<ul><!--#begineditable name="teaching标题列表" viewid="65339"--> <li class="fitst">
+<a class="title" href="info/1044/2483.htm">XJTU-POLIMI Joint School of Design establ...</a>
+<div class="time">2019-09-25</div>
+<div class="abstract">
+                                Recently, a delegation of the Politecnico di Milano (POLIMI), led by its president, Ferruccio...
+         </div>
+</li>
+<li><a href="info/1044/2493.htm" style="font-weight:bold" target="_blank" title="Hardwork brings better rewards">Hardwork brings better rewards</a></li>
+<li><a href="info/1044/2447.htm" style="font-weight:bold" target="_blank" title="Member of the German Academy of Sciences Leopoldina Stefan Offermanns appointed honorary professor of XJTU">Member of the German Academy of Sciences ...</a></li>
+<li><a href="info/1044/2439.htm" style="font-weight:bold" target="_blank" title="Award Ceremony of 2018 Elsevier Most Cited Chinese Researchers held at XJTU">Award Ceremony of 2018 Elsevier Most Cite...</a></li>
+<li><a href="info/1044/2438.htm" style="font-weight:bold" target="_blank" title="Michigan State University visits XJTU and introduces its exchange program">Michigan State University visits XJTU and...</a></li>
+<li><a href="info/1044/2417.htm" style="font-weight:bold" target="_blank" title="First Chinese language course for full-time foreign researchers opens">First Chinese language course for full-ti...</a></li>
+<li><a href="info/1044/2416.htm" style="font-weight:bold" target="_blank" title="Professor Giulio Magli from Polytechnic University of Milan visits XJTU to lecture">Professor Giulio Magli from Polytechnic U...</a></li>
+<script>_showDynClickBatch(['dynclicks_u8_2483','dynclicks_u8_2493','dynclicks_u8_2447','dynclicks_u8_2439','dynclicks_u8_2438','dynclicks_u8_2417','dynclicks_u8_2416'],[2483,2493,2447,2439,2438,2417,2416],"wbnews", 1161477149)</script>
+<!--#endeditable--></ul></div></div></div></div>
+<div class="clear"></div>
+<div id="shalir">
+<div class="continer">
+<div class="left fl">
+<div class="title"><a href="XJTU_News/Academics.htm" onfocus="undefined" target="_blank">Academics</a> </div>
+<div class="piclist">
+<ul><!--#begineditable name="academics图片文章列表" viewid="65338"--> <li><a href="info/1040/2519.htm" target="_blank"><img border="0" height="170" src="__local/4/0B/24/D9503E3AED8E0FACE0B49B51161_A969A39B_44E71.png" width="210"/><p>Did the Neo-Assyrian Empire col...</p></a></li>
+<li><a href="info/1040/2506.htm" target="_blank"><img border="0" height="170" src="__local/8/83/C2/99BE58A25AD1373FE4108B3A03D_67FF9332_289A5.jpg" width="210"/><p>XJTU researchers develop and ap...</p></a></li>
+<li><a href="info/1040/2342.htm" target="_blank"><img border="0" height="170" src="__local/A/4E/9C/CB6057CEA7AB4511EBBE3F279B0_BB2C937C_32FC3.png" width="210"/><p>XJTU makes progress in Graphene...</p></a></li>
+<script>_showDynClickBatch(['dynclicks_u9_2519','dynclicks_u9_2506','dynclicks_u9_2342'],[2519,2506,2342],"wbnews", 1161477149)</script>
+<!--#endeditable--></ul></div></div>
+<div class="right fr">
+<div class="title">Quick Links</div>
+<div class="list">
+<ul><!--#begineditable name="links链接列表" viewid="65340"--> <li><a href="Schools_and_Colleges.htm" onclick='_addDynClicks("wburl", 1161477149, 12183)' target="_blank">Schools and Colleges</a></li>
+<li><a href="http://202.117.3.11/en/" onclick='_addDynClicks("wburl", 1161477149, 12184)' target="_blank">Department of International Cooperation and Exchanges</a></li>
+<li><a href="http://sie.xjtu.edu.cn/front/" onclick='_addDynClicks("wburl", 1161477149, 12185)' target="_blank">Recruitment of international students</a></li>
+<li><a href="http://hr.xjtu.edu.cn/zpxx/gccrcyj.htm" onclick='_addDynClicks("wburl", 1161477149, 12186)' target="_blank">Employment Opportunities</a></li>
+<li><a href="http://alumni.xjtu.edu.cn/web/guest" onclick='_addDynClicks("wburl", 1161477149, 12187)' target="_blank">Alumni</a></li>
+<li><a href="&lt;span style='color:red;font-size:9pt'&gt;转换链接错误&lt;/span&gt;" onclick='_addDynClicks("wburl", 1161477149, 12188)' target="_blank">XJTU Video</a></li>
+<!--#endeditable--></ul></div></div></div></div>
+<div id="footer">
+<div class="continer contact">
+<ul><!--#begineditable name="contact图片列表" viewid="65341"--><li class="first">CONTACT US</li>
+<li><a href="http://oc.xjtu.edu.cn" onclick='_addDynClicks("wbimage", 1161477149, 18874)' target="_blank"><img height="36" src="images/icon-1.png" width="36"/></a></li>
+<li><a href="http://www.youtube.com/channel/UCXs-pZzU3x6q50Put45pYiQ" onclick='_addDynClicks("wbimage", 1161477149, 18875)' target="_blank"><img height="36" src="images/icon-2.png" width="36"/></a></li>
+<li><a href="http://www.facebook.com/xjtuofficial" onclick='_addDynClicks("wbimage", 1161477149, 18876)' target="_blank"><img height="36" src="images/icon-3.png" width="36"/></a></li>
+<li><a href="http://www.twitter.com/xjtuofficial" onclick='_addDynClicks("wbimage", 1161477149, 18870)' target="_blank"><img height="36" src="images/icon-4.png" width="36"/></a></li>
+<li><a href="http://www.linkedin.com/edu/school?id=11427" onclick='_addDynClicks("wbimage", 1161477149, 18871)' target="_blank"><img height="36" src="images/icon-5.png" width="36"/></a></li>
+<li><a href="http://weibo.com/xjtuofficial" onclick='_addDynClicks("wbimage", 1161477149, 18872)' target="_blank"><img height="36" src="images/icon-6.png" width="36"/></a></li>
+<!--#endeditable--></ul></div>
+<div class="liner"></div>
+<div class="continer">
+<div class="links"><!--#begineditable name="网站底部导航" viewid="65342"--> <div class="col">
+<div class="title"><a href="javascript:;" title="XJTU Introduction">XJTU Introduction</a></div>
+<ul>
+<li><a href="XJTU_Introduction/Presidents_Message.htm" title="President’s Message">President’s Message</a></li>
+<li><a href="XJTU_Introduction/Introduction.htm" title="Introduction">Introduction</a></li>
+<li><a href="XJTU_Introduction/Current_Leadership.htm" title="Current Leadership">Current Leadership</a></li>
+<li><a href="XJTU_Introduction/Past_Leadership.htm" title="Past Leadership">Past Leadership</a></li>
+<li><a href="XJTU_Introduction/History.htm" title="History">History</a></li>
+<li><a href="info/1016/1464.htm" title="Administrative Organization">Administrative Organization</a></li>
+</ul>
+</div>
+<div class="col">
+<div class="title"><a href="javascript:;" title="XJTU News">XJTU News</a></div>
+<ul>
+<li><a href="XJTU_News/News.htm" title="News">News</a></li>
+<li><a href="XJTU_News/Academics.htm" title="Academics">Academics</a></li>
+<li><a href="XJTU_News/Events.htm" title="Events">Events</a></li>
+<li><a href="XJTU_News/Teaching_and_learning.htm" title="Teaching and learning">Teaching and learning</a></li>
+</ul>
+</div>
+<div class="col">
+<div class="title"><a href="Schools_and_Colleges.htm" title="Schools and Colleges">Schools and Colleges</a></div>
+</div>
+<div class="col">
+<div class="title"><a href="javascript:;" title="Faculty">Faculty</a></div>
+<ul>
+<li><a href="info/1017/1635.htm" title="CAS Members">CAS Members</a></li>
+<li><a href="info/1018/1648.htm" title="CAE Members">CAE Members</a></li>
+<li><a href="Faculty/Faculty_Blogs.htm" title="Faculty Blogs">Faculty Blogs</a></li>
+<li><a href="Faculty/Faculty_Employment.htm" title="Faculty Employment">Faculty Employment</a></li>
+</ul>
+</div>
+<div class="col">
+<div class="title"><a href="javascript:;" title="Education">Education</a></div>
+<ul>
+<li><a href="Education/Undergraduate_Education.htm" title="Undergraduate Education">Undergraduate Education</a></li>
+<li><a href="Education/Graduate_Education.htm" title="Graduate Education">Graduate Education</a></li>
+<li><a href="Education/International_Education.htm" title="International Education">International Education</a></li>
+<li><a href="Education/Continuing_Education.htm" title="Continuing Education">Continuing Education</a></li>
+<li><a href="Education/International_Affairs.htm" title="International Affairs">International Affairs</a></li>
+<li><a href="Education/Alumni_Affairs.htm" title="Alumni Affairs">Alumni Affairs</a></li>
+</ul>
+</div>
+<div class="col">
+<div class="title"><a href="javascript:;" title="Scientific Researches">Scientific Researches</a></div>
+<ul>
+<li><a href="Scientific_Researches/Department_of_Science_and_Technology.htm" title="Department of Science and Technology">Department of Science and Technology</a></li>
+<li><a href="Scientific_Researches/Research_Centers.htm" title="Research Centers">Research Centers</a></li>
+<li><a href="Scientific_Researches/Library.htm" title="Library">Library</a></li>
+<li><a href="Scientific_Researches/XJTU_Museum.htm" title="XJTU Museum">XJTU Museum</a></li>
+</ul>
+</div>
+<div class="col">
+<div class="title"><a href="javascript:;" title="Campus Life">Campus Life</a></div>
+<ul>
+<li><a href="Campus_Life/Life_at_XJTU.htm" title="Life at XJTU">Life at XJTU</a></li>
+<li><a href="http://news.xjtu.edu.cn/wsp.htm" target="_blank" title="XJTU Videos">XJTU Videos</a></li>
+<li><a href="Campus_Life/Student_Bodies.htm" title="Student Bodies">Student Bodies</a></li>
+<li><a href="http://photo.xjtu.edu.cn" title="Campus Scenes">Campus Scenes</a></li>
+<li><a href="http://gis.xjtu.edu.cn/" title="Campus Maps">Campus Maps</a></li>
+<li><a href="Campus_Life/Campus_Internet.htm" title="Campus Internet">Campus Internet</a></li>
+<li><a href="http://english.shaanxi.gov.cn/articleAboutsx/aboutshaanx/mapshaanxi/201204/29418_1.html" title="Local Culture">Local Culture</a></li>
+</ul>
+</div>
+<!--#endeditable-->
+<div class="clear"></div></div></div>
+<div class="liner clear"></div>
+<div class="copyright continer">
+<p><!--#begineditable name="版权" viewid="65343"-->© Xi'an Jiaotong University. 2014 Email: ic@mail.xjtu.edu.cn No.28, Xianning West Road, Xi'an, Shaanxi, 710049, P.R. China<!--#endeditable-->
+<p></p></p></div></div><script type="text/javascript">
+        $.foucs({ direction: 'left' });
+    </script>
+</body></html>

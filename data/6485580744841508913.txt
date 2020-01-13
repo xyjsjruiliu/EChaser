@@ -1,0 +1,750 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html><head><title>【学科前瞻三十年】郑南宁：深化学科交叉 发展人工智能-西安交大新闻网</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="CSS:AloeR@BMY,美工设计:阿颖" name="author"/>
+<meta content="西安交通大学 新闻网XJTUNEWS" name="description"/><link href="../../AloeR/AloeR_news.css" rel="stylesheet" type="text/css"/><script language="JavaScript" src="../../AloeR/AloeR_news.js" type="text/JavaScript"></script><script src="http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=420961"></script><link href="http://bdimg.share.baidu.com/static/api/css/share_style0_16.css?v=6aba13f0.css" rel="stylesheet"/><link href="http://bdimg.share.baidu.com/static/api/css/share_popup.css?v=240f357d.css" rel="stylesheet"/><link href="http://bdimg.share.baidu.com/static/api/css/select_share.css?v=15f56735.css" rel="stylesheet"/>
+<script src="http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=426893"></script>
+<link href="http://bdimg.share.baidu.com/static/api/css/share_style0_16.css?v=8105b07e.css" rel="stylesheet"/><!--Announced by Visual SiteBuilder 9-->
+<link href="../../_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230697547545255564203030000 -->
+<link href="../../content.vsb.css" rel="stylesheet" type="text/css">
+<meta content="西安交大新闻网" name="keywords">
+<script src="../../system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1129,'/content.jsp',108507,1025023737)</script>
+</meta></link></link></head>
+<body tangram_guid="TANGRAM_5" target="_blank"><a 360chrome_form_autofill="2" href="../../xxyg.htm"></a>
+<div 360chrome_form_autofill="2" class="i_top">
+<div 360chrome_form_autofill="2" class="i_top_xjtu"><!--#begineditable contype="" name="交大LOGO" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="交大LOGO" viewid="43031" stylesysid=""--><table border="0" cellpadding="0" cellspacing="0"><tr><td><img alt="/AloeR/i_top_xjtu.jpg" border="0" src="../../AloeR/i_top_xjtu.jpg"/></td></tr></table><!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="i_top_news"><!--#begineditable contype="" name="新闻网logo" action="" layout="" clone="0" namechanged="0" order="1" ispublic="0" tagname="新闻网logo" viewid="43060" stylesysid=""-->
+<script language="javascript" src="../../system/resource/js/dynclicks.js"></script>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img border="0" height="85" hspace="3" src="../../newindex/pic/i_top_news.jpg" vspace="2" width="340"/></td>
+</tr>
+</table><!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="i_top_right" style="padding-top: 20px">
+<div 360chrome_form_autofill="2" class="i_top_datett"><script language="JavaScript" src="../../AloeR/datatime.js" type="text/javascript"></script>| <a 360chrome_form_autofill="2" class="i_white" href="http://xiaoli.xjtu.edu.cn" target="_blank">电子校历 </a></div>
+<div 360chrome_form_autofill="2" class="i_top_writesq" style="width: 112px;float: right"><a 360chrome_form_autofill="2" class="i_white" href="http://202.117.3.237:8080/system/contribute/login.jsp" target="_blank"><img 360chrome_form_autofill="2" data-bd-imgshare-binded="1" height="51" src="../../images/xwtg_r2_c2.jpg" tangram_guid="TANGRAM_18" width="112"/></a></div></div></div>
+<div 360chrome_form_autofill="2" class="i_menu"><!--#begineditable contype="" name="网站导航" action="" layout="" clone="0" namechanged="0" order="2" ispublic="0" tagname="网站导航" viewid="43061" stylesysid=""--> <div class="i_menu_home">
+<a class="i_home" href="../../index.htm">新闻网首页</a>
+<a class="i_home" href="http://www.xjtu.edu.cn" target="_blank">交大首页</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../zyxw.htm">主页新闻</a>
+<a class="i_menu" href="../../zhxw.htm">综合新闻</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../jyjx.htm">教育教学</a>
+<a class="i_menu" href="../../kydt.htm">科研动态</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../wshd.htm">外事活动</a>
+<a class="i_menu" href="../../zsjy.htm">招生就业</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../ybdt.htm">院部动态</a>
+<a class="i_menu" href="../../dcsy.htm">多彩书院</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../xysh.htm">校园生活</a>
+<a class="i_menu" href="../../syjt.htm">思源讲堂</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../rwfc.htm">人物风采</a>
+<a class="i_menu" href="../../xyzs.htm">校友之声</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../ylzx.htm">医疗在线</a>
+<a class="i_menu" href="../../shfw.htm">社会服务</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../mtjd.htm">媒体交大</a>
+<a class="i_menu" href="../../xwzh.htm">新闻纵横</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../xwzt.htm">新闻专题</a>
+<a class="i_menu" href="../../tpxw.htm">图片新闻</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../spjd.htm">视频交大</a>
+<a class="i_menu" href="../../llyd.htm">理论园地</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../xxyg.htm">信息预告</a>
+<a class="i_menu" href="../../xysb.htm">校园随笔</a>
+</div>
+<!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="i_menu_bottom"> </div>
+<div 360chrome_form_autofill="2" class="pw">
+<div 360chrome_form_autofill="2" class="i_left">
+<div 360chrome_form_autofill="2" class="l_location"><!--#begineditable contype="" name="当前位置" action="" layout="" clone="0" namechanged="0" order="3" ispublic="0" tagname="当前位置" viewid="42997" stylesysid=""-->
+<table cellpadding="0" cellspacing="0" class="winstyle42997"><tr><td nowrap="">
+<a href="../../index.htm"><span class="fontstyle42997">新闻网首页</span></a><span class="splitflagstyle42997"> &gt; </span><a href="../../xwzt.htm"><span class="fontstyle42997">新闻专题</span></a><span class="splitflagstyle42997"> &gt; </span><a href="../../xwzt/bdzt.htm"><span class="fontstyle42997">报道专题</span></a><span class="splitflagstyle42997"> &gt; </span><a href="../../xwzt/bdzt/xkqz30n.htm"><span class="fontstyle42997">学科前瞻三十年</span></a><span class="splitflagstyle42997"> &gt; </span><span class="fontstyle42997">正文</span></td></tr></table><!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="l_split"> </div><!--#begineditable contype="" name="文章内容" action="" layout="" clone="0" namechanged="0" order="4" ispublic="0" tagname="文章内容" viewid="42979" stylesysid=""-->
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="../../system/resource/js/news/newscontent.js"></script><script language="javascript" src="../../system/resource/js/ajax.js"></script><script language="javascript" src="../../system/resource/js/jquery/jquery-latest.min.js"></script>
+<form name="_newscontent_fromname">
+<div>
+<input id="cc_title" name="cc_title" type="hidden" value="【学科前瞻三十年】郑南宁：深化学科交叉 发展人工智能"/>
+<div class="d_title">【学科前瞻三十年】郑南宁：深化学科交叉 发展人工智能</div>
+<div class="d_author">来源：交大新闻网 日期 2019-03-07 10:00 点击：<script>_showDynClicks("wbnews", 1025023737, 108454)</script> </div>
+<div class="d_detail" id="lmz_content"><div id="vsb_newscontent"><p>人工智能是人类历史上最重要的一个演变。过去40亿年当中，所有的生命完全按照有机化学的规则演化，但人工智能的出现和发展使这一规则发生了变化，即生命可以在某种程度上根据计算机智能设计，人类社会将迎来以有机化学规律演化的生命和无机智慧性的生命形式并存的时代。当前，人工智能已成为引领新一轮科技革命和产业变革的战略性技术。以此为契机的人工智能及相关技术的发展和应用对于整个人类的生活、社会、经济和政治都正在产生重大而深远的革命性影响，人工智能已成为国家综合实力与发展的核心竞争力的重要体现。</p>
+<p><b>一、人工</b><b>智能是</b><b>新一轮科技革命</b><b>和产业革命的引擎</b><b></b></p>
+<p>人工智能是以机器为载体，模拟、延伸和扩展人类或其他生物的智能，使机器能胜任一些通常需要人类智能才能完成的复杂工作。人工智能的萌芽可以追溯到2300多年前亚里士多德提出的逻辑三段论和形而上学的思想。逻辑打开了人工智能的可能性，亚里士多德提出的三段论使逻辑走向形式化的发展，后人在此基础上不断完善和发展，使逻辑学取得了极大的进步。无论未来人工智能发展到何种水平，逻辑学这门基础科学在其中的重要作用都无法忽视。1956年在美国达特茅斯学院举行了为期两个月的关于“如何用机器模拟人的智能”的夏季研讨会，第一次正式采用“人工智能”（Artificial Intelligence，AI）术语，标志着人工智能正式成为一门新兴的交叉学科。人工智能具有多学科综合、高度复杂的特征，渗透力和支撑性强等特点。</p>
+<p>近年来，布局发展人工智能已经成为世界许多国家的共识与行动。以习近平同志为核心的党中央高度重视人工智能发展。习近平总书记多次就人工智能做出重要批示，指出人工智能技术的发展将深刻改变人类社会生活、改变世界，要求抓住机遇，在这一高技术领域抢占先机，加快部署和实施。习近平总书记特别强调“人工智能是新一轮科技革命和产业变革的重要驱动力量，加快发展新一代人工智能是事关我国能否抓住新一轮科技革命和产业变革机遇的战略问题”；2017年7月，国务院正式发布《新一代人工智能发展规划》，将我国人工智能技术与产业的发展上升为国家重大发展战略。《新一代人工智能发展规划》要求“牢牢把握人工智能发展的重大历史机遇，带动国家竞争力整体跃升和跨越式发展”，提出要“开展跨学科探索性研究”，并强调“完善人工智能领域学科布局，设立人工智能专业，推动人工智能领域一级学科建设”。2018年4月，为贯彻落实国家《新一代人工智能发展规划》，教育部印发了《高等学校人工智能创新行动计划》，强调了“优化高校人工智能领域科技创新体系，完善人工智能领域人才培养体系”的重点任务。</p>
+<p>同时，美英法加日和欧盟等主要发达国家和经济体也都相继制定了人工智能的重大发展战略，不断加大对人工智能发展的国家引导力度。此外，为应对解决计算普及和人工智能崛起带来的全球机遇和挑战，世界人工智能教育和科研的佼佼者——美国麻省理工学院（MIT）于2018年10月宣布投资10亿美元加强人工智能与其他相关学科的交叉融合和发展，实施60多年来最重大的所有学科结构的变革，以计算和人工智能重塑MIT。</p>
+<p><b>二、人工智能面临的三大挑战</b><b></b></p>
+<p>2016年，围棋软件“阿尔法围棋”战胜围棋世界冠军李世石，让人们惊叹人工智能发展取得的成就。这是否意味着机器即将获得类人智能呢?现在得出这样的结论还为时过早。</p>
+<p>当前，发展新一代人工智能面临以下三大挑战：</p>
+<p><b>1、让机器在没有人类教师的帮助下学习。</b>人类的很多学习是隐性学习，即根据以前学到的知识进行逻辑推理以掌握新的知识。然而，目前的计算机并没有这种能力。迄今为止最成功的机器学习方式被称为“监督式学习”，需要人类在很大程度上参与机器的学习过程。要达到人类水平的智能，机器需要具备在没有人类过多监督和指令的情况下进行学习的能力，或在少量样本的基础上完成学习，即机器无须在每次输入新数据或者测试算法时都从头开始学习。</p>
+<p><b>2、让机器像人类一样感知和理解世界。</b>触觉、视觉和听觉是动物物种生存所必需的能力，感知能力是智能的重要组成部分。在对自然界的感知和理解方面，人类无疑是所有生物中的佼佼者。如果能让机器像人类一样感知和理解世界，就能解决人工智能研究长期面临的规划和推理方面的问题。虽然我们已经拥有非常出色的数据收集和算法研发能力，利用机器对收集的数据进行推理已不是开发先进人工智能的障碍，但这种推理能力建立在数据的基础上，也就是说机器与感知真实世界仍有相当大的差距。如果能让机器像人类那样进一步感知真实世界，它们的表现也许会更出色。要达到人类水平的智能，机器需要具备对自然界的丰富表征和理解能力，这是一个大问题。尽管围棋很复杂，让计算机在棋盘上识别最有利的落子位置也很难，但与精确地表征自然界相比，描述围棋对弈的状态显然要简单得多，两者之间的差距还要几十年甚至更长时间才能弥合。</p>
+<p><b>3、使机器具有自我意识、情感以及反思自身处境与行为的能力。</b>这是实现类人智能最艰难的挑战。具有自我意识以及反思自身处境与行为的能力是人类区别于其他生物最重要、最根本的一点。另外，人类的大脑皮层能力是有限的，如果将智能机器设备与人类大脑相连接，不仅会增强人类的能力，而且会使机器产生灵感。让机器具有自我意识、情感和反思能力，无论对科学和哲学来说都是一个引人入胜的探索领域。</p>
+<p><b>三、西安交大模式</b><b>识别与智能系统学科的发展</b><b></b></p>
+<p>虽然在我国现有的学科体系中，尚未设立人工智能的一级学科，但在上世纪八十年代，在控制科学与工程一级学科内就已设置了“模式识别与智能系统”二级学科，在当时所有自然科学门类中这是唯一与人工智能相关的学科。</p>
+<p>1986年春天，我从国外留学归来不久，在我国模式识别领域著名学者、西迁教师宣国荣教授的带领下，我们在自动控制专业计算机控制教研室的基础上组建了西安交通大学在人工智能领域第一个专职科研机构——“人工智能与机器人研究所”（简称人机所）。当时学校在论证研究所设置的会议上，建议的名称为“机器人研究所”，我们坚持在研究所名称中加上“人工智能”，并给出英文名称为“Institute of Artificial Intelligence and Robotics”（简称IAIR）。从今天的人工智能发展来看，当时的学术判断和坚持是具有前瞻性的。在我们研究所成立至今的33年历程中，世界范围内人工智能的发展曾经历过寒冬，但我们始终坚持人工智能、特别是计算机视觉的应用基础理论研究，并与国家重大需求相结合，没有放弃当初建所时的学术目标和追求，培养了一大批优秀人才，取得了一批丰硕的科研成果，为西安交通大学在人工智能领域奠定了坚实的基础。今天，人工智能与机器人研究所已成为在国内外学术界乃至工业界具有重要影响的研究机构，它是“模式识别与智能系统”国家重点二级学科、“视觉信息处理与应用国家工程实验室”及“高等学校学科创新引智基地”等国家级科研平台的支撑单位。特别是近十余年来，我们围绕人工智能前沿基础理论及其在国家航天重大工程、无人驾驶、医学图像处理、视觉大数据智能化处理及其芯片等领域的人才培养和科学研究，取得了一系列在国内外具有重要影响力的突出成就，建立了一支能力突出、结构合理的具有一流水平的教学和科研团队，形成了独特的育人文化和制度，培养了国际人工智能领域45岁以下顶尖科学家、前微软亚洲研究院首席研究员、现任旷视科技首席科学家孙剑博士为代表的一批学术界和产业界的领军人才。</p>
+<p>人工智能不仅是科技发展竞争的焦点，更是大学发展和学科建设的新机遇。在当前的人工智能浪潮中，人工智能技术在高等教育、人才培养和各个学科的应用与发展也必将重塑国内外一流大学的格局和地位。</p>
+<p><b>四、人工智能与机器人</b><b>研究所下一个三十年</b><b>的学术</b><b>目标</b></p>
+<p>人工智能与机器人研究所下一个三十年的发展将立足国家发展全局，聚焦人工智能重大科学前沿问题和应用基础理论瓶颈，重视面向国家重大需求的研究和应用，加强多学科的深度交叉融合，并重点围绕如何设计更加健壮的人工智能、人机协同的混合增强智能、以及人工智能技术的核心芯片与新型计算架构开展系统性的研究，并在新的发展时期进一步做好西迁精神和人机所团队文化的传承，做强做大西安交大人工智能学科，为我国人工智能科技水平跻身世界前列，为加快建设创新型国家和世界科技强国做出更大的贡献。</p>
+<p>未来三十年的主要学术目标：</p>
+<p><b>1、</b><b>设计更加健壮的人工智能</b><b>。</b>尽管当前深度神经网络在诸多领域获得了成功的应用，但其泛化能力差、过度依赖训练数据、缺乏推理和对因果关系的表达能力等缺陷也被广为诟病。经典人工智能的形式化方法不可能为所有对象建立模型，不可能枚举出一个行为的所有隐性结果，“未知的未知”问题对构建稳健的人工智能系统提出挑战。谷歌流感预测的失败证实数据并非越大越好，一个鲁棒的人工智能系统必须在一个非完备的世界模型下正常运行。而人类大脑不是通过一个统一的未分化的神经网络实现单一的全局优化原理来学习，而是具有独特且相互作用的子系统支持认知功能，如记忆、注意、语言和认知控制。研究大脑网络的聚合和敛散性可以洞察大脑的认知机理，类脑神经计算的潜力在于能够将直觉与经验和以数据为基础的演绎归纳相结合，从而能够在不完整的世界描述中产生正确的行为。因此，需要从脑认知机理和神经科学获得启发，发展新的人工智能计算模型与架构，让机器具备对物理世界最基本的感知与反应，使机器具有“常识”推理的能力，它能快速思考、推理和学习，能够像人一样凭直觉了解真实世界，从而实现更加健壮的人工智能系统。<b></b></p>
+<p><b>2、实现</b><b>人机协同的混合增强智能</b><b>。</b>人类智能与机器智能的协同在人工智能发展中是贯穿始终的，任何智能程度的机器都无法完全取代人类，将人的作用或认知模型引入人工智能系统，形成混合增强智能形态，是人工智能可行的、重要的成长模式。人工智能具有标准化、重复性和逻辑性的特点，擅长处理离散任务，而不是自身发现或打破规则；人类智能则具有创造性、复杂性和动态性的特点，两者优势高度互补。人在回路的混合增强智能是新一代人工智能的典型特征，通过人机交互、人机协作逐步提高机器的自主学习和自适应能力，并逐步发展到人机融合。脑机协作的人机智能共生是耦合程度最高的混合增强智能方式，采用脑机交互有望实现人与机器在神经信息连接基础上的智能融合增强。该领域取得新突破的关键在于脑功能建模、脑机接口以及全脑模拟等方面的探索。云机器人可能是人机混合增强智能研究转换为应用最快的领域之一，通过云计算强大的运算和存储能力，给机器人提供一个更智能的“大脑”，构成“1+1&gt;2”的人机协同混合智能系统。<b></b></p>
+<p><b>3、探索</b><b>新型计算架构</b><b>及其</b><b>核心芯片</b><b>。</b>人工智能的发展需要突破硬件平台和处理器设计架构等基础设施建设的掣肘，人工智能技术的核心芯片已经成为国内外产业界高度关注的创新领域。随着摩尔定律的失效，通过减小工艺尺寸改善硬件计算效能遇到了瓶颈。灵活的可重构计算架构已引起学术界和工业界的广泛关注，被认为是能够同时达到高灵活性和高能效的计算架构设计技术；神经形态计算研究力图在基本架构上模仿人脑的工作原理，使用神经元和突触的方式替代冯·诺依曼架构体系，使芯片能够进行异步、并行、低速和分布式处理信息数据，并具备自主感知、识别和学习的能力。因此，实现计算、存储和通信高效协作的混合计算架构在新一代人工智能发展战略中起着核心的平台支撑作用。我们将继续深入研究内存与计算融合的新型存储设备、神经网络功能连接的实现机制、认知计算框架等基础科研问题，并积极探索结合冯·诺依曼计算架构和生物智能计算特征的混合计算架构和新型人工智能芯片设计技术。</p>
+<p><b></b></p>
+<p><b>五</b><b>、人工智能</b><b>的</b><b>基本</b><b>方法</b><b>和哲学思考</b><b></b></p>
+<p>人工智能的多学科交叉属性需要我们把来自不同学科的具有创新思维的科学家、工程师聚集在一起，对新一代人工智能的基本科学问题及实现进行深入研究，要准确地把握问题的所在，并能给出合适的方法和数学工具，这样才能为未来的研究铺平道路。</p>
+<p>同时，我们要清楚地认识到，一些人工智能发展的重大问题，在现时很难纳入已有的或成熟的理论框架之中，因此一些新的研究方向是不确定的，但一个重要的基本途径是：从脑认知和神经科学寻找发展新一代人工智能的灵感，推动人工智能的学科交叉研究已成为必然的趋势。</p>
+<p>在推动新一代人工智能发展的过程中，还需要有科学的哲学思考。在每一个看似极其复杂、而难以用已有方法解决的人工智能重大问题的背后，总是存在一种简化的基本原理，找到这种基本原理，就能使我们深刻理解问题的本质及其产生的规律。例如对于人工智能领域一大类具有不确定的复杂性问题，往往具有约束条件和先验知识，其机理并非都是杂乱无章的，揭示这类复杂性的机理，实现机器理解的计算模型，就可以找到不确定问题求解的方法。</p>
+<p>由于人工智能模糊了物理现实、数据和个人的界限，衍生出复杂的伦理、法律和安全问题。随着人工智能的逐渐普及，如何应对人工智能所带来的深刻的社会问题已成为全球性的问题。人类社会需要审慎管理人工智能来应对这一转变。在这一方面，人文社会学科领域和哲学学科将大有作为。</p>
+<p><b>六、深化</b><b>人工智能的应用，</b><b>助力</b><b>陕西“</b><b>三个</b><b>经济”</b><b>高质量</b><b>发展</b><b></b></p>
+<p>人工智能已给人们的生产、生活方式带来革命性变化，未来的世界科技强国也一定是人工智能强国，中国要成为世界科技创新强国，发展人工智能已成为这一伟大事业的重要基础。当前，我们要充分利用和发挥互联网大国的优势，把我国数据和用户的优势资源转换为人工智能技术发展的优势，深化人工智能技术的推广应用，做强做大人工智能产业。</p>
+<p>人工智能是人类最伟大的梦想之一，将是未来30年对人类发展影响最大的技术革命。“前事不忘，后事之师”，人工智能成为一门独立学科已走过六十三年的历程，也经历了两次高潮和低谷，上世纪人工智能领域在实现其“宏伟目标”上的完全失败，曾导致人工智能研究进入“冬天”。</p>
+<p>在当前人工智能发展新一轮的热潮中，我们要保持清醒的认识，进一步加强信息科学、认知科学、脑科学、神经科学、数学、心理学、人文社科与哲学等学科的深度交叉融合，踏踏实实地开展人工智能的基础研究，避免不切实际的预言和承诺，而使研究“落入一张日益浮夸的网”中；另一方面，我们必须重视人工智能面向重大应用工程的研究和市场的创新开拓，但同时要避免在产品研发和市场推广中的“低水平、同质化”现象。</p>
+<p>西安交大人工智能学科不会满足于过去的辉煌，未来我们将继续促进与学校其他学科的深度融合与应用，并以其他学科发展的需求推动人工智能技术新的应用，催生新的学科生长点，以学校“双一流”建设和中国西部科技创新港的历史机遇为契机，与陕西省的产业优势和人才需求紧密结合，搭建人工智能产学研用校地合作平台，推进人工智能高端人才在陕西省的集聚，促进人工智能技术在陕西省智能汽车产业、传统工业智能化、智慧农业、人工智能军民融合、智能医疗、智能城市、智能旅游等方面的应用转化，助力和服务陕西省“三个经济”（枢纽经济、门户经济、流动经济）的高质量发展，实现“扎根西部，服务国家，世界一流”目标。</p>
+<p>（郑南宁，中国工程院院士，西安交通大学电信学院人工智能与机器人研究所教授）</p></div></div>
+<div class="d_write2" style="text-align:right"><span class="d_write" style="width:550px;float:left;text-align:right">文字：</span><span style="width:150px;float:left;color:#00467f;text-align:left">郑南宁</span></div>
+<div class="d_write2" style="text-align:right"><span class="d_write" style="width:550px;float:left;text-align:right">编辑：</span><span style="width:150px;float:left;color:#00467f;text-align:left">朱萍萍</span></div>
+</div>
+</form>
+<br/>
+<div class="bdsharebuttonbox"><a class="bds_more" data-cmd="more" href="../../#"></a><a class="bds_qzone" data-cmd="qzone" href="../../#"></a><a class="bds_tsina" data-cmd="tsina" href="../../#"></a><a class="bds_tqq" data-cmd="tqq" href="../../#"></a><a class="bds_renren" data-cmd="renren" href="../../#"></a><a class="bds_weixin" data-cmd="weixin" href="../../#"></a></div>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdPic":"","bdStyle":"0","bdSize":"16"},"share":{},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+<script language="javascript">
+
+    function linkForImg42979(){
+    var images=document.getElementById("lmz_content").getElementsByTagName("img");
+    var imgLen=images.length;
+    var img_links = new Array(imgLen);　
+    
+    for(var i=0;i<imgLen;i++){
+        img_links[i] = repleaceLast42979(images[i].src);
+        var p = images[i].parentNode;
+        if(p.tagName=="a"||p.tagName=="A")
+            continue;
+        if(img_links[i].indexOf("/_mediafile/")!=-1&&CheckImgExists42979(img_links[i]))
+        {
+            images[i].onclick=function(){
+                var thepath = repleaceLast42979(this.src);
+                window.open(thepath,"n","");
+            };
+        }else{
+            images[i].onclick=function(){window.open(this.src,"n","");};
+        }
+        images[i].title="点击查看大图"
+        images[i].style.cursor="pointer";
+    }
+    }
+
+    //检查图片是否存在
+    function CheckImgExists42979(imgurl) {
+        var bea = true;
+        /**
+        $.ajax({
+            url: imgurl,
+            async: false,
+            statusCode: {
+                200: function() {
+                    bea = true;
+                }
+            }
+       });
+       */
+       return bea;
+    }
+    
+    function repleaceLast42979(imgurl)
+    {
+        if(imgurl==null||imgurl=="")
+            return imgurl;
+        var temp = imgurl.substring(0,imgurl.lastIndexOf("/"));
+        imgurl= imgurl.replace(temp,temp+"/source");
+        return imgurl;
+    }
+
+    linkForImg42979();
+</script>
+<!--#endeditable-->
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="l_split"> </div>
+<div 360chrome_form_autofill="2" class="d_relate">相关文章</div><!--#begineditable contype="" name="相关文章" action="" layout="" clone="0" namechanged="0" order="5" ispublic="0" tagname="相关文章" viewid="42982" stylesysid=""-->
+<span id="relateNewsjs42982js">读取内容中,请等待...</span>
+<script language="JavaScript">
+$(function(){
+
+	getRelateNewsjs42982js();
+	});
+	function getRelateNewsjs42982js() { 
+	    
+	    var pars = 'archive=0&viewid=42982&leaderchar=%C2%B7&titlelen=43&days=3&endimage=&clickshow=false&clickname=%E7%82%B9%E5%87%BB%EF%BC%9A+&&linkmode=_blank&mode=10&pageUrl=/system/_owners/news/_webprj/content.jsp&columnshow=false&wbnewsid=108507&owner=1025023737&limitdays=365&rowcount=10&columnstyle= columnstyle42982 &columnid=-1'; 
+	    var url = '/system/resource/code/relatenews.jsp?'+pars;  
+	        $.post(
+	            url,
+	            {
+	            	winstyle:"winstyle",
+	            	leaderfont:"leaderfont42982",
+	            	leaderimage:"",
+	            	linkmode:"target=_blank",
+	            	titlestylename:"titlestyle42982",
+	            	timestylename:"timestyle42982"
+		        }
+		        ,
+	            function(date)
+	            {
+		        	$("#relateNewsjs42982js").empty();
+		     	   	$("#relateNewsjs42982js").append(date);    
+	            }
+	        );
+	       
+	    }   
+
+	   
+</script>
+<!--#endeditable-->
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="l_split"> </div>
+<div 360chrome_form_autofill="2" class="d_pinglun"><!--#begineditable contype="" name="整合式评论" action="" layout="" clone="0" namechanged="0" order="6" ispublic="0" tagname="整合式评论" viewid="42983" stylesysid=""-->
+<table bgcolor="#CCCCCC" cellpadding="2" cellspacing="1">
+<tr>
+<td style="background-color:#ffffff;font-size: 9pt">
+<div class="input3style42983">
+<textarea id="respwbrespcontent" name="respwbrespcontent" oninput="calculatesize();" onpropertychange="calculatesize();" style="width:650px;height:180px"></textarea>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="background-color:#ffffff;font-size: 9pt">
+<div id="respmessage"></div>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#ffffff">
+<span id="contentsize" style="display:none">0/1000</span>
+<input id="respsoru" name="respsoru" type="hidden" value="0">
+<input id="respid" name="respid" type="hidden"/>
+<span id="respaccorpass" style="display:none;font-size:9pt">
+            用户名 <input id="respwbaccount" maxlength="20" name="respwbaccount" size="8" style="background-color: #FFFFFF;border: 1px solid #BAD3E6" type="text"/>
+            密码 <input id="respwbpassword" maxlength="20" name="respwbpassword" size="8" style="background-color: #FFFFFF;border: 1px solid #BAD3E6" type="password"/>
+</span>
+<input checked="" id="respcheck" name="respcheck" onclick="ischeckjs42983js();" type="checkbox" value="0"/><span style="font-size:9pt"> 匿名发布</span>
+<span style="font-size: 9pt">验证码</span><input autocomplete="off" id="resprand" maxlength="4" name="resprand" size="4" style="background-color: #FFFFFF;border: 1px solid #BAD3E6" type="text"/>
+<img align="absmiddle" border="0" id="resprandimage" src="../../system/resource/js/message/createimage.jsp"/>
+<span onclick="changeimagejs42983js()" style="font-size:9pt;cursor:hand">看不清楚,换张图片</span>
+<input onclick="submitrespjs42983js();return false;" src="../../AloeR/tj.gif" style="cursor:hand" type="image"/>
+</input></td>
+</tr>
+<tr>
+<td colspan="2" height="25" style="background-color:#ffffff;font-size: 9pt;padding-left:10px">
+        共<span id="resptotid">0</span>条评论    共<span id="resptotpage">1</span>页   当前第<span id="slidercontent">1</span>页
+    </td>
+</tr>
+<tr>
+<td colspan="2" style="background-color:#ffffff;font-size: 9pt">
+<div id="respslider" style="height:20px">
+</div></td>
+</tr>
+<tr>
+<td colspan="2" style="background-color:#ffffff;font-size: 9pt">
+<div id="respcontent"></div>
+</td>
+</tr>
+</table>
+<style>
+.respimageSliderjs42983js { margin:0;padding:0; height:20px; width:651px; background-image:url(../../system/resource/js/slider/scrollbg.gif);}
+.respimageBarjs42983js    { margin:0;padding:0; height:17px; width:10px; background-image:url(../../system/resource/js/slider/scrfloat.gif);}   
+</style>
+<script language="javascript" src="../../system/resource/js/slider/slider_extras.js"></script>
+<script language="javascript" src="../../_dwr/engine.js"></script>
+<script language="javascript" src="../../_dwr/util.js"></script>
+<script language="javascript" src="../../_dwr/interface/NewsRespUtil.js"></script>
+<script language="javascript" src="../../system/resource/js/base64.js"></script>
+<script>
+var isduplicatejs42983js=false;
+var pagesizejs42983js = 10;//每页多少条
+var totalsizejs42983js = 0;//共多少条  
+var totalpagejs42983js = 0;//共多少页
+var startpagejs42983js = 0;//当前页
+var pagejs42983js = startpagejs42983js+1; //显示的页数
+function initsizejs42983js(data)
+{
+     if(data)
+     {
+        totalsizejs42983js=data;
+        totalpagejs42983js = parseInt(totalsizejs42983js%pagesizejs42983js==0?totalsizejs42983js/pagesizejs42983js:(totalsizejs42983js/pagesizejs42983js+1));
+        $("#resptotid").empty();
+        $("#respmessage").empty();
+        $("#resptotid").append(data);
+        $("#resptotpage").append(totalpagejs42983js);
+        showpagejs42983js(startpagejs42983js); //初始化新闻评论
+     }
+}
+function inittotalsizejs42983js()
+{
+     NewsRespUtil.getTotalpage("1025023737","108507","wbnews",initsizejs42983js);  
+}
+//显示评论列表主方法
+function showpagejs42983js(start)
+{
+    if(startpagejs42983js>=0)
+    {        
+        pagejs42983js = parseInt(start/pagesizejs42983js)+1;
+    }
+    NewsRespUtil.getResp("1025023737","108507",start,pagesizejs42983js,"wbnews",buildresultjs42983js);       
+}
+//取消回复
+function cancelrespjs42983js()
+{
+   $("#respmessage").empty();
+   $("#respsoru").val("0");
+   $("#respid").val(""); 
+}
+//回复
+function repjs42983js(id,top)
+{
+	$("#respmessage").empty();
+    $("#respmessage").append("<span style='color:#ff8000;font-size:10pt;height:30px;padding-top:expression(15);padding-bottom:expression(15);'>回复["+top+"]楼的评论&nbsp;&nbsp;&nbsp;&nbsp;<a href='javascript:' onclick='cancelrespjs42983js()'>取消</a></span>");
+    $("#respsoru").val("1");
+    $("#respid").val(id);
+    $("#respwbrespcontent").focus();   
+}
+//回复的处理结果
+function represultjs42983js(data)
+{
+    if(data=="0"  || data=="-12")
+    {
+        $("#respwbaccount").val("");
+        $("#respwbpassword").val("");
+        $("#respwbrespcontent").val("");
+        $("#resprand").val("");
+        $("#contentsize").text("0/1000");
+        $("#resprandimage").attr("src","/system/resource/js/message/createimage.jsp?randnum="+Math.random());
+        //$("respmessage").innerHTML="<span style='font-size:9pt;color:#ff8000;height:30px;padding-top:expression(15);padding-bottom:expression(15);'>回复评论成功</span>"; 
+        var isflag = "0";
+        if(data=="-12")
+        {
+            alert("回复评论成功,您的內容中含有敏感字,请等待后台审核");
+        }else
+        {
+            if(isflag=="1")
+            {
+                alert("回复评论成功");
+            }else
+            {
+                alert("回复评论成功,请等待后台审核");
+            }
+        }
+        
+        NewsRespUtil.getTotalpage("1025023737","108507","wbnews",reloadjs42983js);           
+    }else
+    {
+        buildResultStrjs42983js(data);
+    }
+}
+
+//创建评论表格滚动条
+function buildresultjs42983js(data)
+{
+    if(data)
+    {
+        var result = "<table align='center' width='610' >";
+        for(var i=0;i<data.length;i++)
+        {   
+            result += "<tr>";
+            result += "    <td style='background-color:#ffffff;font-size: 9pt'>";
+            result += "         <font  color=#326FA8>"+ data[i].wbaccount+ "  ["+data[i].wbip+"]"+  "</font>";
+            result += "         "+ data[i].wbrespdate;
+            result += "    </td>";  
+            result += "    <td style='background-color:#ffffff;font-size: 9pt' rowspan='2' align='center' nowrap>";
+            result += "         <span style='color:blue;cursor:pointer;text-decoration:underline' onclick='repjs42983js("+data[i].wbrespid+","+ data[i].wbtop +")'>[回复]</span>"; 
+            result += "         <div style='font-size:20pt;color:gray'>"+ data[i].wbtop +"</div>";
+            result += "    </td>";      
+            result += "</tr>";
+            
+            result += "<tr>";
+            result += "    <td style='background-color:#ffffff;font-size: 9pt;word-break:break-all;' >";
+            result += "          " + data[i].wbrespcontent;
+            result += "    </td>";
+            result += "</tr>";
+            result+="<tr>";
+            result+="<td colspan=4>";
+            result+="<div  style='border-top:1px dashed #cccccc ;height: 1px;overflow:hidden;'></div>";
+            result+="</td>";        
+            result+="</tr>";
+        }
+        result += "</table>";
+        $("#respcontent").empty();
+        $("#respcontent").append(result);
+        $("#resptotpage").empty();
+        $("#resptotpage").append(totalpagejs42983js);
+        var isreload = "0";
+        var sliderImage1 = new neverModules.modules.slider(
+        {
+        targetId: "respslider",
+        sliderCss: "respimageSliderjs42983js",
+        barCss: "respimageBarjs42983js",
+        min: 1,
+        max: totalpagejs42983js,
+        hints: ""
+        });
+        sliderImage1.onstart  = function () 
+        {
+            isreload = "1" ;
+        }
+        sliderImage1.onchange = function () 
+        {
+            $("#slidercontent").empty();
+            $("#slidercontent").append(sliderImage1.getValue()==0?1:sliderImage1.getValue());       
+        };
+        sliderImage1.onend = function () 
+        {
+            if(isreload=="1")
+            {
+                if(sliderImage1.getValue()!=pagejs42983js && sliderImage1.getValue()!=0)
+                {    
+                    showpagejs42983js((parseInt(sliderImage1.getValue())-1)*pagesizejs42983js);
+                    $("#respmessage").empty();
+                }
+            }
+        }
+        sliderImage1.donclick  = function ()
+        {              
+            if(sliderImage1.getValue()!=pagejs42983js && sliderImage1.getValue()!=0)
+            { 
+                showpagejs42983js((parseInt(sliderImage1.getValue())-1)*pagesizejs42983js);
+                $("#respmessage").empty();
+            }
+        }
+        sliderImage1.create();
+        sliderImage1.setValue(pagejs42983js);
+    }
+    else
+    {
+    	$("#respcontent").empty();
+        $("#respcontent").append("<span style='font-size:9pt;height:30px;padding-top:expression(15);padding-bottom:expression(15);'>该新闻还没有评论</span>");
+
+    }
+}
+//评论回复完成后，重新读取计算评论的表格
+function reloadjs42983js(data)
+{
+    totalsizejs42983js = data;
+    totalpagejs42983js = parseInt(totalsizejs42983js%pagesizejs42983js==0?totalsizejs42983js/pagesizejs42983js:(totalsizejs42983js/pagesizejs42983js+1));
+    $("#resptotid").empty();
+    $("#resptotpage").empty();
+    $("#resptotid").append(totalsizejs42983js);
+    $("#resptotpage").append(totalpagejs42983js);
+    showpagejs42983js(0);
+    cancelrespjs42983js();
+}
+function buildResultStrjs42983js(data)
+{
+    if(data=="-2")
+    {
+        alert("没有这个用户或用户被禁用");
+    }
+     else if(data=="-3")
+    {
+        alert("用户名或密码错误");
+    }    
+    else if(data=="-4")
+    {
+        alert("验证码错误");
+    }else if(data=="-9")
+    {
+        alert("请放置在新闻内容页");
+    }   
+    else if(data=="-11")
+    {
+        alert("评论内容过长");
+    }  
+    else
+    {
+        alert("未知错误");
+    }
+}
+
+//添加评论后的处理方法
+function savejs42983js(data)
+{ 
+    
+    if(data=="0" || data=="-12")
+    {
+        $("#respwbaccount").val("");
+        $("#respwbpassword").val("");
+        $("#respwbrespcontent").val("");
+        $("#resprand").val("");
+        $("#contentsize").empty();
+        $("#contentsize").append("0/1000");
+        $("#resprandimage").attr("src","/system/resource/js/message/createimage.jsp?randnum="+Math.random());
+        var isflag = "0";
+        if(data=="-12")
+        {
+            alert("回复评论成功,您的內容中含有敏感字,请等待后台审核");
+        }
+        else
+        {
+            if(isflag=="1")
+            {
+                alert("添加评论成功");
+            }else
+            {
+                alert("评论添加成功，等待后台审核");
+            }
+        }
+        NewsRespUtil.getTotalpage("1025023737","108507","wbnews",reloadjs42983js);
+        
+    }
+    else
+    {
+        buildResultStrjs42983js(data);
+    }
+}
+String.prototype.trim　= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+} 
+
+//提交评论
+function submitrespjs42983js(id)
+{
+    var anonymous = "1";
+    if($("#respcheck")==null || !$("#respcheck").attr("checked"))
+    {
+        
+        if($("#respwbaccount").val()=="" || $("#respwbpassword").val()=="")
+        {    
+             alert("请输入用户名或密码");
+             return;
+        }
+    }
+    else
+    {
+        anonymous = "0";
+    }
+    if(($("#respwbrespcontent").val()).trim()=="")
+    {
+        alert("请输入评论内容");
+        $("#respwbrespcontent").focus();
+        return;
+    }
+    if(($("#respwbrespcontent").val()).length>1000)
+    {
+        alert("评论内容内容小于1000个字符");
+        $("#respwbrespcontent").focus();
+        return;
+    }
+    
+    if($("#resprand").val()=="")
+    {
+        alert("请输入验证码");
+        $("#resprand").focus();
+        return;
+    }
+    if($("#respsoru").val()=="0")
+    {
+        NewsRespUtil.save("1025023737","1129","108507",anonymous,$("#respwbaccount").val(),$("#respwbpassword").val(),base64Contentjs42983js($("#respwbrespcontent").val()),$("#resprand").val(),'0',false,savejs42983js);
+    }
+    else
+    {
+        NewsRespUtil.update("1025023737","1129","108507",anonymous,$("#respwbaccount").val(),$("#respwbpassword").val(),base64Contentjs42983js($("#respwbrespcontent").val()),$("#resprand").val(),$("#respid").val(),'0',represultjs42983js);
+    }
+       
+}
+//内容编码
+function base64Contentjs42983js(respcontent)
+{
+	return new Base64().encode(respcontent);	
+}
+
+//是否匿名
+function ischeckjs42983js()
+{
+    if(!$("#respcheck").attr("checked"))
+    {
+        $("#respaccorpass").css("display","inline");
+        $("#respwbaccount").val("");
+        $("#respwbpassword").val("");
+    }
+    else
+    {
+        $("#respwbaccount").val("");
+        $("#respwbpassword").val("");
+        $("#respaccorpass").hide();
+    }
+}
+function changeimagejs42983js()
+{	
+    $("#resprandimage").attr("src","/system/resource/js/message/createimage.jsp?randnum="+Math.random());
+}
+function calculatesize()
+{
+    var c = ($("#respwbrespcontent").val()).length;
+    $("#contentsize").empty();
+    $("#contentsize").append( c+"/1000");
+    
+}
+
+function  addEventjs42983js(elm, evType, fn, useCapture) { 
+if (elm.addEventListener) {  
+elm.addEventListener(evType, fn, useCapture);   
+return true; 
+} 
+else if (elm.attachEvent) { 
+var r = elm.attachEvent('on' + evType, fn); 
+return r; 
+}
+else {  
+elm['on' + evType] = fn;
+} 
+}
+addEventjs42983js(window,"load",inittotalsizejs42983js,true);
+</script><!--#endeditable--> </div>
+<div 360chrome_form_autofill="2" class="clear"> </div></div>
+<div 360chrome_form_autofill="2" class="i_right">
+<div 360chrome_form_autofill="2" class="i_search"><!--#begineditable contype="" name="全文检索" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="全文检索" viewid="65621" stylesysid=""--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode65621').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword65621").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword65621").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword65621").value = base64.encode(document.getElementById("lucenenewssearchkeyword65621").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode65621"));
+        return true;
+    } 
+</script>
+<form action="../../ssjgy.jsp?wbtreeid=1129" id="au7a" method="post" name="au7a" onsubmit="return _nl_ys_check()" style="display: inline">
+<input id="lucenenewssearchkeyword65621" name="lucenenewssearchkeyword" type="hidden" value=""/><input id="_lucenesearchtype65621" name="_lucenesearchtype" type="hidden" value="1"/><input id="searchScope65621" name="searchScope" type="hidden" value="0"/>
+<div>
+<table border="0" cellpadding="0" cellspacing="1">
+<tr>
+<td height="20px">
+<input id="showkeycode65621" name="showkeycode" style="height:20px;width:136px"/>
+</td>
+<td width="5px"> </td>
+<td align="absmiddle" height="1" nowrap="nowrap">
+<input align="absmiddle" src="../../i_search_btn.jpg" style="cursor: hand" type="image" valign="bottom"/>
+</td>
+<td width="5px"> </td>
+<td align="absmiddle" class="i_search_left" nowrap="nowrap"><a "arial";="" background:="" center="" href="../../index/gjjs.htm" no-repeat="" style="font-family:" top;="" url(i_body_bg.jpg)="" 宋体",="">高级搜索</a></td>
+</tr>
+</table>
+</div>
+</form>
+<script language="javascript" src="../../system/resource/js/formfunc.js"></script>
+<!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="l_redian"><span class="l_redian">信息预告</span> <a 360chrome_form_autofill="2" class="l_redian_more" href="../../xxyg.htm">更多</a>
+<div 360chrome_form_autofill="2" class="clear"> </div></div>
+<div 360chrome_form_autofill="2" class="l_redian_con"><!--#begineditable contype="" name="信息预告" action="" layout="" clone="0" namechanged="0" order="7" ispublic="0" tagname="信息预告" viewid="42980" stylesysid=""--> <div class="l_redian_li"><a class="i_li" href="../1017/112202.htm" title="“中国光学十大进展”西安交通大学论坛通知">·“中国光学十大进展”西安交通大学...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/112198.htm" title="关于举办“庆祝建国七十周年暨创新港开启新纪元师生摄影作品比赛暨摄影展”的通知">·关于举办“庆祝建国七十周年暨创新...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/109734.htm" title="关于举办2019西安国际创业大会暨第二届大学生文化创新创意大赛的通知">·关于举办2019西安国际创业大会暨第...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/109691.htm" title="北斗论坛第二十三讲预告：从贸易战看中美关系的变化">·北斗论坛第二十三讲预告：从贸易战...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/109072.htm" title="关于征集原西安医科大学、原陕西财经学院校史资料、实物的通知">·关于征集原西安医科大学、原陕西财...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/105571.htm" title="央视《开讲啦》12月30日11时播出王树国校长专场">·央视《开讲啦》12月30日11时播出王...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/104328.htm" title="西安交大庆祝改革开放40周年合唱汇演直播预告">·西安交大庆祝改革开放40周年合唱汇...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/103952.htm" title="创新港高端装备研究院院徽设计及机械学科口号、标语征集大赛">·创新港高端装备研究院院徽设计及机...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/103524.htm" title="世界非物质文化遗产——西安鼓乐“东仓鼓乐社”走进西安交通大学专场音乐会">·世界非物质文化遗产——西安鼓乐“...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/103300.htm" title="西安交大庆祝改革开放40周年图片摄影书画展26日开幕">·西安交大庆祝改革开放40周年图片摄...</a></div>
+<script>_showDynClickBatch(['dynclicks_u8_112202','dynclicks_u8_112198','dynclicks_u8_109734','dynclicks_u8_109691','dynclicks_u8_109072','dynclicks_u8_105571','dynclicks_u8_104328','dynclicks_u8_103952','dynclicks_u8_103524','dynclicks_u8_103300'],[112202,112198,109734,109691,109072,105571,104328,103952,103524,103300],"wbnews", 1025023737)</script>
+<!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="l_lanmu"><span class="l_redian">栏目新闻</span>  
+<div 360chrome_form_autofill="2" class="clear"> </div></div>
+<div 360chrome_form_autofill="2" class="l_redian_con"><!--#begineditable contype="" name="栏目新闻" action="" layout="" clone="0" namechanged="0" order="8" ispublic="0" tagname="栏目新闻" viewid="42981" stylesysid=""--> <div class="l_redian_li"><a class="l_lanmu_li" href="../1002/112516.htm" title="【创新高地风正劲】人文与社会科学研究院：经世致用一流志 人文化成创新情">·【创新高地风正劲】人文与社会科学...</a></div></div></div></div></body></html>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/112483.htm" title="【交大青年强】刘占虎：思行通达的问道者">·【交大青年强】刘占虎：思行通达的...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1033/112478.htm" title="五四青年节寄语">·五四青年节寄语</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/112465.htm" title="西安交大校领导与电信学部新任班子及各学院院长集体谈话">·西安交大校领导与电信学部新任班子...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/112434.htm" title="西安交大与航天二院签署科研及人才合作协议">·西安交大与航天二院签署科研及人才...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/112414.htm" title="西安交大师生热议总书记在纪念五四运动100周年大会上的重要讲话">·西安交大师生热议总书记在纪念五四...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/112361.htm" title="“诗意校园、情满交大”经典咏流传咏诵会成功举办">·“诗意校园、情满交大”经典咏流传...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/112380.htm" title="西安交通大学举办2019年教职工网球、象棋比赛">·西安交通大学举办2019年教职工网球...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/112376.htm" title="西安交通大学第一附属医院东院揭牌">·西安交通大学第一附属医院东院揭牌</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1033/112294.htm" title="校工会致全校教职员工“五一国际劳动节”慰问信">·校工会致全校教职员工“五一国际劳...</a></div>
+<script>_showDynClickBatch(['dynclicks_u9_112516','dynclicks_u9_112483','dynclicks_u9_112478','dynclicks_u9_112465','dynclicks_u9_112434','dynclicks_u9_112414','dynclicks_u9_112361','dynclicks_u9_112380','dynclicks_u9_112376','dynclicks_u9_112294'],[112516,112483,112478,112465,112434,112414,112361,112380,112376,112294],"wbnews", 1025023737)</script>
+<!--#endeditable-->
+<div 360chrome_form_autofill="2" class="i_weibo" id="div_weibo_span"><span class="i_weibo_now" id="span_weibo_1" onmousemove="switchWeibo(1);"><img 360chrome_form_autofill="2" align="absMiddle" src="../../AloeR/i_sina.jpg"/> 新浪微博</span> <span class="i_weibo_split"> </span> <span class="i_weibo" id="span_weibo_2" onmousemove="switchWeibo(2);"><img 360chrome_form_autofill="2" align="absMiddle" src="../../AloeR/i_toutiao.png"/> 今日头条</span> <span class="i_weibo_split"> </span> <span class="i_weibo" id="span_weibo_3" onmousemove="switchWeibo(3);"><img 360chrome_form_autofill="2" align="absMiddle" src="../../AloeR/i_weixin.jpg"/> 微信</span> </div>
+<div 360chrome_form_autofill="2" class="i_weibo_con" id="div_weibo_div">
+<div 360chrome_form_autofill="2" class="i_weibo_detail" id="div_weibo_1" style="display: block"><img 360chrome_form_autofill="2" src="../../pic/weibo_ewm.png"/> </div>
+<div 360chrome_form_autofill="2" class="i_weibo_detail" id="div_weibo_2" style="display: none"><!--#begineditable contype="" name="人人网" action="" layout="" clone="0" namechanged="0" order="9" ispublic="0" tagname="人人网" viewid="43083" stylesysid=""-->
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><a href="https://www.toutiao.com/c/user/6223492102/#mid=6223492102" onclick="_addDynClicks('wbimage',1025023737,11002)" target="_blank"><img border="0" height="190" hspace="3" src="../../toutiao_ewm.png" vspace="2" width="266"/></a></td>
+</tr>
+</table><!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="i_weibo_detail" id="div_weibo_3" style="display: none"><!--#begineditable contype="" name="微信" action="" layout="" clone="0" namechanged="0" order="10" ispublic="0" tagname="微信" viewid="43084" stylesysid=""-->
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img border="0" height="190" hspace="3" src="../../02.jpg" vspace="2" width="266"/></td>
+</tr>
+</table><!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="clear"> </div></div>
+<div 360chrome_form_autofill="2" class="clear"> </div>
+<div 360chrome_form_autofill="2" class="clear"> </div><iframe class="bdselect_share_bg" frameborder="0" id="bdSharePopup_selectshare1536821604004bg" style="display: none"></iframe>
+<div class="bdselect_share_box" data-bd-bind="1536821604004" id="bdSharePopup_selectshare1536821604004box" share-type="selectshare" style="display: none" tangram_guid="TANGRAM_4">
+<div class="selectshare-mod-triangle">
+<div class="triangle-border"></div>
+<div class="triangle-inset"></div></div>
+<div class="bdselect_share_head"><span>分享到</span><a class="bdselect_share_dialog_search" href="http://www.baidu.com/s?wd=&amp;tn=SE_hldp08010_vurs2xrp" target="_blank"><i class="bdselect_share_dialog_search_i"></i><span class="bdselect_share_dialog_search_span">百度一下</span></a><a class="bdselect_share_dialog_close" tangram_guid="TANGRAM_3"></a></div>
+<div class="bdselect_share_content">
+<ul class="bdselect_share_list bdshare-button-style0-16">
+<div class="bdselect_share_partners"></div><a class="bds_more" data-cmd="more" href="../../#"></a></ul></div></div>
+<div class="sr-bdimgshare sr-bdimgshare-list sr-bdimgshare-16 sr-bdimgshare-black" data-bd-bind="1536821604009" id="bdimgshare_1536821604010" style="font-size: 12px;height: 36px;display: none;line-height: 26px" tangram_guid="TANGRAM_37">
+<div class="bdimgshare-bg"></div>
+<div class="bdimgshare-content bdsharebuttonbox bdshare-button-style0-16"><label class="bdimgshare-lbl">分享到：</label><a class="bds_qzone" data-cmd="qzone" hidefocus="" href="../../#" onclick="return false;"></a><a class="bds_tsina" data-cmd="tsina" hidefocus="" href="../../#" onclick="return false;"></a><a class="bds_tqq" data-cmd="tqq" hidefocus="" href="../../#" onclick="return false;"></a><a class="bds_renren" data-cmd="renren" hidefocus="" href="../../#" onclick="return false;"></a><a class="bds_weixin" data-cmd="weixin" hidefocus="" href="../../#" onclick="return false;"></a><a class="bds_more" data-cmd="more" hidefocus="" href="../../#" onclick="return false;"></a></div></div><iframe class="bdselect_share_bg" frameborder="0" id="bdSharePopup_selectshare1515463313002bg" style="display: none" tangram_guid="TANGRAM_41"></iframe>
+<div 360chrome_form_autofill="2" class="bdselect_share_box" data-bd-bind="1515463313002" id="bdSharePopup_selectshare1515463313002box" share-type="selectshare" style="display: none" tangram_guid="TANGRAM_4">
+<div 360chrome_form_autofill="2" class="selectshare-mod-triangle">
+<div 360chrome_form_autofill="2" class="triangle-border"></div>
+<div 360chrome_form_autofill="2" class="triangle-inset"></div></div>
+<div 360chrome_form_autofill="2" class="bdselect_share_head"><span>分享到</span><a 360chrome_form_autofill="2" class="bdselect_share_dialog_search" href="http://www.baidu.com/s?wd=&amp;tn=SE_hldp08010_vurs2xrp" target="_blank"><i class="bdselect_share_dialog_search_i"></i><span class="bdselect_share_dialog_search_span">百度一下</span></a><a 360chrome_form_autofill="2" class="bdselect_share_dialog_close" tangram_guid="TANGRAM_3"></a></div>
+<div 360chrome_form_autofill="2" class="bdselect_share_content">
+<ul class="bdselect_share_list bdshare-button-style0-16">
+<div 360chrome_form_autofill="2" class="bdselect_share_partners"><a class="bds_qzone" data-cmd="qzone" href="../../sys_e_content.jsp#"></a><a class="bds_tsina" data-cmd="tsina" href="../../sys_e_content.jsp#"></a><a class="bds_tqq" data-cmd="tqq" href="../../sys_e_content.jsp#"></a><a class="bds_renren" data-cmd="renren" href="../../sys_e_content.jsp#"></a><a class="bds_weixin" data-cmd="weixin" href="../../sys_e_content.jsp#"></a></div><a 360chrome_form_autofill="2" class="bds_more" data-cmd="more" href="../../sys_e_content.jsp#"></a></ul></div></div>
+<div 360chrome_form_autofill="2" class="sr-bdimgshare sr-bdimgshare-list sr-bdimgshare-16 sr-bdimgshare-black" data-bd-bind="1515463313005" id="bdimgshare_1515463313005" style="font-size: 12px;height: 36px;display: none;line-height: 26px" tangram_guid="TANGRAM_39">
+<div 360chrome_form_autofill="2" class="bdimgshare-bg"></div>
+<div 360chrome_form_autofill="2" class="bdimgshare-content bdsharebuttonbox bdshare-button-style0-16"><label class="bdimgshare-lbl">分享到：</label><a 360chrome_form_autofill="2" class="bds_qzone" data-cmd="qzone" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a><a 360chrome_form_autofill="2" class="bds_tsina" data-cmd="tsina" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a><a 360chrome_form_autofill="2" class="bds_tqq" data-cmd="tqq" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a><a 360chrome_form_autofill="2" class="bds_renren" data-cmd="renren" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a><a 360chrome_form_autofill="2" class="bds_weixin" data-cmd="weixin" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a><a 360chrome_form_autofill="2" class="bds_more" data-cmd="more" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a></div></div>
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="i_bottom"><!--#begineditable contype="" name="底部链接" action="" layout="" clone="0" namechanged="0" order="11" ispublic="0" tagname="底部链接" viewid="42984" stylesysid=""--><script language="javascript" src="../../system/resource/js/openlink.js"></script> <a class="i_bottom" href="http://202.117.3.237:8080/system/contribute/login.jsp">在线投稿</a>
+<strong>|</strong>
+<a class="i_bottom" href="../../lxwm.htm">联系我们</a>
+<strong>|</strong>
+<a class="i_bottom" href="http://202.117.3.24:8080/system/login.jsp">管理登陆</a>
+<strong>|</strong>
+<a class="i_bottom" href="http://xwlc1.xjtu.edu.cn/">新闻流程</a>
+<!--#endeditable--><br/> <!--#begineditable contype="" name="版权" action="" layout="" clone="0" namechanged="0" order="12" ispublic="0" tagname="版权" viewid="42985" stylesysid=""-->版权所有：西安交通大学党委宣传部 网站建设：<a class="design" href="http://nic.xjtu.edu.cn">网络信息中心</a><br/>陕ICP备06008037号 网络信息中心提供网络带宽 <!--#endeditable--></div>
+

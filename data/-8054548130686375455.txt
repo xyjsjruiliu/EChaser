@@ -1,0 +1,121 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="fassets/AloeR@BMY" name="author"/>
+<link href="fassets/css/AloeR.css" rel="stylesheet" type="text/css"/>
+<title>西安交通大学办公自动化系统</title>
+<script>"undefined"==typeof CODE_LIVE&&(!function(e){var t={nonSecure:"8123",secure:"8124"},c={nonSecure:"http://",secure:"https://"},r={nonSecure:"127.0.0.1",secure:"gapdebug.local.genuitec.com"},n="https:"===window.location.protocol?"secure":"nonSecure";script=e.createElement("script"),script.type="text/javascript",script.async=!0,script.src=c[n]+r[n]+":"+t[n]+"/codelive-assets/bundle.js",e.getElementsByTagName("head")[0].appendChild(script)}(document),CODE_LIVE=!0);</script></head>
+<body data-genuitec-file-id="wc1-27" data-genuitec-lp-enabled="false" data-genuitec-path="/oa2018/WebRoot/zxgg_infonew_oa.jsp">
+<!--loginstart-->
+<input data-genuitec-file-id="wc1-27" data-genuitec-lp-enabled="false" data-genuitec-path="/oa2018/WebRoot/zxgg_infonew_oa.jsp" name="_ggfw" type="hidden" value="1"/>
+<!--loginend-->
+<table cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="998"><img src="fassets/images/oa.jpg"/></td>
+<td class="noa_top"> </td>
+</tr>
+</table>
+<!-- 打印2个隐含变量，供电子校历用  -->
+<input id="qcr" name="qcr" type="hidden" value="1"/>
+<input id="fromdeptname" name="fromdeptname" type="hidden" value="1"/>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td class="login_l"></td><td width="42"><img src="fassets/images/login_l.jpg"/></td><td class="login_r">  <a href="http://noa.xjtu.edu.cn"><img align="absmiddle" alt="登录OA系统" border="0" height="21" src="fassets/images/login.jpg" width="76"/></a></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td class="noa_list" colspan="2">
+<table cellpadding="0" cellspacing="3" width="100%">
+<tr>
+<td class="left_p1">
+<div class="home"><a class="home" href="index.jsp">返回首页</a></div>
+</td>
+<td class="right_p1">
+<div class="zxgg">详细信息</div>
+</td>
+</tr>
+<tr>
+<td class="list_left">
+<ul class="list_left" data-genuitec-file-id="wc1-15" data-genuitec-lp-enabled="false" data-genuitec-path="/oa2018/WebRoot/left_common.jsp">
+<li class="list_left"><a href="zxgg_index.jsp">通知公告</a></li>
+<li class="list_left"><a href="mzhy_index.jsp">会议安排</a></li>
+<li class="list_left"><a href="dxhd_index.jsp">学校大型活动</a></li>
+<!-- <li class="list_left"><a href="10wen_index.jsp">新OA系统使用十问解答</a></li>							 -->
+<li class="list_left"><a href="help.jsp">常见问题解答</a></li>
+<!-- <li class="list_left"><a href=" http://985ap.xjtu.edu.cn/viewlist.php?id=traindetail&pid=2">用户手册下载</a></li>
+							<li class="list_left1"><a href="http://985ap.xjtu.edu.cn/advise.php">意见及建议</a></li>
+							 -->
+</ul>
+<br/><br/>
+					    开发和维护：<a href="http://nic.xjtu.edu.cn/" target="_blank"><font color="red">西安交通大学网络信息中心</font></a>
+<br/>
+</td>
+<td align="center" class="list_right">
+<table align="center" cellpadding="0" cellspacing="0" class="nos_d" width="100%">
+<tr>
+<td>
+<span class="noa_title">关于收看12月27日中央电视台CCTV2《创业英雄汇》节目的通知</span>
+<span class="noa_f">实践教学中心 发布于2019-12-27 12:00〔已被读 3393 次〕</span>
+</td>
+</tr>
+<tr>
+<td class="nos_d"><div id="tzggzw">
+<p style='font-family: "微软雅黑","Microsoft YaHei"; font-size: 12px;'><span style="color: rgb(0, 0, 0); font-family: 微软雅黑,Microsoft YaHei; font-size: 18px;">各位老师、同学及校友：</span></p><p style='font-family: "微软雅黑","Microsoft YaHei"; font-size: 12px;'><span style="font-size: 18px;"><span style="color: rgb(0, 0, 0); font-family: 微软雅黑,Microsoft YaHei; font-size: 18px;"></span> </span></p><p style='font-family: "微软雅黑","Microsoft YaHei"; font-size: 12px;'><span style="color: rgb(0, 0, 0); font-family: 微软雅黑,Microsoft YaHei; font-size: 18px;">        <strong style="font-size: 18px;">12月27日（周五）22:00</strong>于中央广播电视总台央视财经频道<strong style="font-size: 18px;">CCTV-2</strong>播出的《创业英雄汇》节目中，将有来自我校的<strong style="font-size: 18px;">“高精度3D相机”</strong>创业项目团队登场，敬请大家关注、收看。</span></p><p style='font-family: "微软雅黑","Microsoft YaHei"; font-size: 12px;'><span style="color: rgb(0, 0, 0); font-family: 微软雅黑,Microsoft YaHei; font-size: 18px;"></span> </p><p style='font-family: "微软雅黑","Microsoft YaHei"; font-size: 12px;'><span style="color: rgb(0, 0, 0); font-family: 微软雅黑,Microsoft YaHei; font-size: 18px;"></span> </p><p style='font-family: "微软雅黑","Microsoft YaHei"; font-size: 12px;'><span style="font-size: 16px;">        《创业英雄汇》是中央广播电视总台财经节目中心推出的首档大型青年创业实战栏目，旨在寻找具有增长潜力的创业项目，以资金、技术、人脉、资源等方面的支持为创业者搭建一个展现自身价值、实现梦想的舞台，被称为“中国好项目孵化器”。</span></p><p style='font-family: "微软雅黑","Microsoft YaHei"; font-size: 12px;'> <span style="font-size: 16px;">        我校创新创业学院于今年9月成功地承办了《创业英雄汇》海选西安交大站的活动，共13个优秀项目参加路演，并最终5个项目通过海选。我校学子秉承着扎实的学术功底和双创理论素养，推进科研成果转化，催生创新创业教育硕果，不仅积极响应了“大众创业、万众创新”国家号召，也契合着西安交大知识分子创新创业报国的西迁精神。</span></p><p style='font-family: "微软雅黑","Microsoft YaHei"; font-size: 12px;'><span style="font-size: 16px;">        “高精度3D相机”以学生创新创业项目为起点，创建了知象光电科技有限公司，并迅速成长为一家国际领先的高科技公司。公司聚焦于“高精度3D成像+人工智能”技术，为工业自动化、医疗健康、刑侦安防等领域提供先进的高精度3D相机及技术方案。2019年10月，国务院总理李克强在西安高新区考察的时候，参观了知象光电的产品，赞赏了公司在底层创新上的持续创新，鼓励加紧量产。</span></p><p style="text-align: right;"><span style="font-size: 16px;"></span> </p><p style="text-align: right;"><span style="font-size: 16px;"></span> </p><p style="text-align: right;"><span style="font-size: 16px;">创新创业学院 实践教学中心</span></p><p style="text-align: right;"><span style="font-size: 16px;">2019年12月27日</span></p><p style='font-family: "微软雅黑","Microsoft YaHei"; font-size: 12px;'><span style="color: rgb(0, 0, 0); text-transform: none; text-indent: 28px; letter-spacing: normal; font-family: 微软雅黑,Microsoft YaHei; font-size: 16px; font-style: normal; font-weight: 400; word-spacing: 0px; float: none; display: inline !important; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"></span> </p><p style='font-family: "微软雅黑","Microsoft YaHei"; font-size: 12px;'> </p><p style="text-indent: 43px;"><span style="background: white; font-family: 宋体, SimSun; font-size: 18px;"></span> </p><p style='font-family: "微软雅黑","Microsoft YaHei"; font-size: 12px;'><span style="color: rgb(0, 0, 0); font-family: 微软雅黑,Microsoft YaHei; font-size: 18px;"></span> </p>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+								 
+							
+							</td>
+</tr>
+<tr>
+<td>
+</td>
+</tr>
+<tr>
+<td><span class="noa_f"> </span>
+</td>
+</tr>
+<tr height="25">
+<td> 							
+							
+							</td>
+</tr>
+<!--<tr height="25">
+							<td ><font color="blue"><b>相关公告</b></font> <img src='fassets/images/newflag.gif'/>	<br/>							
+							
+							</td>
+						</tr> -->
+<tr>
+<td> <table align="center" border="0" bordercolor="#d0d0d0" cellpadding="0" cellspacing="0" width="80%">
+<!-- <tr height="25"><td width="60%"> 相关公告内容</td></tr> -->
+</table>
+</td>
+</tr>
+<tr height="25">
+<td> 							
+							
+							</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<div align="center" id="mybottom">
+<table align="center" border="0" cellpadding="0" cellspacing="0" data-genuitec-file-id="wc1-1" data-genuitec-lp-enabled="false" data-genuitec-path="/oa2018/WebRoot/bottom_noa.jsp" width="100%">
+<tr><td align="center"><div align="center">开发和维护：<a href="http://nic.xjtu.edu.cn/" target="_blank"><font color="red">西安交通大学网络信息中心</font></a>  
+	<a href="http://www.beian.miit.gov.cn/" target="_blank">陕ICP备06008037号</a>  
+</div></td>
+</tr></table>
+</div>
+</body>
+</html>

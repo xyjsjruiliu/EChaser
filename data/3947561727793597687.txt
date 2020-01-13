@@ -1,0 +1,1499 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html class="nx-main980" xmlns="http://www.w3.org/1999/xhtml">
+<head><meta charset="utf-8"/>
+<link href="http://a.xnimg.cn/favicon-rr.ico?ver=3" rel="shortcut icon" type="image/x-icon"/>
+<link href="http://a.xnimg.cn/wap/apple_icon_.png" rel="apple-touch-icon"/>
+<link href="http://s.xnimg.cn/a78209/nx/core/base.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+if(typeof nx === 'undefined'){
+var nx = {};
+}
+nx.log = {
+startTime : + new Date()
+};
+nx.user = {
+id : "",
+ruid:"",
+tinyPic	: " ",
+name : "",
+requestToken : '',
+_rtk : 'b08da1d7'
+};nx.user.isvip = false;nx.user.hidead = false;nx.webpager = nx.webpager || {};
+nx.production = true;
+</script>
+<script src="http://s.xnimg.cn/a77347/nx/core/libs.js" type="text/javascript"></script>
+<script type="text/javascript">
+define.config({map:{
+"backbone":"http://s.xnimg.cn/a75208/nx/core/backbone.js",
+"ui/draggable":"http://s.xnimg.cn/a70750/nx/core/ui/draggable.js",
+"ui/menu":"http://s.xnimg.cn/a70736/nx/core/ui/menu.js",
+"ui/resizable":"http://s.xnimg.cn/a70738/nx/core/ui/resizable.js",
+"ui/sortable":"http://s.xnimg.cn/a70749/nx/core/ui/sortable.js",
+"ui/tabs":"http://s.xnimg.cn/a78333/nx/core/ui/tabs.js",
+"ui/ceiling":"http://s.xnimg.cn/a76297/nx/core/ui/ceiling.js",
+"ui/columns":"http://s.xnimg.cn/a68070/nx/core/ui/columns.js",
+"ui/dialog":"http://s.xnimg.cn/a76395/nx/core/ui/dialog.js",
+"ui/fileupload":"http://s.xnimg.cn/a77333/nx/core/ui/fileupload.js",
+"ui/pagination":"http://s.xnimg.cn/a70307/nx/core/ui/pagination.js",
+"ui/placeholder":"http://s.xnimg.cn/a72095/nx/core/ui/placeholder.js",
+"ui/progressbar":"http://s.xnimg.cn/a62964/nx/core/ui/progressbar.js",
+"ui/rows":"http://s.xnimg.cn/a62964/nx/core/ui/rows.js",
+"ui/scroll":"http://s.xnimg.cn/a61518/nx/core/ui/scroll.js",
+"ui/scrollbar":"http://s.xnimg.cn/a76868/nx/core/ui/scrollbar.js",
+"ui/select":"http://s.xnimg.cn/a77883/nx/core/ui/select.js",
+"ui/slideshow":"http://s.xnimg.cn/a72804/nx/core/ui/slideshow.js",
+"ui/speech":"http://s.xnimg.cn/a77631/nx/core/ui/speech.js",
+"ui/textbox":"http://s.xnimg.cn/a78128/nx/core/ui/textbox.js",
+"ui/renren/textbox":"http://s.xnimg.cn/a78123/nx/core/ui/renren/textbox.js",
+"ui/tooltip":"http://s.xnimg.cn/a73228/nx/core/ui/tooltip.js",
+"ui/renren/addfriend":"http://s.xnimg.cn/a77718/nx/core/ui/renren/addFriendLayer.js",
+"ui/renren/at":"http://s.xnimg.cn/a76982/nx/core/ui/renren/at.js",
+"ui/renren/commentCenter":"http://s.xnimg.cn/a73625/nx/core/ui/renren/commentCenter.js",
+"ui/renren/emotion":"http://s.xnimg.cn/a77697/nx/core/ui/renren/emotion.js",
+"ui/renren/friendgroup":"http://s.xnimg.cn/a62964/nx/core/ui/renren/friendGroup.js",
+"ui/renren/friendListSelector":"http://s.xnimg.cn/a71270/nx/core/ui/renren/friendListSelector.js",
+"ui/renren/like":"http://s.xnimg.cn/a73625/nx/core/ui/renren/like.js",
+"nx/namecard":"http://s.xnimg.cn/a77668/nx/core/ui/renren/namecard.js",
+"ui/renren/pagelayer":"http://s.xnimg.cn/a62964/nx/core/ui/renren/pageLayer.js",
+"ui/renren/photoupload":"http://s.xnimg.cn/a77883/nx/core/ui/renren/photoupload.js",
+"ui/renren/privacy":"http://s.xnimg.cn/a76680/nx/core/ui/renren/privacy.js",
+"ui/renren/share":"http://s.xnimg.cn/a77405/nx/core/ui/renren/share.js",
+"ui/renren/vocal":"http://s.xnimg.cn/a77347/nx/core/ui/renren/vocal.js",
+"ui/renren/mvideo":"http://s.xnimg.cn/a77347/nx/core/ui/renren/mvideo.js",
+"ui/renren/with":"http://s.xnimg.cn/a77227/nx/core/ui/renren/with.js",
+"ui/clipboard":"http://s.xnimg.cn/a63417/nx/core/ui/clipboard.js",
+"app/publisher":"http://s.xnimg.cn/a78128/nx/core/app/publisher.js",
+"viewer":"http://s.xnimg.cn/a78295/nx/photo/viewer/js/viewer.js",
+"media/player": "http://s.xnimg.cn/nx/photo/viewer/js/mediaplayer.js",
+"ui/renren/like/commentseed":"http://s.xnimg.cn/a64636/nx/core/ui/renren/like.seed.comment.js",
+"ui/renren/like/seed":"http://s.xnimg.cn/a62964/nx/core/ui/renren/like.seed.js",
+"ui/renren/share/seed":"http://s.xnimg.cn/a62964/nx/core/ui/renren/share.seed.js",
+"ui/renren/follow":"http://s.xnimg.cn/a73911/nx/core/ui/renren/follow.js",
+"ui/renren/relationFollow":"http://s.xnimg.cn/a77724/nx/core/ui/renren/relationFollow.js",
+"ui/autocomplete":"http://s.xnimg.cn/a70736/nx/core/ui/autocomplete.js",
+"ui/showCommonFriend":"http://s.xnimg.cn/a63984/nx/core/ui/renren/showcommonfriend.js",
+"photo/circler":"http://s.xnimg.cn/a73344/nx/photo/phototerminal/js/circler.js",
+"ui/friendSearch":"http://s.xnimg.cn/a64338/nx/core/ui/renren/friendSearch.js",
+"ui/renren/replyOption":"http://s.xnimg.cn/a68256/nx/core/ui/renren/replyOption.js",
+"photo/avatarUpload": "http://s.xnimg.cn/a77340/nx/photo/upload-avata/js/avatarUpload.js"
+}});
+nx.data.isDoubleFeed = Boolean();
+nx.data.isDoubleFeedGuide = Boolean();
+</script>
+<script src="http://s.xnimg.cn/a95943/nx/core/base.js" type="text/javascript"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript">
+document.execCommand("BackgroundImageCache", false, true);
+</script>
+<![endif]-->
+<script>
+nx.webpager.disable = true;</script><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=EmulateIE7" http-equiv="X-UA-Compatible"/>
+<link href="http://s.xnimg.cn/a33155/csspro/base/layout.css" media="all" rel="stylesheet" type="text/css">
+<link href="http://s.xnimg.cn/favicon.ico?ver=2" rel="shortcut icon" type="image/x-icon"/>
+<link href="http://s.xnimg.cn/renren_logo_apple.png" rel="apple-touch-icon"/>
+<link href="http://s.xnimg.cn/a72965/n/core/global2-all-min.css" rel="stylesheet"/>
+<script type="text/javascript">
+XN = {get_check:'',get_check_x:'b08da1d7',env:{domain:'renren.com',shortSiteName:'人人',siteName:'人人网'}};
+</script>
+<!--[if lte IE 7]><script type="text/javascript" src="http://s.xnimg.cn/a51836/n/core/expressions.js"></script><![endif]-->
+<script src="http://s.xnimg.cn/a72842/n/core/base-all2.js" type="text/javascript"></script>
+<script type="text/javascript">
+XN.getFileVersion(
+[
+'http://s.xnimg.cn/a19816/csspro/apps/profile.css',
+'http://s.xnimg.cn/a20457/jspro/xn.app.recommendFriend.js',
+'http://s.xnimg.cn/a58863/jspro/xn.ui.pager.js',
+'http://s.xnimg.cn/a32035/jspro/xn.ui.multiFriendSelectorBox.js',
+'http://s.xnimg.cn/a54265/csspro/module/friendSelector.css',
+'http://s.xnimg.cn/a36164/jspro/xn.app.webpager.js',
+'http://s.xnimg.cn/a13200/jspro/album/ZeroClipboard.js',
+'http://s.xnimg.cn/a54532/jspro/editor/tiny_mce.js'
+]);    
+</script>
+<!--[if IE 6]><link type="text/css" rel="stylesheet" href="http://s.xnimg.cn/a30950/n/core/webpager-ie6-min.css" /><style id="CSSID_9f2766a4"></style><![endif]-->
+<!--[if IE 7]><link type="text/css" rel="stylesheet" href="http://s.xnimg.cn/a30950/n/core/webpager-ie7-min.css" /></style><![endif]-->
+<!--[if gt IE 7]><!--><link href="http://s.xnimg.cn/a30950/n/core/webpager-std-min.css" rel="stylesheet" type="text/css"/><!--<![endif]--><meta content="西安交通大学,公共主页,高校,人人网,人人,renren,校内,xiaonei,主页,page,交友,新鲜事" name="keywords"/><script type="text/javascript">
+XN.getFileVersion(
+[
+'http://s.xnimg.cn/a69051/jspro/xn.app.share.js',
+'http://s.xnimg.cn/a77704/allunivlist.js',
+'http://s.xnimg.cn/a30850/csspro/apps/like.css'
+]);
+XN.user.encryId = '0';</script>
+<script src="http://s.xnimg.cn/a66784/jspro/page/managetab.js" type="text/javascript"></script><script type="text/javascript">
+var defaultVal = '写点什么来支持西安交通大学吧...'.replace(/&#39;/g, "'").replace(/&#34;/g, '"'), isClub = false, pid = 600722033, isAdmin=false, biztype = 'index', ref = '';
+XN.namespace('page');
+XN.page.data = {gpid:'',name:"西安交通大学",userid:"",sex:"",born:"",isShowRecommend:false,ss:'',rt:'',showPageSendMsg:false,showFansSendMsg:false,id:600722033, type:1, productName:'公共主页', memberName:'好友', isAdmin:false, tabName:'index', defaultVal:'写点什么来支持西安交通大学吧...'.replace(/&#39;/g, "'").replace(/&#34;/g, '"'), curAdmin:''};
+//for chewen
+XN.config.jumpOut = false;
+//用以判断切换引导弹层
+XN.namespace('pageSwitchGuide');
+XN.pageSwitchGuide.status = 0;</script><script src="http://s.xnimg.cn/a9673/n/lib/swfupload-2.2.0.1/swfupload.js" type="text/javascript"></script><script src="http://s.xnimg.cn/a30849/jspro/xn.like.js" type="text/javascript"></script>
+<script src="http://s.xnimg.cn/a66634/jspro/page/switchpage/page-guide.js" type="text/javascript"></script><script>var page_info_key = '';</script><!--[if lte IE 6]><style type="text/css" media="screen">/* <![CDATA[ */ @import url(http://s.xnimg.cn/a5273/csspro/patch/ie6.css); /* ]]> */</style><![endif]-->
+<!--[if gte IE 7]><style type="text/css" media="screen">/* <![CDATA[ */ @import url(http://s.xnimg.cn/a5273/csspro/patch/ie7.css); /* ]]> */</style><![endif]--><meta content="西安交通大学，这里是 西安交通大学 在人人网的公共主页。来人人网支持西安交通大学吧！西安交通大学党委宣传部新闻中心——高校 西安交通大学 人人网校内" name="description"/><link href="http://s.xnimg.cn/a67823/csspro/page/page.css" media="all" rel="stylesheet" type="text/css"><link href="http://s.xnimg.cn/a61362/csspro/page/nav-vip.css" media="all" rel="stylesheet" type="text/css"/><script type="text/javascript">
+<!--
+//用户数据		
+XN.namespace( 'user' );XN.user={id:'',tinyPic:'',name:''};//-->
+</script>
+<link href="http://s.xnimg.cn/a69111/n/core/feed/feed-all-min.css" media="all" rel="stylesheet" type="text/css"/>
+<script src="http://s.xnimg.cn/a63482/jspro/xn.app.status.js" type="text/javascript"></script>
+<script src="http://s.xnimg.cn/a64158/jspro/xn.app.ilike.js" type="text/javascript"></script>
+<script src="http://s.xnimg.cn/a68933/n/core/js/minifeed-all.js" type="text/javascript"></script>
+<script src="http://s.xnimg.cn/a69051/jspro/xn.app.share.js" type="text/javascript"></script>
+<script src="http://s.xnimg.cn/a67387/n/apps/status/module/vocal/player.js" type="text/javascript"></script>
+<script src="http://s.xnimg.cn/a55746/n/apps/page/js/components/cryption.js" type="text/javascript"></script>
+<script src="http://s.xnimg.cn/a67733/jspro/page/home.js" type="text/javascript"></script>
+<link href="http://page.renren.com/skin/mng/showStyle?pid=600722033&amp;sid=-1" id="themeLink" rel="stylesheet" type="text/css"/><title>西安交通大学的公共主页 - 人人网,renren.com,西安交通大学,高校,公共主页</title></link></link></head>
+<body class="public-page layout-2-5-2">
+<div class="nx-container" id="nxContainer">
+<div class="nx-main"> <div class="hd-wraper" id="nxHeader"><div class="hd-fixed-wraper clearfix" style="width: 1663px;"><div class="hd-main"><h1 class="hd-logo"><a href="http://www.renren.com/" title="人人网 renren.com - 人人网校内是一个真实的社交网络，联系朋友，一起玩游戏">人人网</a></h1><div class="hd-nav clearfix"></div></div></div></div>
+<div class="nx-wraper clearfix"><div class="bd-container" style="background:#ffffff"><script type="text/javascript">
+(function(){
+define(function(require,exports){	
+var responseFrame = require('responseFrame');
+responseFrame.initFrameSize();							
+});
+})();
+</script>
+<div class="bd-main" style="padding-top:0">
+<div class="bd-content clearfix" style="width:100%;padding:0"> <div id="container-for-buddylist"><div aaa="" class="page-wrapper clearfix" id="opi"><div class="col-full">
+<div class="page-status" style="position:relative">
+<a name="nohead"> </a>
+<h1 class="page-name">
+<a href="/600722033">西安交通大学</a>
+<a href="http://page.renren.com/600722033/identify/desc/official" id="a-identify"><img alt="人人网官方认证" src="http://a.xnimg.cn/imgpro/page/icon/official-2.png" title="人人网官方认证"/></a></h1>
+<span id="joinFansBtn"><a class="follow" href="javascript:;" onclick="loginDialog();"></a></span> <span class="status-content"></span>
+<span class="time"></span>
+</div><link href="http://s.xnimg.cn/a50894/n/apps/page/css/switch-new-all-min.css" media="all" rel="stylesheet" type="text/css"/>
+<script data-module="tpl" data-src="http://s.xnimg.cn/n/apps/page/js/common/tpl.js" type="text/javascript"></script>
+<script src="http://s.xnimg.cn/n/apps/page/js/common/tool.js" type="text/javascript"></script>
+<script src="http://s.xnimg.cn/a54655/n/apps/page/js/admin/admin_switch.js" type="text/javascript"></script>
+<div id="gift_pop" style="display: none">
+<script>
+function sendPop(args){
+if(typeof args != "undefined" && isNumber(args)){
+pageid = args ;
+} else {
+pageid = 0;
+}
+new Ajax.Request("http://gift.renren.com/op/pagesend/pop", 
+{
+method: "post",
+parameters: "pageid=" + pageid,
+onSuccess: function(o){
+$('gift_pop').innerHTML=o.responseText;
+$('gift_pop').eval_inner_JS();
+}
+}
+); 
+}
+</script>
+</div><div class="setup" style="z-index:1;"><a class="customSetting" href="http://page.renren.com?ref=tablink" style="right:0px;top:1px;margin-top:7px;margin-right:5px;">全部人人公共主页</a></div><div id="customMenuPanel" style="display:none;"><div class="menu-dropdown edit-tab" id="menuHidden">
+<a biz="pagegift" href="/600722033/pagegift" name="收礼盒" title="西安交通大学的收礼盒">
+收礼盒</a>
+<a biz="related" href="/600722033/related" name="相关公共主页" title="西安交通大学的相关公共主页">
+相关公共主页</a>
+<a biz="renrenevent" href="/600722033/renrenevent" name="活动" title="西安交通大学的活动">
+活动</a></div></div>
+<div class="page-tabs">
+<ul class="tabpanel clearfix" id="navTabPanel">
+<li><a biz="index" class="current" href="/600722033/index" name="公共主页" title="西安交通大学的公共主页">
+公共主页
+</a></li>
+<li>
+<a biz="info" href="/600722033/info" name="资料" title="西安交通大学的资料">
+资料</a></li>
+<li>
+<a biz="fdoing" href="/600722033/fdoing" name="状态" title="西安交通大学的状态">
+状态</a></li>
+<li>
+<a biz="photo" href="/600722033/photo" name="相册" title="西安交通大学的相册">
+相册</a></li>
+<li>
+<a biz="note" href="/600722033/note" name="日志" title="西安交通大学的日志">
+日志</a></li>
+<li>
+<a biz="share" href="/600722033/share" name="分享" title="西安交通大学的分享">
+分享</a></li>
+<li class="moreTab"><a class="menu" href="#nogo"><img src="http://a.xnimg.cn/a.gif"/></a></li></ul>
+</div></div><div class="cols clearfix"><div class="col-left">
+<script type="text/javascript">
+XN.page.data.shareData = {"largeurl":"","summary":"\u897f\u5b89\u4ea4\u901a\u5927\u5b66\u515a\u59d4\u5ba3\u4f20\u90e8\u65b0\u95fb\u4e2d\u5fc3","fromuniv":"","title":"\u897f\u5b89\u4ea4\u901a\u5927\u5b66","level":"1","link":"http:\/\/page.renren.com\/600722033","fromname":"\u897f\u5b89\u4ea4\u901a\u5927\u5b66","statID":"page_600722033_1","pic":"http:\/\/hdn.xnimg.cn\/dn\/school_lib\/logo\/xiaohui-33.png","type":17,"fromno":600722033,"albumid":"0"};
+</script>
+<div class="mod act-des">
+<div class="mod-header">
+<h4>头像和描述</h4>
+</div>
+<div class="mod action">
+<div class="mod-body clearfix">
+<div class="page-avatar">
+<a href="/600722033/album?head">
+<img alt="西安交通大学 高校" src="http://hdn.xnimg.cn/dn/school_lib/logo/xiaohui-33.png" title="西安交通大学 高校" width="200">
+</img></a>
+</div>
+<div class="pd-holder">
+<ul class="user-action">
+<li class="buttons">
+<a class="addfrd" href="javascript:;" onclick="loginDialog();">加为好友</a>
+<a class="pshare" href="javascript:;" onclick="loginDialog();">分享</a>
+</li> </ul>
+<div class="page-des">
+<div class="mod-body">
+<p id="description">西安交通大学党委宣传部新闻中心</p></div>
+</div></div>
+</div>
+</div></div>
+<div class="mod basic-info">
+<div class="mod-header">
+<h4>西安交通大学的基本信息</h4>
+</div>
+<div class="mod-body">
+<ul>
+<li><span class="label">类型：</span><span class="value">具有理工特色，涵盖理、工、医、经济、管理、文、法、哲、教育和艺术等10个学科门类的综合性研究型大学</span></li>
+<li><span class="label">名称：</span><span class="value">西安交通大学</span></li>
+<li><span class="label">所在地：</span><span class="value">  中国陕西西安 </span></li></ul>
+</div>
+</div>
+<div class="mod relations">
+<div class="mod-header">
+<a class="more" href="/600722033/related" title="查看全部西安交通大学相关的公共主页">查看全部<img alt="西安交通大学相关的公共主页" src="http://a.xnimg.cn/imgpro/bg/page-more.png" title="西安交通大学相关的公共主页"/></a>
+<h4>相关的公共主页</h4>
+</div>
+<div class="mod-body">
+<ul>
+<li class="clearfix">
+<a class="avatar" href="/600862382?ref=related">
+<img alt="西交大前沿院FIST的公共主页" src="http://hdn.xnimg.cn/photos/hdn221/20141127/1030/h_tiny_f82s_8d97000639c91986.jpg" title="西交大前沿院FIST的公共主页" width="50"/>
+</a>
+<div class="description">
+<a href="/600862382?ref=related" title="西交大前沿院FIST的公共主页">西交大前沿院FIST</a>
+<p title="前沿科学技术研究院（简称“前沿院”）是西安交通大学为了适应海外优秀人才快速回归及借此加快建设世界高水平大学的进程而成立的一所涵盖物理、化学、生物、生命、医学、材料等多门基础学科的大型综合性研究机构。"> 前沿科学技术研究院（简称“前沿院”...</p>
+</div>
+</li></ul>
+</div>
+</div>
+<div class="mod albums">
+<div class="mod-header">
+<a class="more" href="/600722033/photo" title="查看全部西安交通大学的相册">查看全部<img alt="西安交通大学的相册" src="http://a.xnimg.cn/imgpro/bg/page-more.png" title="西安交通大学的相册"/></a>
+<h4>相册</h4>
+<a href="/600722033/photo" rel="nofollow">(43)</a>
+</div>
+<div class="mod-body"><ul class="albums-list">
+<li>
+<a class="cover" href="/600722033/album/1116130887">
+<img alt="2015年6月1日" class="photo" src="http://fmn.xnpic.com/fmn071/20150601/0845/head_Mx8d_816b0001c1651e83.jpg" title="2015年6月1日" width="100"/>
+</a>
+<div class="album-info">
+<a href="/600722033/album/1116130887">2015年6月1日</a>
+<span class="time">2015-06-01 08:48更新</span>
+</div>
+</li>
+<li>
+<a class="cover" href="/600722033/album/1115704539">
+<img alt="2015年5月27日" class="photo" src="http://fmn.rrimg.com/fmn074/20150527/1650/head_kc2M_87fe0001100b1e7f.jpg" title="2015年5月27日" width="100"/>
+</a>
+<div class="album-info">
+<a href="/600722033/album/1115704539">2015年5月27日</a>
+<span class="time">2015-05-27 16:50更新</span>
+</div>
+</li>
+<li>
+<a class="cover" href="/600722033/album/1115616307">
+<img alt="2015年5月26日" class="photo" src="http://fmn.rrimg.com/fmn076/20150526/1520/head_KHey_8c860000ed421e84.jpg" title="2015年5月26日" width="100"/>
+</a>
+<div class="album-info">
+<a href="/600722033/album/1115616307">2015年5月26日</a>
+<span class="time">2015-05-26 15:21更新</span>
+</div>
+</li></ul>
+</div>
+</div>
+<div class="mod blogs">
+<div class="mod-header">
+<a class="more" href="/600722033/note" title="查看全部西安交通大学的日志">查看全部<img alt="西安交通大学的日志" src="http://a.xnimg.cn/imgpro/bg/page-more.png" title="西安交通大学的日志"/></a>
+<h4>日志</h4>
+<a href="/600722033/note" rel="nofollow">(331)</a>
+</div>
+<div class="mod-body"><ul class="blogs-list">
+<li>
+<h4>
+<img class="iBlog" src="http://a.xnimg.cn/a.gif"/>
+<a href="/600722033/note/944585400" title="双甲子校庆拉开序幕！母校喊你回家看看！">双甲子校庆拉开序幕！母校喊你回家看看！</a>
+</h4>
+<p>西安交通大学建校120周年暨迁校60周年校庆公告             2016年4月8日，西安交通大学将迎来建校12...</p>
+<span class="time">
+2015年01月28日 
+<a href="/600722033/note/944585400">评论</a> (0)
+</span>
+</li>
+<li>
+<h4>
+<img class="iBlog" src="http://a.xnimg.cn/a.gif"/>
+<a href="/600722033/note/964793807" title="【标兵风采】齐雪涛：在坚持中绽放">【标兵风采】齐雪涛：在坚持中绽放</a>
+</h4>
+<p>【编者按】齐雪涛，来自能源与动力工程学院硕3017班，跟随何茂刚教授攻读硕士研究生，研究方向为流体的热物性测量和理论分析...</p>
+<span class="time">
+2015年12月24日 
+<a href="/600722033/note/964793807">评论</a> (0)
+</span>
+</li>
+<li>
+<h4>
+<img class="iBlog" src="http://a.xnimg.cn/a.gif"/>
+<a href="/600722033/note/964499470" title="【身边交大人】师会芳：30年的辅导员之路">【身边交大人】师会芳：30年的辅导员之路</a>
+</h4>
+<p>“三十载风雨兼程路，立德树人诲人不倦；万余天人生彩虹桥，知心暖心青春无悔。”无论是学生党校课堂，还各种文体活动现场，总能...</p>
+<span class="time">
+2015年12月14日 
+<a href="/600722033/note/964499470">评论</a> (0)
+</span>
+</li></ul>
+</div>
+</div>
+<div class="mod shares">
+<div class="mod-header">
+<a class="more" href="/600722033/share" title="查看全部西安交通大学的分享">查看全部<img alt="西安交通大学的分享" src="http://a.xnimg.cn/imgpro/bg/page-more.png" title="西安交通大学的分享"/></a>
+<h4>分享</h4>
+<a href="/600722033/share" rel="nofollow">(229)</a>
+</div>
+<div class="mod-body"><ul class="shares-list">
+<li>
+<img class="icon.share.10" src="http://a.xnimg.cn/a.gif"/>
+<a href="/share/list?pid=600722033&amp;share_id=17978677200#17978677200">
+【航拍+延时】交大我爱你</a>
+<span class="time"></span>
+</li>
+<li>
+<img class="icon.share.10" src="http://a.xnimg.cn/a.gif"/>
+<a href="/share/list?pid=600722033&amp;share_id=17964214328#17964214328">
+交大西迁纪念短片《永远飘扬的旗帜》</a>
+<span class="time"></span>
+</li>
+<li>
+<img class="icon.share.10" src="http://a.xnimg.cn/a.gif"/>
+<a href="/share/list?pid=600722033&amp;share_id=17936900556#17936900556">
+从国家教学名师到名师的培养者——马知恩教授</a>
+<span class="time"></span>
+</li>
+<li>
+<img class="icon.share.10" src="http://a.xnimg.cn/a.gif"/>
+<a href="/share/list?pid=600722033&amp;share_id=17936191167#17936191167">
+新闻直播间 西安交大 毕业</a>
+<span class="time"></span>
+</li>
+<li>
+<img class="icon.share.6" src="http://a.xnimg.cn/a.gif"/>
+<a href="/share/list?pid=600722033&amp;share_id=17936147385#17936147385">
+[新闻直播间]毕业季·我的毕业典礼：修身养性 在“社会熔炉”里百炼成钢_新闻频道_央视网(cctv.com)</a>
+<span class="time"></span>
+</li></ul>
+</div>
+</div> <a href="javascript:;" id="cancelFollow" onclick="cancelFollow();" style="display:none">取消关注</a>
+<a href="http://support.renren.com/report/common?type=32&amp;contentId=600722033&amp;origURL=http://page.renren.com/600722033" target="_blank">举报该公共主页</a></div><div class="col-center">
+<script type="text/javascript">
+jQuery(function(){
+//开启空间 
+jQuery('#reopenBtn').bind('click',function(){
+XN.DO.confirm({
+title: '开启情侣空间',
+modal: true,
+message: '<div class="dialogtips">需要征询对方的同意才能开通情侣空间！</div><div style="padding: 20px 0 0"><p><textarea id="reopenMessage" style="border: 1px solid rgb(184, 212, 232); width: 350px; height: 50px; color: gray;" title="附加信息(选填，45字内)" onfocus="if(this.value==this.title) this.value=\'\';" onblur="if(this.value==\'\')this.value=this.title;">附加信息(选填，45字内)</textarea></p></div>',
+callback: function(r){
+if(r){
+var node = $('reopenMessage');
+if(node.value == node.title){
+node.value = '';
+}
+$('closeForm').lament.value = (node.value == node.title) ? '' : node.value;
+new XN.net.xmlhttp({
+url:'http://page.'+XN.env.domain+'/settings/setClosed',
+data:XN.FORM.serialize('closeForm'),
+method:'post',
+onSuccess:function(r){
+var ret = XN.JSON.parse(r.responseText);
+XN.DO.showMsg(ret.msg||'操作成功','温馨提示');
+setTimeout(function (){
+window.location.reload();
+},500);
+},
+onError : function(){
+}
+});
+}
+}
+});
+return false;
+});
+});	
+</script>
+<div class="mod page-publisher">
+<div class="status-post">
+<h3>
+<span class="numb-count">
+<span id="messageLength">0/240</span>
+</span>给西安交通大学留言				
+</h3>
+<form action="#" method="get" name="messageForm">
+<div class="status-text">
+<input name="gid" style="display:none;" type="text" value="0"/>
+<input name="cid" style="display:none;" type="text" value="0"/>
+<input class="post-btn" type="submit" value="留言"/>
+<textarea autocomplete="off" id="t1" name="message"></textarea>
+</div>
+</form></div>
+</div>
+<div class="mod communion">
+<div class="mod-header">
+<h4>交流区</h4>
+</div>
+<div class="mod-body">
+<div class="mod stabs" id="intercourseTabs">
+<a class="current" href="javascript:;" id="feedTab"><span>西安交通大学的新鲜事</span></a>
+<a href="javascript:;" id="commentTab"><span>关注者留言</span></a>
+<a href="javascript:;" id="replyTab"><span>西安交通大学的回复</span></a></div><script type="text/javascript">
+XN.page.data.statID= 'page_600722033_1';
+XN.page.data.level= '1';
+</script>
+<div id="feedView">
+<div class="feed-module" data-userid="600722033">
+<div class="feed-list"><article class="a-feed a-n-feed" id="newsfeed-28284158596"><aside><figure class="newsfeed-user" create-time="1578504539634" data-fid="28284158596" data-id="600722033" data-mark="" data-name="西安交通大学" data-source="5295615319" data-sourcecontrol="" data-stype="2008" noavatar="" style="">
+<a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2008&amp;fin=0&amp;fid=28284158596&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_status&amp;tagid=5295615319&amp;statID=&amp;level=&amp;ref=minifeed&amp;sfet=2008&amp;fin=0&amp;fid=28284158596&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_28284158596_2008_600722033" target="_blank" title="西安交通大学"><img src="http://hdn.xnimg.cn/photos/hdn121/20150127/1050/h_tiny_6UuA_537400007857195a.jpg" title="西安交通大学" width="50"/></a></figure>
+</aside><h3><a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2008&amp;fin=0&amp;fid=28284158596&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_status&amp;tagid=5295615319&amp;statID=&amp;level=&amp;ref=minifeed&amp;sfet=2008&amp;fin=0&amp;fid=28284158596&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_28284158596_2008_600722033" target="_blank">西安交通大学</a> : 同学们，有没有喜欢追剧的，网购的，现在免费送你们影视会员，省钱神器，有需要的同学可以联系我，都是免费的</h3><div class="details ui-new">
+<div class="legend">
+<span class="duration">01-09 01:28</span><a class="share_new_ui" href="#nogo" onclick="a_fowardDoing('5295615319', '600722033', '', '');return false;" stats="NF_28284158596_2008_600722033">分享</a><a class="ilike_icon" href="#nogo" id="ILike5295615319" onclick="ILike_toggleUserLike('status','5295615319','0','600722033','')" stats="NF_28284158596_2008_600722033">赞</a><a class="reply-new" data-fid="28284158596" href="#nogo"><span class="reply-show-word">回复</span></a>
+</div><div class="feed-replies" id="feedbody28284158596" style="display:none;"></div>
+<div class="feed-comment" style="margin-top:13px">
+<span class="avatar">
+<img src="http://a.xnimg.cn/a.gif"/>
+</span>
+<div class="comment-box">
+<textarea autocomplete="off" data-fid="28284158596" data-privacy="">评论...</textarea>
+<div class="action">
+<div class="action-l"><a class="emotion" href="#nogo" onclick="return false;">表情<span class="tip"><span class="arrow"></span>表情</span></a><a class="mention" href="#nogo" onclick="return false;">@<span class="tip"><span class="arrow"></span>点名</span></a></div>
+<div class="action-r">
+<a class="submit submit-disabled" href="#nogo" onclick="return false;">回复</a><span class="count"><span class="inputed">0</span>/<span class="maxlength">140</span></span>
+</div>
+</div>
+</div>
+</div><div id="get-params-for-ilike-5295615319" style="display:none;"><div id="reply-params-28284158596" style="display:none;">
+{
+  "cid": "5295615319",
+  "oid":"600722033",
+  "type": "page",
+  "typeNum": "3",
+  "rpLength": "0",
+  "userDigged":"",
+  "digged":"",
+  "stype":"2008",
+  "feedOwnerId":"600722033","loadURI": "http://page.renren.com/doing/replyList",
+     "sendURI": "http://page.renren.com/doing/reply",
+     "delURI": "http://page.renren.com/doing/delReply"}
+</div>
+</div></div><div class="feed-toolbar feed-toolbar-new">
+<menu type="toolbar"></menu>
+</div></article><article class="a-feed a-n-feed" id="newsfeed-28283272325"><aside><figure class="newsfeed-user" create-time="1572435547479" data-fid="28283272325" data-id="600722033" data-mark="" data-name="西安交通大学" data-source="5295502825" data-sourcecontrol="" data-stype="2008" noavatar="" style="">
+<a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2008&amp;fin=1&amp;fid=28283272325&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_status&amp;tagid=5295502825&amp;statID=&amp;level=&amp;ref=minifeed&amp;sfet=2008&amp;fin=1&amp;fid=28283272325&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_28283272325_2008_600722033" target="_blank" title="西安交通大学"><img src="http://hdn.xnimg.cn/photos/hdn121/20150127/1050/h_tiny_6UuA_537400007857195a.jpg" title="西安交通大学" width="50"/></a></figure>
+</aside><h3><a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2008&amp;fin=1&amp;fid=28283272325&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_status&amp;tagid=5295502825&amp;statID=&amp;level=&amp;ref=minifeed&amp;sfet=2008&amp;fin=1&amp;fid=28283272325&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_28283272325_2008_600722033" target="_blank">西安交通大学</a> : 有人吗</h3><div class="details ui-new">
+<div class="legend">
+<span class="duration">2019-10-30 19:39</span><a class="share_new_ui" href="#nogo" onclick="a_fowardDoing('5295502825', '600722033', '', '');return false;" stats="NF_28283272325_2008_600722033">分享</a><a class="ilike_icon" href="#nogo" id="ILike5295502825" onclick="ILike_toggleUserLike('status','5295502825','0','600722033','')" stats="NF_28283272325_2008_600722033">赞</a><a class="reply-new" data-fid="28283272325" href="#nogo"><span class="reply-show-word">回复</span></a>
+</div><div class="feed-replies" id="feedbody28283272325" style="display:none;"></div>
+<div class="feed-comment" style="margin-top:13px">
+<span class="avatar">
+<img src="http://a.xnimg.cn/a.gif"/>
+</span>
+<div class="comment-box">
+<textarea autocomplete="off" data-fid="28283272325" data-privacy="">评论...</textarea>
+<div class="action">
+<div class="action-l"><a class="emotion" href="#nogo" onclick="return false;">表情<span class="tip"><span class="arrow"></span>表情</span></a><a class="mention" href="#nogo" onclick="return false;">@<span class="tip"><span class="arrow"></span>点名</span></a></div>
+<div class="action-r">
+<a class="submit submit-disabled" href="#nogo" onclick="return false;">回复</a><span class="count"><span class="inputed">0</span>/<span class="maxlength">140</span></span>
+</div>
+</div>
+</div>
+</div><div id="get-params-for-ilike-5295502825" style="display:none;"><div id="reply-params-28283272325" style="display:none;">
+{
+  "cid": "5295502825",
+  "oid":"600722033",
+  "type": "page",
+  "typeNum": "3",
+  "rpLength": "0",
+  "userDigged":"",
+  "digged":"",
+  "stype":"2008",
+  "feedOwnerId":"600722033","loadURI": "http://page.renren.com/doing/replyList",
+     "sendURI": "http://page.renren.com/doing/reply",
+     "delURI": "http://page.renren.com/doing/delReply"}
+</div>
+</div></div><div class="feed-toolbar feed-toolbar-new">
+<menu type="toolbar"></menu>
+</div></article><article class="a-feed a-n-feed" id="newsfeed-28283146937"><aside><figure class="newsfeed-user" create-time="1572009551108" data-fid="28283146937" data-id="600722033" data-mark="" data-name="西安交通大学" data-source="5295484887" data-sourcecontrol="" data-stype="2008" noavatar="" style="">
+<a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2008&amp;fin=2&amp;fid=28283146937&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_status&amp;tagid=5295484887&amp;statID=&amp;level=&amp;ref=minifeed&amp;sfet=2008&amp;fin=2&amp;fid=28283146937&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_28283146937_2008_600722033" target="_blank" title="西安交通大学"><img src="http://hdn.xnimg.cn/photos/hdn121/20150127/1050/h_tiny_6UuA_537400007857195a.jpg" title="西安交通大学" width="50"/></a></figure>
+</aside><h3><a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2008&amp;fin=2&amp;fid=28283146937&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_status&amp;tagid=5295484887&amp;statID=&amp;level=&amp;ref=minifeed&amp;sfet=2008&amp;fin=2&amp;fid=28283146937&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_28283146937_2008_600722033" target="_blank">西安交通大学</a> : 有同学吗？</h3><div class="details ui-new">
+<div class="legend">
+<span class="duration">2019-10-25 21:19</span><a class="share_new_ui" href="#nogo" onclick="a_fowardDoing('5295484887', '600722033', '', '');return false;" stats="NF_28283146937_2008_600722033">分享</a><a class="ilike_icon" href="#nogo" id="ILike5295484887" onclick="ILike_toggleUserLike('status','5295484887','0','600722033','')" stats="NF_28283146937_2008_600722033">赞</a><a class="reply-new" data-fid="28283146937" href="#nogo"><span class="reply-show-word">回复</span></a>
+</div><div class="feed-replies" id="feedbody28283146937" style="display:none;"></div>
+<div class="feed-comment" style="margin-top:13px">
+<span class="avatar">
+<img src="http://a.xnimg.cn/a.gif"/>
+</span>
+<div class="comment-box">
+<textarea autocomplete="off" data-fid="28283146937" data-privacy="">评论...</textarea>
+<div class="action">
+<div class="action-l"><a class="emotion" href="#nogo" onclick="return false;">表情<span class="tip"><span class="arrow"></span>表情</span></a><a class="mention" href="#nogo" onclick="return false;">@<span class="tip"><span class="arrow"></span>点名</span></a></div>
+<div class="action-r">
+<a class="submit submit-disabled" href="#nogo" onclick="return false;">回复</a><span class="count"><span class="inputed">0</span>/<span class="maxlength">140</span></span>
+</div>
+</div>
+</div>
+</div><div id="get-params-for-ilike-5295484887" style="display:none;"><div id="reply-params-28283146937" style="display:none;">
+{
+  "cid": "5295484887",
+  "oid":"600722033",
+  "type": "page",
+  "typeNum": "3",
+  "rpLength": "0",
+  "userDigged":"",
+  "digged":"",
+  "stype":"2008",
+  "feedOwnerId":"600722033","loadURI": "http://page.renren.com/doing/replyList",
+     "sendURI": "http://page.renren.com/doing/reply",
+     "delURI": "http://page.renren.com/doing/delReply"}
+</div>
+</div></div><div class="feed-toolbar feed-toolbar-new">
+<menu type="toolbar"></menu>
+</div></article><article class="a-feed" id="newsfeed-28004321169"><!-- 头像 --><aside><figure class="newsfeed-user" create-time="1458031977522" data-fid="28004321169" data-id="600722033" data-mark="" data-name="西安交通大学" data-source="8418923975" data-sourcecontrol="" data-stype="2038" noavatar="" style="">
+<a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2038&amp;fin=3&amp;fid=28004321169&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_28004321169_2038_600722033" target="_blank" title="西安交通大学"><img src="http://hdn.xnimg.cn/photos/hdn121/20150127/1050/h_head_kHKw_537400007857195a.jpg" title="西安交通大学" width="50"/></a></figure>
+</aside><h3><a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2038&amp;fin=3&amp;fid=28004321169&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_28004321169_2038_600722033" target="_blank">西安交通大学</a> <img src="http://a.xnimg.cn/imgpro/page/icon/official-2.png" title="人人网官方认证"/>上传了1张照片至 <a href="http://page.renren.com/600722033/album/1136214933??ref=minifeed&amp;sfet=2038&amp;fin=3&amp;fid=28004321169&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" target="_blank">2016年3月15日</a></h3><div class="content"><div class="clearfix photo-content">
+<div class="photo-box photo-one-new"><a href="http://page.renren.com/600722033/photo/8418923975?ref=minifeed&amp;sfet=2038&amp;fin=3&amp;fid=28004321169&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;psource=1" target="_blank"><img src="http://fmn.rrimg.com/fmn078/20160315/1650/p/m2w300h300q85lt_large_255d_da750000ea2b1e7f.jpg"/>
+</a></div>
+</div>
+</div><div class="details ui-new">
+<div class="legend"><span class="duration">2016-03-15 16:52</span><a class="share_new" data-share="{stype:'create_share_feed',id:8418923975,owner:600722033,type:'photo'}" href="#nogo" stats="NF_28004321169_2038_600722033">分享</a><a class="ilike_icon" href="#nogo" id="ILike8418923975" onclick="ILike_toggleUserLike('photo','8418923975','0','600722033','')" stats="NF_28004321169_2038_600722033">赞</a><a class="reply-new" data-fid="28004321169" href="#nogo"><span class="reply-show-word">回复</span></a>
+</div><div class="ilike-body" id="feedbody8418923975">
+<div class="min-cmtbox statustab">
+<div class="mincmt-body"><div class="mincmt-diggers statuscmtitem">
+<p><a href="#nogo" onclick="ILike_toggleShow('photo','8418923975', '0');return false;">6个人觉得赞！</a></p>
+<ul class="digger" id="diggers8418923975"></ul>
+</div></div>
+</div>
+</div><div class="feed-replies" id="feedbody28004321169" style="display:none;"></div>
+<div class="feed-comment" style="margin-top:13px">
+<span class="avatar">
+<img src="http://a.xnimg.cn/a.gif">
+</img></span>
+<div class="comment-box">
+<textarea autocomplete="off" data-fid="28004321169" data-privacy="">评论...</textarea>
+<div class="action">
+<div class="action-l"><a class="emotion" href="#nogo" onclick="return false;">表情<span class="tip"><span class="arrow"></span>表情</span></a><a class="mention" href="#nogo" onclick="return false;">@<span class="tip"><span class="arrow"></span>点名</span></a></div>
+<div class="action-r">
+<a class="submit submit-disabled" href="#nogo" onclick="return false;">回复</a><span class="count"><span class="inputed">0</span>/<span class="maxlength">140</span></span>
+</div>
+</div>
+</div>
+</div><div id="get-params-for-ilike-8418923975" style="display:none;"><div id="reply-params-28004321169" style="display:none;">
+{
+  "cid": "8418923975",
+  "oid":"600722033",
+  "type": "page",
+  "typeNum": "",
+  "rpLength": "0",
+  "userDigged":"",
+  "digged":"6",
+  "stype":"2038",
+  "feedOwnerId":"600722033","loadURI": "http://page.renren.com/600722033/photo/replyList",
+     "sendURI": "http://page.renren.com/600722033/photo/reply",
+     "delURI": "http://page.renren.com/600722033/photo/replyDelete"}
+</div>
+</div></div><div class="feed-toolbar feed-toolbar-new">
+<menu type="toolbar"></menu>
+</div></article><article class="a-feed a-n-feed" id="newsfeed-27939225968"><aside><figure class="newsfeed-user" create-time="1450927231973" data-fid="27939225968" data-id="600722033" data-mark="" data-name="西安交通大学" data-source="964793807" data-sourcecontrol="" data-stype="2012" noavatar="" style="">
+<a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2012&amp;fin=4&amp;fid=27939225968&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=964793807&amp;ref=minifeed&amp;sfet=2012&amp;fin=4&amp;fid=27939225968&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27939225968_2012_600722033" target="_blank" title="西安交通大学"><img src="http://hdn.xnimg.cn/photos/hdn121/20150127/1050/h_tiny_6UuA_537400007857195a.jpg" title="西安交通大学" width="50"/></a></figure>
+</aside><h3><a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2012&amp;fin=4&amp;fid=27939225968&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=964793807&amp;ref=minifeed&amp;sfet=2012&amp;fin=4&amp;fid=27939225968&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27939225968_2012_600722033" target="_blank">西安交通大学</a> <img src="http://a.xnimg.cn/imgpro/page/icon/official-2.png" title="人人网官方认证"/> <span class="action">发表了日志</span></h3><div class="content"><div class="rich-content no-media"><div class="content-main"><p class="title"><a href="http://page.renren.com/600722033/note/964793807?ref=minifeed&amp;sfet=2012&amp;fin=4&amp;fid=27939225968&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=964793807&amp;statID=page_600722033_2&amp;level=1" stats="NF_27939225968_2012_600722033" target="_blank">【标兵风采】齐雪涛：在坚持中绽放</a></p><p class="summary">【编者按】齐雪涛，来自能源与动力工程学院硕3017班，跟随何茂刚教授攻读硕士研究生，研究方向为流体的热物性测量和理论分析。她在2014—2015学年西安交通大学“优秀学生标兵”评选中荣获“优秀研究生标兵”称号。研究生期间，她已经发表了9篇SCI论文，其中7篇属于“最有学术影响力的国际期刊”，2篇属于“国际知名学术刊物”，还发表了1篇中文核心论文和4篇会议论文...</p></div>
+</div></div><div class="details ui-new">
+<div class="legend">
+<span class="duration">2015-12-24 11:20</span><a class="share_new" data-share="{stype:'create_share_feed',id:964793807,owner:600722033,type:'pageBlog'}" href="#nogo" stats="NF_27939225968_2012_600722033">分享</a><a class="ilike_icon" href="#nogo" id="ILike964793807" onclick="ILike_toggleUserLike('blog','964793807','0','600722033','')" stats="NF_27939225968_2012_600722033">赞</a><a class="reply-new" data-fid="27939225968" href="#nogo"><span class="reply-show-word">回复</span></a>
+</div><div class="ilike-body" id="feedbody964793807">
+<div class="min-cmtbox statustab">
+<div class="mincmt-body"><div class="mincmt-diggers statuscmtitem">
+<p><a href="#nogo" onclick="ILike_toggleShow('blog','964793807', '0');return false;">3个人觉得赞！</a></p>
+<ul class="digger" id="diggers964793807"></ul>
+</div></div>
+</div>
+</div><div class="feed-replies" id="feedbody27939225968" style="display:none;"></div>
+<div class="feed-comment" style="margin-top:13px">
+<span class="avatar">
+<img src="http://a.xnimg.cn/a.gif"/>
+</span>
+<div class="comment-box">
+<textarea autocomplete="off" data-fid="27939225968" data-privacy="">评论...</textarea>
+<div class="action">
+<div class="action-l"><a class="emotion" href="#nogo" onclick="return false;">表情<span class="tip"><span class="arrow"></span>表情</span></a><a class="mention" href="#nogo" onclick="return false;">@<span class="tip"><span class="arrow"></span>点名</span></a></div>
+<div class="action-r">
+<a class="submit submit-disabled" href="#nogo" onclick="return false;">回复</a><span class="count"><span class="inputed">0</span>/<span class="maxlength">140</span></span>
+</div>
+</div>
+</div>
+</div><div id="get-params-for-ilike-964793807" style="display:none;"><div id="reply-params-27939225968" style="display:none;">
+{
+  "cid": "964793807",
+  "oid":"600722033",
+  "type": "page",
+  "typeNum": "",
+  "rpLength": "0",
+  "userDigged":"",
+  "digged":"3",
+  "stype":"2012",
+  "feedOwnerId":"600722033","loadURI": "http://page.renren.com/600722033/note/replyList",
+     "sendURI": "http://page.renren.com/600722033/note/reply",
+     "delURI": "http://page.renren.com/600722033/note/replyDelete"}
+</div>
+</div></div><div class="feed-toolbar feed-toolbar-new">
+<menu type="toolbar"></menu>
+</div></article><article class="a-feed a-n-feed" id="newsfeed-27928997570"><aside><figure class="newsfeed-user" create-time="1450056045255" data-fid="27928997570" data-id="600722033" data-mark="" data-name="西安交通大学" data-source="964499470" data-sourcecontrol="" data-stype="2012" noavatar="" style="">
+<a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2012&amp;fin=5&amp;fid=27928997570&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=964499470&amp;ref=minifeed&amp;sfet=2012&amp;fin=5&amp;fid=27928997570&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27928997570_2012_600722033" target="_blank" title="西安交通大学"><img src="http://hdn.xnimg.cn/photos/hdn121/20150127/1050/h_tiny_6UuA_537400007857195a.jpg" title="西安交通大学" width="50"/></a></figure>
+</aside><h3><a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2012&amp;fin=5&amp;fid=27928997570&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=964499470&amp;ref=minifeed&amp;sfet=2012&amp;fin=5&amp;fid=27928997570&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27928997570_2012_600722033" target="_blank">西安交通大学</a> <img src="http://a.xnimg.cn/imgpro/page/icon/official-2.png" title="人人网官方认证"/> <span class="action">发表了日志</span></h3><div class="content"><div class="rich-content no-media"><div class="content-main"><p class="title"><a href="http://page.renren.com/600722033/note/964499470?ref=minifeed&amp;sfet=2012&amp;fin=5&amp;fid=27928997570&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=964499470&amp;statID=page_600722033_2&amp;level=1" stats="NF_27928997570_2012_600722033" target="_blank">【身边交大人】师会芳：30年的辅导员之路</a></p><p class="summary">“三十载风雨兼程路，立德树人诲人不倦；万余天人生彩虹桥，知心暖心青春无悔。”无论是学生党校课堂，还各种文体活动现场，总能见到她亲切的身影。多年来，她始终站在思政教育工作的第一线，践行“人生导师”和“知心朋友”的双重使命，润物无声守护心田，助力万名学子成长。                                       30年来，她与学生共成长、...</p></div>
+</div></div><div class="details ui-new">
+<div class="legend">
+<span class="duration">2015-12-14 09:20</span><a class="share_new" data-share="{stype:'create_share_feed',id:964499470,owner:600722033,type:'pageBlog'}" href="#nogo" stats="NF_27928997570_2012_600722033">分享</a><a class="ilike_icon" href="#nogo" id="ILike964499470" onclick="ILike_toggleUserLike('blog','964499470','0','600722033','')" stats="NF_27928997570_2012_600722033">赞</a><a class="reply-new" data-fid="27928997570" href="#nogo"><span class="reply-show-word">回复</span></a>
+</div><div class="ilike-body" id="feedbody964499470">
+<div class="min-cmtbox statustab">
+<div class="mincmt-body"><div class="mincmt-diggers statuscmtitem">
+<p><a href="#nogo" onclick="ILike_toggleShow('blog','964499470', '0');return false;">3个人觉得赞！</a></p>
+<ul class="digger" id="diggers964499470"></ul>
+</div></div>
+</div>
+</div><div class="feed-replies" id="feedbody27928997570" style="display:none;"></div>
+<div class="feed-comment" style="margin-top:13px">
+<span class="avatar">
+<img src="http://a.xnimg.cn/a.gif"/>
+</span>
+<div class="comment-box">
+<textarea autocomplete="off" data-fid="27928997570" data-privacy="">评论...</textarea>
+<div class="action">
+<div class="action-l"><a class="emotion" href="#nogo" onclick="return false;">表情<span class="tip"><span class="arrow"></span>表情</span></a><a class="mention" href="#nogo" onclick="return false;">@<span class="tip"><span class="arrow"></span>点名</span></a></div>
+<div class="action-r">
+<a class="submit submit-disabled" href="#nogo" onclick="return false;">回复</a><span class="count"><span class="inputed">0</span>/<span class="maxlength">140</span></span>
+</div>
+</div>
+</div>
+</div><div id="get-params-for-ilike-964499470" style="display:none;"><div id="reply-params-27928997570" style="display:none;">
+{
+  "cid": "964499470",
+  "oid":"600722033",
+  "type": "page",
+  "typeNum": "",
+  "rpLength": "0",
+  "userDigged":"",
+  "digged":"3",
+  "stype":"2012",
+  "feedOwnerId":"600722033","loadURI": "http://page.renren.com/600722033/note/replyList",
+     "sendURI": "http://page.renren.com/600722033/note/reply",
+     "delURI": "http://page.renren.com/600722033/note/replyDelete"}
+</div>
+</div></div><div class="feed-toolbar feed-toolbar-new">
+<menu type="toolbar"></menu>
+</div></article><article class="a-feed a-n-feed" id="newsfeed-27924613471"><aside><figure class="newsfeed-user" create-time="1449628218114" data-fid="27924613471" data-id="600722033" data-mark="" data-name="西安交通大学" data-source="964349230" data-sourcecontrol="" data-stype="2012" noavatar="" style="">
+<a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2012&amp;fin=6&amp;fid=27924613471&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=964349230&amp;ref=minifeed&amp;sfet=2012&amp;fin=6&amp;fid=27924613471&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27924613471_2012_600722033" target="_blank" title="西安交通大学"><img src="http://hdn.xnimg.cn/photos/hdn121/20150127/1050/h_tiny_6UuA_537400007857195a.jpg" title="西安交通大学" width="50"/></a></figure>
+</aside><h3><a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2012&amp;fin=6&amp;fid=27924613471&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=964349230&amp;ref=minifeed&amp;sfet=2012&amp;fin=6&amp;fid=27924613471&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27924613471_2012_600722033" target="_blank">西安交通大学</a> <img src="http://a.xnimg.cn/imgpro/page/icon/official-2.png" title="人人网官方认证"/> <span class="action">发表了日志</span></h3><div class="content"><div class="rich-content no-media"><div class="content-main"><p class="title"><a href="http://page.renren.com/600722033/note/964349230?ref=minifeed&amp;sfet=2012&amp;fin=6&amp;fid=27924613471&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=964349230&amp;statID=page_600722033_2&amp;level=1" stats="NF_27924613471_2012_600722033" target="_blank">西安交大何雅玲教授当选中国科学院院士</a></p><p class="summary">12月7日下午，中国科学院公布了2015年中国科学院院士增选结果，西安交通大学能源与动力工程学院何雅玲教授当选技术科学部院士。至此西安交大科学院院士增至13人，两院院士人数升至27人。                                       何雅玲，工程热物理专家。西安交通大学教授。1963年生于西安。1985年毕业于西安交通大学，198...</p></div>
+</div></div><div class="details ui-new">
+<div class="legend">
+<span class="duration">2015-12-09 10:30</span><a class="share_new" data-share="{stype:'create_share_feed',id:964349230,owner:600722033,type:'pageBlog'}" href="#nogo" stats="NF_27924613471_2012_600722033">分享</a><a class="ilike_icon" href="#nogo" id="ILike964349230" onclick="ILike_toggleUserLike('blog','964349230','0','600722033','')" stats="NF_27924613471_2012_600722033">赞</a><a class="reply-new" data-fid="27924613471" href="#nogo"><span class="reply-show-word">回复</span></a>
+</div><div class="ilike-body" id="feedbody964349230">
+<div class="min-cmtbox statustab">
+<div class="mincmt-body"><div class="mincmt-diggers statuscmtitem">
+<p><a href="#nogo" onclick="ILike_toggleShow('blog','964349230', '0');return false;">7个人觉得赞！</a></p>
+<ul class="digger" id="diggers964349230"></ul>
+</div></div>
+</div>
+</div><div class="feed-replies" id="feedbody27924613471" style="display:none;"></div>
+<div class="feed-comment" style="margin-top:13px">
+<span class="avatar">
+<img src="http://a.xnimg.cn/a.gif"/>
+</span>
+<div class="comment-box">
+<textarea autocomplete="off" data-fid="27924613471" data-privacy="">评论...</textarea>
+<div class="action">
+<div class="action-l"><a class="emotion" href="#nogo" onclick="return false;">表情<span class="tip"><span class="arrow"></span>表情</span></a><a class="mention" href="#nogo" onclick="return false;">@<span class="tip"><span class="arrow"></span>点名</span></a></div>
+<div class="action-r">
+<a class="submit submit-disabled" href="#nogo" onclick="return false;">回复</a><span class="count"><span class="inputed">0</span>/<span class="maxlength">140</span></span>
+</div>
+</div>
+</div>
+</div><div id="get-params-for-ilike-964349230" style="display:none;"><div id="reply-params-27924613471" style="display:none;">
+{
+  "cid": "964349230",
+  "oid":"600722033",
+  "type": "page",
+  "typeNum": "",
+  "rpLength": "0",
+  "userDigged":"",
+  "digged":"7",
+  "stype":"2012",
+  "feedOwnerId":"600722033","loadURI": "http://page.renren.com/600722033/note/replyList",
+     "sendURI": "http://page.renren.com/600722033/note/reply",
+     "delURI": "http://page.renren.com/600722033/note/replyDelete"}
+</div>
+</div></div><div class="feed-toolbar feed-toolbar-new">
+<menu type="toolbar"></menu>
+</div></article><article class="a-feed a-n-feed" id="newsfeed-27916690131"><aside><figure class="newsfeed-user" create-time="1448964905632" data-fid="27916690131" data-id="600722033" data-mark="" data-name="西安交通大学" data-source="964078893" data-sourcecontrol="" data-stype="2012" noavatar="" style="">
+<a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2012&amp;fin=7&amp;fid=27916690131&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=964078893&amp;ref=minifeed&amp;sfet=2012&amp;fin=7&amp;fid=27916690131&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27916690131_2012_600722033" target="_blank" title="西安交通大学"><img src="http://hdn.xnimg.cn/photos/hdn121/20150127/1050/h_tiny_6UuA_537400007857195a.jpg" title="西安交通大学" width="50"/></a></figure>
+</aside><h3><a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2012&amp;fin=7&amp;fid=27916690131&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=964078893&amp;ref=minifeed&amp;sfet=2012&amp;fin=7&amp;fid=27916690131&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27916690131_2012_600722033" target="_blank">西安交通大学</a> <img src="http://a.xnimg.cn/imgpro/page/icon/official-2.png" title="人人网官方认证"/> <span class="action">发表了日志</span></h3><div class="content"><div class="rich-content no-media"><div class="content-main"><p class="title"><a href="http://page.renren.com/600722033/note/964078893?ref=minifeed&amp;sfet=2012&amp;fin=7&amp;fid=27916690131&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=964078893&amp;statID=page_600722033_2&amp;level=1" stats="NF_27916690131_2012_600722033" target="_blank">【身边交大人】当兵好男儿</a></p><p class="summary">曾经，那一抹迷彩绿燃起了心底的激情，于是从青葱校园到祖国边疆，从漫步书海到驰骋沙场，他们的青春用汗水见证，他们的青春用热血燃烧。他们，是走进军营的身边交大人。                                 我从林海雪原归来                       欧阳明是2013级飞行器设计与工程专业学生。今年9月他刚从驻哈某部服役归来...</p></div>
+</div></div><div class="details ui-new">
+<div class="legend">
+<span class="duration">2015-12-01 18:15</span><a class="share_new" data-share="{stype:'create_share_feed',id:964078893,owner:600722033,type:'pageBlog'}" href="#nogo" stats="NF_27916690131_2012_600722033">分享</a><a class="ilike_icon" href="#nogo" id="ILike964078893" onclick="ILike_toggleUserLike('blog','964078893','0','600722033','')" stats="NF_27916690131_2012_600722033">赞</a><a class="reply-new" data-fid="27916690131" href="#nogo"><span class="reply-show-word">回复</span></a>
+</div><div class="ilike-body" id="feedbody964078893">
+<div class="min-cmtbox statustab">
+<div class="mincmt-body"><div class="mincmt-diggers statuscmtitem">
+<p><a href="#nogo" onclick="ILike_toggleShow('blog','964078893', '0');return false;">3个人觉得赞！</a></p>
+<ul class="digger" id="diggers964078893"></ul>
+</div></div>
+</div>
+</div><div class="feed-replies" id="feedbody27916690131" style="display:none;"><div class="a-reply">
+<a class="avatar" href="http://www.renren.com/profile.do?id=349386079&amp;ref=minifeed&amp;sfet=2012&amp;fin=7&amp;fid=27916690131&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="349386079" target="_blank"><img src="http://hdn.xnimg.cn/photos/hdn421/20111222/1325/tiny_6sZm_34556o019118.jpg"/></a>
+<div class="reply-content"><p class="text"><a class="name" href="http://www.renren.com/profile.do?id=349386079&amp;ref=minifeed&amp;sfet=2012&amp;fin=7&amp;fid=27916690131&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="349386079" target="_blank">王宝全</a>: 我也刚退伍，14年大学毕业入伍服役的，给战友点个赞！</p>
+<div class="bottom-bar">
+<span class="time">2017-06-17 13:03</span>
+<div class="action"><a class="reply" data-fid="27916690131" data-rid="0" data-uid="349386079" data-uname="王宝全" href="#nogo" onclick="return false;">回复</a> </div>
+</div>
+</div>
+</div></div>
+<div class="feed-comment" style="margin-top:13px">
+<span class="avatar">
+<img src="http://a.xnimg.cn/a.gif"/>
+</span>
+<div class="comment-box">
+<textarea autocomplete="off" data-fid="27916690131" data-privacy="">评论...</textarea>
+<div class="action">
+<div class="action-l"><a class="emotion" href="#nogo" onclick="return false;">表情<span class="tip"><span class="arrow"></span>表情</span></a><a class="mention" href="#nogo" onclick="return false;">@<span class="tip"><span class="arrow"></span>点名</span></a></div>
+<div class="action-r">
+<a class="submit submit-disabled" href="#nogo" onclick="return false;">回复</a><span class="count"><span class="inputed">0</span>/<span class="maxlength">140</span></span>
+</div>
+</div>
+</div>
+</div><div id="get-params-for-ilike-964078893" style="display:none;"><div id="reply-params-27916690131" style="display:none;">
+{
+  "cid": "964078893",
+  "oid":"600722033",
+  "type": "page",
+  "typeNum": "",
+  "rpLength": "0",
+  "userDigged":"",
+  "digged":"3",
+  "stype":"2012",
+  "feedOwnerId":"600722033","loadURI": "http://page.renren.com/600722033/note/replyList",
+     "sendURI": "http://page.renren.com/600722033/note/reply",
+     "delURI": "http://page.renren.com/600722033/note/replyDelete"}
+</div>
+</div></div><div class="feed-toolbar feed-toolbar-new">
+<menu type="toolbar"></menu>
+</div></article><article class="a-feed a-n-feed" id="newsfeed-27912550587"><aside><figure class="newsfeed-user" create-time="1448587115478" data-fid="27912550587" data-id="600722033" data-mark="" data-name="西安交通大学" data-source="963947269" data-sourcecontrol="" data-stype="2012" noavatar="" style="">
+<a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2012&amp;fin=8&amp;fid=27912550587&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=963947269&amp;ref=minifeed&amp;sfet=2012&amp;fin=8&amp;fid=27912550587&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27912550587_2012_600722033" target="_blank" title="西安交通大学"><img src="http://hdn.xnimg.cn/photos/hdn121/20150127/1050/h_tiny_6UuA_537400007857195a.jpg" title="西安交通大学" width="50"/></a></figure>
+</aside><h3><a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2012&amp;fin=8&amp;fid=27912550587&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=963947269&amp;ref=minifeed&amp;sfet=2012&amp;fin=8&amp;fid=27912550587&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27912550587_2012_600722033" target="_blank">西安交通大学</a> <img src="http://a.xnimg.cn/imgpro/page/icon/official-2.png" title="人人网官方认证"/> <span class="action">发表了日志</span></h3><div class="content"><div class="rich-content no-media"><div class="content-main"><p class="title"><a href="http://page.renren.com/600722033/note/963947269?ref=minifeed&amp;sfet=2012&amp;fin=8&amp;fid=27912550587&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=963947269&amp;statID=page_600722033_2&amp;level=1" stats="NF_27912550587_2012_600722033" target="_blank">秋日交大 美哉吾校 落叶缤纷</a></p><p class="summary">每到落叶缤纷的季节，交大校园便美成了一幅画。今年的彭康路落叶保留三周，更是成为了校园一景。热心的交大“粉丝”纷纷在微博、微信上晒出落叶美景，交大新闻网特推出美图一组，以飨读者：                                            张阳 摄                                            ...</p></div>
+</div></div><div class="details ui-new">
+<div class="legend">
+<span class="duration">2015-11-27 09:18</span><a class="share_new" data-share="{stype:'create_share_feed',id:963947269,owner:600722033,type:'pageBlog'}" href="#nogo" stats="NF_27912550587_2012_600722033">分享</a><a class="ilike_icon" href="#nogo" id="ILike963947269" onclick="ILike_toggleUserLike('blog','963947269','0','600722033','')" stats="NF_27912550587_2012_600722033">赞</a><a class="reply-new" data-fid="27912550587" href="#nogo"><span class="reply-show-word">回复</span></a>
+</div><div class="feed-replies" id="feedbody27912550587" style="display:none;"></div>
+<div class="feed-comment" style="margin-top:13px">
+<span class="avatar">
+<img src="http://a.xnimg.cn/a.gif"/>
+</span>
+<div class="comment-box">
+<textarea autocomplete="off" data-fid="27912550587" data-privacy="">评论...</textarea>
+<div class="action">
+<div class="action-l"><a class="emotion" href="#nogo" onclick="return false;">表情<span class="tip"><span class="arrow"></span>表情</span></a><a class="mention" href="#nogo" onclick="return false;">@<span class="tip"><span class="arrow"></span>点名</span></a></div>
+<div class="action-r">
+<a class="submit submit-disabled" href="#nogo" onclick="return false;">回复</a><span class="count"><span class="inputed">0</span>/<span class="maxlength">140</span></span>
+</div>
+</div>
+</div>
+</div><div id="get-params-for-ilike-963947269" style="display:none;"><div id="reply-params-27912550587" style="display:none;">
+{
+  "cid": "963947269",
+  "oid":"600722033",
+  "type": "page",
+  "typeNum": "",
+  "rpLength": "0",
+  "userDigged":"",
+  "digged":"",
+  "stype":"2012",
+  "feedOwnerId":"600722033","loadURI": "http://page.renren.com/600722033/note/replyList",
+     "sendURI": "http://page.renren.com/600722033/note/reply",
+     "delURI": "http://page.renren.com/600722033/note/replyDelete"}
+</div>
+</div></div><div class="feed-toolbar feed-toolbar-new">
+<menu type="toolbar"></menu>
+</div></article><article class="a-feed a-n-feed" id="newsfeed-27908780963"><aside><figure class="newsfeed-user" create-time="1448266375604" data-fid="27908780963" data-id="600722033" data-mark="" data-name="西安交通大学" data-source="23384141639" data-sourcecontrol="" data-stype="2016" noavatar="" style="">
+<a href="http://page.renren.com/600722033?ref=” + vType + “&amp;feed=page_regossip&amp;tagid=23384141639&amp;ref=minifeed&amp;sfet=2016&amp;fin=9&amp;fid=27908780963&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27908780963_2016_600722033" target="_blank" title="西安交通大学"><img src="http://hdn.xnimg.cn/photos/hdn121/20150127/1050/h_tiny_6UuA_537400007857195a.jpg" title="西安交通大学" width="50"/></a></figure>
+</aside><h3><a href="http://page.renren.com/600722033?ref=” + vType + “&amp;feed=page_regossip&amp;tagid=23384141639&amp;ref=minifeed&amp;sfet=2016&amp;fin=9&amp;fid=27908780963&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27908780963_2016_600722033" target="_blank">西安交通大学</a> <img src="http://a.xnimg.cn/imgpro/page/icon/official-2.png" title="人人网官方认证"/> <span class="action">回复了粉丝</span></h3><div class="content"><div class="rich-content no-media"><div class="content-main"><p class="summary"><p class="citation"><a href="http://www.renren.com/profile.do?id=229256939">孙馨雨</a> :我想问问谁知道交大的打印店最早的几点开门？有七点多开门的吗～～急！！！</p><p>回复孙馨雨:开不那么早</p></p></div>
+</div></div><div class="details ui-new">
+<div class="legend">
+<div class="info">
+<span class="duration">2015-11-23 16:12</span></div>
+</div>
+</div><div class="feed-toolbar feed-toolbar-new">
+<menu type="toolbar"></menu>
+</div></article><article class="a-feed a-n-feed" id="newsfeed-27908625427"><aside><figure class="newsfeed-user" create-time="1448250076415" data-fid="27908625427" data-id="600722033" data-mark="" data-name="西安交通大学" data-source="963826603" data-sourcecontrol="" data-stype="2012" noavatar="" style="">
+<a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2012&amp;fin=10&amp;fid=27908625427&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=963826603&amp;ref=minifeed&amp;sfet=2012&amp;fin=10&amp;fid=27908625427&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27908625427_2012_600722033" target="_blank" title="西安交通大学"><img src="http://hdn.xnimg.cn/photos/hdn121/20150127/1050/h_tiny_6UuA_537400007857195a.jpg" title="西安交通大学" width="50"/></a></figure>
+</aside><h3><a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2012&amp;fin=10&amp;fid=27908625427&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=963826603&amp;ref=minifeed&amp;sfet=2012&amp;fin=10&amp;fid=27908625427&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27908625427_2012_600722033" target="_blank">西安交通大学</a> <img src="http://a.xnimg.cn/imgpro/page/icon/official-2.png" title="人人网官方认证"/> <span class="action">发表了日志</span></h3><div class="content"><div class="rich-content no-media"><div class="content-main"><p class="title"><a href="http://page.renren.com/600722033/note/963826603?ref=minifeed&amp;sfet=2012&amp;fin=10&amp;fid=27908625427&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=963826603&amp;statID=page_600722033_2&amp;level=1" stats="NF_27908625427_2012_600722033" target="_blank">【身边交大人】“千人”牛春明：新能源纳米材料中心的创立者</a></p><p class="summary">“一颗热忱之心，勤勤勉勉，踏踏实实。”说起牛春明，这是记者听到的最多的评价。               1990年，牛春明博士毕业于布朗大学化学系，随后于哥伦比亚大学、哈佛大学进行博士后研究，并曾在Nanosys、Nanoconduction、Unidym等公司担任高级科学家，主管研发工作。他长期扎根科研一线，致力于新材料合成、制备及其应用技术研究，获得发...</p></div>
+</div></div><div class="details ui-new">
+<div class="legend">
+<span class="duration">2015-11-23 11:41</span><a class="share_new" data-share="{stype:'create_share_feed',id:963826603,owner:600722033,type:'pageBlog'}" href="#nogo" stats="NF_27908625427_2012_600722033">分享</a><a class="ilike_icon" href="#nogo" id="ILike963826603" onclick="ILike_toggleUserLike('blog','963826603','0','600722033','')" stats="NF_27908625427_2012_600722033">赞</a><a class="reply-new" data-fid="27908625427" href="#nogo"><span class="reply-show-word">回复</span></a>
+</div><div class="feed-replies" id="feedbody27908625427" style="display:none;"></div>
+<div class="feed-comment" style="margin-top:13px">
+<span class="avatar">
+<img src="http://a.xnimg.cn/a.gif"/>
+</span>
+<div class="comment-box">
+<textarea autocomplete="off" data-fid="27908625427" data-privacy="">评论...</textarea>
+<div class="action">
+<div class="action-l"><a class="emotion" href="#nogo" onclick="return false;">表情<span class="tip"><span class="arrow"></span>表情</span></a><a class="mention" href="#nogo" onclick="return false;">@<span class="tip"><span class="arrow"></span>点名</span></a></div>
+<div class="action-r">
+<a class="submit submit-disabled" href="#nogo" onclick="return false;">回复</a><span class="count"><span class="inputed">0</span>/<span class="maxlength">140</span></span>
+</div>
+</div>
+</div>
+</div><div id="get-params-for-ilike-963826603" style="display:none;"><div id="reply-params-27908625427" style="display:none;">
+{
+  "cid": "963826603",
+  "oid":"600722033",
+  "type": "page",
+  "typeNum": "",
+  "rpLength": "0",
+  "userDigged":"",
+  "digged":"",
+  "stype":"2012",
+  "feedOwnerId":"600722033","loadURI": "http://page.renren.com/600722033/note/replyList",
+     "sendURI": "http://page.renren.com/600722033/note/reply",
+     "delURI": "http://page.renren.com/600722033/note/replyDelete"}
+</div>
+</div></div><div class="feed-toolbar feed-toolbar-new">
+<menu type="toolbar"></menu>
+</div></article><article class="a-feed a-n-feed" id="newsfeed-27904761617"><aside><figure class="newsfeed-user" create-time="1447919892615" data-fid="27904761617" data-id="600722033" data-mark="" data-name="西安交通大学" data-source="963713403" data-sourcecontrol="" data-stype="2012" noavatar="" style="">
+<a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2012&amp;fin=11&amp;fid=27904761617&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=963713403&amp;ref=minifeed&amp;sfet=2012&amp;fin=11&amp;fid=27904761617&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27904761617_2012_600722033" target="_blank" title="西安交通大学"><img src="http://hdn.xnimg.cn/photos/hdn121/20150127/1050/h_tiny_6UuA_537400007857195a.jpg" title="西安交通大学" width="50"/></a></figure>
+</aside><h3><a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2012&amp;fin=11&amp;fid=27904761617&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=963713403&amp;ref=minifeed&amp;sfet=2012&amp;fin=11&amp;fid=27904761617&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27904761617_2012_600722033" target="_blank">西安交通大学</a> <img src="http://a.xnimg.cn/imgpro/page/icon/official-2.png" title="人人网官方认证"/> <span class="action">发表了日志</span></h3><div class="content"><div class="rich-content no-media"><div class="content-main"><p class="title"><a href="http://page.renren.com/600722033/note/963713403?ref=minifeed&amp;sfet=2012&amp;fin=11&amp;fid=27904761617&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=963713403&amp;statID=page_600722033_2&amp;level=1" stats="NF_27904761617_2012_600722033" target="_blank">西安交通大学校庆志愿者招募倡议书</a></p><p class="summary">流水落英，生生不息；星移斗转，薪火相传。生逢四世，堂前新树参天木。再遇甲子，学院桃李满中华。内困外侮，筑阶沪上，养才育贤，修政排敌。百废待起，移尺长安，为国为民，天下一新。中华筑梦，敢冒风雨，师生同心，为虎添翼。一曲弦歌三世纪，凤鸣华诞双甲子。四海咸贺，八方公举。森森梧桐，老树熠新。树犹如此，况乎于人。盛时同喜，岂可遗世独立？临别之士，怎可抱憾此生？新晋科生...</p></div>
+</div></div><div class="details ui-new">
+<div class="legend">
+<span class="duration">2015-11-19 15:58</span><a class="share_new" data-share="{stype:'create_share_feed',id:963713403,owner:600722033,type:'pageBlog'}" href="#nogo" stats="NF_27904761617_2012_600722033">分享</a><a class="ilike_icon" href="#nogo" id="ILike963713403" onclick="ILike_toggleUserLike('blog','963713403','0','600722033','')" stats="NF_27904761617_2012_600722033">赞</a><a class="reply-new" data-fid="27904761617" href="#nogo"><span class="reply-show-word">回复</span></a>
+</div><div class="feed-replies" id="feedbody27904761617" style="display:none;"></div>
+<div class="feed-comment" style="margin-top:13px">
+<span class="avatar">
+<img src="http://a.xnimg.cn/a.gif"/>
+</span>
+<div class="comment-box">
+<textarea autocomplete="off" data-fid="27904761617" data-privacy="">评论...</textarea>
+<div class="action">
+<div class="action-l"><a class="emotion" href="#nogo" onclick="return false;">表情<span class="tip"><span class="arrow"></span>表情</span></a><a class="mention" href="#nogo" onclick="return false;">@<span class="tip"><span class="arrow"></span>点名</span></a></div>
+<div class="action-r">
+<a class="submit submit-disabled" href="#nogo" onclick="return false;">回复</a><span class="count"><span class="inputed">0</span>/<span class="maxlength">140</span></span>
+</div>
+</div>
+</div>
+</div><div id="get-params-for-ilike-963713403" style="display:none;"><div id="reply-params-27904761617" style="display:none;">
+{
+  "cid": "963713403",
+  "oid":"600722033",
+  "type": "page",
+  "typeNum": "",
+  "rpLength": "0",
+  "userDigged":"",
+  "digged":"",
+  "stype":"2012",
+  "feedOwnerId":"600722033","loadURI": "http://page.renren.com/600722033/note/replyList",
+     "sendURI": "http://page.renren.com/600722033/note/reply",
+     "delURI": "http://page.renren.com/600722033/note/replyDelete"}
+</div>
+</div></div><div class="feed-toolbar feed-toolbar-new">
+<menu type="toolbar"></menu>
+</div></article><article class="a-feed a-n-feed" id="newsfeed-27904721968"><aside><figure class="newsfeed-user" create-time="1447916060709" data-fid="27904721968" data-id="600722033" data-mark="" data-name="西安交通大学" data-source="963711726" data-sourcecontrol="" data-stype="2012" noavatar="" style="">
+<a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2012&amp;fin=12&amp;fid=27904721968&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=963711726&amp;ref=minifeed&amp;sfet=2012&amp;fin=12&amp;fid=27904721968&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27904721968_2012_600722033" target="_blank" title="西安交通大学"><img src="http://hdn.xnimg.cn/photos/hdn121/20150127/1050/h_tiny_6UuA_537400007857195a.jpg" title="西安交通大学" width="50"/></a></figure>
+</aside><h3><a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2012&amp;fin=12&amp;fid=27904721968&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=963711726&amp;ref=minifeed&amp;sfet=2012&amp;fin=12&amp;fid=27904721968&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27904721968_2012_600722033" target="_blank">西安交通大学</a> <img src="http://a.xnimg.cn/imgpro/page/icon/official-2.png" title="人人网官方认证"/> <span class="action">发表了日志</span></h3><div class="content"><div class="rich-content no-media"><div class="content-main"><p class="title"><a href="http://page.renren.com/600722033/note/963711726?ref=minifeed&amp;sfet=2012&amp;fin=12&amp;fid=27904721968&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=963711726&amp;statID=page_600722033_2&amp;level=1" stats="NF_27904721968_2012_600722033" target="_blank">【标兵风采】韩天翼：如果我们碌碌无为，国家怎么办？</a></p><p class="summary">转眼间已经走到了2015年的尾巴上，回忆学期初时给自己定下的那些目标，现在是实现了还是放弃了呢？如果你对当下的生活有些心累，有些迷茫，那么就请跟随我们一起走近2014-2015学年优秀学生标兵——韩天翼，看看他精彩的大学生涯中那些真实而又生动的故事。                                       机自26班的韩天翼身上有着很多耀...</p></div>
+</div></div><div class="details ui-new">
+<div class="legend">
+<span class="duration">2015-11-19 14:54</span><a class="share_new" data-share="{stype:'create_share_feed',id:963711726,owner:600722033,type:'pageBlog'}" href="#nogo" stats="NF_27904721968_2012_600722033">分享</a><a class="ilike_icon" href="#nogo" id="ILike963711726" onclick="ILike_toggleUserLike('blog','963711726','0','600722033','')" stats="NF_27904721968_2012_600722033">赞</a><a class="reply-new" data-fid="27904721968" href="#nogo"><span class="reply-show-word">回复</span></a>
+</div><div class="feed-replies" id="feedbody27904721968" style="display:none;"></div>
+<div class="feed-comment" style="margin-top:13px">
+<span class="avatar">
+<img src="http://a.xnimg.cn/a.gif"/>
+</span>
+<div class="comment-box">
+<textarea autocomplete="off" data-fid="27904721968" data-privacy="">评论...</textarea>
+<div class="action">
+<div class="action-l"><a class="emotion" href="#nogo" onclick="return false;">表情<span class="tip"><span class="arrow"></span>表情</span></a><a class="mention" href="#nogo" onclick="return false;">@<span class="tip"><span class="arrow"></span>点名</span></a></div>
+<div class="action-r">
+<a class="submit submit-disabled" href="#nogo" onclick="return false;">回复</a><span class="count"><span class="inputed">0</span>/<span class="maxlength">140</span></span>
+</div>
+</div>
+</div>
+</div><div id="get-params-for-ilike-963711726" style="display:none;"><div id="reply-params-27904721968" style="display:none;">
+{
+  "cid": "963711726",
+  "oid":"600722033",
+  "type": "page",
+  "typeNum": "",
+  "rpLength": "0",
+  "userDigged":"",
+  "digged":"",
+  "stype":"2012",
+  "feedOwnerId":"600722033","loadURI": "http://page.renren.com/600722033/note/replyList",
+     "sendURI": "http://page.renren.com/600722033/note/reply",
+     "delURI": "http://page.renren.com/600722033/note/replyDelete"}
+</div>
+</div></div><div class="feed-toolbar feed-toolbar-new">
+<menu type="toolbar"></menu>
+</div></article><article class="a-feed a-n-feed" id="newsfeed-27901519036"><aside><figure class="newsfeed-user" create-time="1447663024692" data-fid="27901519036" data-id="600722033" data-mark="" data-name="西安交通大学" data-source="963616536" data-sourcecontrol="" data-stype="2012" noavatar="" style="">
+<a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2012&amp;fin=13&amp;fid=27901519036&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=963616536&amp;ref=minifeed&amp;sfet=2012&amp;fin=13&amp;fid=27901519036&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27901519036_2012_600722033" target="_blank" title="西安交通大学"><img src="http://hdn.xnimg.cn/photos/hdn121/20150127/1050/h_tiny_6UuA_537400007857195a.jpg" title="西安交通大学" width="50"/></a></figure>
+</aside><h3><a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2012&amp;fin=13&amp;fid=27901519036&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=963616536&amp;ref=minifeed&amp;sfet=2012&amp;fin=13&amp;fid=27901519036&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27901519036_2012_600722033" target="_blank">西安交通大学</a> <img src="http://a.xnimg.cn/imgpro/page/icon/official-2.png" title="人人网官方认证"/> <span class="action">发表了日志</span></h3><div class="content"><div class="rich-content no-media"><div class="content-main"><p class="title"><a href="http://page.renren.com/600722033/note/963616536?ref=minifeed&amp;sfet=2012&amp;fin=13&amp;fid=27901519036&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=963616536&amp;statID=page_600722033_2&amp;level=1" stats="NF_27901519036_2012_600722033" target="_blank">韩启德返校侧记：殷殷母校情 拳拳赤子心</a></p><p class="summary">“我在西安医学院读研，度过了三年的美好时光，如果算上参加当年的冠心病高血压学习班，我在西医的时间还更长一些。当时的感觉就像是一株植物在快要枯萎的时候被移植到了肥沃的土壤，能够汲取丰富的养分，而这些养分正是我们的老师给予的。”回忆起在西安医学院（西安交通大学医学部前身）的求学生涯，全国政协副主席、中国科协主席、中国科学院院士韩启德校友曾这样说。        ...</p></div>
+</div></div><div class="details ui-new">
+<div class="legend">
+<span class="duration">2015-11-16 16:37</span><a class="share_new" data-share="{stype:'create_share_feed',id:963616536,owner:600722033,type:'pageBlog'}" href="#nogo" stats="NF_27901519036_2012_600722033">分享</a><a class="ilike_icon" href="#nogo" id="ILike963616536" onclick="ILike_toggleUserLike('blog','963616536','0','600722033','')" stats="NF_27901519036_2012_600722033">赞</a><a class="reply-new" data-fid="27901519036" href="#nogo"><span class="reply-show-word">回复</span></a>
+</div><div class="feed-replies" id="feedbody27901519036" style="display:none;"></div>
+<div class="feed-comment" style="margin-top:13px">
+<span class="avatar">
+<img src="http://a.xnimg.cn/a.gif"/>
+</span>
+<div class="comment-box">
+<textarea autocomplete="off" data-fid="27901519036" data-privacy="">评论...</textarea>
+<div class="action">
+<div class="action-l"><a class="emotion" href="#nogo" onclick="return false;">表情<span class="tip"><span class="arrow"></span>表情</span></a><a class="mention" href="#nogo" onclick="return false;">@<span class="tip"><span class="arrow"></span>点名</span></a></div>
+<div class="action-r">
+<a class="submit submit-disabled" href="#nogo" onclick="return false;">回复</a><span class="count"><span class="inputed">0</span>/<span class="maxlength">140</span></span>
+</div>
+</div>
+</div>
+</div><div id="get-params-for-ilike-963616536" style="display:none;"><div id="reply-params-27901519036" style="display:none;">
+{
+  "cid": "963616536",
+  "oid":"600722033",
+  "type": "page",
+  "typeNum": "",
+  "rpLength": "0",
+  "userDigged":"",
+  "digged":"",
+  "stype":"2012",
+  "feedOwnerId":"600722033","loadURI": "http://page.renren.com/600722033/note/replyList",
+     "sendURI": "http://page.renren.com/600722033/note/reply",
+     "delURI": "http://page.renren.com/600722033/note/replyDelete"}
+</div>
+</div></div><div class="feed-toolbar feed-toolbar-new">
+<menu type="toolbar"></menu>
+</div></article><article class="a-feed a-n-feed" id="newsfeed-27897136033"><aside><figure class="newsfeed-user" create-time="1447288425303" data-fid="27897136033" data-id="600722033" data-mark="" data-name="西安交通大学" data-source="963470406" data-sourcecontrol="" data-stype="2012" noavatar="" style="">
+<a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2012&amp;fin=14&amp;fid=27897136033&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=963470406&amp;ref=minifeed&amp;sfet=2012&amp;fin=14&amp;fid=27897136033&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27897136033_2012_600722033" target="_blank" title="西安交通大学"><img src="http://hdn.xnimg.cn/photos/hdn121/20150127/1050/h_tiny_6UuA_537400007857195a.jpg" title="西安交通大学" width="50"/></a></figure>
+</aside><h3><a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2012&amp;fin=14&amp;fid=27897136033&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=963470406&amp;ref=minifeed&amp;sfet=2012&amp;fin=14&amp;fid=27897136033&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27897136033_2012_600722033" target="_blank">西安交通大学</a> <img src="http://a.xnimg.cn/imgpro/page/icon/official-2.png" title="人人网官方认证"/> <span class="action">发表了日志</span></h3><div class="content"><div class="rich-content no-media"><div class="content-main"><p class="title"><a href="http://page.renren.com/600722033/note/963470406?ref=minifeed&amp;sfet=2012&amp;fin=14&amp;fid=27897136033&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=963470406&amp;statID=page_600722033_2&amp;level=1" stats="NF_27897136033_2012_600722033" target="_blank">西安交大2016年“少年班”招生简章发布</a></p><p class="summary">西安交大已正式发布2016年“少年班”招生简章，报名单位即日起即可登录西安交通大学本科招生网（http://zs.xjtu.edu.cn）开始报名。               今年少年班招生在时间上相比去年有部分调整。报名时间为2015年11月10日-11月30日，初试时间为2016年1月1日左右，复试时间为2016年2月下旬。招生办提醒意向考生和家长密切...</p></div>
+</div></div><div class="details ui-new">
+<div class="legend">
+<span class="duration">2015-11-12 08:33</span><a class="share_new" data-share="{stype:'create_share_feed',id:963470406,owner:600722033,type:'pageBlog'}" href="#nogo" stats="NF_27897136033_2012_600722033">分享</a><a class="ilike_icon" href="#nogo" id="ILike963470406" onclick="ILike_toggleUserLike('blog','963470406','0','600722033','')" stats="NF_27897136033_2012_600722033">赞</a><a class="reply-new" data-fid="27897136033" href="#nogo"><span class="reply-show-word">回复</span></a>
+</div><div class="feed-replies" id="feedbody27897136033" style="display:none;"></div>
+<div class="feed-comment" style="margin-top:13px">
+<span class="avatar">
+<img src="http://a.xnimg.cn/a.gif"/>
+</span>
+<div class="comment-box">
+<textarea autocomplete="off" data-fid="27897136033" data-privacy="">评论...</textarea>
+<div class="action">
+<div class="action-l"><a class="emotion" href="#nogo" onclick="return false;">表情<span class="tip"><span class="arrow"></span>表情</span></a><a class="mention" href="#nogo" onclick="return false;">@<span class="tip"><span class="arrow"></span>点名</span></a></div>
+<div class="action-r">
+<a class="submit submit-disabled" href="#nogo" onclick="return false;">回复</a><span class="count"><span class="inputed">0</span>/<span class="maxlength">140</span></span>
+</div>
+</div>
+</div>
+</div><div id="get-params-for-ilike-963470406" style="display:none;"><div id="reply-params-27897136033" style="display:none;">
+{
+  "cid": "963470406",
+  "oid":"600722033",
+  "type": "page",
+  "typeNum": "",
+  "rpLength": "0",
+  "userDigged":"",
+  "digged":"",
+  "stype":"2012",
+  "feedOwnerId":"600722033","loadURI": "http://page.renren.com/600722033/note/replyList",
+     "sendURI": "http://page.renren.com/600722033/note/reply",
+     "delURI": "http://page.renren.com/600722033/note/replyDelete"}
+</div>
+</div></div><div class="feed-toolbar feed-toolbar-new">
+<menu type="toolbar"></menu>
+</div></article><article class="a-feed a-n-feed" id="newsfeed-27895102527"><aside><figure class="newsfeed-user" create-time="1447124342343" data-fid="27895102527" data-id="600722033" data-mark="" data-name="西安交通大学" data-source="963400597" data-sourcecontrol="" data-stype="2012" noavatar="" style="">
+<a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2012&amp;fin=15&amp;fid=27895102527&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=963400597&amp;ref=minifeed&amp;sfet=2012&amp;fin=15&amp;fid=27895102527&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27895102527_2012_600722033" target="_blank" title="西安交通大学"><img src="http://hdn.xnimg.cn/photos/hdn121/20150127/1050/h_tiny_6UuA_537400007857195a.jpg" title="西安交通大学" width="50"/></a></figure>
+</aside><h3><a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2012&amp;fin=15&amp;fid=27895102527&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=963400597&amp;ref=minifeed&amp;sfet=2012&amp;fin=15&amp;fid=27895102527&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27895102527_2012_600722033" target="_blank">西安交通大学</a> <img src="http://a.xnimg.cn/imgpro/page/icon/official-2.png" title="人人网官方认证"/> <span class="action">发表了日志</span></h3><div class="content"><div class="rich-content no-media"><div class="content-main"><p class="title"><a href="http://page.renren.com/600722033/note/963400597?ref=minifeed&amp;sfet=2012&amp;fin=15&amp;fid=27895102527&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=963400597&amp;statID=page_600722033_2&amp;level=1" stats="NF_27895102527_2012_600722033" target="_blank">2015年“灞河竞渡”秋季赛艇挑战赛精彩开战</a></p><p class="summary">11月7日上午，2015年“灞河竞渡”秋季赛艇挑战赛在西安市灞河世博公园段精彩开战，来自西安交大八个书院、电信学院和教工的27支参赛队伍在灞河激烈角逐，尽显赛艇运动的独特魅力。陕西省体育局副局长张继学、浐灞生态管委会副主任樊伟、陕西省体育局竞体处处长邹军、浐灞生态管委会生态局局长姜毅以及西安交大党委副书记宫辉等嘉宾出席挑战赛现场并为获奖队伍颁奖。      ...</p></div>
+</div></div><div class="details ui-new">
+<div class="legend">
+<span class="duration">2015-11-10 10:59</span><a class="share_new" data-share="{stype:'create_share_feed',id:963400597,owner:600722033,type:'pageBlog'}" href="#nogo" stats="NF_27895102527_2012_600722033">分享</a><a class="ilike_icon" href="#nogo" id="ILike963400597" onclick="ILike_toggleUserLike('blog','963400597','0','600722033','')" stats="NF_27895102527_2012_600722033">赞</a><a class="reply-new" data-fid="27895102527" href="#nogo"><span class="reply-show-word">回复</span></a>
+</div><div class="feed-replies" id="feedbody27895102527" style="display:none;"></div>
+<div class="feed-comment" style="margin-top:13px">
+<span class="avatar">
+<img src="http://a.xnimg.cn/a.gif"/>
+</span>
+<div class="comment-box">
+<textarea autocomplete="off" data-fid="27895102527" data-privacy="">评论...</textarea>
+<div class="action">
+<div class="action-l"><a class="emotion" href="#nogo" onclick="return false;">表情<span class="tip"><span class="arrow"></span>表情</span></a><a class="mention" href="#nogo" onclick="return false;">@<span class="tip"><span class="arrow"></span>点名</span></a></div>
+<div class="action-r">
+<a class="submit submit-disabled" href="#nogo" onclick="return false;">回复</a><span class="count"><span class="inputed">0</span>/<span class="maxlength">140</span></span>
+</div>
+</div>
+</div>
+</div><div id="get-params-for-ilike-963400597" style="display:none;"><div id="reply-params-27895102527" style="display:none;">
+{
+  "cid": "963400597",
+  "oid":"600722033",
+  "type": "page",
+  "typeNum": "",
+  "rpLength": "0",
+  "userDigged":"",
+  "digged":"",
+  "stype":"2012",
+  "feedOwnerId":"600722033","loadURI": "http://page.renren.com/600722033/note/replyList",
+     "sendURI": "http://page.renren.com/600722033/note/reply",
+     "delURI": "http://page.renren.com/600722033/note/replyDelete"}
+</div>
+</div></div><div class="feed-toolbar feed-toolbar-new">
+<menu type="toolbar"></menu>
+</div></article><article class="a-feed a-n-feed" id="newsfeed-27893993230"><aside><figure class="newsfeed-user" create-time="1447032768388" data-fid="27893993230" data-id="600722033" data-mark="" data-name="西安交通大学" data-source="17978677200" data-sourcecontrol="" data-stype="2006" noavatar="" original_actor="600722033" original_source="0" style="">
+<a href="http://www.renren.com/profile.do?id=600722033&amp;ref=minifeed&amp;sfet=2006&amp;fin=16&amp;fid=27893993230&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27893993230_2006_600722033" target="_blank" title="西安交通大学"><img src="http://hdn.xnimg.cn/photos/hdn121/20150127/1050/h_tiny_6UuA_537400007857195a.jpg" title="西安交通大学" width="50"/></a></figure>
+</aside><h3><a href="http://www.renren.com/profile.do?id=600722033&amp;ref=minifeed&amp;sfet=2006&amp;fin=16&amp;fid=27893993230&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27893993230_2006_600722033" target="_blank">西安交通大学</a> <img src="http://a.xnimg.cn/imgpro/page/icon/official-2.png" title="人人网官方认证"/>: 交大我爱你</h3><div class="content">
+<div class="source">
+<div class="rich-content">
+<div class="content-media-big">
+<a class="thumb" href="http://share.renren.com/share/600722033/17978677200?from=0101010302&amp;ref=minifeed&amp;sfet=2006&amp;fin=16&amp;fid=27893993230&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" stats="NF_27893993230_2006_600722033" style="background-image: url(http://r3.ykimg.com/05410101563EB9376A0A4304E4EDDBED);" target="_blank">
+<span class="play-btn"></span>
+</a>
+</div>
+<div class="content-main-big">
+<p class="title">
+<a href="http://share.renren.com/share/600722033/17978677200?from=0101010302&amp;ref=minifeed&amp;sfet=2006&amp;fin=16&amp;fid=27893993230&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" stats="NF_27893993230_2006_600722033" target="_blank">【航拍+延时】交大我爱你</a>
+</p>
+<p class="from">来自:<a href="http://www.renren.com/600722033/profile?ref=minifeed&amp;sfet=2006&amp;fin=16&amp;fid=27893993230&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27893993230_2006_600722033" target="_blank">西安交通大学</a></p>
+</div>
+</div>
+</div>
+</div><div class="details ui-new">
+<div class="legend" data-videourl="http://player.youku.com/player.php/sid/XMTM3MjU4NDMzMg==/partnerid/a13ce8f2737fc44b/v.swf">
+<span class="duration">2015-11-09 09:32</span><a class="share_new" data-share="{stype:'create_share_div',id:17978677200,owner:600722033,host:0,ref:'feed',from:'0101010403' }" href="#nogo" stats="NF_27893993230_2006_600722033">分享</a><a class="ilike_icon" href="#nogo" id="ILike17978677200" onclick="ILike_toggleUserLike('share','17978677200','0', '600722033','')" stats="NF_27893993230_2006_600722033">赞</a><a class="reply-new" data-fid="27893993230" href="#nogo"><span class="reply-show-word">回复</span>(<span class="reply-count">1</span>)</a>
+</div><div class="ilike-body" id="feedbody17978677200">
+<div class="min-cmtbox statustab">
+<div class="mincmt-body"><div class="mincmt-diggers statuscmtitem">
+<p><a href="#nogo" onclick="ILike_toggleShow('share','17978677200', '0');return false;">1个人觉得赞！</a></p>
+<ul class="digger" id="diggers17978677200"></ul>
+</div></div>
+</div>
+</div><div class="feed-replies" id="feedbody27893993230" style="display:none;"><div class="a-reply">
+<a class="avatar" href="http://www.renren.com/profile.do?id=600722033&amp;ref=minifeed&amp;sfet=2006&amp;fin=16&amp;fid=27893993230&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" target="_blank"><img src="http://hdn.xnimg.cn/photos/hdn121/20150127/1050/h_tiny_6UuA_537400007857195a.jpg"/></a>
+<div class="reply-content"><p class="text"><a class="name" href="http://www.renren.com/profile.do?id=600722033&amp;ref=minifeed&amp;sfet=2006&amp;fin=16&amp;fid=27893993230&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" target="_blank">西安交通大学</a>: 交大我爱你</p>
+<div class="bottom-bar">
+<span class="time">2015-11-09 09:32</span>
+<div class="action"><a class="reply" data-fid="27893993230" data-rid="173983679023212544" data-uid="600722033" data-uname="西安交通大学" href="#nogo" onclick="return false;">回复</a> </div>
+</div>
+</div>
+</div></div>
+<div class="feed-comment" style="margin-top:13px">
+<span class="avatar">
+<img src="http://a.xnimg.cn/a.gif"/>
+</span>
+<div class="comment-box">
+<textarea autocomplete="off" data-fid="27893993230" data-privacy="">评论...</textarea>
+<div class="action">
+<div class="action-l"><a class="emotion" href="#nogo" onclick="return false;">表情<span class="tip"><span class="arrow"></span>表情</span></a><a class="mention" href="#nogo" onclick="return false;">@<span class="tip"><span class="arrow"></span>点名</span></a><span class="share">
+<input id="shareThis_27893993230" type="checkbox"/><label for="shareThis_27893993230">同时分享</label>
+</span></div>
+<div class="action-r">
+<a class="submit submit-disabled" href="#nogo" onclick="return false;">回复</a><span class="count"><span class="inputed">0</span>/<span class="maxlength">140</span></span>
+</div>
+</div>
+</div>
+</div><div id="get-params-for-ilike-17978677200" style="display:none;"><div id="reply-params-27893993230" style="display:none;">
+{
+  "cid": "17978677200",
+  "oid":"600722033",
+  "type": "page",
+  "typeNum": "4",
+  "rpLength": "1",
+  "userDigged":"",
+  "digged":"1",
+  "stype":"2006",
+  "feedOwnerId":"600722033","loadURI": "http://page.renren.com/600722033/share/replyList",
+     "sendURI": "http://page.renren.com/600722033/share/reply",
+     "delURI": "http://page.renren.com/600722033/share/replyDelete"}
+</div>
+</div></div><div class="feed-toolbar feed-toolbar-new">
+<menu type="toolbar"></menu>
+</div></article><article class="a-feed a-n-feed" id="newsfeed-27890082333"><aside><figure class="newsfeed-user" create-time="1446707176883" data-fid="27890082333" data-id="600722033" data-mark="" data-name="西安交通大学" data-source="963236763" data-sourcecontrol="" data-stype="2012" noavatar="" style="">
+<a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2012&amp;fin=17&amp;fid=27890082333&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=963236763&amp;ref=minifeed&amp;sfet=2012&amp;fin=17&amp;fid=27890082333&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27890082333_2012_600722033" target="_blank" title="西安交通大学"><img src="http://hdn.xnimg.cn/photos/hdn121/20150127/1050/h_tiny_6UuA_537400007857195a.jpg" title="西安交通大学" width="50"/></a></figure>
+</aside><h3><a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2012&amp;fin=17&amp;fid=27890082333&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=963236763&amp;ref=minifeed&amp;sfet=2012&amp;fin=17&amp;fid=27890082333&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27890082333_2012_600722033" target="_blank">西安交通大学</a> <img src="http://a.xnimg.cn/imgpro/page/icon/official-2.png" title="人人网官方认证"/> <span class="action">发表了日志</span></h3><div class="content"><div class="rich-content no-media"><div class="content-main"><p class="title"><a href="http://page.renren.com/600722033/note/963236763?ref=minifeed&amp;sfet=2012&amp;fin=17&amp;fid=27890082333&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=963236763&amp;statID=page_600722033_2&amp;level=1" stats="NF_27890082333_2012_600722033" target="_blank">我为母校献礼</a></p><p class="summary">风云两甲子，弦歌三世纪。西安交通大学“献礼三甲子校庆—交大印记”特色物品征集令火热进行中。现面向广大师生、校友公开征集体现学校特色，具有时代特征和艺术创造力的特色物品。菁菁校园，难忘岁月，挑选你心仪的特色物品，晒出你与母校难忘的印记。你还在等什么呢？Show出你的物品，我们约吧！”                                       ...</p></div>
+</div></div><div class="details ui-new">
+<div class="legend">
+<span class="duration">2015-11-05 15:06</span><a class="share_new" data-share="{stype:'create_share_feed',id:963236763,owner:600722033,type:'pageBlog'}" href="#nogo" stats="NF_27890082333_2012_600722033">分享</a><a class="ilike_icon" href="#nogo" id="ILike963236763" onclick="ILike_toggleUserLike('blog','963236763','0','600722033','')" stats="NF_27890082333_2012_600722033">赞</a><a class="reply-new" data-fid="27890082333" href="#nogo"><span class="reply-show-word">回复</span></a>
+</div><div class="feed-replies" id="feedbody27890082333" style="display:none;"></div>
+<div class="feed-comment" style="margin-top:13px">
+<span class="avatar">
+<img src="http://a.xnimg.cn/a.gif"/>
+</span>
+<div class="comment-box">
+<textarea autocomplete="off" data-fid="27890082333" data-privacy="">评论...</textarea>
+<div class="action">
+<div class="action-l"><a class="emotion" href="#nogo" onclick="return false;">表情<span class="tip"><span class="arrow"></span>表情</span></a><a class="mention" href="#nogo" onclick="return false;">@<span class="tip"><span class="arrow"></span>点名</span></a></div>
+<div class="action-r">
+<a class="submit submit-disabled" href="#nogo" onclick="return false;">回复</a><span class="count"><span class="inputed">0</span>/<span class="maxlength">140</span></span>
+</div>
+</div>
+</div>
+</div><div id="get-params-for-ilike-963236763" style="display:none;"><div id="reply-params-27890082333" style="display:none;">
+{
+  "cid": "963236763",
+  "oid":"600722033",
+  "type": "page",
+  "typeNum": "",
+  "rpLength": "0",
+  "userDigged":"",
+  "digged":"",
+  "stype":"2012",
+  "feedOwnerId":"600722033","loadURI": "http://page.renren.com/600722033/note/replyList",
+     "sendURI": "http://page.renren.com/600722033/note/reply",
+     "delURI": "http://page.renren.com/600722033/note/replyDelete"}
+</div>
+</div></div><div class="feed-toolbar feed-toolbar-new">
+<menu type="toolbar"></menu>
+</div></article><article class="a-feed a-n-feed" id="newsfeed-27890077779"><aside><figure class="newsfeed-user" create-time="1446706825748" data-fid="27890077779" data-id="600722033" data-mark="" data-name="西安交通大学" data-source="963236589" data-sourcecontrol="" data-stype="2012" noavatar="" style="">
+<a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2012&amp;fin=18&amp;fid=27890077779&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=963236589&amp;ref=minifeed&amp;sfet=2012&amp;fin=18&amp;fid=27890077779&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27890077779_2012_600722033" target="_blank" title="西安交通大学"><img src="http://hdn.xnimg.cn/photos/hdn121/20150127/1050/h_tiny_6UuA_537400007857195a.jpg" title="西安交通大学" width="50"/></a></figure>
+</aside><h3><a href="http://page.renren.com/600722033?ref=minifeed&amp;sfet=2012&amp;fin=18&amp;fid=27890077779&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=963236589&amp;ref=minifeed&amp;sfet=2012&amp;fin=18&amp;fid=27890077779&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298" namecard="600722033" stats="NF_27890077779_2012_600722033" target="_blank">西安交通大学</a> <img src="http://a.xnimg.cn/imgpro/page/icon/official-2.png" title="人人网官方认证"/> <span class="action">发表了日志</span></h3><div class="content"><div class="rich-content no-media"><div class="content-main"><p class="title"><a href="http://page.renren.com/600722033/note/963236589?ref=minifeed&amp;sfet=2012&amp;fin=18&amp;fid=27890077779&amp;ff_id=600722033&amp;platform=0&amp;expose_time=1578882298&amp;feed=page_blog&amp;tagid=963236589&amp;statID=page_600722033_2&amp;level=1" stats="NF_27890077779_2012_600722033" target="_blank">西安交大俞茂宏教授获何梁何利科学与技术进步奖</a></p><p class="summary">11月4日，2015年度“何梁何利基金”颁奖大会在北京举行。47位科技工作者分获何梁何利“科学与技术成就奖”、“科学与技术进步奖”和“科学与技术创新奖”。西安交大机械结构强度与振动国家重点实验室俞茂宏教授获得“何梁何利基金科学与技术进步奖”。               俞茂宏教授原创性系统性地提出了双剪统一强度理论，突破了现有的单一强度理论模式，建立了一个...</p></div>
+</div></div><div class="details ui-new">
+<div class="legend">
+<span class="duration">2015-11-05 15:00</span><a class="share_new" data-share="{stype:'create_share_feed',id:963236589,owner:600722033,type:'pageBlog'}" href="#nogo" stats="NF_27890077779_2012_600722033">分享</a><a class="ilike_icon" href="#nogo" id="ILike963236589" onclick="ILike_toggleUserLike('blog','963236589','0','600722033','')" stats="NF_27890077779_2012_600722033">赞</a><a class="reply-new" data-fid="27890077779" href="#nogo"><span class="reply-show-word">回复</span></a>
+</div><div class="feed-replies" id="feedbody27890077779" style="display:none;"></div>
+<div class="feed-comment" style="margin-top:13px">
+<span class="avatar">
+<img src="http://a.xnimg.cn/a.gif"/>
+</span>
+<div class="comment-box">
+<textarea autocomplete="off" data-fid="27890077779" data-privacy="">评论...</textarea>
+<div class="action">
+<div class="action-l"><a class="emotion" href="#nogo" onclick="return false;">表情<span class="tip"><span class="arrow"></span>表情</span></a><a class="mention" href="#nogo" onclick="return false;">@<span class="tip"><span class="arrow"></span>点名</span></a></div>
+<div class="action-r">
+<a class="submit submit-disabled" href="#nogo" onclick="return false;">回复</a><span class="count"><span class="inputed">0</span>/<span class="maxlength">140</span></span>
+</div>
+</div>
+</div>
+</div><div id="get-params-for-ilike-963236589" style="display:none;"><div id="reply-params-27890077779" style="display:none;">
+{
+  "cid": "963236589",
+  "oid":"600722033",
+  "type": "page",
+  "typeNum": "",
+  "rpLength": "0",
+  "userDigged":"",
+  "digged":"",
+  "stype":"2012",
+  "feedOwnerId":"600722033","loadURI": "http://page.renren.com/600722033/note/replyList",
+     "sendURI": "http://page.renren.com/600722033/note/reply",
+     "delURI": "http://page.renren.com/600722033/note/replyDelete"}
+</div>
+</div></div><div class="feed-toolbar feed-toolbar-new">
+<menu type="toolbar"></menu>
+</div></article></div>
+<div class="feed-footer">
+<div class="feed-loading" style="display:none"><p>新鲜事读取中...</p></div>
+<div class="nomore-feed" style="display:none"><p>没有更多新鲜事了</p></div>
+<div class="more-feed"><a href="#" id="more-feed">更多新鲜事</a></div>
+<p class="mark-all-read" style="display:none"><a href="#">全部标记为已读</a></p>
+</div>
+</div>
+</div></div>
+</div></div><div class="col-right">
+<div class="mod fans">
+<div class="mod-header">
+<a class="more" href="/fanslist?pid=600722033" title="查看全部西安交通大学的关注者">查看全部<img alt="西安交通大学的关注者" src="http://a.xnimg.cn/imgpro/bg/page-more.png" title="西安交通大学的关注者"/></a>
+<h4>关注者</h4>
+<a href="/fanslist?pid=600722033" rel="nofollow">(31297)</a>
+</div>
+<div class="mod-body">
+<ul class="people-list">
+<li>
+<span class="headpichold">
+<a class="name" href="http://www.renren.com/profile.do?id=405674326&amp;ref=page" rel="nofollow"><img src="http://hdn.xnimg.cn/photos/hdn221/20121207/1645/tiny_3mis_6dc3000580c51376.jpg"/></a>
+</span>
+<span class="name clearfix">
+<a class="name" href="http://www.renren.com/profile.do?id=405674326&amp;ref=page" rel="nofollow">周强</a>
+</span>
+</li>
+<li>
+<span class="headpichold">
+<a class="name" href="http://www.renren.com/profile.do?id=223210306&amp;ref=page" rel="nofollow"><img src="http://hdn.xnimg.cn/photos/hdn321/20120922/1020/tiny_Ryro_6ca20000eee01376.jpg"/></a>
+</span>
+<span class="name clearfix">
+<a class="name" href="http://www.renren.com/profile.do?id=223210306&amp;ref=page" rel="nofollow">张鹏</a>
+</span>
+</li>
+<li>
+<span class="headpichold">
+<a class="name" href="http://www.renren.com/profile.do?id=253010119&amp;ref=page" rel="nofollow"><img src="http://hdn.xnimg.cn/photos/hdn521/20140313/1500/h_tiny_l6kz_8ec70000779c111a.jpg"/></a>
+</span>
+<span class="name clearfix">
+<a class="name" href="http://www.renren.com/profile.do?id=253010119&amp;ref=page" rel="nofollow">刘小猛</a>
+</span>
+</li>
+<li>
+<span class="headpichold">
+<a class="name" href="http://www.renren.com/profile.do?id=973431754&amp;ref=page" rel="nofollow"><img src="http://hdn.xnimg.cn/photos/hdn121/20200112/0730/h_tiny_ioFt_c9b1000b83b71986.jpg"/></a>
+</span>
+<span class="name clearfix">
+<a class="name" href="http://www.renren.com/profile.do?id=973431754&amp;ref=page" rel="nofollow">凝眸远望</a>
+</span>
+</li>
+<li>
+<span class="headpichold">
+<a class="name" href="http://www.renren.com/profile.do?id=551889219&amp;ref=page" rel="nofollow"><img src="http://hdn.xnimg.cn/photos/hdn421/20200112/0130/h_tiny_26yh_c9b1000b83a51986.jpg"/></a>
+</span>
+<span class="name clearfix">
+<a class="name" href="http://www.renren.com/profile.do?id=551889219&amp;ref=page" rel="nofollow">孤皇</a>
+</span>
+</li>
+<li>
+<span class="headpichold">
+<a class="name" href="http://www.renren.com/profile.do?id=973430362&amp;ref=page" rel="nofollow"><img src="http://hdn.xnimg.cn/photos/hdn421/20200112/0015/h_tiny_fM27_1185000118b31986.jpg"/></a>
+</span>
+<span class="name clearfix">
+<a class="name" href="http://www.renren.com/profile.do?id=973430362&amp;ref=page" rel="nofollow">卡方</a>
+</span>
+</li>
+<li>
+<span class="headpichold">
+<a class="name" href="http://www.renren.com/profile.do?id=222734569&amp;ref=page" rel="nofollow"><img src="http://hdn.xnimg.cn/photos/hdn521/20130703/0100/h_tiny_CPIC_57db000007e2113e.jpg"/></a>
+</span>
+<span class="name clearfix">
+<a class="name" href="http://www.renren.com/profile.do?id=222734569&amp;ref=page" rel="nofollow">苏瑞琼</a>
+</span>
+</li>
+<li>
+<span class="headpichold">
+<a class="name" href="http://www.renren.com/profile.do?id=973427878&amp;ref=page" rel="nofollow"><img src="http://hdn.xnimg.cn/photos/hdn221/20200111/1920/h_tiny_Mr4K_0c1600030ba6195a.jpg"/></a>
+</span>
+<span class="name clearfix">
+<a class="name" href="http://www.renren.com/profile.do?id=973427878&amp;ref=page" rel="nofollow">Jack win</a>
+</span>
+</li>
+<li>
+<span class="headpichold">
+<a class="name" href="http://www.renren.com/profile.do?id=973427763&amp;ref=page" rel="nofollow"><img src="http://hdn.xnimg.cn/photos/hdn321/20200111/1905/h_tiny_Hr44_13bc0010d5b71986.jpg"/></a>
+</span>
+<span class="name clearfix">
+<a class="name" href="http://www.renren.com/profile.do?id=973427763&amp;ref=page" rel="nofollow">十月石文鹏</a>
+</span>
+</li>
+<li>
+<span class="headpichold">
+<a class="name" href="http://www.renren.com/profile.do?id=973426880&amp;ref=page" rel="nofollow"><img src="http://hdn.xnimg.cn/photos/hdn421/20200111/1655/h_tiny_1NNt_9a13000f20ea1986.jpg"/></a>
+</span>
+<span class="name clearfix">
+<a class="name" href="http://www.renren.com/profile.do?id=973426880&amp;ref=page" rel="nofollow">美好时光</a>
+</span>
+</li>
+<li>
+<span class="headpichold">
+<a class="name" href="http://www.renren.com/profile.do?id=973426550&amp;ref=page" rel="nofollow"><img src="http://hdn.xnimg.cn/photos/hdn321/20200111/1625/h_tiny_X42A_1185000118631986.jpg"/></a>
+</span>
+<span class="name clearfix">
+<a class="name" href="http://www.renren.com/profile.do?id=973426550&amp;ref=page" rel="nofollow">和合</a>
+</span>
+</li>
+<li>
+<span class="headpichold">
+<a class="name" href="http://www.renren.com/profile.do?id=259814643&amp;ref=page" rel="nofollow"><img src="http://hdn.xnimg.cn/photos/hdn521/20160727/2335/h_tiny_nMT8_52e6000037041986.jpg"/></a>
+</span>
+<span class="name clearfix">
+<a class="name" href="http://www.renren.com/profile.do?id=259814643&amp;ref=page" rel="nofollow">高宇妮</a>
+</span>
+</li>
+<li>
+<span class="headpichold">
+<a class="name" href="http://www.renren.com/profile.do?id=239064982&amp;ref=page" rel="nofollow"><img src="http://hdn.xnimg.cn/photos/hdn321/20200111/1535/h_tiny_r0Oe_0c1b00030bee195a.jpg"/></a>
+</span>
+<span class="name clearfix">
+<a class="name" href="http://www.renren.com/profile.do?id=239064982&amp;ref=page" rel="nofollow">张温浠</a>
+</span>
+</li>
+<li>
+<span class="headpichold">
+<a class="name" href="http://www.renren.com/profile.do?id=251538180&amp;ref=page" rel="nofollow"><img src="http://hdn.xnimg.cn/photos/hdn121/20200111/1035/h_tiny_07RZ_0c1b00030bc6195a.jpg"/></a>
+</span>
+<span class="name clearfix">
+<a class="name" href="http://www.renren.com/profile.do?id=251538180&amp;ref=page" rel="nofollow">邓又榕</a>
+</span>
+</li>
+<li>
+<span class="headpichold">
+<a class="name" href="http://www.renren.com/profile.do?id=476989644&amp;ref=page" rel="nofollow"><img src="http://hdn.xnimg.cn/photos/hdn121/20200111/1030/h_tiny_uOcx_10b4000118161986.jpg"/></a>
+</span>
+<span class="name clearfix">
+<a class="name" href="http://www.renren.com/profile.do?id=476989644&amp;ref=page" rel="nofollow">yzyzzz</a>
+</span>
+</li></ul>
+</div>
+</div>
+<div class="mod others">
+<div class="mod-header">
+<a class="more" href="/assemble/portal/1" title="查看全部人人网公共主页">查看全部<img alt="人人网公共主页" src="http://a.xnimg.cn/imgpro/bg/page-more.png" title="人人网公共主页"/></a>
+<h4>人人的用户还关注</h4>
+</div>
+<div class="mod-body">
+<ul class="people-list">
+<li>
+<span class="headpichold">
+<a href="/600002603?ref=promotelink">
+<img alt="双鱼座的公共主页" class="avatar" src="http://hdn.xnimg.cn/photos/hdn421/20151109/1910/h_tiny_v95i_ef1000021ce4195a.jpg" title="双鱼座的公共主页"/>
+</a>
+</span>
+<span class="name clearfix">
+<a class="name" href="/600002603?ref=promote">双鱼座</a>
+</span>
+</li>
+<li>
+<span class="headpichold">
+<a href="/600002626?ref=promotelink">
+<img alt="梦想装修的公共主页" class="avatar" src="http://hdn.xnimg.cn/photos/hdn421/20140807/1125/h_tiny_EnuR_e10b0001b61a195a.jpg" title="梦想装修的公共主页"/>
+</a>
+</span>
+<span class="name clearfix">
+<a class="name" href="/600002626?ref=promote">梦想装修</a>
+</span>
+</li>
+<li>
+<span class="headpichold">
+<a href="/601844759?ref=promotelink">
+<img alt="DreamBigCareer的公共主页" class="avatar" src="http://hdn.xnimg.cn/photos/hdn121/20141209/1635/h_tiny_32Hy_3d560000e3481986.jpg" title="DreamBigCareer的公共主页"/>
+</a>
+</span>
+<span class="name clearfix">
+<a class="name" href="/601844759?ref=promote">DreamBigCareer</a>
+</span>
+</li>
+<li>
+<span class="headpichold">
+<a href="/601199226?ref=promotelink">
+<img alt="行测每日一练的公共主页" class="avatar" src="http://hdn.xnimg.cn/photos/hdn521/20120125/1735/h_tiny_ygGl_7a8b000438982f75.jpg" title="行测每日一练的公共主页"/>
+</a>
+</span>
+<span class="name clearfix">
+<a class="name" href="/601199226?ref=promote">行测每日一练</a>
+</span>
+</li></ul>
+</div>
+</div>
+<div class="mod recent">
+<div class="mod-header">
+<h4>我最近浏览的公共主页</h4>
+</div>
+<div class="mod-body">
+<ul class="people-list">
+<li>
+<span class="headpichold">
+<a href="/600722033?ref=history">
+<img alt="西安交通大学的公共主页" src="http://hdn.xnimg.cn/dn/school_lib/logo/xiaohui-33.png" title="西安交通大学的公共主页"/>
+</a>
+</span>
+<span class="name clearfix">
+<a href="/600722033?ref=history">西安交通大学</a>
+</span>
+</li></ul>
+</div>
+</div> </div></div>
+</div>
+<!--
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F7b9755874d74f74c2968559e9422e9d3' type='text/javascript'%3E%3C/script%3E"));
+</script>
+-->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?46c4c9a199480813b7aa894c40e6df70";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<!-- 百度自动推送 -->
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+</div>
+</div>
+</div><div class="ft-wrapper clearfix">
+<p>
+<strong>玩转人人</strong>
+<a href="http://page.renren.com/register/regGuide/" target="_blank">公共主页</a>
+<a href="http://public.renren.com/" target="_blank">公众平台</a>
+<a href="http://support.renren.com/helpcenter" target="_blank">客服帮助</a>
+<a href="http://www.renren.com/siteinfo/privacy" target="_blank">隐私</a>
+</p>
+<p>
+<strong>商务合作</strong>
+<a href="http://page.renren.com/marketing/index" target="_blank">品牌营销</a>
+<a class="l-2" href="http://bolt.jebe.renren.com/introduce.htm" target="_blank">中小企业<br/>自助广告</a>
+<a href="http://dev.renren.com/" target="_blank">开放平台</a>
+</p>
+<p>
+<strong>公司信息</strong>
+<a href="http://www.renren-inc.com/zh/product/renren.html" target="_blank">关于我们</a>
+<a href="http://page.renren.com/gongyi" target="_blank">人人公益</a>
+<a href="http://www.renren-inc.com/zh/hr/" target="_blank">招聘</a>
+</p>
+<p>
+<strong>友情链接</strong>
+<a href="http://www.jingwei.com/" target="_blank">经纬网</a>
+<a href="http://wan.renren.com/" target="_blank">人人游戏</a>
+<a href="http://fenqi.renren.com/" target="_blank">人人分期</a>
+</p>
+<p>
+<strong>人人移动客户端下载</strong>
+<a href="http://mobile.renren.com/showClient?v=platform_rr&amp;psf=42064" target="_blank">iPhone/Android</a>
+<a href="http://mobile.renren.com/showClient?v=platform_hd&amp;psf=42067" target="_blank">iPad客户端</a>
+<a href="http://mobile.renren.com" target="_blank">其他人人产品</a>
+</p>
+<!--<p class="copyright-info">-->
+<!-- 临时添加公司信息用 -->
+<p class="copyright-info" style="margi-left: -20px">
+<span></span>
+<span></span>
+<span></span>
+<span><img id="wenhuajingying_icon" src="http://s.xnimg.cn/imgpro/civilization/wenhuajingying.png" style="height: 28px;float: left; margin-left: 60px;"/><a href="http://sq.ccm.gov.cn/ccnt/sczr/service/business/emark/toDetail/DFB957BAEB8B417882539C9B9F9547E6" target="_blank">京网文[2013]0136-030号</a></span>
+<span><a href="http://www.miibeian.gov.cn/" target="_blank">京ICP证090254号</a></span>
+<span>人人网©2015</span>
+<span><a href="#nogo" id="lawInfo">法律声明</a></span>
+</p>
+<!-- dj埋码 -->
+<script type="text/javascript">
+function sendStats(url){var n="log_"+(new Date).getTime();var c=window[n]=new Image;c.onload=c.onerror=function(){window[n]=null};c.src=url;c=null}
+function goPAGE() {
+    var currentUrl = window.location.href.split('#')[0];
+if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+    return "wap";
+}
+else {
+     return "pc";
+ }
+}
+var judge = goPAGE();
+    (function(){
+        sendStats('http://dj.renren.com/seostat?j={"from":"'+window.location.hostname+'","dev":"'+judge+'","page":"'+encodeURIComponent(window.location.href)+'"}');
+        console.log('dj!!');
+    })();
+</script>
+</div>
+</div> </div>
+</div>
+</div>
+</body>
+</html>

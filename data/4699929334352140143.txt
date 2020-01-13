@@ -1,0 +1,270 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html><head><title>外事活动-西安交大新闻网</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="CSS:AloeR@BMY,美工设计:阿颖" name="author"/>
+<meta content="西安交通大学 新闻网XJTUNEWS" name="description"/><link href="../AloeR/AloeR_news.css" rel="stylesheet" type="text/css"/><script language="JavaScript" src="../AloeR/AloeR_news.js" type="text/JavaScript"></script>
+<!--Announced by Visual SiteBuilder 9-->
+<link href="../_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230697547545255564203030000 -->
+<link href="../erji.vsb.css" rel="stylesheet" type="text/css"/>
+<meta content="西安交大新闻网" name="keywords">
+<script src="../system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1005,'/erji.jsp',-1,1025023737)</script>
+</meta></link></head>
+<body>
+<div class="i_top">
+<div class="i_top_xjtu"><!--#begineditable "交大LOGO" name="交大LOGO" viewid="43031" tagname="交大LOGO" contype="" stylesysid="" clone="0"--><table border="0" cellpadding="0" cellspacing="0"><tr><td><img alt="/AloeR/i_top_xjtu.jpg" border="0" src="../AloeR/i_top_xjtu.jpg"/></td></tr></table><!--#endeditable--></div>
+<div class="i_top_news"><!--#begineditable "新闻网logo" name="新闻网logo" viewid="43060" tagname="新闻网logo" contype="" stylesysid="" clone="0"-->
+<script language="javascript" src="../system/resource/js/dynclicks.js"></script>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img border="0" height="85" hspace="3" src="../newindex/pic/i_top_news.jpg" vspace="2" width="340"/></td>
+</tr>
+</table><!--#endeditable--></div>
+<div class="i_top_right" style="padding-top:20px">
+<div class="i_top_datett"><script language="JavaScript" src="../AloeR/datatime.js" type="text/javascript"></script>| <a class="i_white" href="http://xiaoli.xjtu.edu.cn" target="_blank">电子校历
+
+</a></div>
+<div class="i_top_writesq" style="float:right;width:112px"><a class="i_white" href="http://202.117.3.237:8080/system/contribute/login.jsp" target="_blank"><img height="51" src="../images/xwtg_r2_c2.jpg" width="112"/></a></div></div>
+</div>
+<div class="i_menu"><!--#begineditable "网站导航" name="网站导航" viewid="43061" tagname="网站导航" contype="" stylesysid="" clone="0"--> <div class="i_menu_home">
+<a class="i_home" href="../index.htm">新闻网首页</a>
+<a class="i_home" href="http://www.xjtu.edu.cn" target="_blank">交大首页</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../zyxw.htm">主页新闻</a>
+<a class="i_menu" href="../zhxw.htm">综合新闻</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../jyjx.htm">教育教学</a>
+<a class="i_menu" href="../kydt.htm">科研动态</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../wshd.htm">外事活动</a>
+<a class="i_menu" href="../zsjy.htm">招生就业</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../ybdt.htm">院部动态</a>
+<a class="i_menu" href="../dcsy.htm">多彩书院</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../xysh.htm">校园生活</a>
+<a class="i_menu" href="../syjt.htm">思源讲堂</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../rwfc.htm">人物风采</a>
+<a class="i_menu" href="../xyzs.htm">校友之声</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../ylzx.htm">医疗在线</a>
+<a class="i_menu" href="../shfw.htm">社会服务</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../mtjd.htm">媒体交大</a>
+<a class="i_menu" href="../xwzh.htm">新闻纵横</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../xwzt.htm">新闻专题</a>
+<a class="i_menu" href="../tpxw.htm">图片新闻</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../spjd.htm">视频交大</a>
+<a class="i_menu" href="../llyd.htm">理论园地</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../xxyg.htm">信息预告</a>
+<a class="i_menu" href="../xysb.htm">校园随笔</a>
+</div>
+<!--#endeditable--></div>
+<div class="i_menu_bottom"> </div>
+<div class="pw">
+<div class="i_left">
+<div class="l_location"><!--#begineditable "当前位置" name="当前位置" viewid="43063" tagname="当前位置" contype="" stylesysid="" clone="0"-->
+<table cellpadding="0" cellspacing="0" class="winstyle43063"><tr><td nowrap="">
+<a href="../index.htm"><span class="fontstyle43063">新闻网首页</span></a><span class="splitflagstyle43063"> &gt; </span><a href="../wshd.htm"><span class="fontstyle43063">外事活动</span></a></td></tr></table><!--#endeditable--></div></div></div></body></html>
+<div class="l_split"> </div><!--#begineditable "静态翻页列表" name="静态翻页列表" viewid="42986" tagname="静态翻页列表" contype="" stylesysid="" clone="0"-->
+<div class="l_li" id="lineu4_0" style="display:none"><a class="i_li" href="../info/1005/120358.htm" title="西安交大赴圣彼得堡参加中俄大学校长论坛">西安交大赴圣彼得堡参加中俄大学校长论坛</a> <cite>[2019-09-20 16:44:08]</cite></div>
+<div class="l_li" id="lineu4_1" style="display:none"><a class="i_li" href="../info/1005/120244.htm" title="2019丝绸之路大学联盟校长访谈：合作让未来充满更多可能">2019丝绸之路大学联盟校长访谈：合作让未来充满更多可能</a> <cite>[2019-09-20 09:33:38]</cite></div>
+<div class="l_li" id="lineu4_2" style="display:none"><a class="i_li" href="../info/1005/120149.htm" title="美国凯斯西储大学副校长David Fleshler访问管理学院">美国凯斯西储大学副校长David Fleshler访问管理学院</a> <cite>[2019-09-19 16:02:00]</cite></div>
+<div class="l_li" id="lineu4_3" style="display:none"><a class="i_li" href="../info/1005/119619.htm" title="米兰理工大学校长率团访问西安交通大学">米兰理工大学校长率团访问西安交通大学</a> <cite>[2019-09-11 09:45:19]</cite></div>
+<div class="l_li" id="lineu4_4" style="display:none"><a class="i_li" href="../info/1005/119569.htm" title="西安交大—米兰理工联合设计学院揭牌仪式系列活动设计高端论坛高登·布鲁斯专场讲座成功举办">西安交大—米兰理工联合设计学院揭牌仪式系列活动设计高端论坛高登·布鲁...</a> <cite>[2019-09-10 15:21:19]</cite></div>
+<div class="l_li" id="lineu4_5" style="display:none"><a class="i_li" href="../info/1005/119097.htm" title="圣路易斯华盛顿大学官网刊发与西安交大携手举办高质量研究方法暑期班报道">圣路易斯华盛顿大学官网刊发与西安交大携手举办高质量研究方法暑期班报道</a> <cite>[2019-09-03 09:29:29]</cite></div>
+<div class="l_li" id="lineu4_6" style="display:none"><a class="i_li" href="../info/1005/118931.htm" title="澳大利亚健康与医学科学院院士Stephen Jane教授来访公共卫生学院">澳大利亚健康与医学科学院院士Stephen Jane教授来访公共卫生学院</a> <cite>[2019-08-31 08:44:12]</cite></div>
+<div class="l_li" id="lineu4_7" style="display:none"><a class="i_li" href="../info/1005/118958.htm" title="韩国中央大学闵畯泓教授一行来访生命学院">韩国中央大学闵畯泓教授一行来访生命学院</a> <cite>[2019-08-29 10:18:30]</cite></div>
+<div class="l_li" id="lineu4_8" style="display:none"><a class="i_li" href="../info/1005/117952.htm" title="英国约克大学伊恩·格雷厄姆院士访问西安交大 推动两校生物科学领域合作">英国约克大学伊恩·格雷厄姆院士访问西安交大 推动两校生物科学领域合作</a> <cite>[2019-08-12 18:00:49]</cite></div>
+<div class="l_li" id="lineu4_9" style="display:none"><a class="i_li" href="../info/1005/117468.htm" title="美国加州大学Christopher Cooper教授访问西安交大二附院">美国加州大学Christopher Cooper教授访问西安交大二附院</a> <cite>[2019-07-31 18:35:23]</cite></div>
+<div class="l_li" id="lineu4_10" style="display:none"><a class="i_li" href="../info/1005/116568.htm" title="日本前川制作所专务董事川村邦明一行来访">日本前川制作所专务董事川村邦明一行来访</a> <cite>[2019-07-15 10:59:42]</cite></div>
+<div class="l_li" id="lineu4_11" style="display:none"><a class="i_li" href="../info/1005/115969.htm" title="美国埃克森美孚公司来访 加强产研合作">美国埃克森美孚公司来访 加强产研合作</a> <cite>[2019-07-03 10:13:17]</cite></div>
+<div class="l_li" id="lineu4_12" style="display:none"><a class="i_li" href="../info/1005/115573.htm" title="医学部一行赴德国医院协会考察学习">医学部一行赴德国医院协会考察学习</a> <cite>[2019-06-26 18:33:11]</cite></div>
+<div class="l_li" id="lineu4_13" style="display:none"><a class="i_li" href="../info/1005/115667.htm" title="美国康奈尔大学约翰•弗雷斯特教授到访人居学院开展学术交流">美国康奈尔大学约翰•弗雷斯特教授到访人居学院开展学术交流</a> <cite>[2019-06-23 09:18:46]</cite></div>
+<div class="l_li" id="lineu4_14" style="display:none"><a class="i_li" href="../info/1005/115415.htm" title="荷兰外交大臣布洛克率团访问西安交大">荷兰外交大臣布洛克率团访问西安交大</a> <cite>[2019-06-21 18:27:11]</cite></div>
+<div class="l_li" id="lineu4_15" style="display:none"><a class="i_li" href="../info/1005/115623.htm" title="德国霍恩海姆大学中国研究中心来访经金学院">德国霍恩海姆大学中国研究中心来访经金学院</a> <cite>[2019-06-21 15:38:26]</cite></div>
+<div class="l_li" id="lineu4_16" style="display:none"><a class="i_li" href="../info/1005/115248.htm" title="巴基斯坦教育代表团来访">巴基斯坦教育代表团来访</a> <cite>[2019-06-19 09:15:40]</cite></div>
+<div class="l_li" id="lineu4_17" style="display:none"><a class="i_li" href="../info/1005/115217.htm" title="公共卫生学院访问澳大利亚知名大学 拓展交流合作">公共卫生学院访问澳大利亚知名大学 拓展交流合作</a> <cite>[2019-06-17 09:10:51]</cite></div>
+<div class="l_li" id="lineu4_18" style="display:none"><a class="i_li" href="../info/1005/114615.htm" title="日本京都大学功能材料化学研究室访问化工学院 ">日本京都大学功能材料化学研究室访问化工学院 </a> <cite>[2019-06-05 10:21:32]</cite></div>
+<div class="l_li" id="lineu4_19" style="display:none"><a class="i_li" href="../info/1005/114502.htm" title="日本京都大学副校长北川宏受聘西安交大名誉教授">日本京都大学副校长北川宏受聘西安交大名誉教授</a> <cite>[2019-06-04 16:19:55]</cite></div>
+<div class="l_li" id="lineu4_20" style="display:none"><a class="i_li" href="../info/1005/114383.htm" title="西安交大工作组赴巴基斯坦进行留学生招生面试">西安交大工作组赴巴基斯坦进行留学生招生面试</a> <cite>[2019-06-04 09:35:29]</cite></div>
+<div class="l_li" id="lineu4_21" style="display:none"><a class="i_li" href="../info/1005/114461.htm" title="西安交大一附院赴肯尼亚参访考察">西安交大一附院赴肯尼亚参访考察</a> <cite>[2019-06-03 21:33:26]</cite></div>
+<div class="l_li" id="lineu4_22" style="display:none"><a class="i_li" href="../info/1005/114420.htm" title="法国特鲁瓦技术大学来访 深化两校合作">法国特鲁瓦技术大学来访 深化两校合作</a> <cite>[2019-06-03 15:18:38]</cite></div>
+<div class="l_li" id="lineu4_23" style="display:none"><a class="i_li" href="../info/1005/114200.htm" title="SAP全球高级副总裁柯曼一行访问西安交大">SAP全球高级副总裁柯曼一行访问西安交大</a> <cite>[2019-05-30 15:02:49]</cite></div>
+<div class="l_li" id="lineu4_24" style="display:none"><a class="i_li" href="../info/1005/114047.htm" title="西安交大代表团参加以色列、匈牙利及西班牙三国高等教育展">西安交大代表团参加以色列、匈牙利及西班牙三国高等教育展</a> <cite>[2019-05-28 18:32:34]</cite></div>
+<div class="l_li" id="lineu4_25" style="display:none"><a class="i_li" href="../info/1005/113820.htm" title="中华国学文化研究学者、知名校友胡塞尼访问IKCEST丝路培训基地">中华国学文化研究学者、知名校友胡塞尼访问IKCEST丝路培训基地</a> <cite>[2019-05-24 16:31:01]</cite></div>
+<div class="l_li" id="lineu4_26" style="display:none"><a class="i_li" href="../info/1005/113719.htm" title="法国总统府给西安交大韩城学校学生回信">法国总统府给西安交大韩城学校学生回信</a> <cite>[2019-05-23 08:49:23]</cite></div>
+<div class="l_li" id="lineu4_27" style="display:none"><a class="i_li" href="../info/1005/113671.htm" title="米兰理工大学建筑学院皮尔卢奇•萨尔瓦多教授到访人居学院开展讲学交流">米兰理工大学建筑学院皮尔卢奇•萨尔瓦多教授到访人居学院开展讲学交流</a> <cite>[2019-05-22 09:50:20]</cite></div>
+<div class="l_li" id="lineu4_28" style="display:none"><a class="i_li" href="../info/1005/113582.htm" title="俄罗斯“海洋”全俄儿童中心代表团来访">俄罗斯“海洋”全俄儿童中心代表团来访</a> <cite>[2019-05-20 18:05:02]</cite></div>
+<div class="l_li" id="lineu4_29" style="display:none"><a class="i_li" href="../info/1005/113517.htm" title="塞尔维亚政府秘书长助理达尼耶尔·尼科利奇访问西安交大">塞尔维亚政府秘书长助理达尼耶尔·尼科利奇访问西安交大</a> <cite>[2019-05-20 09:06:10]</cite></div>
+<div class="l_li" id="lineu4_30" style="display:none"><a class="i_li" href="../info/1005/113308.htm" title="德国科学院院士史蒂芬·奥夫曼受聘西安交大名誉教授">德国科学院院士史蒂芬·奥夫曼受聘西安交大名誉教授</a> <cite>[2019-05-16 09:13:51]</cite></div>
+<div class="l_li" id="lineu4_31" style="display:none"><a class="i_li" href="../info/1005/113278.htm" title="美国密歇根州立大学教授来访进行国际交流项目宣讲">美国密歇根州立大学教授来访进行国际交流项目宣讲</a> <cite>[2019-05-15 17:39:43]</cite></div>
+<div class="l_li" id="lineu4_32" style="display:none"><a class="i_li" href="../info/1005/113251.htm" title="英国布鲁内尔大学访问西安交大 双方签署合作备忘录">英国布鲁内尔大学访问西安交大 双方签署合作备忘录</a> <cite>[2019-05-15 11:30:00]</cite></div>
+<div class="l_li" id="lineu4_33" style="display:none"><a class="i_li" href="../info/1005/113230.htm" title="西安交通大学与山梨学院大学共建孔子学院正式成立">西安交通大学与山梨学院大学共建孔子学院正式成立</a> <cite>[2019-05-15 08:54:10]</cite></div>
+<div class="l_li" id="lineu4_34" style="display:none"><a class="i_li" href="../info/1005/113204.htm" title="俄罗斯萨拉托夫“REAVIZ”医科大学来访">俄罗斯萨拉托夫“REAVIZ”医科大学来访</a> <cite>[2019-05-14 18:09:53]</cite></div>
+<div class="l_li" id="lineu4_35" style="display:none"><a class="i_li" href="../info/1005/113189.htm" title="丝绸之路大学联盟先进制造子联盟成立">丝绸之路大学联盟先进制造子联盟成立</a> <cite>[2019-05-14 15:54:38]</cite></div>
+<div class="l_li" id="lineu4_36" style="display:none"><a class="i_li" href="../info/1005/113122.htm" title="俄罗斯南乌拉尔国立大学来访 双方签署学生交换协议">俄罗斯南乌拉尔国立大学来访 双方签署学生交换协议</a> <cite>[2019-05-13 18:38:36]</cite></div>
+<div class="l_li" id="lineu4_37" style="display:none"><a class="i_li" href="../info/1005/113054.htm" title="西安交大受邀参加2019丝绸之路教育合作交流会">西安交大受邀参加2019丝绸之路教育合作交流会</a> <cite>[2019-05-13 11:00:31]</cite></div>
+<div class="l_li" id="lineu4_38" style="display:none"><a class="i_li" href="../info/1005/113019.htm" title="马拉维高等教育代表团访问西安交通大学">马拉维高等教育代表团访问西安交通大学</a> <cite>[2019-05-12 20:30:03]</cite></div>
+<div class="l_li" id="lineu4_39" style="display:none"><a class="i_li" href="../info/1005/112956.htm" title="数学试验班与美国佐治亚理工学院开展本科生交流互访活动">数学试验班与美国佐治亚理工学院开展本科生交流互访活动</a> <cite>[2019-05-10 17:01:35]</cite></div>
+<div class="l_li" id="lineu4_40" style="display:none"><a class="i_li" href="../info/1005/112954.htm" title="意大利米兰理工大学朱利奥•马格利教授来校开展讲学交流">意大利米兰理工大学朱利奥•马格利教授来校开展讲学交流</a> <cite>[2019-05-10 16:52:43]</cite></div>
+<div class="l_li" id="lineu4_41" style="display:none"><a class="i_li" href="../info/1005/112340.htm" title="丝路工程科技发展专项培训在撒马尔罕国立大学成功举办">丝路工程科技发展专项培训在撒马尔罕国立大学成功举办</a> <cite>[2019-04-30 11:17:37]</cite></div>
+<div class="l_li" id="lineu4_42" style="display:none"><a class="i_li" href="../info/1005/112083.htm" title="团结香港中学校长代表团来访">团结香港中学校长代表团来访</a> <cite>[2019-04-26 16:20:38]</cite></div>
+<div class="l_li" id="lineu4_43" style="display:none"><a class="i_li" href="../info/1005/111920.htm" title="西安交通大学代表团访问俄罗斯高校推进海外留学生招生 ">西安交通大学代表团访问俄罗斯高校推进海外留学生招生 </a> <cite>[2019-04-24 17:55:28]</cite></div>
+<div class="l_li" id="lineu4_44" style="display:none"><a class="i_li" href="../info/1005/111914.htm" title="第三届西安东盟国家运动会在西安交大举办">第三届西安东盟国家运动会在西安交大举办</a> <cite>[2019-04-24 17:24:24]</cite></div>
+<div class="l_li" id="lineu4_45" style="display:none"><a class="i_li" href="../info/1005/111809.htm" title="荷兰莱顿大学举办西安交通大学日系列学术活动">荷兰莱顿大学举办西安交通大学日系列学术活动</a> <cite>[2019-04-23 11:58:13]</cite></div>
+<div class="l_li" id="lineu4_46" style="display:none"><a class="i_li" href="../info/1005/111811.htm" title="西安交大代表团参加2019马来西亚中国高等教育展">西安交大代表团参加2019马来西亚中国高等教育展</a> <cite>[2019-04-22 16:19:47]</cite></div>
+<div class="l_li" id="lineu4_47" style="display:none"><a class="i_li" href="../info/1005/111385.htm" title="山梨学院大学古屋光司校长一行访问西安交通大学">山梨学院大学古屋光司校长一行访问西安交通大学</a> <cite>[2019-04-17 09:50:57]</cite></div>
+<div class="l_li" id="lineu4_48" style="display:none"><a class="i_li" href="../info/1005/111320.htm" title="英国切斯特大学访问西安交大 两校签署合作谅解备忘录">英国切斯特大学访问西安交大 两校签署合作谅解备忘录</a> <cite>[2019-04-16 14:07:50]</cite></div>
+<div class="l_li" id="lineu4_49" style="display:none"><a class="i_li" href="../info/1005/110506.htm" title="马来西亚教育部高等教育司司长访问西安交大">马来西亚教育部高等教育司司长访问西安交大</a> <cite>[2019-04-04 10:12:49]</cite></div>
+<div class="l_li" id="lineu4_50" style="display:none"><a class="i_li" href="../info/1005/110448.htm" title="巴基斯坦高教协会总干事萨法达·阿里沙博士来访西安交大">巴基斯坦高教协会总干事萨法达·阿里沙博士来访西安交大</a> <cite>[2019-04-03 17:50:07]</cite></div>
+<div class="l_li" id="lineu4_51" style="display:none"><a class="i_li" href="../info/1005/109979.htm" title="国际仲裁权威Emmanuel Gaillard来访交大开讲“中国国际投资仲裁常设论坛”">国际仲裁权威Emmanuel Gaillard来访交大开讲“中国国际投资仲裁常设论坛...</a> <cite>[2019-03-28 14:58:35]</cite></div>
+<div class="l_li" id="lineu4_52" style="display:none"><a class="i_li" href="../info/1005/109899.htm" title="韩国驻西安总领事金柄权一行访问西安交大">韩国驻西安总领事金柄权一行访问西安交大</a> <cite>[2019-03-28 09:21:06]</cite></div>
+<div class="l_li" id="lineu4_53" style="display:none"><a class="i_li" href="../info/1005/109766.htm" title="美国加州大学河滨分校协理副校长来访 商讨两校实质性合作">美国加州大学河滨分校协理副校长来访 商讨两校实质性合作</a> <cite>[2019-03-26 14:23:10]</cite></div>
+<div class="l_li" id="lineu4_54" style="display:none"><a class="i_li" href="../info/1005/109539.htm" title="美国凯斯西储大学来访 商讨工程领域合作">美国凯斯西储大学来访 商讨工程领域合作</a> <cite>[2019-03-22 11:14:26]</cite></div>
+<div class="l_li" id="lineu4_55" style="display:none"><a class="i_li" href="../info/1005/109424.htm" title="美国达特茅斯大学布莱恩·威廉姆·博格教授受聘西安交大客座教授">美国达特茅斯大学布莱恩·威廉姆·博格教授受聘西安交大客座教授</a> <cite>[2019-03-20 18:10:38]</cite></div>
+<div class="l_li" id="lineu4_56" style="display:none"><a class="i_li" href="../info/1005/109241.htm" title="香港理工大学来访 推进两校深入合作">香港理工大学来访 推进两校深入合作</a> <cite>[2019-03-18 19:44:12]</cite></div>
+<div class="l_li" id="lineu4_57" style="display:none"><a class="i_li" href="../info/1005/108363.htm" title="英国约克大学来访 签署合作协议推进两校合作">英国约克大学来访 签署合作协议推进两校合作</a> <cite>[2019-03-05 16:29:37]</cite></div>
+<div class="l_page"><form method="GET" name="a42986" style="display: inline"><input name="actiontype" type="hidden" value=""/><input name="_scode_" type="hidden" value="1578841134936"/><input name="urltype" type="hidden" value="tree.TreeTempUrl"/><input name="wbtreeid" type="hidden" value="1005"/><input name="startnum" type="hidden" value="24"/><input name="endnum" type="hidden" value="82"/><input name="queryParam" type="hidden" value="urltype=tree.TreeTempUrl&amp;wbtreeid=1005"/><style type="text/css">.headStyle2r94rda0t3, .headStyle2r94rda0t3 td, .headStyle2r94rda0t3 div {font-size: 12px;font-family:宋体;color: #000000; margin-left: auto; margin-right: auto; line-height:14px;}.defaultButtonStyle {font-size: 12px;font-family:宋体;height:20px;color: #000000;BORDER: #AFD5F5 1px solid; margin: 0px;padding: 0px; FILTER:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#ffffff, EndColorStr=#BDDBF7);  CURSOR: hand; line-height:14px;}.defaultinputStyle {font-size: 12px;font-family:宋体;height:20px; border:1px solid #AFD5F5; line-height:14px;}.colHeader {font-size: 12px;font-family:宋体;line-height:14px;}.headStyle2r94rda0t3 a, .pageList .this-page {font-size: 12px;font-family:宋体;display:inline-block;height:14px; padding: 2px 4px; border: solid 1px #AFD5F5; background: #fff; text-decoration: none; MARGIN-RIGHT: 1px;line-height:14px;}.headStyle2r94rda0t3 a:visited {font-size: 12px;font-family:宋体;color: #000000; text-decoration: none; line-height:14px;}.headStyle2r94rda0t3 .PrevDisabled {font-size: 12px;font-family:宋体;display:inline-block; height:14px;  margin-right: 3px; padding: 2px 4px; background: #fff; color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}.headStyle2r94rda0t3 .SelectList {font-size: 12px;font-family:宋体;height:16px;line-height:14px;}.headStyle2r94rda0t3 .Prev { font-size: 12px;font-family:宋体;margin-right: 3px; padding: 2px 4px;line-height:14px;}.headStyle2r94rda0t3 .break {font-size: 12px;font-family:宋体; border: none; text-decoration: none; line-height:14px;}.headStyle2r94rda0t3 .NextDisabled { font-size: 12px;font-family:宋体;display:inline-block; height:14px; margin-left: 2px; padding: 2px 4px;background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}.headStyle2r94rda0t3 .Next { font-size: 12px;font-family:宋体; margin-left: 2px; padding: 2px 4px;line-height:14px;}.headStyle2r94rda0t3 .this-page {font-size: 12px;font-family:宋体;display:inline-block; height:14px;padding: 2px 4px; border: solid 1px #AFD5F5; background: #E1F0FD; font-weight: bold; color:black; MARGIN-RIGHT: 1px;line-height:14px;}.headStyle2r94rda0t3 a:hover {font-size: 12px;font-family:宋体;color: black; background: #EFF7FE; border-color: #AFD5F5; text-decoration: none;line-height:14px;}.headStyle2r94rda0t3 a:link {font-size: 12px;font-family:宋体;color: #000000; text-decoration: none;line-height:14px;}.headStyle2r94rda0t3 a:active { font-size: 12px;font-family:宋体;color: black; text-decoration: none; background: #bddbf7; line-height:14px;}
+</style><script language="javascript" src="../system/resource/js/gotopage.js"></script><script type="text/javascript">function a42986_gopage_fun(){_simple_list_gotopage_fun(37,'a42986GOPAGE',2)}</script><table border="0" cellpadding="0" cellspacing="0"><tr><td colspan="0"><table cellpadding="1" cellspacing="0" class="headStyle2r94rda0t3" width="100%"><tr valign="middle"><td align="left" id="fanyeu4" nowrap="" width="1%">共1068条  2/37 </td><td align="left" nowrap=""><div><a class="Prev" href="../wshd.htm">首页</a><a class="Prev" href="../wshd.htm">上页</a><a class="Next" href="35.htm">下页</a><a class="Next" href="1.htm">尾页</a>  <input align="absmiddle" class="defaultButtonStyle" id="gotopagebut" name="a42986Find" onclick="javascript:a42986_gopage_fun()" type="button" value="转到"/><input align="absmiddle" class="defaultInputStyle" id="a42986GOPAGE" name="a42986GOPAGE" size="2" style="margin-left:1px;margin-right:1px" value=""/>页</div></td></tr></table></td></tr></table></form></div>
+<script language="javascript">
+    document.write("<s"+"cript type='text/javascript' src='/wshd/statlist.js?d=" + escape(new Date().toUTCString()) + "'></scr"+"ipt>");
+    document.write("<s"+"cript type='text/javascript' src='/system/resource/js/news/statpagedown.js'></scr"+"ipt>");
+</script>
+<script language="javascript">
+    var size = 58;//文章条数
+    var pageNums = 29;//每页文章条数(默认10条)
+    var oldrowcount = 1068;
+    var oldnowpage = 2;
+    var oldtotal = 37;
+    try{showStaticList('u4', size, pageNums, pageCount, rowCount, oldrowcount, oldnowpage, oldtotal);}catch(e){}
+</script>
+<script>_showDynClickBatch(['dynclicks_u4_120358','dynclicks_u4_120244','dynclicks_u4_120149','dynclicks_u4_119619','dynclicks_u4_119569','dynclicks_u4_119097','dynclicks_u4_118931','dynclicks_u4_118958','dynclicks_u4_117952','dynclicks_u4_117468','dynclicks_u4_116568','dynclicks_u4_115969','dynclicks_u4_115573','dynclicks_u4_115667','dynclicks_u4_115415','dynclicks_u4_115623','dynclicks_u4_115248','dynclicks_u4_115217','dynclicks_u4_114615','dynclicks_u4_114502','dynclicks_u4_114383','dynclicks_u4_114461','dynclicks_u4_114420','dynclicks_u4_114200','dynclicks_u4_114047','dynclicks_u4_113820','dynclicks_u4_113719','dynclicks_u4_113671','dynclicks_u4_113582','dynclicks_u4_113517','dynclicks_u4_113308','dynclicks_u4_113278','dynclicks_u4_113251','dynclicks_u4_113230','dynclicks_u4_113204','dynclicks_u4_113189','dynclicks_u4_113122','dynclicks_u4_113054','dynclicks_u4_113019','dynclicks_u4_112956','dynclicks_u4_112954','dynclicks_u4_112340','dynclicks_u4_112083','dynclicks_u4_111920','dynclicks_u4_111914','dynclicks_u4_111809','dynclicks_u4_111811','dynclicks_u4_111385','dynclicks_u4_111320','dynclicks_u4_110506','dynclicks_u4_110448','dynclicks_u4_109979','dynclicks_u4_109899','dynclicks_u4_109766','dynclicks_u4_109539','dynclicks_u4_109424','dynclicks_u4_109241','dynclicks_u4_108363'],[120358,120244,120149,119619,119569,119097,118931,118958,117952,117468,116568,115969,115573,115667,115415,115623,115248,115217,114615,114502,114383,114461,114420,114200,114047,113820,113719,113671,113582,113517,113308,113278,113251,113230,113204,113189,113122,113054,113019,112956,112954,112340,112083,111920,111914,111809,111811,111385,111320,110506,110448,109979,109899,109766,109539,109424,109241,108363],"wbnews", 1025023737)</script>
+<!--#endeditable-->
+<div class="clear"> </div>
+<div class="i_right">
+<div class="i_search">
+<!--#begineditable contype="" name="全文检索" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="全文检索" viewid="65621" stylesysid=""--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode65621').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword65621").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword65621").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword65621").value = base64.encode(document.getElementById("lucenenewssearchkeyword65621").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode65621"));
+        return true;
+    } 
+</script>
+<form action="../ssjgy.jsp?wbtreeid=1005" id="au5a" method="post" name="au5a" onsubmit="return _nl_ys_check()" style="display: inline">
+<input id="lucenenewssearchkeyword65621" name="lucenenewssearchkeyword" type="hidden" value=""/><input id="_lucenesearchtype65621" name="_lucenesearchtype" type="hidden" value="1"/><input id="searchScope65621" name="searchScope" type="hidden" value="0"/>
+<div>
+<table border="0" cellpadding="0" cellspacing="1">
+<tr>
+<td height="20px">
+<input id="showkeycode65621" name="showkeycode" style="height:20px;width:136px"/>
+</td>
+<td width="5px"> </td>
+<td align="absmiddle" height="1" nowrap="nowrap">
+<input align="absmiddle" src="../i_search_btn.jpg" style="cursor: hand" type="image" valign="bottom"/>
+</td>
+<td width="5px"> </td>
+<td align="absmiddle" class="i_search_left" nowrap="nowrap"><a "arial";="" background:="" center="" href="../index/gjjs.htm" no-repeat="" style="font-family:" top;="" url(i_body_bg.jpg)="" 宋体",="">高级搜索</a></td>
+</tr>
+</table>
+</div>
+</form>
+<script language="javascript" src="../system/resource/js/base64.js"></script><script language="javascript" src="../system/resource/js/formfunc.js"></script>
+<!--#endeditable-->
+</div>
+<div class="split"> </div>
+<div class="split"> </div>
+<div class="l_redian"><span class="l_redian">信息预告</span> <a class="l_redian_more" href="../xxyg.htm" target="_blank">更多</a>
+<div class="clear"> </div></div>
+<div class="l_redian_con"><!--#begineditable "信息预告" name="信息预告" viewid="42987" tagname="信息预告" contype="" stylesysid="" clone="0"--> <div class="l_redian_li"><a class="i_li" href="../info/1017/121206.htm" title="第十一届国际研究生奖学金信息说明会即将召开">·第十一届国际研究生奖学金信息说明...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../info/1017/121129.htm" title="第10届“学术之星”评选活动通知">·第10届“学术之星”评选活动通知</a></div>
+<div class="l_redian_li"><a class="i_li" href="../info/1017/120815.htm" title="【初心·使命】西安交大教职工歌咏比赛即将倾情上演">·【初心·使命】西安交大教职工歌咏比...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../info/1017/120096.htm" title="未来汽车动力与出行方式创新发展论坛即将举行">·未来汽车动力与出行方式创新发展论...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../info/1017/119463.htm" title="文脉相继——交通大学人文教育文献暨钟明善教授从教60周年成果展">·文脉相继——交通大学人文教育文献...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../info/1033/119195.htm" title="欢迎关注研究生开学典礼网络直播和新媒体互动">·欢迎关注研究生开学典礼网络直播和...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../info/1017/117943.htm" title="第12届微纳尺度材料行为国际研讨会开幕在即">·第12届微纳尺度材料行为国际研讨会...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../info/1017/116024.htm" title="第三届“一带一路”全球健康国际研讨会暨丝绸之路大学联盟2019全球健康论坛第二轮会议通知">·第三届“一带一路”全球健康国际研...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../info/1017/114980.htm" title="西安交大VEX机器人夏令营报名啦！">·西安交大VEX机器人夏令营报名啦！</a></div>
+<div class="l_redian_li"><a class="i_li" href="../info/1017/114752.htm" title="“青马问道”第十一讲预告">·“青马问道”第十一讲预告</a></div>
+<script>_showDynClickBatch(['dynclicks_u6_121206','dynclicks_u6_121129','dynclicks_u6_120815','dynclicks_u6_120096','dynclicks_u6_119463','dynclicks_u6_119195','dynclicks_u6_117943','dynclicks_u6_116024','dynclicks_u6_114980','dynclicks_u6_114752'],[121206,121129,120815,120096,119463,119195,117943,116024,114980,114752],"wbnews", 1025023737)</script>
+<!--#endeditable--></div>
+<div class="split"> </div>
+<div class="l_lanmu"><span class="l_redian">栏目新闻</span>  
+<div class="clear"> </div></div>
+<div class="l_redian_con"><!--#begineditable "栏目新闻" name="栏目新闻" viewid="42988" tagname="栏目新闻" contype="" stylesysid="" clone="0"--> <div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/127560.htm" title="共青团西安交通大学第二十九次代表大会召开">·共青团西安交通大学第二十九次代表...</a></div></div></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/127456.htm" title="【奋翅起高飞】只争朝夕 不负韶华">·【奋翅起高飞】只争朝夕 不负韶华</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/127428.htm" title="西安交大召开2020年寒假工作会议">·西安交大召开2020年寒假工作会议</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/127418.htm" title="西安交通大学召开“不忘初心、牢记使命”主题教育总结大会">·西安交通大学召开“不忘初心、牢记...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/127446.htm" title="统一战线助力发展：扶贫攻坚有担当">·统一战线助力发展：扶贫攻坚有担当</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/127421.htm" title="西安交通大学参加2020年全国教育工作网络视频会议">·西安交通大学参加2020年全国教育工...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/127402.htm" title="【初心·使命】焦仲平系列评论之十：鼓满风帆踏征程，全力奋进创明天">·【初心·使命】焦仲平系列评论之十：...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/127391.htm" title="【“团”聚青春】共青团西安交通大学第二十九次代表大会预备会议召开">·【“团”聚青春】共青团西安交通大...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/127377.htm" title="学校召开研究生辅导员座谈会">·学校召开研究生辅导员座谈会</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/127368.htm" title="西安交大新增4个单位入选教育部新时代高校党建“双创”培育创建行列">·西安交大新增4个单位入选教育部新时...</a></div>
+<script>_showDynClickBatch(['dynclicks_u7_127560','dynclicks_u7_127456','dynclicks_u7_127428','dynclicks_u7_127418','dynclicks_u7_127446','dynclicks_u7_127421','dynclicks_u7_127402','dynclicks_u7_127391','dynclicks_u7_127377','dynclicks_u7_127368'],[127560,127456,127428,127418,127446,127421,127402,127391,127377,127368],"wbnews", 1025023737)</script>
+<!--#endeditable-->
+<div class="i_weibo" id="div_weibo_span"><span class="i_weibo_now" id="span_weibo_1" onmousemove="switchWeibo(1);"><img align="absMiddle" src="../AloeR/i_sina.jpg"/> 新浪微博</span> <span class="i_weibo_split"> </span> <span class="i_weibo" id="span_weibo_2" onmousemove="switchWeibo(2);"><img align="absMiddle" src="../AloeR/i_toutiao.png"/> 今日头条</span> <span class="i_weibo_split"> </span> <span class="i_weibo" id="span_weibo_3" onmousemove="switchWeibo(3);"><img align="absMiddle" src="../AloeR/i_weixin.jpg"/> 微信</span> </div>
+<div class="i_weibo_con" id="div_weibo_div">
+<div class="i_weibo_detail" id="div_weibo_1" style="display: block"><img src="../pic/weibo_ewm.png"/> </div>
+<div class="i_weibo_detail" id="div_weibo_2" style="display: none"><!--#begineditable "人人网" name="人人网" viewid="43083" tagname="人人网" contype="" stylesysid="" clone="0"-->
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><a href="https://www.toutiao.com/c/user/6223492102/#mid=6223492102" onclick="_addDynClicks('wbimage',1025023737,11002)" target="_blank"><img border="0" height="190" hspace="3" src="../toutiao_ewm.png" vspace="2" width="266"/></a></td>
+</tr>
+</table><!--#endeditable--></div>
+<div class="i_weibo_detail" id="div_weibo_3" style="display: none"><!--#begineditable "微信" name="微信" viewid="43084" tagname="微信" contype="" stylesysid="" clone="0"-->
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img border="0" height="190" hspace="3" src="../02.jpg" vspace="2" width="266"/></td>
+</tr>
+</table><!--#endeditable--></div>
+<div class="clear"> </div></div>
+<div class="clear"> </div>
+<div class="clear"> </div>
+<div class="split"> </div>
+<div class="i_bottom"><!--#begineditable "底部链接" name="底部链接" viewid="42989" tagname="底部链接" contype="" stylesysid="" clone="0"--><script language="javascript" src="../system/resource/js/openlink.js"></script> <a class="i_bottom" href="http://xwtg.xjtu.edu.cn:8080/system/contribute/alogin.jsp">在线投稿</a>
+<strong>|</strong>
+<a class="i_bottom" href="../lxwm.htm">联系我们</a>
+<strong>|</strong>
+<a class="i_bottom" href="http://202.117.3.24:8080/system/login.jsp">管理登陆</a>
+<strong>|</strong>
+<a class="i_bottom" href="http://xwlc1.xjtu.edu.cn/">新闻流程</a>
+<!--#endeditable--><br/> <!--#begineditable "版权" name="版权" viewid="42990" tagname="版权" contype="" stylesysid="" clone="0"-->版权所有：西安交通大学党委宣传部 网站建设：<a class="design" href="http://nic.xjtu.edu.cn">网络信息中心</a><br/><a href="http://www.beian.miit.gov.cn/">陕ICP备06008037号</a> 网络信息中心提供网络带宽 <!--#endeditable--></div>
+

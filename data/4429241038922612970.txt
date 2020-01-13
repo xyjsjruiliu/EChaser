@@ -1,0 +1,114 @@
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<script>
+    var isaction = false;
+</script>
+<script language="javascript" src="/system/contribute/login/login.js"></script>
+<!--[if lt IE 7]>
+    <script type="text/javascript" src="/system/contribute/_js/unitpngfix/unitpngfix.js"></script>
+<![endif]-->
+<style>
+.warning {
+	font-size: 12px;
+	line-height: 22px;
+	color: #F00;
+	text-decoration: none
+}
+</style>
+</head>
+<body>
+<form action="ilogin.jsp" id="loginform" method="post" name="loginform" onsubmit="return checkData()" style="display:inline;">
+<input name="action" type="hidden" value="login"/>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1000">
+<tr>
+<td background="/system/contribute/login/img/tg_r1_c2.jpg" height="471" width="630"> </td>
+<td colspan="2" rowspan="2" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="370">
+<tr>
+<td background="/system/contribute/login/img/tg_r1_c3.jpg" colspan="2" height="359"> </td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" height="182" rowspan="2" width="306"><table align="center" border="0" cellpadding="0" cellspacing="0" width="280">
+<tr>
+<td align="center" height="40" style="color:#025CB2; font-size:14px;" width="60">账  号</td>
+<td align="left" colspan="2">
+<label for="textfield"></label>
+<input autocomplete="off" id="user" name="user" type="text"/></td>
+</tr>
+<tr>
+<td align="center" height="40" style="color:#025CB2; font-size:14px;">密  码</td>
+<td align="left" colspan="2">
+<label for="textfield2"></label>
+<input id="password" name="password" type="password"/>
+</td>
+</tr>
+<tr>
+<td align="center" height="40" style="color:#025CB2; font-size:14px;">验证码</td>
+<td width="110">
+<label for="textfield3"></label>
+<input autocomplete="off" id="logincode" maxlength="4" name="logincode" type="text"/>
+</td>
+<td width="110"><img align="absmiddle" border="0" height="27" id="codeimg" onclick="changeCodeImg()" style="cursor:hand" title="看不清点我" width="87"/>
+<script>
+				if(!bClosed)
+					changeCodeImg();
+			</script></td>
+</tr>
+<tr id="tijiao" name="tijiao">
+<td height="40"> </td>
+<td><input class="login_menu" id="Submit" name="Submit" type="submit" value=""/><script language="javascript">
+			   if(document.getElementById("user").value=="")
+			   {
+				  document.getElementById("user").focus();
+			   }
+			   else
+			   {
+				  document.getElementById("password").focus();
+			   }
+		   </script></td>
+<td> </td>
+</tr>
+<tr>
+<td align="center" class="warning" colspan="3" id="tip_td" name="tip_td"><div id="tip_div_content" onmouseout="out_div()" onmouseover="in_div()" style="color:#4F4644;text-align:left;letter-spacing:1px; position: absolute;display: none;font-size: 12px; line-height: 20px;background-color:#fff;width:345px;padding:10px; border:solid 1px #80D023;"></div></td>
+</tr>
+</table></td>
+<td background="/system/contribute/login/img/xt_r2_c5.jpg" height="112" width="64"> </td>
+</tr>
+<tr>
+<td background="/system/contribute/login/img/xt_r3_c9.jpg" height="70"> </td>
+</tr>
+<tr>
+<td background="/system/contribute/login/img/xt_r6_c4.jpg" height="10"></td>
+<td></td>
+</tr>
+<tr>
+<td height="82"><table align="right" border="0" cellpadding="0" cellspacing="0" width="306">
+<tr>
+<td align="right" style="color:#FFF;"><a href="login.jsp" style="color:#FFF;">  统一身份认证登录  </a>/<a href="syslogin.jsp" style="color:#FFF;">  系统配置登录  </a>/<a href="register.jsp" style="color:#FFF;">  新用户注册  </a></td>
+</tr>
+<tr>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+</tr>
+<tr>
+<td align="right" style="color:#FFF;">( <a href="/system/resource/instructions.doc" style="color:#FFF;">使用说明</a>  /  <a href="/system/resource/Mp4Encoder.zip" style="color:#FFF;">视频转换工具</a> )</td>
+</tr>
+</table></td>
+<td></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td background="/system/contribute/login/img/tg_r3_c2.jpg" height="190"> </td>
+</tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="color:#FFF; text-align:center;" width="1000">
+<tr>
+<td>版权所有：西安交通大学党委宣传部        技术支持：西安交通大学网络信息中心</td>
+</tr>
+</table>
+</form>
+</body>
+</html>

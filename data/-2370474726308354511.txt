@@ -1,0 +1,633 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+<head>
+<title>西安交通大学西迁精神专题网</title><meta content="西安交通大学西迁精神专题网" name="keywords"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=Edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<link href="css/style.css" rel="stylesheet" type="text/css"/>
+<script src="js/jquery.min.js" type="text/javascript"></script>
+<script src="js/koala.min.js" type="text/javascript"></script>
+<script src="js/ddsmoothmenu.js" type="text/javascript"></script>
+<script src="js/terminator.min.js" type="text/javascript"></script>
+<script src="js/jquery.easing.js" type="text/javascript"></script>
+<script src="js/jquery.galleryview.js" type="text/javascript"></script>
+<script src="js/jquery.timers.js" type="text/javascript"></script>
+<script type="text/javascript">
+			$(document).ready(function() {
+				$('#photos').galleryView({
+					panel_width: 588,
+					panel_height: 378,
+					frame_width: 212,
+					frame_height: 139
+				});
+			});
+		</script>
+<script>
+			<!--
+			function setTab(name, cursel, n) {
+				for(i = 1; i <= n; i++) {
+					var menu = document.getElementById(name + i);
+					var con = document.getElementById("con_" + name + "_" + i);
+					menu.className = i == cursel ? "hover" : "";
+					con.style.display = i == cursel ? "block" : "none";
+				}
+			}
+
+			//-->
+		</script>
+<!--Announced by Visual SiteBuilder 9-->
+<link href="_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230697547545257544003060005 -->
+<link href="index.vsb.css" rel="stylesheet" type="text/css"/>
+<script src="/system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1424018464)</script>
+</link></head>
+<body>
+<div id="wrapper">
+<div class="xian_top">
+<!--head start-->
+<div class="top">
+<div class="logo fl">
+<img src="images/bxh.png"/>
+</div>
+<!--nav开始-->
+<div class="nav_da fr">
+<div class="nav">
+<div class="ddsmoothmenu" id="smoothmenu1">
+<ul>
+<li>
+<a class="cur" href="index.jsp">首页</a>
+</li>
+<li>
+<a class="" href="zyjs.htm">中央精神</a>
+</li>
+<li>
+<a class="" href="mtjj.htm">媒体聚焦</a>
+</li>
+<li>
+<a class="" href="xwdt.htm">新闻动态</a>
+</li>
+<li>
+<a class="" href="xqzl.htm">西迁专栏</a>
+</li>
+<li>
+<a class="non" href="xxyj.htm">学习研究</a>
+</li>
+</ul>
+</div>
+<script type="text/javascript">
+								ddsmoothmenu.init({
+									mainmenuid: "smoothmenu1", //menu DIV id
+									orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+									classname: 'ddsmoothmenu', //class added to menu's outer DIV
+									//customtheme: ["#1c5a80", "#18374a"],
+									contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+								})
+							</script>
+<div class="ssan fr">
+<a href="ssjgy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1013"><img src="images/ssan.png"/></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--banner-->
+<div class="clearfix"></div>
+<div class="focus cleafix" id="fsD1">
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script><ul class="fPic" id="D1pic1" style="padding-bottom: 25.7%;">
+<li class="fcon">
+<a href="javascript:void(0)"><img src="images/2018080301.jpg"/></a>
+</li>
+<li class="fcon">
+<a href="javascript:void(0)"><img src="images/xizongshujizhishi.jpg"/></a>
+</li>
+<li class="fcon">
+<a href="javascript:void(0)"><img src="images/xi4.jpg"/></a>
+</li>
+<li class="fcon">
+<a href="javascript:void(0)"><img src="images/xiqianjingshen.jpg"/></a>
+</li>
+</ul>
+<div class="others">
+<p><i></i></p>
+</div>
+</div>
+<div class="clearfix"></div>
+<!--banner下链接-->
+<div class="bannerlj">
+<div class="bannerlj1 clearfix">
+<div class="notice1 clearfix">
+<div class="news-qh1">
+<ul class="cleafix">
+<li class="hover" id="two1" onmousemove="setTab('two',1,6)">
+<a href="zyjs.htm" style="display: inline-block;width: 135px;height: 46px;"></a>
+</li>
+<li id="two2" onmousemove="setTab('two',2,6)">
+<a href="xwdt.htm" style="display: inline-block;width: 135px;height: 46px;"></a>
+</li>
+<li id="two3" onmousemove="setTab('two',3,6)">
+<a href="xqzl.htm" style="display: inline-block;width: 135px;height: 46px;"></a>
+</li>
+<li id="two4" onmousemove="setTab('two',4,6)">
+<a href="xxyj.htm" style="display: inline-block;width: 135px;height: 46px;"></a>
+</li>
+</ul>
+</div>
+<div class="news-list-cont1 fl" style="height: 480px">
+<ul class="news-lb1" id="con_two_1" style="width: 560px;">
+<div class="qhstt">
+<div class="qhstt1">
+<a href="info/1007/1745.htm" style="" target="_blank">
+<h3>习近平总书记对西安交大“西迁精神”作出重要指示</h3>
+<p>12月16日下午，陕西省委和西安交大召开专题座谈会，由陕西省委书记、省长...</p>
+</a>
+</div>
+</div>
+<li><span class="notice-time1">2018-11-07</span>
+<a href="info/1007/3812.htm" style="" target="_blank">【新华社】孙春兰：大力弘扬西迁精神 推动教育建功...</a>
+</li>
+<li><span class="notice-time1">2018-11-06</span>
+<a href="info/1007/3811.htm" style="" target="_blank">【央视晚间新闻】孙春兰会见“西迁人”先进事迹报告团</a>
+</li>
+<li><span class="notice-time1">2018-08-02</span>
+<a href="info/1007/3386.htm" style="" target="_blank">中组部、中宣部负责人就在广大知识分子中深入开展...</a>
+</li>
+<li><span class="notice-time1">2018-08-01</span>
+<a href="info/1007/3245.htm" style="" target="_blank">中组部、中宣部印发《关于在广大知识分子中深入开...</a>
+</li>
+<li style="border:0px;"><span class="notice-time1">2018-05-10</span>
+<a href="info/1007/2971.htm" style="" target="_blank">习近平：在纪念马克思诞辰200周年大会上的讲话</a>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u3_1745','dynclicks_u3_3812','dynclicks_u3_3811','dynclicks_u3_3386','dynclicks_u3_3245','dynclicks_u3_2971'],[1745,3812,3811,3386,3245,2971],"wbnews", 1424018464)</script>
+<ul class="news-lb1" id="con_two_2" style="display:none;width: 560px;">
+<div class="qhstt">
+<div class="qhstt1">
+<a href="info/1008/3815.htm" target="_blank">
+<h3>西安交大“西迁人”爱国奋斗先进事迹报告会在人民...</h3>
+<p>西安交大“西迁人”爱国奋斗先进事迹报告会在人民大会堂举行</p>
+</a>
+</div>
+</div>
+<li><span class="notice-time1">2020-01-03</span>
+<a href="info/1008/4757.htm" style="" target="_blank">电子科技大学校长曾勇一行来校访问</a>
+</li>
+<li><span class="notice-time1">2019-12-31</span>
+<a href="info/1008/4756.htm" style="" target="_blank">西安交通大学2020年新年贺词</a>
+</li>
+<li><span class="notice-time1">2019-12-30</span>
+<a href="info/1008/4753.htm" style="" target="_blank">【央视探索·发现】播出两集纪录片《西迁纪》</a>
+</li>
+<li><span class="notice-time1">2019-12-23</span>
+<a href="info/1008/4745.htm" style="" target="_blank">西安交通大学原创音乐剧《西迁西迁》面向社会公演</a>
+</li>
+<li style="border:0px;"><span class="notice-time1">2019-12-20</span>
+<a href="info/1008/4743.htm" style="" target="_blank">中央依法治国办法治政府建设第七督查组组长徐显明...</a>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u4_3815','dynclicks_u4_4757','dynclicks_u4_4756','dynclicks_u4_4753','dynclicks_u4_4745','dynclicks_u4_4743'],[3815,4757,4756,4753,4745,4743],"wbnews", 1424018464)</script>
+<ul class="news-lb1" id="con_two_3" style="display:none;width: 560px;">
+<div class="qhstt">
+<div class="qhstt1">
+<a href="info/1093/3561.htm" target="_blank">
+<h3>【西迁新传人】新华社聚焦西安交大西迁精神新传人</h3>
+<p>【西迁新传人】新华社聚焦西安交大西迁精神新传人</p>
+</a>
+</div>
+</div>
+<li><span class="notice-time1">2019-06-20</span>
+<a href="info/1093/4435.htm" style="" target="_blank">【西迁新传人】王坤正：大医情怀 砥砺前行</a>
+</li>
+<li><span class="notice-time1">2019-06-09</span>
+<a href="info/1093/4392.htm" style="" target="_blank">【西迁新传人】高亚：不忘医者初心 护佑儿童健康</a>
+</li>
+<li><span class="notice-time1">2019-06-02</span>
+<a href="info/1093/4384.htm" style="" target="_blank">【西迁新传人】李宗芳：不负生命重托 践行医者...</a>
+</li>
+<li><span class="notice-time1">2019-05-19</span>
+<a href="info/1093/4367.htm" style="" target="_blank">【西迁新传人】刘人境：不能让一个学生掉队</a>
+</li>
+<li style="border:0px;"><span class="notice-time1">2019-05-02</span>
+<a href="info/1093/4339.htm" style="" target="_blank">“陕西省五一劳动奖章”获得者苏光辉：为国家...</a>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u5_3561','dynclicks_u5_4435','dynclicks_u5_4392','dynclicks_u5_4384','dynclicks_u5_4367','dynclicks_u5_4339'],[3561,4435,4392,4384,4367,4339],"wbnews", 1424018464)</script>
+<ul class="news-lb1" id="con_two_4" style="display:none;width: 560px;">
+<div class="qhstt">
+<div class="qhstt1">
+<a href="info/1011/3207.htm" target="_blank">
+<h3>图解《关于开展争做西迁精神新传人活动的意见》</h3>
+<p>图解《关于开展争做西迁精神新传人活动的意见》</p>
+</a>
+</div>
+</div>
+<li><span class="notice-time1">2020-01-04</span>
+<a href="info/1011/4751.htm" style="" target="_blank">【一院一品】继续教育学院：弘扬西迁精神  哺育社...</a>
+</li>
+<li><span class="notice-time1">2019-12-20</span>
+<a href="info/1011/4744.htm" style="" target="_blank">王树国校长在西安交大2019年冬季研究生学位授予仪...</a>
+</li>
+<li><span class="notice-time1">2019-12-20</span>
+<a href="info/1011/4742.htm" style="" target="_blank">2019年西安交通大学十大新闻评选启动</a>
+</li>
+<li><span class="notice-time1">2019-12-18</span>
+<a href="info/1011/4741.htm" style="" target="_blank">机关与直属单位党委举办“纪念章里话初心”专题报告会</a>
+</li>
+<li style="border:0px;"><span class="notice-time1">2019-12-11</span>
+<a href="info/1011/4733.htm" style="" target="_blank">【初心·使命】西安交大以“主题教育”引领青年学子...</a>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u6_3207','dynclicks_u6_4751','dynclicks_u6_4744','dynclicks_u6_4742','dynclicks_u6_4741','dynclicks_u6_4733'],[3207,4751,4744,4742,4741,4733],"wbnews", 1424018464)</script>
+</div>
+</div>
+<div class="xzyc">
+<img src="/__local/2/AE/5D/54FE6A937DD923553210EF80F2B_76F45361_D363.jpg" style="margin-left:50px;margin-top:50px;width:256px;height:360px;float:left;"/>
+<script>_showDynClickBatch(['dynclicks_u7_4121'],[4121],"wbnews", 1424018464)</script>
+<div class="mtjj">
+<a href="mtjj.htm"><img src="images/mtjj.gif"/></a>
+<div style="height: 327px; width: 242px; margin-left: 13px; margin-top: 25px;float:left;">
+<h3 style="font-size: 18px; font-family: Microsoft YaHei; padding-left: 5px; line-height: 30px"><a class="a_1" href="info/1010/4121.htm" style="">【光明日报】爱国奋斗 当代青年应有的责任与担当</a></h3>
+<p style="font-family: Microsoft YaHei; color: #9b9b9b; margin-top: 10px; line-height: 35px; text-indent: 2em">光明日报与陕西省委宣传部、西安交通大学日前联合举办“爱国奋斗”精神论坛，旨在进一步学习研讨教育系统广大知识分子的感人事迹和奉献报国精神，激励广大知识分子立足新征程新使命，接好时代的“接力棒”，创造出无愧于时代和人民的新业绩，并为推动我国...</p>
+</div><script>_showDynClickBatch(['dynclicks_u8_4121'],[4121],"wbnews", 1424018464)</script>
+</div>
+</div>
+</div>
+</div>
+<!--main start-->
+<div class="clearfix"></div>
+<div class="main-wrap">
+<div class="main">
+<!--one开始-->
+<div class="mian-one clearfix" style="    position: relative;">
+<!--左侧新闻-->
+<div class="zuo fl">
+<div class="notice">
+<div class="news-qh">
+<ul class="cleafix">
+<li class="hover" id="one1" onmousemove="setTab('one',1,3)">
+<a href="xqsp1/xxxyf.htm">向西向远方</a>
+</li>
+<li id="one2" onmousemove="setTab('one',2,3)">
+<a href="xqsp1/fxqcwjg.htm">奉献青春为家国</a>
+</li>
+<li id="one3" onmousemove="setTab('one',3,3)">
+<a href="xqsp1/yypydqz.htm">永远飘扬的旗帜</a>
+</li>
+</ul>
+</div>
+<div class="news-list-cont">
+<ul class="news-lb" id="con_one_1">
+<div class="qhst">
+<a href="info/1014/2662.htm" style="" target="_blank"><img src="/__local/8/39/6B/4E4D3D338B38BE19A1702A379E9_14EDDFE1_A993.jpg"/></a>
+<div class="qhst1" style="height:144px;">
+<a href="info/1014/2662.htm" style="" target="_blank">
+<h3>向西，向远方</h3>
+<p>《向西向远方》，系由西安交通大学、中央新闻纪录电影制片厂联合摄制的历史文献纪录片，该片全面讲述1956年以来，交通大学成长壮大、内迁西安、扎根西部、艰苦创业的光辉历程。胸怀大局、爱...</p>
+</a>
+</div>
+<div style="width:110px;height:35px;background:#f79f13;float:right;text-align:center;line-height:35px;font-size:16px;margin-top:22px;"><a href="xqsp1.htm" style="color:#fff;">更多视频</a></div>
+</div><script>_showDynClickBatch(['dynclicks_u9_2662'],[2662],"wbnews", 1424018464)</script>
+</ul>
+<ul class="news-lb" id="con_one_2" style="display: none">
+<div class="qhst">
+<a href="info/1015/2259.htm" style="" target="_blank"><img src="/__local/1/E2/4E/5763E23F50FBB262EE44863A570_F5033A85_923B4.png"/></a>
+<div class="qhst1" style="height:144px;">
+<a href="info/1015/2259.htm" style="" target="_blank">
+<h3>【央视新闻联播头条】“西迁精神”：奉献青春为家国</h3>
+<p>2018年1月18日，央视《新闻联播》头条播发专题报道《“西迁精神”：奉献青春为家国》，片中采访了多位西安交大西迁老教授，并指出，62年前，他们响应国家在大西北部署一所高水平工业大学的号...</p>
+</a>
+</div>
+<div style="width:110px;height:35px;background:#f79f13;float:right;text-align:center;line-height:35px;font-size:16px;margin-top:22px;"><a href="xqsp1.htm" style="color:#fff;">更多视频</a></div>
+</div><script>_showDynClickBatch(['dynclicks_u10_2259'],[2259],"wbnews", 1424018464)</script>
+</ul>
+<ul class="news-lb" id="con_one_3" style="display: none">
+<div class="qhst">
+<a href="info/1016/1732.htm" style="" target="_blank"><img src="/__local/B/17/65/FCFA0F2C5608E855E81FC4B92F7_6EFD0CB2_24EF9.jpg"/></a>
+<div class="qhst1" style="height:144px;">
+<a href="info/1016/1732.htm" style="" target="_blank">
+<h3>永远飘扬的旗帜</h3>
+<p>兴学强国，交大人与生俱来之使命；开发西部，交大人无怨无悔之担当。一往无前开辟西迁伟业，一腔热血铸就西迁精神。他们舍小家、为国家，献青春、洒热血，根牢牢扎在黄土地上，爱深深融入西...</p>
+</a>
+</div>
+<div style="width:110px;height:35px;background:#f79f13;float:right;text-align:center;line-height:35px;font-size:16px;margin-top:22px;"><a href="xqsp1.htm" style="color:#fff;">更多视频</a></div>
+</div><script>_showDynClickBatch(['dynclicks_u11_1732'],[1732],"wbnews", 1424018464)</script>
+</ul>
+</div>
+</div>
+</div>
+<a href="xqyx.htm" onclick='_addDynClicks("wbimage", 1424018464, 40807)' style="position: absolute;top:43px;margin-left:20px;"><img src="images/xqyx2_03.png"/></a>
+<div class="you fr">
+<div class="galleryview" id="photos">
+<div class="panel">
+<a href="info/1022/2696.htm" style=""><img height="378" src="/__local/1/4A/E9/F00B41ADA1ED875BEAC1D13DBC4_50B43D7F_11969.jpg" width="588"/></a>
+</div>
+<div class="panel">
+<a href="info/1022/2695.htm" style=""><img height="378" src="/__local/3/52/35/473C3E9613F58224CBDD69618E2_3C237B3B_1C989.jpg" width="588"/></a>
+</div>
+<div class="panel">
+<a href="info/1022/2694.htm" style=""><img height="378" src="/__local/5/F3/74/FCCE710FDF0B38C1E188508DDE3_D4316DE4_108EB.jpg" width="588"/></a>
+</div>
+<div class="panel">
+<a href="info/1022/2693.htm" style=""><img height="378" src="/__local/A/DE/E7/D5E17F3DA5067BEDDE3C1574607_D93081CA_725E8.jpg" width="588"/></a>
+</div>
+<div class="panel">
+<a href="info/1022/2692.htm" style=""><img height="378" src="/__local/0/C9/97/E6F32E628B9CD373433EC721CE9_6E46E610_E257.jpg" width="588"/></a>
+</div>
+<div class="panel">
+<a href="info/1022/2691.htm" style=""><img height="378" src="/__local/E/A8/FA/E4BB2870E28C88BEE55119D839B_8F285D12_DD52.jpg" width="588"/></a>
+</div>
+<div class="panel">
+<a href="info/1022/2690.htm" style=""><img height="378" src="/__local/9/AF/B8/9C354756C11C4D87BBE5252CBEB_CF2EE32E_EE42.jpg" width="588"/></a>
+</div>
+<div class="panel">
+<a href="info/1022/2678.htm" style=""><img height="378" src="/__local/1/C5/BE/709362964BB50AED45A7DE0FD26_468B2A4B_308DF.jpg" width="588"/></a>
+</div>
+<div class="panel">
+<a href="info/1022/2677.htm" style=""><img height="378" src="/__local/3/F7/C7/35CA075497F90AE27D549741F8E_A3F889EE_3085E.jpg" width="588"/></a>
+</div>
+<div class="panel">
+<a href="info/1022/2676.htm" style=""><img height="378" src="/__local/7/5B/34/CA7243B4BAC533D7E70F6362A4D_06ADB597_9BB3.jpg" width="588"/></a>
+</div>
+<ul class="filmstrip">
+<a href="info/1022/2696.htm" style=""><li><img height="139" src="/__local/1/4A/E9/F00B41ADA1ED875BEAC1D13DBC4_50B43D7F_11969.jpg" width="212"/></li></a>
+<a href="info/1022/2695.htm" style=""><li><img height="139" src="/__local/3/52/35/473C3E9613F58224CBDD69618E2_3C237B3B_1C989.jpg" width="212"/></li></a>
+<a href="info/1022/2694.htm" style=""><li><img height="139" src="/__local/5/F3/74/FCCE710FDF0B38C1E188508DDE3_D4316DE4_108EB.jpg" width="212"/></li></a>
+<a href="info/1022/2693.htm" style=""><li><img height="139" src="/__local/A/DE/E7/D5E17F3DA5067BEDDE3C1574607_D93081CA_725E8.jpg" width="212"/></li></a>
+<a href="info/1022/2692.htm" style=""><li><img height="139" src="/__local/0/C9/97/E6F32E628B9CD373433EC721CE9_6E46E610_E257.jpg" width="212"/></li></a>
+<a href="info/1022/2691.htm" style=""><li><img height="139" src="/__local/E/A8/FA/E4BB2870E28C88BEE55119D839B_8F285D12_DD52.jpg" width="212"/></li></a>
+<a href="info/1022/2690.htm" style=""><li><img height="139" src="/__local/9/AF/B8/9C354756C11C4D87BBE5252CBEB_CF2EE32E_EE42.jpg" width="212"/></li></a>
+<a href="info/1022/2678.htm" style=""><li><img height="139" src="/__local/1/C5/BE/709362964BB50AED45A7DE0FD26_468B2A4B_308DF.jpg" width="212"/></li></a>
+<a href="info/1022/2677.htm" style=""><li><img height="139" src="/__local/3/F7/C7/35CA075497F90AE27D549741F8E_A3F889EE_3085E.jpg" width="212"/></li></a>
+<a href="info/1022/2676.htm" style=""><li><img height="139" src="/__local/7/5B/34/CA7243B4BAC533D7E70F6362A4D_06ADB597_9BB3.jpg" width="212"/></li></a>
+</ul>
+</div><script>_showDynClickBatch(['dynclicks_u13_2696','dynclicks_u13_2695','dynclicks_u13_2694','dynclicks_u13_2693','dynclicks_u13_2692','dynclicks_u13_2691','dynclicks_u13_2690','dynclicks_u13_2678','dynclicks_u13_2677','dynclicks_u13_2676'],[2696,2695,2694,2693,2692,2691,2690,2678,2677,2676],"wbnews", 1424018464)</script>
+</div>
+</div>
+</div>
+</div>
+<div class="xqwhcp">
+<div class="xqwhcp1">
+<div class="xqwhzz fl">
+<h3>
+<a href="xqwhcp.htm"><img src="images/xqbtz.png"/></a>
+</h3>
+<div class="xqwhzw">
+<script language="javascript" src="/system/resource/js/news/mp4video.js"></script>
+<p>西迁精神是西安交大的精神财富和历史积淀。聚焦西迁珍贵历史史料、西迁人物故事和西迁精神的传承创新，西安交大出版了西迁精神系列图书，从亲历者、亲历者子女、历史研究者等不同角度出发，突出文化性、史料性、总结性、全面性，完整客观地再现了交大西迁那段波澜壮阔的伟大历史，记录了迁校后交大人砥砺前行的身影以及西安交大的发展变迁，将西迁情怀彪炳史册，千古流传。</p>
+</div>
+</div>
+<div class="xqwhyt fl">
+<ul class="dyy clearfix">
+<li>
+<a href="http://xq.xjtu.edu.cn/info/1061/2379.htm" onclick='_addDynClicks("wbimage", 1424018464, 40726)' target="_blank">
+<img src="images/IMG_4162.jpg"/>
+</a>
+</li>
+<li>
+<a href="http://xq.xjtu.edu.cn/info/1061/2380.htm" onclick='_addDynClicks("wbimage", 1424018464, 40725)' target="_blank">
+<img src="images/book2.jpg"/>
+</a>
+</li>
+<li>
+<a href="http://xq.xjtu.edu.cn/info/1061/2382.htm" onclick='_addDynClicks("wbimage", 1424018464, 40724)' target="_blank">
+<img src="images/book3.jpg"/>
+</a>
+</li>
+<li>
+<a href="http://xq.xjtu.edu.cn/info/1061/2383.htm" onclick='_addDynClicks("wbimage", 1424018464, 40723)' target="_blank">
+<img src="images/book4.jpg"/>
+</a>
+</li>
+</ul>
+<ul class="dey clearfix">
+<li>
+<a href="http://xq.xjtu.edu.cn/info/1061/2384.htm" onclick='_addDynClicks("wbimage", 1424018464, 40730)' target="_blank">
+<img src="images/book5.jpg"/>
+</a>
+</li>
+<li>
+<a href="info/1061/2869.htm" onclick='_addDynClicks("wbimage", 1424018464, 40729)' target="_blank">
+<img src="js/jtdxxq.png"/>
+</a>
+</li>
+<li>
+<a href="info/1061/2724.htm" onclick='_addDynClicks("wbimage", 1424018464, 40728)' target="_blank">
+<img src="images/img014.jpg"/>
+</a>
+</li>
+<li>
+<a href="info/1061/2870.htm" onclick='_addDynClicks("wbimage", 1424018464, 40727)' target="_blank">
+<img src="images/xqgs.png"/>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<!--main end-->
+<div class="pllj">
+<div class="pllj1">
+<div class="pltb"><img src="images/lyq-1.png"/> </div>
+<script language="JavaScript" src="/system/resource/message/validdata.js"></script>
+<script language="javascript" src="/system/resource/js/base64.js"></script>
+<script language="javascript" src="/system/resource/js/md5.js"></script>
+<script language="javascript" src="/system/resource/storage/service/storageservices.js"></script>
+<script language="javascript"> 
+    function sendmessage() 
+    {
+       
+     if(document.a198426a.wbcontent.value == "") 
+     { 
+         alert("请输入内容！"); 
+        return false; 
+     } 
+     if(document.a198426a.wbcontent.value.length >3900) 
+     { 
+         alert("留言内容应该在0-4000个字符"); 
+        return false; 
+     } 
+     document.a198426a.actiontype.value="savemessage";
+     document.a198426a.submit(); 
+    }
+</script>
+<div class="lyb">
+<div class="lyb1">
+<ul>
+<li>
+<div class="lybtx fl">
+<img src="images/rwtp.png">
+</img></div>
+<div class="lybtx1 fl">
+<span class="lybxm">匿名</span><span class="lybsj">2019-02-19 17:59:53</span>
+<p>西迁精神，铭记在心</p>
+</div>
+</li>
+<li>
+<div class="lybtx fl">
+<img src="images/rwtp1.png"/>
+</div>
+<div class="lybtx1 fl">
+<span class="lybxm">匿名</span><span class="lybsj">2019-02-15 22:13:39</span>
+<p>新疆也一样，感谢那个年代所有的开拓者们。</p>
+</div>
+</li>
+<li>
+<div class="lybtx fl">
+<img src="images/rwtp.png"/>
+</div>
+<div class="lybtx1 fl">
+<span class="lybxm">匿名</span><span class="lybsj">2019-02-15 16:07:15</span>
+<p>我们都是西迁精神传承人</p>
+</div>
+</li>
+<li>
+<div class="lybtx fl">
+<img src="images/rwtp1.png"/>
+</div>
+<div class="lybtx1 fl">
+<span class="lybxm">匿名</span><span class="lybsj">2019-02-14 15:36:47</span>
+<p>热爱交大，成就梦想！</p>
+</div>
+</li>
+<li>
+<div class="lybtx fl">
+<img src="images/rwtp.png"/>
+</div>
+<div class="lybtx1 fl">
+<span class="lybxm">匿名</span><span class="lybsj">2019-02-11 15:37:08</span>
+<p>爱国奋斗，建功立业！腾飞吧，交大！</p>
+</div>
+</li>
+<li>
+<div class="lybtx fl">
+<img src="images/rwtp1.png"/>
+</div>
+<div class="lybtx1 fl">
+<span class="lybxm">匿名</span><span class="lybsj">2019-01-11 09:53:37</span>
+<p>西迁精神深深印刻在每一代交大人的心中，流淌在每一个交大人的血液里，也是新一代西安交大人要弘扬和继承的优秀传统。</p>
+</div>
+</li>
+<li>
+<div class="lybtx fl">
+<img src="images/rwtp.png"/>
+</div>
+<div class="lybtx1 fl">
+<span class="lybxm">匿名</span><span class="lybsj">2019-01-11 09:53:15</span>
+<p>向西向远方，“党让我们去哪里，我们背上行囊就去哪里”，西迁精神凝聚着交大人的爱党报国，献身科学的家国情怀。</p>
+</div>
+</li>
+<li>
+<div class="lybtx fl">
+<img src="images/rwtp1.png"/>
+</div>
+<div class="lybtx1 fl">
+<span class="lybxm">匿名</span><span class="lybsj">2019-01-11 09:52:46</span>
+<p>西迁精神，不只是简单的16个字，而是西迁老前辈们的用自己的意志和行动为西部发展、国家发展贡献知识和热情的彰显。</p>
+</div>
+</li>
+<li>
+<div class="lybtx fl">
+<img src="images/rwtp.png"/>
+</div>
+<div class="lybtx1 fl">
+<span class="lybxm">匿名</span><span class="lybsj">2019-01-11 09:51:07</span>
+<p>“西迁人”舍小家为大家的无私奉献精神以及始终与党和国家的发展同向同行的家国情怀让我十分感动。西迁精神具体到个人就是从身边的小事做起，作为新时代的交大人，我们应该更应该有理想有担当，把西迁精神融入到自己的生活中学习中。</p>
+</div>
+</li>
+<li>
+<div class="lybtx fl">
+<img src="images/rwtp1.png"/>
+</div>
+<div class="lybtx1 fl">
+<span class="lybxm">匿名</span><span class="lybsj">2018-11-17 10:07:37</span>
+<p>胸怀大局  无私奉献  弘扬传统  艰苦创业</p>
+</div>
+</li>
+</ul>
+<div class="lybfy" style="text-align:center">
+<input id="b198426bactiontype" name="b198426bactiontype" type="hidden" value=""/><input name="b198426bo" type="hidden" value="desc"/><input name="b198426bk" type="hidden" value="wbdate"/>
+<style type="text/css">
+.headStyle3bcalgcgjp, .headStyle3bcalgcgjp td, .headStyle3bcalgcgjp div {font-size: 12px;font-family:宋体; color: #000000; margin-left: auto; margin-right: auto; line-height:14px;}
+.defaultButtonStyle {font-size: 12px;font-family:宋体; height:20px;color: #000000;BORDER: #AFD5F5 1px solid; margin: 0px;padding: 0px; FILTER:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#ffffff, EndColorStr=#BDDBF7);  CURSOR: pointer; line-height:14px;background:-webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#BDDBF7));background: -moz-linear-gradient( top,#ffffff,#BDDBF7);background:-ms-linear-gradient(top,#ffffff 0%,#bddbf7 100%)}
+.defaultinputStyle {font-size: 12px;font-family:宋体; height:20px; border:1px solid #AFD5F5; line-height:14px;}
+.colHeader {font-size: 12px;font-family:宋体; line-height:14px;}
+.headStyle3bcalgcgjp a, .pageList .this-page {font-size: 12px;font-family:宋体; display:inline-block; height:14px; padding: 2px 4px; border: solid 1px #AFD5F5; background: #fff; text-decoration: none; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle3bcalgcgjp a:visited {font-size: 12px;font-family:宋体; color: #000000; text-decoration: none; line-height:14px;}
+.headStyle3bcalgcgjp .PrevDisabled {font-size: 12px;font-family:宋体; display:inline-block;height:14px;  margin-right: 3px; padding: 2px 4px; background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyle3bcalgcgjp .SelectList {font-size: 12px;font-family:宋体;line-height:14px;}
+.headStyle3bcalgcgjp .Prev { font-size: 12px;font-family:宋体; margin-right: 3px; padding: 2px 4px;line-height:14px;}
+.headStyle3bcalgcgjp .break {font-size: 12px;font-family:宋体; border: none; text-decoration: none; line-height:14px;}
+.headStyle3bcalgcgjp .NextDisabled { font-size: 12px;font-family:宋体;display:inline-block; height:14px; margin-left: 2px; padding: 2px 4px;background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px; }
+.headStyle3bcalgcgjp .Next { font-size: 12px;font-family:宋体; margin-left: 2px; padding: 2px 4px;line-height:14px;}
+.headStyle3bcalgcgjp .this-page {font-size: 12px;font-family:宋体;display:inline-block;height:14px;padding: 2px 4px; border: solid 1px #AFD5F5; background: #E1F0FD; font-weight: bold; color:black; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle3bcalgcgjp a:hover {font-size: 12px;font-family:宋体;color: black; background: #EFF7FE; border-color: #AFD5F5; text-decoration: none;line-height:14px;}
+.headStyle3bcalgcgjp a:link {font-size: 12px;font-family:宋体;color: #000000; text-decoration: none;line-height:14px;}
+.headStyle3bcalgcgjp a:active { font-size: 12px;font-family:宋体;color: black; text-decoration: none; background: #EFF7FE; line-height:14px;}
+</style>
+<tr><td colspan="5"><table cellpadding="1" cellspacing="0" class="headStyle3bcalgcgjp" width="100%"><tr valign="middle"><td align="left" nowrap="" width="1%">共85条 <input name="b198426bfc" type="hidden" value="10"/> 1/9 </td><td align="left" nowrap=""><div><span class="PrevDisabled">上页</span><span class="this-page">1</span><a href="?b198426bt=9&amp;b198426bp=2&amp;b198426bc=10">2</a><a href="?b198426bt=9&amp;b198426bp=3&amp;b198426bc=10">3</a><a href="?b198426bt=9&amp;b198426bp=4&amp;b198426bc=10">4</a><a href="?b198426bt=9&amp;b198426bp=5&amp;b198426bc=10">5</a><a href="?b198426bt=9&amp;b198426bp=6&amp;b198426bc=10">6</a><span class="break">..</span><a href="?b198426bt=9&amp;b198426bp=9&amp;b198426bc=10">9</a><a class="Next" href="?b198426bt=9&amp;b198426bp=2&amp;b198426bc=10">下页</a></div></td><td align="right" nowrap=""></td></tr></table></td></tr>
+</div>
+<style>.prog-border{    height: 20px;    width: 205px;    background: #fff;    border: 1px solid #000;    margin: 0;    padding: 0;}.prog-bar{    height: 20px;    margin: 0px;    padding: 0px;    background: #99f273;    font-size: 10pt;    float:left;}</style>
+<iframe name="storagenode" src="about:blank" style="display: none; position: absolute; width: 0px; height: 0px"></iframe>
+<form action="" id="a198426a" method="post" name="a198426a" style="display: inline">
+<input id="wbmm" name="wbmm" type="hidden" value=""/>
+<input id="wbaccount" name="wbaccount" type="hidden" value=""/>
+<input name="actiontype" type="hidden" value=""/>
+<input id="wbuploadpath" name="wbuploadpath" type="hidden" value=""/>
+<input id="owner" name="owner" type="hidden" value="0"/><input id="token" name="token" type="hidden" value="4AD709863FD2439198C16430E61A1075"/><input id="params" name="params" type="hidden" value="eyJjb252ZXJ0cGFyYW1zIjpbeyJjb252ZXJ0VHlwZSI6ImltYWdldG90aHVtYiIsInBhcmFtcyI6eyJpbWdhdXRvcmVzaXplIjoidHJ1ZSIsImltZ2F1dG9yZXNpemV3aWR0aCI6IjEwMjQiLCJpbWdhdXRvcmVzaXplaGVpZ2h0IjoiNzY4IiwibGltaXR3aWR0aCI6IjIyMDAiLCJsaW1pdGhlaWdodCI6IjEwMDAwIiwiaW1ndGh1bWJ3aWR0aCI6IjY0MCIsImltZ3RodW1iaGVpZ2h0IjoiMTAwMDAwIiwibGltaXRmaWxlc2l6ZSI6IjEwNDg1NzYifX0seyJjb252ZXJ0VHlwZSI6ImltYWdldG9yZWR1Y2VxdWFsaXR5IiwicGFyYW1zIjp7ImltZ2F1dG9yZXNpemUiOiJ0cnVlIiwiaW1nYXV0b3Jlc2l6ZXdpZHRoIjoiMTAyNCIsImltZ2F1dG9yZXNpemVoZWlnaHQiOiI3NjgiLCJsaW1pdHdpZHRoIjoiMjIwMCIsImxpbWl0aGVpZ2h0IjoiMTAwMDAiLCJpbWd0aHVtYndpZHRoIjoiNjQwIiwiaW1ndGh1bWJoZWlnaHQiOiIxMDAwMDAiLCJsaW1pdGZpbGVzaXplIjoiMTA0ODU3NiJ9fV0sImFsbG93ZXh0cyI6ImpwZyxqcGVnLGdpZixwbmcsYm1wLGdpZixwbmcsZG9jLGRvY3gscHB0LHBwdHgsZXhjZWwseGxzLHhsc3gsYm1wLGpwZyxqcGVnLHppcCxyYXIiLCJ1cHRva2VuIjoiNEFENzA5ODYzRkQyNDM5MTk4QzE2NDMwRTYxQTEwNzUiLCJub2RlY29kZSI6ImxvY2FsIn0="/><input id="uploadfilejson" name="uploadfilejson" type="hidden" value=""/><input id="watermark" name="watermark" type="hidden" value=""/><input id="waterlocal" name="waterlocal" type="hidden" value=""/><input id="waterfilename" name="waterfilename" type="hidden" value=""/><input id="waterurl" name="waterurl" type="hidden" value=""/>
+<textarea class="lybwby" cols="" name="wbcontent" rows=""></textarea>
+<div class="lybfs">
+<span onclick="sendmessage()" style="cursor:pointer">发送</span>
+</div>
+</form></div>
+</div></div></div></div></body></html>
+
+<div class="yqlj">
+<div class="noticea"></div>
+<div class="news-list-conta">
+<ul class="news-lba" id="con_three_1">
+<div class="yqljs">
+<script language="javascript" src="/system/resource/js/openlink.js"></script><ul>
+<li><a href="http://www.xjtu.edu.cn" onclick='_addDynClicks("wburl", 1424018464, 40093)' target="_blank">西安交通大学</a></li>
+<li><a href="http://news.xjtu.edu.cn" onclick='_addDynClicks("wburl", 1424018464, 40094)' target="_blank">交大新闻网</a></li>
+<li><a href="http://58.206.125.28/xqg/index.html" onclick='_addDynClicks("wburl", 1424018464, 40156)' target="_blank">交通大学西迁历史纪念馆</a></li>
+<li><a href="http://paper.people.com.cn/rmrb/html/2018-01/27/nw.D110000renmrb_20180127_3-01.htm" onclick='_addDynClicks("wburl", 1424018464, 40157)' target="_blank">人民日报</a></li>
+<li><a href="http://www.xinhuanet.com/politics/2018-01/08/c_1122227119.htm" onclick='_addDynClicks("wburl", 1424018464, 40158)' target="_blank">新华社</a></li>
+<li><a href="http://tv.cctv.com/2018/01/18/VIDEpUQ2I7I60LVXfeEukJTr180118.shtml" onclick='_addDynClicks("wburl", 1424018464, 40159)' target="_blank">中央电视台</a></li>
+<li><a href="http://china.cnr.cn/news/20180109/t20180109_524091872.shtml" onclick='_addDynClicks("wburl", 1424018464, 40160)' target="_blank">中央人民广播电台</a></li>
+<li><a href="http://epaper.gmw.cn/gmrb/html/2018-01/09/nw.D110000gmrb_20180109_1-09.htm" onclick='_addDynClicks("wburl", 1424018464, 40161)' target="_blank">光明日报</a></li>
+<li><a href="http://paper.jyb.cn/zgjyb/html/2018-01/10/content_492802.htm?div=0" onclick='_addDynClicks("wburl", 1424018464, 40162)' target="_blank">中国教育报</a></li>
+<li><a href="http://www.zuzhirenshi.com/dianzibao/2018-01-19/1/ef7634c6-f1c3-4953-869e-38ff0bcd8188.htm?from=groupmessage&amp;isappinstalled=0" onclick='_addDynClicks("wburl", 1424018464, 40163)' target="_blank">中国组织人事报</a></li>
+<li><a href="http://news.xjtu.edu.cn/info/1014/87695.htm" onclick='_addDynClicks("wburl", 1424018464, 40164)' target="_blank">中国人才</a></li>
+<li><a href="http://epaper.rmzxb.com.cn/index.aspx?date=2018-02-08&amp;verOrder=09&amp;banzi=8&amp;paperType=rmzxb" onclick='_addDynClicks("wburl", 1424018464, 40165)' target="_blank">人民政协报</a></li>
+<li><a href="http://esb.sxdaily.com.cn/sxrb/20171217/html/page_02_content_000.htm" onclick='_addDynClicks("wburl", 1424018464, 40166)' target="_blank">陕西日报</a></li>
+<li><a href="http://news.cctv.com/2018/01/09/VIDEymtHWNrQQSADhcuppOE2180109.shtml" onclick='_addDynClicks("wburl", 1424018464, 40167)' target="_blank">陕西广播电视台</a></li>
+<li><a href="http://epaper.xiancn.com/newxarb/html/2018-01/24/content_313380.htm?div=-1" onclick='_addDynClicks("wburl", 1424018464, 40168)' target="_blank">西安日报</a></li>
+<li><a href="http://epaper.xiancn.com/newxawb/html/2018-01/24/content_313435.htm?div=-1" onclick='_addDynClicks("wburl", 1424018464, 40169)' target="_blank">西安晚报</a></li>
+<li><a href="http://www.sxdaily.com.cn/GB/161/1562/1960/index.html" onclick='_addDynClicks("wburl", 1424018464, 40170)' target="_blank">陕西传媒网</a></li>
+<li><a href="http://topic.xiancity.cn/cms_udf/2018/xqjs/index.shtml" onclick='_addDynClicks("wburl", 1424018464, 40176)' target="_blank">西安网</a></li>
+</ul>
+</div>
+</ul>
+<ul class="news-lba" id="con_three_2" style="display: none">
+<div class="yqljs"></div>
+</ul>
+</div>
+</div>
+
+
+<!--foot start-->
+<div class="foot">
+<div class="bq">
+<div class="bq1">
+<!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>地址：陕西省西安市咸宁西路28号 邮编：710049 主页建议意见</p><p>版权所有：西安交通大学 站点建设与维护： 网络信息中心 陕ICP备06008037号</p>
+</div>
+</div>
+</div>
+<!--foot end-->
+
+<div></div>
+<script src="js/commen.js"></script>
+<script>
+			jQuery("#fsD1").violin();
+		</script>
+
+

@@ -1,0 +1,168 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!-- saved from url=(0033)http://xjtunews.xjtu.edu.cn/xfjs/ -->
+<html><head><title>交大新闻网-学风建设专题网</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Powered By CMSware 2.7 Plus" name="description"/>
+<meta content="Powered By CMSware 2.7 Plus" name="keywords"/><link href="images/style.css" rel="stylesheet" type="text/css"/>
+<!--Announced by Visual SiteBuilder 9-->
+<link href="_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230697547545255564203030000 -->
+<link href="index.vsb.css" rel="stylesheet" type="text/css"/>
+<meta content="交大新闻网-学风建设专题网" name="keywords">
+<script src="system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1022112812)</script>
+</meta></link></head>
+<body>
+<div id="wrap">
+<div class="group" id="header">
+<div id="banner"></div>
+<div id="nav">
+<ul><!--#begineditable name="网站导航" viewid="42865" tagname="网站导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0"-->
+<li><a href="index.htm">首页</a></li>
+<li><a href="zywj.htm">重要文件</a></li>
+<li><a href="zdjs.htm">制度建设</a></li>
+<li><a href="xfdt.htm">学风动态</a></li>
+<li><a href="xfajt.htm">学风大家谈</a></li>
+<li><a href="jdxr.htm">交大学人</a></li>
+<li><a href="tszs.htm">他山之石</a></li>
+<!--#endeditable--></ul></div><!--/nav--></div><!--/header-->
+<hr/>
+<div class="body group"><!--  ---------------------------main------------------------------ -->
+<div id="main">
+<div class="main-style main-style1">
+<div class="title group">
+<h1><span>重要</span>文件</h1></div><!--#begineditable name="头条文章带摘要" viewid="42866" tagname="头条文章带摘要" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0"--><style>
+A.f42866:link{COLOR: #CC0000;}  
+A.f42866:visited{COLOR: #CC0000;}  
+A.f42866:active{COLOR: #CC0000;}  
+A.f42866:hover{COLOR: #CC0000;}  
+</style>
+<table cellpadding="0" cellspacing="10" class="winstyle42866" width="100%">
+<tr><td align="center" nowrap="">
+</td></tr>
+<tr>
+<td><span class="sumstyle42866">      </span>
+</td>
+</tr>
+</table><!--#endeditable-->
+<p style="text-align: right">
+<ul id="xuanxiang" style="border-top: 1px solid" type="disc"><!--#begineditable name="重要文件" viewid="42872" tagname="重要文件" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0"--><script language="javascript" src="system/resource/js/dynclicks.js"></script> <li><a href="info/1002/1113.htm" target="_blank">高等学校学术委员会规程</a></li>
+<li><a href="info/1002/1100.htm" target="_blank">国务院学位委员会 教育部关于加强学位与研究生教育...</a></li>
+<li><a href="info/1002/1103.htm" target="_blank">教育部关于深化高等学校科技评价改革的意见</a></li>
+<li><a href="info/1002/1001.htm" target="_blank">教育部关于切实加强和改进高等学校学风建设的实施意见</a></li>
+<li><a href="info/1002/1091.htm" target="_blank">教育部关于进一步加强高等学校基础研究工作的指导意见</a></li>
+<script>_showDynClickBatch(['dynclicks_u2_1113','dynclicks_u2_1100','dynclicks_u2_1103','dynclicks_u2_1001','dynclicks_u2_1091'],[1113,1100,1103,1001,1091],"wbnews", 1022112812)</script>
+<!--#endeditable--></ul>
+<p></p>
+<p style="text-align: right"><a href="zywj.htm">更多..</a></p></p></div><!--/main-spirit-->
+<div class="main-style main-style2">
+<div class="title group">
+<h1><span>制度</span>建设</h1></div>
+<ul id="xuanxiang"><!--#begineditable name="制度建设" viewid="42869" tagname="制度建设" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0"--> <li><a href="info/1003/1064.htm" target="_blank">关于印发《西安交通大学规范研究生学术行为实施办...</a></li>
+<li><a href="info/1003/1112.htm" target="_blank">西安交大学风建设年度报告</a></li>
+<li><a href="info/1003/1062.htm" target="_blank">关于进一步加强师德师风建设的实施意见</a></li>
+<li><a href="info/1003/1063.htm" target="_blank">西安交通大学“高校学风建设专项教育和治理行动（2...</a></li>
+<li><a href="info/1003/1037.htm" target="_blank">西安交通大学学术道德规范委员会章程</a></li>
+<li><a href="info/1003/1035.htm" target="_blank">关于开展科学道德和学风建设宣讲教育活动的实施方案</a></li>
+<script>_showDynClickBatch(['dynclicks_u3_1064','dynclicks_u3_1112','dynclicks_u3_1062','dynclicks_u3_1063','dynclicks_u3_1037','dynclicks_u3_1035'],[1064,1112,1062,1063,1037,1035],"wbnews", 1022112812)</script>
+<!--#endeditable--></ul>
+<p style="text-align: right"><a href="zdjs.htm">更多..</a></p></div><!--/teacher-stu-->
+<div class="main-style main-style3 group">
+<div class="title group">
+<h1>学风大家谈</h1></div>
+<ul id="xuanxiang"><!--#begineditable name="学风大家谈" viewid="42875" tagname="学风大家谈" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0"--> <li><a href="info/1005/1099.htm" target="_blank">南洋书院就学生学业情况和学风建设与电气、电信、...</a></li>
+<li><a href="info/1005/1019.htm" target="_blank">省级优秀学生干部、经济67班李娟：渗透进日常教育...</a></li>
+<li><a href="info/1005/1018.htm" target="_blank">学生会主席、建筑环境与设备工程61班王天成：教学...</a></li>
+<li><a href="info/1005/1016.htm" target="_blank">社团联合会副主席、社会71芦强：以积极进取的态度...</a></li>
+<li><a href="info/1005/1015.htm" target="_blank">硕753班王菲：建立激励机制比硬性规定要好得多</a></li>
+<li><a href="info/1005/1014.htm" target="_blank">硕733班汪瑞：学术道德建设要长期宣传</a></li>
+<li><a href="info/1005/1013.htm" target="_blank">社团联合会主席、工硕61班王帅：真正好的学风是大...</a></li>
+<li><a href="info/1005/1011.htm" target="_blank">彭康书院辅导员高彦：学风的核心问题是 “诚”</a></li>
+<li><a href="info/1005/1009.htm" target="_blank">全国模范教师、 全国师德先进个人冯博琴教授：积极...</a></li>
+<li><a href="info/1005/1007.htm" target="_blank">学生处处长徐文雄：坚持基本学术操守不动摇</a></li>
+<script>_showDynClickBatch(['dynclicks_u4_1099','dynclicks_u4_1019','dynclicks_u4_1018','dynclicks_u4_1016','dynclicks_u4_1015','dynclicks_u4_1014','dynclicks_u4_1013','dynclicks_u4_1011','dynclicks_u4_1009','dynclicks_u4_1007'],[1099,1019,1018,1016,1015,1014,1013,1011,1009,1007],"wbnews", 1022112812)</script>
+<!--#endeditable--></ul>
+<ul>
+<p style="text-align: right"><a href="xfdt.htm">更多..</a></p></ul>
+<div style="clear: right"></div></div><!--/move--></div><!--/main--><!--  ---------------------------end main------------------------------ --><!--  ---------------------------right------------------------------ -->
+<div id="secondary"><!-----------------------++++flash---------------->
+<div class="secondary-style secondary-style1"><!--#begineditable name="变换图片文章" viewid="42882" tagname="变换图片文章" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0"-->
+<link href="system/resource/style/component/news/list/imagechangenews.css" rel="stylesheet" type="text/css"/>
+<script language="javascript" src="system/resource/js/news/imagechangenews.js"></script><script language="JavaScript">
+var u_u5_icn = new ImageChangeNews("u_u5_", 514, 315, 4, 2.0, true, false, false, true);
+
+//初始化图片, 并启动定时
+function u_u5_init_img()
+{
+
+    u_u5_icn.addimg("\/_mediafile\/ztw\/2014\/04\/16\/_thumb\/2tovj5h1o2.jpg", "\/info\/1004\/1115.htm", "2014“艺术与科学的交汇”...", "");
+
+    u_u5_icn.addimg("\/_mediafile\/ztw\/2014\/02\/25\/_thumb\/1barx0ukzi.jpg", "\/info\/1004\/1120.htm", "西安交大国家自然科学基金...", "");
+
+    u_u5_icn.addimg("\/_mediafile\/ztw\/2014\/01\/15\/_thumb\/2gomf65ni7.jpg", "\/info\/1004\/1117.htm", "973计划青年科学家专题项目...", "");
+
+    u_u5_icn.changeimg(0);
+}
+</script><table border="0" cellpadding="0" cellspacing="0" style="padding:0px margin:0px;border:0px">
+<tr><td>
+<div style="OVERFLOW: hidden;height:315px;width:514px">
+<div align="center" id="u_u5_div" style="padding:0px;margin:0px;border:0px solid black;background-color:#000000;FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2.0,transition=23);height:315px;width:514px">
+<div id="u_u5_imgdiv" style="padding:0px;border:0px"><a id="u_u5_url" target="_blank"><img border="0" height="315" id="u_u5_pic" src="system/resource/images/space.gif" width="514"/></a></div>
+</div>
+<div style="filter:alpha(style=1,opacity=10,finishOpacity=80);width:514px;height:19px;text-align:right;top:-19px;position:relative;padding:0px;margin:0px;border:0px">
+<a ;="" class="imagechangenews_pnode" href="javascript:u_u5_icn.changeimg(0)" id="u_u5_selectNode0" target="_self">1</a><a ;="" class="imagechangenews_pnode" href="javascript:u_u5_icn.changeimg(1)" id="u_u5_selectNode1" target="_self">2</a><a ;="" class="imagechangenews_pnode" href="javascript:u_u5_icn.changeimg(2)" id="u_u5_selectNode2" target="_self">3</a>
+</div></div></td></tr>
+<tr><td height="25">
+<div align="center" style="overflow:hidden;text-overflow:ellipsis;height:25px;width:514px"><a class="titlestyle42882" id="u_u5_newstitle" target="_blank"></a></div>
+</td></tr>
+<div align="left" display="none" style="overflow:hidden;text-overflow:ellipsis;height:0px;width:514px;padding-left:2px;padding-right:2px"><a class="summarystyle42882" id="u_u5_newssummary" target="_blank"></a></div>
+</table><script language="JavaScript">u_u5_init_img();</script><!--#endeditable--></div><!--/flash--><!-----------------------end flash----------------><!-----------------------学校动态---------------->
+<div class="secondary-style secondary-style2">
+<div class="title group">
+<h1>学风动态</h1></div>
+<p style="text-align: right"><a href="http://xjtunews.xjtu.edu.cn/xfjs/xfdt/"><!--#begineditable name="学风动态" viewid="42907" tagname="学风动态" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0"--> <h2><a href="info/1004/1149.htm" target="_blank">科学道德和学风建设宣讲系列报告—邱爱慈院士报告会</a></h2>
+<p style="font-size:15px;color:#800000;text-indent:2em;border-bottom-width:1px;border-bottom-style:solid;padding-bottom:5px;line-height:150%"> <a class="i_detail" href="info/1004/1149.htm" target="_blank">[详细]</a>
+</p>
+<ul id="xuanxiang" style="margin-top:8px">
+<li><a href="info/1004/1125.htm" target="_blank">陈难先院士做客西安交大讲述“科学技术中的反问题”</a></li>
+</ul>
+<ul id="xuanxiang" style="margin-top:8px">
+<li><a href="info/1004/1114.htm" target="_blank">西安交大李树茁教授入选“万人计划”首批哲学社会科学领军人才</a></li>
+</ul>
+<ul id="xuanxiang" style="margin-top:8px">
+<li><a href="info/1004/1115.htm" target="_blank">2014“艺术与科学的交汇”西安交大专场音乐会举行</a></li>
+</ul>
+<ul id="xuanxiang" style="margin-top:8px">
+<li><a href="info/1004/1123.htm" target="_blank">核科学与技术学院退休教师80华诞庆典暨核科学与技术发展论坛举行</a></li>
+</ul>
+<script>_showDynClickBatch(['dynclicks_u6_1149','dynclicks_u6_1125','dynclicks_u6_1114','dynclicks_u6_1115','dynclicks_u6_1123'],[1149,1125,1114,1115,1123],"wbnews", 1022112812)</script>
+<!--#endeditable-->
+<p style="text-align: right"><a href="xfajt.htm">更多..</a></p></a></p></div><!-----------------------end 学校动态----------------><!-----------------------党史资料---------------->
+<div class="secondary-style3" style="margin-right: 7px">
+<div class="title group">
+<h1><span>交大</span>学人</h1></div>
+<ul id="xuanxiang"><!--#begineditable name="交大学人" viewid="42886" tagname="交大学人" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0"--> <li><a href="info/1006/1110.htm" target="_blank">学风建设优秀团队：何雅玲团队</a></li>
+<li><a href="info/1006/1109.htm" target="_blank">“学风建设优秀团队：李树茁团队</a></li>
+<li><a href="info/1006/1108.htm" target="_blank">交大学人：苏秦教授</a></li>
+<li><a href="info/1006/1107.htm" target="_blank">交大学人：郭雄教授</a></li>
+<li><a href="info/1006/1106.htm" target="_blank">罗先觉始终将人才培养放在首位</a></li>
+<script>_showDynClickBatch(['dynclicks_u7_1110','dynclicks_u7_1109','dynclicks_u7_1108','dynclicks_u7_1107','dynclicks_u7_1106'],[1110,1109,1108,1107,1106],"wbnews", 1022112812)</script>
+<!--#endeditable--></ul>
+<p style="text-align: right"><a href="jdxr.htm">更多..</a></p></div><!-----------------------end 党史资料----------------><!--  ---------------------------党旗飘飘------------------------------ -->
+<div class="secondary-style3" style="html: 220px">
+<div class="title group">
+<h1>他山之石</h1></div>
+<ul id="xuanxiang"><!--#begineditable name="他山之石" viewid="42887" tagname="他山之石" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0"--> <li><a href="info/1007/1090.htm" target="_blank">教育部关于学习贯彻李克强总理等...</a></li>
+<li><a href="info/1007/1089.htm" target="_blank">教育部关于全面深化课程改革</a></li>
+<li><a href="info/1007/1088.htm" target="_blank">教育部关于做好2014年全国硕士研...</a></li>
+<li><a href="info/1007/1087.htm" target="_blank">教育部关于印发《中国特色新型高校</a></li>
+<li><a href="info/1007/1086.htm" target="_blank">国务院教育督导委员会办公室关于...</a></li>
+<script>_showDynClickBatch(['dynclicks_u8_1090','dynclicks_u8_1089','dynclicks_u8_1088','dynclicks_u8_1087','dynclicks_u8_1086'],[1090,1089,1088,1087,1086],"wbnews", 1022112812)</script>
+<!--#endeditable--></ul>
+<p style="text-align: right"><a href="tszs.htm">更多..</a></p>
+<div style="clear: right"></div></div><!--  ---------------------------end 党旗飘飘------------------------------ --></div><!--  ---------------------------right------------------------------ --></div><!---------------------end group-------------------------->
+<div id="footer">
+<p></p></div><!--/footer--><!--#begineditable name="版权" viewid="42889" tagname="版权" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0"--><p align="center"><span style="white-space: normal;text-transform: none;word-spacing: 0px;float: none;color: rgb(0,0,0);text-align: center;font: 16px 宋体, 微软雅黑, 黑体;display: inline !important;letter-spacing: normal;text-indent: 0px;-webkit-text-stroke-width: 0px">西安交通大学学风建设专题网站 设计制作：</span><a href="http://www.52xjtu.com/" style="border-top: 0px;border-right: 0px;vertical-align: baseline;white-space: normal;border-bottom: 0px;text-transform: none;word-spacing: 0px;color: rgb(204,102,0);outline-width: medium;padding-bottom: 0px;text-align: center;padding-top: 0px;font: 16px 宋体, 微软雅黑, 黑体;outline-style: none;padding-left: 0px;text-decoration: none;margin: 0px;border-left: 0px;letter-spacing: normal;outline-color: invert;padding-right: 0px;background-color: transparent;text-indent: 0px;-webkit-text-stroke-width: 0px" target="_blank">腾飞工作室</a><br style="white-space: normal;text-transform: none;word-spacing: 0px;color: rgb(0,0,0);text-align: center;font: 16px 宋体, 微软雅黑, 黑体;letter-spacing: normal;text-indent: 0px;-webkit-text-stroke-width: 0px"/><span style="white-space: normal;text-transform: none;word-spacing: 0px;float: none;color: rgb(0,0,0);text-align: center;font: 16px 宋体, 微软雅黑, 黑体;display: inline !important;letter-spacing: normal;text-indent: 0px;-webkit-text-stroke-width: 0px">COPYRIGHT@2010-2011<span class="Apple-converted-space"> </span></span><a href="http://www.52xjtu.com/" style="border-top: 0px;border-right: 0px;vertical-align: baseline;white-space: normal;border-bottom: 0px;text-transform: none;word-spacing: 0px;color: rgb(204,102,0);outline-width: medium;padding-bottom: 0px;text-align: center;padding-top: 0px;font: 16px 宋体, 微软雅黑, 黑体;outline-style: none;padding-left: 0px;text-decoration: none;margin: 0px;border-left: 0px;letter-spacing: normal;outline-color: invert;padding-right: 0px;background-color: transparent;text-indent: 0px;-webkit-text-stroke-width: 0px" target="_blank">WWW.52XJTU.COM</a><span style="white-space: normal;text-transform: none;word-spacing: 0px;float: none;color: rgb(0,0,0);text-align: center;font: 16px 宋体, 微软雅黑, 黑体;display: inline !important;letter-spacing: normal;text-indent: 0px;-webkit-text-stroke-width: 0px"><span class="Apple-converted-space"> </span>ALL RIGHTS RESERVED</span></p><!--#endeditable--></div><!--/wrap--><!-- Published at 2013-10-13 00:57:20, Powered by CMSware 2.7 Plus -->
+</body></html>

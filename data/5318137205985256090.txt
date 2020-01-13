@@ -1,0 +1,724 @@
+<!DOCTYPE html>
+<html><head>
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" wraptent="IE=edge,chrome=1"/>
+<title>国际教育学院</title><meta content="国际教育学院" name="keywords">
+<link href="images/logo_cut.png" rel="shortcut icon"/>
+<link href="style/style.css" rel="stylesheet" type="text/css"/>
+<script src="js/jquery.js" type="text/javascript"></script>
+<script src="js/jquery.SuperSlide.js" type="text/javascript"></script>
+<style type="text/css">
+      .focusBox .hd{ width:100%;  position:absolute; z-index:1; bottom:0; left:0; height:30px; line-height:30px;}
+    .focusBox .hd ul{ text-align:right;}
+    .focusBox .hd ul li{ cursor:pointer; display:inline-block; *display:inline; zoom:1; width:9px; height:9px; margin:0 4px; 
+        background:url(images/dot.png) 0 -16px;
+        overflow:hidden;  filter:alpha(opacity=70);opacity:0.7;  vertical-align:top; line-height:9999px;}
+    .focusBox .hd ul .on{ background-position:0 0;}
+    .focusBox .timer{ position:absolute; z-index:1; left:0; bottom:0; height:4px; width:0; background:#000; filter:alpha(opacity=40);opacity:0.4; font-size:0; overflow:hidden;}
+    </style><!--Announced by Visual SiteBuilder 9-->
+<link href="_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307045120812 -->
+<link href="index.vsb.css" rel="stylesheet" type="text/css">
+<script src="/system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1002,'/index.jsp',-1,1553278648)</script>
+</link></link></meta></head>
+<body>
+<div style="top: 40%; right: 1%; display: none; position: fixed;">
+<table cellpadding="0" cellspacing="0" width="100%">
+<script language="javascript" src="/system/resource/js/news/mp4video.js"></script><script language="javascript" src="/system/resource/interview/js/flowplayer-3.2.8.min.js"></script>
+<tr>
+<td colspan="5">
+<div id="u0" style="display:none;width:300px;height:300px;">
+<script 300""="" name="_videourl" vheight="height=" vurl="/__local/E/FD/EB/12940C49541D0B2510B3B9DAF45_CA786ACD_144A7451.mp4?e=.mp4" vwidth="width=">showVsbVideo('/__local/E/FD/EB/12940C49541D0B2510B3B9DAF45_CA786ACD_144A7451.mp4?e=.mp4','height="300"','width="300"','','','false','id="MediaPlayeru0"');</script>
+</div>
+<div id="u0u0" style="cursor:pointer;width:300;height:300"><img height="300" onclick="doPlayVideou0()" src="/system/resource/images/com/news/medianews.jpg" title="点击播放视频" width="300"/></div></td></tr>
+</table>
+<script>
+function doPlayVideou0()                
+{
+	var isrm = "false";
+	var isflv = "false";
+    try             
+    {                
+        if(isrm=="true")                
+        {
+            document.getElementById("MediaPlayeru0").DoPlay();                
+        }else if(isflv=="true")
+        {
+            document.getElementById("MediaPlayeru0").Play();
+        }
+        else                
+        {
+			//document.getElementById("MediaPlayeru0").fp_play();
+            var userAgent = navigator.userAgent; //取得浏览器的userAgent字符串  
+            if(userAgent.indexOf("MSIE 6.0")>0||userAgent.indexOf("MSIE 7.0")>0||userAgent.indexOf("MSIE 8.0")>0){
+                document.getElementById("MediaPlayeru0").Play(); //ie8以及一下的版本目前还有问题，只能点两次播放
+            }else{
+               document.getElementById("MediaPlayeru0").play();
+            }
+        }      
+    }catch(e)             
+    {
+    }                      
+	document.getElementById("u0").style.display="inline";        
+	document.getElementById("u0u0").style.display="none";
+}
+
+</script> </div>
+<!--head-s-->
+<div class="head">
+<div class="wrap">
+<div class="top clearfix">
+<!--logo-s-->
+<div class="logo fl">
+<a href="index.htm" title="国际教育学院"><img src="images/logo-12-03_03.png"/></a>
+</div>
+<div class="top_right fr">
+<script language="javascript">
+function dosuba243902a()
+{
+    try{
+        var ua = navigator.userAgent.toLowerCase();
+        if(ua.indexOf("msie 8")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+        }else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+            if (document.all) 
+            {
+                window.external.addFavorite(document.location.href, document.title);
+            }else if(window.sidebar)
+            {
+                window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+            }
+            else
+            {
+                alert(hotKeysa243902a());
+            }
+        }
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa243902a() 
+{
+    var ua = navigator.userAgent.toLowerCase(); 
+    var str = "";    
+    var isWebkit = (ua.indexOf('webkit') != - 1); 
+    var isMac = (ua.indexOf('mac') != - 1);     
+    if (ua.indexOf('konqueror') != - 1) 
+    {  
+        str = 'CTRL + B'; // Konqueror   
+    } 
+    else if (window.home || isWebkit || isMac) 
+    {        
+        str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+    }
+    return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea243902a()
+{
+    var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+        }
+    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+    prefs.setCharPref('browser.startup.homepage',url);
+    }
+    else
+    {
+        alert("浏览器不支持自动设为首页，请手动设置");
+    }
+}
+</script>
+<ul class="clearfix">
+<li class="fl"><a href="javascript:setHomepagea243902a()" target="_blank">设为首页</a></li>
+<li class="fl">|</li>
+<li class="fl"><a href="#" onclick="javascript:dosuba243902a();" style="TEXT-DECORATION: none;" target="_blank">加入收藏</a></li>
+<li class="fl">|</li>
+<li class="fl"><a href="http://sie.xjtu.edu.cn/en/index.htm" target="_blank">English</a></li>
+<li class="fl">|</li>
+<li class="fl"><a href="ssjg.jsp?urltype=tree.TreeTempUrl+&amp;wbtreeid=1075" target="_blank"><img src="images/search.png"/> </a></li>
+</ul>
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script>
+<div class="login clearfix">
+<a class="login_txt fl" href="https://xjtu.17gz.org/member/login.do" onclick='_addDynClicks("wburl", 1553278648, 58010)' title="现在申请">现在申请</a>
+<a class="login_img fl" href="https://xjtu.17gz.org/member/login.do" onclick='_addDynClicks("wburl", 1553278648, 58010)' title="现在申请"><img src="images/login.jpg"/></a>
+</div>
+</div>
+</div>
+</div>
+<!--nav-s-->
+<div class="menu">
+<ul id="nav">
+<li class="mainlevel">
+<a href="index.htm" target="_blank">网站首页</a>
+</li>
+<li class="mainlevel">
+<a href="gywm1/xajtdx1/xxjj.htm" target="_blank">关于我们</a>
+<ul style="display: none;">
+<li>
+<a href="gywm1/xajtdx1/xxjj.htm" title="西安交通大学">西安交通大学</a>
+</li>
+<li>
+<a href="gywm1/gjjyxy1/xyjj.htm" title="国际教育学院">国际教育学院</a>
+</li>
+<li>
+<a href="gywm1/xyhj1.htm" title="校园环境">校园环境</a>
+</li>
+<li>
+<a href="gywm1/gdxa.htm" title="古都西安">古都西安</a>
+</li>
+</ul>
+</li>
+<li class="mainlevel">
+<a href="kzxy1/kyjs.htm" target="_blank">孔子学院</a>
+<ul style="display: none;">
+<li>
+<a href="kzxy1/kyjs.htm" title="孔院介绍">孔院介绍</a>
+</li>
+<li>
+<a href="kzxy1/lhxm.htm" title="来华项目">来华项目</a>
+</li>
+<li>
+<a href="kzxy1/rczp.htm" title="人才招聘">人才招聘</a>
+</li>
+</ul>
+</li>
+<li class="mainlevel">
+<a href="lhzb.htm" target="_blank">来华准备</a>
+<ul style="display: none;">
+<li>
+<a href="lhzb/qzsq.htm" title="签证申请">签证申请</a>
+</li>
+<li>
+<a href="lhzb/zsjs.htm" title="住宿介绍">住宿介绍</a>
+</li>
+<li>
+<a href="lhzb/yxfw.htm" title="银行服务">银行服务</a>
+</li>
+<li>
+<a href="lhzb/xdwj.htm" title="携带文件">携带文件</a>
+</li>
+<li>
+<a href="lhzb/xlwp.htm" title="行李物品">行李物品</a>
+</li>
+<li>
+<a href="lhzb/ddxx.htm" title="到达学校">到达学校</a>
+</li>
+<li>
+<a href="lhzb/flfg.htm" title="法律法规">法律法规</a>
+</li>
+</ul>
+</li>
+<li class="mainlevel">
+<a href="rxxz.htm" target="_blank">入学须知</a>
+<ul style="display: none;">
+<li>
+<a href="rxxz/lszsdj.htm" title="临时住宿登记">临时住宿登记</a>
+</li>
+<li>
+<a href="rxxz/zcbd.htm" title="注册报到">注册报到</a>
+</li>
+<li>
+<a href="rxxz/ylbx.htm" title="医疗保险">医疗保险</a>
+</li>
+<li>
+<a href="rxxz/fyjn.htm" title="费用缴纳">费用缴纳</a>
+</li>
+<li>
+<a href="rxxz/jlxksq.htm" title="居留许可申请">居留许可申请</a>
+</li>
+<li>
+<a href="rxxz/tjjlyz.htm" title="体检记录验证">体检记录验证</a>
+</li>
+</ul>
+</li>
+<li class="mainlevel">
+<a href="zxxx.htm" target="_blank">在校学习</a>
+<ul style="display: none;">
+<li>
+<a href="zxxx/xszy.htm" title="学术资源">学术资源</a>
+</li>
+<li>
+<a href="zxxx/xsst.htm" title="学生社团">学生社团</a>
+</li>
+<li>
+<a href="zxxx/jycy.htm" title="就业创业">就业创业</a>
+</li>
+<li>
+<a href="zxxx/zsgl.htm" title="住宿管理">住宿管理</a>
+</li>
+<li>
+<a href="zxxx/jyxx.htm" title="就医信息">就医信息</a>
+</li>
+<li>
+<a href="zxxx/xljk.htm" title="心理健康">心理健康</a>
+</li>
+<li>
+<a href="zxxx/dcxy.htm" title="多彩校园">多彩校园</a>
+</li>
+<li>
+<a href="zxxx/hyxx.htm" title="汉语学习">汉语学习</a>
+</li>
+<li>
+<a href="zxxx/lxssc1.htm" title="留学生手册">留学生手册</a>
+</li>
+</ul>
+</li>
+<li class="mainlevel">
+<a href="xyyd.htm" target="_blank">校友园地</a>
+<ul style="display: none;">
+<li>
+<a href="xyyd/xydj.htm" title="校友登记">校友登记</a>
+</li>
+<li>
+<a href="xyyd/xydt.htm" title="校友动态">校友动态</a>
+</li>
+</ul>
+</li>
+<li class="mainlevel">
+<a href="djgz1.htm" target="_blank">党建工作</a>
+<ul style="display: none;">
+<li>
+<a href="djgz1/zzjj.htm" title="组织简介">组织简介</a>
+</li>
+<li>
+<a href="djgz1/zbsh.htm" title="支部生活">支部生活</a>
+</li>
+<li>
+<a href="djgz1/xxyd.htm" title="学习园地">学习园地</a>
+</li>
+</ul>
+</li>
+<li class="mainlevel">
+<a href="sqxx.htm" target="_blank">申请信息</a>
+<ul style="display: none;">
+<li>
+<a href="sqxx/sqclxz.htm" title="申请材料下载">申请材料下载</a>
+</li>
+<li>
+<a href="sqxx/fyxx.htm" title="费用信息">费用信息</a>
+</li>
+<li>
+<a href="sqxx/dsxx.htm" title="导师信息">导师信息</a>
+</li>
+</ul>
+</li>
+</ul>
+<script type="text/javascript">
+                    $(document).ready(function() {
+
+                        $('li.mainlevel').mousemove(function() {
+                            $(this).find('ul').slideDown(300); //you can give it a speed
+                        });
+                        $('li.mainlevel').mouseleave(function() {
+                            $(this).find('ul').slideUp("fast");
+                        });
+
+                    });
+                </script>
+</div>
+</div>
+<!--head-o-->
+<!--focusBox-s-->
+<div class="focusBox">
+<ul class="pic">
+<li>
+<a href="http://sie.xjtu.edu.cn/info/1126/1257.htm" onclick='_addDynClicks("wbimage", 1553278648, 51124)' target="_blank" title=""><img src="images/1.png"/></a>
+</li>
+<li>
+<a href="info/1126/1260.htm" onclick='_addDynClicks("wbimage", 1553278648, 51123)' target="_blank" title=""><img src="images/19/05/23/10jmipe4gl/4.jpg"/></a>
+</li>
+<li>
+<a href="info/1126/1267.htm" onclick='_addDynClicks("wbimage", 1553278648, 51125)' target="_blank" title=""><img src="45.png"/></a>
+</li>
+<li>
+<a href="images/19/05/23/10jmipe4gl/3.jpg" onclick='_addDynClicks("wbimage", 1553278648, 51122)' target="_blank" title=""><img src="images/19/05/23/10jmipe4gl/3.jpg"/></a>
+</li>
+</ul>
+<div class="hd"><ul><li></li><li></li></ul></div>
+<div class="timer"></div><!-- 进度条 -->
+<!-- 下面是前/后按钮代码，如果不需要删除即可 -->
+<a class="prev" href="javascript:void(0)"></a>
+<a class="next" href="javascript:void(0)"></a>
+</div>
+<script type="text/javascript">
+              jQuery(".focusBox").slide({ titCell:".hd ul", mainCell:".pic", effect:"fold",  autoPlay:true, autoPage:true, trigger:"click",
+        mouseOverStop:false,/* 鼠标移到容器层继续播放*/
+        /* 控制进度条 */
+        startFun:function(){
+            var timer = jQuery(".focusBox .timer");
+            timer.stop(true,true).animate({ "width":"0%" },0).animate({ "width":"100%" },2500);
+        }
+    });
+        </script>
+<!--focusBox-o-->
+<!--row-s-->
+<div class="row">
+<!--medical-s-->
+<div class="activity wrap">
+<div class="title">
+<a href="zsxm.htm">招生项目</a>
+</div>
+<div class="medical_list">
+<ul class="clearfix">
+<li class="fl medical_item01">
+<img src="images/activity_icon_01.png"/><a href="zsxm/yxsz.htm" onclick='_addDynClicks("wbimage", 1553278648, 51126)' target="_blank" title="院系设置">院系设置</a>
+</li>
+<li class="fl medical_item02">
+<img src="images/activity_icon_03.png"/><a href="zsxm.htm" onclick='_addDynClicks("wbimage", 1553278648, 51127)' target="_blank" title="招生项目">招生项目</a>
+</li>
+<li class="fl medical_item03">
+<img src="images/activity_icon_7.png"/><a href="zsjz.htm" onclick='_addDynClicks("wbimage", 1553278648, 51128)' target="_blank" title="招生简章">招生简章</a>
+</li>
+<li class="fl medical_item04">
+<img src="images/activity_icon_5.png"/><a href="jxj1.htm" onclick='_addDynClicks("wbimage", 1553278648, 51129)' target="_blank" title="奖学金">奖学金</a>
+</li>
+<li class="fl medical_item05">
+<img src="images/activity_icon_8.png"/><a href="http://sie.xjtu.edu.cn/sqxx/fyxx.htm" onclick='_addDynClicks("wbimage", 1553278648, 51130)' target="_blank" title="费用信息">费用信息</a>
+</li>
+<li class="fl medical_item06">
+<img src="images/activity_icon_6.png"/><a href="sqxx/sqclxz.htm" onclick='_addDynClicks("wbimage", 1553278648, 51131)' target="_blank" title="资料下载">资料下载</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<!--row-o-->
+<!--row1-s-->
+<div class="row1">
+<!--news-s-->
+<div class="wrap clearfix">
+<div class="title">
+<a href="xwtz.htm">新闻通知</a>
+</div>
+<!--picScroll-left-s-->
+<div class="news fl">
+<div class="picScroll-left fr">
+<div class="hd">
+<a class="next"></a>
+<a class="prev"></a>
+</div>
+<div class="bd">
+<script language="javascript" src="/system/resource/js/ajax.js"></script><ul class="clearfix">
+<li class="fl">
+<div class="pic_img">
+<a href="info/1020/1138.htm" target="_blank" title="西安交大迎来2019级国际学生"><img class="change_img" src="/__local/A/71/C1/D08EE044EE3FB5274AF76765E3E_2D91F246_4C453.png"/></a>
+<div class="date">
+<span class="day">08</span>
+<span class="year">2019-09</span>
+</div>
+</div>
+<div class="pic_txt">
+<a href="info/1020/1138.htm" target="_blank" title="西安交大迎来2019级国际学生">西安交大迎来2019级国际学生</a>
+<p>9月3日起，来自全球77个国家和地区的国际学生新生步入西安交大，分别在兴庆、雁塔和创新港校...</p>
+<div class="more"><a href="info/1020/1138.htm" target="_blank" title="西安交大迎来2019级国际学生">MORE &gt;</a> </div>
+</div>
+</li>
+<li class="fl">
+<div class="pic_img">
+<a href="info/1020/1121.htm" target="_blank" title="国际教育学院汉语系组织集体备课 分享交流暑期参会信息"><img class="change_img" src="/__local/9/54/05/C1684515C8F8F0AD696B40B4059_3A8320F6_17113.png"/></a>
+<div class="date">
+<span class="day">03</span>
+<span class="year">2019-09</span>
+</div>
+</div>
+<div class="pic_txt">
+<a href="info/1020/1121.htm" target="_blank" title="国际教育学院汉语系组织集体备课 分享交流暑期参会信息">国际教育学院汉语系组织集体备课 分享交流暑期参会...</a>
+<p>8月31日上午，国际教育学院汉语系组织教师进行集体备课，布置新学期教学任务，部分教师介绍分...</p>
+<div class="more"><a href="info/1020/1121.htm" target="_blank" title="国际教育学院汉语系组织集体备课 分享交流暑期参会信息">MORE &gt;</a> </div>
+</div>
+</li>
+<li class="fl">
+<div class="pic_img">
+<a href="info/1021/1062.htm" target="_blank" title="关于2019年3-7月汉语水平考试的报名通知"><img class="change_img" src="/__local/C/11/2C/B61D6111BA81F7DA4DD590C3832_AF84286A_5700.png?e=.png"/></a>
+<div class="date">
+<span class="day">19</span>
+<span class="year">2019-02</span>
+</div>
+</div>
+<div class="pic_txt">
+<a href="info/1021/1062.htm" target="_blank" title="关于2019年3-7月汉语水平考试的报名通知">关于2019年3-7月汉语水平考试的报名通知</a>
+<p>汉语水平考试考生： 
+
+
+	西安交通大学汉语考试考点将于2019年3-7月举办HSK考试及HSKK考试，开...</p>
+<div class="more"><a href="info/1021/1062.htm" target="_blank" title="关于2019年3-7月汉语水平考试的报名通知">MORE &gt;</a> </div>
+</div>
+</li>
+</ul>
+<script>_showDynClickBatch(['dynclicks_u7_1138','dynclicks_u7_1121','dynclicks_u7_1062'],[1138,1121,1062],"wbnews", 1553278648)</script>
+</div>
+</div>
+<script type="text/javascript">
+                        jQuery(".picScroll-left").slide({
+                            titCell: ".hd ul",
+                            mainCell: ".bd ul",
+                            autoPage: true,
+                            effect: "leftLoop",
+                            autoPlay: true,
+                            vis: 1,
+                            trigger: "click"
+                        });
+                    </script>
+</div>
+<!--news_list-s-->
+<div class="news_list fl">
+<ul>
+<li class="clearfix">
+<span class="date fl">
+<span class="day">03</span>
+<span class="year">2020-01</span>
+</span>
+<span class="text fr">
+<a href="info/1020/1283.htm" target="_blank" title="西安交通大学留学生“迎新年•画中国”画展成功举办">西安交通大学留学生“迎新年•画中国”画展成功举办</a>
+<p>2019年12月31日晚，西安交通大学留学生“迎新年·画中国”画展在创新港图书馆三楼报告厅成功举办。本次画展吸引了来自泰国、伊朗、印度、巴基斯坦、尼泊尔等多...</p>
+</span>
+</li>
+<li class="clearfix">
+<span class="date fl">
+<span class="day">03</span>
+<span class="year">2020-01</span>
+</span>
+<span class="text fr">
+<a href="info/1020/1282.htm" target="_blank" title="国际教育学院赴西北工业大学调研留学生工作">国际教育学院赴西北工业大学调研留学生工作</a>
+<p>1月2日上午，国际教育学院常务副院长温广瑞一行赴西北工业大学国际教育学院调研留学生招生录取、管理培养以及预科中心管理等留学生相关工作。西北工业大学国...</p>
+</span>
+</li>
+<li class="clearfix">
+<span class="date fl">
+<span class="day">03</span>
+<span class="year">2020-01</span>
+</span>
+<span class="text fr">
+<a href="info/1020/1281.htm" target="_blank" title="国际教育学院赴能动学院交流调研留学生工作">国际教育学院赴能动学院交流调研留学生工作</a>
+<p>1月2日下午，国际教育学院常务副院长温广瑞一行前往能源与动力工程学院进行留学生工作交流调研。能动学院副院长田文喜、院长助理汤成龙以及外事秘书张丽娜参...</p>
+</span>
+</li>
+<li class="clearfix">
+<span class="date fl">
+<span class="day">02</span>
+<span class="year">2020-01</span>
+</span>
+<span class="text fr">
+<a href="info/1020/1272.htm" target="_blank" title="2020年西安交通大学留学生新年联欢会在创新港举行">2020年西安交通大学留学生新年联欢会在创新港举行</a>
+<p>2019年12月31日晚，西安交通大学国际教育学院2020年留学生新年联欢会在创新港图书馆三楼音乐教室举行。学院领导、辅导员老师和全体汉语老师、各年级留学生及...</p>
+</span>
+</li>
+</ul>
+<script>_showDynClickBatch(['dynclicks_u8_1283','dynclicks_u8_1282','dynclicks_u8_1281','dynclicks_u8_1272'],[1283,1282,1281,1272],"wbnews", 1553278648)</script>
+</div>
+</div>
+</div>
+<!--row1-o-->
+<!--row2-s-->
+<div class="row2 clearfix">
+<!--party-s-->
+<div class="clearfix container">
+<div class="title">
+<a href="djgz1.htm">党建工作</a>
+</div>
+<div class="party">
+<div class="hd">
+<a class="next"></a>
+<a class="prev"></a>
+</div>
+<div class="bd">
+<div class="ulWrap">
+<ul class="clearfix">
+<!-- 把每次滚动的n个li放到1个ul里面 -->
+<li class="fl">
+<div class="party_title clearfix">
+<span class="date fl">
+<span class="day">12</span>
+<span class="year">2019-09</span>
+</span>
+<a class="fr more" href="info/1012/1157.htm"></a>
+</div>
+<div class="party_txt">
+<a href="info/1012/1157.htm" target="_blank" title="习近平：牢记初心使命，推进自我革命">习近平：牢记初心使命，推进自我革命</a>
+<p>在“不忘初心、牢记使命”主题教育深入开展之际，今天，中央政治局以“牢记初心使命，推进自我革命”为题进行第十...</p>
+</div>
+</li>
+<li class="fl">
+<div class="party_title clearfix">
+<span class="date fl">
+<span class="day">12</span>
+<span class="year">2019-09</span>
+</span>
+<a class="fr more" href="info/1012/1156.htm"></a>
+</div>
+<div class="party_txt">
+<a href="info/1012/1156.htm" target="_blank" title="习近平：牢记初心使命，推进自我革命">习近平：牢记初心使命，推进自我革命</a>
+<p>在“不忘初心、牢记使命”主题教育深入开展之际，今天，中央政治局以“牢记初心使命，推进自我革命”为题进行第十...</p>
+</div>
+</li>
+<li class="fl">
+<div class="party_title clearfix">
+<span class="date fl">
+<span class="day">12</span>
+<span class="year">2019-09</span>
+</span>
+<a class="fr more" href="info/1012/1155.htm"></a>
+</div>
+<div class="party_txt">
+<a href="info/1012/1155.htm" target="_blank" title="习近平在第二届“一带一路”国际合作高峰论坛开幕式上的主旨演讲（全文）">习近平在第二届“一带一路”国际合作高峰论坛开幕式上的主旨演讲（全文）</a>
+<p>齐心开创共建“一带一路”美好未来——在第二届“一带一路”国际合作高峰论坛开幕式上的主旨演讲（2019年4月26日，...</p>
+</div>
+</li>
+</ul>
+<ul class="clearfix">
+<!-- 把每次滚动的n个li放到1个ul里面 -->
+<li class="fl">
+<div class="party_title clearfix">
+<span class="date fl">
+<span class="day">12</span>
+<span class="year">2019-09</span>
+</span>
+<a class="fr more" href="info/1012/1154.htm"></a>
+</div>
+<div class="party_txt">
+<a href="info/1012/1154.htm" target="_blank" title="2018年来华留学统计">2018年来华留学统计</a>
+<p>据统计，2018年共有来自196个国家和地区的492,185 名各类外国留学人员在全国31个省（区、市）的1004所高等院校学习...</p>
+</div>
+</li>
+<li class="fl">
+<div class="party_title clearfix">
+<span class="date fl">
+<span class="day">12</span>
+<span class="year">2019-09</span>
+</span>
+<a class="fr more" href="info/1012/1153.htm"></a>
+</div>
+<div class="party_txt">
+<a href="info/1012/1153.htm" target="_blank" title="中国共产党党务公开条例（试行）">中国共产党党务公开条例（试行）</a>
+<p>第一章 总则第一条 为了贯彻落实党的十九大精神，推动全面从严治党向纵深发展，加强和规范党务公开工作，发展党内...</p>
+</div>
+</li>
+<li class="fl">
+<div class="party_title clearfix">
+<span class="date fl">
+<span class="day">12</span>
+<span class="year">2019-09</span>
+</span>
+<a class="fr more" href="info/1012/1152.htm"></a>
+</div>
+<div class="party_txt">
+<a href="info/1012/1152.htm" target="_blank" title="中国共产党纪律处分条例">中国共产党纪律处分条例</a>
+<p>第一编 总则第一章 指导思想、原则和适用范围第一条 为了维护党章和其他党内法规，严肃党的纪律，纯洁党的组织，保...</p>
+</div>
+</li>
+</ul>
+<ul class="clearfix">
+<!-- 把每次滚动的n个li放到1个ul里面 -->
+<li class="fl">
+<div class="party_title clearfix">
+<span class="date fl">
+<span class="day">12</span>
+<span class="year">2019-09</span>
+</span>
+<a class="fr more" href="info/1012/1151.htm"></a>
+</div>
+<div class="party_txt">
+<a href="info/1012/1151.htm" target="_blank" title="中共中央印发《中国共产党支部工作条例（试行）》">中共中央印发《中国共产党支部工作条例（试行）》</a>
+<p>新华社北京11月25日电 近日，中共中央印发了《中国共产党支部工作条例（试行）》（以下简称《条例》），并发出通知...</p>
+</div>
+</li>
+<li class="fl">
+<div class="party_title clearfix">
+<span class="date fl">
+<span class="day">12</span>
+<span class="year">2019-09</span>
+</span>
+<a class="fr more" href="info/1012/1150.htm"></a>
+</div>
+<div class="party_txt">
+<a href="info/1012/1150.htm" target="_blank" title="中共中央印发《中国共产党党员教育管理工作条例》">中共中央印发《中国共产党党员教育管理工作条例》</a>
+<p>近日，中共中央印发了《中国共产党党员教育管理工作条例》（以下简称《条例》），并发出通知，要求各地区各部门认...</p>
+</div>
+</li>
+<li class="fl">
+<div class="party_title clearfix">
+<span class="date fl">
+<span class="day">12</span>
+<span class="year">2019-09</span>
+</span>
+<a class="fr more" href="info/1012/1149.htm"></a>
+</div>
+<div class="party_txt">
+<a href="info/1012/1149.htm" target="_blank" title="习近平在中央党校（国家行政学院）中青年干部培训班开班式上发表重要讲话">习近平在中央党校（国家行政学院）中青年干部培训班开班式上发表重要讲话</a>
+<p>习近平在中央党校（国家行政学院）中青年干部培训班开班式上发表重要讲话强调在常学常新中加强理论修养 在知行合一...</p>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<script type="text/javascript">
+                        jQuery(".party").slide({
+                            titCell: ".hd ul",
+                            mainCell: ".bd .ulWrap",
+                            autoPage: true,
+                            effect: "leftLoop",
+                            vis: 1,
+                            autoPlay: true
+                        });
+                    </script>
+</div><script>_showDynClickBatch(['dynclicks_u9_1157','dynclicks_u9_1156','dynclicks_u9_1155','dynclicks_u9_1154','dynclicks_u9_1153','dynclicks_u9_1152','dynclicks_u9_1151','dynclicks_u9_1150','dynclicks_u9_1149'],[1157,1156,1155,1154,1153,1152,1151,1150,1149],"wbnews", 1553278648)</script>
+</div>
+</div>
+<!--row2-o-->
+<!--link-s-->
+<div class="link_bg">
+<div class="wrap clearfix">
+<div class="link_title fl">
+<a>相关链接</a>
+</div>
+<div class="link fr">
+<ul class="clearfix">
+<li class="fl"><a href="http://www.jbeta.net/" onclick='_addDynClicks("wburl", 1553278648, 58002)' title="">教育部</a><i></i></li>
+<li class="fl"><a href="http://www.fmprc.gov.cn/web/" onclick='_addDynClicks("wburl", 1553278648, 58003)' title="">外交部</a><i></i></li>
+<li class="fl"><a href="http://www.csc.edu.cn/Laihua/index.aspx" onclick='_addDynClicks("wburl", 1553278648, 58004)' title="">国家留学基金委</a><i></i></li>
+<li class="fl" style="margin-right: 0"><a href="http://www.hanban.org/" onclick='_addDynClicks("wburl", 1553278648, 58005)' title="">国家汉办</a><i></i></li>
+<li class="fl"><a href="http://www.xjtu.edu.cn/" onclick='_addDynClicks("wburl", 1553278648, 58006)' title="">西安交通大学</a><i></i></li>
+<li class="fl"><a href="http://www.xjtu.edu.cn/xysh/xywh.htm" onclick='_addDynClicks("wburl", 1553278648, 58007)' title="">学生社团</a><i></i></li>
+<li class="fl"><a href="http://meeting.xjtu.edu.cn/" onclick='_addDynClicks("wburl", 1553278648, 58008)' title="">学术讲座</a><i></i></li>
+<li class="fl" style=" margin-right: 0;"><a href="http://www.lib.xjtu.edu.cn/" onclick='_addDynClicks("wburl", 1553278648, 58009)' title="">图书馆</a><i></i></li>
+</ul>
+</div>
+</div>
+</div>
+<!--link-o-->
+<!--footer-s-->
+<div class="footer">
+<div class="wrap clearfix">
+<div class="foot-logo fl">
+<img src="images/foot_logo.png"/>
+</div>
+<!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<div class="copyright fl"><p>版权所有：西安交通大学国际教育学院 设计制作：网络信息中心 网站维护联系人：马腾 电话：82668812</p><p>地址：西安市咸宁西路28号交通大学 邮编710049</p></div>
+<div class="foot_img fr">
+<ul class="clearfix">
+<li class="fl"><a href="" onclick='_addDynClicks("wbimage", 1553278648, 51133)' target="_blank" title=""><img src="images/twitter.png"/></a></li>
+<li class="fl"><a href="" onclick='_addDynClicks("wbimage", 1553278648, 51134)' target="_blank" title=""><img src="images/facebook.png"/></a></li>
+</ul>
+</div>
+</div>
+</div>
+<!--footer-o-->
+</body></html>

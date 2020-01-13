@@ -1,0 +1,732 @@
+<!DOCTYPE html>
+<html lang="en"><head><title>西安交大智慧党建平台</title><meta content="西安交大智慧党建平台" name="keywords"/>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="index,follow" name="robots"/>
+<meta content="" name="description"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/><link href="css/gb_reset.css" rel="stylesheet"/><link href="css/gb_style.css" rel="stylesheet"/><script src="js/jquery.js" type="text/javascript"></script><script src="js/SuperSlide.js" type="text/javascript"></script><script src="js/pub.js" type="text/javascript"></script>
+<!--Announced by Visual SiteBuilder 9-->
+<link href="_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230697547545257544003060005 -->
+<link href="index.vsb.css" rel="stylesheet" type="text/css">
+<script src="/system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1411356874)</script>
+</link></link></head>
+<body><!-- header start -->
+<div class="headtop"><!--#begineditable name="中英文链接列表" viewid="212820" tagname="中英文链接列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script><div class="zywdiv">
+<ul class="zyw">
+<li>
+<a href="index.htm" onclick='_addDynClicks("wburl", 1411356874, 43400)' title="">中文版</a>
+<a href="english/index.htm" onclick='_addDynClicks("wburl", 1411356874, 43401)' title="">English</a>
+</li>
+</ul>
+</div><!--#endeditable--></div><!-- banner --><!-- menu -->
+<div class="menu clearfix" style="height: 50px !important">
+<div class="container clearfix">
+<div class="nav clearfix"><!--#begineditable name="网站导航" viewid="191871" tagname="网站导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><ul id="nav">
+<li class="mainlevel"><a class="cur" href="index.htm">首页</a>
+</li>
+<li class="mainlevel"><a href="bmgk/bmjj.htm">党委组织部</a>
+</li>
+<li class="mainlevel"><a href="djgz1.htm">党建工作</a>
+</li>
+<li class="mainlevel"><a href="gbgz1.htm">干部工作</a>
+</li>
+<li class="mainlevel"><a href="jypx.htm">教育培训</a>
+</li>
+<li class="mainlevel"><a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1095">通知公告</a>
+</li>
+<li class="mainlevel"><a href="llxx/xjpjjwmdzh1.htm">理论学习</a>
+</li>
+<li class="mainlevel"><a href="bszn/gbxg.htm">办事指南</a>
+</li>
+<li class="mainlevel nobd"><a href="zthd.htm">专题活动</a>
+</li>
+</ul>
+<script type="text/javascript">
+$(document).ready(function(){
+  
+  $('li.mainlevel').mousemove(function(){
+  $(this).find('ul').slideDown();//you can give it a speed
+  });
+  $('li.mainlevel').mouseleave(function(){
+  $(this).find('ul').slideUp("fast");
+  });
+  
+});
+</script> <!--#endeditable--></div>
+<div class="search clearfix"><!--#begineditable name="全文检索" viewid="191882" tagname="全文检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode191882').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword191882").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword191882").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword191882").value = base64.encode(document.getElementById("lucenenewssearchkeyword191882").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode191882"));
+        return true;
+    } 
+</script>
+<form action="ssjg.jsp?wbtreeid=1001" id="au2a" method="post" name="au2a" onsubmit="return _nl_ys_check()" style="display: inline">
+<input id="lucenenewssearchkeyword191882" name="lucenenewssearchkeyword" type="hidden" value=""/><input id="_lucenesearchtype191882" name="_lucenesearchtype" type="hidden" value="1"/><input id="searchScope191882" name="searchScope" type="hidden" value="0"/>
+<input class="s-text" id="showkeycode191882" name="showkeycode" onblur="if (value ==''){value='请输入关键字'}" onfocus="if (value =='请输入关键字'){value =''}" value="请输入关键字"/>
+<input align="absmiddle" src="images/i_22right.png" style="cursor: hand; display: block;width: 35px;height: 34px;border:none;background: transparent;cursor: pointer;float:right;" type="image"/>
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable--></div></div></div><!-- menu -->
+<div class="bannerCon">
+<div class="container">
+<div class="syhead" style="padding-top: 20px">
+<div class="logo"><!--#begineditable name="LOGO" viewid="191881" tagname="LOGO" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="" title="智慧党建平台"><img alt="智慧党建平台" border="0" height="37" src="images/i_03.png" title="智慧党建平台" width="323"/></a><!--#endeditable--></div>
+<div class="headlinks"><span></span>
+<ul class="clearfix"><!--#begineditable name="top链接" viewid="191887" tagname="top链接" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><li><a href="http://vpn.sncenter.cn">全国党员管理信息系统</a></li>
+<li><a href="http://xjtudj.edu.cn/">党建学习平台</a></li>
+<li><a href="http://zzglxt.xjtu.edu.cn/partymis/login">组织管理系统</a></li>
+<li class="nor"><a href="http://gbgz.xjtu.edu.cn/">干部信息管理系统</a></li>
+<!--#endeditable--></ul></div></div></div>
+<div class="indexbanner slideBox">
+<div class="bd"><!--#begineditable name="banner变幻图" viewid="191900" tagname="banner变幻图" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--> <ul>
+<li><a href="info/1074/7450.htm" onclick='_addDynClicks("wbimage", 1411356874, 45241)'><img src="images/20191022.jpg"/></a></li>
+<li><a href="http://qz70.xjtu.edu.cn" onclick='_addDynClicks("wbimage", 1411356874, 41287)'><img src="images/500-20190927083222.jpg"/></a></li>
+<li><a href="zthd/bwcx_ljsm.htm" onclick='_addDynClicks("wbimage", 1411356874, 45111)'><img src="images/20190921-3.jpg"/></a></li>
+<li><a href="info/1074/6629.htm" onclick='_addDynClicks("wbimage", 1411356874, 44524)'><img src="images/20181229wangzhan.jpg"/></a></li>
+</ul><!--#endeditable--></div><!-- 前后按钮 --><a class="prev" href="javascript:void(0)"></a><a class="next" href="javascript:void(0)" onfocus="undefined"></a></div><script type="text/javascript">
+            jQuery(".slideBox").slide({mainCell:".bd ul",autoPlay:true,delayTime:1000,interTime:4000});
+        </script></div><!-- 党建动态 -->
+<div class="party">
+<div class="container"><!--#begineditable name="党建动态" viewid="191888" tagname="党建动态" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="party-tit clearfix">
+<h1>党建动态</h1>
+<a href="djgz1.htm" title="更多"></a>
+</div>
+<div class="partycon">
+<div class="bd">
+<ul>
+<li>
+<a href="info/1074/7541.htm">
+<div class="party-pic">
+<img src="/__local/9/8C/EF/7C5E429BD1540ED489349184531_02EEFA7A_17243.jpg" style="width: 293px;height: 220px;"/>
+</div>
+<div class="party-text">
+<div class="party-time">
+<span class="t1">01-09</span>
+<span class="t2">2020</span>
+</div>
+<h2>西安交大新增4个单位入选高校...</h2>
+<p>
+                                        近日，教育部公布第二批全国党建工作示范高校、标杆院系、样板支部培育创建单位名单，西安交通大学大学生党委入选“全国党建工作标杆院系”培育创...
+                                    </p>
+</div>
+</a>
+</li>
+<li>
+<a href="info/1074/7509.htm">
+<div class="party-pic">
+<img src="/__local/B/86/65/223F631F9BD283B8F0AF47258DA_198FC8B1_159C0.jpg" style="width: 293px;height: 220px;"/>
+</div>
+<div class="party-text">
+<div class="party-time">
+<span class="t1">12-12</span>
+<span class="t2">2019</span>
+</div>
+<h2>张迈曾书记参加党支部发展青...</h2>
+<p>
+                                        12月11日下午，理学院党委大学物理实验物理党支部在仲英楼召开张磊教授入党发展会，校党委书记张迈曾作为学校层面发展联系人出席发展会。党委组织...
+                                    </p>
+</div>
+</a>
+</li>
+<li>
+<a href="info/1074/7492.htm">
+<div class="party-pic">
+<img src="/__local/6/01/04/4E623CC00837C2D4610403DCB42_C2AC30CE_26981.png" style="width: 293px;height: 220px;"/>
+</div>
+<div class="party-text">
+<div class="party-time">
+<span class="t1">11-21</span>
+<span class="t2">2019</span>
+</div>
+<h2>西安交大召开校内挂职干部集...</h2>
+<p>
+                                        11月20日上午，校党委组织部召开本学期第五批校内挂职干部集中宣布会，对赴校内职能部处挂职的5名同志进行了任职宣布，参会挂职干部进行了表态发言...
+                                    </p>
+</div>
+</a>
+</li>
+<li>
+<a href="info/1074/7494.htm">
+<div class="party-pic">
+<img src="/__local/B/2B/84/EBB16C30E969B84C8154D500F58_CAD74E7B_3B47D.jpg" style="width: 293px;height: 220px;"/>
+</div>
+<div class="party-text">
+<div class="party-time">
+<span class="t1">11-20</span>
+<span class="t2">2019</span>
+</div>
+<h2>省委宣讲团党的十九届四中全...</h2>
+<p>
+                                        11月19日，省委宣讲团党的十九届四中全会精神报告会在西安交通大学举行，十九届中央候补委员、中国科学院院士、省委宣讲团成员、西安交通大学教授...
+                                    </p>
+</div>
+</a>
+</li>
+<li>
+<a href="info/1074/7450.htm">
+<div class="party-pic">
+<img src="/__local/5/EA/EC/0E9D9F0239C1C6CE8834DDB22AE_0BC5CEBC_18B5E.jpg" style="width: 293px;height: 220px;"/>
+</div>
+<div class="party-text">
+<div class="party-time">
+<span class="t1">10-22</span>
+<span class="t2">2019</span>
+</div>
+<h2>西安交大党委：高举集体主义...</h2>
+<p>
+                                        在恢弘的历史长河中，个人都是渺小的，但涓滴入流能够汇聚出历史的惊涛骇浪；在偌大的世界舞台中，个人都是平凡的，但聚沙成塔能够演绎出时代的华...
+                                    </p>
+</div>
+</a>
+</li>
+<li>
+<a href="info/1021/7426.htm">
+<div class="party-pic">
+<img src="/__local/9/AB/7D/C0BD24B8B1BE9C63C025E948EC5_CED5CEC2_1FA608.jpg" style="width: 293px;height: 220px;"/>
+</div>
+<div class="party-text">
+<div class="party-time">
+<span class="t1">09-29</span>
+<span class="t2">2019</span>
+</div>
+<h2>习近平：在国家勋章和国家荣...</h2>
+<p>
+                                        在国家勋章和国家荣誉称号颁授仪式上的讲话（2019年9月29日）习近平​同志们，朋友们：　　今天，在全国各族人民共同庆祝中华人民共和国成立70周年...
+                                    </p>
+</div>
+</a>
+</li>
+</ul>
+</div><div class="clearfix"></div>
+<div class="hd">
+<ul>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+</div>
+<script type="text/javascript">
+                    jQuery(".partycon").slide({titCell:".hd ul",mainCell:".bd ul",autoPlay:true,autoPage:true,effect:"left",vis:4});
+                </script>
+</div><script>_showDynClickBatch(['dynclicks_u6_7541','dynclicks_u6_7509','dynclicks_u6_7492','dynclicks_u6_7494','dynclicks_u6_7450','dynclicks_u6_7426'],[7541,7509,7492,7494,7450,7426],"wbnews", 1411356874)</script>
+<!--#endeditable--></div></div>
+<div class="clearfix"></div>
+<div class="sy-new">
+<div class="container"><!--#begineditable name="网站导航2" viewid="191899" tagname="网站导航2" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="sy-new-tit clearfix" style="width:1000px; margin-left:auto; margin-right:auto;">
+<a class="on" href="djgz1/zyjs.htm">
+<div class="sy0new-icon">
+<img alt="" class="n1" src="images/d_03.png"/> <img alt="" class="n2" src="images/index_03.png"/> </div>
+<p>中央精神</p></a>
+<a href="djgz1/jddt.htm">
+<div class="sy0new-icon">
+<img alt="" class="n1" src="images/d_05.png"/> <img alt="" class="n2" src="images/index_05.png"/> </div>
+<p>交大动态</p></a>
+<a href="&lt;span style='color:red;font-size:9pt'&gt;转换链接错误&lt;/span&gt;">
+<div class="sy0new-icon">
+<img alt="" class="n1" src="images/d_09.png"/> <img alt="" class="n2" src="images/index_09.png"/> </div>
+<p>基层声音</p></a>
+<a class="noer" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1095">
+<div class="sy0new-icon">
+<img alt="" class="n1" src="images/d_07.png"/>
+<img alt="" class="n2" src="images/index_07.png"/>
+</div>
+<p>通知公告</p>
+</a>
+</div><!--#endeditable--></div>
+<div class="sy-new-tab">
+<div class="container cg">
+<div class="sy-new-team" style="display: block"><!--#begineditable name="中央精神" viewid="191889" tagname="中央精神" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><ul class="clearfix" style="height:429px;">
+<li class="fl"><a class="clearfix" href="info/1021/7426.htm">
+<div class="newt"><span>09-29</span>
+<p>2019</p></div>
+<div class="newtext">
+<h3>习近平：在国家勋章和国家荣誉称号颁授仪式上的讲话 </h3>
+<div class="newtcon">在国家勋章和国家荣誉称号颁授仪式上的讲话（2019年9月29日）习近平​同志们，朋友们：　　今天，在全国各族人民共同庆祝中华... </div></div></a>
+<li class="fr"><a class="clearfix" href="info/1021/7420.htm">
+<div class="newt"><span>09-25</span>
+<p>2019</p></div>
+<div class="newtext">
+<h3>习近平主持召开中共中央政治局会议 </h3>
+<div class="newtcon">中共中央政治局召开会议审议《新时代爱国主义教育实施纲要》和《中国共产党党校（行政学院）工作条例》中共中央总书记习近平... </div></div></a>
+<li class="fl"><a class="clearfix" href="info/1021/7421.htm">
+<div class="newt"><span>09-24</span>
+<p>2019</p></div>
+<div class="newtext">
+<h3>习近平参观庆祝中华人民共和国成立70周年大型成... </h3>
+<div class="newtcon">习近平在参观“伟大历程 辉煌成就——庆祝中华人民共和国成立70周年大型成就展”时强调 高举旗帜团结一致锐意进取 为夺取新时... </div></div></a>
+<li class="fr"><a class="clearfix" href="info/1021/7258.htm">
+<div class="newt"><span>07-18</span>
+<p>2019</p></div>
+<div class="newtext">
+<h3>中央“不忘初心、牢记使命”主题教育领导小组对... </h3>
+<div class="newtcon">（来源：“不忘初心、牢记使命”主题教育官方网站） </div></div></a>
+<li class="fl"><a class="clearfix" href="info/1021/7237.htm">
+<div class="newt"><span>07-16</span>
+<p>2019</p></div>
+<div class="newtext">
+<h3>习近平：增强推进党的政治建设的自觉性和坚定性 </h3>
+<div class="newtcon">中国共产党第十八届中央委员会第六次全体会议，中央委员会总书记习近平作重要讲话。 </div></div></a>
+<li class="fr"><a class="clearfix" href="info/1021/7256.htm">
+<div class="newt"><span>07-01</span>
+<p>2019</p></div>
+<div class="newtext">
+<h3>图解：2018年中国共产党党内统计公报 </h3>
+<div class="newtcon"> </div></div></a>
+<li class="fl"><a class="clearfix" href="info/1021/7191.htm">
+<div class="newt"><span>06-26</span>
+<p>2019</p></div>
+<div class="newtext">
+<h3>习近平：全党必须始终不忘初心牢记使命 在新时代... </h3>
+<div class="newtcon">习近平在中央政治局第十五次集体学习时强调全党必须始终不忘初心牢记使命在新时代把党的自我革命推向深入新华社北京6月25日电... </div></div></a>
+<li class="fr"><a class="clearfix" href="info/1021/7189.htm">
+<div class="newt"><span>06-26</span>
+<p>2019</p></div>
+<div class="newtext">
+<h3>“不忘初心、牢记使命”主题教育官网上线 </h3>
+<div class="newtcon">由中央“不忘初心、牢记使命”主题教育领导小组办公室主办，人民网·中国共产党新闻网承办的“不忘初心、牢记使命”主题教育官... </div></div></a>
+</li></li></li></li></li></li></li></li></ul>
+<div class="container clearfix"><a class="nmor" href="djgz1/zyjs.htm"></a></div><script>_showDynClickBatch(['dynclicks_u8_7426','dynclicks_u8_7420','dynclicks_u8_7421','dynclicks_u8_7258','dynclicks_u8_7237','dynclicks_u8_7256','dynclicks_u8_7191','dynclicks_u8_7189'],[7426,7420,7421,7258,7237,7256,7191,7189],"wbnews", 1411356874)</script>
+<!--#endeditable--></div>
+<div class="sy-new-team"><!--#begineditable name="学校动态" viewid="191890" tagname="基层声音" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><ul class="clearfix" style="height:429px;">
+<li class="fl"><a class="clearfix" href="info/1074/7541.htm">
+<div class="newt"><span>01-09</span>
+<p>2020</p></div>
+<div class="newtext">
+<h3>西安交大新增4个单位入选高校党建“双创”培育创... </h3>
+<div class="newtcon">近日，教育部公布第二批全国党建工作示范高校、标杆院系、样板支部培育创建单位名单，西安交通大学大学生党委入选“全国党建... </div></div></a>
+<li class="fr"><a class="clearfix" href="info/1074/7509.htm">
+<div class="newt"><span>12-12</span>
+<p>2019</p></div>
+<div class="newtext">
+<h3>张迈曾书记参加党支部发展青年拔尖人才入党大会 </h3>
+<div class="newtcon">12月11日下午，理学院党委大学物理实验物理党支部在仲英楼召开张磊教授入党发展会，校党委书记张迈曾作为学校层面发展联系人... </div></div></a>
+<li class="fl"><a class="clearfix" href="info/1074/7501.htm">
+<div class="newt"><span>12-01</span>
+<p>2019</p></div>
+<div class="newtext">
+<h3>西安交大召开干部管理监督联席会议 </h3>
+<div class="newtcon">11月29日下午，学校召开本学期干部监督联席会议。校党委常委、组织部部长柴渭，纪委（监察处）、组织部、人力资源部、审计处... </div></div></a>
+<li class="fr"><a class="clearfix" href="info/1074/7492.htm">
+<div class="newt"><span>11-21</span>
+<p>2019</p></div>
+<div class="newtext">
+<h3>西安交大召开校内挂职干部集中宣布会 </h3>
+<div class="newtcon">11月20日上午，校党委组织部召开本学期第五批校内挂职干部集中宣布会，对赴校内职能部处挂职的5名同志进行了任职宣布，参会挂... </div></div></a>
+<li class="fl"><a class="clearfix" href="info/1074/7494.htm">
+<div class="newt"><span>11-20</span>
+<p>2019</p></div>
+<div class="newtext">
+<h3>省委宣讲团党的十九届四中全会精神报告会在西安... </h3>
+<div class="newtcon">11月19日，省委宣讲团党的十九届四中全会精神报告会在西安交通大学举行，十九届中央候补委员、中国科学院院士、省委宣讲团成... </div></div></a>
+<li class="fr"><a class="clearfix" href="info/1074/7450.htm">
+<div class="newt"><span>10-22</span>
+<p>2019</p></div>
+<div class="newtext">
+<h3>西安交大党委：高举集体主义旗帜，汇聚磅礴伟力 </h3>
+<div class="newtcon">在恢弘的历史长河中，个人都是渺小的，但涓滴入流能够汇聚出历史的惊涛骇浪；在偌大的世界舞台中，个人都是平凡的，但聚沙成... </div></div></a>
+<li class="fl"><a class="clearfix" href="info/1074/7422.htm">
+<div class="newt"><span>09-26</span>
+<p>2019</p></div>
+<div class="newtext">
+<h3>校领导慰问老干部和教师代表  颁发“庆祝中华人... </h3>
+<div class="newtcon">西安交通大学共213人获颁“庆祝中华人民共和国成立70周年”纪念章，其中离休干部103人，获国家三大奖109人，全国优秀党务工作... </div></div></a>
+<li class="fr"><a class="clearfix" href="info/1074/7423.htm">
+<div class="newt"><span>09-25</span>
+<p>2019</p></div>
+<div class="newtext">
+<h3>西安交大辅导员张楠当选第十一届全国高校辅导员... </h3>
+<div class="newtcon">近日，西安交大崇实书院辅导员张楠在第十一届全国高校辅导员年度人物评选中，获评辅导员年度人物。第十一届高校辅导员年度人... </div></div></a>
+</li></li></li></li></li></li></li></li></ul>
+<div class="container clearfix"><a class="nmor" href="djgz1/jddt.htm"></a></div><script>_showDynClickBatch(['dynclicks_u9_7541','dynclicks_u9_7509','dynclicks_u9_7501','dynclicks_u9_7492','dynclicks_u9_7494','dynclicks_u9_7450','dynclicks_u9_7422','dynclicks_u9_7423'],[7541,7509,7501,7492,7494,7450,7422,7423],"wbnews", 1411356874)</script>
+<!--#endeditable--></div>
+<div class="sy-new-team"><!--#begineditable name="基础声音" viewid="191891" tagname="通知公告" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><ul class="clearfix" style="height:429px;">
+<li class="fl"><a class="clearfix" href="info/1022/7519.htm">
+<div class="newt"><span>12-23</span>
+<p>2019</p></div>
+<div class="newtext">
+<h3>组织部党支部召开“不忘初心、牢记使命”专题组... </h3>
+<div class="newtcon">12月22日下午，组织部党支部召开“不忘初心、牢记使命”专题组织生活会，聚焦主题、盘点收获、检视剖析，严肃开展批评和自我... </div></div></a>
+<li class="fr"><a class="clearfix" href="info/1022/7462.htm">
+<div class="newt"><span>10-25</span>
+<p>2019</p></div>
+<div class="newtext">
+<h3>组织部党支部参观西迁先贤业绩展 </h3>
+<div class="newtcon">结合“不忘初心、牢记使命”主题教育，为进一步学习西迁精神，组织部党支部10月24日下午参观学习了西迁先贤业绩展，重温了先... </div></div></a>
+<li class="fl"><a class="clearfix" href="info/1022/7358.htm">
+<div class="newt"><span>08-24</span>
+<p>2019</p></div>
+<div class="newtext">
+<h3>材料学院李杰：装饰新家园 让人充满成就感 </h3>
+<div class="newtcon">暑期全天候驻扎在港、坚守岗位、持续发力，奔走在创新港的大小角落，她就是材料学院办公室主任李杰。创新港二次装修工程复杂... </div></div></a>
+<li class="fr"><a class="clearfix" href="info/1022/7357.htm">
+<div class="newt"><span>08-23</span>
+<p>2019</p></div>
+<div class="newtext">
+<h3>电信学部加快创新港工作进度 </h3>
+<div class="newtcon">8月21日上午，电信学部主任管晓宏院士率领学部党政领导、学部办公室主任及工会主席前往创新港，对四号巨构泓理楼电信学部各学... </div></div></a>
+<li class="fl"><a class="clearfix" href="info/1022/7356.htm">
+<div class="newt"><span>08-22</span>
+<p>2019</p></div>
+<div class="newtext">
+<h3>创新港这对“夫妻档”：一起奋斗的日子更甜 </h3>
+<div class="newtcon">人文学院安排每天一位院领导和两位行政人员在创新港值班，为了更好地推进二次装修，分管创新港工作的副院长王伟搬进学生宿舍... </div></div></a>
+<li class="fr"><a class="clearfix" href="info/1022/7355.htm">
+<div class="newt"><span>08-22</span>
+<p>2019</p></div>
+<div class="newtext">
+<h3>外国语学院全力以赴 扎实推进入驻创新港 </h3>
+<div class="newtcon">按照学校关于创新港工作建设的要求，外国语学院积极做好各项筹备工作。截至8月20日，学院最后一批工位完成安装，达到基本入驻... </div></div></a>
+<li class="fl"><a class="clearfix" href="info/1022/7354.htm">
+<div class="newt"><span>08-21</span>
+<p>2019</p></div>
+<div class="newtext">
+<h3>数学与统计学院：新港建设炼党性   平凡之处见真... </h3>
+<div class="newtcon">2019年是创新港搬迁与启用元年，在暑期关键时刻，数学与统计学院响应学校党委暑期不放假的号召，积极推进西安数学与数学技术... </div></div></a>
+<li class="fr"><a class="clearfix" href="info/1022/7353.htm">
+<div class="newt"><span>08-21</span>
+<p>2019</p></div>
+<div class="newtext">
+<h3>材料学院砥砺奋进 争当脚踏实地的“实干家” </h3>
+<div class="newtcon">来而不可失者，时也；蹈而不可失者，机也。为响应学校关于创新港工作建设要求，保证研究生顺利按时入驻创新港，在学院党政班... </div></div></a>
+</li></li></li></li></li></li></li></li></ul>
+<div class="container clearfix"><a class="nmor" href="djgz1/jcsy.htm"></a></div><script>_showDynClickBatch(['dynclicks_u10_7519','dynclicks_u10_7462','dynclicks_u10_7358','dynclicks_u10_7357','dynclicks_u10_7356','dynclicks_u10_7355','dynclicks_u10_7354','dynclicks_u10_7353'],[7519,7462,7358,7357,7356,7355,7354,7353],"wbnews", 1411356874)</script>
+<!--#endeditable--></div>
+<div class="sy-new-team"><!--#begineditable name="通知公告" viewid="191892" tagname="学习心语" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><ul class="clearfix" style="height:429px;">
+<li class="fl"><a class="clearfix" href="content.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1095&amp;wbnewsid=7390">
+<div class="newt"><span>09-03</span>
+<p>2019</p></div>
+<div class="newtext">
+<h3>关于印发《西安交通大学挂职干部管理办法》的通知 </h3>
+<div class="newtcon"> </div></div></a>
+<li class="fr"><a class="clearfix" href="content.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1095&amp;wbnewsid=6401">
+<div class="newt"><span>11-16</span>
+<p>2018</p></div>
+<div class="newtext">
+<h3>关于2018年度党建研究项目立项拟资助项目初评结... </h3>
+<div class="newtcon">— </div></div></a>
+<li class="fl"><a class="clearfix" href="content.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1095&amp;wbnewsid=6405">
+<div class="newt"><span>11-16</span>
+<p>2018</p></div>
+<div class="newtext">
+<h3>关于校级“双带头人”党支部书记工作室遴选结果... </h3>
+<div class="newtcon">— </div></div></a>
+<li class="fr"><a class="clearfix" href="content.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1095&amp;wbnewsid=6404">
+<div class="newt"><span>11-16</span>
+<p>2018</p></div>
+<div class="newtext">
+<h3>关于2018教职工党支部“样板”示范创建、“五好... </h3>
+<div class="newtcon">— </div></div></a>
+<li class="fl"><a class="clearfix" href="content.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1095&amp;wbnewsid=6250">
+<div class="newt"><span>09-07</span>
+<p>2018</p></div>
+<div class="newtext">
+<h3>关于在全体教职工党员中开展“改革发展关头，我... </h3>
+<div class="newtcon">— </div></div></a>
+<li class="fr"><a class="clearfix" href="content.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1095&amp;wbnewsid=6099">
+<div class="newt"><span>07-28</span>
+<p>2018</p></div>
+<div class="newtext">
+<h3>组织部2018年暑假工作安排 </h3>
+<div class="newtcon">— </div></div></a>
+<li class="fl"><a class="clearfix" href="content.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1095&amp;wbnewsid=6000">
+<div class="newt"><span>07-12</span>
+<p>2018</p></div>
+<div class="newtext">
+<h3>关于李成杰等同志任职的公示 </h3>
+<div class="newtcon">— </div></div></a>
+<li class="fr"><a class="clearfix" href="content.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1095&amp;wbnewsid=5544">
+<div class="newt"><span>05-10</span>
+<p>2018</p></div>
+<div class="newtext">
+<h3>关于王劲等同志任职的公示 </h3>
+<div class="newtcon">— </div></div></a>
+</li></li></li></li></li></li></li></li></ul>
+<div class="container clearfix"><a class="nmor" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1095"></a></div><script>_showDynClickBatch(['dynclicks_u11_7390','dynclicks_u11_6401','dynclicks_u11_6405','dynclicks_u11_6404','dynclicks_u11_6250','dynclicks_u11_6099','dynclicks_u11_6000','dynclicks_u11_5544'],[7390,6401,6405,6404,6250,6099,6000,5544],"wbnews", 1411356874)</script>
+<!--#endeditable--></div>
+<div class="sy-new-team"><!--#begineditable name="政策文件" viewid="191893" tagname="政策文件" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><ul class="clearfix" style="height:429px;">
+<li class="fl"><a class="clearfix" href="info/1007/5908.htm">
+<div class="newt"><span>06-26</span>
+<p>2018</p></div>
+<div class="newtext">
+<h3>中共中央办公厅印发《关于加强公立医院... </h3>
+<div class="newtcon">　　新华社北京6月25日电 近日，中共中央办公厅印发了《关于加强公立医院党的建设工作的意见》，并发出通知，要求各地区各部... </div></div></a>
+<li class="fr"><a class="clearfix" href="info/1007/5911.htm">
+<div class="newt"><span>05-31</span>
+<p>2018</p></div>
+<div class="newtext">
+<h3>中办国办印发《关于进一步加强科研诚信... </h3>
+<div class="newtcon">　　新华社北京5月30日电 近日，中共中央办公厅、国务院办公厅印发了《关于进一步加强科研诚信建设的若干意见》，并发出通知... </div></div></a>
+<li class="fl"><a class="clearfix" href="info/1007/1498.htm">
+<div class="newt"><span>10-30</span>
+<p>2014</p></div>
+<div class="newtext">
+<h3>西安交通大学校管干部外出请（销）假暂... </h3>
+<div class="newtcon">西安交通大学校管干部外出请（销）假暂行规定.doc </div></div></a>
+<li class="fr"><a class="clearfix" href="info/1007/1497.htm">
+<div class="newt"><span>09-22</span>
+<p>2014</p></div>
+<div class="newtext">
+<h3>西安交通大学校管干部报告个人有关事项... </h3>
+<div class="newtcon">西安交通大学校管干部报告个人有关事项管理规定.doc </div></div></a>
+<li class="fl"><a class="clearfix" href="info/1007/1496.htm">
+<div class="newt"><span>09-22</span>
+<p>2014</p></div>
+<div class="newtext">
+<h3>西安交通大学新提拔校管干部试用期管理规定 </h3>
+<div class="newtcon">西安交通大学新提拔校管干部试用期管理规定.doc </div></div></a>
+<li class="fr"><a class="clearfix" href="info/1007/1495.htm">
+<div class="newt"><span>09-04</span>
+<p>2012</p></div>
+<div class="newtext">
+<h3>关于印发《基层组织建设年活动（下半年... </h3>
+<div class="newtcon">西交创组[2012]6号 关于印发《基层组织建设年活动（下半年）日程安排》的通知.doc 领导小组成员在基层组织建设年活动中联系点... </div></div></a>
+<li class="fl"><a class="clearfix" href="info/1007/1494.htm">
+<div class="newt"><span>06-08</span>
+<p>2012</p></div>
+<div class="newtext">
+<h3>中共西安交通大学委员会关于加强附属医... </h3>
+<div class="newtcon">西安交通大学党委组织部 版权所有 ©2008 All Rights Reserved
+电话：08629-82668243 Email：dwzzb@mail.xjtu.edu.cn
+站点设计... </div></div></a>
+<li class="fr"><a class="clearfix" href="info/1007/1493.htm">
+<div class="newt"><span>06-08</span>
+<p>2012</p></div>
+<div class="newtext">
+<h3>西安交通大学中层以上领导干部外出请假... </h3>
+<div class="newtcon">西安交通大学党委组织部 版权所有 ©2008 All Rights Reserved
+电话：08629-82668243 Email：dwzzb@mail.xjtu.edu.cn
+站点设计... </div></div></a>
+</li></li></li></li></li></li></li></li></ul>
+<div class="container clearfix"><a class="nmor" href="zcwj.htm"></a></div><script>_showDynClickBatch(['dynclicks_u12_5908','dynclicks_u12_5911','dynclicks_u12_1498','dynclicks_u12_1497','dynclicks_u12_1496','dynclicks_u12_1495','dynclicks_u12_1494','dynclicks_u12_1493'],[5908,5911,1498,1497,1496,1495,1494,1493],"wbnews", 1411356874)</script>
+<!--#endeditable--></div></div></div></div><script>
+        $('.sy-new-tit a').hover(function(event) {
+            $(this).addClass('on').siblings().removeClass('on');
+            $('.cg').children().eq($(this).index()).show().siblings().hide()
+        });
+    </script><!--gb1-->
+<div class="con" style="padding-top: 30px">
+<div class="xjp_l">
+<div class="bt">习近平教给我们的智慧</div><!--#begineditable name="标题列表习近平交给我们的智慧" viewid="198742" tagname="标题列表习近平交给我们的智慧" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="lb">
+<ul>
+<li>
+<div class="pic"><a href="llxx/xjpjjwmdzh1/xjpjh.htm"><img height="97px;" src="/_mediafile/zhdjpt/2016/12/16/2dkcbxhwa7.jpg" width="129px"/></a></div>
+<div class="nr">
+<p class="wzbt"><a href="llxx/xjpjjwmdzh1/xjpjh.htm">习近平讲话</a></p>
+<p>与三中全会公报相较，四中全会公报在“以邓小平理论、 三个代表 重要思想和科学发展观为指导”之后，加...</p>
+</div>
+</li>
+<li class="last">
+<div class="pic"><a href="llxx/xjpjjwmdzh1/xjpsx.htm"><img height="97px;" src="/_mediafile/zhdjpt/2017/11/02/dy8o6fx80j.png" width="129px"/></a></div>
+<div class="nr">
+<p class="wzbt"><a href="llxx/xjpjjwmdzh1/xjpsx.htm">习近平思想</a></p>
+<p>习近平新时代中国特色社会主义思想的创立，是中国特色社会主义进入新时代最为显著的标志，是对马克思列...</p>
+</div>
+</li>
+<li>
+<div class="pic"><a href="llxx/xjpjjwmdzh1/xjpyd.htm"><img height="97px;" src="/_mediafile/zhdjpt/2016/12/16/2p5gdnbwaz.jpg" width="129px"/></a></div>
+<div class="nr">
+<p class="wzbt"><a href="llxx/xjpjjwmdzh1/xjpyd.htm">习近平用典</a></p>
+<p>在习近平总书记系列重要讲话文章中多处引经据典，生动传神，寓意深邃，极具启迪意义。</p>
+</div>
+</li>
+<li class="last">
+<div class="pic"><a href="llxx/xjpjjwmdzh1/xjpgy.htm"><img height="97px;" src="/_mediafile/zhdjpt/2016/12/16/2urcm5qwbc.jpg" width="129px"/></a></div>
+<div class="nr">
+<p class="wzbt"><a href="llxx/xjpjjwmdzh1/xjpgy.htm">习近平格言</a></p>
+<p>在广泛涉猎中外名典的同时，习近平没有抛弃浅近而不失生动的谚语、俗语。自上任总书记以来，他平实、有...</p>
+</div>
+</li>
+</ul>
+</div>
+<script>_showDynClickBatch(['dynclicks_u13_3282','dynclicks_u13_3283','dynclicks_u13_3284','dynclicks_u13_3279'],[3282,3283,3284,3279],"wbnews", 1411356874)</script>
+<!--#endeditable--></div><!-- -->
+<div class="xjp_r">
+<div class="bt">党章党规</div>
+<div class="lb"><!--#begineditable name="图片列表党章党规" viewid="198744" tagname="图片列表党章党规" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--> <a href="llxx/dzdg.htm" onclick='_addDynClicks("wbimage", 1411356874, 41075)' target="_blank" title="">
+<img border="0" height="360" src="images/dangzhangdanggui.jpg" width="261"/>
+</a>
+<!--#endeditable--></div></div></div>
+<div class="con">
+<div class="jujiao">
+<div class="bt"><a href="xxxy/xxjj.htm">聚 · 交</a></div>
+<div class="lb"><!--#begineditable name="标题列表聚焦" viewid="198743" tagname="标题列表聚焦" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><ul>
+<li>
+<div class="pic"><img height="54px;" src="images/jj_pic.png" width="54px;"/></div>
+<div class="nr">
+<p class="wzbt"><a href="info/1142/7004.htm">【创新高地风正劲】系列评论...</a></p>
+<p>创新港建设，首当青年！</p>
+</div>
+</li>
+<li>
+<div class="pic"><img height="54px;" src="images/jj_pic.png" width="54px;"/></div>
+<div class="nr">
+<p class="wzbt"><a href="info/1142/6973.htm">【创新高地风正劲】系列评论...</a></p>
+<p>草棚大礼堂走出来的没有一个是懦...</p>
+</div>
+</li>
+<li>
+<div class="pic"><img height="54px;" src="images/jj_pic.png" width="54px;"/></div>
+<div class="nr">
+<p class="wzbt"><a href="info/1142/6941.htm">【创新高地风正劲】系列评论...</a></p>
+<p>西迁63年来，代代交大人砥砺奋进...</p>
+</div>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u15_7004','dynclicks_u15_6973','dynclicks_u15_6941'],[7004,6973,6941],"wbnews", 1411356874)</script>
+<!--#endeditable--></div></div>
+<div class="jujiao">
+<div class="bt"><a href="xxxy/xxxy.htm">学习心语</a></div>
+<div class="lb"><!--#begineditable name="标题列表学习心语" viewid="198747" tagname="标题列表学习心语" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><ul>
+<li>
+<div class="pic"><img height="54px;" src="images/xy_pic.png" width="54px;"/></div>
+<div class="nr">
+<p class="wzbt"><a href="info/1141/7081.htm">张迈曾书记参加生命学院生物...</a></p>
+<p>5月8日下午，生命学院生物医学工...</p>
+</div>
+</li>
+<li>
+<div class="pic"><img height="54px;" src="images/xy_pic.png" width="54px;"/></div>
+<div class="nr">
+<p class="wzbt"><a href="info/1141/7084.htm">颜虹副校长参加生物医学工程...</a></p>
+<p>学习西迁精神，打通入驻创新港最...</p>
+</div>
+</li>
+<li>
+<div class="pic"><img height="54px;" src="images/xy_pic.png" width="54px;"/></div>
+<div class="nr">
+<p class="wzbt"><a href="info/1141/7087.htm">王铁军副校长参加化机系教工...</a></p>
+<p>思忖千百度，亲手下地锄</p>
+</div>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u16_7081','dynclicks_u16_7084','dynclicks_u16_7087'],[7081,7084,7087],"wbnews", 1411356874)</script>
+<!--#endeditable--></div></div>
+<div class="zthds">
+<div class="bt">专题活动</div>
+<div class="zthdp"><!--#begineditable name="标题列表专题活动" viewid="198745" tagname="标题列表专题活动" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="hd">
+<ul>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+</div>
+<div class="bd">
+<ul>
+<li><a href="info/1171/7201.htm" target="_blank"><img src="/__local/3/5A/D5/C54D0207333B8D508AEDFE6DFF3_18A20C65_17095.jpg"/></a>
+<div class="txt"><a href="info/1171/7201.htm">西安交通大学举行庆祝建党98周年暨党建工作会议</a></div>
+</li>
+<li><a href="info/1171/7141.htm" target="_blank"><img src="http://img3.chinadaily.com.cn/images/201905/31/5cf12cfaa310e7f83ef40393.jpeg"/></a>
+<div class="txt"><a href="info/1171/7141.htm">习近平：守初心担使命找差距抓落实 确保主题教育取...</a></div>
+</li>
+<li><a href="info/1171/7280.htm" target="_blank"><img src=""/></a>
+<div class="txt"><a href="info/1171/7280.htm">【暑期不放假】系列评论之一：交大人，干就干出个...</a></div>
+</li>
+</ul>
+</div><script>_showDynClickBatch(['dynclicks_u17_7201','dynclicks_u17_7141','dynclicks_u17_7280'],[7201,7141,7280],"wbnews", 1411356874)</script>
+<!--#endeditable--></div><script type="text/javascript">
+		jQuery(".zthdp").slide({mainCell:".bd ul",autoPlay:true});
+		</script></div></div>
+<div class="clear"></div>
+<div class="piclink"><!--#begineditable name="图片列表微党课" viewid="198746" tagname="图片列表微党课" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--> <ul>
+<li style="background:url('images/18/04/17/1k61an5se1/indexdj_29.png') no-repeat;heighe:93px;">
+<a href="https://www.xuexi.cn">学习强国</a>
+</li>
+<li style="background:url('images/18/04/17/1k61an5se1/indexdj_31.png') no-repeat;heighe:93px;">
+<a href="bszn/cywj.htm">常用文件</a>
+</li>
+<li style="background:url('images/18/04/17/1k61an5se1/indexdj_33.png') no-repeat;heighe:93px;">
+<a href="bszn/xzzx.htm">下载中心</a>
+</li>
+<li class="last" style="background:url('images/18/04/17/1k61an5se1/indexdj_35.png') no-repeat;heighe:93px;">
+<a href="">主题教育</a>
+</li>
+</ul><!--#endeditable--></div><!-- footer -->
+<div class="footer">
+<div class="container">
+<div class="foot-code clearfix"><!--#begineditable name="微信微博" viewid="191875" tagname="微信微博" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--> <a href="" onclick='_addDynClicks("wbimage", 1411356874, 37209)'><img alt="" src="images/c1_03.png"/></a>
+<a href="" onclick='_addDynClicks("wbimage", 1411356874, 37210)'><img alt="" src="images/c2_05.png"/></a>
+<a href="" onclick='_addDynClicks("wbimage", 1411356874, 37211)'><img alt="" src="images/c3_07.png"/></a>
+<!--#endeditable--></div>
+<dl class="clearfix wylj"><!--#begineditable name="网页链接" viewid="191876" tagname="网页链接" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><dt>网页链接</dt>
+<dd><a href="http://www.12371.cn/" target="_blank">共产党员</a></dd>
+<dd><a href="https://www.xuexi.cn" target="_blank">学习强国</a></dd>
+<dd><a href="http://www.moe.gov.cn/" target="_blank">教育部</a></dd>
+<dd><a href="http://paper.people.com.cn/rmrb/html/2018-11/21/nbs.D110000renmrb_01.htm" target="_blank">人民日报</a></dd>
+<dd><a href="http://www.gmw.cn/" target="_blank">光明日报</a></dd>
+<dd><a href="http://www.xinhuanet.com/" target="_blank">新华网</a></dd>
+<dd><a href="http://www.xjtu.edu.cn" target="_blank">交大主页</a></dd>
+<!--#endeditable--></dl>
+<div class="clearfix fdw"><!--#begineditable name="分党委" viewid="191877" tagname="分党委" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><h2>分 党 委</h2>
+<p class="clearfix">
+<a href="http://phych.xjtu.edu.cn/dtgh.htm" target="_blank">理学院党委</a>
+<a href="http://math.xjtu.edu.cn/list2.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1130" target="_blank">数学与统计学院党委</a>
+<a href="http://fdwdj.xjtu.edu.cn/jxxyfdw/jxxyfdw.htm" target="_blank">机械工程学院党委</a>
+<a href="http://ee.xjtu.edu.cn/fdw.htm" target="_blank">电气工程学院党委</a>
+<a href="http://epe.xjtu.edu.cn/list.php?cat_id=188" target="_blank">能源与动力工程学院党委</a>
+<a href="http://eie.xjtu.edu.cn/dtgh/xyfdw2.htm" target="_blank">电子与信息学部党委</a>
+<a href="http://202.117.3.12:8090/index.php/archives/organization/id/13/col_id/24" target="_blank">材料科学与工程学院党委</a>
+<a href="http://hsce.xjtu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1039" target="_blank">人居环境与建筑工程学院党委</a>
+<a href="http://slst.xjtu.edu.cn/szdw14/zzjj.htm" target="_blank">生命科学与技术学院党委</a>
+<a href="http://sae.xjtu.edu.cn/djgz/zzjg.htm" target="_blank">航天航空学院党委</a>
+<a href="http://clet.xjtu.edu.cn/dtgz/zbsh.htm" target="_blank">化学工程与技术学院党委</a>
+<a href="http://www.med.xjtu.edu.cn/jcdj.htm" target="_blank">医学部党工委</a>
+<a href="http://fdwdj.xjtu.edu.cn/kxqydzz/dzz.htm" target="_blank">科教前沿党总支</a>
+<a href="http://sef.xjtu.edu.cn/lby1.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1022" target="_blank">经济与金融学院党委</a>
+<a href="http://som.xjtu.edu.cn/party/" target="_blank">管理学院党委</a>
+<a href="http://sppa.xjtu.edu.cn/xstd/xsdj.htm" target="_blank">公共政策与管理学院党委</a>
+<a href="http://rwxy.xjtu.edu.cn/" target="_blank">人文社会科学学院党委</a>
+<a href="http://xmtxy.xjtu.edu.cn" target="_blank">新闻与新媒体学院党总支</a>
+<a href="http://fdwdj.xjtu.edu.cn/mkszyxyfdw/fdw.htm" target="_blank">马克思主义学院党委</a>
+<a href="http://fdwdj.xjtu.edu.cn/fxydzz/fxydzz.htm" target="_blank">法学院党总支</a>
+<a href="http://sfs.xjtu.edu.cn/list3.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1248" target="_blank">外国语学院党委</a>
+<a href="http://tyzx.xjtu.edu.cn/sjd_zl.htm" target="_blank">体育中心党总支</a>
+<a href="http://fdwdj.xjtu.edu.cn/jxjyxydw/dw.htm" target="_blank">继续教育学院党委</a>
+<a href="http://dxsdw.xjtu.edu.cn/" target="_blank">大学生党委</a>
+<a href="http://jgdw.xjtu.edu.cn/" target="_blank">机关与直属单位党委</a>
+<a href="http://ltxc.xjtu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1021" target="_blank">离退休党委</a>
+<a href="http://holding.xjtu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1031" target="_blank">资产公司党委</a>
+<a href="http://hq.xjtu.edu.cn/hqdj/dwjj.htm" target="_blank">后勤保障部党委</a>
+<a href="http://xjtujcjydw.xjtu.edu.cn/" target="_blank">基础教育党委</a>
+<a href="http://www.xjtucc.edu.cn/sjfy.jsp?wbtreeid=1391" target="_blank">城市学院党委</a>
+<a href="http://fdwdj.xjtu.edu.cn/szjddgw/szjddgw.htm" target="_blank">苏州教科研基地党工委</a>
+</p>
+<!--#endeditable--></div>
+<dl class="clearfix dgz"><!--#begineditable name="医学部党工委" viewid="191878" tagname="医学部党工委" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><dt>医学部党工委</dt>
+<dd><a href="http://bms.xjtu.edu.cn/jcdj.htm" target="_blank">基础医学院党委</a></dd>
+<dd><a href="http://forensmed.xjtu.edu.cn/wdh-list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1010" target="_blank">法医学院党总支</a></dd>
+<dd><a href="http://pharm.xjtu.edu.cn/dwgz.asp" target="_blank">药学院党总支</a></dd>
+<dd><a href="http://fdwdj.xjtu.edu.cn/gwxydzz/dzz.htm" target="_blank">公共卫生学院党总支</a></dd>
+<dd><a href="http://yfydw.jdyfy.com/" target="_blank">第一附属医院党委</a></dd>
+<dd><a href="http://www.2yuan.org/Html/News/Columns/62/Index.html" target="_blank">第二附属医院党委</a></dd>
+<dd><a href="http://www.dentalxjtu.com/news.php?cateid=12914&amp;hcateid=129" target="_blank">口腔医院党委</a></dd>
+<!--#endeditable--></dl>
+<dl class="clearfix dgz mabdd"><!--#begineditable name="大学生党委" viewid="191879" tagname="大学生党委" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><dt>大 学 生 党 委</dt>
+<dd><a href="http://pksy.xjtu.edu.cn/pksyweb/?cat=8" target="_blank">彭康书院党总支</a></dd>
+<dd><a href="http://wen.xjtu.edu.cn/home/index/lists/type/1/id/3.html" target="_blank">文治书院党总支</a></dd>
+<dd><a href="http://zlsy.xjtu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1008" target="_blank">宗濂书院党总支</a></dd>
+<dd><a href="http://qdsy.xjtu.edu.cn/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=10" target="_blank">启德书院党总支</a></dd>
+<dd><a href="http://www.xjtu.edu.cn/zzjg_dqjg.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1054" target="_blank">仲英书院党总支</a></dd>
+<dd><a href="http://219.245.37.8/library/index.php?cid=4" target="_blank">励志书院党总支</a></dd>
+<dd><a href="http://cssy.xjtu.edu.cn/sydj.htm" target="_blank">崇实书院党总支</a></dd>
+<dd><a href="http://nanyang.xjtu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1012" target="_blank">南洋书院党总支</a></dd>
+<dd><a href="http://www.xjtu.edu.cn/zzjg_dqjg.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1054" target="_blank">钱学森书院党总支</a></dd>
+<!--#endeditable--></dl>
+<div class="bq"><!--#begineditable name="版权" viewid="191880" tagname="版权" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p style="text-align: center;"> 版权所有：西安交通大学  站点建设与维护：网络信息中心   联系人：杨夫腾   电话：82668375   地址：陕西省西安市咸宁西路28号 邮编：710049</p><!--#endeditable--></div></div></div>
+</body></html>

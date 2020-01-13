@@ -1,0 +1,425 @@
+<html lang="en"><head><title>西安交通大学新港报告</title><meta content="西安交通大学新港报告" name="keywords"/>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="ie=edge" http-equiv="X-UA-Compatible"/><!--样式初始化--><link href="css/initial.css" rel="stylesheet"/><!--公共样式--><link href="css/public.css" rel="stylesheet"/><!--main start--><link href="css/i-main.css" rel="stylesheet"/><script src="js/jquery.min.js"></script><script src="js/jquery.SuperSlide.source.js"></script>
+<!--Announced by Visual SiteBuilder 9-->
+<link href="_sitegray/_sitegray.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307045120812 -->
+<link href="index.vsb.css" rel="stylesheet" type="text/css">
+<script src="/system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1181,'/index.jsp',-1,1544404314)</script>
+</link></link></head>
+<body>
+<div id="header">
+<div class="header clearfix">
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script><div id="link" style="position:absolute;right:0;top:5px;width:150px;line-height:50px;color:#fff;text-align:center;">
+</div>
+<div class="clearfix">
+<div class="logo fl">
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="index.htm" title="西安交通大学新港报告"><img alt="西安交通大学新港报告" border="0" height="103" src="images/logo.png" title="西安交通大学新港报告" width="397"/></a></div><!--nav start-->
+<div class="fl">
+<div class="navBar"><ul class="nav clearfix">
+<li class="m">
+<h3>
+<a href="index.htm" title="Home">Home</a></h3>
+</li>
+<li class="s">|</li>
+<li class="m">
+<h3>
+<a href="Upcoming_Lectures_.htm" title="Upcoming Lectures ">Upcoming Lectures </a></h3>
+</li>
+<li class="s">|</li>
+<li class="m">
+<h3>
+<a href="jzhg/Language___Literature_Series.htm" title="Recent Lectures ">Recent Lectures </a></h3>
+<ul class="sub">
+<li>
+<a href="jzhg/Medicine_and_Health_Series.htm" title="Medicine and Health Series">Medicine and Health Series</a>
+</li>
+<li>
+<a href="jzhg/Law_Series_.htm" title="Law Series ">Law Series </a>
+</li>
+<li>
+<a href="jzhg/Sociology_Series.htm" title="Sociology Series">Sociology Series</a>
+</li>
+<li>
+<a href="jzhg/Language___Literature_Series.htm" title="Language &amp; Literature Series">Language &amp; Literature Series</a>
+</li>
+</ul>
+</li>
+<li class="s">|</li>
+<li class="m">
+<h3>
+<a href="News.htm" title="News">News</a></h3>
+</li>
+<li class="s">|</li>
+<li class="m">
+<h3>
+<a href="xtjj1/Language___Literature_Series.htm" title="Faculty">Faculty</a></h3>
+<ul class="sub">
+<li>
+<a href="xtjj1/Medicine_and_Health.htm" title="Medicine and Health">Medicine and Health</a>
+</li>
+<li>
+<a href="xtjj1/Sociology_Series.htm" title="Sociology Series">Sociology Series</a>
+</li>
+<li>
+<a href="xtjj1/Law_Series_.htm" title="Law Series ">Law Series </a>
+</li>
+<li>
+<a href="xtjj1/Language___Literature_Series.htm" title="Language &amp; Literature Series">Language &amp; Literature Series</a>
+</li>
+</ul>
+</li>
+<li class="s">|</li>
+<li class="m">
+<h3>
+<a href="xtjj/About.htm" title="About">About</a></h3>
+<ul class="sub">
+<li>
+<a href="xtjj/About.htm" title="About">About</a>
+</li>
+<li>
+<a href="xtjj/Contact_Us.htm" title="Contact Us">Contact Us</a>
+</li>
+</ul>
+</li>
+</ul></div><div class="search">
+<a href="search.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1224"><img src="images/search.png"/></a>
+</div></div></div></div></div>
+<div class="main">
+<div class="content"><!--banner start-->
+<div class="slideBox" id="slideBox">
+<div class="bd"> <ul class="clearfix">
+<li>
+<img border="0" src="images/banner5.png"/>
+</li>
+<li>
+<img border="0" src="images/banner555.png"/>
+</li>
+<li>
+<a href="http://xgbg.xjtu.edu.cn/info/1191/2334.htm" onclick='_addDynClicks("wbimage", 1544404314, 54525)' target="_blank" title="">
+<img border="0" src="images/banner1234.jpg"/>
+</a>
+</li>
+</ul></div><!-- 下面是前/后按钮代码，如果不需要删除即可 --><a class="prev" href="javascript:void(0)"></a><a class="next" href="javascript:void(0)"></a></div><!--news -->
+<div class="multipleLine" style="margin: 25px auto 0px;">
+<div class="bd">
+<h1 class="h1" id="h1"><a href="News.htm">News </a></h1><script language="javascript" src="/system/resource/js/ajax.js"></script><div class="tempWrap">
+<div class="ulWrap">
+<ul class="clearfix">
+<li>
+<div class="pic"><a href="#" target="_blank"><img src="/__local/7/01/CF/9CA7A227FFC9F2B1D0046271D01_6E966C23_1856C.jpg"/></a>
+</div>
+<div class="title">
+<h2><a href="info/1191/2379.htm" target="_blank" title="iHarbour Lectures Series of Language &amp; Literature begin">iHarbour Lectures Series of Langu...</a></h2>
+<p class="text"><a href="info/1191/2379.htm" target="_blank">On the afternoon of November 9, 2019, the Language &amp; Literature Series of iHarbour Lectures b...</a></p></div></li></ul></div></div></div></div></div></div></body></html>
+
+
+<li>
+<div class="pic"><a href="#" target="_blank"><img src="/__local/6/CF/03/73C8431DED325D6F1DB141DD5FB_3804BE6F_100ED.jpg"/></a>
+</div>
+<div class="title">
+<h2><a href="info/1191/2371.htm" target="_blank" title="西安交通大学“新港报告”语言文学系列开讲">西安交通大学“新港报告”语言文学...</a></h2>
+<p class="text"><a href="info/1191/2371.htm" target="_blank">  11月9日下午，西安交通大学“新港报告”语言文学系列讲座在创新港新港报告厅开讲。西安交通大学副...</a></p></div></li>
+
+
+<li>
+<div class="pic"><a href="#" target="_blank"><img src="/__local/7/14/5A/86CA37379A0967D000407D38A34_5B845F57_8607.jpg"/></a>
+</div>
+<div class="title">
+<h2><a href="info/1191/2349.htm" target="_blank" title="新港报告“语言文学”系列讲座介绍">新港报告“语言文学”系列讲座介绍</a></h2>
+<p class="text"><a href="info/1191/2349.htm" target="_blank">  新港报告“语言文学”系列下设“语言认知”和“文学文化”两个子系列。“语言认知”子系列围绕“...</a></p></div></li>
+
+
+<li>
+<div class="pic"><a href="#" target="_blank"><img src="/__local/4/92/B4/0D7B64A844284BD5D7BC08F698A_39ECC258_A01A7.png"/></a>
+</div>
+<div class="title">
+<h2><a href="info/1191/2334.htm" target="_blank" title="新港报告直播信息">新港报告直播信息</a></h2>
+<p class="text"><a href="info/1191/2334.htm" target="_blank"> 如无法亲临现场，还可通过我校网络直播平台收看，直播地址：电脑端（建议使用火狐浏览器firefox）...</a></p></div></li>
+
+
+
+<ul class="clearfix">
+<li>
+<div class="pic"><a href="#" target="_blank"><img src="/__local/E/A0/D1/5BF0B87084C4FEE694579749A49_4820D169_1C2A7.jpg"/></a>
+</div>
+<div class="title">
+<h2><a href="info/1191/2327.htm" target="_blank" title="XJTU holds its first lecture at the Innovation Harbour">XJTU holds its first lecture at t...</a></h2>
+<p class="text"><a href="info/1191/2327.htm" target="_blank">On the afternoon of September 21, 2019, “Innovation Harbour Lectures – Medicine &amp; Health Se...</a></p></div></li></ul>
+
+
+<li>
+<div class="pic"><a href="#" target="_blank"><img src="/__local/4/43/62/37FF98DE0DB297E7025A0AAB3E2_E58A5AFC_6726C.jpg"/></a>
+</div>
+<div class="title">
+<h2><a href="info/1191/2326.htm" target="_blank" title="西安交大“新港报告”医学与健康系列开讲">西安交大“新港报告”医学与健康系...</a></h2>
+<p class="text"><a href="info/1191/2326.htm" target="_blank">9月21日下午，西安交通大学“新港报告”医学与健康系列讲座在创新港新港报告厅开讲，副校长郑庆华，...</a></p></div></li>
+
+
+<li>
+<div class="pic"><a href="#" target="_blank"><img src="/__local/3/D2/2D/E2ECF6B1CC0DAD7E5A8F7D51E12_8216E15E_6168.jpg"/></a>
+</div>
+<div class="title">
+<h2><a href="info/1191/2296.htm" target="_blank" title="西安交通大学“新港报告”医学与健康系列讲座介绍">西安交通大学“新港报告”医学与健...</a></h2>
+<p class="text"><a href="info/1191/2296.htm" target="_blank">一、   医学与健康系列讲座简介新港报告《医学与健康》系列讲座是通过积极发展新医科，倡导多学科交...</a></p></div></li>
+
+
+<li>
+<div class="pic"><a href="#" target="_blank"><img src="/__local/A/14/20/5EE846FB00A31681E821FBF269D_D23D8CF7_52C4.jpg"/></a>
+</div>
+<div class="title">
+<h2><a href="info/1191/2325.htm" target="_blank" title="IHarbour Lectures Sociology Series (1): Social Psychological Wellbeing of Left-behind Children in Rural China">IHarbour Lectures Sociology Serie...</a></h2>
+<p class="text"><a href="info/1191/2325.htm" target="_blank">IHarbour Lectures Sociology Series (1): Social Psychological Wellbeing of Left-behind Childre...</a></p></div></li>
+
+
+
+<ul class="clearfix">
+<li>
+<div class="pic"><a href="#" target="_blank"><img src="/__local/A/22/BC/E73382634B9D41370D58F69B2D7_30BEBD51_744F.jpg"/></a>
+</div>
+<div class="title">
+<h2><a href="info/1191/2324.htm" target="_blank" title="IHarbour Lectures Sociology Series (2): Informality in Human Society">IHarbour Lectures Sociology Serie...</a></h2>
+<p class="text"><a href="info/1191/2324.htm" target="_blank">IHarbour Lectures Sociology Series (2): Informality in Human SocietyOn the afternoon of June ...</a></p></div></li></ul>
+
+
+<li>
+<div class="pic"><a href="#" target="_blank"><img src="/__local/F/19/ED/1D88292BC78CD6949C5C4C86A28_15CD44B4_A15E.jpg"/></a>
+</div>
+<div class="title">
+<h2><a href="info/1191/2323.htm" target="_blank" title="IHarbour Lectures Sociology Series (3): Chinese Immigrant Entrepreneurial Success in Panama">IHarbour Lectures Sociology Serie...</a></h2>
+<p class="text"><a href="info/1191/2323.htm" target="_blank">IHarbour Lectures Sociology Series (3): Chinese Immigrant Entrepreneurial Success in PanamaOn...</a></p></div></li>
+
+
+<li>
+<div class="pic"><a href="#" target="_blank"><img src="/__local/9/25/18/6F0F7FF58B4C08FD8802798A3B9_FDD434CC_4EC5.jpg"/></a>
+</div>
+<div class="title">
+<h2><a href="info/1191/2322.htm" target="_blank" title="IHarbour Lectures Sociology Series (4): Urbanization and Children in China">IHarbour Lectures Sociology Serie...</a></h2>
+<p class="text"><a href="info/1191/2322.htm" target="_blank">IHarbour Lectures Sociology Series (4): Urbanization and Children in ChinaOn the afternoon of...</a></p></div></li>
+
+
+<li>
+<div class="pic"><a href="#" target="_blank"><img src="/__local/6/19/F3/09020105DC37CB780ED885FA7FB_45F311B3_9282.jpg"/></a>
+</div>
+<div class="title">
+<h2><a href="info/1191/2321.htm" target="_blank" title="IHarbour Lectures Sociological Series (5): Social Mobility in China">IHarbour Lectures Sociological Se...</a></h2>
+<p class="text"><a href="info/1191/2321.htm" target="_blank">IHarbour Lectures Sociological Series (5): Social Mobility in ChinaOn the afternoon of June 2...</a></p></div></li>
+
+
+
+
+<script>_showDynClickBatch(['dynclicks_u4_2379','dynclicks_u4_2371','dynclicks_u4_2349','dynclicks_u4_2334','dynclicks_u4_2327','dynclicks_u4_2326','dynclicks_u4_2296','dynclicks_u4_2325','dynclicks_u4_2324','dynclicks_u4_2323','dynclicks_u4_2322','dynclicks_u4_2321'],[2379,2371,2349,2334,2327,2326,2296,2325,2324,2323,2322,2321],"wbnews", 1544404314)</script>
+<!-- ulWrap End --><!-- bd End -->
+<div class="hd">
+<ul></ul></div><!--讲座-->
+<div class="lecture">
+<h2 class="h1" id="h2"><a href="Upcoming_Lectures_.htm">Upcoming Lectures </a></h2>
+<div class="link"><ul class="clearfix">
+<li class="fl">
+<div class="pic">
+<a href="info/1190/2351.htm" target="_blank" title="第九讲 语言与中国形象">
+<img src="/__local/F/FA/12/4BAD2275EA819C3EFCF889913E8_770DFDF1_A646.jpg"/>
+</a>
+<p class="text">
+<a href="info/1190/2351.htm" target="_blank" title="第九讲 语言与中国形象">第九讲 语言与中国形象</a></p>
+</div>
+<div class="important">
+<div class="box">
+<div class="i time"></div>2019-12-07 14:30- 15:40</div>
+<div class="box">
+<div class="i site"></div>Innovation Harbour Lectures Hall</div>
+<div class="box">
+<div class="i user"></div>胡开宝</div>
+</div>
+</li>
+<li class="fl">
+<div class="pic">
+<a href="info/1190/2350.htm" target="_blank" title="第十讲 木兰在美国：从金斯顿的书作《女勇士》到迪士尼动画电影《木兰》">
+<img src="/__local/C/A1/38/B10395967A90A4D13059FE4EE7C_8FFB83E4_5432.jpg"/>
+</a>
+<p class="text">
+<a href="info/1190/2350.htm" target="_blank" title="第十讲 木兰在美国：从金斯顿的书作《女勇士》到迪士尼动画电影《木兰》">第十讲 木兰在美国：从金斯顿的书作《女</a></p>
+</div>
+<div class="important">
+<div class="box">
+<div class="i time"></div>2019-12-07 15:40- 16:50</div>
+<div class="box">
+<div class="i site"></div>Innovation Harbour Lectures Hall</div>
+<div class="box">
+<div class="i user"></div>杜丽霞</div>
+</div>
+</li>
+</ul>
+<script>_showDynClickBatch(['dynclicks_u5_2351','dynclicks_u5_2350'],[2351,2350],"wbnews", 1544404314)</script>
+<div class="book">
+<div class="book-img" style="left: 0px; top: 5px;"></div>
+<div class="describe clearfix"><ul>
+<li>
+<h3><a href="info/1190/2359.htm" target="_blank" title="第一讲 数学家的童话：《爱丽丝漫游奇境记》">第一讲 数学家的童话：《爱丽丝漫游...</a></h3>
+<div class="article clearfix">
+<div class="fl" id="time">
+<span class="day">09</span>
+<span class="year">2019-11</span></div>
+<div class="fl ar">
+<div class="site i"></div>
+<a href="#">Innovation Harbour Lectures Hall</a>
+<br/>
+<div class="user i"></div>
+<a href="#">封宗信</a></div>
+</div>
+</li>
+<li>
+<h3><a href="info/1190/2358.htm" target="_blank" title="第二讲 语言从何而来？">第二讲 语言从何而来？</a></h3>
+<div class="article clearfix">
+<div class="fl" id="time">
+<span class="day">09</span>
+<span class="year">2019-11</span></div>
+<div class="fl ar">
+<div class="site i"></div>
+<a href="#">Innovation Harbour Lectures Hall</a>
+<br/>
+<div class="user i"></div>
+<a href="#">杨瑞英</a></div>
+</div>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u6_2351','dynclicks_u6_2350','dynclicks_u6_2359','dynclicks_u6_2358'],[2351,2350,2359,2358],"wbnews", 1544404314)</script>
+<div class="more fr"><a href="Upcoming_Lectures_.htm"><img alt="更多" src="images/more1.jpg"/></a> </div></div></div></div></div><!--pic list-->
+<div class="pic-list clearfix">
+<div class="review fl">
+<h2 class="h1" id="h3"><a href="jzhg/Law_Series_.htm">Recent Lectures</a></h2>
+<div class="video-list"><div class="cm" style="position:relative;">
+<a href="info/1264/2374.htm" target="_blank" title="西安交通大学“新港报告”语言文学系列开幕式">
+<img src="/__local/7/01/CF/9CA7A227FFC9F2B1D0046271D01_6E966C23_1856C.jpg" style="width:266px;height:215px;"/></a>
+<a href="info/1264/2374.htm"><div class="video"></div></a>
+<a href="info/1264/2374.htm"><span style="position: absolute;    left: 0;    bottom:0;    line-height: 25px;    font-size: 15px;    color: #fff;    background-color: #000;    width:100%;    text-indent:2em;    opacity: 0.6;">西安交通大学“新港报...</span></a>
+</div>
+<script>_showDynClickBatch(['dynclicks_u7_2374'],[2374],"wbnews", 1544404314)</script>
+<div class="cm-video"><ul class="clearfix">
+<li class="fl">
+<a href="info/1264/2391.htm" target="_blank" title="第九讲 语言与中国形象">
+<img border="0" height="96" src="/__local/F/FA/12/4BAD2275EA819C3EFCF889913E8_770DFDF1_A646.jpg" width="170"/></a>
+<a href="info/1264/2391.htm"><div class="video"></div></a>
+</li>
+<li class="fl">
+<a href="info/1264/2390.htm" target="_blank" title="第十讲 木兰在美国：从金斯顿的书作《女勇士》到迪士尼动画电影《木兰》">
+<img border="0" height="96" src="/__local/C/A1/38/B10395967A90A4D13059FE4EE7C_8FFB83E4_5432.jpg" width="170"/></a>
+<a href="info/1264/2390.htm"><div class="video"></div></a>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u8_2374','dynclicks_u8_2391','dynclicks_u8_2390'],[2374,2391,2390],"wbnews", 1544404314)</script>
+</div></div></div>
+<div class="teacher fl">
+<div class="clearfix">
+<h2 class="h1 fl" id="h4"><a href="xtjj1/Sociology_Series.htm">Faculty </a></h2>
+<div class="btn fr"><span class="prev">&lt;</span> <span class="next">&gt;</span></div></div>
+<div class="list"><div class="img-list clearfix">
+<ul class="fl clearfix">
+<li style="top: 0px; position:relative;overflow:hidden;">
+<a href="info/1265/2369.htm" target="_blank" title="封宗信">
+<img src="/__local/8/6F/BA/BAAF17F0DE350552E0AF1108DCB_5E36D064_F46C.png"/></a>
+<span style="position: absolute;    left: 0;    bottom:0;    width:100%;    line-height: 25px;    font-size: 15px;    color: #fff;    text-indent:10px;    background-color: #000;    opacity: 0.6;">封宗信</span>
+</li>
+<li style="top: 0px; position:relative;overflow:hidden;">
+<a href="info/1265/2368.htm" target="_blank" title="杨瑞英">
+<img src="/__local/B/A2/97/603624278A2FB864AF6F7064473_DD16BF69_269EA.jpg"/></a>
+<span style="position: absolute;    left: 0;    bottom:0;    width:100%;    line-height: 25px;    font-size: 15px;    color: #fff;    text-indent:10px;    background-color: #000;    opacity: 0.6;">杨瑞英</span>
+</li>
+<li style="top: 0px; position:relative;overflow:hidden;">
+<a href="info/1265/2367.htm" target="_blank" title="韩静">
+<img src="/__local/6/FB/0F/9F7C9E9F574B6995C9970FDAEAE_3D763A8C_86F44.png"/></a>
+<span style="position: absolute;    left: 0;    bottom:0;    width:100%;    line-height: 25px;    font-size: 15px;    color: #fff;    text-indent:10px;    background-color: #000;    opacity: 0.6;">韩静</span>
+</li>
+<li style="top: 0px; position:relative;overflow:hidden;">
+<a href="info/1265/2366.htm" target="_blank" title="Paulus van den Hoven">
+<img src="/__local/7/85/CE/8956F8663E96D7613CD3EB7E0C9_A32A89AD_23A96.jpg"/></a>
+<span style="position: absolute;    left: 0;    bottom:0;    width:100%;    line-height: 25px;    font-size: 15px;    color: #fff;    text-indent:10px;    background-color: #000;    opacity: 0.6;">Paulus van de...</span>
+</li>
+<li style="top: 0px; position:relative;overflow:hidden;">
+<a href="info/1265/2365.htm" target="_blank" title="爱德华·刘易斯">
+<img src="/__local/7/29/C8/92EB719CBF4230705F605778CC7_72D97842_25ADD.png"/></a>
+<span style="position: absolute;    left: 0;    bottom:0;    width:100%;    line-height: 25px;    font-size: 15px;    color: #fff;    text-indent:10px;    background-color: #000;    opacity: 0.6;">爱德华·刘易斯</span>
+</li>
+<li style="top: 0px; position:relative;overflow:hidden;">
+<a href="info/1265/2364.htm" target="_blank" title="庞加光">
+<img src="/__local/9/75/15/1C62786833D51336D3AC71345D5_CC1992A6_1C7F3.jpg"/></a>
+<span style="position: absolute;    left: 0;    bottom:0;    width:100%;    line-height: 25px;    font-size: 15px;    color: #fff;    text-indent:10px;    background-color: #000;    opacity: 0.6;">庞加光</span>
+</li>
+<li style="top: 0px; position:relative;overflow:hidden;">
+<a href="info/1265/2363.htm" target="_blank" title="尚必武">
+<img src="/__local/A/3A/01/7D66EAEE2532D1474320E2BA5B7_AF481BEC_2C5DD.jpg"/></a>
+<span style="position: absolute;    left: 0;    bottom:0;    width:100%;    line-height: 25px;    font-size: 15px;    color: #fff;    text-indent:10px;    background-color: #000;    opacity: 0.6;">尚必武</span>
+</li>
+<li style="top: 0px; position:relative;overflow:hidden;">
+<a href="info/1265/2362.htm" target="_blank" title="蔡振光">
+<img src="/__local/4/74/A7/EF58188412AC5E00867FDC582F9_5C3EF120_1823A.jpg"/></a>
+<span style="position: absolute;    left: 0;    bottom:0;    width:100%;    line-height: 25px;    font-size: 15px;    color: #fff;    text-indent:10px;    background-color: #000;    opacity: 0.6;">蔡振光</span>
+</li>
+</ul>
+<ul class="fl clearfix">
+<li style="top: 0px; position:relative;overflow:hidden;">
+<a href="info/1265/2361.htm" target="_blank" title="胡开宝">
+<img src="/__local/8/A2/EE/4D5F44D0E9FA93A6B1E5B204ACB_61B74D6F_1CB84.jpg"/></a>
+<span style="position: absolute;    left: 0;    bottom:0;    width:100%;    line-height: 25px;    font-size: 15px;    color: #fff;    text-indent:10px;    background-color: #000;    opacity: 0.6;">胡开宝</span>
+</li>
+<li style="top: 0px; position:relative;overflow:hidden;">
+<a href="info/1265/2360.htm" target="_blank" title="杜丽霞">
+<img src="/__local/8/C6/9F/3C2CF9916759A1F796E7F435A5C_129E82FF_7632.jpg"/></a>
+<span style="position: absolute;    left: 0;    bottom:0;    width:100%;    line-height: 25px;    font-size: 15px;    color: #fff;    text-indent:10px;    background-color: #000;    opacity: 0.6;">杜丽霞</span>
+</li>
+<li style="top: 0px; position:relative;overflow:hidden;">
+<a href="info/1254/2306.htm" target="_blank" title="吕社民">
+<img src="/__local/9/02/5F/9A46674B53CB09DF94726740332_F97FCC0F_41E73.jpg"/></a>
+<span style="position: absolute;    left: 0;    bottom:0;    width:100%;    line-height: 25px;    font-size: 15px;    color: #fff;    text-indent:10px;    background-color: #000;    opacity: 0.6;">吕社民</span>
+</li>
+<li style="top: 0px; position:relative;overflow:hidden;">
+<a href="info/1254/2307.htm" target="_blank" title="孔光耀">
+<img src="/__local/8/9B/DB/FC1EEB0AE70C014910F2CF7C69D_A8DC64FB_32771.jpg"/></a>
+<span style="position: absolute;    left: 0;    bottom:0;    width:100%;    line-height: 25px;    font-size: 15px;    color: #fff;    text-indent:10px;    background-color: #000;    opacity: 0.6;">孔光耀</span>
+</li>
+<li style="top: 0px; position:relative;overflow:hidden;">
+<a href="info/1254/2308.htm" target="_blank" title="张呈生">
+<img src="/__local/4/99/10/3908B17CE2B5CEB8F4863648A1D_64164563_22C54.jpg"/></a>
+<span style="position: absolute;    left: 0;    bottom:0;    width:100%;    line-height: 25px;    font-size: 15px;    color: #fff;    text-indent:10px;    background-color: #000;    opacity: 0.6;">张呈生</span>
+</li>
+<li style="top: 0px; position:relative;overflow:hidden;">
+<a href="info/1254/2309.htm" target="_blank" title="李小妹">
+<img src="/__local/7/02/E5/310569EE8169F165DF79E92A638_750E7B48_5CF74.jpg"/></a>
+<span style="position: absolute;    left: 0;    bottom:0;    width:100%;    line-height: 25px;    font-size: 15px;    color: #fff;    text-indent:10px;    background-color: #000;    opacity: 0.6;">李小妹</span>
+</li>
+<li style="top: 0px; position:relative;overflow:hidden;">
+<a href="info/1254/2310.htm" target="_blank" title="杜晓军">
+<img src="/__local/E/DA/4F/709701EC25B399841447333419F_654D4B4B_21DF3.png"/></a>
+<span style="position: absolute;    left: 0;    bottom:0;    width:100%;    line-height: 25px;    font-size: 15px;    color: #fff;    text-indent:10px;    background-color: #000;    opacity: 0.6;">杜晓军</span>
+</li>
+<li style="top: 0px; position:relative;overflow:hidden;">
+<a href="info/1254/2311.htm" target="_blank" title="曹东元">
+<img src="/__local/8/82/80/E174CC68ED010C68F4EED6D0EC3_4D9C5709_92EED.jpg"/></a>
+<span style="position: absolute;    left: 0;    bottom:0;    width:100%;    line-height: 25px;    font-size: 15px;    color: #fff;    text-indent:10px;    background-color: #000;    opacity: 0.6;">曹东元</span>
+</li>
+</ul>
+</div>
+<script>_showDynClickBatch(['dynclicks_u9_2369','dynclicks_u9_2368','dynclicks_u9_2367','dynclicks_u9_2366','dynclicks_u9_2365','dynclicks_u9_2364','dynclicks_u9_2363','dynclicks_u9_2362','dynclicks_u9_2361','dynclicks_u9_2360','dynclicks_u9_2306','dynclicks_u9_2307','dynclicks_u9_2308','dynclicks_u9_2309','dynclicks_u9_2310','dynclicks_u9_2311'],[2369,2368,2367,2366,2365,2364,2363,2362,2361,2360,2306,2307,2308,2309,2310,2311],"wbnews", 1544404314)</script>
+</div></div></div><!-- footer start -->
+<div id="footer">
+<div class="content">
+<div class="clearfix">
+<div class="ft-site fl">
+<div class="top">
+<div class="f-site i"></div><script language="javascript" src="/system/resource/js/news/mp4video.js"></script>
+<span><p><span style="font-size: 14px;">Address: 28 Xianning West Road, Xi'an City, Shaanxi Province</span></p></span></div>
+<div class="btm">
+<div class="f-mail i"></div>
+<span><p><span style="font-size: 14px;">Zip code: 710049</span></p>
+<p> </p></span></div></div>
+<div class="img-code fr">
+<img border="0" height="80" src="images/index_36.jpg" width="80"/>
+<img border="0" height="80" src="images/index_36.jpg" width="80"/>
+</div></div>
+<div class="copy">
+<!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>版权所有：西安交通大学 站点建设与维护： 网络信息中心 陕ICP备06008037号</p>
+</div></div></div><script src="js/nav.js"></script><script src="js/index.js"></script>
+

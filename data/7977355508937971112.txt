@@ -1,0 +1,596 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+<title>西安交通大学就业网</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="IE=Edge" http-equiv="X-UA-Compatible"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<link href="renovation/images/icon.ico" rel="shortcut icon"/>
+<link href="renovation/css/main.css" media="screen" rel="stylesheet">
+<link href="renovation/css/font-awesome.css" media="screen" rel="stylesheet"/>
+<script src="renovation/js/jquery1.7.1.min.js" type="text/javascript"></script>
+<script src="renovation/js/main.js" type="text/javascript"></script><!--main-->
+<script src="renovation/js/syhd.js" type="text/javascript"></script><!--syhd-->
+<script src="renovation/js/slider.js" type="text/javascript"></script><!--slider-->
+<!--
+	<script> 
+document.write ("<DIV id=img1 style='Z-INDEX: 1000; LEFT: 2px; WIDTH: 252px; POSITION: absolute; TOP: 243px; HEIGHT: 172px; ") 
+document.write (" visibility: visible;'> ") 
+document.write (" <li><a href='/newsHtml/273356196.html' target='_blank'> ") 
+document.write (" <img width='300px' height='100px' src='/images/advertise/fd.png'/> ") 
+document.write (" </a></li></DIV> ") 
+var xPos = 300; 
+var yPos = 200; 
+var step = 1; 
+var delay = 20; 
+var height = 0; 
+var Hoffset = 0; 
+var Woffset = 0; 
+var yon = 0; 
+var xon = 0; 
+var pause = true; 
+var interval; 
+img1.style.top = yPos; 
+function changePos() 
+{ 
+width = document.documentElement.clientWidth; 
+height = document.documentElement.clientHeight; 
+Hoffset = img1.offsetHeight; 
+Woffset = img1.offsetWidth; 
+img1.style.left = xPos + document.documentElement.scrollLeft; 
+img1.style.top = yPos + document.documentElement.scrollTop; 
+if (yon) 
+{yPos = yPos + step;} 
+else 
+{yPos = yPos - step;} 
+if (yPos < 0) 
+{yon = 1;yPos = 0;} 
+if (yPos >= (height - Hoffset)) 
+{yon = 0;yPos = (height - Hoffset);} 
+if (xon) 
+{xPos = xPos + step;} 
+else 
+{xPos = xPos - step;} 
+if (xPos < 0) 
+{xon = 1;xPos = 0;} 
+if (xPos >= (width - Woffset)) 
+{xon = 0;xPos = (width - Woffset); } 
+} 
+function start() 
+{ 
+img1.visibility = "visible"; 
+interval = setInterval('changePos()', delay); 
+} 
+function pause_resume() 
+{ 
+if(pause) 
+{ 
+clearInterval(interval); 
+pause = false;} 
+else 
+{ 
+interval = setInterval('changePos()',delay); 
+pause = true; 
+} 
+} 
+start(); 
+</script> 
+
+-->
+</link></meta></head>
+<body>
+<!--main-->
+<div class="main">
+<!--header-->
+<div class="header">
+<!--top-->
+<!--top end-->
+<!--nav-->
+<script language="javascript" type="text/javascript">
+    $(function(){
+        var uinfo=$('#uinfoid').val();
+        $('#logoutid').empty();
+	    if(uinfo!=null && uinfo!=''){
+	    	$('#loginid').append("<a href='#'>你好！</a> <a href='/logout.do' target='_self'>退出</a>");
+	    }else{
+	    	$('#loginid').append("<a href='/loginselect.do' target='_self'>登录</a><a href='/registerselect.do' target='_self'>注册</a>");
+	    }
+	    /*
+	    var aList = document.getElementsByTagName('a'); 
+		for(var i=0;i<aList.length;i++){ 
+			var randomNum = Math.random()*1000;
+			if(aList[i].target !='_self'){
+				aList[i].target='_blank'+randomNum;
+			}
+		}
+		*/
+	    
+    })
+  		
+    </script>
+<div class="top"> <a class="logo" href="/home.do"></a>
+<div class="toplogin2" id="loginid2">
+<a href="/help/english.html" target="_BLANK">English Version</a>
+</div>
+<input id="uinfoid" type="hidden" value=""/>
+<div class="toplogin" id="loginid"></div>
+</div>
+<div class="navbox">
+<div class="main_menu" style="display: block;">
+<ul>
+<li><a href="/home.do" target="_self">首页</a> </li>
+<li><a href="/student/index.do" target="_blank">学生服务<i class="icon-caret-down mal5"></i></a>
+<ul>
+<li><a href="/listWeekMeetings.do" target="_blank">每周宣讲</a></li>
+<li><a href="/jobsairlist.do" target="_blank">招聘宣讲</a></li>
+<li><a href="/jobindexl.do" target="_blank">招聘信息</a></li>
+<li><a href="/listMeeting.do?is4practice=1" target="_blank">就业实习</a></li>
+<li><a href="/guid.do" target="_blank">职业辅导</a></li>
+<!--
+              <li><a href="/signing/mySigning.do" target="_blank">手续办理</a></li>
+			  -->
+<li><a href="#" target="_blank">手续办理</a></li>
+<li><a href="/studentUsers/display.do" target="_blank">去向查询</a></li>
+</ul>
+</li>
+<li><a href="/company/index.do" target="_blank">单位服务<i class="icon-caret-down mal5"></i></a>
+<ul>
+<li><a href="/companyService;jsessionid=6012879D1BB871F00E33488B44D913CE" target="_BLANK">招聘指南</a></li>
+<li><a href="/fairmanage/selfhelp.do" target="_blank">宣讲预定</a></li>
+<li><a href="/recruit/add.do" target="_blank">信息发布</a></li>
+<li><a href="/showEnrollment.do" target="_blank">生源信息</a></li>
+<li><a href="/contacts.do" target="_blank">院系联系</a></li>
+</ul>
+</li>
+<li><a href="/about.do" target="_blank">机构设置</a> </li>
+<li><a href="/dangjian.do" target="_blank">党建专栏<i class="icon-caret-down mal5"></i></a>
+<ul>
+<li><a href="/newsHtml/273356657.html" target="_blank">组织简介</a></li>
+<li><a href="/dangjianNews.do;jsessionid=6012879D1BB871F00E33488B44D913CE?ext=%e6%94%af%e9%83%a8%e7%94%9f%e6%b4%bb" target="_blank">支部生活</a></li>
+<li><a href="/dangjianNews.do;jsessionid=6012879D1BB871F00E33488B44D913CE?ext=%e5%ad%a6%e4%b9%a0%e5%9b%ad%e5%9c%b0" target="_blank">学习园地</a></li>
+</ul>
+</li>
+<li><a href="/newsindex.do" target="_blank">新闻资讯<i class="icon-caret-down mal5"></i></a>
+<ul>
+<li><a href="/news.do;jsessionid=6012879D1BB871F00E33488B44D913CE?ext=%e4%b8%ad%e5%bf%83%e9%80%9a%e5%91%8a" target="_blank">中心通告</a></li>
+<li><a href="/news.do;jsessionid=6012879D1BB871F00E33488B44D913CE?ext=%e6%96%b0%e9%97%bb%e8%b5%84%e8%ae%af" target="_blank">新闻资讯</a></li>
+<li><a href="/guidNews2.do;jsessionid=6012879D1BB871F00E33488B44D913CE?ext=%e6%b4%bb%e5%8a%a8%e4%b8%8e%e8%ae%b2%e5%ba%a7" target="_blank">活动与讲座</a></li>
+</ul>
+</li>
+<li><a href="/xuanjiangrili.do" target="_blank">宣讲日历</a></li>
+<li><a href="http://xian.cydedu.com" target="_blank">创新创业</a></li>
+<li><a href="http://gj.ncss.org.cn/" target="_blank">国际组织任职</a></li>
+<li><a href="/hotCompany.do" target="_blank">企业展示<i class="icon-caret-down mal5"></i></a>
+<ul>
+<li class="current_page_item"><a href="/hotCompany.do" target="_blank">热门企业</a></li>
+<li><a href="/newHasProfile.do" target="_blank">最新开通企业</a></li>
+<li><a href="/newChangeProfile.do" target="_blank">最新修改企业</a></li>
+</ul>
+</li>
+<li><a href="/download.do">常用下载<i class="icon-caret-down mal5"></i></a>
+<ul>
+<li><a href="/download.do;jsessionid=6012879D1BB871F00E33488B44D913CE?ext=%e6%a0%a1%e5%9b%ad%e6%8b%9b%e8%81%98" target="_blank">校园招聘</a></li>
+<li><a href="/download.do;jsessionid=6012879D1BB871F00E33488B44D913CE?ext=%e7%ad%be%e7%ba%a6%e6%94%b9%e6%b4%be" target="_blank">签约改派</a></li>
+<li><a href="/download.do;jsessionid=6012879D1BB871F00E33488B44D913CE?ext=%e5%85%b6%e4%bb%96%e5%b8%b8%e7%94%a8%e8%a1%a8%e6%a0%bc" target="_blank">其他常用表格</a></li>
+</ul>
+</li>
+<!--<li><a href="http://202.117.3.48:9999/public/index" target="_blank">英文版</a> </li> /help/english.html -->
+</ul>
+</div>
+</div>
+<!--nav end-->
+</div>
+<!--header end-->
+<!--slider-->
+<div class="slider">
+<div class="flexslider" id="banner_tabs">
+<ul class="slides">
+<!-- 
+        <li><a href="#"><img width="1920" height="450" src="renovation/images/1.jpg"> </a> </li>
+        <li><a href="#"><img width="1920" height="450" src="renovation/images/2.jpg"> </a> </li>
+        <li><a href="#"><img width="1920" height="450" src="renovation/images/3.jpg"> </a> </li>
+        -->
+<li><a href="http://job.xjtu.edu.cn/largeMeeting/application.do" target="_BLANK"><img height="450" src="/picture/1578630754581.jpg" width="1920"/> </a> </li>
+<li><a href="http://job.xjtu.edu.cn/newsHtml/277228193.html" target="_BLANK"><img height="450" src="/picture/1578557379705.jpg" width="1920"/> </a> </li>
+<li><a href="" target="_BLANK"><img height="450" src="/picture/1578557472702.jpg" width="1920"/> </a> </li>
+<li><a href="" target="_BLANK"><img height="450" src="/picture/1578557499722.jpg" width="1920"/> </a> </li>
+<li><a href="http://job.xjtu.edu.cn/meeting/277116828" target="_BLANK"><img height="450" src="/picture/1575786744367.jpg" width="1920"/> </a> </li>
+<li><a href="http://job.xjtu.edu.cn/meeting/277189289" target="_BLANK"><img height="450" src="/picture/1575591209937.jpg" width="1920"/> </a> </li>
+</ul>
+<ul class="flex-direction-nav">
+<li><a class="flex-prev" href="#" target="_self">上一个</a></li>
+<li><a class="flex-next" href="#" target="_self">下一个</a></li>
+</ul>
+<ol class="flex-control-nav flex-control-paging" id="bannerCtrl">
+<li class="active"><a href="#">1</a></li>
+<li><a href="#l">2</a></li>
+<li><a href="#">3</a></li>
+<li><a href="#">4</a></li>
+<li><a href="#">5</a></li>
+<li><a href="#">6</a></li>
+</ol>
+</div>
+</div>
+<!--slider end-->
+<!--content-->
+<div class="content">
+<div class="contentlm">
+<div class="bk1">
+<div class="bknr">
+<div class="sybox1">
+<div class="syboxnr">
+<div class="sytitle"><a href="#">学生服务</a></div>
+<ul class="fuul">
+<li><a href="/listWeekMeetings.do"><b>招聘宣讲</b><span>招聘会安排</span></a></li>
+<li><a href="/jobindexl.do"><b>招聘信息</b><span>各类招聘信息</span></a></li>
+<li><a href="/listMeeting.do?is4practice=1"><b>就业实习</b><span>就业实习相关信息</span></a></li>
+<li><a href="/guid.do"><b>职业辅导</b><span>职业发展与规划</span></a></li>
+<!--
+	                <li><a href="/signing/mySigning.do" ><b>手续办理</b><span>各类就业手续办理</span></a></li>
+					-->
+<li><a href="#"><b>手续办理</b><span>各类就业手续办理</span></a></li>
+</ul>
+<div class="zyrk"> <a href="/casLogin.do"><span class="zyrk1"></span>本校学生登录入口</a> <a href="/ologin.do"><span class="zyrk2"></span>外校学生登录入口</a> </div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="sybox2">
+<div class="syboxnr">
+<div id="syhd">
+<dl>
+<dd>
+<h3>中心通告</h3>
+</dd>
+<dd class="xwzxtab">
+<h3 class="active">选调生|公务员</h3>
+</dd>
+<dd class="xwzxtab">
+<h3>新闻资讯</h3>
+</dd>
+<dd class="hdjztab">
+<h3>活动与讲座</h3>
+</dd>
+</dl>
+<div class="sylistnr">
+<ul>
+<li class="zxtitle displaysn"><span>标  题</span><font>发布日期</font><font>浏览次数</font><font>截止日期</font></li>
+<!--
+					 <li>
+	                	    
+						   <a href="http://job.xjtu.edu.cn/largeMeetingSession/view.do?id=274875960" target="_BLANK">
+						   <span>
+						   <b class="hotdt"></b>西安交通大学2018年实习生招聘会（单位持续更新）</span>
+						   <font class="displaysn">2018-05-19</font><font class="displaysn">179</font> <font>2018-05-02</font>
+						   </a>
+						
+	                	</li>  
+                   -->
+<li>
+<a href="/largeMeeting/application.do" target="_BLANK">
+<span>
+<b class="hotdt"></b>西安交通大学2020届毕业生春季双选会</span>
+<font class="displaysn">2020-01-09</font><font class="displaysn">215</font> <font>2020-01-09</font>
+</a>
+</li>
+<li>
+<a href="newsHtml/277247492.html" target="_BLANK"><span>关于举办西安交通大学第八届创业实践大赛暨2020年国家级大学生创业训练项目选拔工作的通知</span><font class="displaysn">2020-01-12</font><font class="displaysn">20</font><font>2020-02-11</font></a>
+</li>
+<li>
+<a href="newsHtml/277241282.html" target="_BLANK"><span>西安交通大学第二附属医院2020年招聘公告</span><font class="displaysn">2020-01-08</font><font class="displaysn">132</font><font>2020-02-07</font></a>
+</li>
+<li>
+<a href="newsHtml/277233987.html" target="_BLANK"><span>西安交通大学2019年就业质量报告</span><font class="displaysn">2019-12-31</font><font class="displaysn">1096</font><font>2020-01-31</font></a>
+</li>
+<li>
+<a href="newsHtml/277228193.html" target="_BLANK"><span><b class="hotdt"></b>关于用人单位来校举办2020届毕业生春季校园招聘活动的通知</span><font class="displaysn">2019-12-26</font><font class="displaysn">733</font><font>2020-01-25</font></a>
+</li>
+<li>
+<a href="newsHtml/277225651.html" target="_BLANK"><span>【全校选修课】创业训练与实践&amp;职业发展与规划</span><font class="displaysn">2019-12-25</font><font class="displaysn">158</font><font>2020-01-24</font></a>
+</li>
+<li>
+<a href="newsHtml/277211339.html" target="_BLANK"><span>“可持续发展目标和联合国人才发展”讲座通知</span><font class="displaysn">2019-12-13</font><font class="displaysn">187</font><font>2020-01-12</font></a>
+</li>
+<li>
+<a href="newsHtml/277194177.html" target="_BLANK"><span>中国-东盟中心“东盟与中国关系系列演讲”走进西安交通大学活动预告</span><font class="displaysn">2019-12-03</font><font class="displaysn">271</font><font>2020-01-02</font></a>
+</li>
+<li>
+<a href="newsHtml/277162459.html" target="_BLANK"><span>西安交通大学学生就业创业指导服务中心招聘公告</span><font class="displaysn">2019-11-19</font><font class="displaysn">2518</font><font>2019-12-19</font></a>
+</li>
+</ul>
+<a class="symore" href="/news.do;jsessionid=6012879D1BB871F00E33488B44D913CE?ext=%e4%b8%ad%e5%bf%83%e9%80%9a%e5%91%8a"></a>
+</div>
+<div class="sylistnr" style="display: block;">
+<ul>
+<li class="zxtitle displaysn"><span>标  题</span><font>发布日期</font><font>浏览次数</font><font>截止日期</font></li>
+<!--
+					 <li>
+	                	    
+						   <a href="https://job.xjtu.edu.cn/largeMeetingSession/view.do?id=274875960" target="_BLANK">
+						   <span>
+						   <b class="hotdt"></b>西安交通大学2018年实习生招聘会（单位持续更新）</span>
+						   <font class="displaysn">2018-05-19</font><font class="displaysn">179</font> <font>2018-05-02</font>
+						   </a>
+						
+	                	</li>  
+                   -->
+<li>
+<a href="newsHtml/277243124.html" target="_BLANK"><span>辽宁省2020年面向西安交通大学招录选调生工作公告</span><font class="displaysn">2020-01-09</font><font class="displaysn">761</font><font>2020-02-08</font></a>
+</li>
+<li>
+<a href="newsHtml/277234687.html" target="_BLANK"><span>2020年江苏省海门市公开选调优秀党政青年人才高校行西安专场推介会</span><font class="displaysn">2020-01-02</font><font class="displaysn">501</font><font>2020-02-01</font></a>
+</li>
+<li>
+<a href="newsHtml/277234062.html" target="_BLANK"><span>青海省2020年面向西安交通大学定向招录选调生考试公告</span><font class="displaysn">2020-01-02</font><font class="displaysn">413</font><font>2020-02-01</font></a>
+</li>
+<li>
+<a href="newsHtml/277232908.html" target="_BLANK"><span>2020年南通市通州区公开选调优秀青年人才简章</span><font class="displaysn">2019-12-31</font><font class="displaysn">451</font><font>2020-01-30</font></a>
+</li>
+<li>
+<a href="newsHtml/277229013.html" target="_BLANK"><span>云南省面向选定高校招录2020年定向选调生面试公告</span><font class="displaysn">2019-12-30</font><font class="displaysn">803</font><font>2020-01-30</font></a>
+</li>
+<li>
+<a href="newsHtml/277221385.html" target="_BLANK"><span>2020年“青选计划”考察预告</span><font class="displaysn">2019-12-20</font><font class="displaysn">1183</font><font>2020-01-19</font></a>
+</li>
+<li>
+<a href="newsHtml/277220838.html" target="_BLANK"><span>2020年江苏省海门市公开选调优秀党政青年人才简章</span><font class="displaysn">2019-12-20</font><font class="displaysn">835</font><font>2020-01-19</font></a>
+</li>
+<li>
+<a href="newsHtml/277220005.html" target="_BLANK"><span>湖南省2020年面向西安交通大学选拔选调生公告</span><font class="displaysn">2019-12-19</font><font class="displaysn">1414</font><font>2020-01-18</font></a>
+</li>
+</ul>
+<a class="symore" href="/news.do;jsessionid=6012879D1BB871F00E33488B44D913CE?ext=%e9%80%89%e8%b0%83%e7%94%9f%7c%e5%85%ac%e5%8a%a1%e5%91%98"></a>
+</div>
+<div class="sylistnr">
+<ul>
+<li class="zxtitle displaysn"><span>标  题</span><font>发布日期</font><font>浏览次数</font><font>截止日期</font></li>
+<li>
+<a href="newsHtml/277226899.html" target="_BLANK"><span>西安交大渭南创客汇“赢在执行力”创业培训活动成功举办</span><font class="displaysn">2019-12-26</font><font class="displaysn">123</font><font>2020-01-25</font></a>
+</li>
+<li>
+<a href="newsHtml/277184456.html" target="_BLANK"><span>就业创业中心举办选调生经验交流分享会</span><font class="displaysn">2019-11-28</font><font class="displaysn">354</font><font>2019-12-28</font></a>
+</li>
+<li>
+<a href="newsHtml/277177835.html" target="_BLANK"><span>西安交通大学斩获第四届西安大学生求职大赛研究生组一等奖</span><font class="displaysn">2019-11-27</font><font class="displaysn">320</font><font>2019-12-27</font></a>
+</li>
+<li>
+<a href="newsHtml/277176325.html" target="_BLANK"><span>英卓CEO卑立新获评“2019西安十大创业明星”</span><font class="displaysn">2019-11-27</font><font class="displaysn">259</font><font>2019-12-27</font></a>
+</li>
+<li>
+<a href="newsHtml/277170245.html" target="_BLANK"><span>西安交大2019国家大学生创业训练计划项目中期答辩顺利举行</span><font class="displaysn">2019-11-22</font><font class="displaysn">252</font><font>2019-12-22</font></a>
+</li>
+<li>
+<a href="newsHtml/277158444.html" target="_BLANK"><span>第二届中国·河南招才引智创新发展大会西安专场在西安交通大学成功举办</span><font class="displaysn">2019-11-16</font><font class="displaysn">391</font><font>2019-12-16</font></a>
+</li>
+<li>
+<a href="newsHtml/277138980.html" target="_BLANK"><span>江西省2020年从西安交通大学选调应届优秀大学毕业生宣讲会顺利举行</span><font class="displaysn">2019-11-07</font><font class="displaysn">476</font><font>2019-12-07</font></a>
+</li>
+<li>
+<a href="newsHtml/277134837.html" target="_BLANK"><span>就创业中心和宗濂书院共同举办创业沙龙活动</span><font class="displaysn">2019-11-05</font><font class="displaysn">427</font><font>2019-12-05</font></a>
+</li>
+</ul>
+<a class="symore" href="/news.do;jsessionid=6012879D1BB871F00E33488B44D913CE?ext=%e6%96%b0%e9%97%bb%e8%b5%84%e8%ae%af"></a>
+</div>
+<div class="sylistnr">
+<ul>
+<li class="zxtitle displaysn"><span>标  题</span><font>活动日期</font><font>地点</font></li>
+<li>
+<a href="/guidView.do?id=277242519" target="_BLANK"><span>【职业发展181】西安交通大学2020年国考调剂指导说明会</span>
+<font>2020-01-10</font>
+<font class="displaysn"><nobr>就创中心204</nobr></font>
+</a>
+</li>
+<li>
+<a href="/guidView.do?id=277237911" target="_BLANK"><span>【职业发展177-180】西安交通大学2020年选调生面试系列培训</span>
+<font>2020-01-07</font>
+<font class="displaysn"><nobr>就创中心204</nobr></font>
+</a>
+</li>
+<li>
+<a href="/guidView.do?id=277229871" target="_BLANK"><span>【职业发展177】2019年学生职业发展交流会</span>
+<font>2019-12-27</font>
+<font class="displaysn"><nobr>就业创业中心一楼信息发布厅</nobr></font>
+</a>
+</li>
+<li>
+<a href="/guidView.do?id=277225263" target="_BLANK"><span>新财富分析师成长之路——金融投资行业卖方分析师和买方投资经理的职业生涯发展和规划</span>
+<font>2019-12-26</font>
+<font class="displaysn"><nobr>西安交通大学七楼创客汇</nobr></font>
+</a>
+</li>
+<li>
+<a href="/guidView.do?id=277178109" target="_BLANK"><span>【职业发展176】职业规划&amp;选调生经验分享——创新港专场</span>
+<font>2019-11-28</font>
+<font class="displaysn"><nobr>创新港5-1E105</nobr></font>
+</a>
+</li>
+<li>
+<a href="/guidView.do?id=277174641" target="_BLANK"><span>【职业发展174-175】选调生分享会4.0、5.0</span>
+<font>2019-11-27</font>
+<font class="displaysn"><nobr>南洋书院东19报告厅</nobr></font>
+</a>
+</li>
+<li>
+<a href="/guidView.do?id=277172123" target="_BLANK"><span>【职业发展172-173】就业咨询答疑</span>
+<font>2019-11-25</font>
+<font class="displaysn"><nobr>宗濂书院120会议室</nobr></font>
+</a>
+</li>
+<li>
+<a href="/guidView.do?id=277169809" target="_BLANK"><span>【职业发展171】蜕变成你 | 第三届BOE校园营销挑战赛初赛进行时</span>
+<font>2019-11-24</font>
+<font class="displaysn"><nobr>仲英楼材料学院第一会议室</nobr></font>
+</a>
+</li>
+</ul>
+<a class="symore" href="/guidNews2.do;jsessionid=6012879D1BB871F00E33488B44D913CE?ext=%e6%b4%bb%e5%8a%a8%e4%b8%8e%e8%ae%b2%e5%ba%a7"></a>
+</div>
+</div>
+</div>
+</div>
+<div class="sybox3">
+<div class="syboxnr">
+<div class="sytitle"><a href="/companyService.do">单位服务</a></div>
+<ul class="fuul">
+<li><a href="/companyService;jsessionid=6012879D1BB871F00E33488B44D913CE" target="_BLANK"><b>招聘指南</b><span>招聘流程及注意事项</span></a></li>
+<li><a href="#"><b>宣讲预定</b><span>招聘会场地预定</span></a></li>
+<li><a href="/company/addrecruit.do"><b>信息发布</b><span>招聘信息发布</span></a></li>
+<li><a href="/showEnrollment.do"><b>生源信息</b><span>毕业生生源情况</span></a></li>
+<li><a href="/contacts.do"><b>院系联系</b><span>院系联系方式</span></a></li>
+</ul>
+<div class="zyrk"> <a href="/companyLogin.do"><span class="zyrk3"></span>单位登录入口</a> <a href="/company/registerAccount.do"><span class="zyrk4"></span>单位注册入口</a> </div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="bk2">
+<!--ggslider-->
+<div class="ggslider">
+<div class="ggflexslider" id="ggbanner_tabs">
+<ul class="ggslides">
+<!--
+			  <li><a href="/largeMeetingSession/view.do?id=277245945"><img src="/userimage/1578630488735.jpg" width="1920" height="150"></a></li>
+			  -->
+<li><img height="150" src="../images/bottom.jpg" width="1920"/></li>
+<!--
+			   <li><a href="https://job.xjtu.edu.cn/newsHtml/273913750.html" target="_BLANK" ><img src="/userimage/2017zl.png" width="1920" height="150"></a></li>
+			   -->
+</ul>
+<ol class="ggflex-control-nav ggflex-control-paging" id="ggbannerCtrl">
+<li class="active"><a target="_self"></a></li>
+</ol>
+</div>
+</div>
+<!--ggslider end-->
+</div>
+<div class="bk3">
+<div class="bknr">
+<ul class="kstdlist">
+<li><a href="http://jyweb.sneducloud.com" target="_BLANK"><i class="icon-laptop"></i>
+<p>陕西省高校毕业生就业网</p>
+</a></li>
+<li><a href="/news/selectactive.do" target="_BLANK"><i class="icon-question-sign"></i>
+<p>活动日历</p>
+</a></li>
+<li><a href="/newsView.do?id=274210410"><i class="icon-file-alt"></i>
+<p>就业月历</p>
+</a></li>
+<li><a href="/guid/careerTraning.do"><i class="icon-book"></i>
+<p>直播平台</p>
+</a></li>
+<li><a href="/guid/careerTest.do"><i class="icon-check"></i>
+<p>职业评测</p>
+</a></li>
+<li><a href="/guid/careerCounseling.do"><i class="icon-edit"></i>
+<p>职业咨询</p>
+</a></li>
+</ul>
+</div>
+</div>
+<div class="clear"></div>
+<!--backtop-->
+<div class="backtop">
+<div class="moquu_wxin" id="moquu_wxin">
+<a href="#" target="_self">
+<div class="moquu_wxinh"></div>
+</a>
+</div>
+<!--
+        <div id="moquu_wmaps"> 
+        <a href="http://weibo.com/xjtucareer" target="_blank" class='moquu_wmaps'></a> </div>
+		-->
+<a href="#" id="moquu_top" target="_self"></a>
+</div>
+<!--backtop end-->
+</div>
+<!--footer-->
+<div class="footer">
+<div class="ls_div">
+<div class="clear"></div>
+</div>
+<div class="footerup">
+<div class="bknr">
+<div class="footerleft">
+<dl>
+<dt>毕业签约</dt>
+<dd>本科签约派遣：029-82668040</dd>
+<dd>硕博签约派遣：029-82665455</dd>
+<dd>医学财经校区：029-82657514</dd>
+</dl>
+</div>
+<div class="footerleft">
+<dl>
+<dt>招聘会预定</dt>
+<dd>专场招聘会预定1：029-82665717</dd>
+<dd>专场招聘会预定2：029-82668897</dd>
+<dd>中场招聘会预定：029-82669118</dd>
+<dd></dd>
+</dl>
+</div>
+<div class="footermiddle"><a class="jdlogo" href="/home.do"></a></div>
+<div class="footerright">
+<dl>
+<dt>招聘会预定</dt>
+<dd>笔试教室预定：029-82669118</dd>
+<dd></dd>
+<dd></dd>
+<dd>                         </dd>
+<dd>医学财经校区：029-82657514</dd>
+</dl>
+</div>
+<div class="footerright">
+<dl>
+<dt>咨询与意见反馈</dt>
+<dd>职业咨询：029-82666682</dd>
+<dd>创业辅导：029-82669118</dd>
+<dd>主任信箱： jyzx@mail.xjtu.edu.cn</dd>
+<dd>意见反馈：029-82665017</dd>
+</dl>
+</div>
+<div class="clear"></div>
+</div>
+<div style="text-align: center;">
+<span><a class="qgjyfw" href="http://www.mohrss.gov.cn/SYrlzyhshbzb/rdzt/gjzzrcfw/" target="_blank">国际组织人才信息服务</a></span>
+<!--<span><a class="qgjyfw" href="http://gj.ncss.org.cn/" target="_blank">教育部-国际组织实习任职信息服务平台</a></span>-->
+<span><a class="qgjyfw" href="http://xjtu.ncss.org.cn/rec/login" target="_blank">全国一站式就业服务系统</a></span>
+<span>  <a class="qgjyfw" href="http://www.ncss.org.cn/" target="_blank" title="新职业网">新职业网</a></span>
+<span>  <a class="qgjyfw" href="http://www.snedu.gov.cn" target="_blank" title="陕西省教育厅">陕西省教育厅</a></span>
+<span>  <a class="qgjyfw" href="http://www.snjob.gov.cn" target="_blank" title="陕西公共招聘网">陕西公共招聘网</a></span>
+<span>  <a class="qgjyfw" href="http://job.cas.cn/bns/front/Index/showAddPage.do" target="_blank" title="中国科学院招聘网">中国科学院招聘网</a></span>
+<span><a class="qgjyfw" href="http://xj.ncss.org.cn/" target="_blank">新疆籍毕业生就业创业信息平台</a></span>
+<!--
+								<select name="qq2" onchange="javascript:window.open(this.options[this.selectedIndex].value)"> 
+								<option value="/">十大军工企业</option> 
+                                <option value="http://www.cnnc.com.cn">中国核工业集团公司</option>   
+                                <option value="http://www.spacechina.com/n25/index.html" >中国航天科技集团公司</option>  
+								 <option value="http://www.casic.com.cn/" >中国航天科工集团公司</option> 
+								 <option value="http://www.avic.com.cn/" >中国航空工业集团公司</option> 
+								  <option value="http://www.cssc.net.cn/" >中国船舶工业集团公司</option> 
+								   <option value="http://www.csic.com.cn/" >中国船舶重工集团公司</option> 
+								    <option value="http://www.norincogroup.com.cn/cn/index.aspx" >中国兵器工业集团公司</option> 
+									 <option value="http://www.csgc.com.cn/" >中国兵器装备集团公司</option> 
+									 <option value="http://www.cetc.com.cn/" >中国电子科技集团公司</option>
+                                </select>  
+-->
+</div>
+</div>
+<div class="footerdown">
+	  
+								
+								
+	       <span>版权所有 © 2020 西安交通大学学生就业创业指导服务中心，并保留所有权利 联系人:杨媛 电话：82665017<span><script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F783e83ce0ee350e23a9d389df580f658' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</span></span> </div>
+</div>
+<!--footer end-->
+</div>
+<!--content end-->
+</div>
+<!--main end-->
+</body>
+</html>

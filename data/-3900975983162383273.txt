@@ -1,0 +1,355 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html><head><title>西安交通大学工会</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><link href="css/style.css" rel="stylesheet" type="text/css"/><script src="js/jquery.min.js" type="text/javascript"></script><script src="js/ddsmoothmenu.js" type="text/javascript"></script><script src="js/koala.min.js" type="text/javascript"></script><script src="js/terminator.min.js" type="text/javascript"></script><script src="js/jquery.SuperSlide.js" type="text/javascript"></script>
+<!--Announced at 2020-01-12 18:08:28-->
+<!-- CustomerNO:7765626265374f10697547545253554b03020000 -->
+<link href="index.vsb.css" rel="stylesheet" type="text/css">
+<meta content="西安交通大学工会" name="keywords">
+<script src="system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1316393195)</script>
+</meta></link></head>
+<body>
+<div id="wrapper"><!--head  start-->
+<div class="head">
+<div class="head_a clearfix">
+<div class="yy">
+<div class="logo fl"><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="LOGO" viewid="69201" contype="" stylesysid="" layout="" action="" name="LOGO"--><table border="0" cellpadding="0" cellspacing="0"><tr><td><img alt="/images/logo.png" border="0" src="images/logo.png"/></td></tr></table><!--#endeditable--></div>
+<div class="search fr"><!--#begineditable clone="0" namechanged="0" order="1" ispublic="0" tagname="全文检索" viewid="69325" contype="" stylesysid="" layout="" action="" name="全文检索"-->
+<script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode69325').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword69325").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword69325").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword69325").value = base64.encode(document.getElementById("lucenenewssearchkeyword69325").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode69325"));
+        return true;
+    } 
+</script>
+<form action="search.jsp?wbtreeid=1001" id="a7w4eszpu32a" method="post" name="a7w4eszpu32a" onsubmit="return _nl_ys_check()" style="display: inline">
+<input id="lucenenewssearchkeyword69325" name="lucenenewssearchkeyword" type="hidden" value=""/><input id="_lucenesearchtype69325" name="_lucenesearchtype" type="hidden" value="1"/>
+<table align="center" border="0" cellpadding="0" cellspacing="1" width="100%">
+<tr>
+<td align="right" nowrap="" width="1%">
+<input id="showkeycode69325" name="showkeycode" style="width:180px;background:none;height:33px;border:none;line-height:33px;padding-left:5px;vertical-align:middle"/>
+</td>
+<td align="left">
+<input align="absmiddle" src="images/s-1_03.gif" style="cursor:pointer;vertical-align:middle;float:right" type="image"/>
+</td>
+</tr>
+</table>
+</form><script language="javascript" src="system/resource/js/base64.js"></script><script language="javascript" src="system/resource/js/formfunc.js"></script>
+<!--#endeditable--></div></div></div>
+<div class="head_d">
+<div class="ddsmoothmenu" id="smoothmenu1">
+<ul><!--#begineditable clone="0" namechanged="0" order="2" ispublic="0" tagname="网站导航" viewid="69202" contype="" stylesysid="" layout="" action="" name="网站导航"--> <li><a class="" href="index.htm">首页</a>
+</li>
+<li><a class="" href="ghgk/xyjj.htm">工会概况</a>
+<ul class="ul_2">
+<li><a href="ghgk/xyjj.htm">工会简介</a></li>
+<li><a href="ghgk/ghls.htm">工会历史</a></li>
+<li><a href="ghgk/ldjj.htm">领导分工</a></li>
+<li><a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1034">组织机构</a></li>
+<li><a href="ghgk/wyhzz.htm">委员会职责</a></li>
+<li><a href="ghgk/wsrh.htm">网上入会</a></li>
+<li><a href="ghgk/lxwm.htm">联系我们</a></li>
+</ul>
+</li>
+<li><a class="" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1037">工会工作</a>
+<ul class="ul_3">
+<li><a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1037">职责制度</a></li>
+<li><a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1038">工会文件</a></li>
+<li><a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1039">工作计划</a></li>
+</ul>
+</li>
+<li><a class="" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1009">教代会工作</a>
+<ul class="ul_4">
+<li><a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1009">教代会制度</a></li>
+<li><a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1010">组织机构（各代表团）</a></li>
+<li><a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1011">提案工作</a></li>
+<li><a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1012">二级教代会</a></li>
+</ul>
+</li>
+<li><a class="" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1049">党建工作</a>
+<ul class="ul_5">
+<li><a href="djgz/zzjj.htm">组织简介</a></li>
+<li><a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1052">支部活动</a></li>
+<li><a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1053">学习园地</a></li>
+</ul>
+</li>
+<li><a class="" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1040">社团协会</a>
+<ul class="ul_6">
+<li><a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1040">教工社团</a></li>
+<li><a href="stxh1/zxbm.htm">在线报名</a></li>
+</ul>
+</li>
+<li><a class="" href="ryxj.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1014">荣誉先进</a>
+</li>
+<li><a class="" href="jgzj1/hdzx.htm">教工之家</a>
+<ul class="ul_8">
+<li><a href="jgzj1/hdzx.htm">活动中心</a></li>
+<li><a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1043">职工小家</a></li>
+</ul>
+</li>
+<li><a class="" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1017">政策制度</a>
+<ul class="ul_9">
+<li><a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1017">国家有关法规</a></li>
+<li><a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1018">学校有关规章制度</a></li>
+<li><a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1019">工会有关规则制度</a></li>
+</ul>
+</li>
+<li><a class="" href="list_pic.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1020">活动视频</a>
+</li>
+<li><a class="" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1022">办事指南</a>
+<ul class="ul_11">
+<li><a href="bszn/zyylbzlc.htm">住院医疗补助流程</a></li>
+<li><a href="bszn/knbzsq.htm">困难补助申请</a></li>
+</ul>
+</li>
+<li><a class="" href="#">提案系统</a>
+</li>
+<!--#endeditable--></ul></div><script type="text/javascript">
+ddsmoothmenu.init({
+mainmenuid: "smoothmenu1", //menu DIV id
+orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+classname: 'ddsmoothmenu', //class added to menu's outer DIV
+//customtheme: ["#1c5a80", "#18374a"],
+contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+})
+</script></div></div><!--head end--><!--main strat-->
+<div class="main yy">
+<div class="main_01 clearfix"><!--banner start-->
+<div class="main_01 fl"><!-- 代码 开始 -->
+<div class="focus" id="fsD1">
+<div class="fPic" id="D1pic1"><!--#begineditable clone="0" namechanged="0" order="3" ispublic="0" tagname="图片文章列表--变换图片" viewid="69203" contype="" stylesysid="" layout="" action="" name="图片文章列表--变换图片"--><script language="javascript" src="system/resource/js/dynclicks.js"></script> <div class="fcon">
+<a href="info/1028/3150.htm" target="_blank"><img src="_mediafile/jdgh/2020/01/12/1gzaw96tym.jpg" style="opacity: 1"/></a>
+<span class="shadow"> <a href="info/1028/3150.htm" target="_blank" title="校工会学习传达学校寒假工作会议精神">校工会学习传达学校寒假工作会议精神</a> </span>
+</div>
+<div class="fcon">
+<a href="info/1028/3146.htm" target="_blank"><img src="_mediafile/jdgh/2020/01/10/a48ht3enzw.jpg" style="opacity: 1"/></a>
+<span class="shadow"> <a href="info/1028/3146.htm" target="_blank" title="“弘扬‘四面旗帜’ 绘就文明底色”主题摄影图片展举行">“弘扬‘四面旗帜’ 绘就文明底色...</a> </span>
+</div>
+<div class="fcon">
+<a href="info/1028/3141.htm" target="_blank"><img src="_mediafile/jdgh/2020/01/06/4viuxe59qm.jpg" style="opacity: 1"/></a>
+<span class="shadow"> <a href="info/1028/3141.htm" target="_blank" title="学校赴云南施甸考察消费扶贫">学校赴云南施甸考察消费扶贫</a> </span>
+</div>
+<div class="fcon">
+<a href="info/1028/3140.htm" target="_blank"><img src="http://202.117.18.198:8080/_mediafile/contribute/2020/01/06/2t9d1tz97n.jpg" style="opacity: 1"/></a>
+<span class="shadow"> <a href="info/1028/3140.htm" target="_blank" title="【身心健康进行时】十二月教职工活动精彩回眸">【身心健康进行时】十二月教职工...</a> </span>
+</div>
+<div class="fcon">
+<a href="info/1028/3137.htm" target="_blank"><img src="http://202.117.18.198:8080/_mediafile/contribute/2020/01/03/22l296w7t7.jpg" style="opacity: 1"/></a>
+<span class="shadow"> <a href="info/1028/3137.htm" target="_blank" title="西安交大2020“迎新年”教职工网球比赛成功举行">西安交大2020“迎新年”教职工网...</a> </span>
+</div>
+<div class="fcon">
+<a href="info/1028/3120.htm" target="_blank"><img src="http://202.117.18.198:8080/_mediafile/contribute/2019/12/30/2e2vlthiji.jpg" style="opacity: 1"/></a>
+<span class="shadow"> <a href="info/1028/3120.htm" target="_blank" title="我校张志成教授获得 “陕西省职工十大创新创业人物”荣誉称号">我校张志成教授获得 “陕西省职工...</a> </span>
+</div>
+<script>_showDynClickBatch(['dynclicks_u3_3150','dynclicks_u3_3146','dynclicks_u3_3141','dynclicks_u3_3140','dynclicks_u3_3137','dynclicks_u3_3120'],[3150,3146,3141,3140,3137,3120],"wbnews", 1316393195)</script>
+<!--#endeditable--></div>
+<div class="fbg">
+<div class="D1fBt" id="D1fBt"><a class="current" hidefocus="" href="javascript:void(0)" target="_self"><i>1</i></a> <a hidefocus="" href="javascript:void(0)" target="_self"><i>2</i></a> <a hidefocus="" href="javascript:void(0)" target="_self"><i>3</i></a> <a hidefocus="" href="javascript:void(0)" target="_self"><i>4</i></a><a hidefocus="" href="javascript:void(0)" target="_self"><i>5</i></a> <a hidefocus="" href="javascript:void(0)" target="_self"><i>6</i></a></div></div><span class="prev"></span><span class="next"></span></div><script type="text/javascript">
+    Qfast.add('widgets');  
+    Qfast(false, 'widgets', function () {
+        K.tabs({
+            id: 'fsD1',   //焦点图包裹id  
+            conId: "D1pic1",  //** 大图域包裹id  
+            tabId:"D1fBt",  
+            tabTn:"a",
+            conCn: '.fcon', //** 大图域配置class       
+            auto: 1,   //自动播放 1或0
+            effect: 'fade',   //效果配置
+            eType: 'click', //** 鼠标事件
+            pageBt:true,//是否有按钮切换页码
+            bns: ['.prev', '.next'],//** 前后按钮配置class                          
+            interval: 5000  //** 停顿时间  
+        }) 
+    })  
+</script><!-- 代码 结束 --></div><!--banner end-->
+<div class="xwkx fr">
+<div class="xwkx_a clearfix"><a class="more" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1028"><img height="11" src="images/more.png" width="53"/></a>
+<div class="zi fl"><span class="xw">新闻</span><span class="kx">快讯</span></div></div>
+<div class="xwkx_con">
+<ul><!--#begineditable clone="0" namechanged="0" order="4" ispublic="0" tagname="标题列表--新闻快讯" viewid="69204" contype="" stylesysid="" layout="" action="" name="标题列表--新闻快讯"--> <li class="clearfix">
+<div class="xwkx_con_fl fl">
+<div class="xwkx_kuai">
+<div class="date"><span>12</span></div>
+<div class="month"><span>2020/01</span></div>
+</div>
+</div>
+<div class="xwkx_con_fr fr"> <a href="info/1028/3150.htm" target="_blank" title="校工会学习传达学校寒假工作会议精神">校工会学习传达学校寒假工作会议精神</a>
+<p>1月11日，校工会未参会人员集体观看2020年寒假工作会议直播。1月12日中午，校工会组织全体人员召开集体...</p>
+</div>
+</li>
+<li class="clearfix">
+<div class="xwkx_con_fl fl">
+<div class="xwkx_kuai">
+<div class="date"><span>10</span></div>
+<div class="month"><span>2020/01</span></div>
+</div>
+</div>
+<div class="xwkx_con_fr fr"> <a href="info/1028/3146.htm" target="_blank" title="“弘扬‘四面旗帜’ 绘就文明底色”主题摄影图片展举行">“弘扬‘四面旗帜’ 绘就文明底色”主...</a>
+<p>2020年年初，“弘扬‘四面旗帜’ 绘就文明底色”主题摄影图片展在西安交通大学四大发明广场展出。影展展...</p>
+</div>
+</li>
+<li class="clearfix">
+<div class="xwkx_con_fl fl">
+<div class="xwkx_kuai">
+<div class="date"><span>06</span></div>
+<div class="month"><span>2020/01</span></div>
+</div>
+</div>
+<div class="xwkx_con_fr fr"> <a href="info/1028/3141.htm" target="_blank" title="学校赴云南施甸考察消费扶贫">学校赴云南施甸考察消费扶贫</a>
+<p>2020年新年伊始，校工会、扶贫办组织考察组前往云南施甸考察消费扶贫，引进农副产品进校园。财务处、采...</p>
+</div>
+</li>
+<script>_showDynClickBatch(['dynclicks_u4_3150','dynclicks_u4_3146','dynclicks_u4_3141'],[3150,3146,3141],"wbnews", 1316393195)</script>
+<!--#endeditable--></ul></div></div></div><!--第一部分结束三块开始-->
+<div class="xsk clearfix yy">
+<div class="tzxz fl"><!--通知公告-->
+<div class="tzgg">
+<div class="tzgg_a clearfix"><a class="more" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1029"><img height="11" src="images/more.png" width="53"/></a>
+<div class="zi fl"><span class="xw">通知</span><span class="kx">公告</span></div></div>
+<div class="tzgg_zi">
+<ul><!--#begineditable clone="0" namechanged="0" order="5" ispublic="0" tagname="标题列表--通知公告" viewid="69205" contype="" stylesysid="" layout="" action="" name="标题列表--通知公告"-->
+<li><a href="info/1029/3145.htm" target="_blank" title="关于推荐“陕西省五一巾帼标兵”的公示">关于推荐“陕西省五一巾帼标兵...</a></li>
+<li><a href="info/1029/3144.htm" target="_blank" title="公示">公示</a></li>
+<li><a href="info/1029/3143.htm" target="_blank" title="喜迎春节送春联，师生携手送祝福">喜迎春节送春联，师生携手送祝福</a></li>
+<li><a href="info/1029/3114.htm" target="_blank" title="关于开展“迎新年”教职工网球比赛的通知">关于开展“迎新年”教职工网球...</a></li>
+<li><a href="info/1029/3103.htm" target="_blank" title="关于开展教职工法律讲座培训的通知">关于开展教职工法律讲座培训的通知</a></li>
+<li><a href="info/1029/3086.htm" target="_blank" title="关于组织参加第十三届全国百家网站微信公众号法律知识竞赛活动的通知">关于组织参加第十三届全国百家...</a></li>
+<li><a href="info/1029/3064.htm" target="_blank" title="关于举办2020年校运会团体操培训的通知">关于举办2020年校运会团体操培...</a></li>
+<li><a href="info/1029/3059.htm" target="_blank" title="关于举办2019年西安交通大学“不忘初心、凝心聚力”教职工五人制足球赛的通知">关于举办2019年西安交通大学“...</a></li>
+<script>_showDynClickBatch(['dynclicks_u5_3145','dynclicks_u5_3144','dynclicks_u5_3143','dynclicks_u5_3114','dynclicks_u5_3103','dynclicks_u5_3086','dynclicks_u5_3064','dynclicks_u5_3059'],[3145,3144,3143,3114,3103,3086,3064,3059],"wbnews", 1316393195)</script>
+<!--#endeditable--></ul></div></div><!--下载中心-->
+<div class="xzzx">
+<div class="xzzx_a clearfix"><a class="more" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1031"><img height="11" src="images/more.png" width="53"/></a>
+<div class="zi fl"><span class="xw">下载</span><span class="kx">中心</span></div></div>
+<div class="xzzx_zi">
+<ul><!--#begineditable clone="0" namechanged="0" order="6" ispublic="0" tagname="标题列表--下载中心" viewid="69206" contype="" stylesysid="" layout="" action="" name="标题列表--下载中心"--> <li><a href="info/1031/2840.htm" target="_blank" title="西安交通大学教代会代表提案表">西安交通大学教代会代表提案表</a></li>
+<li><a href="info/1031/2291.htm" target="_blank" title="西安交通大学教职工困难补助申请表">西安交通大学教职工困难补助申请表</a></li>
+<li><a href="info/1031/1287.htm" target="_blank" title="困难补助通知单">困难补助通知单</a></li>
+<li><a href="info/1031/1289.htm" target="_blank" title="工 会 会 员 登 记 表">工 会 会 员 登 记 表</a></li>
+<li><a href="info/1031/1290.htm" target="_blank" title="教职工健步走协会报名表">教职工健步走协会报名表</a></li>
+<li><a href="info/1031/1291.htm" target="_blank" title="西安交通大学加入教职工社团申请表">西安交通大学加入教职工社团申请表</a></li>
+<script>_showDynClickBatch(['dynclicks_u6_2840','dynclicks_u6_2291','dynclicks_u6_1287','dynclicks_u6_1289','dynclicks_u6_1290','dynclicks_u6_1291'],[2840,2291,1287,1289,1290,1291],"wbnews", 1316393195)</script>
+<!--#endeditable--></ul></div></div></div><!--第二块-->
+<div class="jchd fl"><!--基层动态-->
+<div class="jcdt">
+<div class="jcdt_a clearfix"><a class="more" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1030"><img height="11" src="images/more.png" width="53"/></a>
+<div class="zi fl"><span class="xw">基层</span><span class="kx">动态</span></div></div>
+<div class="jcdt_zi">
+<ul><!--#begineditable clone="0" namechanged="0" order="7" ispublic="0" tagname="标题列表--基层动态" viewid="69207" contype="" stylesysid="" layout="" action="" name="标题列表--基层动态"--> <li><span class="jcdt_date fr">[2020-01-11]</span><a href="info/1030/3147.htm" target="_blank" title="经金学院举行退休职工荣休仪式">经金学院举行退休职工荣休仪式</a></li>
+<li><span class="jcdt_date fr">[2020-01-07]</span><a href="info/1030/3142.htm" target="_blank" title="电气工程学院召开第十二届教代会第五次会议暨工会会员大会">电气工程学院召开第十二届教代会第五次会议暨工会...</a></li>
+<li><span class="jcdt_date fr">[2020-01-03]</span><a href="info/1030/3139.htm" target="_blank" title="后勤保障部饮食服务中心2019岗位技术练兵决赛举行">后勤保障部饮食服务中心2019岗位技术练兵决赛举行</a></li>
+<li><span class="jcdt_date fr">[2020-01-03]</span><a href="info/1030/3138.htm" target="_blank" title="人居学院举办2020年新年联欢会">人居学院举办2020年新年联欢会</a></li>
+<li><span class="jcdt_date fr">[2020-01-02]</span><a href="info/1030/3136.htm" target="_blank" title="生命学院举办奔向2020元旦冬季越野赛">生命学院举办奔向2020元旦冬季越野赛</a></li>
+<li><span class="jcdt_date fr">[2020-01-02]</span><a href="info/1030/3135.htm" target="_blank" title="2019年材料学院年终总结表彰大会举行">2019年材料学院年终总结表彰大会举行</a></li>
+<li><span class="jcdt_date fr">[2020-01-02]</span><a href="info/1030/3134.htm" target="_blank" title="材料学院成功举办2020年迎新长跑活动">材料学院成功举办2020年迎新长跑活动</a></li>
+<li><span class="jcdt_date fr">[2020-01-02]</span><a href="info/1030/3132.htm" target="_blank" title="医学部工会举行教职工迎新年越野赛">医学部工会举行教职工迎新年越野赛</a></li>
+<script>_showDynClickBatch(['dynclicks_u7_3147','dynclicks_u7_3142','dynclicks_u7_3139','dynclicks_u7_3138','dynclicks_u7_3136','dynclicks_u7_3135','dynclicks_u7_3134','dynclicks_u7_3132'],[3147,3142,3139,3138,3136,3135,3134,3132],"wbnews", 1316393195)</script>
+<!--#endeditable--></ul></div></div><!--活动掠影-->
+<div class="hdly">
+<div class="hdly_a clearfix"><a class="more" href="list_pic.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1020"><img height="11" src="images/more.png" width="53"/></a>
+<div class="zi fl"><span class="xw">活动</span><span class="kx">掠影</span></div></div>
+<div class="hdly_g">
+<div class="slideTxtBox2">
+<div class="bd">
+<div class="infoList" id="leftMarquee">
+<div class="bdr"><!--#begineditable clone="0" namechanged="0" order="8" ispublic="0" tagname="标题列表" viewid="69238" contype="" stylesysid="" layout="" action="" name="标题列表"--><ul>
+<li class="hceg1"><a href="info/1030/3147.htm"><img height="185" src="images/20/01/11/3arjj8zuyu/w9wz_image001.jpg" width="280">
+经金学院举行退休职工荣休仪式</img></a></li>
+<li class="hceg2"><a href="info/1030/3142.htm"><img height="185" src="_mediafile/jdgh/2020/01/07/k4rfocbxup.jpg" width="280">
+电气工程学院召开第十二届...</img></a></li>
+<li class="hceg3"><a href="info/1030/3139.htm"><img height="185" src="_mediafile/jdgh/2020/01/03/dnw8y8h84p.jpg" width="280">
+后勤保障部饮食服务中心201...</img></a></li>
+<li class="hceg4"><a href="info/1030/3138.htm"><img height="185" src="http://cmsn.xjtu.edu.cn:8080/_vsl/FADE80AECF275A2000C62DDAE4E3C4F2/546A0671/5AAB9" width="280">
+人居学院举办2020年新年联...</img></a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u8_3147','dynclicks_u8_3142','dynclicks_u8_3139','dynclicks_u8_3138'],[3147,3142,3139,3138],"wbnews", 1316393195)</script>
+<!--#endeditable--></div><script type="text/javascript">$("#leftMarquee").slide({mainCell:".bdr ul",effect:"leftMarquee",vis:2,interTime:40,autoPlay:true});</script></div></div></div><script type="text/javascript">$(".slideTxtBox2").slide();</script></div></div></div><!-- 第三块 -->
+<div class="xgjg fr"><!--相关链接-->
+<div class="xglj">
+<div class="xglj_bt">相关链接</div>
+<div class="xglj_nr">
+<ul>
+<li style="z-index: 100"><a href="#">
+<div class="xglj_kuai1">
+<div class="xglj_z">上级工会</div></div></a>
+<ul class="ej-link"><!--#begineditable clone="0" namechanged="0" order="9" ispublic="0" tagname="链接列表--上级工会" viewid="69327" contype="" stylesysid="" layout="" action="" name="链接列表--上级工会"--><script language="javascript" src="system/resource/js/openlink.js"></script><ul>
+<li><a class="c69327" href="http://www.acftu.org/" onclick='_addDynClicks("wburl", 1316393195, 13204)' title="">中华全国总工会</a></li>
+<li><a class="c69327" href="http://www.shxgh.org/" onclick='_addDynClicks("wburl", 1316393195, 13101)' title="">陕西总工会</a></li>
+<li><a class="c69327" href="http://www.snjkwwt.cn/" onclick='_addDynClicks("wburl", 1316393195, 13102)' title="">陕西省教科文卫体工会</a></li>
+</ul><!--#endeditable--></ul></li>
+<li style="z-index: 99"><a href="#">
+<div class="xglj_kuai2">
+<div class="xglj_z">高校工会</div></div></a>
+<ul class="ej-link2"><!--#begineditable clone="0" namechanged="0" order="10" ispublic="0" tagname="链接列表--高校工会" viewid="69328" contype="" stylesysid="" layout="" action="" name="链接列表--高校工会"--><ul>
+<li><a class="c69328" href="http://gh.sjtu.edu.cn/web/sjtugh/4710001.htm" onclick='_addDynClicks("wburl", 1316393195, 13103)' title="">上海交通大学工会</a></li>
+<li><a class="c69328" href="http://gh.njtu.edu.cn/" onclick='_addDynClicks("wburl", 1316393195, 13104)' title="">北京交通大学工会</a></li>
+<li><a class="c69328" href="http://xgh.swjtu.edu.cn/" onclick='_addDynClicks("wburl", 1316393195, 13106)' title="">西南交通大学工会</a></li>
+<li><a class="c69328" href="http://gonghui.nwpu.edu.cn/" onclick='_addDynClicks("wburl", 1316393195, 13105)' title="">西北工业大学工会</a></li>
+</ul><!--#endeditable--></ul></li>
+<li style="z-index: 98"><a href="">
+<div class="xglj_kuai3">
+<div class="xglj_z">其他链接</div></div></a>
+<ul class="ej-link3"><!--#begineditable clone="0" namechanged="0" order="11" ispublic="0" tagname="链接列表--其他链接" viewid="69329" contype="" stylesysid="" layout="" action="" name="链接列表--其他链接"--><ul>
+</ul><!--#endeditable--></ul></li></ul></div></div><!--教工健身-->
+<div class="jgjs">
+<div class="jgjs_bt">教工健身</div>
+<div class="jgjs_nr">
+<ul><!--#begineditable clone="0" namechanged="0" order="12" ispublic="0" tagname="链接列表--教工健身" viewid="69210" contype="" stylesysid="" layout="" action="" name="链接列表--教工健身"--> <a href="#" onclick='_addDynClicks("wburl", 1316393195, 13030)' target="_blank" title="">
+<div class="jgjs_kuai1">
+<div class="jgjs_z">相关内容</div>
+</div>
+</a>
+<!--#endeditable--></ul></div></div><!--公共服务-->
+<div class="ggfw">
+<div class="ggfw_bt">公共服务</div>
+<div class="ggfw_nr">
+<ul class="clearfix"><!--#begineditable clone="0" namechanged="0" order="13" ispublic="0" tagname="图片列表--公共服务" viewid="69215" contype="" stylesysid="" layout="" action="" name="图片列表--公共服务"-->
+<li>
+<a href="http://www.8684.cn/" onclick='_addDynClicks("wbimage", 1316393195, 29327)' target="_blank" title="">
+<img border="0" height="30" src="images/gg01.png" width="109"/>
+</a>
+</li>
+<li style="float:right">
+<a href="http://www.12306.cn/mormhweb/" onclick='_addDynClicks("wbimage", 1316393195, 29328)' target="_blank" title="">
+<img border="0" height="30" src="images/gg02.png" width="109"/>
+</a>
+</li>
+<li>
+<a href="http://flight.qunar.com/?kwid=95965|3305304644&amp;cooperate=baidu50" onclick='_addDynClicks("wbimage", 1316393195, 29329)' target="_blank" title="">
+<img border="0" height="30" src="images/gg03.png" width="109"/>
+</a>
+</li>
+<li style="float:right">
+<a href="http://www.nmc.cn/" onclick='_addDynClicks("wbimage", 1316393195, 29330)' target="_blank" title="">
+<img border="0" height="30" src="images/gg04.png" width="109"/>
+</a>
+</li>
+<li>
+<a href="http://www.xjtu.edu.cn/xxfw/cydh.htm" onclick='_addDynClicks("wbimage", 1316393195, 29331)' target="_blank" title="">
+<img border="0" height="30" src="images/gg05.jpg" width="109"/>
+</a>
+</li>
+<li style="float:right">
+<img border="0" height="30" src="images/gg06.png" title="" width="109"/>
+</li>
+<!--#endeditable--></ul>
+<div class="zxxx"><span class="zxxx_z"><!--#begineditable clone="0" namechanged="0" order="14" ispublic="0" tagname="链接列表--主席信箱" viewid="69212" contype="" stylesysid="" layout="" action="" name="链接列表--主席信箱"-->
+<a href="#" onclick='_addDynClicks("wburl", 1316393195, 13029)' target="_blank" title="">主席信箱</a>
+<!--#endeditable--></span></div></div></div></div></div></div><!-- main end--><!--foot strat-->
+<div class="foot">
+<div class="foot_z"><!--#begineditable clone="0" namechanged="0" order="15" ispublic="0" tagname="版权" viewid="69213" contype="" stylesysid="" layout="" action="" name="版权"--><p>地址：陕西省西安市碑林区咸宁西路28号    设计与制作：西安交通大学网络信息中心<br/>版权所有：西安交通大学工会    邮编710049</p><!--#endeditable--></div></div></div><!--foot end-->
+</body></html>

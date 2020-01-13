@@ -1,0 +1,690 @@
+<!DOCTYPE html>
+ <html> <head> <meta charset="utf-8"/> <title>西安交通大学大型仪器设备物联共享系统</title> <link href="/home/themes/jiaoda/Public/img/favicon.ico" rel="shortcut icon" type="image/x-icon"/> <link href="/home/themes/jiaoda/Public/css/base.css" rel="stylesheet"> <link href="/home/themes/jiaoda/Public/css/swiper.min.css" rel="stylesheet"/> <link href="/home/themes/jiaoda/Public/css/index.css" rel="stylesheet"/> </link></head> <body class="body"> <!--外部头部--> <script src="/home/themes/jiaoda/Public/js/jquery-1.9.1.js" type="text/javascript"></script> <script src="/home/themes/jiaoda/Public/js/swiper.min.js" type="text/javascript"></script> <script src="/home/themes/jiaoda/Public/js/sea.js" type="text/javascript"></script> <script src="/home/themes/jiaoda/Public/js/echarts.min.js" type="text/javascript"></script> <script type="text/javascript">    $().ready(function () {
+        //下拉菜单 - 显示与隐藏
+        $(".btn-subMenu").click(function () {
+            if ($('.sub-menu').css('display') == 'none') {
+                $(".btn-subMenu").addClass("hover");
+                $('.sub-menu').css('display', 'block');
+                $(".login").animate({width: '0'});
+                $(".btn_out_login").show();
+            } else {
+                $('.sub-menu').css('display', 'none');
+                $(".btn-subMenu").removeClass("hover");
+            }
+        });
+    });
+    function show_top_1() {
+        $(".top_2").hide();
+        $(".top_1").show();
+        $(".top-color-1").show();
+    }
+
+    function show_top_2() {
+        $(".top_2").show();
+        $(".top_1").hide();
+        $(".top-color-1").hide();
+    }
+</script> <header class="header-div"> <div class="top-login"> <img src="/home/themes/jiaoda/Public/img/logo.jpg" style="width: 370px;"/> </div> <div class="top-right"> <div class="top-list top-color-1"> <a href="javascript:show_top_2()"> <i class="icon_ss" style="margin-top: 35px;"></i> </a> </div> <div class="top-list top-color-2"> <a class="btn-subMenu"> <i class="icon_pt"></i> <span>公共平台</span> </a> </div> <div class="top-list top-color-3"> <!-- <a class="btn-loginView" href="http://equip.xjtu.edu.cn/lims/xjtu/cas/login"> --> <a class="btn-loginView" href="https://cas.xjtu.edu.cn/cas/login?service=http%3A%2F%2Fequip.xjtu.edu.cn%2Flims%2Fxjtu%2Fcas%2Flogin" id="top_4"> <i class="icon_rk"></i> <span>统一身份入口</span> </a> </div> </div> <div class="top-left"> <ul class="top_1"> <li> <a class="hover" href="/home/index.php?g=ind&amp;m=list&amp;a=index"> <i class="icon_house-1"></i> <span>首页</span> </a> </li> <li> <a href="/home/index.php?g=ind&amp;m=list&amp;a=desc"> <i class="icon_pt"></i> <span>平台简介</span> </a> </li> <li> <a href="/home/index.php?g=ind&amp;m=list&amp;a=classify_list"> <i class="icon_yq"></i> <span>仪器分类</span> </a> </li> <li> <a href="/home/index.php?g=ind&amp;m=list&amp;a=posts_list"> <i class="icon_zc"></i> <span>政策法规</span> </a> </li> <li> <a href="/home/index.php?g=ind&amp;m=list&amp;a=down_list"> <i class="icon_zn"></i> <span>使用指南</span> </a> </li> <li> <a href="/home/index.php?g=ind&amp;m=list&amp;a=tel"> <i class="icon_lx"></i> <span>联系我们</span> </a> </li> </ul> <div class="search top_2" style="display: none;"> <a href="javascript:show_top_1()"> <img src="/home/themes/jiaoda/Public/img/gb.png"/> </a> <div class="search-input"> <form action="/home/index.php?g=ind&amp;m=list&amp;a=serch_list" id="search" method="post"> <input name="text" placeholder="请输入搜索内容" type="text"/> <a href="javascript:sub()"> <i class="icon_ss"></i> </a> </form> <script>                    function sub() {
+                        $("#search").submit();
+                    }
+                    function die_die() {
+
+                    }
+                </script> </div> <div class="tooltip"> <span>如进行仪器查询，请进入“仪器分类”目录！</span> </div> </div> </div> <div class="login" style="display: none"> <h1>校外用户登录<i class="right icon-close"></i></h1> <form action="http://equip.xjtu.edu.cn/lims/login" id="log" method="post"> <div class="login-dl"> <div class="login-input"> <i class="icon-yh"></i> <input class="input-p" name="token" placeholder="用户名" required="required"/> <input name="token_backend" type="hidden" value="database"/> </div> <div class="login-input"> <i class="icon-mm"></i> <input class="input-p" name="password" placeholder="密码" required="required" type="password"> </input></div> <input class="button" name="submit" type="submit" value="马上登录"/> <!--<button class="button" type="button" onclick="sub_log()">马上登录</button> <script>                function sub_log() {
+                    $("#log").submit();
+                }
+            </script>--> <p><a href="http://equip.xjtu.edu.cn/lims/recovery" id="top_2">忘记密码？点击找回密码</a></p> </div> </form> <div class="login-z"> <a href="http://equip.xjtu.edu.cn/lims/!labs/signup/lab" id="top_3">还没有账户？立即注册&gt;</a> </div> </div> <div class="sub-menu" style="background-color:rgba(50, 51, 53,0.7); display: none"> <div class="menu_wrap"> <div class="menu_inner"> <div class="main_button_inner"> <a href="http://equip.xjtu.edu.cn/lims/" id="tou_1"><div class="main_button">大型设备公共平台</div></a> </div> <div class="child_menu_inner"> <a class="child_menu_top child_button" href="">分析测试中心建设中...</a> <a class="child_menu_bottom child_button" href="">学院平台建设中...</a> </div> </div> </div> </div> <script type="text/javascript">        $().ready(function () {
+            var url = 'http://'+window.location.host;
+            //alert(url);
+            $('#tou_1').attr('href',url+'/lims/');
+            $('#tou_2').attr('href',url+'/lims/recovery');
+            $('#tou_3').attr('href',url+'/lims/!labs/signup/lab');
+            $('#log').attr('action',url+'/lims/login');
+            $('#tou_4').attr('href',url+'/cas/login?service=http%3A%2F%2Fequip.xjtu.edu.cn%2Flims%2Fxjtu%2Fcas%2Flogin');
+        });
+    </script> </header> <script src="/home/themes/jiaoda/Public/js/shishi.js" type="text/javascript"></script> <!--内容--> <a class="out_login btn_out_login"> <img class="out_login_img" src="/home/themes/jiaoda/Public/img/out_login.png"/> </a> <a class="out_login" href="/home/themes/jiaoda/Public/file/大型设备物联共享系统常见问题解答.pdf" style="top:240px" target="_blank"> <img class="out_login_img" src="/home/themes/jiaoda/Public/img/log2.png"/> <div style="width:20px;height:90px;margin-top:-110px;margin-left:9px;line-height:15px;text-align:center;font-size:12px;color:#FFFFFF">常见问题解答</div> </a> <section> <!-- Swiper --> <div class="module01 swiper-container out_login_inner"> <div class="swiper-wrapper"> <div class="swiper-slide"><a href=""><img src="data/upload/admin/20171229/5a45ea7872f55.png"/></a></div><div class="swiper-slide"><a href=""><img src="data/upload/admin/20171229/5a45ea510f669.png"/></a></div><div class="swiper-slide"><a href="http://news.xjtu.edu.cn/info/1033/114413.htm"><img src="data/upload/admin/20190611/5cff799f9d9a0.jpg"/></a></div> </div> <div class="swiper-pagination"></div> </div> <script>        var swiper = new Swiper(' .swiper-container', {
+            pagination: ' .swiper-pagination',
+            paginationClickable: true,
+            /*nextButton: '.swiper-button-next',
+             prevButton: '.swiper-button-prev',*/
+            spaceBetween: 30,
+            centeredSlides: true,
+            autoplay: 2500,
+            autoplayDisableOnInteraction: false
+        });
+        function die_die() {
+            
+        }
+    </script> <div class="content clearfloat"> <div class="cont"> <h3><i class="icon-jl" style="margin-right:10px;"></i>实时使用记录</h3> <div id="demo" style="OVERFLOW: hidden;HEIGHT: 265px;"> <table border="0" cellpadding="0" cellspacing="0" style="width:490px;"> <tr> <td id="demo1"> <ul class="con" style="height: auto;padding:0px;"> </ul> </td> </tr> <tr> <td id="demo2"></td> </tr> </table> </div> </div> <div class="cont cont-right"> <h3><i class="icon-gonggao" style="margin-right:10px;"></i>公告 <a href="/home/index.php?g=ind&amp;m=list&amp;a=notice_list" style="display:inline"><span class="more right">更多&gt;</span></a></h3> <div class="notice"> <div class="notice-left"> <img src="/home/themes/jiaoda/Public/img/left-yuan.png"/> </div> <ul> <li> <a href="/home/index.php?g=ind&amp;m=list&amp;a=notice&amp;id=22"> <div class="notice-top"> <span class="left title">2019年下半年分析测试技术培训安排</span> <span class="right time">2019-03-28</span> </div> <p>为提升我校师生分析测试技术水平，充分开发仪器设备功能，培养学生自主上机操作能力，分析测试共享中心计划本学期面向全校师生开展7场分析测试技术培训。本学期分析测试技术培训工作分为理论培训、演示培训及实操训练三部分，师生可根据科研工作需要选择相应课程报名参加理论培训及演示培训。通过理论培训及演示培训考核的师生，可申请参加后续实操训练环节。中心根据考核结果，择优录取，实操训练安排另行单独通知。相关理论及演示培训计划安排如下：序号培训内容培训时间培训教师1场发射扫描电子显微镜分析技术理论培训及演示培训每周周一全天任子君2场发射透射电子显微镜分析技术理论培训及演示培训每周周一全天李 娇李 超3无机定量分析技术理论培训10月16日14:00-15:00演示培训10月16日15:00-18:00周国庆4X射线光电子能谱仪分析技术理论培训10月30日14:00-15:00演示培训10月30日15:00-18:00刘佳梅5冷冻透射电镜分析技术理论培训11月13日14:00-15:00演示培训11月13日15:00-18:00童慧敏6核磁共振波谱仪分析技术理论培训11月27日14:00-15:00演示培训11月27日15:00-18:00常 刚7X射线衍射仪分析技术理论培训12月11日14:00-15:00演示培训12月11日15:00-18:00吴小清黄 畅凡报名参加相应培训的师生需填写报名申请表，于相关培训课程开始前一周将报名表电子版（导师签字后扫描）发送至中心邮箱或纸质版送至中心办公室。培训工作不收取任何费用。理论培训地点：分析测试共享中心北108室演示培训及实操训练培训地点：分析测试共享中心各仪器间联系人：陈 曼联系电话：029-82666176办公地址：分析测试共享中心北105室电子邮箱：iac@xjtu.edu.cn申请表格下载</p> </a> </li><li> <a href="/home/index.php?g=ind&amp;m=list&amp;a=notice&amp;id=21"> <div class="notice-top"> <span class="left title">关于开展2019年大型仪器设备运行补助基金项目申报的通知
+</span> <span class="right time">2019-02-26</span> </div> <p>关于开展2019年大型仪器设备运行补助基金项目申报的通知 各相关院、部、国家重点实验室：为了充分推动学校大型仪器设备开放共享，提升大型设备使用效益，鼓励跨学科交流合作，根据《西安交通大学仪器设备开放共享管理办法》（西交实〔2016〕16号）和《西安交通大学大型仪器设备运行补助基金实施细则》（西交实〔2017〕32号）规定，现开展大型仪器设备运行补助基金项目申报工作，有关事项通知如下：一、   基金使用范围申请人使用学校大型仪器设备时可使用该基金支付一定比例的分析测试费用。使用该基金的大型仪器设备范围限定于接入学校“大型仪器设备物联共享系统（以下简称共享系统）”并开展有偿服务的单价40万元以上教学科研用设备。若申请人本人为拟用大型仪器设备领用责任人或申请人使用大型仪器设备可享受价格优惠时，不得使用该基金。二、   申报范围申请人范围限定于我校45岁以下教学科研人员，并且担任科研项目负责人。三、   申报及执行流程1、  本次申请采用项目额度申报制。各申请人需在共享系统中“成果管理”模块录入近一年来产生的科研成果并填写《西安交通大学大型仪器设备运行补助基金申请表》。经学院负责人审查确认并签署意见后，于3月20日17：00前报实验室与资产管理处。2、  实验室处对各单位提交的材料进行审查并组织专家进行项目评审，确定资助额度。每名申请人当年资助额度不超过贰万元。3、  项目评审通过后，实验室与资产管理处通过共享系统为申请人拨付资助额度，申请人按照申请使用设备的开放共享安排，自行通过共享系统预约使用设备。4、  结算测试费时,在本人可使用额度范围内，系统根据实际发生测试费用按规定支付一定比例的测试费用，校级平台大型仪器设备可支付比例为50%，院级平台大型仪器设备可支付比例为30%，剩余费用自付。5、  批复额度在年底前执行完成。未执行额度年底清零。6、  申请人需在12月20日前提交《西安交通大学大型仪器设备运行补助基金使用情况总结表》。未按时提交下一年度不予资助。7、  各项目负责人需按照申请内容如实使用基金并接受学校审计，不得挪用。对于虚报机时，伪造使用记录等行为严肃查处。四、   其余事项1、各申请人拟使用大型仪器设备未接入共享系统的，可由设备管理人员同实验室与资产管理处联系，开展设备接入及培训工作。2、各申请人拟使用大型仪器设备暂未开展有偿服务的，需首先按照《西安交通大学仪器设备开放共享管理办法》（西交实〔2016〕16号）相关规定制定收费标准及相关管理制度，学校审批通过后方可开展有偿服务。 大型设备共享管理中心办公地点及联系方式：教学主楼E座1410室，电话：82668817，联系人：谷文媛。 附件一：《西安交通大学大型仪器设备运行补助基金申请表》；附件二：《西安交通大学大型仪器设备运行补助基金使用情况总结表》。 实验室与资产管理处2019年2月25日 </p> </a> </li><li> <a href="/home/index.php?g=ind&amp;m=list&amp;a=notice&amp;id=20"> <div class="notice-top"> <span class="left title">关于开展2019年大型仪器设备维修项目申报的通知</span> <span class="right time">2019-02-26</span> </div> <p>关于开展2019年大型仪器设备维修项目申报的通知 各相关院、部、国家重点实验室：为保证学校大型仪器设备良好运行状态，提高使用效益，根据《西安交通大学仪器设备开放共享管理办法》（西交实〔2016〕16号）和《西安交通大学大型仪器设备维修基金实施细则》（西交实〔2017〕31号）的有关规定，现开展2019年大型仪器设备维修项目申报工作，有关事项通知如下：一、   基金使用范围维修基金可用于大型仪器设备维修维护、零部件购置、新功能开发和技术升级改造工作。二、   申报范围凡学校单价40万元以上、教学科研用大型仪器设备均可申请该基金。该基金优先支持校级平台及院级平台大型仪器设备，优先支持开放共享、管理规范、运行效益良好的大型仪器设备。三、   申报及执行流程1、  该基金采用项目申报制。各单位申请前需进行一定比例的经费配套，原则上自筹比例不低于总费用的30%。2、  各单位组织设备管理责任人（申请人）填写《西安交通大学大型仪器设备维修项目申报书》，说明申请理由、日常运行管理情况、需维修项目、经费需求、验收指标等内容，经单位负责人审核后，于2019年3月20日17:00前报实验室与资产管理处。3、  实验室与资产管理处统一组织项目评审论证会（具体安排另行通知）并确定项目资助额度。主要考察：（1）维修必要性、可行性；（2）历史运行管理情况及开放共享情况；（3）项目完成后设备预计使用效益及共享程度；（4）项目执行保障措施；（5）预算依据及明细。4、  资助额度批复后，申请人按照计划执行。经费需在2019年12月底前执行完成。对于因部件返厂、加工定制等特殊原因不能当年完成的，应于2019年12月20日前向实验室与资产管理处提交书面情况说明。5、  项目完成后，申请人应组织两名以上具有高级职称的专家现场验收，对维修前后设备的运行状态、核心参数指标及经费执行情况进行总结，填写《西安交通大学大型仪器设备维修项目实施情况总结表》提交至实验室与资产管理处。实验室与资产管理处现场核查设备运行状态后方可报销经费。6、  维修项目资助经费不得挪用，并接受学校审计监督，对于维修项目中弄虚作假、虚报冒领、收取回扣、索贿受贿等行为严肃查处。 大型设备共享管理中心办公地点及联系方式：教学主楼E座1410室，电话：82668817，邮箱：cfao@mail.xjtu.edu.cn，联系人：谷文媛。 附件一：《西安交通大学大型仪器设备维修项目申报书》；附件二：《西安交通大学大型仪器设备维修项目实施情况总结表》。  实验室与资产管理处2019年2月25日</p> </a> </li> </ul> </div> </div> </div> <div class="instrument"> <div class="instrument-left box2"> <ul> <li> <a class="hover" href="javascript:die_die()">仪器实时情况<span class="down_diams">▼</span></a> </li> <li> <a href="javascript:die_die()">课题测试情况<span class="down_diams">▼</span></a> </li> <li> <a href="javascript:die_die()">人员分布情况<span class="down_diams">▼</span></a> </li> </ul> <div> <div class="instrument-y ct"> <div style="position:absolute;margin-top:100px;margin-left:450px;font-size:20px;color:#666666"> <div style="height:60px;line-height: 60px;">共<span style="padding:0 10px;font-size:30px;font-weight:bold;color:#30405a">1330</span>台仪器</div> <!-- <div style="height:60px;line-height: 60px;">其中<span style="padding:0 10px;font-size:30px;font-weight:bold;color:#30405a">351</span>台正在实时监控</div> --> <div style="height:30px;line-height: 30px;padding:10px 40px;margin-top:20px;background:url('/home/themes/jiaoda/Public/img/c-working.jpg') no-repeat 0% 50%;"><span style="padding:0 10px;font-size:24px;font-weight:bold;color:#30405a">108</span>台正在使用</div> <div style="height:30px;line-height: 30px;padding:10px 40px;margin-top:10px;background:url('/home/themes/jiaoda/Public/img/c-wait.jpg') no-repeat 0% 50%;"><span style="padding:0 10px;font-size:24px;font-weight:bold;color:#30405a">243</span>台待机中</div> <div style="height:30px;line-height: 30px;padding:10px 40px;margin-top:10px;background:url('/home/themes/jiaoda/Public/img/c-down.jpg') no-repeat 0% 50%;"><span style="padding:0 10px;font-size:24px;font-weight:bold;color:#30405a">12</span>台出故障</div> </div> </div> <div class="instrument-y ct"> <div style="position:absolute;margin-top:200px;margin-left:27px;width: 338px;"> <div style="padding-left:100px;height:51px;line-height:51px;font-size:20px;color:#666"><p style="float:left;height:51px;line-height:51px;">总课题数</p><p style="float:left;font-size:30px;color:#30405a;padding-left:5px;font-weight:bolder;height:51px;line-height:51px;">30535</p></div> <div style="padding-left:120px;height:51px;line-height: 50px;font-size:20px;color:#666"><p style="float:left;height:51px;line-height:51px;">课题数</p><p style="float:left;font-size:30px;color:#30405a;padding-left:5px;font-weight:bolder;height:51px;line-height:51px;">90</p></div> </div> <div id="tubiao2" style="float:left;width: 300px;height:300px;margin-top: 105px; margin-left: 60px;"> </div> <div style="float:left;width: 75px;height: 30px;margin-top: 240px;margin-left: 55px;"><img src="/home/themes/jiaoda/Public/img/jiantou.png" style="height: 30px;"/></div> <div style="float:left;width: 200px;height: 200px;margin-top: 150px;margin-left: 30px;"><img src="/home/themes/jiaoda/Public/img/qiu.png" style="height:200px;"/><span style="position:absolute; width:200px;margin-left:-200px;margin-top: 80px;color:#31415B;font-size:24px;text-align: center">测试数<span style="font-size:30px;font-weight:bolder">240</span>次</span></div> </div> <div class="instrument-y ct"> <div style="position:absolute;margin-top:172px;margin-left:580px;"> <div style="height:51px;line-height: 51px;font-size:30px;color:#30405a">9684</div> <div style="height:51px;line-height: 51px;font-size:30px;color:#30405a">13701</div> <div style="height:51px;line-height: 51px;font-size:30px;color:#30405a">628</div> </div> <div id="myChart3" style="width:770px;height: 500px;"></div> </div> </div> </div> <div class="instrument-right"> <div class="ranking"> <i class="icon-pah"></i> <span>排行榜</span> </div> <div class="instrument-list box" id="instrument-list"> <ul> <li> <a class="hover" href="javascript:die_die()">仪器预约排行</a> </li> <li> <a class="" href="javascript:die_die()">用户使用排行</a> </li> <li> <a class="" href="javascript:die_die()" style="margin-left: 3px;">最新预约排行</a> </li> </ul> <div> <div class="instrument-content ct" id="paihang1" style="display: block;"></div> <div class="instrument-content ct" id="paihang2"></div> <div class="instrument-content ct" id="paihang3"></div> </div> </div> </div> </div> <!--地图--> <div class="map"> <h3>统筹　开放　规范　高效</h3> <span></span> <a class="map-a" href="/home/index.php?g=ind&amp;m=list&amp;a=gis">大型设备地理GIS信息</a> </div> <!--展示--> <div class="show box3" id="box3"> <ul class="clearfloat"> <li class="border-b"> <a class="hover" href="javascript:die_die()"> <i class="icon-yq"></i> <span class="yq-color">仪器展示</span> </a> </li> <li id="box3_2_click"> <a href="javascript:die_die()"> <i class="icon-fc"></i> <span>校级平台展示</span> </a> </li> <li id="box3_3_click"> <a href="javascript:die_die()"> <i class="icon-sy"></i> <span>院级平台展示</span> </a> </li> </ul> <div> <div class="module02 swiper-container2 ct"> <div class="swiper-wrapper"> <div class="swiper-slide"> <div style="float: left"> <a href="javascript:void(0)" onclick="tiaozhuan(this)" url="http://equip.xjtu.edu.cn/lims/!equipments/equipment/index.969"> <img src="data/upload/admin/20180104/5a4d94a1e035d.jpg"> <p><i></i>X射线衍射仪</p> <span>领用人：吴小清</span> <span>操作员联系方式：13630280327</span> <p class="span1">存放地址：分析测试共享中心北111</p> </img></a> </div><div style="float: left"> <a href="javascript:void(0)" onclick="tiaozhuan(this)" url="http://equip.xjtu.edu.cn/lims/!equipments/equipment/index.991"> <img src="data/upload/admin/20180104/5a4d9c72ad453.jpg"> <p><i></i>X射线荧光光谱仪</p> <span>领用人：周国庆</span> <span>操作员联系方式：18629365572</span> <p class="span1">存放地址：分析测试共享中心北111</p> </img></a> </div><div style="float: left"> <a href="javascript:void(0)" onclick="tiaozhuan(this)" url="http://equip.xjtu.edu.cn/lims/!equipments/equipment/index.973"> <img src="data/upload/admin/20180104/5a4d9cc54e607.jpg"/> <p><i></i>软物质冷冻电镜</p> <span>领用人：童慧敏</span> <span>操作员联系方式： 18629370557</span> <p class="span1">存放地址：分析测试共享中心南104</p> </a> </div><div style="float: left"> <a href="javascript:void(0)" onclick="tiaozhuan(this)" url="http://equip.xjtu.edu.cn/lims/!equipments/equipment/index.968"> <img src="data/upload/admin/20180104/5a4d9d4848fc7.jpg"/> <p><i></i>X射线光电子能谱仪</p> <span>领用人：刘佳梅</span> <span>操作员联系方式：17791598186</span> <p class="span1">存放地址：分析测试共享中心北110</p> </a> </div> </div><div class="swiper-slide"> <div style="float: left"> <a href="javascript:void(0)" onclick="tiaozhuan(this)" url="http://equip.xjtu.edu.cn/lims/!equipments/equipment/index.996"> <img src="data/upload/admin/20180104/5a4d9e6269073.jpg"/> <p><i></i>电感耦合等离子体质谱仪</p> <span>领用人：周国庆</span> <span>操作员联系方式：18629365572</span> <p class="span1">存放地址：兴庆校区分测中心北209</p> </a> </div><div style="float: left"> <a href="javascript:void(0)" onclick="tiaozhuan(this)" url="http://equip.xjtu.edu.cn/lims/!equipments/equipment/index.974"> <img src="data/upload/admin/20180104/5a4d9ea40236f.jpg"/> <p><i></i>场发射扫描电子显微镜</p> <span>领用人：任子君</span> <span>操作员联系方式：15891798619</span> <p class="span1">存放地址：分析测试共享中心南106</p> </a> </div><div style="float: left"> <a href="javascript:void(0)" onclick="tiaozhuan(this)" url="http://equip.xjtu.edu.cn/lims/!equipments/equipment/index.1039"> <img src="data/upload/admin/20180104/5a4d9f181e175.jpg"/> <p><i></i>核磁共振波谱仪</p> <span>领用人：常刚</span> <span>操作员联系方式：13609116356</span> <p class="span1">存放地址：分析测试共享中心南101</p> </a> </div><div style="float: left"> <a href="javascript:void(0)" onclick="tiaozhuan(this)" url="http://equip.xjtu.edu.cn/lims/!equipments/equipment/index.972"> <img src="data/upload/admin/20180104/5a4d9f8f41767.jpg"/> <p><i></i>钨灯丝扫描电子显微镜</p> <span>领用人：任子君 </span> <span>操作员联系方式：15891798619</span> <p class="span1">存放地址：分析测试共享中心南108</p> </a> </div> </div><div class="swiper-slide"> <div style="float: left"> <a href="javascript:void(0)" onclick="tiaozhuan(this)" url="http://equip.xjtu.edu.cn/lims/!equipments/equipment/index.994"> <img src="data/upload/admin/20180104/5a4da02cad0f8.jpg"/> <p><i></i>场发射透射电子显微镜</p> <span>领用人：李娇</span> <span>操作员联系方式：18392137838</span> <p class="span1">存放地址：兴庆校区分测中心南107</p> </a> </div><div style="float: left"> <a href="javascript:void(0)" onclick="tiaozhuan(this)" url=""> <img src="data/upload/admin/20180104/5a4da3ef2efce.jpg"/> <p><i></i>热重同步差热分析仪</p> <span>领用人：刘佳梅</span> <span>操作员联系方式：17791598186</span> <p class="span1">存放地址：分析测试共享中心</p> </a> </div> </div> </div> <div class="swiper-pagination2"></div> </div> <div class="module02 swiper-container3 ct"> <div class="swiper-wrapper"> <div class="swiper-slide"> <div style="float: left"> <a href="javascript:void(0)" onclick="tiaozhuan(this)" url="http://iac.xjtu.edu.cn"> <img src="data/upload/admin/20170907/59b113ea68251.png"/> <p><i></i>分析测试共享中心</p> <span>负责人：高禄梅</span> <p class="span2">简介：西安交通大学分析测试共享中心成立于2016年5月，是面向学校和社会开放的大型仪器设备共享测试平台，属于学校直属二级单位，正式编制15人，设主任、副主任、秘书各1人，技术人员12人。中心位于兴庆校区西门附近，建筑面积3400平米，首期投入设备购置经费6500万元。中心本着加强统筹、共建共享、优化资源、科学管理和高效运行的原则，以大型分析测试仪器为载体，凭借一流的技术团队和高效的管理模式，为学校开展高水平的教学科研和培养引进高水平的人才提供有力支持。</p> </a> </div><div style="float: left"> <a href="javascript:void(0)" onclick="tiaozhuan(this)" url="http://www.xjtu.edu.cn/info/1212/6059.htm"> <img src="data/upload/admin/20171229/5a45f0369f6d8.jpg"/> <p><i></i>生物医学实验中心</p> <span>负责人：</span> <p class="span2">简介：生物医学实验中心是面向学校和社会开放的综合性、国际一流、一站式科研与转化的生物医学研究平台，实现生物活性分子和药物的筛选与分子的结构鉴定，活性生物分子间相互作用以及细胞中的分子机制分析，光、电、环境以及药物刺激对细胞实时影响的检测，环境、药品与食品生物安全性评价安全性评估等等功能，并形成研究成果转化的中试基地。中心本着加强统筹、共建共享、优化资源、科学管理和高效运行的原则，以大型生物医学研究设备为载体，以“小分子-大分子-细胞-功能分析”一站式科研服务为理念，通过一流的技术团队和高效的管理模式，有力支持学校教学科研和人才培养。中心由四个部分组成：1. 大型仪器的共享平台,包括药物分析分离与鉴定区、形态学分析区、组学分析区、分子生物学分析区、细胞生物学分析区、生理与药理分析区等；2.功能研究的共享平台，包括无机制备室、有机制备室、免疫组化室、分子生物学室、细胞培养室、生理与药理室等；3. 配套服务平台：试剂库、4℃冷库、样品库、气瓶间、准备室等；4. 成果转化平台，包括精准医学转化平台、干细胞与组织工程转化平台、药物与诊断试剂中试研制平台。</p> </a> </div><div style="float: left"> <a href="javascript:void(0)" onclick="tiaozhuan(this)" url="http://nic.xjtu.edu.cn/gszx/fwjj.htm"> <img src="data/upload/admin/20180103/5a4c4a33ee1de.png"/> <p><i></i>高算中心</p> <span>负责人：杨帆</span> <p class="span2">简介：西安交大云数据中心高性能计算服务平台首期浪潮天梭10000集群主要硬件设备包括：CPU节点110台（Intel Xeon E5-2690v3），GPU节点2台，存储节点8台，管理登陆节点4台，NVIDIA Kepler K80加速卡4块，计算网络为全线速56Gbps FDR Infiniband，存储容量340TB，计算能力（理论运算峰值）122万亿次。
+平台一期集群自2016年初投入运行以来，运行稳定，应用效果良好；现已部署分子动力学、材料学、计算化学等计算或仿真模拟软件20余套，已开户用户超过180位，覆盖材料、能动、航天、化工、人居、电气、理学院等学科；利用平台开展科研工作的课题90%以上的课题受到自然科学基金、973、863、“青年千人”等项目的支持。 2016年度各学科利用高算平台发表各类高水平论文或成果20余项，其中包括发表于nature，scientific Reports等影响因子较大的论文。</p> </a> </div><div style="float: left"> <a href="javascript:void(0)" onclick="tiaozhuan(this)" url=""> <img src="data/upload/admin/20180103/5a4c4b0e59c1d.jpg"/> <p><i></i>动物中心</p> <span>负责人：</span> <p class="span2">简介：动物中心是面向西安交通大学、陕西省及西部地区全面开放的、综合性动物实验集中化管理和使用的公共服务平台，中心以为科研、教学服务为主导，以学习和应用实验动物科学新技术为基础，以不断提高服务质量为根本。开放、共享、交叉、融合。实验动物中心具备以下综合功能：常规实验动物（啮齿类动物、家兔等）、大动物（犬、猪、非人灵长类等）、特殊动物（基因修饰动物、无菌动物、感染动物、斑马鱼等）安置和实验研究；装备动物实验研究相关仪器设备（如，动物CT、B超、X-线等相关设备）；专门动物实验室（如，动物手术室、生物安全实验室等）；实验动物培训、教学。功能齐全的集中化管理，可以保证整个动物实验项目不出动物中心就可以完成。实验动物中心通过国家以及国际AALAC评估和认证，达到国际公认、先进标准，满足生命科学研究和教学需要。</p> </a> </div> </div><div class="swiper-slide"> <div style="float: left"> <a href="javascript:void(0)" onclick="tiaozhuan(this)" url=""> <img src="data/upload/admin/20180103/5a4c4b1a27586.jpg"/> <p><i></i>精密加工中心</p> <span>负责人：</span> <p class="span2">简介：创新港精密加工中心是面向学校和社会开放的精密加工平台，是具有国际领先水平的，学科交叉的创新平台。中心本着加强统筹、共建共享、优化资源、科学管理和高效运行的原则，依托协同创新中心、国家重点实验室、国家工程中心、中国西部质量研究院等四个国家级科研平台及机械学院下属九个省部级科研基地，集中规划整合现有资源，建成通用机械装备实验平台（大车间），高端装备与系统学科平台（大车间），重大装备创新设计与运行安全保障学科平台，微纳与先进制造学科平台等四大类平台。分别支撑机械制造学科通用研究、智能机器人与数控系统、高速高精度机床、机电动力学与耦合控制等方面的研究、重大装备的创新设计与制造（3D打印等）、运行性能与安全保障、光机电测试设备与系统、摩擦学与基础件设计等方面的研究及微纳制造、生物制造、微纳传感与测试、精密机械等先进制造领域的研究。
+精密加工中心根据精密加工设备的安装条件和环境要求不同，相关共享设备分别放置在规划的四类平台内，由专人管理，面向全校及社会共享，支撑教学和科研工作。中心将完善配套服务，体现开放交叉，推动科研创新，建成国际一流的精密加工特色方向展示和科研成果产出的重要平台。</p> </a> </div><div style="float: left"> <a href="javascript:void(0)" onclick="tiaozhuan(this)" url=""> <img src="data/upload/admin/20180103/5a4c4b253b07c.jpg"/> <p><i></i>微纳中心</p> <span>负责人：</span> <p class="span2">简介：微纳中心是面向学校和社会开放的公共微纳平台，是学科交叉的创新平台。集中规划学校微纳公共平台和各特色微纳方向相结合的中心，可有效加强学校在微纳方面的资源统筹配置能力，提升设备使用效率，也利于推动微纳研究方向学科交叉融合大大节约建设成本和后期运行成本，建成后可成为学校微纳特色方向展示和科研成果产出的重要平台。中心功能规划公共通用微纳核心平台与若干特色研究区，围绕微纳中心规划空间规模需求，体现开放、交叉，推动科研创新，在规模和特色研究成果及内涵上建成国际一流。
+微纳中心规划公共的微纳平台用于微纳公共仪器和设备，各特色的研究方向和平台积极协调好微纳公共平台与机械、能动、电信、材料等学院的微传感器、微纳功能材料与器件、飞秒激光微纳制造、微纳尺度材料等特色微纳研究方向建设和布局。</p> </a> </div> </div> </div> <div class="swiper-pagination3"></div> </div> <div class="module02 swiper-container4 ct"> <div class="swiper-wrapper"> <div class="swiper-slide"> <div style="float: left"> <a href="javascript:void(0)" onclick="tiaozhuan(this)" url=""> <img src="data/upload/admin/20180102/5a4b476f6ac5b.jpg"/> <p><i></i>化工学院仪器设备院级共享平台</p> <span>负责人：高秀峰</span> <p class="span2">简介：化工学院公共分析测试中心，作为院级平台成立于2017年7月21日。目前平台已开放共享化工化机相关分析测试仪器16台，正在调试中5台，学院将根据需求不断新增化工化机相关高水平测试仪器设备。平台按照“统筹规划建设、共享公用、有偿使用、绩效评价”的原则，加强仪器设备从规划、论证、购置、运行、效益评价的全过程管理，避免重复购置、分散管理。平台针对我院学科建设中的关键问题，围绕化学工程和化工机械两个学科进行仪器设备的购置和开放共享。平台针对我院的学科发展和科学研究方向，展开细致系统的化工分析测试工作，合理的进行资源配置并推动学院学科发展。目标是建成高水平的化工类公共测试中心，聚集一流实验技术人员，满足学院、学校及至社会各相关单位的化工分析需求。</p> </a> </div><div style="float: left"> <a href="javascript:void(0)" onclick="tiaozhuan(this)" url=""> <img src="data/upload/admin/20180102/5a4b485ae0559.jpg"/> <p><i></i>机械制造系统工程国家重点实验室仪器设备院级共享平台</p> <span>负责人：李涤尘</span> <p class="span2">简介：机械制造系统工程国家重点实验室于1988年立项，1995年10月通过验收并对外开放运行。实验室依托由西安交通大学机械制造及自动化、系统工程和管理工程三个国家重点学科共同建设运行。实验室现任主任是李涤尘教授，学术委员会主任是谭建荣院士（浙江大学）。现有四个研究室：先进制造理论及技术研究室、制造信息化与制造系统工程研究室、装备制造与集成研究室、先进制造系统的管理与决策研究室。
+实验室有约3万平方米的集中实验室区域，有70多台大型仪器设备，建立了网上预约的开放服务体系，通过了实验室资质认证（CMA)，为社会提供仪器设备的开放服务。实验室支撑高端制造装备协同创新中心和快速制造国家工程研究中心发展，参加国家自然科学基金委员会“纳米制造”重大计划联合实验室工作。建立了军工质量保证体系军工保密体系。通过“111引智计划”开展“微纳制造与纳米测试”国际合作，加强了国际合作交流，提升了实验室的科技创新能力和服务支撑能力。
+</p> </a> </div><div style="float: left"> <a href="javascript:void(0)" onclick="tiaozhuan(this)" url=""> <img src="data/upload/admin/20180102/5a4b4a4662428.jpg"/> <p><i></i>机械工程学院仪器设备院级共享平台</p> <span>负责人：王永泉</span> <p class="span2">简介：实行大型仪器设备开放共享管理制度，支持和鼓励学校的各专业实验室开放大型仪器设备提供共享服务，是高校均衡优质科技资源配置、提高大型仪器设备使用效率、加强创新人才培养、促进教学科研发展、推动社会科技竞争力的重要途径。机械工程学院围绕学校改革与发展的总体目标，借鉴校级仪器设备共享平台的运行管理方式，贯彻“统一领导，归口管理，分级负责”的原则，建立起服务全校教学科研、面向全社会各界科技用户开展有偿服务的仪器设备共享平台，更好地调动大型仪器设备共享工作相关人员的积极性，服务于科学研究和人才培养，提高大型仪器设备使用效率。
+机械工程学院资产账户下现共有单价40万元以上设备81台，其中37台放置于兴庆校区，8台放置校外，36台放置于曲江校区。放置于曲江校区的统一归机械制造系统工程国家重点实验室仪器设备共享平台或专业平台管理。放置于兴庆校区的31台设备纳入院级平台管理，放置兴庆校区6台和校外8台纳入机械专业平台管理。基础实验中心2台40万元以下设备也纳入共享平台。</p> </a> </div> </div> </div> <div class="swiper-pagination4"></div> </div> </div> <script>		    var swiper2 = new Swiper('.swiper-container2', {
+		        pagination: '.swiper-pagination2',
+		        slidesPerView: 1,
+		        paginationClickable: true,
+		        spaceBetween: 20,
+                centeredSlides: true,
+                autoplay: 4000,
+                autoplayDisableOnInteraction: false
+		    });
+		    var swiper3 = new Swiper('.swiper-container3', {
+		        pagination: '.swiper-pagination3',
+		        slidesPerView: 1,
+		        paginationClickable: true,
+		        spaceBetween: 20,
+                centeredSlides: true,
+                autoplay: 4000,
+                autoplayDisableOnInteraction: false
+		    });
+		    var swiper4 = new Swiper('.swiper-container4', {
+		        pagination: '.swiper-pagination4',
+		        slidesPerView: 1,
+		        paginationClickable: true,
+		        spaceBetween: 20,
+                centeredSlides: true,
+                autoplay: 4000,
+                autoplayDisableOnInteraction: false
+		    });
+		     
+        </script> <div class="btn"><div>点击查看更多</div></div> </div> </section> <!-- 环形图 -颜色--> <div style="position: fixed;top:-500px;"> <svg version="1.1" xmlns="http://www.w3.org/2000/svg"> <defs> <lineargradient id="grad-working" x1="0%" x2="100%" y1="0%" y2="0%"> <stop offset="0%" style="stop-color:#89f7fe;stop-opacity:1"></stop> <stop offset="100%" style="stop-color:#66a6ff;stop-opacity:1"></stop> </lineargradient> </defs> <ellipse cx="200" cy="70" fill="url(#grad1)" rx="85" ry="55"></ellipse> </svg> <svg version="1.1" xmlns="http://www.w3.org/2000/svg"> <defs> <lineargradient id="grad-wait" x1="0%" x2="100%" y1="0%" y2="0%"> <stop offset="0%" style="stop-color:#fee140;stop-opacity:1"></stop> <stop offset="100%" style="stop-color:#fa709a;stop-opacity:1"></stop> </lineargradient> </defs> <ellipse cx="200" cy="70" fill="url(#grad1)" rx="85" ry="55"></ellipse> </svg> <svg version="1.1" xmlns="http://www.w3.org/2000/svg"> <defs> <lineargradient id="grad-down" x1="0%" x2="100%" y1="0%" y2="0%"> <stop offset="0%" style="stop-color:#f09819;stop-opacity:1"></stop> <stop offset="100%" style="stop-color:#ff5858;stop-opacity:1"></stop> </lineargradient> </defs> <ellipse cx="200" cy="70" fill="url(#grad1)" rx="85" ry="55"></ellipse> </svg> </div> <!--外部底部--> <footer class="footer-div"> <div class="footer-db"> <img class="img-login" src="/home/themes/jiaoda/Public/img/logo1.png"/> <dl> <dt>导航</dt> <dd><a class="h_y" href="/home/index.php?g=ind&amp;m=list&amp;a=desc">平台简介　|　INTRODUCTION</a></dd> <dd><a class="h_y" href="/home/index.php?g=ind&amp;m=list&amp;a=classify_list">仪器分类　|　CLASSIFICATION</a></dd> <dd><a class="h_y" href="/home/index.php?g=ind&amp;m=list&amp;a=posts_list">政策法规　|　REGULATIONS</a></dd> <dd><a class="h_y" href="/home/index.php?g=ind&amp;m=list&amp;a=tel">联系我们　|　CONTACT US</a></dd> </dl> <dl class="dl-div"> <dt>友情链接</dt> <dd><a class="h_y" href="http://www.xjtu.edu.cn/" target="_blank">西安交通大学</a></dd><dd><a class="h_y" href="http://www.dpm.xjtu.edu.cn" target="_blank">实验室与资产管理处</a></dd><dd><a class="h_y" href="http://iac.xjtu.edu.cn/" target="_blank">分析测试共享中心</a></dd> </dl> <div class="footer-right"> <img src="/home/themes/jiaoda/Public/img/erwm.png" style="width:120px;height:120px;"/> <p>西安交通大学实验室与资产管理处</p> </div> </div> </footer> <div class="syfootBarOpen"> <p>Copyright2016. 西安交通大学大型仪器设备物联共享系统. All　Right　Reserved　　基理科技　运维支持</p> </div> <script type="text/javascript">    define(function (require, exports, module) {
+
+        exports.pieCircle = function (option) {
+
+            //区域
+            var width  = 770;
+            var height = 500;
+
+            //中心点
+            var cx = 205;
+            var cy = 255;
+
+            //半径，宽度
+            var r = 45;
+            var w = 30;
+            //总数
+            var total = option.total ? option.total : 1330;
+
+            //监控
+            var online = option.online ? option.online : 351;
+
+            //使用中
+            var working = option.working ? option.working : 108;
+
+            //待机
+            var wait = option.wait ? option.wait : 243;
+
+            //故障
+            var down = option.down ? option.down : 12;
+
+
+            //初始化 svgns
+            var svgns = "http://www.w3.org/2000/svg";
+            var chart = document.createElementNS(svgns, "svg:svg");
+            chart.setAttribute("width", width);
+            chart.setAttribute("height", height);
+            chart.setAttribute("viewBox", "0 0 " + width + " " + height);
+
+            //画圆环函数
+            var drawCircle = function (option) {
+
+                //参数
+                var chart      = option.chart;
+                var startangle = option.star ? option.star : 0;
+                var endangle   = option.end ? option.end / 360 * Math.PI * 2 : Math.PI * 2;
+                var r1         = option.r1;
+                var r2         = option.r2;
+                var color      = option.color ? option.color : "#ddd";
+                var cx         = option.cx;
+                var cy         = option.cy;
+                var name       = option.name;
+                var value      = option.value;
+                var font_color = option.font_color ? option.font_color : "#ddd";
+
+                //大于360度
+                if (endangle >= Math.PI * 2) {
+                    option.end = 359.99;
+                    return drawCircle(option);
+                }
+
+                //圆环
+                var startx1 = cx + r2 * Math.sin(startangle);
+                var starty1 = cy - r2 * Math.cos(startangle);
+                var x1      = cx + r1 * Math.sin(startangle);
+                var y1      = cy - r1 * Math.cos(startangle);
+                var x2      = cx + r1 * Math.sin(endangle);
+                var y2      = cy - r1 * Math.cos(endangle);
+                var endx2   = cx + r2 * Math.sin(endangle);
+                var endy2   = cy - r2 * Math.cos(endangle);
+                var big     = (endangle - startangle > Math.PI) ? 1 : 0;//big为1时，画大弧；big为0时，画小弧
+                var path    = document.createElementNS(svgns, "path");
+                var d       = "M " + startx1 + "," + starty1 + " L " + x1 + "," + y1 + " A " + r1 + "," + r1 + " 0 " + big + " 1 " + x2 + "," + y2 + " L " + endx2 + "," + endy2 + " A " + r2 + "," + r2 + " 0 " + big + " 0 " + startx1 + "," + starty1 + " Z";
+                path.setAttribute("d", d);
+                path.setAttribute("fill", color);
+                path.setAttribute("stroke-width", "0");
+                chart.appendChild(path);
+
+                if (!name) {
+                    return chart;
+                }
+                //标签
+                var label = document.createElementNS(svgns, "text");
+
+                label.setAttribute("x", x1 - 36);
+                label.setAttribute("y", y1 - 10);
+                label.setAttribute("style", "font-size:12px");
+                label.setAttribute("fill", font_color);
+                label.appendChild(document.createTextNode(name));
+                chart.appendChild(label);
+
+                //数值
+                if (!value) {
+                    return chart;
+                }
+                var l_x=  (x1+startx1)/2;
+                var l_y=  (y1+starty1)/2;
+                var label = document.createElementNS(svgns, "text");
+                label.setAttribute("x", l_x);
+                label.setAttribute("y", l_y+10);
+                label.setAttribute("style", "font-size:12px");
+                label.setAttribute("fill","#033333");
+                label.setAttribute("text-anchor", "middle");
+                label.setAttribute("dominant-baseline", "middle");
+                label.setAttribute("transform", "rotate(" + option.end + "," + x1 + " " + (y1 + r1) + ") rotate(-90,"+l_x+" "+l_y+ ")");
+                label.appendChild(document.createTextNode(value));
+                chart.appendChild(label);
+                return chart;
+            }
+
+            //中心区域 - 圆
+            var circle = document.createElementNS(svgns, "circle");
+            circle.setAttribute("cx", cx);
+            circle.setAttribute("cy", cy);
+            circle.setAttribute("r", r);
+            circle.setAttribute("fill", "#dfdfdf");
+            chart.appendChild(circle);
+
+            //中心区域 - 图片
+            var image          = document.createElementNS(svgns, "image");
+            image.href.baseVal = "/home/themes/jiaoda/Public/img/c-online.png";
+            image.setAttribute("x", cx - 8);
+            image.setAttribute("y", cy - 11);
+            image.setAttribute("height", "22px");
+            image.setAttribute("width", "16px");
+            chart.appendChild(image);
+
+            // //中心区域 - 小红点
+            // var circle = document.createElementNS(svgns, "circle");
+            // circle.setAttribute("cx", cx - 32);
+            // circle.setAttribute("cy", cy + 16);
+            // circle.setAttribute("r", 2);
+            // circle.setAttribute("fill", "red");
+            // chart.appendChild(circle);
+
+            // //中心区域 - 文字
+            // var label = document.createElementNS(svgns, "text");
+            // label.setAttribute("x", cx + 2);
+            // label.setAttribute("y", cy + 20);
+            // label.setAttribute("text-anchor", "middle");
+            // label.setAttribute("style", "font-size:15px;font-weight:bold;color:#30405a;font-family:ArialMT");
+            // label.appendChild(document.createTextNode("监控" + online));
+            // chart.appendChild(label);
+
+            //使用中
+            drawCircle({
+                chart: chart,
+                cx: cx,
+                cy: cy,
+                r1: r + 2 + ( 2 + w) * 2,
+                r2: r + 2 + ( 2 + w) * 2 + w,
+                end: working / online * 360,
+                value: working,
+                name: '使用',
+                color: 'url(#grad-working)',
+                font_color: '#7eddfe',
+                font_family: 'MicrosoftYaHei',
+            })
+            ;
+
+            //待机
+            drawCircle({
+                chart: chart,
+                cx: cx,
+                cy: cy,
+                r1: r + 2 + ( 2 + w),
+                r2: r + 2 + ( 2 + w) + w,
+                end: wait / online * 360,
+                value: wait,
+                name: '待机',
+                color: 'url(#grad-wait)',
+                font_color: '#fee140',
+                font_family: 'MicrosoftYaHei',
+            });
+
+            //故障
+            drawCircle({
+                chart: chart,
+                cx: cx,
+                cy: cy,
+                r1: r + 2,
+                r2: r + 2 + w,
+                end: down / online * 360,
+                value: down,
+                name: '故障',
+                color: 'url(#grad-down)',
+                font_color: '#f09819',
+                font_family: 'MicrosoftYaHei',
+            });
+
+            //最外层的圆环 - 总数
+            var r4 = r + 2 + (w + 2) * 3;
+            drawCircle({
+                chart: chart,
+                cx: cx,
+                cy: cy,
+                r1: r4,
+                r2: r4 + 5,
+                end: 360,
+                color: '#ddd',
+            });
+
+            //最外层的圆环上面的圆环Y
+            var w_r  = 30;
+            var w_w  = 5;
+            var w_cx = cx + (r4 + 5) * Math.sin(305 / 360 * Math.PI * 2);
+            var w_cy = cy - (r4 + 5) * Math.cos(305 / 360 * Math.PI * 2);
+            drawCircle({
+                chart: chart,
+                cx: w_cx,
+                cy: w_cy,
+                r1: w_r,
+                r2: w_r + w_w,
+                end: 360,
+                color: '#ddd',
+            });
+
+            //最外层的圆环上面的圆环 - 背景
+            var circle = document.createElementNS(svgns, "circle");
+            circle.setAttribute("cx", w_cx);
+            circle.setAttribute("cy", w_cy);
+            circle.setAttribute("r", w_r);
+            circle.setAttribute("fill", "#fff");
+            chart.appendChild(circle);
+
+            //最外层的圆环上面的圆环 - 文字
+            var label = document.createElementNS(svgns, "text");
+            label.setAttribute("x", w_cx);
+            label.setAttribute("y", w_cy + 8);
+            label.setAttribute("text-anchor", "middle");
+            label.setAttribute("style", "font-size:22px;font-weight:bold");
+            label.setAttribute("fill", "#009696");
+            label.appendChild(document.createTextNode(total));
+            chart.appendChild(label);
+
+            /*//总数 - 标签
+            var label = document.createElementNS(svgns, "text");
+            label.setAttribute("x", 448);
+            label.setAttribute("y", 130);
+            label.setAttribute("style", "font-size:20px");
+            label.setAttribute("fill", "#666666");
+            label.appendChild(document.createTextNode("共 "));
+            chart.appendChild(label);
+
+            var label = document.createElementNS(svgns, "text");
+            label.setAttribute("x", 478);
+            label.setAttribute("y", 130);
+            label.setAttribute("style", "font-size:30px;font-weight:bold");
+            label.setAttribute("fill", "#30405a");
+            label.appendChild(document.createTextNode(total));
+            chart.appendChild(label);
+
+            var label = document.createElementNS(svgns, "text");
+            label.setAttribute("x", 560);
+            label.setAttribute("y", 130);
+            label.setAttribute("style", "font-size:20px");
+            label.setAttribute("fill", "#666666");
+            label.appendChild(document.createTextNode(" 台仪器"));
+            chart.appendChild(label);
+
+            //监控中 - 标签
+            var label = document.createElementNS(svgns, "text");
+            label.setAttribute("x", 448);
+            label.setAttribute("y", 180);
+            label.setAttribute("style", "font-size:20px");
+            label.setAttribute("fill", "#666666");
+            label.appendChild(document.createTextNode("其中 "));
+            chart.appendChild(label);
+
+            var label = document.createElementNS(svgns, "text");
+            label.setAttribute("x", 498);
+            label.setAttribute("y", 180);
+            label.setAttribute("style", "font-size:30px;font-weight:bold");
+            label.setAttribute("fill", "#30405a");
+            label.appendChild(document.createTextNode(online));
+            chart.appendChild(label);
+
+            var label = document.createElementNS(svgns, "text");
+            label.setAttribute("x", 560);
+            label.setAttribute("y", 180);
+            label.setAttribute("style", "font-size:20px");
+            label.setAttribute("fill", "#666666");
+            label.appendChild(document.createTextNode("台正在实时监控"));
+            chart.appendChild(label);
+
+            //正在使用 - 标签
+            var image          = document.createElementNS(svgns, "image");
+            image.href.baseVal = "/home/themes/jiaoda/Public/img/c-working.jpg";
+            image.setAttribute("x", 448);
+            image.setAttribute("y", 235);
+            image.setAttribute("height", "25px");
+            image.setAttribute("width", "25px");
+            chart.appendChild(image);
+
+            var label = document.createElementNS(svgns, "text");
+            label.setAttribute("x", 498);
+            label.setAttribute("y", 257);
+            label.setAttribute("style", "font-size:24px;font-weight:bold");
+            label.setAttribute("fill", "#30405a");
+            label.appendChild(document.createTextNode(working));
+            chart.appendChild(label);
+
+            var label = document.createElementNS(svgns, "text");
+            label.setAttribute("x", 560);
+            label.setAttribute("y", 257);
+            label.setAttribute("style", "font-size:20px");
+            label.setAttribute("fill", "#666666");
+            label.appendChild(document.createTextNode("台正在使用中"));
+            chart.appendChild(label);
+
+            //待机👏 - 标签
+            var image          = document.createElementNS(svgns, "image");
+            image.href.baseVal = "/home/themes/jiaoda/Public/img/c-wait.jpg";
+            image.setAttribute("x", 448);
+            image.setAttribute("y", 298);
+            image.setAttribute("height", "25px");
+            image.setAttribute("width", "25px");
+            chart.appendChild(image);
+
+            var label = document.createElementNS(svgns, "text");
+            label.setAttribute("x", 498);
+            label.setAttribute("y", 320);
+            label.setAttribute("style", "font-size:24px;font-weight:bold");
+            label.setAttribute("fill", "#30405a");
+            label.appendChild(document.createTextNode(wait));
+            chart.appendChild(label);
+
+            var label = document.createElementNS(svgns, "text");
+            label.setAttribute("x", 560);
+            label.setAttribute("y", 320);
+            label.setAttribute("style", "font-size:20px");
+            label.setAttribute("fill", "#666666");
+            label.appendChild(document.createTextNode("台待机"));
+            chart.appendChild(label);
+
+            //故障👏 - 标签
+            var image          = document.createElementNS(svgns, "image");
+            image.href.baseVal = "/home/themes/jiaoda/Public/img/c-down.jpg";
+            image.setAttribute("x", 448);
+            image.setAttribute("y", 362);
+            image.setAttribute("height", "25px");
+            image.setAttribute("width", "25px");
+            chart.appendChild(image);
+
+            var label = document.createElementNS(svgns, "text");
+            label.setAttribute("x", 498);
+            label.setAttribute("y", 385);
+            label.setAttribute("style", "font-size:24px;font-weight:bold");
+            label.setAttribute("fill", "#30405a");
+            label.appendChild(document.createTextNode(down));
+            chart.appendChild(label);
+
+            var label = document.createElementNS(svgns, "text");
+            label.setAttribute("x", 560);
+            label.setAttribute("y", 385);
+            label.setAttribute("style", "font-size:20px");
+            label.setAttribute("fill", "#666666");
+            label.appendChild(document.createTextNode("台故障"));
+            chart.appendChild(label);*/
+            return chart;
+
+        }
+    });
+</script> <script src="/home/themes/jiaoda/Public/js/circle-progress.js" type="text/javascript"></script> <script>    $().ready(function () {
+
+        //圆环图表
+        seajs.use("chart", function (chart) {
+            $('.instrument-y')[0].appendChild(chart.pieCircle({
+                total:1330,   //总数
+                online:351,  //监控
+                working:108,  //使用中
+                wait:243,    //待机
+                down:12      //故障
+            }));
+        });
+        //登录区域
+        $(".btn_out_login").click(function () {
+            //
+            $('.sub-menu').css('display', 'none');
+            $(".btn-subMenu").removeClass("hover");
+            //
+            $('.circle').css('display', 'none');
+            $(".login").css('width','0');
+            $(".login").show(function () {
+                $(".login").animate({width: '306px'});
+                $(".btn_out_login").hide();
+            });
+        });
+        $(".icon-close").click(function () {
+            $(".login").animate({width: '0'});
+            $(".btn_out_login").show();
+        });
+        //饼图2****************************************************************
+        var num = 90/30535;
+        num = num.toFixed(2);
+        //num = num*100;
+        $('#tubiao2').circleProgress({
+            startAngle: -Math.PI / 2,
+            value:num,
+            size: 300,
+            thickness: 35,
+            lineCap: 'round',
+            fill: { gradient: ['#66a6ff', '#89f7fe'], gradientAngle: Math.PI/1.5 }
+        });
+        //饼图2****************************************************************
+        //饼图3****************************************************************
+        var myChart = echarts.init(document.getElementById('myChart3'));
+        var option3 = {
+            backgroundColor: '#FFFFFF',//背景色
+            color:['#86F3BA','#79D2FE','#FCAF67'],
+            selectedMode:false,
+            legend: {
+                orient: 'vertical',
+                left: '446',
+                y: 'center',
+                textStyle: {
+                    fontSize: 20,
+                    color:"#666666",
+                    lineHeight:20,
+                    padding:10
+                },
+                height: 500,
+                data: [{name:'校外用户',icon: 'pin'},{name:'校内用户',icon: 'pin'},{name:'管理员',icon: 'pin'}],
+                formatter:['{a|name}','{b|这段文本采用样式b}'],
+                rich: {
+                    a: {
+                        fontSize:18
+                    },
+                    b: {
+                        fontSize:24
+                    }
+                }
+            },
+            series : [
+                {
+                    name: '用户比例分析',
+                    type: 'pie',
+                    radius : '133px',
+                    center: ['223px', '250px'],
+                    clockwise:false,
+                    startAngle:100,
+                    minAngle:32,
+                    selectedMode: 'single',
+                    data:[
+                        {
+                            value:9684,
+                            name:'校外用户',
+                            "itemStyle": {
+                                "normal": {
+                                    "color": new echarts.graphic.LinearGradient(1, 0, 0, 1, [{
+                                        "offset": 0,
+                                        "color": '#fee140'
+                                    }, {
+                                        "offset": 1,
+                                        "color": '#fa709a'
+                                    }]),
+                                }
+                            }
+                        },
+                        {
+                            value:13701,
+                            name:'校内用户',
+                            "itemStyle": {
+                                "normal": {
+                                    "color": new echarts.graphic.LinearGradient(1, 0, 0, 1, [{
+                                        "offset": 0,
+                                        "color": '#89f7fe'
+                                    }, {
+                                        "offset": 1,
+                                        "color": '#66a6ff'
+                                    }]),
+                                }
+                            }
+                        },
+                        {
+                            value:628,
+                            name:'管理员',
+                            "itemStyle": {
+                                "normal": {
+                                    "color": new echarts.graphic.LinearGradient(1, 0, 0, 1, [{
+                                        "offset": 0,
+                                        "color": '#84fab0'
+                                    }, {
+                                        "offset": 1,
+                                        "color": '#8fd3f4'
+                                    }]),
+                                }
+                            }
+                        }
+                    ],
+                    itemStyle: {
+                        emphasis: {
+                            shadowBlur: 10,
+                            shadowOffsetX: 0,
+                            shadowColor: 'rgba(0, 0, 0, 0.5)'
+                        }
+                    },
+                    itemStyle: {
+                        normal: {
+                            label:{
+                                position:"inside",
+                                textStyle: {
+                                    fontSize: 20,
+                                    color:"#ffffff"
+                                },
+                                show: true,
+                                formatter: '{c}'
+                            },
+                            borderWidth: 2,
+                            borderColor: '#ffffff',
+                        },
+                        labelLine :{show:true}
+                    }
+                }
+            ]
+        };
+        myChart.setOption(option3);
+        //饼图3****************************************************************
+    });
+</script> <script type="text/javascript">    $(function (){
+        yd("box");
+        yd("box2");
+        yd2("box3");
+    })
+
+    function yd(rq){
+        $("."+rq+' .ct:gt(0)').hide()
+        $("."+rq+' ul li').click(function(){
+            $(this).find("a").addClass("hover");
+            $(this).siblings().find("a").removeClass();
+            //获取当前标签的索引值
+            var content_idnex = $('.'+rq+' ul li').index(this);
+            $("."+rq+' .ct').eq(content_idnex).show()
+                .siblings().hide();
+        });
+    }
+    function yd2(rq){
+        $("."+rq+' .ct:gt(0)').hide()
+        $("."+rq+' ul li').click(function(){
+            $(this).find("a").addClass("hover");
+            $(this).siblings().find("a").removeClass();
+            $(this).parents().children("li").removeClass();
+            $(this).addClass("border-b");
+            $(this).parents().children("li").children("a").children("span").removeClass();
+            $(this).children("a").children("span").addClass("yq-color");
+            //获取当前标签的索引值
+            var content_idnex = $('.'+rq+' ul li').index(this);
+            $("."+rq+' .ct').eq(content_idnex).show().siblings().hide();
+            $("."+rq+' .ct').eq(content_idnex).children(".swiper-pagination-bullets").children("span").eq(0).click();
+            setTimeout(function () {
+                $("."+rq+' .ct').eq(content_idnex).children(".swiper-pagination-bullets").children("span").eq(1).click();
+            },5000);
+        });
+    }
+</script> <script>    $().ready(function () {
+        var id = getURLParameter("id");
+        if(id==2){
+            $("#box3_2_click").click();
+		}
+        if(id==3){
+            $("#box3_3_click").click();
+        }
+        
+        //查看更新多跳转
+        $("#box3 .btn>div").click(function(){
+        	var _id = $("#box3 .clearfloat .border-b").attr("id");
+        	var url ="";
+        	if(_id=="box3_2_click"){
+        		url = "/home/index.php?g=ind&m=list&a=school";
+        	}else if(_id=="box3_3_click"){
+        		url = "/home/index.php?g=ind&m=list&a=college";
+        	}else{
+        		url = "/home/index.php?g=ind&m=list&a=classify_list";
+        	}
+        	window.location = url;
+        })
+    });
+    
+    function tiaozhuan(o){
+	    var url = $(o).attr("url");
+	    if (url!=null&& url!=""){
+	    	window.location = url;
+	    }
+    }
+    /**
+     * 获取URL中的参数（通过参数名称）
+     * @param name
+     * @returns {*}
+     */
+    function getURLParameter(name) {
+        var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i");
+        var r = window.location.search.substr(1).match(reg);
+        if (r != null) {
+            return decodeURIComponent(r[2]);
+        } else {
+            return null;
+        }
+    }
+</script> </body> </html>

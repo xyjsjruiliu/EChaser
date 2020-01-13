@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" title="XSL Formatting" href="/system/resource/style/rss/rss.xsl" media="all"?>
+<rss version="2.0">
+<channel>
+<title><![CDATA[ ]]></title>
+<description><![CDATA[ ]]></description>
+<link/>
+<language>zh-cn</language>
+<generator></generator>
+<ttl>100</ttl>
+<item>
+<title><![CDATA[共青团西安交通大学第二十九次代表大会召开]]></title>
+<description><![CDATA[ ]]></description>
+<link/><![CDATA[http://news.xjtu.edu.cn/info/1033/127559.htm]]>
+<guid><![CDATA[http://news.xjtu.edu.cn/info/1033/127559.htm]]></guid>
+<pubdate>Sun, 12 Jan 2020 09:26:15 GMT</pubdate>
+</item>
+<item>
+<title><![CDATA[【奋翅起高飞】只争朝夕 不负韶华]]></title>
+<description><![CDATA[ ]]></description>
+<link/><![CDATA[http://news.xjtu.edu.cn/info/1033/127455.htm]]>
+<guid><![CDATA[http://news.xjtu.edu.cn/info/1033/127455.htm]]></guid>
+<pubdate>Sun, 12 Jan 2020 02:11:31 GMT</pubdate>
+</item>
+<item>
+<title><![CDATA[西安交大召开2020年寒假工作会议]]></title>
+<description><![CDATA[ ]]></description>
+<link/><![CDATA[http://news.xjtu.edu.cn/info/1033/127427.htm]]>
+<guid><![CDATA[http://news.xjtu.edu.cn/info/1033/127427.htm]]></guid>
+<pubdate>Sat, 11 Jan 2020 12:47:40 GMT</pubdate>
+</item>
+<item>
+<title><![CDATA[西安交通大学召开“不忘初心、牢记使命”主题教育总结大会]]></title>
+<description><![CDATA[ ]]></description>
+<link/><![CDATA[http://news.xjtu.edu.cn/info/1033/127417.htm]]>
+<guid><![CDATA[http://news.xjtu.edu.cn/info/1033/127417.htm]]></guid>
+<pubdate>Sat, 11 Jan 2020 10:14:10 GMT</pubdate>
+</item>
+<item>
+<title><![CDATA[统一战线助力发展：扶贫攻坚有担当]]></title>
+<description><![CDATA[ ]]></description>
+<link/><![CDATA[http://news.xjtu.edu.cn/info/1033/127445.htm]]>
+<guid><![CDATA[http://news.xjtu.edu.cn/info/1033/127445.htm]]></guid>
+<pubdate>Sat, 11 Jan 2020 10:12:38 GMT</pubdate>
+</item>
+<item>
+<title><![CDATA[西安交通大学参加2020年全国教育工作网络视频会议]]></title>
+<description><![CDATA[ ]]></description>
+<link/><![CDATA[http://news.xjtu.edu.cn/info/1033/127420.htm]]>
+<guid><![CDATA[http://news.xjtu.edu.cn/info/1033/127420.htm]]></guid>
+<pubdate>Sat, 11 Jan 2020 10:10:49 GMT</pubdate>
+</item>
+<item>
+<title><![CDATA[校友黄旭华院士荣获2019年度国家最高科学技术奖]]></title>
+<description><![CDATA[ ]]></description>
+<link/><![CDATA[http://news.xjtu.edu.cn/info/1033/127409.htm]]>
+<guid><![CDATA[http://news.xjtu.edu.cn/info/1033/127409.htm]]></guid>
+<pubdate>Sat, 11 Jan 2020 08:04:13 GMT</pubdate>
+</item>
+<item>
+<title><![CDATA[【初心·使命】焦仲平系列评论之十：鼓满风帆踏征程，全力奋进创明天]]></title>
+<description><![CDATA[ ]]></description>
+<link/><![CDATA[http://news.xjtu.edu.cn/info/1033/127401.htm]]>
+<guid><![CDATA[http://news.xjtu.edu.cn/info/1033/127401.htm]]></guid>
+<pubdate>Sat, 11 Jan 2020 05:20:00 GMT</pubdate>
+</item>
+</channel></rss>

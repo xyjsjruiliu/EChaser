@@ -1,0 +1,563 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html><head><title>西安交通大学数据与信息中心</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="AloeR@BMY,美工设计:阿颖" name="author"/>
+<meta content="西安交通大学数据与信息中心" name="description"/><link href="dfiles/9909/aloer/aloer_ic.css" rel="stylesheet" type="text/css"/><link href="images/favicon.ico" rel="shortcut icon"/><script language="JavaScript" src="dfiles/9909/aloer/aloer_ic.js" type="text/JavaScript"></script><script charset="utf-8" id="allmobilize" src="dfiles/12029/2a812770ce227e0652f6f12a2fa97596/allmobilize.min.js"></script>
+<meta content="no-siteapp" http-equiv="Cache-Control"/><link href="#" media="handheld" rel="alternate"/><!-- Piwik --><!-- End Piwik Tag -->
+<style></style>
+<style></style>
+<style></style>
+<style></style>
+<style></style>
+<style></style>
+</head></html>
+<style></style>
+<style></style>
+
+<style></style>
+<style></style>
+
+<style></style>
+<style></style>
+<script charset="UTF-8" id="sbid-secureinput" sogou-script="true" src="https://BCC0E825-2420-4190-AF25-ABD45D41EA3A/se/secureinputjs/" type="text/javascript"></script>
+<style></style>
+<style></style>
+<!--Announced at 2019-02-21 18:10:13-->
+<!-- CustomerNO:7765626265691d13697547545253554b03020000 -->
+<link href="index.vsb.css" rel="stylesheet" type="text/css"/>
+<meta content="西安交通大学数据与信息中心" name="keywords">
+<script src="system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1269181723)</script>
+</meta>
+<body><!-- 
+<a href="http://webscan.360.cn/index/checkwebsite/url/ic.xjtu.edu.cn" name="5b6fdabb09c95a2c4730e61bc442fde8" >360网站安全检测平台</a>
+
+
+ --><!-- 0 -->
+<div class="pw i_top">
+<div><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="LOGO图片" viewid="68994" contype="" stylesysid="" layout="" action="" name="LOGO图片"--><script language="javascript" src="system/resource/js/dynclicks.js"></script><img src="dfiles/9909/aloer/i_top_1.jpg" usemap="#Map_eng" width="100%"/><map id="Map_eng" name="Map_eng"><area coords="915,3,976,26" href="English_Version.htm" shape="rect"/></map><!--#endeditable--></div><!-- 1 --><!--#begineditable clone="0" namechanged="0" order="1" ispublic="0" tagname="网站导航" viewid="67985" contype="" stylesysid="" layout="" action="" name="网站导航"--><script language="javascript">
+/* 以下脚本不用修改 开始*/
+    function nav_menufun_2_switch(o)
+    {
+        var lis = o.parentNode.parentNode.getElementsByTagName("A");
+        var pos = 0;
+        for(var i = 0; i < lis.length; i++)
+        {
+            if(lis[i] == o)
+            {
+                lis[i].className="nav_on"
+                pos = i;
+            }
+            else
+            {
+                lis[i].className=""
+            }
+        }
+    
+        
+        var div2 = o.parentNode.parentNode.parentNode.nextSibling;
+        while(div2.nodeType == 3)
+        {
+            div2 = div2.nextSibling;
+        }
+        
+        var divs = div2.childNodes;
+        
+        i = 0;
+        for(var j = 0; j < divs.length; j++)
+        {
+            if(divs[j].nodeType == 3)
+                continue;
+    
+            if(i == pos)
+                divs[j].className = "nav_on";
+            else
+                divs[j].className = "";
+            i++;
+        }
+    }
+    
+    function nav_menufun_2_recover(o)
+    {
+        try
+        {
+            nav_menufun_2_cleartimeout(o);
+            
+            
+            var divs = o.getElementsByTagName("DIV");
+            for(var i = 0; i < divs.length; i++)
+            {
+                //menu1
+                if(divs[i].className=="menu1")
+                {
+                    var lis = o.parentNode.parentNode.getElementsByTagName("A");
+        
+                    for(var j = 0; j < lis.length; j++)
+                    {
+                        if(lis[j].getAttribute("isFocus") == "true")
+                        {
+                            lis[j].className="nav_on"
+                        }
+                        else
+                        {
+                            lis[j].className=""
+                        }
+                    }
+                }
+                //menu2
+                if(divs[i].className=="menu2")
+                {
+                    var menu2divs = divs[i].childNodes;
+                    
+                    for(var j = 0; j < menu2divs.length; j++)
+                    {
+                        if(menu2divs[j].nodeType == 3)
+                            continue;
+                        if(menu2divs[j].getAttribute("isFocus") == "true")
+                            menu2divs[j].className = "nav_on";
+                        else
+                            menu2divs[j].className = "";
+                    }
+                }
+            }
+        }
+        catch(e)
+        {
+        }
+    }
+    
+    function nav_menufun_2_settimeout(o, rms)
+    {
+        o.setAttribute("rTimerID", window.setTimeout(function(){nav_menufun_2_recover(o);}, rms));
+    }
+    
+    function nav_menufun_2_cleartimeout(o)
+    {
+        var rTimerID = o.getAttribute("rTimerID");
+        if(rTimerID != null)
+        {
+            window.clearTimeout(rTimerID);
+            o.removeAttribute("rTimerID");
+        }
+    }
+    
+    function nav_menufun_2_mouseover(o)
+    {
+        nav_menufun_2_cleartimeout(o);
+    }
+    
+    //rms为鼠标移开后关闭的时间， 默认50
+    function nav_menufun_2_mouseout(o, rms)
+    {
+        nav_menufun_2_cleartimeout(o);
+        nav_menufun_2_settimeout(o, rms);
+    }
+/* 以上脚本不用修改 结束*/
+</script>
+<div class="nav_menustyle_2_3" onmouseout="nav_menufun_2_mouseout(this, 50);" onmouseover="nav_menufun_2_mouseover(this);"><div class="menu_all_inc67985"><div class="menu_allc67985">
+<div class="menu1 i_menu_1">
+<ul>
+<li><a class="nav_on" href="index.htm" isfocus="true" onmouseover="nav_menufun_2_switch(this)"><span>首页</span></a></li>
+<li class="menu_line"></li>
+<li><a href="zxjj.htm" onmouseover="nav_menufun_2_switch(this)"><span>中心简介</span></a></li>
+<li class="menu_line"></li>
+<li><a href="zzjg.htm" onmouseover="nav_menufun_2_switch(this)"><span>组织机构</span></a></li>
+<li class="menu_line"></li>
+<li><a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1004" onmouseover="nav_menufun_2_switch(this)"><span>发展规划</span></a></li>
+<li class="menu_line"></li>
+<li><a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1007" onmouseover="nav_menufun_2_switch(this)"><span>中心动态</span></a></li>
+<li class="menu_line"></li>
+<li><a href="zwgk_list_2.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1009" onmouseover="nav_menufun_2_switch(this)"><span>政务公开</span></a></li>
+<li class="menu_line"></li>
+<li><a href="xxhjs.htm" onmouseover="nav_menufun_2_switch(this)"><span>信息化建设</span></a></li>
+<li class="menu_line"></li>
+<li><a href="zhxqtj.htm" onmouseover="nav_menufun_2_switch(this)"><span>综合校情统计</span></a></li>
+<li class="menu_line"></li>
+<li><a href="fwzn.htm" onmouseover="nav_menufun_2_switch(this)"><span>服务指南</span></a></li>
+<li class="menu_line"></li>
+<li><a href="gzcg.htm" onmouseover="nav_menufun_2_switch(this)"><span>工作成果</span></a></li>
+<li class="menu_line"></li>
+<li><a href="http://icdzb.xjtu.edu.cn/" onmouseover="nav_menufun_2_switch(this)"><span>学习型支部</span></a></li>
+</ul>
+</div>
+<div class="menu2 i_menu_2">
+<div class="nav_on" isfocus="true">
+<div class="nav_welcome">数据与信息中心欢迎您！ </div>
+</div>
+<div>
+<div class="nav_welcome">数据与信息中心欢迎您！</div>
+</div>
+<div>
+<div class="nav_welcome">数据与信息中心欢迎您！</div>
+</div>
+<div>
+<div class="nav_welcome">数据与信息中心欢迎您！</div>
+</div>
+<div>
+<ul style="padding-left:230px">
+<li class="menu_line"></li>
+<li><a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1007"><span>中心新闻</span></a></li>
+<li class="menu_line"></li>
+<li><a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1008"><span>通知公告</span></a></li>
+<li class="menu_line"></li>
+<li><a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1023"><span>工作简报</span></a></li>
+<li class="menu_line"></li>
+</ul>
+</div>
+<div>
+<ul style="padding-left:300px">
+<li class="menu_line"></li>
+<li><a href="zwgk_list_2ycdq.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1010"><span>规章制度</span></a></li>
+<li class="menu_line"></li>
+<li><a href="zwgk_list_3ycdq.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1020"><span>会议纪要</span></a></li>
+<li class="menu_line"></li>
+</ul>
+</div>
+<div>
+<div class="nav_welcome">数据与信息中心欢迎您！</div>
+</div>
+<div>
+<div class="nav_welcome">数据与信息中心欢迎您！</div>
+</div>
+<div>
+<div class="nav_welcome">数据与信息中心欢迎您！</div>
+</div>
+<div>
+<div class="nav_welcome">数据与信息中心欢迎您！</div>
+</div>
+<div>
+<div class="nav_welcome">数据与信息中心欢迎您！</div>
+</div>
+</div>
+</div></div></div><!--#endeditable--><!-- 0 --></div>
+<div class="pw i_body">
+<div class="i_mid">
+<div class="split"> </div>
+<div class="i_content">
+<div class="i_con_left">
+<div class="i_left_L">
+<div><a href="zxjj.htm"><img border="0" src="dfiles/9909/aloer/i_zxjj.jpg" width="100%"/></a></div>
+<div><!--#begineditable clone="0" namechanged="0" order="2" ispublic="0" tagname="中心简介图片列表" viewid="67974" contype="" stylesysid="" layout="" action="" name="中心简介图片列表"-->
+<img border="0" height="115" src="dfiles/9909/aloer/i_zxjj_1.jpg" width="226"/>
+<!--#endeditable--></div>
+<div class="i_zxjj"><!--#begineditable clone="0" namechanged="0" order="3" ispublic="0" tagname="文本框中心简介" viewid="68005" contype="" stylesysid="" layout="" action="" name="文本框中心简介"--><table class="winstyle68005" width="100%">
+<tr>
+<td><p>西安交通大学数据与信息中心为学校信息化建设与管理领导小组的日常办事机构，处级建制。在主管校领导的领导下，下设<font style="color: #d40411"><strong>信息化建设管理办公室、数据管理办公室、公共信息服务办公室、资源建设与综合事务办公室、信息管理办公室</strong></font>。主要职责为：负责学校数据的管理、共享服务、分析与应用；制定学校数据发展规… </p></td>
+</tr>
+</table><!--#endeditable--></div></div>
+<div class="i_left_R">
+<div id="div_zxdt_a"><a class="i_zxdt_hover" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1007" id="zxdt_a_1" onmouseover="switchULShow(1)">中心动态</a> <a class="i_zxdt" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1008" id="zxdt_a_3" onmouseover="switchULShow(3)">通知公告</a> <a class="i_zxdt" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1023" id="zxdt_a_4" onmouseover="switchULShow(4)">工作简报</a> </div>
+<div class="clear"> </div>
+<div><img src="dfiles/9909/aloer/i_zxdt_bg.jpg" width="100%"/></div>
+<div>
+<div class="i_zxdt_left">
+<div class="i_zxdt_flash"><!--#begineditable clone="0" namechanged="0" order="4" ispublic="0" tagname="变换图片文章" viewid="67988" contype="" stylesysid="" layout="" action="" name="变换图片文章"-->
+<link href="system/resource/style/component/news/list/imagechangenews.css" rel="stylesheet" type="text/css"/>
+<script language="javascript" src="system/resource/js/news/imagechangenews.js"></script><script language="JavaScript">
+var u_li4oiobwsi_icn = new ImageChangeNews("u_li4oiobwsi_", 213, 140, 4, 2.0, true, false, false, true);
+
+//初始化图片, 并启动定时
+function u_li4oiobwsi_init_img()
+{
+
+    u_li4oiobwsi_icn.addimg("\/_mediafile\/xxzx\/2016\/11\/24\/_thumb\/2ijikiw7si.jpg", "\/info\/1007\/4907.htm", "【党支部故事】数据与信息中心...", "");
+
+    u_li4oiobwsi_icn.addimg("\/images\/16\/10\/19\/d94i2xpjlw\/_thumb\/20160426050654547.jpg", "\/info\/1007\/3273.htm", "2016年高等教育信息化创新论坛...", "");
+
+    u_li4oiobwsi_icn.addimg("\/images\/16\/10\/19\/nnvr8r5jlv\/_thumb\/20160411023935872.jpg", "\/info\/1007\/3271.htm", "【双甲子校庆】西安交大与百度...", "");
+
+    u_li4oiobwsi_icn.addimg("\/images\/16\/10\/19\/srs9bnzjmi\/_thumb\/20151104105525351.jpg", "\/info\/1007\/3315.htm", "【党支部故事】信息中心党支部...", "");
+
+    u_li4oiobwsi_icn.addimg("\/images\/16\/10\/19\/kfoityyjmf\/_thumb\/20151008053041351.jpg", "\/info\/1007\/3310.htm", "学校召开信息化“十三五”发展...", "");
+
+    u_li4oiobwsi_icn.addimg("\/images\/16\/10\/19\/4e3wwa8jmm\/_thumb\/20150717100859378.jpg", "\/info\/1007\/3327.htm", "数据与信息中心党支部召开“三...", "");
+
+    u_li4oiobwsi_icn.changeimg(0);
+}
+</script><table border="0" cellpadding="0" cellspacing="0" style="padding:0px margin:0px;border:0px">
+<tr><td>
+<div style="OVERFLOW: hidden;height:140px;width:213px">
+<div align="center" id="u_li4oiobwsi_div" style="padding:0px;margin:0px;border:0px solid black;background-color:#000000;FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2.0,transition=23);height:140px;width:213px">
+<div id="u_li4oiobwsi_imgdiv" style="padding:0px;margin-top:0px;border:0px"><a id="u_li4oiobwsi_url" target="_blank"><img border="0" height="140" id="u_li4oiobwsi_pic" src="system/resource/images/space.gif" width="213"/></a></div>
+</div>
+<div style="filter:alpha(style=1,opacity=10,finishOpacity=80);width:212px;height:19px;text-align:right;top:-19px;position:relative;padding:0px;margin:0px;border:0px">
+<a ;="" class="imagechangenews_pnode" href="javascript:u_li4oiobwsi_icn.changeimg(0)" id="u_li4oiobwsi_selectNode0" target="_self">1</a><a ;="" class="imagechangenews_pnode" href="javascript:u_li4oiobwsi_icn.changeimg(1)" id="u_li4oiobwsi_selectNode1" target="_self">2</a><a ;="" class="imagechangenews_pnode" href="javascript:u_li4oiobwsi_icn.changeimg(2)" id="u_li4oiobwsi_selectNode2" target="_self">3</a><a ;="" class="imagechangenews_pnode" href="javascript:u_li4oiobwsi_icn.changeimg(3)" id="u_li4oiobwsi_selectNode3" target="_self">4</a><a ;="" class="imagechangenews_pnode" href="javascript:u_li4oiobwsi_icn.changeimg(4)" id="u_li4oiobwsi_selectNode4" target="_self">5</a><a ;="" class="imagechangenews_pnode" href="javascript:u_li4oiobwsi_icn.changeimg(5)" id="u_li4oiobwsi_selectNode5" target="_self">6</a>
+</div></div></td></tr>
+<tr><td height="25">
+<div align="center" style="overflow:hidden;text-overflow:ellipsis;height:25px;width:213px"><a class="titlestyle67988" id="u_li4oiobwsi_newstitle" target="_blank"></a></div>
+</td></tr>
+<div align="left" display="none" style="overflow:hidden;text-overflow:ellipsis;height:0px;width:213px;padding-left:2px;padding-right:2px"><a class="summarystyle67988" id="u_li4oiobwsi_newssummary" target="_blank"></a></div>
+</table><script language="JavaScript">u_li4oiobwsi_init_img();</script><!--#endeditable--></div></div>
+<div class="i_zxdt_right"><!--#begineditable clone="0" namechanged="0" order="5" ispublic="0" tagname="中心新闻标题列表" viewid="67976" contype="" stylesysid="" layout="" action="" name="中心新闻标题列表"-->
+<div class="i_zxdt_title">
+                                                               【党支部故事】数据与信息中心党支部：“互联网+”是个宝，“两学一做”见实效</div>
+<div class="i_zxdt_text">
+<p>  19名党员，积极服务全校35个分党委18000余名党员思想建设，努力帮助安康平利县9个村1625户4174人脱贫致富，听起来“不可思议”。但是数据与信息中心党支部用“互联网+”的杠杆，把“两
+                                </p></div>
+<div><a class="i_detail" href="info/1007/4907.htm">【详细内容】</a></div>
+<script>_showDynClickBatch(['dynclicks_u5_4907'],[4907],"wbnews", 1269181723)</script>
+<!--#endeditable--></div></div>
+<div class="clear"> </div>
+<div id="div_zxdt_ul" style="margin-top: 5px">
+<ul class="i_zxdt" id="zxdt_ul_1" style="display: block"><!--#begineditable clone="0" namechanged="0" order="6" ispublic="0" tagname="中心动态标题列表" viewid="67977" contype="" stylesysid="" layout="" action="" name="中心动态标题列表"-->
+<li class="i_zxdt"><span class="left"><a href="info/1007/3249.htm">
+<font color="#d40411"><strong>·关于拔尖班使用“西交link”客户端的通知</strong>
+</font>
+</a></span> <cite>2016-05-10</cite></li>
+<li class="i_zxdt"><span class="left"><a href="info/1007/4973.htm"><font style="font-size:12px">·西安交大参加高校大数据应用研讨会</font>
+</a></span> <cite>2017-07-29</cite></li>
+<li class="i_zxdt"><span class="left"><a href="info/1007/4972.htm"><font style="font-size:12px">·网络信息中心党支部学习黄大年同志先进事迹报告，开展中心支部“七...</font>
+</a></span> <cite>2017-07-27</cite></li>
+<li class="i_zxdt"><span class="left"><a href="info/1007/4971.htm"><font style="font-size:12px">·网络信息中心开展科技论文写作与业务知识学习经验分享会</font>
+</a></span> <cite>2017-07-22</cite></li>
+<li class="i_zxdt"><span class="left"><a href="info/1007/4970.htm"><font style="font-size:12px">·网信中心党支部召开全体党员大会圆满完成换届选举工作</font>
+</a></span> <cite>2017-07-22</cite></li>
+<script>_showDynClickBatch(['dynclicks_u6_3249','dynclicks_u6_4973','dynclicks_u6_4972','dynclicks_u6_4971','dynclicks_u6_4970'],[3249,4973,4972,4971,4970],"wbnews", 1269181723)</script>
+<!--#endeditable--><!-- 中心动态的更多内容... -->
+<li class="i_zxdt2"><a class="i_detail" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1007">【更多内容】</a> </li></ul>
+<ul class="i_zxdt" id="zxdt_ul_3" style="display: none"><!-- 通知公告 --><!--#begineditable clone="0" namechanged="0" order="7" ispublic="0" tagname="通知公告标题列表" viewid="67978" contype="" stylesysid="" layout="" action="" name="通知公告标题列表"-->
+<li class="i_zxdt"><span class="left"><a href="info/1008/4931.htm">
+<font color="#d40411"><strong>·关于学校党建学习平台使用和学习积分兑换的通知</strong>
+</font>
+</a></span> <cite>2017-03-01</cite></li>
+<li class="i_zxdt"><span class="left"><a href="info/1008/4928.htm"><font style="font-size:12px">·关于检查学校主页及各二级单位主页的通知</font>
+</a></span> <cite>2017-02-21</cite></li>
+<li class="i_zxdt"><span class="left"><a href="info/1008/4927.htm"><font style="font-size:12px">·关于进一步做好“两学一做”专题网络培训的通知</font>
+</a></span> <cite>2017-02-19</cite></li>
+<li class="i_zxdt"><span class="left"><a href="info/1008/4924.htm"><font style="font-size:12px">·关于组织开展寒假期间“两学一做”专题网络培训的通知</font>
+</a></span> <cite>2017-01-15</cite></li>
+<li class="i_zxdt"><span class="left"><a href="info/1008/4919.htm"><font style="font-size:12px">·关于数据与信息中心2016年度考核的公示</font>
+</a></span> <cite>2017-01-04</cite></li>
+<script>_showDynClickBatch(['dynclicks_u7_4931','dynclicks_u7_4928','dynclicks_u7_4927','dynclicks_u7_4924','dynclicks_u7_4919'],[4931,4928,4927,4924,4919],"wbnews", 1269181723)</script>
+<!--#endeditable--><!-- 通知公告的更多内容... -->
+<li class="i_zxdt2"><a class="i_detail" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1008">【更多内容】</a> </li></ul>
+<ul class="i_zxdt" id="zxdt_ul_4" style="display: none"><!-- 工作简报 --><!--#begineditable clone="0" namechanged="0" order="8" ispublic="0" tagname="工作简报标题列表" viewid="67979" contype="" stylesysid="" layout="" action="" name="工作简报标题列表"-->
+<li class="i_zxdt"><span class="left"><a href="info/1023/2822.htm">
+<font color="#d40411"><strong>·西安交大信息化建设工作简报（2015年第4期，总第11期）</strong>
+</font>
+</a></span> <cite>2015-07-10</cite></li>
+<li class="i_zxdt"><span class="left"><a href="info/1023/2826.htm"><font style="font-size:12px">·西安交大信息化建设工作简报（2015年第3期，总第10期）</font>
+</a></span> <cite>2015-05-04</cite></li>
+<li class="i_zxdt"><span class="left"><a href="info/1023/2819.htm"><font style="font-size:12px">·西安交大信息化建设工作简报（2015年第2期，总第9期）</font>
+</a></span> <cite>2015-03-23</cite></li>
+<li class="i_zxdt"><span class="left"><a href="info/1023/2815.htm"><font style="font-size:12px">·西安交大信息化建设工作简报（2015年第1期，总第8期）</font>
+</a></span> <cite>2015-02-26</cite></li>
+<li class="i_zxdt"><span class="left"><a href="info/1023/2811.htm"><font style="font-size:12px">·西安交大信息化建设工作简报（2014年第7期）</font>
+</a></span> <cite>2014-11-26</cite></li>
+<script>_showDynClickBatch(['dynclicks_u8_2822','dynclicks_u8_2826','dynclicks_u8_2819','dynclicks_u8_2815','dynclicks_u8_2811'],[2822,2826,2819,2815,2811],"wbnews", 1269181723)</script>
+<!--#endeditable--><!-- 工作简报的更多内容... -->
+<li class="i_zxdt2"><a class="i_detail" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1023">【更多内容】</a> </li></ul>
+<div class="clear"> </div></div></div>
+<div class="clear"> </div>
+<div class="i_xwxx">
+<div><img src="dfiles/9909/aloer/i_xwxxh.jpg" width="100%"/></div><!-- 校务信息化建设 --><!--#begineditable clone="0" namechanged="0" order="9" ispublic="0" tagname="校务信息化标题列表" viewid="67980" contype="" stylesysid="" layout="" action="" name="校务信息化标题列表"--><ul class="i_xwxxh">
+<li class="i_xwxxh" style="width:170px;border-bottom:1px solid #ccc"><a href="info/1024/2740.htm" target="_blank">·综合校情统计</a></li>
+<li class="i_xwxxh" style="width:170px;border-bottom:1px solid #ccc"><a href="info/1024/2781.htm" target="_blank">·站群管理系统</a></li>
+<li class="i_xwxxh" style="width:170px;border-bottom:1px solid #ccc"><a href="info/1024/2734.htm" target="_blank">·学生管理信息系统</a></li>
+<li class="i_xwxxh" style="width:170px;border-bottom:1px solid #ccc"><a href="info/1024/2792.htm" target="_blank">·科研管理信息系统</a></li>
+<li class="i_xwxxh" style="width:170px;border-bottom:1px solid #ccc"><a href="info/1024/2788.htm" target="_blank">·校友管理信息系统</a></li>
+<li class="i_xwxxh" style="width:170px;border-bottom:1px solid #ccc"><a href="info/1024/2798.htm" target="_blank">·政务（OA）系统</a></li>
+<li class="i_xwxxh" style="width:170px;border-bottom:1px solid #ccc"><a href="info/1024/2773.htm" target="_blank">·学术资源平台</a></li>
+<li class="i_xwxxh" style="width:170px;border-bottom:1px solid #ccc"><a href="info/1024/2760.htm" target="_blank">·研究生管理信息系统</a></li>
+<li class="i_xwxxh" style="width:170px;border-bottom:1px solid #ccc"><a href="info/1024/2746.htm" target="_blank">·重点项目统计系统</a></li>
+<li class="i_xwxxh" style="width:170px;border-bottom:1px solid #ccc"><a href="info/1024/2768.htm" target="_blank">·人事管理信息系统</a></li>
+<li class="i_xwxxh" style="width:170px;border-bottom:none"><a href="info/1024/2754.htm" target="_blank">·学生就业管理信息系统</a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u9_2740','dynclicks_u9_2781','dynclicks_u9_2734','dynclicks_u9_2792','dynclicks_u9_2788','dynclicks_u9_2798','dynclicks_u9_2773','dynclicks_u9_2760','dynclicks_u9_2746','dynclicks_u9_2768','dynclicks_u9_2754'],[2740,2781,2734,2792,2788,2798,2773,2760,2746,2768,2754],"wbnews", 1269181723)</script>
+<!--#endeditable-->
+<div class="clear"> </div></div>
+<div class="i_ggxxfw">
+<div><img src="dfiles/9909/aloer/i_ggxxfw.jpg" width="100%"/></div><!--#begineditable clone="0" namechanged="0" order="10" ispublic="0" tagname="公共信息服务标题列表" viewid="67989" contype="" stylesysid="" layout="" action="" name="公共信息服务标题列表"--><ul class="i_xwxxh">
+<li class="i_xwxxh" style="width:170px;border-bottom:1px solid #ccc"><a href="info/1025/2804.htm" target="_blank">·教师个人主页</a></li>
+<li class="i_xwxxh" style="width:170px;border-bottom:1px solid #ccc"><a href="info/1025/2801.htm" target="_blank">·科技在线</a></li>
+<li class="i_xwxxh" style="width:170px;border-bottom:1px solid #ccc"><a href="info/1025/2799.htm" target="_blank">·网络公开课程平台</a></li>
+<li class="i_xwxxh" style="width:170px;border-bottom:1px solid #ccc"><a href="info/1025/2793.htm" target="_blank">·毕业专题网</a></li>
+<li class="i_xwxxh" style="width:170px;border-bottom:1px solid #ccc"><a href="info/1025/2787.htm" target="_blank">·校园活动</a></li>
+<li class="i_xwxxh" style="width:170px;border-bottom:1px solid #ccc"><a href="info/1025/2780.htm" target="_blank">·信息化培训网</a></li>
+<li class="i_xwxxh" style="width:170px;border-bottom:1px solid #ccc"><a href="info/1025/2774.htm" target="_blank">·它山之石</a></li>
+<li class="i_xwxxh" style="width:170px;border-bottom:1px solid #ccc"><a href="info/1025/2767.htm" target="_blank">·信息公开平台</a></li>
+<li class="i_xwxxh" style="width:170px;border-bottom:1px solid #ccc"><a href="info/1025/2762.htm" target="_blank">·自助服务系统</a></li>
+<li class="i_xwxxh" style="width:170px;border-bottom:1px solid #ccc"><a href="info/1025/2755.htm" target="_blank">·医学在线</a></li>
+<li class="i_xwxxh" style="width:170px;border-bottom:none"><a href="info/1025/2749.htm" target="_blank">·纳米制造基础研究信息平台</a></li>
+<li class="i_xwxxh" style="width:170px;border-bottom:none"><a href="info/1025/2741.htm" target="_blank">·视听觉信息的认知计算</a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u10_2804','dynclicks_u10_2801','dynclicks_u10_2799','dynclicks_u10_2793','dynclicks_u10_2787','dynclicks_u10_2780','dynclicks_u10_2774','dynclicks_u10_2767','dynclicks_u10_2762','dynclicks_u10_2755','dynclicks_u10_2749','dynclicks_u10_2741'],[2804,2801,2799,2793,2787,2780,2774,2767,2762,2755,2749,2741],"wbnews", 1269181723)</script>
+<!--#endeditable-->
+<div class="clear"> </div></div></div>
+<div class="i_con_right">
+<div><!--#begineditable clone="0" namechanged="0" order="11" ispublic="0" tagname="服务热线图片列表" viewid="67987" contype="" stylesysid="" layout="" action="" name="服务热线图片列表"-->
+<img border="0" src="dfiles/9909/aloer/i_tel.jpg" width="100%"/>
+<!--#endeditable--></div>
+<table cellpadding="0" cellspacing="0" style="height: 27px;margin: 10px 0px">
+<tbody>
+<tr>
+<td><!--#begineditable clone="0" namechanged="0" order="12" ispublic="0" tagname="简单检索" viewid="67992" contype="" stylesysid="" layout="" action="" name="简单检索"-->
+<form action="ssjgy.jsp?wbtreeid=1001" class="i_search" method="post" name="a67992a" onsubmit="return subsearchdataa67992a()" style="display: inline">
+<input name="Find" type="hidden" value="find"/><input name="entrymode" type="hidden" value="1"/><input id="INTEXT2" name="INTEXT2" type="hidden" value=""/><input name="news_search_code" type="hidden"/>
+<table border="0" cellpadding="0">
+<tr>
+<td height="27" nowrap="nowrap" valign="middle"><img src="dfiles/9909/aloer/i_search_1.jpg"/>
+<input name="condition" type="hidden" value="0"/> </td><td class="i_search">
+<span id="intextspana67992a"></span>
+<iframe frameborder="0" id="intextframea67992a" scrolling="no" src="about:blank" style="position:absolute;top:0px;left:0px;display:none"></iframe>
+<input name="INTEXT" onblur="if (value ==''){value='站内搜索'}" onfocus="if (value =='站内搜索'){value =''}" size="12" style="height:27px;width:130px;background:none;border:none;line-height:26px" value="站内搜索"/>
+</td>
+<td align="absmiddle" height="1" nowrap="nowrap">
+<input align="absmiddle" src="dfiles/9909/aloer/i_search_3.jpg" style="cursor: hand" type="image" valign="bottom"/>
+</td>
+</tr>
+</table>
+</form>
+<script>
+function subsearchdataa67992a()
+{ 
+    if(checkDataa67992a(document.a67992a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+<script language="JavaScript" src="system/dwr/engine.js"></script>
+<script language="JavaScript" src="system/dwr/util.js"></script>
+<script language="JavaScript" src="system/dwr/interface/NewsSearchDWR.js"></script>
+<script language="JavaScript" src="system/resource/js/vsb_news_search.js"></script>
+<script language="JavaScript" src="system/resource/js/vsb_news_search_entry.js"></script>
+<script language="JavaScript" src="system/resource/js/language.js"></script>
+<script language="JavaScript" src="system/resource/js/base64.js"></script>
+<script language="JavaScript" src="system/resource/js/formfunc.js"></script>
+<script>    
+    news_searcha67992a = new vsb_news_search();
+    news_searcha67992a.isShowCode=false;
+    news_searcha67992a.tooltipid = 'tooltipa67992a';
+    news_searcha67992a.apptag = 'intextspana67992a';
+    news_searcha67992a.frametag = 'intextframea67992a';
+    news_search_entrya67992a = new vsb_news_search_entry();
+    news_search_entrya67992a.formname = "a67992a";
+    news_search_entrya67992a.news_search_obj = news_searcha67992a; 
+    news_search_entrya67992a.querytxtsize = 155
+    news_search_entrya67992a.yzmts ="您的查询过于频繁，请输入验证码后继续查询";
+    news_search_entrya67992a.qdstyle ="";
+    news_search_entrya67992a.qdname = "确定";
+    news_search_entrya67992a.qxstyle = "";
+    news_search_entrya67992a.qxname = "取消";    
+    function checkDataa67992a(formname)
+    {    
+        return news_search_entrya67992a.checkdata(formname)   
+    }
+    </script>
+<script language="javascript" src="system/resource/js/base64.js"></script>
+<!--#endeditable--></td></tr></tbody></table>
+<div class="i_bszn">
+<div><!--#begineditable clone="0" namechanged="0" order="13" ispublic="0" tagname="服务指南图片列表" viewid="68993" contype="" stylesysid="" layout="" action="" name="服务指南图片列表"--><a href="fwzn.htm" onclick='_addDynClicks("wbimage", 1269181723, 29256)' target="_blank" title=""><img border="0" src="dfiles/9909/aloer/i_bszn.jpg" width="100%"/></a>
+<!--#endeditable--></div>
+<ul class="i_bszn"><!--#begineditable clone="0" namechanged="0" order="14" ispublic="0" tagname="网站导航_服务指南" viewid="68012" contype="" stylesysid="" layout="" action="" name="网站导航_服务指南"-->
+<li class="i_bszn_L"> <a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1038" title="政务（OA）系统用户使用指南">政务（OA）系统用户使用指南</a>
+</li>
+<li class="i_bszn_R"> <a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1039" title="学校科研管理信息平台用户使用指南">学校科研管理信息平台用户使用指南</a>
+</li>
+<li class="i_bszn_L"> <a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1040" title="综合校情统计平台用户使用指南">综合校情统计平台用户使用指南</a>
+</li>
+<li class="i_bszn_R"> <a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1030" title="学术资源平台使用指南">学术资源平台使用指南</a>
+</li>
+<li class="i_bszn_L"> <a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1031" title="学校主页信息管理指南">学校主页信息管理指南</a>
+</li>
+<li class="i_bszn_R"> <a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1032" title="学校二级网站管理指南">学校二级网站管理指南</a>
+</li>
+<li class="i_bszn_L"> <a href="http://gr.xjtu.edu.cn:8080/help/" title="教师个人主页使用指南">教师个人主页使用指南</a>
+</li>
+<li class="i_bszn_R"> <a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1034" title="信息化培训平台使用指南">信息化培训平台使用指南</a>
+</li>
+<li class="i_bszn_L"> <a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1035" title="学校VI使用指南">学校VI使用指南</a>
+</li>
+<li class="i_bszn_R"> <a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1036" title="BBS用户管理">BBS用户管理</a>
+</li>
+<li class="i_bszn_L"> <a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1037" title="下载中心">下载中心</a>
+</li>
+<!--#endeditable--></ul>
+<div class="split"> </div>
+<div><img src="dfiles/9909/aloer/i_yqlj.jpg" width="100%"/></div><!--#begineditable clone="0" namechanged="0" order="15" ispublic="0" tagname="友情链接链接列表" viewid="67986" contype="" stylesysid="" layout="" action="" name="友情链接链接列表"--><script language="javascript" src="system/resource/js/openlink.js"></script><ul class="i_bszn">
+<li class="i_yqlj"><a href="http://www.moe.edu.cn" target="_blank">·中华人民共和国教育部</a></li>
+<li class="i_yqlj"><a href="http://www.most.gov.cn/" target="_blank">·中华人民共和国科学技术部</a></li>
+<li class="i_yqlj"><a href="http://www.miit.gov.cn" target="_blank">·中华人民共和国工业和信息化部</a></li>
+<li class="i_yqlj"><a href="http://www.cutech.edu.cn/cn/index.htm" target="_blank">·教育部科技发展中心</a></li>
+<li class="i_yqlj"><a href="http://www.moe.edu.cn/publicfiles/business/htmlfiles/moe/A12/" target="_blank">·教育部思想政治工作司</a></li>
+<li class="i_yqlj"><a href="http://www.cnnic.cn" target="_blank">·中国互联网络信息中心</a></li>
+</ul><!--#endeditable--></div></div>
+<div class="split"> </div></div>
+<div><img src="dfiles/9909/aloer/i_fl_top.jpg" width="100%"/> </div>
+<div class="i_friendLink"><!--#begineditable clone="0" namechanged="0" order="16" ispublic="0" tagname="友情链接图片列表" viewid="67982" contype="" stylesysid="" layout="" action="" name="友情链接图片列表"-->
+<ul class="i_fl">
+<li class="i_fl"><a href="http://icdzb.xjtu.edu.cn/" target="_blank"><img border="0" src="dfiles/9909/upfiles/class/20110429173315_850.jpg"/></a></li>
+<li class="i_fl"><a href="http://noa.xjtu.edu.cn/form/user/anonymous/index.jsp" target="_blank"><img border="0" src="dfiles/9909/upfiles/class/20110429173512_438.jpg"/></a></li>
+<li class="i_fl"><a href="http://202.117.1.76/" target="_blank"><img border="0" src="dfiles/9909/upfiles/class/20110517163911_579.gif"/></a></li>
+<li class="i_fl"><a href="http://meeting.xjtu.edu.cn/" target="_blank"><img border="0" src="dfiles/9909/upfiles/class/20110517160952_503.gif"/></a></li>
+<li class="i_fl"><a href="http://zq.xjtu.edu.cn/xxpx/" target="_blank"><img border="0" src="dfiles/9909/upfiles/class/20110429173552_638.jpg"/></a></li>
+<li class="i_fl"><a href="http://tszs.xjtu.edu.cn/" target="_blank"><img border="0" src="dfiles/9909/upfiles/class/20110503083835_803.jpg"/></a></li>
+<li class="i_fl"><a href="#" target="_blank"><img border="0" src="dfiles/9909/upfiles/class/20110503083922_893.jpg"/></a></li>
+<li class="i_fl"><a href="http://bbs.xjtu.edu.cn/" target="_blank"><img border="0" src="dfiles/9909/upfiles/class/20110530112257_406.jpg"/></a></li>
+</ul><!--#endeditable--></div>
+<div><img src="dfiles/9909/aloer/i_fl_bottom.jpg" width="100%"/> </div>
+<div class="split"> </div></div></div>
+<div class="i_bottom">
+<div style="overflow: hidden;margin: 0px auto;width: 190px"><span style="float: left">您是本站的第</span><font color="#ffffff"><strong><!--#begineditable clone="0" namechanged="0" order="17" ispublic="0" tagname="文字计数器" viewid="67983" contype="" stylesysid="" layout="" action="" name="文字计数器"-->
+<span id="jsqspanjs67983js">读取内容中,请等待...</span>
+<script> 
+function get_ajaxjs67983js()
+{
+    var xmlhttp = null;
+    try
+    {
+        xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+    }
+    catch(e)
+    {
+        try
+        {
+            xmlhttp = new ActiveXObject("Msxml2.XMLHTTP");
+        }
+        catch(e)
+        {
+            try
+            {
+                xmlhttp = new XMLHttpRequest();
+            }
+            catch(e)
+            {
+            }
+        }
+    }
+    return xmlhttp;
+}
+function getJSQjs67983js() { 
+
+    var url = '/system/resource/jsq.jsp'; 
+    var pars = '?owner=1269181723&columnid=1001&countertype=TOTAL_COUNTER&basenum=302482&len=8&r='+Math.random();  
+    var urlpath  = url+pars;
+    var xmlhttp = get_ajaxjs67983js();
+    xmlhttp.open("GET",urlpath, false);
+    xmlhttp.onreadystatechange  = function(){onloadJSQjs67983js(xmlhttp);};
+    xmlhttp.send(null);
+}
+function onloadJSQjs67983js(xmlhttp)
+{
+    if(xmlhttp.readyState == 4 && xmlhttp.status == 200)
+    {
+        var returntext = xmlhttp.responseText
+        var result="";
+        result+="<table width='1%' align='center'   class='winstyle67983' >";
+        result+="<tr>";
+        result+="<td valign=middle align=center nowrap >";
+         
+            result+="<span >"+returntext+"</span>";
+         
+        result+="</td>";
+        result+="</tr>";
+        result+="</table>";
+        document.getElementById("jsqspanjs67983js").innerHTML = result;
+    }
+}
+getJSQjs67983js() 
+</script><!--#endeditable--></strong></font><span style="float: left">位访问者</span></div><!--#begineditable clone="0" namechanged="0" order="18" ispublic="0" tagname="版权" viewid="67984" contype="" stylesysid="" layout="" action="" name="版权"-->地址：陕西省西安市咸宁西路28号 邮编：710049 <br/>版权所有：西安交通大学 ©2010-2011 站点设计：网络信息中心<!--#endeditable--></div>
+<div></div>
+<div></div>
+</body>

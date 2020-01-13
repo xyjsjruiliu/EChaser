@@ -1,0 +1,747 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html><head><title>中共中央 国务院印发《关于加强和改进新形势下高校思想政治工作的意见》-西安交大新闻网</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="CSS:AloeR@BMY,美工设计:阿颖" name="author"/>
+<meta content="西安交通大学 新闻网XJTUNEWS" name="description"/><link href="../../AloeR/AloeR_news.css" rel="stylesheet" type="text/css"/><script language="JavaScript" src="../../AloeR/AloeR_news.js" type="text/JavaScript"></script><script src="http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=420961"></script><link href="http://bdimg.share.baidu.com/static/api/css/share_style0_16.css?v=6aba13f0.css" rel="stylesheet"/><link href="http://bdimg.share.baidu.com/static/api/css/share_popup.css?v=240f357d.css" rel="stylesheet"/><link href="http://bdimg.share.baidu.com/static/api/css/select_share.css?v=15f56735.css" rel="stylesheet"/>
+<script src="http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=426893"></script>
+<link href="http://bdimg.share.baidu.com/static/api/css/share_style0_16.css?v=8105b07e.css" rel="stylesheet"/><!--Announced by Visual SiteBuilder 9-->
+<link href="../../_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230697547545255564203030000 -->
+<link href="../../content.vsb.css" rel="stylesheet" type="text/css">
+<meta content="西安交大新闻网" name="keywords">
+<script src="../../system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1015,'/content.jsp',73425,1025023737)</script>
+</meta></link></link></head>
+<body tangram_guid="TANGRAM_5" target="_blank"><a 360chrome_form_autofill="2" href="../../xxyg.htm"></a>
+<div 360chrome_form_autofill="2" class="i_top">
+<div 360chrome_form_autofill="2" class="i_top_xjtu"><!--#begineditable contype="" name="交大LOGO" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="交大LOGO" viewid="43031" stylesysid=""--><table border="0" cellpadding="0" cellspacing="0"><tr><td><img alt="/AloeR/i_top_xjtu.jpg" border="0" src="../../AloeR/i_top_xjtu.jpg"/></td></tr></table><!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="i_top_news"><!--#begineditable contype="" name="新闻网logo" action="" layout="" clone="0" namechanged="0" order="1" ispublic="0" tagname="新闻网logo" viewid="43060" stylesysid=""-->
+<script language="javascript" src="../../system/resource/js/dynclicks.js"></script>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img border="0" height="85" hspace="3" src="../../newindex/pic/i_top_news.jpg" vspace="2" width="340"/></td>
+</tr>
+</table><!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="i_top_right" style="padding-top: 20px">
+<div 360chrome_form_autofill="2" class="i_top_datett"><script language="JavaScript" src="../../AloeR/datatime.js" type="text/javascript"></script>| <a 360chrome_form_autofill="2" class="i_white" href="http://xiaoli.xjtu.edu.cn" target="_blank">电子校历 </a></div>
+<div 360chrome_form_autofill="2" class="i_top_writesq" style="width: 112px;float: right"><a 360chrome_form_autofill="2" class="i_white" href="http://202.117.3.237:8080/system/contribute/login.jsp" target="_blank"><img 360chrome_form_autofill="2" data-bd-imgshare-binded="1" height="51" src="../../images/xwtg_r2_c2.jpg" tangram_guid="TANGRAM_18" width="112"/></a></div></div></div>
+<div 360chrome_form_autofill="2" class="i_menu"><!--#begineditable contype="" name="网站导航" action="" layout="" clone="0" namechanged="0" order="2" ispublic="0" tagname="网站导航" viewid="43061" stylesysid=""--> <div class="i_menu_home">
+<a class="i_home" href="../../index.htm">新闻网首页</a>
+<a class="i_home" href="http://www.xjtu.edu.cn" target="_blank">交大首页</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../zyxw.htm">主页新闻</a>
+<a class="i_menu" href="../../zhxw.htm">综合新闻</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../jyjx.htm">教育教学</a>
+<a class="i_menu" href="../../kydt.htm">科研动态</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../wshd.htm">外事活动</a>
+<a class="i_menu" href="../../zsjy.htm">招生就业</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../ybdt.htm">院部动态</a>
+<a class="i_menu" href="../../dcsy.htm">多彩书院</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../xysh.htm">校园生活</a>
+<a class="i_menu" href="../../syjt.htm">思源讲堂</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../rwfc.htm">人物风采</a>
+<a class="i_menu" href="../../xyzs.htm">校友之声</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../ylzx.htm">医疗在线</a>
+<a class="i_menu" href="../../shfw.htm">社会服务</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../mtjd.htm">媒体交大</a>
+<a class="i_menu" href="../../xwzh.htm">新闻纵横</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../xwzt.htm">新闻专题</a>
+<a class="i_menu" href="../../tpxw.htm">图片新闻</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../spjd.htm">视频交大</a>
+<a class="i_menu" href="../../llyd.htm">理论园地</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../xxyg.htm">信息预告</a>
+<a class="i_menu" href="../../xysb.htm">校园随笔</a>
+</div>
+<!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="i_menu_bottom"> </div>
+<div 360chrome_form_autofill="2" class="pw">
+<div 360chrome_form_autofill="2" class="i_left">
+<div 360chrome_form_autofill="2" class="l_location"><!--#begineditable contype="" name="当前位置" action="" layout="" clone="0" namechanged="0" order="3" ispublic="0" tagname="当前位置" viewid="42997" stylesysid=""-->
+<table cellpadding="0" cellspacing="0" class="winstyle42997"><tr><td nowrap="">
+<a href="../../index.htm"><span class="fontstyle42997">新闻网首页</span></a><span class="splitflagstyle42997"> &gt; </span><a href="../../xwzh.htm"><span class="fontstyle42997">新闻纵横</span></a><span class="splitflagstyle42997"> &gt; </span><span class="fontstyle42997">正文</span></td></tr></table><!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="l_split"> </div><!--#begineditable contype="" name="文章内容" action="" layout="" clone="0" namechanged="0" order="4" ispublic="0" tagname="文章内容" viewid="42979" stylesysid=""-->
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="../../system/resource/js/news/newscontent.js"></script><link href="../../system/resource/style/component/news/content/format2.css" rel="stylesheet" type="text/css"/><script language="javascript" src="../../system/resource/js/ajax.js"></script><script language="javascript" src="../../system/resource/js/jquery/jquery-latest.min.js"></script>
+<form name="_newscontent_fromname">
+<div>
+<input id="cc_title" name="cc_title" type="hidden" value="中共中央 国务院印发《关于加强和改进新形势下高校思想政治工作的意见》"/>
+<div class="d_title">中共中央 国务院印发《关于加强和改进新形势下高校思想政治工作的意见》</div>
+<div class="d_author">来源：交大新闻网 日期 2017-02-28 16:11 点击：<script>_showDynClicks("wbnews", 1025023737, 73425)</script> </div>
+<div class="d_detail" id="lmz_content"><div id="vsb_newscontent"><p><strong>新华社北京2月27日电</strong> 近日，中共中央、国务院印发了《关于加强和改进新形势下高校思想政治工作的意见》（以下简称《意见》）。</p>
+<p>《意见》强调指出，高校肩负着人才培养、科学研究、社会服务、文化传承创新、国际交流合作的重要使命。加强和改进高校思想政治工作，事关办什么样的大学、怎样办大学的根本问题，事关党对高校的领导，事关中国特色社会主义事业后继有人，是一项重大的政治任务和战略工程。</p>
+<p>《意见》分为七个部分：一、重要意义和总体要求；二、强化思想理论教育和价值引领；三、发挥哲学社会科学育人功能；四、加强对课堂教学和各类思想文化阵地的建设管理；五、加强教师队伍和专门力量建设；六、推进高校思想政治工作改革创新；七、加强和改善党对高校的领导。</p>
+<p>《意见》指出，我们党历来高度重视高校思想政治工作，探索形成了一系列基本方针原则和工作遵循。党的十八大以来，以习近平同志为核心的党中央把高校思想政治工作摆在突出位置，作出一系列重大决策部署，各地区各有关部门各高校采取有力有效措施，积极主动开展工作，创造了许多成功做法，积累了许多宝贵经验。大学生思想政治教育成效显著，教师思想政治素质明显提高，各类思想文化阵地建设和管理不断加强，中国特色社会主义理论体系进教材、进课堂、进头脑工作扎实有效，社会主义核心价值观建设持续推进，高校意识形态领域主流积极健康向上，广大师生对以习近平同志为核心的党中央拥护信任，对党中央治国理政新理念新思想新战略高度认同，对中国特色社会主义和中华民族伟大复兴中国梦充满信心。总体上看，高校思想政治工作持续加强和改进，呈现出良好发展态势，为保证高等教育改革发展、服务党和国家工作大局作出了重要贡献。</p>
+<p>《意见》指出，加强和改进高校思想政治工作的指导思想是：高举中国特色社会主义伟大旗帜，全面贯彻党的十八大和十八届三中、四中、五中、六中全会精神，以马克思列宁主义、毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观为指导，深入学习贯彻习近平总书记系列重要讲话精神和治国理政新理念新思想新战略，全面贯彻党的教育方针，坚持社会主义办学方向，扎根中国大地办大学，以立德树人为根本，以理想信念教育为核心，以社会主义核心价值观为引领，切实抓好各方面基础性建设和基础性工作，切实加强和改善党的领导，全面提升思想政治工作水平，紧密团结在以习近平同志为核心的党中央周围，牢固树立政治意识、大局意识、核心意识、看齐意识，坚定不移维护党中央权威和党中央集中统一领导，为实现“两个一百年”奋斗目标、实现中华民族伟大复兴的中国梦，培养又红又专、德才兼备、全面发展的中国特色社会主义合格建设者和可靠接班人。</p>
+<p>《意见》指出，加强和改进高校思想政治工作的基本原则是：（1）坚持党对高校的领导。落实全面从严治党要求，把党的建设贯穿始终，着力解决突出问题，维护党中央权威、保证党的团结统一，牢牢掌握党对高校的领导权。（2）坚持社会主义办学方向。坚持马克思主义指导地位，坚持以人民为中心的发展思想，更好为改革开放和社会主义现代化建设服务、为人民服务。（3）坚持全员全过程全方位育人。把思想价值引领贯穿教育教学全过程和各环节，形成教书育人、科研育人、实践育人、管理育人、服务育人、文化育人、组织育人长效机制。（4）坚持遵循教育规律、思想政治工作规律、学生成长规律。把握师生思想特点和发展需求，注重理论教育和实践活动相结合、普遍要求和分类指导相结合，提高工作科学化精细化水平。（5）坚持改革创新。推进理念思路、内容形式、方法手段创新，增强工作时代感和实效性。</p>
+<p>《意见》指出，要强化思想理论教育和价值引领。把理想信念教育放在首位，切实抓好马克思列宁主义、毛泽东思想学习教育，广泛开展中国特色社会主义理论体系学习教育，深入学习习近平总书记系列重要讲话精神，引导师生深刻领会党中央治国理政新理念新思想新战略，坚定中国特色社会主义道路自信、理论自信、制度自信、文化自信。要培育和践行社会主义核心价值观，把社会主义核心价值观体现到教书育人全过程，引导师生树立正确的世界观、人生观、价值观，加强国家意识、法治意识、社会责任意识教育，加强民族团结进步教育、国家安全教育、科学精神教育，以诚信建设为重点，加强社会公德、职业道德、家庭美德、个人品德教育，提升师生道德素养。要弘扬中华优秀传统文化和革命文化、社会主义先进文化，实施中华文化传承工程，推动中华优秀传统文化融入教育教学，加强革命文化和社会主义先进文化教育，深化中国共产党史、中华人民共和国史、改革开放史和社会主义发展史学习教育，利用我国改革发展的伟大成就、重大历史事件纪念活动、爱国主义教育基地、国家公祭仪式等组织开展主题教育，弘扬以爱国主义为核心的民族精神和以改革创新为核心的时代精神。要进一步办好高校思想政治理论课，充分发挥思想政治理论课的主渠道作用，深入实施高校思想政治理论课建设体系创新计划，完善教材体系，提高教师素质，创新教学方法，增强教学的吸引力、说服力、感染力。要加强高校马克思主义学院建设，打造马克思主义理论教学、研究、宣传和人才培养的坚强阵地，支持有条件的高校设置马克思主义理论专业，深入实施马克思主义理论研究和建设工程。</p>
+<p>《意见》指出，要发挥哲学社会科学育人功能。强调要加强哲学社会科学学科体系建设，积极构建中国特色、中国风格、中国气派的哲学社会科学学科体系，强化马克思主义理论学科的引领作用，支持有条件的高校在马克思主义理论一级学科下设置党的建设二级学科，实施高校马克思主义理论人才支持培养计划，积极推进学术话语体系创新，加快完善具有中国特色和国际视野的哲学、历史学、经济学、政治学、法学、社会学、民族学、新闻学、人口学、宗教学、心理学等学科，努力建设一批中国特色、世界一流的哲学社会科学学科。加快建设一批哲学社会科学专业核心课程教材。要规范哲学社会科学教材选用，建立国家优秀教材评选奖励制度，完善学术评价体系和评价标准，建立科学权威、公开透明的哲学社会科学成果评价体系，健全优秀成果评选推广机制，提高高校学术委员会建设水平。</p>
+<p>《意见》指出，要加强对课堂教学和各类思想文化阵地的建设管理。充分发掘和运用各学科蕴含的思想政治教育资源，健全高校课堂教学管理办法。要加强对校园各类思想文化阵地的规范管理，加强校园网络安全管理，营造风清气正的网络环境。</p>
+<p>《意见》指出，要加强教师队伍和专门力量建设。强调要提升教师思想政治素质，加强思想政治工作，建立中青年教师社会实践和校外挂职制度，加强师德师风建设，增强教师教书育人的责任担当。要完善教师评聘和考核机制，增加课堂教学权重，引导教师将更多精力投入到课堂教学上，完善教师职业道德规范，实施师德“一票否决”。高校思想政治工作队伍和党务工作队伍具有教师和管理人员双重身份，要纳入高校人才队伍建设总体规划，形成一支专职为主、专兼结合、数量充足、素质优良的工作力量。</p>
+<p>《意见》指出，要推进高校思想政治工作改革创新。强调要贴近师生思想实际，以改革创新精神做好高校思想政治工作，建立健全校领导、院（系）领导联系师生、谈心谈话制度，在平等沟通、民主讨论、互动交流中进行思想引导，有的放矢、生动活泼地开展工作，发挥师德楷模、名师大家、学术带头人等的示范引领作用。要加强互联网思想政治工作载体建设，加强学生互动社区、主题教育网站、专业学术网站和“两微一端”建设，运用大学生喜欢的表达方式开展思想政治教育。要强化社会实践育人，提高实践教学比重，组织师生参加社会实践活动，完善科教融合、校企联合等协同育人模式，加强实践教学基地建设，建立健全国家机关、企事业单位、社会团体接收大学生实习实训制度，开设创新创业教育专门课程，增强军事训练实效，建立健全学雷锋志愿服务制度。要在服务引导中加强思想教育，把解决思想问题与解决实际问题结合起来，做到既讲道理又办实事，加强学生学业就业指导，帮助大学生顺利完成学业，加强人文关怀和心理疏导，促进大学生身心和人格健康发展，加强对家庭经济困难学生的资助工作，积极帮助解决教师的合理诉求。积极发挥共青团、学生会组织和学生社团作用。要健全高校思想政治工作评价体系，研究制定内容全面、指标合理、方法科学的评价体系，推动高校思想政治工作制度化。</p>
+<p>《意见》最后强调，要加强和改善党对高校的领导。要完善高校党的领导体制，坚持和完善普通高校党委领导下的校长负责制，高校党委对本校工作实行全面领导，履行管党治党、办学治校的主体责任，切实发挥领导核心作用。按照社会主义政治家、教育家标准，选好配强高校领导班子特别是党委书记和校长。高校党委书记主持党委全面工作，履行高校思想政治工作和党的建设第一责任人的职责。校长是学校的法人代表，在党委领导下组织实施党委有关决议，行使高等教育法等规定的各项职权。其他党委班子成员履行“一岗双责”，结合业务分工抓好思想政治工作和党的建设工作。要强化院（系）党的领导，发挥院（系）党委（党总支）的政治核心作用，履行政治责任，保证监督党的路线方针政策及上级党组织决定的贯彻执行。认真执行民主集中制原则，通过院（系）党政联席会议讨论和决定本单位重要事项，健全院（系）集体领导、党政分工合作、协调运行的工作机制，提升班子整体功能和议事决策水平。要加强高校基层党建工作，建立健全高校基层党组织，加强教师党支部、学生党支部特别是研究生党支部建设，充分发挥党支部战斗堡垒作用。坚持党的组织生活各项制度，组织党员深入开展“两学一做”学习教育，认真做好在高校优秀青年教师、高校学生中发展党员工作，加强党员日常管理监督。要健全地方党委抓高校思想政治工作制度，切实加强组织领导和工作指导，坚持和完善党委定期研究、领导干部联系高校等制度，建立部门协作常态机制，形成党委统一领导、党政齐抓共管、职能部门组织协调、社会各方积极参与的工作格局。高度重视民办高校、中外合作办学中党的建设和思想政治工作，探索党组织发挥政治核心作用的有效途径，完善政策保障和经费支持，为加强和改进高校思想政治工作创造良好条件。</p>
+<p><b>附：中央宣传部、中央组织部、教育部负责人就《关于加强和改进新形势下高校思想政治工作的意见》答记者问</b><b></b></p>
+<p><b></b></p>
+<p>新华社北京2月27日电 近日，中共中央、国务院印发了《关于加强和改进新形势下高校思想政治工作的意见》（以下简称《意见》）。对此，中央宣传部、中央组织部、教育部负责人接受采访，就《意见》有关情况回答了记者的提问。</p>
+<p>问：请介绍一下为什么要制定加强和改进高校思想政治工作的《意见》？</p>
+<p>答：制定《意见》，加强和改进高校思想政治工作，可以说有着特殊重要性和现实紧迫性。首先，从中央的重视和要求看，我们党历来高度重视高校思想政治工作。党的十八大以来，以习近平同志为核心的党中央把高校思想政治工作摆在突出位置，作出一系列重大决策部署加以推进。习近平总书记强调指出，要坚持党的教育方针，坚持社会主义办学方向，坚持立德树人、强化思想引领，扎根中国大地办大学，加强和改进思想政治工作，全面推进党的建设各项工作，切实把党要管党、从严治党落到实处。第二，从面临的形势和挑战看，当前，国内国际形势深刻变化，不同思想文化交流交融交锋，社会思潮多元多样多变。改革开放和社会主义市场经济的深入推进，互联网等新的传播渠道的迅速发展，高校思想政治工作面临许多新情况新任务新课题。第三，从高校的职责和使命看，高校肩负着人才培养、科学研究、社会服务、文化传承创新、国际交流合作的重要使命。加强和改进高校思想政治工作，事关办什么样的大学、怎样办大学的根本问题，事关党对高校的领导，事关中国特色社会主义事业后继有人，是一项重大的政治任务和战略工程。为此，我们按照中央要求，研究制定了这个《意见》。</p>
+<p>问：加强和改进高校思想政治工作总体上要把握哪些要求？</p>
+<p>答：加强和改进高校思想政治工作，目的是为了培养又红又专、德才兼备、全面发展的中国特色社会主义合格建设者和可靠接班人。高举中国特色社会主义伟大旗帜，全面贯彻党的十八大和十八届三中、四中、五中、六中全会精神，以马克思列宁主义、毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观为指导，深入学习贯彻习近平总书记系列重要讲话精神和治国理政新理念新思想新战略，全面贯彻党的教育方针，做到“五个坚持”：一是坚持党对高校的领导，把党的建设贯穿始终，牢牢掌握党对高校的领导权；二是坚持社会主义办学方向，为人民服务，为中国共产党治国理政服务，为巩固和发展中国特色社会主义制度服务，为改革开放和社会主义现代化建设服务；三是坚持全员全过程全方位育人，把思想价值引领贯穿教育教学全过程和各环节；四是坚持遵循教育规律、思想政治工作规律、学生成长规律，把握师生思想特点和发展需求，提高工作科学化精细化水平；五是坚持改革创新，推进理念思路、内容形式、方法手段创新，增强高校思想政治工作的时代感和实效性。</p>
+<p>问：《意见》中对加强思想理论教育和价值引领提出了哪些要求？</p>
+<p>答：做好思想政治工作，必须抓好思想理论建设这个根本。《意见》提出，一是要加强理想信念教育，切实抓好马克思列宁主义、毛泽东思想学习教育，广泛开展中国特色社会主义理论体系学习教育，深入学习习近平总书记系列重要讲话精神，引导师生深刻领会党中央治国理政新理念新思想新战略，坚定中国特色社会主义道路自信、理论自信、制度自信、文化自信。二是要培育和践行社会主义核心价值观，引导师生树立正确的世界观、人生观、价值观。三是要弘扬中华优秀传统文化，推动中华优秀传统文化融入教育教学，加强革命文化和社会主义先进文化教育，弘扬民族精神和时代精神。四是要进一步办好高校思想政治理论课，充分发挥思想政治理论课的主渠道作用，深入实施高校思想政治理论课建设体系创新计划。五是要加强高校马克思主义学院建设，深入实施马克思主义理论研究和建设工程。</p>
+<p>问：怎样更好地发挥哲学社会科学的育人功能？</p>
+<p>答：习近平总书记在哲学社会科学工作座谈会上指出，高校哲学社会科学有重要的育人功能。《意见》着眼发挥育人功能，提出了四项举措。一是加强哲学社会科学学科体系建设，积极构建中国特色、中国风格、中国气派的哲学社会科学学科体系。二是加强哲学社会科学教材编审工作，加快建设一批哲学社会科学专业核心课程教材。三是规范哲学社会科学教材选用，建立国家优秀教材评选奖励制度、引进教材选用管理办法等措施。四是完善学术评价体系和评价标准，健全科研成果评价办法，规范学术评价方法。</p>
+<p>问：怎样加强对高校课堂和各类思想文化阵地的建设和管理？</p>
+<p>答：做好高校思想政治工作，既要加强阵地建设，同时也要严格规范管理。着眼建设和管理并重，《意见》提出，一是要加强对课堂教学的建设管理。充分发掘和运用各学科蕴含的思想政治教育资源，健全高校课堂教学管理办法。二是要加强对校园各类思想文化阵地的规范管理，加强校园网络安全管理，营造风清气正的网络环境。</p>
+<p>问：在加强教师队伍、思想政治工作和党务工作队伍建设方面有哪些具体举措？</p>
+<p>答：做好高校思想政治工作，必须加强教师队伍和专门力量建设，努力形成一支专职为主、专兼结合、数量充足、素质优良的高校思想政治工作专门力量。为此，《意见》提出，一是要提升教师思想政治素质。加强思想政治工作，努力培养造就有理想信念、有道德情操、有扎实学识、有仁爱之心的好老师。加强师德师风建设，加强教育管理和纪律约束，引导教师成为学高为师、身正为范践行者，推动形成崇尚精品、严谨治学、注重诚信、讲求责任的学术品格和优良学风。二是要完善教师评聘和考核机制，增加课堂教学的权重，引导教师将更多精力投入到课堂教学上，实施师德“一票否决”。三是配齐建强思想政治工作队伍和党务工作队伍。纳入高校人才队伍建设总体规划，完善选拔、培养、激励机制。</p>
+<p>问：如何推动高校思想政治工作的改革创新？</p>
+<p>答：做好高校思想政治工作，必须弘扬改革创新精神，使思想政治工作接地气、入人心。《意见》提出，一是贴近师生思想实际开展工作。建立健全联系师生、谈心谈话制度。二是加强互联网思想政治工作载体建设。运用大学生喜欢的表达方式开展思想政治教育。三是强化社会实践育人。提高实践教学比重，加强实践教学基地建设，广泛开展社会公益活动。四是在服务引导中加强思想教育。加强人文关怀和心理疏导，积极帮助解决师生的实际困难。五是积极发挥共青团、学生会组织和学生社团作用。六是健全高校思想政治工作评价体系。研究制定内容全面、指标合理、方法科学的评价体系，推动高校思想政治工作制度化。</p>
+<p>问：如何加强和改善党对高校的领导？</p>
+<p>答：加强党对高校的领导，是办好中国特色社会主义大学的根本保证。党的领导要具体落实到学校治理和党的建设各项工作中。《意见》提出，一是要完善高校党的领导体制。坚持和完善普通高校党委领导下的校长负责制，切实发挥党委领导核心作用。二是要强化院（系）党的领导。进一步发挥院（系）党委（党总支）的政治核心作用，进一步加强院（系）党委（党总支）领导班子建设，健全院（系）集体领导、党政分工合作、协调运行的工作机制。三是要加强高校基层党建工作。建立健全高校基层党组织，加强教师党支部、学生党支部特别是研究生党支部建设，充分发挥党支部组织教育管理党员和宣传引导凝聚师生的主体作用。严格党内政治生活，特别是党的组织生活，认真做好在高校教师、学生中发展党员工作，加强党员日常管理监督。四是要健全地方党委抓高校思想政治工作制度。各地党委要把高校思想政治工作摆到重要位置，切实加强组织领导和工作指导，建立部门协作常态机制，形成党委统一领导、党政齐抓共管、职能部门组织协调、社会各方积极参与的工作格局。此外，还对做好民办高校、中外合作办学中党的建设和思想政治工作提出具体要求。</p></div></div>
+<div class="d_write2" style="text-align:right"><span class="d_write" style="width:550px;float:left;text-align:right">编辑：</span><span style="width:150px;float:left;color:#00467f;text-align:left">力 行</span></div>
+</div>
+</form>
+<br/>
+<div class="bdsharebuttonbox"><a class="bds_more" data-cmd="more" href="../../#"></a><a class="bds_qzone" data-cmd="qzone" href="../../#"></a><a class="bds_tsina" data-cmd="tsina" href="../../#"></a><a class="bds_tqq" data-cmd="tqq" href="../../#"></a><a class="bds_renren" data-cmd="renren" href="../../#"></a><a class="bds_weixin" data-cmd="weixin" href="../../#"></a></div>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdPic":"","bdStyle":"0","bdSize":"16"},"share":{},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+<script language="javascript">
+
+    function linkForImg42979(){
+    var images=document.getElementById("lmz_content").getElementsByTagName("img");
+    var imgLen=images.length;
+    var img_links = new Array(imgLen);　
+    
+    for(var i=0;i<imgLen;i++){
+        img_links[i] = repleaceLast42979(images[i].src);
+        var p = images[i].parentNode;
+        if(p.tagName=="a"||p.tagName=="A")
+            continue;
+        if(img_links[i].indexOf("/_mediafile/")!=-1&&CheckImgExists42979(img_links[i]))
+        {
+            images[i].onclick=function(){
+                var thepath = repleaceLast42979(this.src);
+                window.open(thepath,"n","");
+            };
+        }else{
+            images[i].onclick=function(){window.open(this.src,"n","");};
+        }
+        images[i].title="点击查看大图"
+        images[i].style.cursor="pointer";
+    }
+    }
+
+    //检查图片是否存在
+    function CheckImgExists42979(imgurl) {
+        var bea = true;
+        /**
+        $.ajax({
+            url: imgurl,
+            async: false,
+            statusCode: {
+                200: function() {
+                    bea = true;
+                }
+            }
+       });
+       */
+       return bea;
+    }
+    
+    function repleaceLast42979(imgurl)
+    {
+        if(imgurl==null||imgurl=="")
+            return imgurl;
+        var temp = imgurl.substring(0,imgurl.lastIndexOf("/"));
+        imgurl= imgurl.replace(temp,temp+"/source");
+        return imgurl;
+    }
+
+    linkForImg42979();
+</script>
+<!--#endeditable-->
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="l_split"> </div>
+<div 360chrome_form_autofill="2" class="d_relate">相关文章</div><!--#begineditable contype="" name="相关文章" action="" layout="" clone="0" namechanged="0" order="5" ispublic="0" tagname="相关文章" viewid="42982" stylesysid=""-->
+<span id="relateNewsjs42982js">读取内容中,请等待...</span>
+<script language="JavaScript">
+$(function(){
+
+	getRelateNewsjs42982js();
+	});
+	function getRelateNewsjs42982js() { 
+	    
+	    var pars = 'archive=0&viewid=42982&leaderchar=%C2%B7&titlelen=43&days=3&endimage=&clickshow=false&clickname=%E7%82%B9%E5%87%BB%EF%BC%9A+&&linkmode=_blank&mode=10&pageUrl=/system/_owners/news/_webprj/content.jsp&columnshow=false&wbnewsid=73425&owner=1025023737&limitdays=365&rowcount=10&columnstyle= columnstyle42982 &columnid=-1'; 
+	    var url = '/system/resource/code/relatenews.jsp?'+pars;  
+	        $.post(
+	            url,
+	            {
+	            	winstyle:"winstyle",
+	            	leaderfont:"leaderfont42982",
+	            	leaderimage:"",
+	            	linkmode:"target=_blank",
+	            	titlestylename:"titlestyle42982",
+	            	timestylename:"timestyle42982"
+		        }
+		        ,
+	            function(date)
+	            {
+		        	$("#relateNewsjs42982js").empty();
+		     	   	$("#relateNewsjs42982js").append(date);    
+	            }
+	        );
+	       
+	    }   
+
+	   
+</script>
+<!--#endeditable-->
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="l_split"> </div>
+<div 360chrome_form_autofill="2" class="d_pinglun"><!--#begineditable contype="" name="整合式评论" action="" layout="" clone="0" namechanged="0" order="6" ispublic="0" tagname="整合式评论" viewid="42983" stylesysid=""-->
+<table bgcolor="#CCCCCC" cellpadding="2" cellspacing="1">
+<tr>
+<td style="background-color:#ffffff;font-size: 9pt">
+<div class="input3style42983">
+<textarea id="respwbrespcontent" name="respwbrespcontent" oninput="calculatesize();" onpropertychange="calculatesize();" style="width:650px;height:180px"></textarea>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="background-color:#ffffff;font-size: 9pt">
+<div id="respmessage"></div>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#ffffff">
+<span id="contentsize" style="display:none">0/1000</span>
+<input id="respsoru" name="respsoru" type="hidden" value="0">
+<input id="respid" name="respid" type="hidden"/>
+<span id="respaccorpass" style="display:none;font-size:9pt">
+            用户名 <input id="respwbaccount" maxlength="20" name="respwbaccount" size="8" style="background-color: #FFFFFF;border: 1px solid #BAD3E6" type="text"/>
+            密码 <input id="respwbpassword" maxlength="20" name="respwbpassword" size="8" style="background-color: #FFFFFF;border: 1px solid #BAD3E6" type="password"/>
+</span>
+<input checked="" id="respcheck" name="respcheck" onclick="ischeckjs42983js();" type="checkbox" value="0"/><span style="font-size:9pt"> 匿名发布</span>
+<span style="font-size: 9pt">验证码</span><input autocomplete="off" id="resprand" maxlength="4" name="resprand" size="4" style="background-color: #FFFFFF;border: 1px solid #BAD3E6" type="text"/>
+<img align="absmiddle" border="0" id="resprandimage" src="../../system/resource/js/message/createimage.jsp"/>
+<span onclick="changeimagejs42983js()" style="font-size:9pt;cursor:hand">看不清楚,换张图片</span>
+<input onclick="submitrespjs42983js();return false;" src="../../AloeR/tj.gif" style="cursor:hand" type="image"/>
+</input></td>
+</tr>
+<tr>
+<td colspan="2" height="25" style="background-color:#ffffff;font-size: 9pt;padding-left:10px">
+        共<span id="resptotid">0</span>条评论    共<span id="resptotpage">1</span>页   当前第<span id="slidercontent">1</span>页
+    </td>
+</tr>
+<tr>
+<td colspan="2" style="background-color:#ffffff;font-size: 9pt">
+<div id="respslider" style="height:20px">
+</div></td>
+</tr>
+<tr>
+<td colspan="2" style="background-color:#ffffff;font-size: 9pt">
+<div id="respcontent"></div>
+</td>
+</tr>
+</table>
+<style>
+.respimageSliderjs42983js { margin:0;padding:0; height:20px; width:651px; background-image:url(../../system/resource/js/slider/scrollbg.gif);}
+.respimageBarjs42983js    { margin:0;padding:0; height:17px; width:10px; background-image:url(../../system/resource/js/slider/scrfloat.gif);}   
+</style>
+<script language="javascript" src="../../system/resource/js/slider/slider_extras.js"></script>
+<script language="javascript" src="../../_dwr/engine.js"></script>
+<script language="javascript" src="../../_dwr/util.js"></script>
+<script language="javascript" src="../../_dwr/interface/NewsRespUtil.js"></script>
+<script language="javascript" src="../../system/resource/js/base64.js"></script>
+<script>
+var isduplicatejs42983js=false;
+var pagesizejs42983js = 10;//每页多少条
+var totalsizejs42983js = 0;//共多少条  
+var totalpagejs42983js = 0;//共多少页
+var startpagejs42983js = 0;//当前页
+var pagejs42983js = startpagejs42983js+1; //显示的页数
+function initsizejs42983js(data)
+{
+     if(data)
+     {
+        totalsizejs42983js=data;
+        totalpagejs42983js = parseInt(totalsizejs42983js%pagesizejs42983js==0?totalsizejs42983js/pagesizejs42983js:(totalsizejs42983js/pagesizejs42983js+1));
+        $("#resptotid").empty();
+        $("#respmessage").empty();
+        $("#resptotid").append(data);
+        $("#resptotpage").append(totalpagejs42983js);
+        showpagejs42983js(startpagejs42983js); //初始化新闻评论
+     }
+}
+function inittotalsizejs42983js()
+{
+     NewsRespUtil.getTotalpage("1025023737","73425","wbnews",initsizejs42983js);  
+}
+//显示评论列表主方法
+function showpagejs42983js(start)
+{
+    if(startpagejs42983js>=0)
+    {        
+        pagejs42983js = parseInt(start/pagesizejs42983js)+1;
+    }
+    NewsRespUtil.getResp("1025023737","73425",start,pagesizejs42983js,"wbnews",buildresultjs42983js);       
+}
+//取消回复
+function cancelrespjs42983js()
+{
+   $("#respmessage").empty();
+   $("#respsoru").val("0");
+   $("#respid").val(""); 
+}
+//回复
+function repjs42983js(id,top)
+{
+	$("#respmessage").empty();
+    $("#respmessage").append("<span style='color:#ff8000;font-size:10pt;height:30px;padding-top:expression(15);padding-bottom:expression(15);'>回复["+top+"]楼的评论&nbsp;&nbsp;&nbsp;&nbsp;<a href='javascript:' onclick='cancelrespjs42983js()'>取消</a></span>");
+    $("#respsoru").val("1");
+    $("#respid").val(id);
+    $("#respwbrespcontent").focus();   
+}
+//回复的处理结果
+function represultjs42983js(data)
+{
+    if(data=="0"  || data=="-12")
+    {
+        $("#respwbaccount").val("");
+        $("#respwbpassword").val("");
+        $("#respwbrespcontent").val("");
+        $("#resprand").val("");
+        $("#contentsize").text("0/1000");
+        $("#resprandimage").attr("src","/system/resource/js/message/createimage.jsp?randnum="+Math.random());
+        //$("respmessage").innerHTML="<span style='font-size:9pt;color:#ff8000;height:30px;padding-top:expression(15);padding-bottom:expression(15);'>回复评论成功</span>"; 
+        var isflag = "0";
+        if(data=="-12")
+        {
+            alert("回复评论成功,您的內容中含有敏感字,请等待后台审核");
+        }else
+        {
+            if(isflag=="1")
+            {
+                alert("回复评论成功");
+            }else
+            {
+                alert("回复评论成功,请等待后台审核");
+            }
+        }
+        
+        NewsRespUtil.getTotalpage("1025023737","73425","wbnews",reloadjs42983js);           
+    }else
+    {
+        buildResultStrjs42983js(data);
+    }
+}
+
+//创建评论表格滚动条
+function buildresultjs42983js(data)
+{
+    if(data)
+    {
+        var result = "<table align='center' width='610' >";
+        for(var i=0;i<data.length;i++)
+        {   
+            result += "<tr>";
+            result += "    <td style='background-color:#ffffff;font-size: 9pt'>";
+            result += "         <font  color=#326FA8>"+ data[i].wbaccount+ "  ["+data[i].wbip+"]"+  "</font>";
+            result += "         "+ data[i].wbrespdate;
+            result += "    </td>";  
+            result += "    <td style='background-color:#ffffff;font-size: 9pt' rowspan='2' align='center' nowrap>";
+            result += "         <span style='color:blue;cursor:pointer;text-decoration:underline' onclick='repjs42983js("+data[i].wbrespid+","+ data[i].wbtop +")'>[回复]</span>"; 
+            result += "         <div style='font-size:20pt;color:gray'>"+ data[i].wbtop +"</div>";
+            result += "    </td>";      
+            result += "</tr>";
+            
+            result += "<tr>";
+            result += "    <td style='background-color:#ffffff;font-size: 9pt;word-break:break-all;' >";
+            result += "          " + data[i].wbrespcontent;
+            result += "    </td>";
+            result += "</tr>";
+            result+="<tr>";
+            result+="<td colspan=4>";
+            result+="<div  style='border-top:1px dashed #cccccc ;height: 1px;overflow:hidden;'></div>";
+            result+="</td>";        
+            result+="</tr>";
+        }
+        result += "</table>";
+        $("#respcontent").empty();
+        $("#respcontent").append(result);
+        $("#resptotpage").empty();
+        $("#resptotpage").append(totalpagejs42983js);
+        var isreload = "0";
+        var sliderImage1 = new neverModules.modules.slider(
+        {
+        targetId: "respslider",
+        sliderCss: "respimageSliderjs42983js",
+        barCss: "respimageBarjs42983js",
+        min: 1,
+        max: totalpagejs42983js,
+        hints: ""
+        });
+        sliderImage1.onstart  = function () 
+        {
+            isreload = "1" ;
+        }
+        sliderImage1.onchange = function () 
+        {
+            $("#slidercontent").empty();
+            $("#slidercontent").append(sliderImage1.getValue()==0?1:sliderImage1.getValue());       
+        };
+        sliderImage1.onend = function () 
+        {
+            if(isreload=="1")
+            {
+                if(sliderImage1.getValue()!=pagejs42983js && sliderImage1.getValue()!=0)
+                {    
+                    showpagejs42983js((parseInt(sliderImage1.getValue())-1)*pagesizejs42983js);
+                    $("#respmessage").empty();
+                }
+            }
+        }
+        sliderImage1.donclick  = function ()
+        {              
+            if(sliderImage1.getValue()!=pagejs42983js && sliderImage1.getValue()!=0)
+            { 
+                showpagejs42983js((parseInt(sliderImage1.getValue())-1)*pagesizejs42983js);
+                $("#respmessage").empty();
+            }
+        }
+        sliderImage1.create();
+        sliderImage1.setValue(pagejs42983js);
+    }
+    else
+    {
+    	$("#respcontent").empty();
+        $("#respcontent").append("<span style='font-size:9pt;height:30px;padding-top:expression(15);padding-bottom:expression(15);'>该新闻还没有评论</span>");
+
+    }
+}
+//评论回复完成后，重新读取计算评论的表格
+function reloadjs42983js(data)
+{
+    totalsizejs42983js = data;
+    totalpagejs42983js = parseInt(totalsizejs42983js%pagesizejs42983js==0?totalsizejs42983js/pagesizejs42983js:(totalsizejs42983js/pagesizejs42983js+1));
+    $("#resptotid").empty();
+    $("#resptotpage").empty();
+    $("#resptotid").append(totalsizejs42983js);
+    $("#resptotpage").append(totalpagejs42983js);
+    showpagejs42983js(0);
+    cancelrespjs42983js();
+}
+function buildResultStrjs42983js(data)
+{
+    if(data=="-2")
+    {
+        alert("没有这个用户或用户被禁用");
+    }
+     else if(data=="-3")
+    {
+        alert("用户名或密码错误");
+    }    
+    else if(data=="-4")
+    {
+        alert("验证码错误");
+    }else if(data=="-9")
+    {
+        alert("请放置在新闻内容页");
+    }   
+    else if(data=="-11")
+    {
+        alert("评论内容过长");
+    }  
+    else
+    {
+        alert("未知错误");
+    }
+}
+
+//添加评论后的处理方法
+function savejs42983js(data)
+{ 
+    
+    if(data=="0" || data=="-12")
+    {
+        $("#respwbaccount").val("");
+        $("#respwbpassword").val("");
+        $("#respwbrespcontent").val("");
+        $("#resprand").val("");
+        $("#contentsize").empty();
+        $("#contentsize").append("0/1000");
+        $("#resprandimage").attr("src","/system/resource/js/message/createimage.jsp?randnum="+Math.random());
+        var isflag = "0";
+        if(data=="-12")
+        {
+            alert("回复评论成功,您的內容中含有敏感字,请等待后台审核");
+        }
+        else
+        {
+            if(isflag=="1")
+            {
+                alert("添加评论成功");
+            }else
+            {
+                alert("评论添加成功，等待后台审核");
+            }
+        }
+        NewsRespUtil.getTotalpage("1025023737","73425","wbnews",reloadjs42983js);
+        
+    }
+    else
+    {
+        buildResultStrjs42983js(data);
+    }
+}
+String.prototype.trim　= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+} 
+
+//提交评论
+function submitrespjs42983js(id)
+{
+    var anonymous = "1";
+    if($("#respcheck")==null || !$("#respcheck").attr("checked"))
+    {
+        
+        if($("#respwbaccount").val()=="" || $("#respwbpassword").val()=="")
+        {    
+             alert("请输入用户名或密码");
+             return;
+        }
+    }
+    else
+    {
+        anonymous = "0";
+    }
+    if(($("#respwbrespcontent").val()).trim()=="")
+    {
+        alert("请输入评论内容");
+        $("#respwbrespcontent").focus();
+        return;
+    }
+    if(($("#respwbrespcontent").val()).length>1000)
+    {
+        alert("评论内容内容小于1000个字符");
+        $("#respwbrespcontent").focus();
+        return;
+    }
+    
+    if($("#resprand").val()=="")
+    {
+        alert("请输入验证码");
+        $("#resprand").focus();
+        return;
+    }
+    if($("#respsoru").val()=="0")
+    {
+        NewsRespUtil.save("1025023737","1015","73425",anonymous,$("#respwbaccount").val(),$("#respwbpassword").val(),base64Contentjs42983js($("#respwbrespcontent").val()),$("#resprand").val(),'0',false,savejs42983js);
+    }
+    else
+    {
+        NewsRespUtil.update("1025023737","1015","73425",anonymous,$("#respwbaccount").val(),$("#respwbpassword").val(),base64Contentjs42983js($("#respwbrespcontent").val()),$("#resprand").val(),$("#respid").val(),'0',represultjs42983js);
+    }
+       
+}
+//内容编码
+function base64Contentjs42983js(respcontent)
+{
+	return new Base64().encode(respcontent);	
+}
+
+//是否匿名
+function ischeckjs42983js()
+{
+    if(!$("#respcheck").attr("checked"))
+    {
+        $("#respaccorpass").css("display","inline");
+        $("#respwbaccount").val("");
+        $("#respwbpassword").val("");
+    }
+    else
+    {
+        $("#respwbaccount").val("");
+        $("#respwbpassword").val("");
+        $("#respaccorpass").hide();
+    }
+}
+function changeimagejs42983js()
+{	
+    $("#resprandimage").attr("src","/system/resource/js/message/createimage.jsp?randnum="+Math.random());
+}
+function calculatesize()
+{
+    var c = ($("#respwbrespcontent").val()).length;
+    $("#contentsize").empty();
+    $("#contentsize").append( c+"/1000");
+    
+}
+
+function  addEventjs42983js(elm, evType, fn, useCapture) { 
+if (elm.addEventListener) {  
+elm.addEventListener(evType, fn, useCapture);   
+return true; 
+} 
+else if (elm.attachEvent) { 
+var r = elm.attachEvent('on' + evType, fn); 
+return r; 
+}
+else {  
+elm['on' + evType] = fn;
+} 
+}
+addEventjs42983js(window,"load",inittotalsizejs42983js,true);
+</script><!--#endeditable--> </div>
+<div 360chrome_form_autofill="2" class="clear"> </div></div>
+<div 360chrome_form_autofill="2" class="i_right">
+<div 360chrome_form_autofill="2" class="i_search"><!--#begineditable contype="" name="全文检索" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="全文检索" viewid="65621" stylesysid=""--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode65621').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword65621").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword65621").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword65621").value = base64.encode(document.getElementById("lucenenewssearchkeyword65621").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode65621"));
+        return true;
+    } 
+</script>
+<form action="../../ssjgy.jsp?wbtreeid=1015" id="au7a" method="post" name="au7a" onsubmit="return _nl_ys_check()" style="display: inline">
+<input id="lucenenewssearchkeyword65621" name="lucenenewssearchkeyword" type="hidden" value=""/><input id="_lucenesearchtype65621" name="_lucenesearchtype" type="hidden" value="1"/><input id="searchScope65621" name="searchScope" type="hidden" value="0"/>
+<div>
+<table border="0" cellpadding="0" cellspacing="1">
+<tr>
+<td height="20px">
+<input id="showkeycode65621" name="showkeycode" style="height:20px;width:136px"/>
+</td>
+<td width="5px"> </td>
+<td align="absmiddle" height="1" nowrap="nowrap">
+<input align="absmiddle" src="../../i_search_btn.jpg" style="cursor: hand" type="image" valign="bottom"/>
+</td>
+<td width="5px"> </td>
+<td align="absmiddle" class="i_search_left" nowrap="nowrap"><a "arial";="" background:="" center="" href="../../index/gjjs.htm" no-repeat="" style="font-family:" top;="" url(i_body_bg.jpg)="" 宋体",="">高级搜索</a></td>
+</tr>
+</table>
+</div>
+</form>
+<script language="javascript" src="../../system/resource/js/formfunc.js"></script>
+<!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="l_redian"><span class="l_redian">信息预告</span> <a 360chrome_form_autofill="2" class="l_redian_more" href="../../xxyg.htm">更多</a>
+<div 360chrome_form_autofill="2" class="clear"> </div></div>
+<div 360chrome_form_autofill="2" class="l_redian_con"><!--#begineditable contype="" name="信息预告" action="" layout="" clone="0" namechanged="0" order="7" ispublic="0" tagname="信息预告" viewid="42980" stylesysid=""--> <div class="l_redian_li"><a class="i_li" href="../1017/105571.htm" title="央视《开讲啦》12月30日11时播出王树国校长专场">·央视《开讲啦》12月30日11时播出王...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/104328.htm" title="西安交大庆祝改革开放40周年合唱汇演直播预告">·西安交大庆祝改革开放40周年合唱汇...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/103952.htm" title="创新港高端装备研究院院徽设计及机械学科口号、标语征集大赛">·创新港高端装备研究院院徽设计及机...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/103524.htm" title="世界非物质文化遗产——西安鼓乐“东仓鼓乐社”走进西安交通大学专场音乐会">·世界非物质文化遗产——西安鼓乐“...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/103300.htm" title="西安交大庆祝改革开放40周年图片摄影书画展26日开幕">·西安交大庆祝改革开放40周年图片摄...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/103069.htm" title="博物馆奇妙夜讲座——走近大漆艺术">·博物馆奇妙夜讲座——走近大漆艺术</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/102370.htm" title="博物馆奇妙夜——中国陶艺鉴赏">·博物馆奇妙夜——中国陶艺鉴赏</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/102246.htm" title="中国教育电视台8日晚播出“西迁人”爱国奋斗报告会录像">·中国教育电视台8日晚播出“西迁人”...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/101461.htm" title="博物馆奇妙夜——校园文物展讲座：西安交通大学千年地缘文化">·博物馆奇妙夜——校园文物展讲座：...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/101059.htm" title="中国大学MOOC走进西安交大：我的人生我做主">·中国大学MOOC走进西安交大：我的人...</a></div>
+<script>_showDynClickBatch(['dynclicks_u8_105571','dynclicks_u8_104328','dynclicks_u8_103952','dynclicks_u8_103524','dynclicks_u8_103300','dynclicks_u8_103069','dynclicks_u8_102370','dynclicks_u8_102246','dynclicks_u8_101461','dynclicks_u8_101059'],[105571,104328,103952,103524,103300,103069,102370,102246,101461,101059],"wbnews", 1025023737)</script>
+<!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="l_lanmu"><span class="l_redian">栏目新闻</span>  
+<div 360chrome_form_autofill="2" class="clear"> </div></div>
+<div 360chrome_form_autofill="2" class="l_redian_con"><!--#begineditable contype="" name="栏目新闻" action="" layout="" clone="0" namechanged="0" order="8" ispublic="0" tagname="栏目新闻" viewid="42981" stylesysid=""--> <div class="l_redian_li"><a class="l_lanmu_li" href="../1002/107479.htm" title="研究生教育大数据分析与服务平台建设推进会举行">·研究生教育大数据分析与服务平台建...</a></div></div></div></div></body></html>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1033/107461.htm" title="从西迁初心中汲取追梦奋进磅礴力——西安交大2019年首次党委全委会侧记">·从西迁初心中汲取追梦奋进磅礴力—...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/107476.htm" title="陕西省社科联来信感谢学校人大代表牵头发起议案  推进制定《陕西省社会科学普及促进条例》">·陕西省社科联来信感谢学校人大代表...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/107448.htm" title="【数看创新港】创新港规划布局：一廊三核四绿楔五区块">·【数看创新港】创新港规划布局：一...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/107440.htm" title="《2018年陕西省高校毕业生就业质量报告》发布">·《2018年陕西省高校毕业生就业质量...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/107436.htm" title="西安交大召开2018年校领导班子和领导人员年度考核及干部选拔任用“一报告两评议”大会">·西安交大召开2018年校领导班子和领...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/107429.htm" title="【回眸四十年】基础医学院改革开放40年发展回顾">·【回眸四十年】基础医学院改革开放4...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/107432.htm" title="【我与改革同行】范玉仙：与改革同行 见证国家繁荣发展">·【我与改革同行】范玉仙：与改革同...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/107407.htm" title="西安交大新增12人享受国务院政府特殊津贴">·西安交大新增12人享受国务院政府特...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/107385.htm" title="2019小梦想：交大人，携手迈向新征程">·2019小梦想：交大人，携手迈向新征...</a></div>
+<script>_showDynClickBatch(['dynclicks_u9_107479','dynclicks_u9_107461','dynclicks_u9_107476','dynclicks_u9_107448','dynclicks_u9_107440','dynclicks_u9_107436','dynclicks_u9_107429','dynclicks_u9_107432','dynclicks_u9_107407','dynclicks_u9_107385'],[107479,107461,107476,107448,107440,107436,107429,107432,107407,107385],"wbnews", 1025023737)</script>
+<!--#endeditable-->
+<div 360chrome_form_autofill="2" class="i_weibo" id="div_weibo_span"><span class="i_weibo_now" id="span_weibo_1" onmousemove="switchWeibo(1);"><img 360chrome_form_autofill="2" align="absMiddle" src="../../AloeR/i_sina.jpg"/> 新浪微博</span> <span class="i_weibo_split"> </span> <span class="i_weibo" id="span_weibo_2" onmousemove="switchWeibo(2);"><img 360chrome_form_autofill="2" align="absMiddle" src="../../AloeR/i_toutiao.png"/> 今日头条</span> <span class="i_weibo_split"> </span> <span class="i_weibo" id="span_weibo_3" onmousemove="switchWeibo(3);"><img 360chrome_form_autofill="2" align="absMiddle" src="../../AloeR/i_weixin.jpg"/> 微信</span> </div>
+<div 360chrome_form_autofill="2" class="i_weibo_con" id="div_weibo_div">
+<div 360chrome_form_autofill="2" class="i_weibo_detail" id="div_weibo_1" style="display: block"><img 360chrome_form_autofill="2" src="../../pic/weibo_ewm.png"/> </div>
+<div 360chrome_form_autofill="2" class="i_weibo_detail" id="div_weibo_2" style="display: none"><!--#begineditable contype="" name="人人网" action="" layout="" clone="0" namechanged="0" order="9" ispublic="0" tagname="人人网" viewid="43083" stylesysid=""-->
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><a href="https://www.toutiao.com/c/user/6223492102/#mid=6223492102" onclick="_addDynClicks('wbimage',1025023737,11002)" target="_blank"><img border="0" height="190" hspace="3" src="../../toutiao_ewm.png" vspace="2" width="266"/></a></td>
+</tr>
+</table><!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="i_weibo_detail" id="div_weibo_3" style="display: none"><!--#begineditable contype="" name="微信" action="" layout="" clone="0" namechanged="0" order="10" ispublic="0" tagname="微信" viewid="43084" stylesysid=""-->
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img border="0" height="190" hspace="3" src="../../02.jpg" vspace="2" width="266"/></td>
+</tr>
+</table><!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="clear"> </div></div>
+<div 360chrome_form_autofill="2" class="clear"> </div>
+<div 360chrome_form_autofill="2" class="clear"> </div><iframe class="bdselect_share_bg" frameborder="0" id="bdSharePopup_selectshare1536821604004bg" style="display: none"></iframe>
+<div class="bdselect_share_box" data-bd-bind="1536821604004" id="bdSharePopup_selectshare1536821604004box" share-type="selectshare" style="display: none" tangram_guid="TANGRAM_4">
+<div class="selectshare-mod-triangle">
+<div class="triangle-border"></div>
+<div class="triangle-inset"></div></div>
+<div class="bdselect_share_head"><span>分享到</span><a class="bdselect_share_dialog_search" href="http://www.baidu.com/s?wd=&amp;tn=SE_hldp08010_vurs2xrp" target="_blank"><i class="bdselect_share_dialog_search_i"></i><span class="bdselect_share_dialog_search_span">百度一下</span></a><a class="bdselect_share_dialog_close" tangram_guid="TANGRAM_3"></a></div>
+<div class="bdselect_share_content">
+<ul class="bdselect_share_list bdshare-button-style0-16">
+<div class="bdselect_share_partners"></div><a class="bds_more" data-cmd="more" href="../../#"></a></ul></div></div>
+<div class="sr-bdimgshare sr-bdimgshare-list sr-bdimgshare-16 sr-bdimgshare-black" data-bd-bind="1536821604009" id="bdimgshare_1536821604010" style="font-size: 12px;height: 36px;display: none;line-height: 26px" tangram_guid="TANGRAM_37">
+<div class="bdimgshare-bg"></div>
+<div class="bdimgshare-content bdsharebuttonbox bdshare-button-style0-16"><label class="bdimgshare-lbl">分享到：</label><a class="bds_qzone" data-cmd="qzone" hidefocus="" href="../../#" onclick="return false;"></a><a class="bds_tsina" data-cmd="tsina" hidefocus="" href="../../#" onclick="return false;"></a><a class="bds_tqq" data-cmd="tqq" hidefocus="" href="../../#" onclick="return false;"></a><a class="bds_renren" data-cmd="renren" hidefocus="" href="../../#" onclick="return false;"></a><a class="bds_weixin" data-cmd="weixin" hidefocus="" href="../../#" onclick="return false;"></a><a class="bds_more" data-cmd="more" hidefocus="" href="../../#" onclick="return false;"></a></div></div><iframe class="bdselect_share_bg" frameborder="0" id="bdSharePopup_selectshare1515463313002bg" style="display: none" tangram_guid="TANGRAM_41"></iframe>
+<div 360chrome_form_autofill="2" class="bdselect_share_box" data-bd-bind="1515463313002" id="bdSharePopup_selectshare1515463313002box" share-type="selectshare" style="display: none" tangram_guid="TANGRAM_4">
+<div 360chrome_form_autofill="2" class="selectshare-mod-triangle">
+<div 360chrome_form_autofill="2" class="triangle-border"></div>
+<div 360chrome_form_autofill="2" class="triangle-inset"></div></div>
+<div 360chrome_form_autofill="2" class="bdselect_share_head"><span>分享到</span><a 360chrome_form_autofill="2" class="bdselect_share_dialog_search" href="http://www.baidu.com/s?wd=&amp;tn=SE_hldp08010_vurs2xrp" target="_blank"><i class="bdselect_share_dialog_search_i"></i><span class="bdselect_share_dialog_search_span">百度一下</span></a><a 360chrome_form_autofill="2" class="bdselect_share_dialog_close" tangram_guid="TANGRAM_3"></a></div>
+<div 360chrome_form_autofill="2" class="bdselect_share_content">
+<ul class="bdselect_share_list bdshare-button-style0-16">
+<div 360chrome_form_autofill="2" class="bdselect_share_partners"><a class="bds_qzone" data-cmd="qzone" href="../../sys_e_content.jsp#"></a><a class="bds_tsina" data-cmd="tsina" href="../../sys_e_content.jsp#"></a><a class="bds_tqq" data-cmd="tqq" href="../../sys_e_content.jsp#"></a><a class="bds_renren" data-cmd="renren" href="../../sys_e_content.jsp#"></a><a class="bds_weixin" data-cmd="weixin" href="../../sys_e_content.jsp#"></a></div><a 360chrome_form_autofill="2" class="bds_more" data-cmd="more" href="../../sys_e_content.jsp#"></a></ul></div></div>
+<div 360chrome_form_autofill="2" class="sr-bdimgshare sr-bdimgshare-list sr-bdimgshare-16 sr-bdimgshare-black" data-bd-bind="1515463313005" id="bdimgshare_1515463313005" style="font-size: 12px;height: 36px;display: none;line-height: 26px" tangram_guid="TANGRAM_39">
+<div 360chrome_form_autofill="2" class="bdimgshare-bg"></div>
+<div 360chrome_form_autofill="2" class="bdimgshare-content bdsharebuttonbox bdshare-button-style0-16"><label class="bdimgshare-lbl">分享到：</label><a 360chrome_form_autofill="2" class="bds_qzone" data-cmd="qzone" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a><a 360chrome_form_autofill="2" class="bds_tsina" data-cmd="tsina" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a><a 360chrome_form_autofill="2" class="bds_tqq" data-cmd="tqq" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a><a 360chrome_form_autofill="2" class="bds_renren" data-cmd="renren" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a><a 360chrome_form_autofill="2" class="bds_weixin" data-cmd="weixin" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a><a 360chrome_form_autofill="2" class="bds_more" data-cmd="more" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a></div></div>
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="i_bottom"><!--#begineditable contype="" name="底部链接" action="" layout="" clone="0" namechanged="0" order="11" ispublic="0" tagname="底部链接" viewid="42984" stylesysid=""--><script language="javascript" src="../../system/resource/js/openlink.js"></script> <a class="i_bottom" href="http://202.117.3.237:8080/system/contribute/login.jsp">在线投稿</a>
+<strong>|</strong>
+<a class="i_bottom" href="../../lxwm.htm">联系我们</a>
+<strong>|</strong>
+<a class="i_bottom" href="http://202.117.3.24:8080/system/login.jsp">管理登陆</a>
+<strong>|</strong>
+<a class="i_bottom" href="http://xwlc1.xjtu.edu.cn/">新闻流程</a>
+<!--#endeditable--><br/> <!--#begineditable contype="" name="版权" action="" layout="" clone="0" namechanged="0" order="12" ispublic="0" tagname="版权" viewid="42985" stylesysid=""-->版权所有：西安交通大学党委宣传部 网站建设：<a class="design" href="http://nic.xjtu.edu.cn">网络信息中心</a><br/>陕ICP备06008037号 网络信息中心提供网络带宽 <!--#endeditable--></div>
+

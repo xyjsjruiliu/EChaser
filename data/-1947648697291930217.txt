@@ -1,0 +1,359 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html><head><title>西安交通大学本科招生网</title>
+<script type="text/javascript">
+
+if(/AppleWebKit.*Mobile/i.test(navigator.userAgent) ||(/MIDP|SymbianOS|NOKIA|SAMSUNG|LG|NEC|TCL|Alcatel|BIRD|DBTEL|Dopod|PHILIPS|HAIER|LENOVO|MOT-|Nokia|SonyEricsson|SIE-|Amoi|ZTE/.test(navigator.userAgent))){
+    if(window.location.href.indexOf("?mobile")<0){
+        try{
+            if(/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)){
+                window.location.href="http://zs.xjtu.edu.cn/Mobile/index.jsp?urltype=tree.TreeTempUrl&wbtreeid=1178";
+            }
+        }catch(e){}
+    }
+}
+
+</script>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><link href="style/css.css" rel="stylesheet" type="text/css"/><link href="SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css"/><link href="css/slideshow.css" rel="stylesheet"/><script src="SpryAssets/SpryMenuBar.js" type="text/javascript">
+</script><script src="js/jquery-1.9.1.min.js"></script>
+<!--Announced at 2020-01-12 18:15:53-->
+<!-- CustomerNO:7765626265343137697547545253554b03020000 -->
+<link href="index.vsb.css" rel="stylesheet" type="text/css">
+<meta content="西安交通大学本科招生网" name="keywords">
+<script src="system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1091915611)</script>
+</meta></link></head>
+<body>
+<div class="juzhong" style="height: 95px;margin-top: 6px">
+<div style="float: left"><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="LOGO" viewid="43636" contype="" stylesysid="" layout="" action="" name="LOGO"--><table border="0" cellpadding="0" cellspacing="0"><tr><td><img alt="/images/i_r2_c2.jpg" border="0" src="images/i_r2_c2.jpg"/></td></tr></table><!--#endeditable--></div>
+<div style="float: right;width: 320px">
+<div class="dblj"><!--#begineditable clone="0" namechanged="0" order="1" ispublic="0" tagname="收藏" viewid="43656" contype="" stylesysid="" layout="" action="" name="收藏"-->
+<script language="javascript">
+function dosuba43656a()
+{
+    try{
+    if (document.all) 
+        window.external.AddFavorite(document.location.href, document.title); 
+        else if (window.sidebar) 
+        window.sidebar.addPanel(document.title, document.location.href, "") 
+    }
+    catch (e){alert("当前浏览器不支持该操作，请升级浏览器版本");}
+}
+</script>
+<a href="#" onclick="javascript:dosuba43656a();" style="TEXT-DECORATION: none"><span style="color:#0F409C"> 加入收藏</span> </a>
+<a href="lxwm.htm" style="TEXT-DECORATION: none"><span style="color:#0F409C">联系我们</span> </a>
+<a href="wzdt.htm" style="TEXT-DECORATION: none"><span style="color:#0F409C">网站地图</span> </a>
+<a href="http://222.91.160.241" style="TEXT-DECORATION: none"><span style="color:#0F409C">怀念旧版</span> </a>
+<a href="ywy.htm" style="TEXT-DECORATION: none"><span style="color:#0F409C">ENGLISH</span> </a><!--#endeditable--></div>
+<div style="float: right"><!--#begineditable clone="0" namechanged="0" order="2" ispublic="0" tagname="简单检索" viewid="43635" contype="" stylesysid="" layout="" action="" name="简单检索"-->
+<form action="ssjgy.jsp?wbtreeid=1001" method="post" name="a43635a" onsubmit="return subsearchdataa43635a()" style="display: inline">
+<input name="Find" type="hidden" value="find"/><input name="entrymode" type="hidden" value="1"/><input id="INTEXT2" name="INTEXT2" type="hidden" value=""/><input name="news_search_code" type="hidden"/>
+<table border="0" cellpadding="0" cellspacing="1">
+<tr>
+<td height="22" nowrap="nowrap" valign="middle">
+<input name="condition" type="hidden" value="0"/> </td><td>
+<span id="intextspana43635a"></span>
+<iframe frameborder="0" id="intextframea43635a" scrolling="no" src="about:blank" style="position:absolute;top:0px;left:0px;display:none"></iframe>
+<input class="srk" name="INTEXT" onblur="if (value=='') {value='请输入您要查询的信息'}" onfocus="if(value=='请输入您要查询的信息') {value=''}" style="vertical-align:middle" type="text" value="请输入您要查询的信息"/>
+</td>
+<td align="absmiddle" height="1" nowrap="nowrap">
+<input align="absmiddle" height="30" src="images/i_r4_c10.jpg" style="cursor: hand" type="image" valign="bottom" width="39"/>
+</td>
+</tr>
+</table>
+</form>
+<script>
+function subsearchdataa43635a()
+{ 
+    if(checkDataa43635a(document.a43635a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+<script language="JavaScript" src="system/dwr/engine.js"></script>
+<script language="JavaScript" src="system/dwr/util.js"></script>
+<script language="JavaScript" src="system/dwr/interface/NewsSearchDWR.js"></script>
+<script language="JavaScript" src="system/resource/js/vsb_news_search.js"></script>
+<script language="JavaScript" src="system/resource/js/vsb_news_search_entry.js"></script>
+<script language="JavaScript" src="system/resource/js/language.js"></script>
+<script language="JavaScript" src="system/resource/js/base64.js"></script>
+<script language="JavaScript" src="system/resource/js/formfunc.js"></script>
+<script>    
+    news_searcha43635a = new vsb_news_search();
+    news_searcha43635a.isShowCode=false;
+    news_searcha43635a.tooltipid = 'tooltipa43635a';
+    news_searcha43635a.apptag = 'intextspana43635a';
+    news_searcha43635a.frametag = 'intextframea43635a';
+    news_search_entrya43635a = new vsb_news_search_entry();
+    news_search_entrya43635a.formname = "a43635a";
+    news_search_entrya43635a.news_search_obj = news_searcha43635a; 
+    news_search_entrya43635a.querytxtsize = 155
+    news_search_entrya43635a.yzmts ="您的查询过于频繁，请输入验证码后继续查询";
+    news_search_entrya43635a.qdstyle ="";
+    news_search_entrya43635a.qdname = "确定";
+    news_search_entrya43635a.qxstyle = "";
+    news_search_entrya43635a.qxname = "取消";    
+    function checkDataa43635a(formname)
+    {    
+        return news_search_entrya43635a.checkdata(formname)   
+    }
+    </script>
+<script language="javascript" src="system/resource/js/base64.js"></script>
+<!--#endeditable--></div></div></div>
+<div class="juzhong" id="daohang"><!--#begineditable clone="0" namechanged="0" order="3" ispublic="0" tagname="网站导航" viewid="43628" contype="" stylesysid="" layout="" action="" name="网站导航"--><script>
+    var newimg1 = new Image();
+    newimg1.src = "/system/resource/images/nav/imgnav_vsb_level1_bg_1.gif";
+    var newimg2 = new Image();
+    newimg2.src = "/system/resource/images/nav/imgnav_vsb_level1_bg_2.gif";
+    var newimg3 = new Image();
+    newimg3.src = "/system/resource/images/nav/imgnav_vsb_level2_bg_1.png";
+</script>
+<!--[if IE 6]> <style>#c43628{behavior: url("/system/resource/js/hover.htc")</style><![endif]-->
+<ul class="MenuBarHorizontal" id="MenuBar1">
+<li><a href="index.htm" id="current">首页</a>
+</li>
+<li><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1002">招生信息</a>
+<ul>
+<li><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1003">招生快讯</a></li>
+<li><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1004">招生政策</a></li>
+<li><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1005">招生计划</a></li>
+<li><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1006">阳光公告</a></li>
+<li><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1038">历年录取</a></li>
+</ul>
+</li>
+<li><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1009">单独招生</a>
+<ul>
+<li><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1010">保送生</a></li>
+<li><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1011">自主招生</a></li>
+<li><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1012">高水平艺术团</a></li>
+<li><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1013">高水平运动队</a></li>
+<li><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1014">美术类</a></li>
+<li><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1015">书法类</a></li>
+<li><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1017">少年班</a></li>
+<li><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1463">港澳台招生</a></li>
+</ul>
+</li>
+<li><a href="yxsd.htm">院系速递</a>
+<ul style="width:360px">
+<li><a href="yxsd/xxjj.htm">学校简介</a></li>
+<li><a href="yxsd/jxgcxy.htm">机械工程学院</a></li>
+<li><a href="yxsd/clkxygcxy.htm">材料科学与工程学院</a></li>
+<li><a href="yxsd/nyydlgcxy.htm">能源与动力工程学院</a></li>
+<li><a href="yxsd/hxgcyjsxy.htm">化学工程与技术学院</a></li>
+<li><a href="yxsd/dqgcxy.htm">电气工程学院</a></li>
+<li><a href="yxsd/dzyxxxb.htm">电子与信息学部</a></li>
+<li><a href="yxsd/jjyjrxy.htm">经济与金融学院</a></li>
+<li><a href="yxsd/rjhjyjzgcxy.htm">人居环境与建筑工程学院</a></li>
+<li><a href="yxsd/hthkxy.htm">航天航空学院</a></li>
+<li><a href="yxsd/smkxyjsxy.htm">生命科学与技术学院</a></li>
+<li><a href="yxsd/lxy.htm">理学院</a></li>
+<li><a href="yxsd/sxytjxy.htm">数学与统计学院</a></li>
+<li><a href="yxsd/wgyxy.htm">外国语学院</a></li>
+<li><a href="yxsd/rwshkxxy.htm">人文社会科学学院</a></li>
+<li><a href="yxsd/mkszyxy.htm">马克思主义学院</a></li>
+<li><a href="yxsd/ggzcyglxy.htm">公共政策与管理学院</a></li>
+<li><a href="yxsd/glxy.htm">管理学院</a></li>
+<li><a href="yxsd/fxy.htm">法学院</a></li>
+<li><a href="yxsd/yxb.htm">医学部</a></li>
+<li><a href="yxsd/spzbgcykxxy.htm">食品装备工程与科学学院</a></li>
+</ul>
+</li>
+<li><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1021">百年交大</a>
+<ul>
+<li><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1022">交大动态</a></li>
+<li><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1023">名师风采</a></li>
+<li><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1024">人才培养</a></li>
+<li><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1025">办学特色</a></li>
+<li><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1026">科学研究</a></li>
+<li><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1313">校友风采</a></li>
+</ul>
+</li>
+<li><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1027">校园生活</a>
+<ul>
+<li><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1028">学生活动</a></li>
+<li><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1030">成长环境</a></li>
+<li><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1031">奖优助学</a></li>
+</ul>
+</li>
+<li><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1032">美丽校园</a>
+<ul>
+<li><a href="tplb.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1033">视频交大</a></li>
+<li><a href="tplb.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1034">校园美图</a></li>
+<li><a href="http://gis.xjtu.edu.cn/">校园地图</a></li>
+</ul>
+</li>
+<li><a href="lxwm.htm">联系我们</a>
+<ul>
+<li><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1442">各省招生组</a></li>
+</ul>
+</li>
+<li><a href="Mobile/kstbzy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1445">填报志愿</a>
+</li>
+</ul>
+<!--#endeditable--></div>
+<div class="juzhong" id="yc-mod-slider">
+<div class="wrapper">
+<div class="box_skitter fn-clear" id="slideshow"><!--#begineditable clone="0" namechanged="0" order="4" ispublic="0" tagname="banner变换" viewid="43645" contype="" stylesysid="" layout="" action="" name="banner变换"--><script language="javascript" src="system/resource/js/dynclicks.js"></script>
+<ul>
+<li>
+<a href="http://news.xjtu.edu.cn/info/1033/127361.htm" onclick='_addDynClicks("wbimage", 1091915611, 30205)' target="_blank" title="">
+<img class="cubeRandom" src="2020011101.jpg" title="">
+</img></a>
+</li>
+<li>
+<a href="https://v.qq.com/x/page/x3031fisc16.html" onclick='_addDynClicks("wbimage", 1091915611, 30204)' target="_blank" title="">
+<img class="cubeRandom" src="smallliushaoteng.jpg" title=""/>
+</a>
+</li>
+<li>
+<a href="http://news.xjtu.edu.cn/info/1033/125225.htm" onclick='_addDynClicks("wbimage", 1091915611, 30203)' target="_blank" title="">
+<img class="cubeRandom" src="smallliusiming.jpg" title=""/>
+</a>
+</li>
+<li>
+<a href="http://news.xjtu.edu.cn/content.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1050&amp;wbnewsid=125530" onclick='_addDynClicks("wbimage", 1091915611, 30202)' target="_blank" title="">
+<img class="cubeRandom" src="smallzhangruotong.jpg" title=""/>
+</a>
+</li>
+</ul>
+<ul>
+<li>
+<a href="http://news.xjtu.edu.cn/info/1004/126489.htm" onclick='_addDynClicks("wbimage", 1091915611, 30198)' target="_blank" title="">
+<img class="cubeRandom" src="EmilianiLecturer.jpg" title=""/>
+</a>
+</li>
+<li>
+<a href="http://news.xjtu.edu.cn/info/1037/122003.htm" onclick='_addDynClicks("wbimage", 1091915611, 30199)' target="_blank" title="">
+<img class="cubeRandom" src="taozhongkaismall.jpg" title=""/>
+</a>
+</li>
+</ul>
+<!--#endeditable--></div><script src="js/slideshow.js" type="text/javascript"></script></div></div>
+<div class="juzhong"><!--#begineditable clone="0" namechanged="0" order="5" ispublic="0" tagname="中间图片" viewid="43640" contype="" stylesysid="" layout="" action="" name="中间图片"-->
+<ul>
+<li style="float:left">
+<a href="http://zzzs.xjtu.edu.cn" onclick='_addDynClicks("wbimage", 1091915611, 18621)' target="_blank" title="">
+<img height="68" src="images/i_r10_c2.jpg" title=""/>
+</a>
+</li>
+<li style="float:left">
+<a href="bkscx/lqcx.htm" onclick='_addDynClicks("wbimage", 1091915611, 18622)' target="_blank" title="">
+<img height="68" src="images/i_r10_c8.jpg" title=""/>
+</a>
+</li>
+<li style="float:left">
+<a href="bkscx/lnlqcx.htm" onclick='_addDynClicks("wbimage", 1091915611, 18623)' target="_blank" title="">
+<img height="68" src="images/i_r10_c10.jpg" title=""/>
+</a>
+</li>
+<li style="float:left">
+<a href="bkscx/zsjhcx.htm" onclick='_addDynClicks("wbimage", 1091915611, 18624)' target="_blank" title="">
+<img height="68" src="images/i_r10_c11.jpg" title=""/>
+</a>
+</li>
+</ul>
+<!--#endeditable--></div>
+<div class="juzhong" style="padding-top: 34px">
+<div style="float: left;width: 245px">
+<div style="height: 24px"><span style="font-size: 14px;float: left;font-weight: bold;color: #013364">招生政策</span><span style="float: right"><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1004" style="font-size: 12px;float: left;width: 36px">更多》</a></span></div>
+<div class="wzlb"><!--#begineditable clone="0" namechanged="0" order="6" ispublic="0" tagname="招生政策标题列表" viewid="43641" contype="" stylesysid="" layout="" action="" name="招生政策标题列表"--><ul>
+<li><span style="float:left"><a href="info/1004/4297.htm" target="_blank" title="西安交通大学2020年外语类保送生招生简章">西安交通大学2020年外语类保送生招...</a></span><span style="float:left"></span></li>
+<li><span style="float:left"><a href="info/1004/4277.htm" target="_blank" title="西安交通大学2020年“少年班”招生简章">西安交通大学2020年“少年班”招生...</a></span><span style="float:left"></span></li>
+<li><span style="float:left"><a href="info/1004/4129.htm" target="_blank" title="西安交通大学2019年普通本科招生章程">西安交通大学2019年普通本科招生章...</a></span><span style="float:left"></span></li>
+<li><span style="float:left"><a href="info/1004/4114.htm" target="_blank" title="西安交通大学2019年书法学专业招生简章">西安交通大学2019年书法学专业招生...</a></span><span style="float:left"></span></li>
+<li><span style="float:left"><a href="info/1004/4113.htm" target="_blank" title="西安交通大学2019年美术学类专业招生简章">西安交通大学2019年美术学类专业招...</a></span><span style="float:left"></span></li>
+<li><span style="float:left"><a href="info/1004/4103.htm" target="_blank" title="西安交通大学2019年“越杰计划”选拔实施办法">西安交通大学2019年“越杰计划”选...</a></span><span style="float:left"></span></li>
+<li><span style="float:left"><a href="info/1004/4056.htm" target="_blank" title="西安交通大学2019年高校专项计划招生简章">西安交通大学2019年高校专项计划招...</a></span><span style="float:left"></span></li>
+<li><span style="float:left"><a href="info/1004/4045.htm" target="_blank" title="西安交通大学2019年自主招生简章">西安交通大学2019年自主招生简章</a></span><span style="float:left"></span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u6_4297','dynclicks_u6_4277','dynclicks_u6_4129','dynclicks_u6_4114','dynclicks_u6_4113','dynclicks_u6_4103','dynclicks_u6_4056','dynclicks_u6_4045'],[4297,4277,4129,4114,4113,4103,4056,4045],"wbnews", 1091915611)</script>
+<!--#endeditable--></div>
+<div style="font-size: 14px;font-weight: bold;color: #013364;padding-top: 30px">联系方式</div>
+<div class="wzlb"><!--#begineditable clone="0" namechanged="0" order="7" ispublic="0" tagname="联系方式" viewid="43642" contype="" stylesysid="" layout="" action="" name="联系方式"--><table class="winstyle43642" width="100%">
+<tr>
+<td>招生咨询电话：029-82668320
+<br/>传真：029-82668322
+<br/>招生咨询邮箱：xjtuzs@mail.xjtu.edu.cn</td>
+</tr>
+</table><!--#endeditable--></div>
+<div style="padding-top: 30px"><span style="font-size: 14px;float: left;font-weight: bold;color: #013364">各招生组联系方式</span><span style="float: right"><a href="lxwm.htm" style="font-size: 12px;float: left">&gt;&gt;了解详细</a></span> </div>
+<div style="clear: both"></div></div>
+<div style="height: 200px;float: left;width: 35px"><!--#begineditable clone="0" namechanged="0" order="8" ispublic="0" tagname="浮动图片" viewid="43743" contype="" stylesysid="" layout="" action="" name="浮动图片"-->
+</div></div></body></html><!--#endeditable-->
+<div style="float: left;width: 420px">
+<div style="height: 24px"><span style="font-size: 14px;float: left;font-weight: bold;color: #013364">最新消息</span><span style="float: right"><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1002" style="font-size: 12px;float: left">更多 &gt;</a></span></div><!--#begineditable clone="0" namechanged="0" order="9" ispublic="0" tagname="最新消息_招生快讯" viewid="43650" contype="" stylesysid="" layout="" action="" name="最新消息_招生快讯"--> <div class="zxxx">
+<div class="zxxxrq"><span style="color:#FFF;line-height:20px">09-17</span><br/><span style="color:#0F409C;line-height:29px">2019</span></div>
+<div class="zxxxbtzy"><span style="color:#333;font-weight:bold;line-height:20px"><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1003" style="color:#0F409C">【招生快讯】</a></span><span><a class="c43650" href="http://zs.xjtu.edu.cn/dzzz/20190916/mobile/index.html" target="_blank" title="西安交通大学学院及专业介绍">西安交通大学学院及专业介绍</a></span><span></span><br/><span style="color:#666">西安交通大学学院及专业介绍</span></div>
+<div style="clear:both"></div>
+</div>
+<div class="zxxx">
+<div class="zxxxrq"><span style="color:#FFF;line-height:20px">01-09</span><br/><span style="color:#0F409C;line-height:29px">2020</span></div>
+<div class="zxxxbtzy"><span style="color:#333;font-weight:bold;line-height:20px"><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1004" style="color:#0F409C">【招生政策】</a></span><span><a class="c43650" href="info/1004/4297.htm" target="_blank" title="西安交通大学2020年外语类保送生招生简章">西安交通大学2020年外语类保送生招生简...</a></span><span><img src="images/new.jpg"/></span><br/><span style="color:#666">一、招生对象来自于教育部批准的具有保送资格的外国语中学（学校），且具有外语类保送资格的应届高中毕业生。二、...</span></div>
+<div style="clear:both"></div>
+</div>
+<div class="zxxx">
+<div class="zxxxrq"><span style="color:#FFF;line-height:20px">12-30</span><br/><span style="color:#0F409C;line-height:29px">2019</span></div>
+<div class="zxxxbtzy"><span style="color:#333;font-weight:bold;line-height:20px"><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1313" style="color:#0F409C">【校友风采】</a></span><span><a class="c43650" href="info/1313/4295.htm" target="_blank" title="交大人全面参与长征五号遥三运载火箭发射任务 王珏校友任总指挥">交大人全面参与长征五号遥三运载火箭发...</a></span><span></span><br/><span style="color:#666">12月27日20时45分，长征五号遥三运载火箭在中国文昌航天发射场点火升空，2000多秒后，与实践二十号卫星成功分离，...</span></div>
+<div style="clear:both"></div>
+</div>
+<div class="zxxx">
+<div class="zxxxrq"><span style="color:#FFF;line-height:20px">12-24</span><br/><span style="color:#0F409C;line-height:29px">2019</span></div>
+<div class="zxxxbtzy"><span style="color:#333;font-weight:bold;line-height:20px"><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1003" style="color:#0F409C">【招生快讯】</a></span><span><a class="c43650" href="info/1003/4294.htm" target="_blank" title="关于某网站发布我校虚假招生简章的严正声明">关于某网站发布我校虚假招生简章的严正声明</a></span><span></span><br/><span style="color:#666">关于某网站发布我校虚假招生简章的严正声明</span></div>
+<div style="clear:both"></div>
+</div>
+<div class="zxxx">
+<div class="zxxxrq"><span style="color:#FFF;line-height:20px">12-18</span><br/><span style="color:#0F409C;line-height:29px">2019</span></div>
+<div class="zxxxbtzy"><span style="color:#333;font-weight:bold;line-height:20px"><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1003" style="color:#0F409C">【招生快讯】</a></span><span><a class="c43650" href="info/1003/4292.htm" target="_blank" title="西安交通大学2020年少年班招生考试初试指南">西安交通大学2020年少年班招生考试初试...</a></span><span></span><br/><span style="color:#666">亲爱的同学：你好！欢迎报考西安交通大学少年班。西安交通大学2020年少年班招生初试定于2020年1月1日在西安交通大...</span></div>
+<div style="clear:both"></div>
+</div>
+<script>_showDynClickBatch(['dynclicks_u9_4250','dynclicks_u9_4297','dynclicks_u9_4295','dynclicks_u9_4294','dynclicks_u9_4292'],[4250,4297,4295,4294,4292],"wbnews", 1091915611)</script>
+<!--#endeditable--></div>
+<div style="height: 200px;float: left;width: 35px"></div>
+<div style="float: left;width: 245px">
+<div style="height: 26px"><span style="font-size: 14px;float: left;font-weight: bold;color: #013364">美丽校园</span><span style="float: right"><a href="lmy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1032" style="font-size: 12px;float: left;width: 36px">更多》</a></span></div>
+<div class="mlxy"><!--#begineditable clone="0" namechanged="0" order="10" ispublic="0" tagname="美丽校园图片文章列表" viewid="43643" contype="" stylesysid="" layout="" action="" name="美丽校园图片文章列表"-->
+<ul>
+<li>
+<div style="float:left"><img height="83" src="_mediafile/bkszsw/2018/06/20/21b4q18vt1.jpg" width="114"/></div>
+<div style="float:left;padding-left:8px;width:123px"><span style="color:#333;font-weight:bold;line-height:20px"> <a class="c43643" href="info/1033/4127.htm" target="_blank" title="2019《仙交大，在这里》">2019《仙交大，在这</a></span></div></li></ul></div></div>
+<span style="color:#666"> 2019西安交通大学招生宣传片... </span>
+
+
+<li>
+<div style="float:left"><img height="83" src="_mediafile/bkszsw/2019/06/23/4xh5tudstu.jpg" width="114"/></div>
+<div style="float:left;padding-left:8px;width:123px"><span style="color:#333;font-weight:bold;line-height:20px"> <a class="c43643" href="info/1033/4231.htm" target="_blank" title="西安交通大学西迁纪念版录取通知书创作述意">西安交通大学西迁纪</a></span></div></li>
+<span style="color:#666"> 西安交通大学西迁纪念版录取通知书创作述意... </span>
+
+
+<li>
+<div style="float:left"><img height="83" src="_mediafile/bkszsw/2018/04/11/2m4vy9k1lx.jpg" width="114"/></div>
+<div style="float:left;padding-left:8px;width:123px"><span style="color:#333;font-weight:bold;line-height:20px"> <a class="c43643" href="info/1033/4128.htm" target="_blank" title="2019越杰计划">2019越杰计划</a></span></div></li>
+<span style="color:#666"> 2019越杰计划... </span>
+
+
+
+<script>_showDynClickBatch(['dynclicks_u10_4127','dynclicks_u10_4231','dynclicks_u10_4128'],[4127,4231,4128],"wbnews", 1091915611)</script>
+<!--#endeditable-->
+<div style="font-size: 14px;font-weight: bold;color: #013364;padding-top: 10px">友情链接</div>
+<div class="ylljxl" style="text-align: center"><!--#begineditable clone="0" namechanged="0" order="11" ispublic="0" tagname="友情链接" viewid="43644" contype="" stylesysid="" layout="" action="" name="友情链接"--><script language="javascript" src="system/resource/js/openlink.js"></script><select class="yqlj" id="select" name="select" onchange="_openSelectLink(this, 'value', 'addclicks')">
+<option>　　　　　　--友情链接--  </option>
+<option addclicks='_addDynClicks("wburl", 1091915611, 4220)' title="西安交通大学" value="http://www.xjtu.edu.cn">西安交通大学</option>
+<option addclicks='_addDynClicks("wburl", 1091915611, 4285)' title="" value="http://gaokao.chsi.com.cn/">阳光高考信息平台</option>
+<option addclicks='_addDynClicks("wburl", 1091915611, 4284)' title="" value="http://pla.xjtu.edu.cn/">西安交大国防生</option>
+<option addclicks='_addDynClicks("wburl", 1091915611, 4286)' title="" value="http://jdxqmuseum.xjtu.edu.cn/">交通大学西迁博物馆</option>
+<option addclicks='_addDynClicks("wburl", 1091915611, 13146)' title="" value="http://zkyj.xjtu.edu.cn/">高教学会招生考试研究分会</option>
+</select><!--#endeditable--></div>
+<div style="clear: both">
+<div id="weixin"><span><!--#begineditable clone="0" namechanged="0" order="12" ispublic="0" tagname="微信" viewid="1022" contype="" stylesysid="" layout="" action="" name="微信"-->
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img alt="本科招生网微信" border="0" height="100" src="weixinpingtai.jpg" width="100"/></td>
+</tr>
+</table><!--#endeditable--></span><br/><span>本科招生网微信</span></div></div>
+<div class="juzhong" style="font-size: 12px;height: 67px;background-image: url(images/i_r44_c2.jpg);color: #666;line-height: 22px">
+<div style="float: left;padding-top: 11px"><!--#begineditable clone="0" namechanged="0" order="13" ispublic="0" tagname="版权" viewid="43633" contype="" stylesysid="" layout="" action="" name="版权"-->地址：陕西省西安市咸宁西路28号 邮编：710049<br/>版权所有：西安交通大学招生办公室     技术支持与维护：<a href="http://nic.xjtu.edu.cn" style="color: #666">网络信息中心</a><!--#endeditable--></div>
+<div style="float: right;padding-top: 22px"><span style="float: left"><img height="20" src="images/i_r46_c42.jpg" width="26"/></span><span style="float: left;line-height: 20px"><a href="http://weibo.com/xjtuzsb">新浪微博</a></span><span style="float: left;padding-left: 20px"><img height="20" src="images/i_r47_c49.jpg" width="26"/></span><span style="float: left;line-height: 20px"><a href="http://t.qq.com/xjtuzsb">腾讯微博</a></span></div></div><script type="text/javascript">
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
+</script>
+

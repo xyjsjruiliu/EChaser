@@ -1,0 +1,199 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<link href="favicon.ico" rel="shortcut icon"/>
+<title>西安交通大学校领导信箱</title>
+<!-- 百度统计 -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?46ca9c147026767186f1d448f12baccb";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<script language="JavaScript">
+document.oncontextmenu=new Function("event.returnValue=false;");
+</script>
+<script type="text/javascript">
+//判断汉字字数
+function DataLength(fData) 
+{ 
+    var intLength=0 
+    for (var i=0;i<fData.length;i++) 
+    { 
+        if ((fData.charCodeAt(i) < 0) || (fData.charCodeAt(i) > 255)) 
+            intLength=intLength+2 
+        else 
+            intLength=intLength+1    
+    } 
+    return intLength 
+}
+
+function checkboxnum(){
+ var form = document.forms['form1'];
+ var i,j=0;
+ for (i=0; i<form.length; i++){
+  var e=form[i];
+  if (e.checked && e.type=='checkbox') {
+   j++;
+   
+  }
+ }
+
+
+return j;
+}
+
+	function check() {
+	    
+	    i2 = document.getElementsByName("man")[0].value;
+	      i3 = document.getElementsByName("mobile")[0].value;
+	     i4 = document.getElementsByName("email")[0].value;
+	      // i5 = document.getElementsByName("lxr")[0].value;
+	      
+	       i1 = document.getElementsByName("title")[0].value;
+	  
+		 i6 =document.getElementsByName("content")[0].value;
+		  i7 =document.getElementsByName("yzm")[0].value;
+		
+		var msg = "";
+		  // if(checkboxnum()==0) msg += "请选择收件人邮箱\n";
+ 		
+	    if(null == i1|| "" == i1)	msg += "请输入邮件主题\n";
+	    
+	     if(null == i2|| "" == i2)	msg += "请输入您的姓名\n";
+	     if(null == i3|| "" == i3)	msg += "请输入您的电话\n";
+	     if(null == i4|| "" == i4)	msg += "请输入您的Email\n";
+	    // if(null == i5|| "" == i5)	msg += "请输入您的联系地址\n";
+	 
+	   if(null == i6|| "" == i6)	msg += "请输入邮件详细内容\n";
+	    if(null == i7|| "" == i7)	msg += "请输入验证码\n";
+	    // tt=DataLength(i6);
+	    // alert("--字数="+tt);
+	  //  if(tt>2000) msg += "来信内容字数超过2000字节（1000汉字），请缩减！\n";
+	    
+		if(msg!="") {
+			window.alert(msg);
+		}else {
+   
+		
+		document.form1.submit();
+  	     return   false; 
+	    }
+	    
+	}
+
+
+
+ function CloseWebPage(){
+        if (navigator.userAgent.indexOf("MSIE") > 0) {
+            if (navigator.userAgent.indexOf("MSIE 6.0") > 0) {
+                window.opener = null;
+                window.close();
+            } else {
+                window.open('', '_top');
+                window.top.close();
+            }
+        }
+        else if (navigator.userAgent.indexOf("Firefox") > 0) {
+            window.location.href = 'about:blank ';
+        } else {
+            window.opener = null;
+            window.open('', '_self', '');
+            window.close();
+        }
+    }
+
+
+
+	</script>
+</head>
+<body>
+<p align="center">
+<img src="banner2019.jpg"/>
+</p>
+<table align="center" border="0" style="font-size:14px;" width="1000">
+<tr><td>
+<p align="left" style="font-size:16px;">
+		
+		        欢迎您使用西安交通大学校领导信箱！您对西安交通大学的工作及发展的意见或建议，可直接通过此信箱进行提交。为便于我们向您了解具体情况，建议您留下有效联系方式。
+衷心感谢您对学校工作的支持和关爱！ <br/> <br/>
+           温馨提示：为保证正常浏览，建议您使用IE浏览器。
+		
+		</p>
+</td></tr>
+</table>
+<form action="index.do" enctype="multipart/form-data" id="form1" method="post" name="form1">
+<table align="center" border="1" bordercolor="#cccccc" cellpadding="0" cellspacing="0" style="background:#f6f6f6;font-size:14px;" width="1000">
+<!--  <tr>
+      <td  align="right" nowrap="nowrap">收件人<font color="red">*</font></td>
+      <td colspan="3">
+            <input type="checkbox" name="sj" id="sj" value="sj"/>书记信箱&nbsp;&nbsp;
+       <input type="checkbox" name="xz" id="xz" value="xz"/>校长信箱      </td>
+    </tr>
+    -->
+<tr>
+<td align="right" nowrap="nowrap" width="10%">您的姓名<font color="red">*</font></td>
+<td width="40%">
+<input id="man" name="man" size="45" type="text"/>
+</td>
+<td align="right" nowrap="nowrap" width="10%">您的电话<font color="red">*</font></td>
+<td width="40%">
+<input id="mobile" name="mobile" size="45" type="text"/>
+</td>
+</tr>
+<tr>
+<td align="right" nowrap="nowrap">您的Email<font color="red">*</font></td>
+<td>
+<input id="email" name="email" size="45" type="text"/>
+</td>
+<td align="right" nowrap="nowrap">联系地址</td>
+<td>
+<input id="address" name="lxr" size="45" type="text"/>
+</td>
+</tr>
+<tr>
+<td align="right" nowrap="nowrap" width="10%">来信主题 <font color="red">*</font></td>
+<td colspan="3" width="90%">
+<input id="title" name="title" size="131" type="text"/>
+</td>
+</tr>
+<tr>
+<td align="right" nowrap="nowrap"><span>来信正文<font color="red">*</font></span></td>
+<td colspan="3">
+<textarea cols="100" id="content" name="content" rows="20"></textarea><br/>
+      (中文字数控制在1000字以内，英文字数控制在2000字以内)<font color="red">*为必填项</font>
+</td>
+</tr>
+<tr>
+<td align="right">验证码<font color="red">*</font></td>
+<td colspan="3">
+<input id="yzm" name="yzm" size="10" type="text" value=""/>
+<img src="CreateRand"/>
+</td><td align="right"></td>
+</tr>
+<tr><td align="center" colspan="4">
+<input name="method" type="hidden"/>
+<input onclick="method.value='sendMail2Yzm',check();" type="button" value="提交"/>     
+
+   <!--   <input type="button" value="提交" onclick="method.value='mail2015',check();" />&nbsp;&nbsp;&nbsp;&nbsp; -->
+<input onclick="CloseWebPage();" type="button" value="关闭页面"/></td></tr>
+</table>
+</form>
+<!-- 	<a href="index.do?method=mail2015">2015邮件测试</a> -->
+<div class="split"> </div>
+<div class="bottom">
+<table align="center" bgcolor="#096a9d" border="0" style="font-size:12px" width="1061"><tr><td align="center">
+<font color="#d0d0d0"> 版权所有：西安交通大学<br/>
+	  技术支持与维护：</font><a class="design" href="http://nic.xjtu.edu.cn" target="_blank"><font color="#d0d0d0">网络信息中心</font></a>
+</td>
+</tr>
+</table>
+</div>
+</body>
+</html>

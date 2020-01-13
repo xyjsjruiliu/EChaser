@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" title="XSL Formatting" href="/system/resource/style/rss/rss.xsl" media="all"?>
+<rss version="2.0">
+<channel>
+<title><![CDATA[ ]]></title>
+<description><![CDATA[ ]]></description>
+<link/>
+<language>zh-cn</language>
+<generator></generator>
+<ttl>100</ttl>
+<item>
+<title><![CDATA[张定红、成进、别朝红分别深入创新港工程一线督导推进创新港内涵建设]]></title>
+<description><![CDATA[ ]]></description>
+<link/><![CDATA[http://news.xjtu.edu.cn/info/1033/117860.htm]]>
+<guid><![CDATA[http://news.xjtu.edu.cn/info/1033/117860.htm]]></guid>
+<pubdate>Fri, 9 Aug 2019 13:21:00 GMT</pubdate>
+</item>
+<item>
+<title><![CDATA[电气科学与技术研究院暨合作研究院正式入驻创新港]]></title>
+<description><![CDATA[ ]]></description>
+<link/><![CDATA[http://news.xjtu.edu.cn/info/1033/117132.htm]]>
+<guid><![CDATA[http://news.xjtu.edu.cn/info/1033/117132.htm]]></guid>
+<pubdate>Tue, 30 Jul 2019 13:48:09 GMT</pubdate>
+</item>
+<item>
+<title><![CDATA[宗濂书院联合药学院、法医学院举办非临床专业认知讲座]]></title>
+<description><![CDATA[ ]]></description>
+<link/><![CDATA[http://news.xjtu.edu.cn/system/defaultcontent.jsp]]>
+<guid><![CDATA[http://news.xjtu.edu.cn/system/defaultcontent.jsp]]></guid>
+<pubdate>Sun, 31 Mar 2019 07:50:56 GMT</pubdate>
+</item>
+<item>
+<title><![CDATA[上海校友会2018年度年会举行]]></title>
+<description><![CDATA[ ]]></description>
+<link/><![CDATA[http://news.xjtu.edu.cn/system/defaultcontent.jsp]]>
+<guid><![CDATA[http://news.xjtu.edu.cn/system/defaultcontent.jsp]]></guid>
+<pubdate>Fri, 25 Jan 2019 08:19:40 GMT</pubdate>
+</item>
+<item>
+<title><![CDATA[【追梦2019】教务处党支部传达学习寒假工作会议精神]]></title>
+<description><![CDATA[ ]]></description>
+<link/><![CDATA[http://news.xjtu.edu.cn/system/defaultcontent.jsp]]>
+<guid><![CDATA[http://news.xjtu.edu.cn/system/defaultcontent.jsp]]></guid>
+<pubdate>Sat, 12 Jan 2019 15:59:33 GMT</pubdate>
+</item>
+<item>
+<title><![CDATA[【改革启新程】李永胜：从四个维度理解伟大梦想是“干出来的”]]></title>
+<description><![CDATA[ ]]></description>
+<link/><![CDATA[http://news.xjtu.edu.cn/info/1014/105185.htm]]>
+<guid><![CDATA[http://news.xjtu.edu.cn/info/1014/105185.htm]]></guid>
+<pubdate>Mon, 24 Dec 2018 00:06:51 GMT</pubdate>
+</item>
+<item>
+<title><![CDATA[青年教职工代表赴延安开展“走中国青年知识分子成长的正确道路”研修活动]]></title>
+<description><![CDATA[ ]]></description>
+<link/><![CDATA[http://news.xjtu.edu.cn/system/defaultcontent.jsp]]>
+<guid><![CDATA[http://news.xjtu.edu.cn/system/defaultcontent.jsp]]></guid>
+<pubdate>Mon, 19 Nov 2018 07:14:51 GMT</pubdate>
+</item>
+<item>
+<title><![CDATA[【西迁新传人】张伟：以“相变”材料应信息技术“万变”需求]]></title>
+<description><![CDATA[ ]]></description>
+<link/><![CDATA[http://news.xjtu.edu.cn/system/defaultcontent.jsp]]>
+<guid><![CDATA[http://news.xjtu.edu.cn/system/defaultcontent.jsp]]></guid>
+<pubdate>Tue, 25 Sep 2018 07:51:38 GMT</pubdate>
+</item>
+</channel></rss>

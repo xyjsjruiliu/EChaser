@@ -1,0 +1,696 @@
+<!DOCTYPE html>
+
+<html><head><title>西安交通大学思源学堂</title><meta content="思源学堂" name="keywords"/>
+<meta charset="utf-8"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/><link href="css/style.css" rel="stylesheet" type="text/css"/><script src="js/jquery12.min.js" type="text/javascript"></script><script src="js/jquery.banner.js" type="text/javascript"></script><script src="js/henryMenuFixed.js" type="text/javascript"></script><script src="js/TouchSlide.js" type="text/javascript"></script><script src="js/TouchSlide.source.js" type="text/javascript"></script><script src="js/js2.js" type="text/javascript"></script><script src="js/video.min.js" type="text/javascript"></script><script src="js/henryCustomPlayer.js" type="text/javascript"></script><script src="js/henryPlayerList.js" type="text/javascript"></script><script src="js/zh-CN.js" type="text/javascript"></script><link href="css/video-js.min.css" rel="stylesheet" type="text/css"/><link href="css/henryCustomStyle.css" rel="stylesheet" type="text/css"/>
+<style>
+
+.bd>ul{display:none;}
+ .jxmstop>ul>li.title{color:#333;}
+ .jxmstop>ul>li.on{color:#004e97;}
+.tongshi{width:470px !important;height:45px !important;border-right:none !important;line-height: 45px;margin-left: 20px;}
+.tongshi a{color:#333;}
+.tongshi a:hover{color:#517aaf;}
+</style>
+<!--Announced by Visual SiteBuilder 9-->
+<link href="_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230697547545257544003060005 -->
+<link href="index.vsb.css" rel="stylesheet" type="text/css">
+<script src="/system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1479877527)</script>
+</link></link></head>
+<body>
+<div class="wrapper" id="wrapper">
+<div class="logo_"><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="全文检索" viewid="205008" contentviewid="" contype="" stylesysid="" layout="" action="" name="全文检索"--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode205008').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword205008").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword205008").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword205008").value = base64.encode(document.getElementById("lucenenewssearchkeyword205008").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode205008"));
+        return true;
+    } 
+</script>
+<form action="jsjg.jsp?wbtreeid=1001" id="au0a" method="post" name="au0a" onsubmit="return _nl_ys_check()" style="display: inline">
+<input id="lucenenewssearchkeyword205008" name="lucenenewssearchkeyword" type="hidden" value=""/><input id="_lucenesearchtype205008" name="_lucenesearchtype" type="hidden" value="1"/><input id="searchScope205008" name="searchScope" type="hidden" value="0"/>
+<div class="sousuo">
+<input id="showkeycode205008" name="showkeycode" onfocus="this.value=''" style="background: url(img/sousuo111.png) no-repeat;border: none !important;height: 26px;width: 230px;position: relative;right: -65px;text-indent: 1em;vertical-align: middle;outline: none;color:#C2C2C2;    text-indent: 30px;    line-height: 26px;" type="text" value="请输入关键字">
+<input style="background: url(img/sousuo.png) no-repeat;width: 69px;height: 26px;border: none !important;position: relative;cursor: hand;display: inline-block;vertical-align: middle;outline: none;" type="submit" value="">
+</input></input></div>
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable-->
+<div class="logo"><!--#begineditable clone="0" namechanged="0" order="1" ispublic="0" tagname="LOGO" viewid="205007" contentviewid="" contype="" stylesysid="" layout="" action="" name="LOGO"-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="index.htm"><img alt="思源学堂" border="0" height="88" src="img/logo.png" title="思源学堂" width="493"/></a><!--#endeditable--></div></div>
+<div class="nav_">
+<div class="nav"><!--#begineditable clone="0" namechanged="0" order="2" ispublic="0" tagname="网站导航" viewid="204886" contentviewid="" contype="" stylesysid="" layout="" action="" name="网站导航"--><ul class="navul">
+<li class="navli click"> <a href="index.htm">学堂首页</a> </li>
+<li class="navli"> <a href="tzgg.htm">通知公告</a> </li>
+<li class="navli"> <a href="jxms.htm">教学名师</a> </li>
+<li class="navli"> <a href="jpkc.htm">精品课程</a> </li>
+<li class="navli"> <a href="jpjc.htm">精品教材</a> </li>
+<li class="navli"> <a href="cghj.htm">成果获奖</a> </li>
+<li class="navli"> <a href="tskc.htm">通识课程</a> </li>
+<li class="navli"> <a href="list_data1.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1092">学堂数据</a> </li>
+<li class="navli"> <a href="gjpt.htm">工具平台</a> </li>
+<li class="navli"> <a href="cjwt.htm">常见问题</a> </li>
+<li class="navli"> <a href="info/1079/1119.htm">关于学堂</a> </li>
+</ul><!--#endeditable--></div><script type="text/javascript">
+                $(document).ready(function(){
+                  var divOffsetTop = $(".nav_").offset().top;
+                  $(window).scroll(()=>{
+                    var topVal = $(window).scrollTop();
+                    if(divOffsetTop >= topVal){
+                        $(".nav_").css('top', divOffsetTop);
+                        $(".nav_").css('border-bottom', '');
+                        $(".nav_").css('position','');    
+                    }    
+                    else {    
+                        $(".nav_").css('top', 0);
+                        $(".nav_").css('border-bottom', '2px solid #b7b7b7');
+                        $(".nav_").css('position','fixed');      
+                    }
+                  });
+                   //视频多页控制
+                    var video_id = thisVideoindex;
+                    var myPlayervideojs = videojs('js_videoPlayer');
+                    myPlayervideojs.src(videoSrc[video_id]);
+
+                    $("#scrollDiv li").click(function(){
+                        //alert('hi');
+                        var obj = $(this);
+                        video_id = obj.attr("video_id");
+                        //alert(videoSrc[video_id]);
+                        myPlayervideojs.src(videoSrc[video_id]);
+                        myPlayervideojs.play();
+                    });
+
+                  $("#scrollDiv").Scroll({line:3,speed:600,timer:6000,up:"but_down",down:"but_up"});
+
+                });
+                </script></div>
+<div class="sytop_">
+<div class="syleft"><!--#begineditable clone="0" namechanged="0" order="3" ispublic="0" tagname="banner变换" viewid="205874" contentviewid="" contype="" stylesysid="" layout="" action="" name="banner变换"--><style type="text/css">
+ul,li{
+    padding:0;
+    margin:0;
+    list-style:none;}
+#flashBoxu_u3_{
+    width:940px;
+    height:251px;
+    border:0px solid #EEE;
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;}
+#flashBoxu_u3_ img{
+    /*初始不要显示*/
+    display:none;
+    /*用边框来实现空位，因为margin和paading有时会引起些麻烦*/
+    border:0px solid #FFF;}
+#flashBoxu_u3_ ul{
+    position:absolute;
+    right:7px;
+    bottom:3px;
+    font:9px tahoma;}
+#flashBoxu_u3_ ul li{
+    display:block;
+    float:left;
+    width:12px;
+    height:12px;
+    line-height:12px;
+    margin-right:3px;
+    border:0px solid #999;
+    background:#F0F0F0;
+    text-align:center;
+    cursor:pointer;}
+#flashBoxu_u3_ ul li.hover{
+    border-color:red;
+    background:#FFE1E1;
+    color:red;}
+</style>
+<script type="text/javascript">
+function flashBoxCtrl(o){
+    this.obj=document.getElementById(o);
+    //这个私有方法虽然写了，但暂时没用到
+    function addListener(ele,eventName,functionBody){
+        if (ele.attachEvent){
+            ele.attachEvent("on"+eventName, functionBody);
+        }else if (ele.addEventListener){
+            ele.addEventListener("on"+eventName,functionBody, false);
+        }else{
+            return false;
+        }
+    }
+    //初始化
+    this.init=function(){
+        var objImg=this.obj.getElementsByTagName("img");
+        var tagLength=objImg.length;
+        if (tagLength>0){
+            var oUl=document.createElement("ul");
+            oUl.setAttribute("id",o+"numTag");
+            for (var i=0;i<tagLength;i++){
+                var oLi=oUl.appendChild(document.createElement("li"));
+                if (i==0){
+                    oLi.setAttribute("class","hover"); //初始化时把第一个设置为高亮
+                    oLi.setAttribute("className","hover");
+                }
+                //设置标签的数字
+                oLi.appendChild(document.createTextNode((i+1)));
+            }
+            this.obj.appendChild(oUl);
+            objImg[0].style.display="block";
+            //设置标签事件
+            var oTag=this.obj.getElementsByTagName("li");
+            for (var i=0;i<oTag.length;i++){
+                var flag = 0;
+                var temp = 0;
+                var timeout=null;
+                var step = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    this.className="hover";
+                    flag = flag>=oTag.length-1?0:flag+1;
+                    objImg[flag].style.display="block";
+                    oTag[flag].className = "hover";
+                    timeout = setTimeout(step,5000);
+                };
+                oTag[i].onmouseover=function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                        temp = j;
+                    }
+                    this.className="hover";
+                    objImg[this.innerHTML-1].style.display="block";
+                    temp = this.innerHTML-1;
+                    flag = i;
+                    clearInterval(timeout);
+                }
+                oTag[i].onmouseout = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    flag = temp;
+                    objImg[temp].style.display="block";
+                    oTag[temp].className = "hover";
+                    timeout = setTimeout(step,5000);
+                }
+                if(i==0)
+                {
+                    timeout = setTimeout(step,5000);
+                }
+            }
+        }
+    };
+    //自动滚动的方法还没写
+    this.imgRoll=function(){};
+    //生成对象时自动加载init()方法以初始化对象
+    this.init();
+}
+</script>
+<table border="0" cellpadding="0" cellspacing="0"><tr><td><div id="flashBoxu_u3_"><a href="http://news.xjtu.edu.cn/info/1033/124957.htm" target="_blank"><img alt="《西安交通大学学报》入选“中国科技期刊卓越行动计划”" border="0" height="251" src="img/2018/taowenquan2019.jpg" title="《西安交通大学学报》入选“中国科技期刊卓越行动计划”" width="940"/></a><a href="http://news.xjtu.edu.cn/info/1033/121998.htm" target="_blank"><img alt="西安交通大学何雅玲院士荣获全国首届杰出教学奖" border="0" height="251" src="img/2018/heyaling2019.jpg" title="西安交通大学何雅玲院士荣获全国首届杰出教学奖" width="940"/></a><a href="http://chuxin.xjtu.edu.cn/" target="_blank"><img alt="西安交大召开“不忘初心、牢记使命”主题教育动员大会" border="0" height="251" src="img/2018/buwangchuxin19.jpg" title="西安交大召开“不忘初心、牢记使命”主题教育动员大会" width="940"/></a><a href="http://news.xjtu.edu.cn/info/1033/119362.htm" target="_blank"><img alt="中国西部科技创新港进驻元年" border="0" height="251" src="img/2018/chuangxingang19.jpg" title="中国西部科技创新港进驻元年" width="940"/></a><a href="http://www.xjtu.edu.cn/cxgzx.htm" target="_blank"><img alt="进军创新港" border="0" height="251" src="img/2018/2019081501.jpg" title="进军创新港" width="940"/></a></div></td></tr></table><script language="JavaScript">new flashBoxCtrl("flashBoxu_u3_");</script><!--#endeditable--></div>
+<div class="syright"><a href=""><!--#begineditable clone="0" namechanged="0" order="4" ispublic="0" tagname="login-图片列表" viewid="204889" contentviewid="" contype="" stylesysid="" layout="" action="" name="login-图片列表"--> <script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+<a href="https://bb.xjtu.edu.cn" onclick='_addDynClicks("wbimage", 1479877527, 42919)' target="_blank" title="">
+<img border="0" height="251" src="img/login_03.png" width="255"/>
+</a>
+<!--#endeditable--></a>
+<p class="fwrc">访问人次计数：<!--#begineditable clone="0" namechanged="0" order="5" ispublic="0" tagname="文字计数器" viewid="204887" contentviewid="" contype="" stylesysid="" layout="" action="" name="文字计数器"-->
+<script language="javascript" src="_dwr/engine.js"></script>
+<script language="javascript" src="_dwr/util.js"></script>
+<script language="javascript" src="_dwr/interface/PageCounterDWR.js"></script>
+<table align="left" width="1%">
+<tr>
+<td align="center" nowrap="" valign="middle">
+<span class="fontstyle204887" id="a204887" name="a204887"></span>
+</td>
+</tr>
+</table>
+<script>
+function getvisittimeform204887()
+{		PageCounterDWR.getVisittime('1479877527','1001','TOTAL_COUNTER','0','10',callbackdataform204887);
+}
+function callbackdataform204887(data)
+{
+	document.getElementById("a204887").innerHTML = data; 
+}
+getvisittimeform204887();
+</script><!--#endeditable--></p></div></div>
+<div class="syvido_">
+<div class="vidoleft">
+<div class="xcsptop"><span class="title">宣传视频</span><span class="ywvido">VIDEO</span></div>
+<div class="vidoo_">
+<div class="vidooleft">
+<div class="videobox">
+<div class="video-img"><script>showPlayer();</script></div></div></div>
+<div class="vidooright"><script>showVideoList();</script></div></div></div>
+<div class="tzggright">
+<div class="tzggtop"><span class="title">通知公告</span><span class="ywvido">NEWS</span><span class="more"><a href="tzgg.htm"><img src="img/more.png"/></a></span> </div>
+<div class="tzgglist"><!--#begineditable clone="0" namechanged="0" order="6" ispublic="0" tagname="通知公告-标题列表" viewid="205010" contentviewid="" contype="" stylesysid="" layout="" action="" name="通知公告-标题列表"--><ul>
+<li> <span class="riqi">2019-12-06</span>
+<p> <a href="info/1064/2012.htm" target="_blank">2019年秋季学期思源教学沙龙活动（12月...</a> </p>
+<span>（总第112-115期）各学院、部（中心）及有关单位：根据《教育部关于印发&lt;教育信息化 2.0行动计划&gt;的...</span> </li>
+<li> <span class="riqi">2019-12-02</span>
+<p> <a href="info/1064/2011.htm" target="_blank">教务处组织外语类在线开放课程建设与应...</a> </p>
+<span>​11月28日下午，由教务处主办的思源教学沙龙活动走进外国语学院，在外文楼B912成功举办了一场外语...</span> </li>
+<li> <span class="riqi">2019-11-14</span>
+<p> <a href="info/1064/2002.htm" target="_blank">关于转发教育部在线教育研究中心《关于...</a> </p>
+<span>各有关单位：近年来，随着在线教育的快速发展，各高校及相关教师正积极运用互联网工具和先进教学理...</span> </li>
+</ul><script>_showDynClickBatch(['dynclicks_u6_2012','dynclicks_u6_2011','dynclicks_u6_2002'],[2012,2011,2002],"wbnews", 1479877527)</script>
+<!--#endeditable--></div></div></div>
+<div class="syxxmk_">
+<div class="xxmktop"><span class="title">精品课程</span><span class="ywvido">COURSES</span><span class="more"><a href="jpkc.htm"><img src="img/more.png"/></a></span> </div>
+<div class="xxmpbottom"><!--#begineditable clone="0" namechanged="0" order="7" ispublic="0" tagname="学校名课-标题列表" viewid="205011" contentviewid="" contype="" stylesysid="" layout="" action="" name="学校名课-标题列表"--><ul>
+<li>
+<p><img class="sanj" src="img/xxxiaosanjia.png"> <a href="info/1014/2025.htm" target="_blank" title="国家级虚拟仿真实验教学一流课程（2017-2018）">国家级虚拟仿真实验教学一流课程（2017-2018...</a> </img></p>
+<span class="ghby">国家级一流本科课程</span> <span class="ghriqi">2019-12-31</span> </li>
+<li>
+<p><img class="sanj" src="img/xxxiaosanjia.png"> <a href="info/1014/2024.htm" target="_blank" title="国家级线上一流课程（2017-2018）">国家级线上一流课程（2017-2018）</a> </img></p>
+<span class="ghby">国家级一流本科课程</span> <span class="ghriqi">2019-12-31</span> </li>
+<li>
+<p><img class="sanj" src="img/xxxiaosanjia.png"> <a href="info/1017/2023.htm" target="_blank" title="国家级精品课程（2003-2010）">国家级精品课程（2003-2010）</a> </img></p>
+<span class="ghby">国家级精品课程</span> <span class="ghriqi">2019-12-30</span> </li>
+<li>
+<p><img class="sanj" src="img/xxxiaosanjia.png"/> <a href="info/1016/1195.htm" target="_blank" title="模拟电子技术">模拟电子技术</a> </p>
+<span class="ghby">国家级精品资源共享课</span> <span class="ghriqi">2018-09-20</span> </li>
+<li>
+<p><img class="sanj" src="img/xxxiaosanjia.png"/> <a href="info/1016/1194.htm" target="_blank" title="系统工程">系统工程</a> </p>
+<span class="ghby">国家级精品资源共享课</span> <span class="ghriqi">2018-09-20</span> </li>
+<li>
+<p><img class="sanj" src="img/xxxiaosanjia.png"/> <a href="info/1016/1193.htm" target="_blank" title="法医学">法医学</a> </p>
+<span class="ghby">国家级精品资源共享课</span> <span class="ghriqi">2018-09-20</span> </li>
+<li>
+<p><img class="sanj" src="img/xxxiaosanjia.png"/> <a href="info/1016/1192.htm" target="_blank" title="电力电子技术">电力电子技术</a> </p>
+<span class="ghby">国家级精品资源共享课</span> <span class="ghriqi">2018-09-20</span> </li>
+<li>
+<p><img class="sanj" src="img/xxxiaosanjia.png"/> <a href="info/1016/1191.htm" target="_blank" title="电路">电路</a> </p>
+<span class="ghby">国家级精品资源共享课</span> <span class="ghriqi">2018-09-20</span> </li>
+<li>
+<p><img class="sanj" src="img/xxxiaosanjia.png"/> <a href="info/1016/1190.htm" target="_blank" title="计算机网络">计算机网络</a> </p>
+<span class="ghby">国家级精品资源共享课</span> <span class="ghriqi">2018-09-20</span> </li>
+</ul><script>_showDynClickBatch(['dynclicks_u7_2025','dynclicks_u7_2024','dynclicks_u7_2023','dynclicks_u7_1195','dynclicks_u7_1194','dynclicks_u7_1193','dynclicks_u7_1192','dynclicks_u7_1191','dynclicks_u7_1190'],[2025,2024,2023,1195,1194,1193,1192,1191,1190],"wbnews", 1479877527)</script>
+<!--#endeditable--></div></div>
+<div class="syjshd_" style="display: none">
+<div class="jshdtop"><span class="title">竞赛活动</span><span class="ywvido">COURSES</span><span class="more"><a href="jshd.htm"><img src="img/more.png"/></a></span> </div><!--开始--><!--#begineditable clone="0" namechanged="0" order="8" ispublic="0" tagname="竞赛活动-标题列表" viewid="205032" contentviewid="" contype="" stylesysid="" layout="" action="" name="竞赛活动-标题列表"--><div class="focus1" id="focus1">
+<div class="hd">
+<ul>
+</ul>
+</div>
+<div class="bd">
+<ul>
+</ul>
+</div>
+</div>
+<!--#endeditable--><script type="text/javascript">
+                    TouchSlide({
+                        slideCell: "#focus1",
+                        titCell: ".hd ul", //开启自动分页 autoPage:true ，此时设置 titCell 为导航元素包裹层
+                        mainCell: ".bd ul",
+                        effect: "left",
+                        autoPlay: true, //自动播放
+                        autoPage: true //自动分页 
+                    });
+                </script><!--结束--></div>
+<div class="syjxms_">
+<div class="jxmstop"><span class="title">教学名师</span><span class="ywvido">TEACHER</span><span class="more"><a class="moress" href="jxms.htm">更多&gt;&gt;</a></span> </div>
+<div class="jxmsbottom">
+<div class="hd" id="jxmsleft">
+<ul>
+<li><a>国家级名师</a>
+<li><a>万人计划名师</a>
+<li><a>陕西省级名师</a>
+<li><a>省级后备名师</a>
+<li><a>校级名师</a> </li></li></li></li></li></ul></div>
+<div class="bd" id="jxmsright">
+<ul><!--#begineditable clone="0" namechanged="0" order="9" ispublic="0" tagname="教学名师4-标题列表" viewid="205021" contentviewid="" contype="" stylesysid="" layout="" action="" name="教学名师4-标题列表"--><li class="border01">
+<div class="jstpleft"><a href="info/1039/1292.htm" target="_blank" title="陶文铨"><img src="/__local/A/86/97/65AEAEB088DAC9540334CFBB30F_7E15950A_C6D6.jpg"/></a></div>
+<div class="jsnrright">
+<p> <a href="info/1039/1292.htm" target="_blank" title="陶文铨">陶文铨</a> </p>
+<span>​陶文铨，1939年生，1962年西...</span> <a href="info/1039/1292.htm" target="_blank"> <img src="img/lgmore.png"/></a> </div>
+</li>
+<li class="border02">
+<div class="jstpleft"><a href="info/1039/1291.htm" target="_blank" title="冯博琴"><img src="/__local/1/50/C1/912CB1B2ABC8FBFE32C87AEA201_7EA0E30A_7427.jpg"/></a></div>
+<div class="jsnrright">
+<p> <a href="info/1039/1291.htm" target="_blank" title="冯博琴">冯博琴</a> </p>
+<span>冯博琴，男，生于1942年12月，...</span> <a href="info/1039/1291.htm" target="_blank"> <img src="img/lgmore.png"/></a> </div>
+</li>
+<li class="border03">
+<div class="jstpleft"><a href="info/1039/1290.htm" target="_blank" title="马知恩"><img src="/__local/3/8F/AA/B5BB4942297721CE7D432A56AE1_38563AB9_12B02.jpg"/></a></div>
+<div class="jsnrright">
+<p> <a href="info/1039/1290.htm" target="_blank" title="马知恩">马知恩</a> </p>
+<span>马知恩，男，教授，博士生导师...</span> <a href="info/1039/1290.htm" target="_blank"> <img src="img/lgmore.png"/></a> </div>
+</li>
+<li class="border04">
+<div class="jstpleft"><a href="info/1039/1288.htm" target="_blank" title="王兆安"><img src="/__local/0/C6/F6/4083B67584AA2A1842846A04776_DCF74DEE_3778.jpg"/></a></div>
+<div class="jsnrright">
+<p> <a href="info/1039/1288.htm" target="_blank" title="王兆安">王兆安</a> </p>
+<span>​  王兆安，男，1945年7月生，...</span> <a href="info/1039/1288.htm" target="_blank"> <img src="img/lgmore.png"/></a> </div>
+</li>
+<li class="border05">
+<div class="jstpleft"><a href="info/1039/1284.htm" target="_blank" title="罗先觉"><img src="/__local/D/50/1A/3E1D89D77D2A0CFD6C505C0344B_11CCB427_2DC4F.png"/></a></div>
+<div class="jsnrright">
+<p> <a href="info/1039/1284.htm" target="_blank" title="罗先觉">罗先觉</a> </p>
+<span>​罗先觉，男，1957年8月出生，...</span> <a href="info/1039/1284.htm" target="_blank"> <img src="img/lgmore.png"/></a> </div>
+</li>
+<script>_showDynClickBatch(['dynclicks_u9_1292','dynclicks_u9_1291','dynclicks_u9_1290','dynclicks_u9_1288','dynclicks_u9_1284'],[1292,1291,1290,1288,1284],"wbnews", 1479877527)</script>
+<!--#endeditable--></ul>
+<ul><!--#begineditable clone="0" namechanged="0" order="10" ispublic="0" tagname="教学名师5-标题列表" viewid="205022" contentviewid="" contype="" stylesysid="" layout="" action="" name="教学名师5-标题列表"--><li class="border01">
+<div class="jstpleft"><a href="info/1040/1101.htm" target="_blank" title="罗先觉"><img src="/__local/D/50/1A/3E1D89D77D2A0CFD6C505C0344B_11CCB427_2DC4F.png"/></a></div>
+<div class="jsnrright">
+<p> <a href="info/1040/1101.htm" target="_blank" title="罗先觉">罗先觉</a> </p>
+<span>​罗先觉，男，1957年8月出生，...</span> <a href="info/1040/1101.htm" target="_blank"> <img src="img/lgmore.png"/></a> </div>
+</li>
+<script>_showDynClickBatch(['dynclicks_u10_1101'],[1101],"wbnews", 1479877527)</script>
+<!--#endeditable--></ul>
+<ul><!--#begineditable clone="0" namechanged="0" order="11" ispublic="0" tagname="教学名师3-标题列表" viewid="205020" contentviewid="" contype="" stylesysid="" layout="" action="" name="教学名师3-标题列表"--><li class="border01">
+<div class="jstpleft"><a href="info/1038/1450.htm" target="_blank" title="张孝林"><img src="/__local/F/AC/FF/1433588A8B43E7B89C99DEA79CD_B797AA21_3A85F.png"/></a></div>
+<div class="jsnrright">
+<p> <a href="info/1038/1450.htm" target="_blank" title="张孝林">张孝林</a> </p>
+<span>张孝林，1983年毕业于西安交通...</span> <a href="info/1038/1450.htm" target="_blank"><img src="img/lgmore.png"/></a> </div>
+</li>
+<li class="border02">
+<div class="jstpleft"><a href="info/1038/1449.htm" target="_blank" title="钟明善"><img src="/__local/8/C3/2A/31283698CD15CC26EE5D3ACADC5_109FD493_CD2.jpg"/></a></div>
+<div class="jsnrright">
+<p> <a href="info/1038/1449.htm" target="_blank" title="钟明善">钟明善</a> </p>
+<span>​研究领域（方向）书法创作、...</span> <a href="info/1038/1449.htm" target="_blank"><img src="img/lgmore.png"/></a> </div>
+</li>
+<li class="border03">
+<div class="jstpleft"><a href="info/1038/1448.htm" target="_blank" title="杨振坤"><img src="/__local/5/60/2E/48D7408D9ADECB48B9F0B27613B_68B887F5_1C7D.jpg"/></a></div>
+<div class="jsnrright">
+<p> <a href="info/1038/1448.htm" target="_blank" title="杨振坤">杨振坤</a> </p>
+<span>杨振坤，女，教授，电气学院电...</span> <a href="info/1038/1448.htm" target="_blank"><img src="img/lgmore.png"/></a> </div>
+</li>
+<li class="border04">
+<div class="jstpleft"><a href="info/1038/1446.htm" target="_blank" title="闫振龙"><img src="/__local/2/57/BA/0885A23C62D7D33F0903CE333B9_33FE35AF_83D5.jpg"/></a></div>
+<div class="jsnrright">
+<p> <a href="info/1038/1446.htm" target="_blank" title="闫振龙">闫振龙</a> </p>
+<span>闫振龙，男，1982.1月于北京体...</span> <a href="info/1038/1446.htm" target="_blank"><img src="img/lgmore.png"/></a> </div>
+</li>
+<li class="border05">
+<div class="jstpleft"><a href="info/1038/1429.htm" target="_blank" title="唐玉海"><img src="/__local/9/B5/AA/ECB077CCAACA92C1B173744EB3D_560E4119_8CAC.jpg"/></a></div>
+<div class="jsnrright">
+<p> <a href="info/1038/1429.htm" target="_blank" title="唐玉海">唐玉海</a> </p>
+<span>主要从事药物分析、有机合成、...</span> <a href="info/1038/1429.htm" target="_blank"><img src="img/lgmore.png"/></a> </div>
+</li>
+<li class="border06">
+<div class="jstpleft"><a href="info/1038/1428.htm" target="_blank" title="韩鹏杰"><img src="/__local/5/7E/71/B64CDA9C769401B8D7ED4A86D37_3226F3C1_263D.jpg"/></a></div>
+<div class="jsnrright">
+<p> <a href="info/1038/1428.htm" target="_blank" title="韩鹏杰">韩鹏杰</a> </p>
+<span>​研究领域（方向）1：中国哲学...</span> <a href="info/1038/1428.htm" target="_blank"><img src="img/lgmore.png"/></a> </div>
+</li>
+<script>_showDynClickBatch(['dynclicks_u11_1450','dynclicks_u11_1449','dynclicks_u11_1448','dynclicks_u11_1446','dynclicks_u11_1429','dynclicks_u11_1428'],[1450,1449,1448,1446,1429,1428],"wbnews", 1479877527)</script>
+<!--#endeditable--></ul>
+<ul><!--#begineditable clone="0" namechanged="0" order="12" ispublic="0" tagname="教学名师2-标题列表" viewid="205019" contentviewid="" contype="" stylesysid="" layout="" action="" name="教学名师2-标题列表"--><li class="border01">
+<div class="jstpleft"><a href="info/1037/1443.htm" target="_blank" title="赵进全"><img src="/__local/B/BF/6C/98422EEEDD57B7FC55341E48434_D2AB61F3_AF14.jpg"/></a></div>
+<div class="jsnrright">
+<p> <a href="info/1037/1443.htm" target="_blank" title="赵进全">赵进全</a> </p>
+<span>‍赵进全，男，教授，电气学院...</span> <a href="info/1037/1443.htm" target="_blank"><img src="img/lgmore.png"/></a> </div>
+</li>
+<li class="border02">
+<div class="jstpleft"><a href="info/1037/1412.htm" target="_blank" title="续丹"><img src="/__local/2/D1/0E/5D034E64DD150261BE2F1A27E56_06DFE566_C4B1.jpg"/></a></div>
+<div class="jsnrright">
+<p> <a href="info/1037/1412.htm" target="_blank" title="续丹">续丹</a> </p>
+<span>​研究方向研究方向包括电动汽...</span> <a href="info/1037/1412.htm" target="_blank"><img src="img/lgmore.png"/></a> </div>
+</li>
+<li class="border03">
+<div class="jstpleft"><a href="info/1037/1411.htm" target="_blank" title="贺西京"><img src="/__local/F/C0/C9/A305BA1A92FC7EB8D6199EA8B50_8F8B4062_2B64.jpg"/></a></div>
+<div class="jsnrright">
+<p> <a href="info/1037/1411.htm" target="_blank" title="贺西京">贺西京</a> </p>
+<span>​研究领域（方向）颈椎病、脊...</span> <a href="info/1037/1411.htm" target="_blank"><img src="img/lgmore.png"/></a> </div>
+</li>
+<li class="border04">
+<div class="jstpleft"><a href="info/1037/1410.htm" target="_blank" title="傅强"><img src="/__local/5/13/6D/352180B6B6653FB404CAA433425_783D4B06_434D.jpg"/></a></div>
+<div class="jsnrright">
+<p> <a href="info/1037/1410.htm" target="_blank" title="傅强">傅强</a> </p>
+<span>研究领域（方向）药物色谱分析...</span> <a href="info/1037/1410.htm" target="_blank"><img src="img/lgmore.png"/></a> </div>
+</li>
+<li class="border05">
+<div class="jstpleft"><a href="info/1037/1409.htm" target="_blank" title="张俊瑞"><img src="/__local/3/11/27/1FAFCDBB2252E1EFCDB01C36C83_9054188C_1801.jpg"/></a></div>
+<div class="jsnrright">
+<p> <a href="info/1037/1409.htm" target="_blank" title="张俊瑞">张俊瑞</a> </p>
+<span>​工作经历2004．9—今，西安交...</span> <a href="info/1037/1409.htm" target="_blank"><img src="img/lgmore.png"/></a> </div>
+</li>
+<li class="border06">
+<div class="jstpleft"><a href="info/1037/1407.htm" target="_blank" title="曹永孝"><img src="/__local/5/67/E8/5FCAE56CDA1A44486EEAA7B1EFD_605A3422_32BD.jpg"/></a></div>
+<div class="jsnrright">
+<p> <a href="info/1037/1407.htm" target="_blank" title="曹永孝">曹永孝</a> </p>
+<span>研究领域（方向）1.血管药理学 ...</span> <a href="info/1037/1407.htm" target="_blank"><img src="img/lgmore.png"/></a> </div>
+</li>
+<script>_showDynClickBatch(['dynclicks_u12_1443','dynclicks_u12_1412','dynclicks_u12_1411','dynclicks_u12_1410','dynclicks_u12_1409','dynclicks_u12_1407'],[1443,1412,1411,1410,1409,1407],"wbnews", 1479877527)</script>
+<!--#endeditable--></ul>
+<ul><!--#begineditable clone="0" namechanged="0" order="13" ispublic="0" tagname="教学名师1-标题列表" viewid="205012" contentviewid="" contype="" stylesysid="" layout="" action="" name="教学名师1-标题列表"-->
+<!--#endeditable--></ul></div></div></div>
+<div class="syjxms_">
+<div class="jxmstop hd">
+<ul>
+<li class="title on">通识核心 |</li>
+<li class="title">通识选修 </li></ul>
+</div>
+<div class="jxmsbottom bd" style="position:relative">
+<ul style="display:block">
+<span class="more" style="position: absolute;top: -60px;right: 0px;"><a class="moress" href="tskc/tshxk.htm">更多&gt;&gt;</a></span>
+<div class="hd" id="jxmsleft">
+<ul>
+<li class="on"><a>科学探索与技术创新</a> </li>
+<li><a>全球视野与当代中国</a> </li>
+<li><a>文化传承与艺术审美</a> </li>
+<li><a>生命关怀与社会认知</a> </li>
+<li><a>哲学智慧与创新思维</a> </li></ul></div>
+<div class="bd" id="jxmsright">
+<ul style="display:block"><!--#begineditable name="通识核心1" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="221439" contentviewid="" tagname="通识核心1"--><ul>
+<li class="tongshi"><a href="info/1132/1940.htm" target="_blank" title="科学技术与工程伦理">科学技术与工程伦理<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1132/1941.htm" target="_blank" title="3D打印与工业革命">3D打印与工业革命<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1132/1942.htm" target="_blank" title="量子科学与技术革命">量子科学与技术革命<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1132/1943.htm" target="_blank" title="能源互联网">能源互联网<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1132/1945.htm" target="_blank" title="新能源导论">新能源导论<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1132/1946.htm" target="_blank" title="空间科学与空天技术">空间科学与空天技术<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1132/1947.htm" target="_blank" title="能源与人类文明发展">能源与人类文明发展<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1132/1948.htm" target="_blank" title="纳米科技前沿">纳米科技前沿<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1132/1949.htm" target="_blank" title="聚变能源与等离子体">聚变能源与等离子体<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1132/1950.htm" target="_blank" title="制造与社会发展">制造与社会发展<span style="float:right;">2019-09-02</span></a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u14_1940','dynclicks_u14_1941','dynclicks_u14_1942','dynclicks_u14_1943','dynclicks_u14_1945','dynclicks_u14_1946','dynclicks_u14_1947','dynclicks_u14_1948','dynclicks_u14_1949','dynclicks_u14_1950'],[1940,1941,1942,1943,1945,1946,1947,1948,1949,1950],"wbnews", 1479877527)</script>
+<!--#endeditable--></ul>
+<ul><!--#begineditable name="通识核心2" action="" layout="" tpltype="" contype="" clone="" viewid="221440" contentviewid="" tagname="通识核心2"--><ul>
+<li class="tongshi"><a href="info/1133/1926.htm" target="_blank" title="华尔街如何管理金融风险：交大财富课”">华尔街如何管理金融风险：交大财富课”<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1133/1927.htm" target="_blank" title="华夏文明探源工程概述">华夏文明探源工程概述<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1133/1928.htm" target="_blank" title="破解中国经济发展之谜">破解中国经济发展之谜<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1133/1929.htm" target="_blank" title="海外中国学研究">海外中国学研究<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1133/1930.htm" target="_blank" title="国际法与当代中国">国际法与当代中国<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1133/1931.htm" target="_blank" title="中西文化比较">中西文化比较<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1133/1932.htm" target="_blank" title="当代中国法治热点问题及其解读">当代中国法治热点问题及其解读<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1133/1933.htm" target="_blank" title="西方文明史">西方文明史<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1133/1934.htm" target="_blank" title="国际经济学">国际经济学<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1133/1935.htm" target="_blank" title="当代中国公共管理与政策分析">当代中国公共管理与政策分析<span style="float:right;">2019-09-02</span></a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u15_1926','dynclicks_u15_1927','dynclicks_u15_1928','dynclicks_u15_1929','dynclicks_u15_1930','dynclicks_u15_1931','dynclicks_u15_1932','dynclicks_u15_1933','dynclicks_u15_1934','dynclicks_u15_1935'],[1926,1927,1928,1929,1930,1931,1932,1933,1934,1935],"wbnews", 1479877527)</script>
+<!--#endeditable--></ul>
+<ul><!--#begineditable name="通识核心3" action="" layout="" tpltype="" contype="" clone="" viewid="221441" contentviewid="" tagname="通识核心3"--><ul>
+<li class="tongshi"><a href="info/1134/1893.htm" target="_blank" title="孙子兵法的智慧">孙子兵法的智慧<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1134/1894.htm" target="_blank" title="创意写作">创意写作<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1134/1895.htm" target="_blank" title="中国文学名著导读">中国文学名著导读<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1134/1896.htm" target="_blank" title="交响音乐赏析">交响音乐赏析<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1134/1897.htm" target="_blank" title="诺贝尔文学奖获奖作品选读">诺贝尔文学奖获奖作品选读<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1134/1898.htm" target="_blank" title="美术与世界">美术与世界<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1134/1899.htm" target="_blank" title="中外建筑艺术与欣赏">中外建筑艺术与欣赏<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1134/1900.htm" target="_blank" title="文学经典与热点透视">文学经典与热点透视<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1134/1901.htm" target="_blank" title="表达与交流">表达与交流<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1134/1902.htm" target="_blank" title="艺术美学">艺术美学<span style="float:right;">2019-09-02</span></a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u16_1893','dynclicks_u16_1894','dynclicks_u16_1895','dynclicks_u16_1896','dynclicks_u16_1897','dynclicks_u16_1898','dynclicks_u16_1899','dynclicks_u16_1900','dynclicks_u16_1901','dynclicks_u16_1902'],[1893,1894,1895,1896,1897,1898,1899,1900,1901,1902],"wbnews", 1479877527)</script>
+<!--#endeditable--></ul>
+<ul><!--#begineditable name="通识核心4" action="" layout="" tpltype="" contype="" clone="" viewid="221442" contentviewid="" tagname="通识核心4"--><ul>
+<li class="tongshi"><a href="info/1135/1907.htm" target="_blank" title="医学人文与实践">医学人文与实践<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1135/1908.htm" target="_blank" title="生活中的经济学">生活中的经济学<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1135/1909.htm" target="_blank" title="政府运作与治理">政府运作与治理<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1135/1910.htm" target="_blank" title="资源、能源、环境和社会">资源、能源、环境和社会<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1135/1911.htm" target="_blank" title="互联网金融">互联网金融<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1135/1912.htm" target="_blank" title="现代管理学">现代管理学<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1135/1913.htm" target="_blank" title="经济学的思维方式">经济学的思维方式<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1135/1914.htm" target="_blank" title="工程经济学">工程经济学<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1135/1915.htm" target="_blank" title="生命起源与生物进化">生命起源与生物进化<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1135/1916.htm" target="_blank" title="营养与健康">营养与健康<span style="float:right;">2019-09-02</span></a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u17_1907','dynclicks_u17_1908','dynclicks_u17_1909','dynclicks_u17_1910','dynclicks_u17_1911','dynclicks_u17_1912','dynclicks_u17_1913','dynclicks_u17_1914','dynclicks_u17_1915','dynclicks_u17_1916'],[1907,1908,1909,1910,1911,1912,1913,1914,1915,1916],"wbnews", 1479877527)</script>
+<!--#endeditable--></ul>
+<ul><!--#begineditable name="通识核心5" action="" layout="" tpltype="" contype="" clone="" viewid="221443" contentviewid="" tagname="通识核心5"--><ul>
+<li class="tongshi"><a href="info/1136/1883.htm" target="_blank" title="大数据思维与科学创新">大数据思维与科学创新<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1136/1884.htm" target="_blank" title="数学文化与生活">数学文化与生活<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1136/1885.htm" target="_blank" title="再创式学习方法与技术创新训练">再创式学习方法与技术创新训练<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1136/1886.htm" target="_blank" title="基于“互联网+”背景的创业基础">基于“互联网+”背景的创业基础<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1136/1887.htm" target="_blank" title="批判性与创新性思维导论">批判性与创新性思维导论<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1136/1888.htm" target="_blank" title="中国哲学经典著作导读">中国哲学经典著作导读<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1136/1889.htm" target="_blank" title="西方哲学的智慧">西方哲学的智慧<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1136/1890.htm" target="_blank" title="创新思维和机器人创客实践">创新思维和机器人创客实践<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1136/1891.htm" target="_blank" title="论语的智慧">论语的智慧<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1136/1892.htm" target="_blank" title="道家的智慧">道家的智慧<span style="float:right;">2019-09-02</span></a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u18_1883','dynclicks_u18_1884','dynclicks_u18_1885','dynclicks_u18_1886','dynclicks_u18_1887','dynclicks_u18_1888','dynclicks_u18_1889','dynclicks_u18_1890','dynclicks_u18_1891','dynclicks_u18_1892'],[1883,1884,1885,1886,1887,1888,1889,1890,1891,1892],"wbnews", 1479877527)</script>
+<!--#endeditable--></ul></div>
+</ul>
+<ul>
+<span class="more" style="position: absolute;top: -60px;right: 0px;"><a class="moress" href="tskc/tsxxk.htm">更多&gt;&gt;</a></span>
+<div class="hd" id="jxmsleft">
+<ul>
+<li class="on"><a>科学探索与技术创新</a> </li>
+<li><a>全球视野与当代中国</a> </li>
+<li><a>文化传承与艺术审美</a> </li>
+<li><a>生命关怀与社会认知</a> </li>
+<li><a>哲学智慧与创新思维</a> </li></ul></div>
+<div class="bd" id="jxmsright">
+<ul style="display:block"><!--#begineditable name="通识选修1" action="" layout="" tpltype="" contype="" clone="" viewid="221444" contentviewid="" tagname="通识选修1"--><ul>
+<li class="tongshi"><a href="info/1137/1814.htm" target="_blank" title="现代化学电源探秘">现代化学电源探秘<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1137/1815.htm" target="_blank" title="学科交叉研究：流体遇上纳米材料">学科交叉研究：流体遇上纳米材料<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1137/1816.htm" target="_blank" title="质量工程导论">质量工程导论<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1137/1817.htm" target="_blank" title="新能源汽车与无人驾驶革命">新能源汽车与无人驾驶革命<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1137/1818.htm" target="_blank" title="面向移动互联网的创新思维与实践">面向移动互联网的创新思维与实践<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1137/1819.htm" target="_blank" title="材料基因工程概论">材料基因工程概论<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1137/1820.htm" target="_blank" title="项目管理">项目管理<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1137/1821.htm" target="_blank" title="制冷技术概论：从地面到空间">制冷技术概论：从地面到空间<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1137/1822.htm" target="_blank" title="并行程序设计导论">并行程序设计导论<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1137/1823.htm" target="_blank" title="星际航行与低温技术">星际航行与低温技术<span style="float:right;">2019-09-02</span></a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u19_1814','dynclicks_u19_1815','dynclicks_u19_1816','dynclicks_u19_1817','dynclicks_u19_1818','dynclicks_u19_1819','dynclicks_u19_1820','dynclicks_u19_1821','dynclicks_u19_1822','dynclicks_u19_1823'],[1814,1815,1816,1817,1818,1819,1820,1821,1822,1823],"wbnews", 1479877527)</script>
+<!--#endeditable--></ul>
+<ul><!--#begineditable name="通识选修2" action="" layout="" tpltype="" contype="" clone="" viewid="221445" contentviewid="" tagname="通识选修2"--><ul>
+<li class="tongshi"><a href="info/1138/1774.htm" target="_blank" title="《乡土中国》">《乡土中国》<span style="float:right;">2019-09-03</span></a></li>
+<li class="tongshi"><a href="info/1138/1775.htm" target="_blank" title="证券投资学">证券投资学<span style="float:right;">2019-09-03</span></a></li>
+<li class="tongshi"><a href="info/1138/1776.htm" target="_blank" title="欧亚内陆帝国势力兴衰史">欧亚内陆帝国势力兴衰史<span style="float:right;">2019-09-03</span></a></li>
+<li class="tongshi"><a href="info/1138/1777.htm" target="_blank" title="欧洲文明的现代历程">欧洲文明的现代历程<span style="float:right;">2019-09-03</span></a></li>
+<li class="tongshi"><a href="info/1138/1778.htm" target="_blank" title="中东问题与中东战争">中东问题与中东战争<span style="float:right;">2019-09-03</span></a></li>
+<li class="tongshi"><a href="info/1138/1779.htm" target="_blank" title="英美文学">英美文学<span style="float:right;">2019-09-03</span></a></li>
+<li class="tongshi"><a href="info/1138/1780.htm" target="_blank" title="阿拉伯语2">阿拉伯语2<span style="float:right;">2019-09-03</span></a></li>
+<li class="tongshi"><a href="info/1138/1781.htm" target="_blank" title="第二次世界大战经典战役评析">第二次世界大战经典战役评析<span style="float:right;">2019-09-03</span></a></li>
+<li class="tongshi"><a href="info/1138/1782.htm" target="_blank" title="丝绸之路漫谈">丝绸之路漫谈<span style="float:right;">2019-09-03</span></a></li>
+<li class="tongshi"><a href="info/1138/1783.htm" target="_blank" title="阿拉伯语1">阿拉伯语1<span style="float:right;">2019-09-03</span></a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u20_1774','dynclicks_u20_1775','dynclicks_u20_1776','dynclicks_u20_1777','dynclicks_u20_1778','dynclicks_u20_1779','dynclicks_u20_1780','dynclicks_u20_1781','dynclicks_u20_1782','dynclicks_u20_1783'],[1774,1775,1776,1777,1778,1779,1780,1781,1782,1783],"wbnews", 1479877527)</script>
+<!--#endeditable--></ul>
+<ul><!--#begineditable name="通识选修3" action="" layout="" tpltype="" contype="" clone="" viewid="221446" contentviewid="" tagname="通识选修3"--><ul>
+<li class="tongshi"><a href="info/1139/1790.htm" target="_blank" title="艺术导论">艺术导论<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1139/1791.htm" target="_blank" title="《庄子》寓言精读">《庄子》寓言精读<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1139/1792.htm" target="_blank" title="莎士比亚戏剧名段赏读">莎士比亚戏剧名段赏读<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1139/1793.htm" target="_blank" title="《诗经》鉴赏">《诗经》鉴赏<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1139/1794.htm" target="_blank" title="品读经典《诗》《老》《庄》选粹">品读经典《诗》《老》《庄》选粹<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1139/1795.htm" target="_blank" title="海德格尔的《存在与时间》">海德格尔的《存在与时间》<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1139/1796.htm" target="_blank" title="英语经典阅读：《西行漫记》与《老人与海》">英语经典阅读：《西行漫记》与《老人与海》<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1139/1797.htm" target="_blank" title="中国文化与文学精粹">中国文化与文学精粹<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1139/1798.htm" target="_blank" title="“丝绸之路”文学史话">“丝绸之路”文学史话<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1139/1799.htm" target="_blank" title="书法鉴赏">书法鉴赏<span style="float:right;">2019-09-02</span></a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u21_1790','dynclicks_u21_1791','dynclicks_u21_1792','dynclicks_u21_1793','dynclicks_u21_1794','dynclicks_u21_1795','dynclicks_u21_1796','dynclicks_u21_1797','dynclicks_u21_1798','dynclicks_u21_1799'],[1790,1791,1792,1793,1794,1795,1796,1797,1798,1799],"wbnews", 1479877527)</script>
+<!--#endeditable--></ul>
+<ul><!--#begineditable name="通识选修4" action="" layout="" tpltype="" contype="" clone="" viewid="221447" contentviewid="" tagname="通识选修4"--><ul>
+<li class="tongshi"><a href="info/1140/1848.htm" target="_blank" title="理解我们生活的世界：批判视野下的媒介与社会">理解我们生活的世界：批判视野下的媒介与社会<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1140/1849.htm" target="_blank" title="心理学与生活">心理学与生活<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1140/1850.htm" target="_blank" title="出国访学准备">出国访学准备<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1140/1851.htm" target="_blank" title="身边的化工">身边的化工<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1140/1852.htm" target="_blank" title="医案说法">医案说法<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1140/1853.htm" target="_blank" title="全球气候与环境变化">全球气候与环境变化<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1140/1854.htm" target="_blank" title="沟通管理">沟通管理<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1140/1855.htm" target="_blank" title="微生物感染与健康">微生物感染与健康<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1140/1856.htm" target="_blank" title="中药养生保健">中药养生保健<span style="float:right;">2019-09-02</span></a></li>
+<li class="tongshi"><a href="info/1140/1857.htm" target="_blank" title="烟草危害与健康">烟草危害与健康<span style="float:right;">2019-09-02</span></a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u22_1848','dynclicks_u22_1849','dynclicks_u22_1850','dynclicks_u22_1851','dynclicks_u22_1852','dynclicks_u22_1853','dynclicks_u22_1854','dynclicks_u22_1855','dynclicks_u22_1856','dynclicks_u22_1857'],[1848,1849,1850,1851,1852,1853,1854,1855,1856,1857],"wbnews", 1479877527)</script>
+<!--#endeditable--></ul>
+<ul><!--#begineditable name="通识选修5" action="" layout="" tpltype="" contype="" clone="" viewid="221448" contentviewid="" tagname="通识选修5"--><ul>
+<li class="tongshi"><a href="info/1141/1771.htm" target="_blank" title="《黄帝内经》中的管理哲学">《黄帝内经》中的管理哲学<span style="float:right;">2019-09-03</span></a></li>
+<li class="tongshi"><a href="info/1141/1772.htm" target="_blank" title="创新与创新管理">创新与创新管理<span style="float:right;">2019-09-03</span></a></li>
+<li class="tongshi"><a href="info/1141/1773.htm" target="_blank" title="汉语与社会生活">汉语与社会生活<span style="float:right;">2019-09-03</span></a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u23_1771','dynclicks_u23_1772','dynclicks_u23_1773'],[1771,1772,1773],"wbnews", 1479877527)</script>
+<!--#endeditable--></ul></div>
+</ul>
+</div>
+</div>
+<script type="text/javascript">jQuery(".jxmsbottom").slide();</script>
+<script type="text/javascript">jQuery(".syjxms_").slide();</script>
+<div class="symjc_">
+<div class="mjctop"><span class="title">精品教材</span><span class="ywvido">BOOKS</span><span class="more"><a href="jpjc.htm"><img src="img/more.png"/></a></span> </div>
+<div class="mjcbottom"><!--点击切换开始--><!--#begineditable clone="0" namechanged="0" order="14" ispublic="0" tagname="名教材-标题列表" viewid="205013" contentviewid="" contype="" stylesysid="" layout="" action="" name="名教材-标题列表"--><div class="friend">
+<div class="mr_frbox">
+<div class="mr_frUl">
+<ul id="mr_fu">
+<li> <a href="info/1067/1237.htm" target="_blank" title="国际贸易理论、政策与实务（第二版）"><img src="/__local/2/D3/25/0CC116CE8B73F30590298D37B02_399597CC_1C541.jpg"/></a> </li>
+<li> <a href="info/1067/1236.htm" target="_blank" title="物理学概论"><img src="/__local/C/92/FF/7549E30652686BA32BFE00A4251_E45D6B20_1D44.jpg"/></a> </li>
+<li> <a href="info/1067/1235.htm" target="_blank" title="国际商务"><img src="/__local/E/E8/32/E0730F71E1F98E86FA73F138E12_8DB4D6D8_6EC2.jpg"/></a> </li>
+<li> <a href="info/1067/1234.htm" target="_blank" title="机械设计基础（第二版）"><img src="/__local/C/C9/93/9C85B84C229EDDE63BC5B2A4BF0_CDB6FB25_9B48.jpg"/></a> </li>
+<li> <a href="info/1067/1233.htm" target="_blank" title="营销渠道管理（第二版）"><img src="/__local/0/F4/A5/9CC6BD1A922B3BED0909560C9AA_0B7EB61D_2A1B.jpg"/></a> </li>
+<li> <a href="info/1067/1232.htm" target="_blank" title="光电子技术基础（第二版）"><img src="/__local/8/85/CF/4DD53CF43573CC087A8A32597D0_61D4FE61_4461.jpg"/></a> </li>
+</ul>
+</div>
+<div class="anniu"><img class="next" src="img/msczzz.png"/><img class="prev" src="img/mzcyyy.png"/></div>
+</div>
+</div>
+<script>_showDynClickBatch(['dynclicks_u24_1237','dynclicks_u24_1236','dynclicks_u24_1235','dynclicks_u24_1234','dynclicks_u24_1233','dynclicks_u24_1232'],[1237,1236,1235,1234,1233,1232],"wbnews", 1479877527)</script>
+<!--#endeditable--><script type="text/javascript">
+                        $(document).ready(function() {
+
+                            /* 图片滚动效果 */
+                            $(".mr_frbox").slide({
+                                titCell: "",
+                                mainCell: ".mr_frUl ul",
+                                autoPage: true,
+                                effect: "leftLoop",
+                                autoPlay: true,
+                                vis: 10
+                            });
+
+                        });
+                    </script><!--点击切换结束--></div></div>
+<div class="ktc_">
+<div class="ktcss">
+<div class="ksleft">
+<div class="kttop"><span class="title">友情链接</span><span class="ywvido"></span><span class="more"><a class="moress" href="yqlj.htm">更多&gt;&gt;</a></span> </div>
+<div class="ktbottom"><!--#begineditable clone="0" namechanged="0" order="15" ispublic="0" tagname="课程排行-标题列表" viewid="205014" contentviewid="" contype="" stylesysid="" layout="" action="" name="课程排行-标题列表"--><ul>
+<li> <a href="http://www.moe.edu.cn/" target="_blank" title="教育部">教育部</a> </li>
+<li> <a href="http://www.snedu.gov.cn/" target="_blank" title="陕西省教育厅">陕西省教育厅</a> </li>
+<li> <a href="http://www.hie.edu.cn/" target="_blank" title="中国高等教育学会">中国高等教育学会</a> </li>
+<li> <a href="http://www.xjtu.edu.cn/" target="_blank" title="西安交通大学">西安交通大学</a> </li>
+<li> <a href="http://www.sxmooc.cn/" target="_blank" title="陕西省高等教育MOOC中心">陕西省高等教育MOOC中心</a> </li>
+<li> <a href="http://oa.xjtu.edu.cn/" target="_blank" title="西安交大办公自动化系统">西安交大办公自动化系统</a> </li>
+<li> <a href="http://one.xjtu.edu.cn/" target="_blank" title="师生综合服务大厅">师生综合服务大厅</a> </li>
+<li> <a href="http://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1025" target="_blank" title="校内各二级学院">校内各二级学院</a> </li>
+</ul><script>_showDynClickBatch(['dynclicks_u25_1312','dynclicks_u25_1314','dynclicks_u25_1313','dynclicks_u25_1311','dynclicks_u25_1315','dynclicks_u25_1316','dynclicks_u25_1317','dynclicks_u25_1318'],[1312,1314,1313,1311,1315,1316,1317,1318],"wbnews", 1479877527)</script>
+<!--#endeditable--></div></div>
+<div class="kscent">
+<div class="kctop"><span class="title">统计信息</span><span class="ywvido"></span><span class="more"><a class="moress" href="http://syxt.xjtu.edu.cn/list_data1.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1092" target="_blank">更多&gt;&gt;</a></span> </div>
+<div class="kcbottom">
+<ul><!--#begineditable clone="0" namechanged="0" order="16" ispublic="0" tagname="统计信息-链接列表" viewid="205024" contentviewid="" contype="" stylesysid="" layout="" action="" name="统计信息-链接列表"--><script language="javascript" src="/system/resource/js/openlink.js"></script><li><img src="img/tjxximg.png"/> <a href="http://syxt.xjtu.edu.cn/list_data1.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1092" onclick='_addDynClicks("wburl", 1479877527, 43021)' title="课程访问排行">课程访问排行</a> </li>
+<li><img src="img/tjxximg.png"/> <a href="http://syxt.xjtu.edu.cn/list_data6.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1097" onclick='_addDynClicks("wburl", 1479877527, 43024)' title="课程内容增量排行">课程内容增量排行</a> </li>
+<li><img src="img/tjxximg.png"/> <a href="http://syxt.xjtu.edu.cn/list_data5.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1096" onclick='_addDynClicks("wburl", 1479877527, 43025)' title="系统访问总量">系统访问总量</a> </li>
+<li><img src="img/tjxximg.png"/> <a href="http://syxt.xjtu.edu.cn/list_data3.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1094" onclick='_addDynClicks("wburl", 1479877527, 43026)' title="活跃课程数">活跃课程数</a> </li>
+<li><img src="img/tjxximg.png"/> <a href="http://syxt.xjtu.edu.cn/list_data2.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1093" onclick='_addDynClicks("wburl", 1479877527, 43027)' title="活跃用户数">活跃用户数</a> </li>
+<li><img src="img/tjxximg.png"/> <a href="http://syxt.xjtu.edu.cn/list_data4.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1095" onclick='_addDynClicks("wburl", 1479877527, 44868)' title="页面浏览量">页面浏览量</a> </li>
+<!--#endeditable--></ul></div>
+<div class="kctop2"><span class="title">常见问题及解答</span><span class="ywvido"></span><span class="more"><a class="moress" href="cjwt.htm">更多&gt;&gt;</a></span> </div>
+<div class="kcbottom2"><!--#begineditable clone="0" namechanged="0" order="17" ispublic="0" tagname="常见问题及解答-标题列表" viewid="205023" contentviewid="" contype="" stylesysid="" layout="" action="" name="常见问题及解答-标题列表"--><ul>
+<li><img src="img/xjjdsanjiao.png"/> <a href="info/1024/1244.htm" target="_blank" title="在线学习平台常见问题解答——智慧树">在线学习平台常见问题解答—...</a> </li>
+<li><img src="img/xjjdsanjiao.png"/> <a href="info/1024/1243.htm" target="_blank" title="在线学习平台常见问题解答——超星尔雅">在线学习平台常见问题解答—...</a> </li>
+<li><img src="img/xjjdsanjiao.png"/> <a href="info/1024/1241.htm" target="_blank" title="在线学习平台常见问题解答——好大学在线">在线学习平台常见问题解答—...</a> </li>
+<li><img src="img/xjjdsanjiao.png"/> <a href="info/1024/1240.htm" target="_blank" title="在线学习平台常见问题解答——学堂在线/西交慕课">在线学习平台常见问题解答—...</a> </li>
+</ul><script>_showDynClickBatch(['dynclicks_u27_1244','dynclicks_u27_1243','dynclicks_u27_1241','dynclicks_u27_1240'],[1244,1243,1241,1240],"wbnews", 1479877527)</script>
+<!--#endeditable--></div></div>
+<div class="ksright">
+<div class="ksrtop"><span class="title">常用信息</span><span class="ywvido">INFO</span><span class="more"><a href="#"></a></span> </div>
+<div class="ksrbottom">
+<ul>
+<li><img src="img/ddhh2_03.png"/><!--#begineditable clone="0" namechanged="0" order="18" ispublic="0" tagname="电话-文本框" viewid="205015" contentviewid="" contype="" stylesysid="" layout="" action="" name="电话-文本框"--><script language="javascript" src="/system/resource/js/news/mp4video.js"></script>
+<span style="font-size: 22px; color: #252525; padding-bottom: 10px">029-82668307</span><!--#endeditable-->
+<li><!--#begineditable clone="0" namechanged="0" order="19" ispublic="0" tagname="地址-文本框" viewid="205016" contentviewid="" contype="" stylesysid="" layout="" action="" name="地址-文本框"-->
+<p> <span style="font-size: 15px;color: #252525;">教务处信息与资源建设科<br/></span> </p><!--#endeditable--></li></li></ul></div>
+<div class="ksrtop2"></div>
+<div class="ksrbottom2">
+<div class="kb2"><!--#begineditable clone="0" namechanged="0" order="20" ispublic="0" tagname="二维码-图片列表" viewid="205017" contentviewid="" contype="" stylesysid="" layout="" action="" name="二维码-图片列表"-->
+<a href="" onclick='_addDynClicks("wbimage", 1479877527, 42923)' target="_blank" title="">
+<img border="0" height="95" src="images/18/08/15/65gal5enz5/syxtewm.jpg" width="95"/>
+</a>
+<!--#endeditable--><span style="font-size: 15px; color: #252525">扫描二维码关注“西安交通大学教务处”微信公众号</span> </div></div></div></div></div>
+<div class="bqbq"><!--#begineditable clone="0" namechanged="0" order="21" ispublic="0" tagname="版权" viewid="205018" contentviewid="" contype="" stylesysid="" layout="" action="" name="版权"--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p style="white-space: normal;"><img align="absmiddle" src="favicon.ico">主办单位：<a href="http://jwc.xjtu.edu.cn/" style="color:white" target="_blank" title="点此进入【西安交通大学教务处网站】">西安交通大学教务处</a><br>地址及电话：<a href="https://j.map.baidu.com/091jO" style="color:white" target="_blank" textvalue="西安交通大学兴庆校区教学主楼" title="在百度地图中查看该地址">西安交通大学兴庆校区教学主楼</a>1304#  029-82665422</br></img></p><p style="white-space: normal;"><br/></p><!--#endeditable--></div></div>
+</body></html>

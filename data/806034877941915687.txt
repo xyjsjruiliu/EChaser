@@ -1,0 +1,597 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="zh-CN" xml:lang="zh-CN" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="EZgeHa6VjH" name="baidu-site-verification"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta content="IE=8" http-equiv="X-UA-Compatible"/>
+<title>西安交通大学-学术资源平台</title>
+<meta content="" name="description"/>
+<meta content="" name="keywords"/>
+<link href="/css/style.css" rel="stylesheet" type="text/css"/>
+<link href="/css/detail.css" rel="stylesheet" type="text/css"/>
+<script src="/js/libs/jquery-1.6.2.min.js" type="text/javascript"></script>
+<script src="js/libs/slides.min.jquery.js" type="text/javascript"></script>
+<script src="/dwr/interface/content.js" type="text/javascript"></script>
+<script src="/dwr/engine.js" type="text/javascript"></script>
+<script src="/dwr/util.js" type="text/javascript"></script>
+<script src="/webjs/contentlinks.js" type="text/javascript"></script>
+<script type="text/javascript">
+	jQuery(document).ready(function() {
+	jQuery("#searchgbtn").click(function(){
+		var s = encodeURIComponent(jQuery("#s").val());		
+		var a = document.createElement('a');
+		a.href='/sitesearch/search.jsp?q=' + s;
+		a.target = '_blank';
+		document.body.appendChild(a);
+		a.click();		
+		return false;
+	});
+	
+	
+});
+</script>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+
+	// hide #back-top first
+	jQuery("#back-top").hide();
+	
+	// fade in #back-top
+	jQuery(function () {
+		jQuery(window).scroll(function () {
+			if (jQuery(this).scrollTop() > 100) {
+				jQuery('#back-top').fadeIn();
+			} else {
+				jQuery('#back-top').fadeOut();
+			}
+		});
+
+		// scroll body to 0px on click
+		jQuery('#back-top a').click(function () {
+			jQuery('body,html').animate({
+				scrollTop: 0
+			}, 800);
+			return false;
+		});
+	});
+
+});
+</script>
+</meta></head>
+<body>
+<div id="top-bar">
+<div id="top-bar-inner">
+<div class="fl quick-nav">
+<a href="">关于本站</a>
+<a href="/lianxi.html">联系我们</a>
+<a href="">English Version</a>
+</div><!-- /.quick-nav -->
+<div class="fr possess">
+<span>主管：中华人民共和国教育部科技发展中心</span> <span>主办：西安交通大学</span>
+</div>
+</div><!-- /top-bar-inner -->
+</div><!-- /top-bar -->
+<div id="header">
+<div id="header-inner">
+<div id="logo">
+<h1 class="hide-text">西安交通大学-学术资源平台</h1>
+<a href=""><img alt="" height="76" src="/images/logo.png" width="538"/></a>
+</div><!-- /logo -->
+<div id="nav">
+<ul class="group">
+<li><a href="http://icrp.xjtu.edu.cn/" target="_blank"><span>conference</span>国际会议发布</a></li>
+<li><a href="http://202.117.56.29/" target="_blank"><span>Campus online</span>校内在线</a></li>
+<li><a href="/lecturenotices/23/videotype/1" target="_blank"><span>Training</span>创优培训</a></li>
+</ul>
+</div><!-- /nav -->
+</div><!-- /header-inner -->
+</div><!-- /header -->
+<div id="banner">
+<div id="banner-inner">
+<div id="feature-list">
+<div id="search-box">
+<div class="search-box">
+<form action="">
+<input class="ipt" id="s" name="" type="text" value=""/>
+<button class="btn" id="searchgbtn" type="submit"><span class="hide-text">搜索</span></button>
+</form>
+</div>
+</div>
+<ul id="slide-nav">
+<li class="current">
+<a href="/lecturenotices/1/videotype/1" target="_blank" title="外国语论坛"><strong>外国语论坛</strong><span>
+										外国语论坛
+					
+										</span></a> </li>
+<li>
+<a href="/lecturenotices/2/videotype/1" target="_blank" title="共享人文社会学科知识，了解当代人文学科的前沿论点"><strong>学而讲坛</strong><span>
+										共享人文社会学科知识，了解当代人文学科...
+					
+										</span></a> </li>
+<li>
+<a href="/lecturenotices/3/videotype/1" target="_blank" title="创源无限，启迪智慧，学贯东西，引领风骚"><strong>创源论坛</strong><span>
+										创源无限，启迪智慧，学贯东西，引领风骚
+					
+										</span></a> </li>
+<li>
+<a href="/lecturenotices/4/videotype/1" target="_blank" title="开拓国际视野、丰富前沿知识、促进全面发展"><strong>九州名家</strong><span>
+										开拓国际视野、丰富前沿知识、促进全面发...
+					
+										</span></a> </li>
+</ul>
+<ul id="slide-content">
+<li><a href="/lecturenotices/1/videotype/1" target="_blank"><img alt="" height="254" src="/uploadfile/images/20130704112122538.jpg" width="724"/></a> </li>
+<li><a href="/lecturenotices/2/videotype/1" target="_blank"><img alt="" height="254" src="/uploadfile/images/20130704010401214.jpg" width="724"/></a> </li>
+<li><a href="/lecturenotices/3/videotype/1" target="_blank"><img alt="" height="254" src="/uploadfile/images/20130704010426387.jpg" width="724"/></a> </li>
+<li><a href="/lecturenotices/4/videotype/1" target="_blank"><img alt="" height="254" src="/uploadfile/images/20130704010511176.jpg" width="724"/></a> </li>
+</ul>
+</div><!-- /feature-list -->
+</div><!-- /banner-inner -->
+</div><!-- /banner -->
+<div id="main-nav">
+<div id="main-nav-inner">
+<ul class="group">
+<li class="nav-item-2"><a href="/lecturenotices/list/1" target="_blank">预告信息</a></li>
+<li class="nav-item-3"><a href="/lecturevideos/list/1" target="_blank">学术视频</a></li>
+<li class="nav-item-4"><a href="/lecturers/list/1" target="_blank">名师风采</a></li>
+<li class="nav-item-5"><a href="/lectures/list/1" target="_blank">资料下载</a></li>
+<li class="nav-item-6"><a href="http://oc.xjtu.edu.cn" target="_blank">网络公开课</a></li>
+<li class="nav-item-7"><a href="http://202.117.3.43:908/" target="_blank">核心设备论坛</a></li>
+<li class="nav-item-9"><a href="http://bbs.xjtu.edu.cn/BMYHNATPOTULCDPADMHQDERWMESOJZTTSUIP_B/home?B=AcdemicClub" target="_blank">学术沙龙</a></li>
+<li class="nav-item-8"><a href="http://itunesu.xjtu.edu.cn/" target="_blank">iTunes U</a></li>
+<li class="nav-item-1 current"><a href="/news/3/list/1" target="_blank">学术文章</a></li>
+</ul>
+</div><!-- /main-nav-inner -->
+</div><!-- /main-nav -->
+<div id="content">
+<div id="content-inner">
+<div class="layout gird-ms">
+<div class="col-main">
+<div class="tabs channel-list" id="J_tabs">
+<ul class="tabs-hd">
+<li class="tabs-trigger first current"><a href="/lecturenotices/list/1" target="_blank"><span>Lecture</span>讲座预告</a></li>
+<li class="tabs-trigger"><a href="/meetingnotices/list/1" target="_blank"><span>Conference</span>会议预告</a></li>
+<li class="tabs-trigger"><a href="/news/1/list/1" target="_blank"><span>Academic</span>学术动态</a></li>
+<li class="tabs-trigger"><a href="/lecturevideos/list/1" target="_blank"><span>Video</span>讲座视频</a></li>
+<li class="tabs-trigger"><a href="/lecturers/list/1" target="_blank"><span>Teachers</span>名师风采</a></li>
+</ul>
+<div class="tabs-bd">
+<div class="tabs-panel" style="display:block;">
+<table class="table lecture">
+<thead>
+<tr>
+<th>讲座名称</th>
+<th>讲座地点</th>
+<th>讲座人</th>
+<th> 讲座时间</th>
+</tr>
+</thead>
+<tbody>
+<!--shortlecturenoticescount-5-shortlecturenoticescountend-->
+<tr>
+<td><a href="lecturenotice/5644.htm" target="_blank" title="Seismic Metamaterials with Low Frequency Wide Bandgaps Using Steel Barriers">Seismic Metamaterials with Low Frequency...</a></td>
+<td><a href="lecturenotice/5644.htm" target="_blank" title="航天学院 第四会议室">航天学院 第四...</a></td>
+<td class="tc"><a href="lecturer/5217.htm" target="_blank">C. W. Lim</a></td>
+<td class="tc"><a href="lecturenotice/5644.htm" target="_blank">
+																						2020-01-10 10:30
+																						</a></td>
+</tr>
+<tr>
+<td><a href="lecturenotice/5643.htm" target="_blank" title="【前沿讲坛】Wettability matched interface for high efficiency heterogeneous catalysis">【前沿讲坛】Wettability matched interfac...</a></td>
+<td><a href="lecturenotice/5643.htm" target="_blank" title="西二楼 A102，曲江校区">西二楼 A102，...</a></td>
+<td class="tc"><a href="lecturer/5216.htm" target="_blank">宋卫国</a></td>
+<td class="tc"><a href="lecturenotice/5643.htm" target="_blank">
+																						2020-01-10 16:00
+																						</a></td>
+</tr>
+<tr>
+<td><a href="lecturenotice/5642.htm" target="_blank" title="全面学习领会习近平强军思想">全面学习领会习近平强军思想</a></td>
+<td><a href="lecturenotice/5642.htm" target="_blank" title="创新港校区5-6108">创新港校区5-61...</a></td>
+<td class="tc"><a href="lecturer/5215.htm" target="_blank">李业平</a></td>
+<td class="tc"><a href="lecturenotice/5642.htm" target="_blank">
+																						2020-01-07 14:30
+																						</a></td>
+</tr>
+<tr>
+<td><a href="lecturenotice/5641.htm" target="_blank" title="Tiling of the plane">Tiling of the plane</a></td>
+<td><a href="lecturenotice/5641.htm" target="_blank" title="数学楼2-1会议室">数学楼2-1会议...</a></td>
+<td class="tc"><a href="lecturer/5214.htm" target="_blank">Nicolas Bedaride</a></td>
+<td class="tc"><a href="lecturenotice/5641.htm" target="_blank">
+																						2020-01-07 16:30
+																						</a></td>
+</tr>
+<tr>
+<td><a href="lecturenotice/5640.htm" target="_blank" title="元启发式算法—粒子群优化算法">元启发式算法—粒子群优化算法</a></td>
+<td><a href="lecturenotice/5640.htm" target="_blank" title="创新港高端装备研究所2-2057">创新港高端装备...</a></td>
+<td class="tc"><a href="lecturer/5213.htm" target="_blank">郭毅明</a></td>
+<td class="tc"><a href="lecturenotice/5640.htm" target="_blank">
+																						2020-01-05 09:00
+																						</a></td>
+</tr>
+</tbody>
+</table>
+<p class="tr lecture-more"><a href="/lecturenotices/list/1" target="_blank">Read more &gt;&gt;</a></p>
+</div>
+<div class="tabs-panel">
+<table class="table conference">
+<thead>
+<tr>
+<th>会议名称</th>
+<th>会议时间</th>
+<th>会议地点</th>
+</tr>
+</thead>
+<tbody>
+<!--shortmeetingnoticescount-5-shortmeetingnoticescountend-->
+</tbody>
+</table>
+<p class="tr conference-more"><a href="/meetingnotices/list/1" target="_blank">Read more &gt;&gt;</a></p>
+</div>
+<div class="tabs-panel">
+<div class="academic">
+<div class="pic">
+<img alt="" height="186" src="/images/_resources/1.jpg" width="253"/>
+</div>
+<div class="desc">
+<ul class="academic-list">
+<!--shortacademicarticlescount-7-shortacademicarticlescountend-->
+<li><a href="news/3/1808.htm" title="第七届全国高校马克思主义学院院长论坛在北京大学召开">第七届全国高校马克思主义学院院长论坛在北京大学召开</a> <span>04.15</span></li>
+<li><a href="news/3/1356.htm" title="饶子和等揭示“脱衣壳”：阻击甲肝病毒">饶子和等揭示“脱衣壳”：阻击甲肝病毒</a> <span>11.25</span></li>
+<li><a href="news/3/1355.htm" title="欧洲核子研究中心再发现两个新粒子">欧洲核子研究中心再发现两个新粒子</a> <span>11.25</span></li>
+<li><a href="news/3/1334.htm" title="微生物的导电功能再获力证">微生物的导电功能再获力证</a> <span>10.28</span></li>
+<li><a href="news/3/1300.htm" title="刘昌明院士：南水北调是“解渴” 不会无止境调水 ">刘昌明院士：南水北调是“解渴” 不会无止境调水 </a> <span>06.24</span></li>
+<li><a href="news/3/1262.htm" title="科学家研发生物燃料电池 效率近乎百分百">科学家研发生物燃料电池 效率近乎百分百</a> <span>03.05</span></li>
+<li><a href="news/3/1261.htm" title="科学家设计出声场旋转器">科学家设计出声场旋转器</a> <span>03.05</span></li>
+</ul>
+<p class="tr lecture-more">
+<a href="/news/1/list/1">Read more&gt;&gt;</a>
+</p>
+</div>
+</div>
+</div>
+<div class="tabs-panel">
+<div class="video">
+<div class="pic">
+<img alt="" height="186" src="/images/_resources/2.jpg" width="253"/>
+</div>
+<div class="desc">
+<ul class="video-list">
+<!--shortlecturevideoscount-7-shortlecturevideoscountend-->
+<li><a href="lecturevideo/2885.htm" title="宪法是一种生活方式">宪法是一种生活方式</a> <span>08.09</span></li>
+<li><a href="lecturevideo/2713.htm" title="野依良治：诺贝尔化学奖获得者野依良治学术报告">野依良治：诺贝尔化学奖获得者野依良治学术报告</a> <span>07.12</span></li>
+<li><a href="lecturevideo/2625.htm" title="Michelle Healy：WTO法系列讲座(1)">Michelle Healy：WTO法系列讲座(1)</a> <span>06.19</span></li>
+<li><a href="lecturevideo/2094.htm" title="雷清泉：纳米电介质的结构和运动的时空多层次性及其思考1">雷清泉：纳米电介质的结构和运动的时空多层次性及其思考1</a> <span>05.26</span></li>
+<li><a href="lecturevideo/2092.htm" title="Oliver E. Williamson：Transaction Cost Economics: The Natural Progression1">Oliver E. Williamson：Transaction Cost Economics: The ...</a> <span>05.26</span></li>
+<li><a href="lecturevideo/2090.htm" title="Donna Kelley：Global Entrepreneurship Monitor: 2010 Global Report1">Donna Kelley：Global Entrepreneurship Monitor: 2010 Gl...</a> <span>05.26</span></li>
+<li><a href="lecturevideo/2071.htm" title="Utaka：Microlaver characteristics in boiling and Marang oni condensation1">Utaka：Microlaver characteristics in boiling and Maran...</a> <span>05.26</span></li>
+</ul>
+<p class="tr lecture-more">
+<a class="more" href="/lecturevideos/list/1" target="_blank">Read more&gt;&gt;</a>
+</p>
+</div>
+</div>
+</div>
+<div class="tabs-panel">
+<div class="teachers">
+<!--shortteacherscount-8-shortteacherscountend-->
+<dl class="teacher-item">
+<dd class="teacher-pic">
+<a href="lecturer/4895.htm" target="_blank">
+<img alt="" height="70" src="/uploadfile/images/20190509115220586.jpg" width="70"/>
+</a>
+</dd>
+<dt class="teacher-name">
+<strong><a href="lecturer/4895.htm" target="_blank" title="Paul B. Stephan">Paul B. ...</a></strong>
+<em><a href="lecturer/4895.htm" target="_blank">国际法专家</a></em>
+</dt>
+</dl>
+<dl class="teacher-item">
+<dd class="teacher-pic">
+<a href="lecturer/3162.htm" target="_blank">
+<img alt="" height="70" src="/uploadfile/images/20141126031352460.jpg" width="70"/>
+</a>
+</dd>
+<dt class="teacher-name">
+<strong><a href="lecturer/3162.htm" target="_blank" title="张钹">张钹</a></strong>
+<em><a href="lecturer/3162.htm" target="_blank">院士</a></em>
+</dt>
+</dl>
+<dl class="teacher-item">
+<dd class="teacher-pic">
+<a href="lecturer/3954.htm" target="_blank">
+<img alt="" height="70" src="/uploadfile/images/20161226110918213.jpg" width="70"/>
+</a>
+</dd>
+<dt class="teacher-name">
+<strong><a href="lecturer/3954.htm" target="_blank" title="包为民">包为民</a></strong>
+<em><a href="lecturer/3954.htm" target="_blank">院士</a></em>
+</dt>
+</dl>
+<dl class="teacher-item">
+<dd class="teacher-pic">
+<a href="lecturer/3043.htm" target="_blank">
+<img alt="" height="70" src="/uploadfile/images/20140917085833171.jpg" width="70"/>
+</a>
+</dd>
+<dt class="teacher-name">
+<strong><a href="lecturer/3043.htm" target="_blank" title="Ramon A Wyss">Ramon A ...</a></strong>
+<em><a href="lecturer/3043.htm" target="_blank">教授</a></em>
+<span><a href="lecturevideo/2761.htm" target="_blank" title="“国际教育”讲坛——瑞典皇家理工学院副校长Ramon Wyss教授讲座通知">“国际教...</a></span>
+</dt>
+</dl>
+<dl class="teacher-item">
+<dd class="teacher-pic">
+<a href="lecturer/3029.htm" target="_blank">
+<img alt="" height="70" src="/uploadfile/images/2014091104202342.jpg" width="70"/>
+</a>
+</dd>
+<dt class="teacher-name">
+<strong><a href="lecturer/3029.htm" target="_blank" title="安德鲁拉 瓦西利乌">安德鲁拉...</a></strong>
+<em><a href="lecturer/3029.htm" target="_blank">委员</a></em>
+</dt>
+</dl>
+<dl class="teacher-item">
+<dd class="teacher-pic">
+<a href="lecturer/2979.htm" target="_blank">
+<img alt="" height="70" src="/uploadfile/images/20140707043655294.jpg" width="70"/>
+</a>
+</dd>
+<dt class="teacher-name">
+<strong><a href="lecturer/2979.htm" target="_blank" title="伊万·麦肯德里克">伊万·麦...</a></strong>
+<em><a href="lecturer/2979.htm" target="_blank">副校长</a></em>
+</dt>
+</dl>
+<dl class="teacher-item">
+<dd class="teacher-pic">
+<a href="lecturer/2928.htm" target="_blank">
+<img alt="" height="70" src="/uploadfile/images/20140619040142579.jpg" width="70"/>
+</a>
+</dd>
+<dt class="teacher-name">
+<strong><a href="lecturer/2928.htm" target="_blank" title="黄琳">黄琳</a></strong>
+<em><a href="lecturer/2928.htm" target="_blank">院士</a></em>
+</dt>
+</dl>
+<dl class="teacher-item">
+<dd class="teacher-pic">
+<a href="lecturer/2887.htm" target="_blank">
+<img alt="" height="70" src="/uploadfile/images/20140605104030390.jpg" width="70"/>
+</a>
+</dd>
+<dt class="teacher-name">
+<strong><a href="lecturer/2887.htm" target="_blank" title="姚建铨">姚建铨</a></strong>
+<em><a href="lecturer/2887.htm" target="_blank">院士</a></em>
+</dt>
+</dl>
+<div class="clear"></div>
+<p class="tr lecture-more">
+<a href="/lecturers/list/1" target="_blank">Read more&gt;&gt;</a>
+</p>
+</div>
+</div>
+</div>
+</div><!-- /menu -->
+<div class="clear"></div>
+<div class="fl subject-menu">
+<div class="hd">
+<h2><a href="/lecturenotices/1/subject/1">学科列表</a></h2>
+<a class="more" href="/lecturenotices/1/subject/1">Subject</a>
+</div>
+<div class="bd">
+<ul class="list">
+<!--shortsubjectscount-5-shortsubjectscountend-->
+<li><a href="/lecturenotices/7/subject/1" target="_blank"><i class="icon-1"></i>理学</a></li>
+<li><a href="/lecturenotices/2/subject/1" target="_blank"><i class="icon-1"></i>工学</a></li>
+<li><a href="/lecturenotices/11/subject/1" target="_blank"><i class="icon-1"></i>医学</a></li>
+<li><a href="/lecturenotices/5/subject/1" target="_blank"><i class="icon-1"></i>经济学</a></li>
+<li><a href="/lecturenotices/3/subject/1" target="_blank"><i class="icon-1"></i>管理学</a></li>
+<li><a href="/lecturenotices/10/subject/1" target="_blank"><i class="icon-1"></i>文学</a></li>
+<li><a href="/lecturenotices/1/subject/1" target="_blank"><i class="icon-1"></i>法学</a></li>
+<li><a href="/lecturenotices/12/subject/1" target="_blank"><i class="icon-1"></i>哲学</a></li>
+<li><a href="/lecturenotices/4/subject/1" target="_blank"><i class="icon-1"></i>教育学</a></li>
+<li><a href="/lecturenotices/6/subject/1" target="_blank"><i class="icon-1"></i>艺术学</a></li>
+</ul>
+</div>
+</div><!-- /subject-menu -->
+<div class="fr college-menu">
+<div class="hd">
+<h2><a href="/lecturenotices/1/videotype/1">系列讲座</a></h2>
+<a class="more" href="/lecturenotices/1/videotype/1">Lecture</a>
+</div>
+<div class="bd">
+<ul class="list">
+<!--shortvideotypescount-4-shortvideotypescountend-->
+<li>
+<div class="pic">
+<a href="/lecturenotices/1/videotype/1" target="_blank" title=""><img alt="" height="58" src="/uploadfile/images/20130704112122538.jpg" width="77"/></a>
+</div>
+<h3><a href="/lecturenotices/1/videotype/1" target="_blank">外国语论坛</a></h3>
+</li>
+<li>
+<div class="pic">
+<a href="/lecturenotices/2/videotype/1" target="_blank" title=""><img alt="" height="58" src="/uploadfile/images/20130704010401214.jpg" width="77"/></a>
+</div>
+<h3><a href="/lecturenotices/2/videotype/1" target="_blank">学而讲坛</a></h3>
+</li>
+<li>
+<div class="pic">
+<a href="/lecturenotices/3/videotype/1" target="_blank" title=""><img alt="" height="58" src="/uploadfile/images/20130704010426387.jpg" width="77"/></a>
+</div>
+<h3><a href="/lecturenotices/3/videotype/1" target="_blank">创源论坛</a></h3>
+</li>
+<li>
+<div class="pic">
+<a href="/lecturenotices/4/videotype/1" target="_blank" title=""><img alt="" height="58" src="/uploadfile/images/20130704010511176.jpg" width="77"/></a>
+</div>
+<h3><a href="/lecturenotices/4/videotype/1" target="_blank">九州名家</a></h3>
+</li>
+<li>
+<div class="pic">
+<a href="/lecturenotices/6/videotype/1" target="_blank" title=""><img alt="" height="58" src="/uploadfile/images/20130704022103558.jpg" width="77"/></a>
+</div>
+<h3><a href="/lecturenotices/6/videotype/1" target="_blank">名家讲座</a></h3>
+</li>
+<li>
+<div class="pic">
+<a href="/lecturenotices/24/videotype/1" target="_blank" title=""><img alt="" height="58" src="/uploadfile/images/20181205090244508.jpg" width="77"/></a>
+</div>
+<h3><a href="/lecturenotices/24/videotype/1" target="_blank">周惠久论坛</a></h3>
+</li>
+</ul>
+</div>
+</div><!-- /college-menu -->
+</div><!-- /col-main -->
+<div class="col-sub">
+<div class="science-notice">
+<div class="hd">
+<h2><a href="/news/2/list/1" target="_blank">学术通知</a></h2>
+</div>
+<div class="bd">
+<ul class="list">
+<!--shortnoticescount-5-shortnoticescountend-->
+<li><a href="news/2/1867.htm" title="【讲座】揭秘IEEE：高效文献调研与学术发表">【讲座】揭秘IEEE：高效文献调研与学术发表</a></li>
+<li><a href="news/2/1863.htm" title="分析测试技术论坛（第24期）—纳米尺度无标记高光谱成像技术在生命科学及纳米材料科学领域的应用">分析测试技术论坛（第24期）—纳米尺度无标记高光谱成像技术在生...</a></li>
+<li><a href="news/2/1862.htm" title="分析测试技术论坛（第23期）—爱丁堡荧光高端耦合及其应用分析探讨">分析测试技术论坛（第23期）—爱丁堡荧光高端耦合及其应用分析探...</a></li>
+<li><a href="news/2/1861.htm" title="创新港法学“导师论坛”（英文系列） Innovation Harbour Law Series “Supervisor Forum”">创新港法学“导师论坛”（英文系列） Innovation Harbour Law Se...</a></li>
+<li><a href="news/2/1853.htm" title="德州农工大学（TAMU）Luis A. San Andres学术报告">德州农工大学（TAMU）Luis A. San Andres学术报告</a></li>
+</ul>
+</div>
+</div><!-- /science-notice -->
+<div class="science-forum">
+<div class="hd">
+<h2><a href="/forums/list/1" target="_blank">学术论坛</a></h2>
+</div>
+<div class="bd">
+<ul class="list">
+<!--shortforumscount-7-shortforumscountend-->
+<li><a href="http://kbs.cnki.net/forums/Index.aspx" title="CNKI学术论坛">CNKI学术论坛</a></li>
+<li><a href="http://www.physicsforums.com/" title="Physics Forums">Physics Forums</a></li>
+<li><a href="http://www.advancedphysics.org/" title="Advanced Physics">Advanced Physics</a></li>
+<li><a href="http://windward.hawaii.edu/chemistry_Forum/2008_Fall/" title="Community Forum in Chemistry">Community Forum in Chemistry</a></li>
+<li><a href="http://www.imechanica.org/profile/profile_12/Suo+Research+Group" title="Suo Research Group">Suo Research Group</a></li>
+<li><a href="http://www.worldliteratureforum.com/forum/" title="World Literature Forum">World Literature Forum</a></li>
+<li><a href="http://highwire.stanford.edu/" title="HighWire Press">HighWire Press</a></li>
+</ul>
+</div>
+</div><!-- /science-forum -->
+</div><!-- /col-sub -->
+</div><!-- /layout -->
+<div class="layout">
+<!--<div class="fl gkke">
+					<div class="hd">
+						<h2><a target="_blank" href="http://oc.xjtu.edu.cn">网络公开课</a></h2>
+					</div>
+					<div class="bd">
+						<div class="subject-list" id="result5">
+														
+						</div>
+					</div>
+				</div>--><!-- /gkke -->
+<div class="fl gkke">
+<div class="hd">
+<h2><a href="/meetingvideos/list/1" target="_blank">会议视频</a></h2>
+</div>
+<div class="bd">
+<div class="subject-list">
+<!--shortmeetingvideoscount-4-shortmeetingvideoscountend-->
+<dl class="subject-item">
+<dd class="subject-pic">
+<a href="meetingvideo/212.htm" target="_blank">
+<img height="60" src="/image_hysp/1305200368445800891.JPG" width="120"/></a>
+</dd>
+<dt class="subject-title">开幕式：第十七届信息论学术年会</dt>
+<dd class="subject-info">演讲人：开幕式</dd>
+</dl>
+<dl class="subject-item">
+<dd class="subject-pic">
+<a href="meetingvideo/211.htm" target="_blank">
+<img height="60" src="/image_hysp/1305200290953254875.JPG" width="120"/></a>
+</dd>
+<dt class="subject-title">Chen?Ximei：第十七届信息论学术年会</dt>
+<dd class="subject-info">演讲人：Chen Ximei</dd>
+</dl>
+<dl class="subject-item">
+<dd class="subject-pic">
+<a href="meetingvideo/210.htm" target="_blank">
+<img height="60" src="/uploadfile/images/20170512112306348.jpg" width="120"/></a>
+</dd>
+<dt class="subject-title">胡玉濮：第十七届信息论学术年会</dt>
+<dd class="subject-info">演讲人：胡玉濮</dd>
+</dl>
+<dl class="subject-item">
+<dd class="subject-pic">
+<a href="meetingvideo/209.htm" target="_blank">
+<img height="60" src="/image_hysp/1305200138696552814.JPG" width="120"/></a>
+</dd>
+<dt class="subject-title">林舒：第十七届信息论学术年会</dt>
+<dd class="subject-info">演讲人：林舒</dd>
+</dl>
+</div>
+</div>
+</div><!-- /gkke -->
+<div class="fr faculty-list">
+<div class="hd">
+<h2>学院排行</h2>
+</div>
+<div class="bd">
+<div class="inner">
+<ol class="course-list">
+<!--shortcollegescount-5-shortcollegescountend-->
+<li class="top">
+<em>1</em><a href="/lecturenotices/11/college/1">人文学院</a></li>
+<li class="top">
+<em>2</em><a href="/lecturenotices/5/college/1">能动学院</a></li>
+<li class="top">
+<em>3</em><a href="/lecturenotices/10/college/1">理学院</a></li>
+<li>
+<em>4</em><a href="/lecturenotices/9/college/1">管理学院</a></li>
+<li>
+<em>5</em><a href="/lecturenotices/6/college/1">电气学院</a></li>
+</ol>
+</div>
+</div>
+</div><!-- /faculty-list -->
+</div><!-- /layout -->
+</div><!-- /content-inner -->
+</div><!-- /content -->
+<div id="footer">
+<div id="footer-inner">
+<div class="fl copyright">
+<a href="http://map.baidu.com/?newmap=1&amp;s=con%26wd%3D%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%9C%B0%E5%9B%BE%26c%3D233&amp;fr=alam0&amp;ext=1&amp;from=alamap" target="_blank">地址：陕西省西安市咸宁西路28号</a> 邮编：710049 <br/>
+				版权所有：<a href="http://www.xjtu.edu.cn/" target="_blank">西安交通大学</a> 建设与维护：网络信息中心   陕ICP备06008037号
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1000121966'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1000121966%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+<div class="fr links">
+<select name="" onchange="javascript:if(this.options[this.selectedIndex].value!='') window.open(this.options[this.selectedIndex].value)">
+<option value="">友情链接</option>
+<option value="http://www.moe.edu.cn/">教育部</option>
+<option value="http://www.meeting.edu.cn/meeting/">中国学术会议在线</option>
+<option value="http://www.paper.edu.cn/">中国科技论文在线</option>
+</select>
+</div>
+</div><!-- /footer-inner -->
+</div><!-- /footer -->
+<div id="bottom-bar"></div><!-- /bottom-bar -->
+<!--javascript start-->
+<script src="/js/site.js" type="text/javascript"></script>
+<!--javascript end-->
+<div id="pagewrap">
+<p id="back-top">
+<a href="#top"><span></span>Back to Top</a>
+</p>
+</div>
+<!-- ShareTo Button BEGIN 一键分享 -->
+<script charset="utf-8" src="http://s.shareto.com.cn/js/shareto_float.js#color=4&amp;align=right&amp;move=0" type="text/javascript"></script>
+<!-- ShareTo Button END -->
+<!--[if IE 6]>
+<script type="text/javascript" src="js/libs/dd_belatedpng.js"></script>
+<script type="text/javascript">
+window.onload=function(){
+  DD_belatedPNG.fix('.mod .hd h2,.icon,.new-bar,.links h2');
+}
+</script>
+<![endif]-->
+<!-- end scripts-->
+</body>
+</html>

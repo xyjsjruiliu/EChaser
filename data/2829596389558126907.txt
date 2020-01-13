@@ -1,0 +1,854 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html><head><title>第三届“一带一路”全球健康国际研讨会暨丝绸之路大学联盟2019全球健康论坛第二轮会议通知-西安交大新闻网</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="CSS:AloeR@BMY,美工设计:阿颖" name="author"/>
+<meta content="西安交通大学 新闻网XJTUNEWS" name="description"/><link href="../../AloeR/AloeR_news.css" rel="stylesheet" type="text/css"/><script language="JavaScript" src="../../AloeR/AloeR_news.js" type="text/JavaScript"></script><script src="http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=420961"></script><link href="http://bdimg.share.baidu.com/static/api/css/share_style0_16.css?v=6aba13f0.css" rel="stylesheet"/><link href="http://bdimg.share.baidu.com/static/api/css/share_popup.css?v=240f357d.css" rel="stylesheet"/><link href="http://bdimg.share.baidu.com/static/api/css/select_share.css?v=15f56735.css" rel="stylesheet"/>
+<script src="http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=426893"></script>
+<link href="http://bdimg.share.baidu.com/static/api/css/share_style0_16.css?v=8105b07e.css" rel="stylesheet"/><!--Announced by Visual SiteBuilder 9-->
+<link href="../../_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230697547545255564203030000 -->
+<link href="../../content.vsb.css" rel="stylesheet" type="text/css">
+<meta content="西安交大新闻网" name="keywords">
+<script src="../../system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1017,'/content.jsp',116024,1025023737)</script>
+</meta></link></link></head>
+<body tangram_guid="TANGRAM_5" target="_blank"><a 360chrome_form_autofill="2" href="../../xxyg.htm"></a>
+<div 360chrome_form_autofill="2" class="i_top">
+<div 360chrome_form_autofill="2" class="i_top_xjtu"><!--#begineditable contype="" name="交大LOGO" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="交大LOGO" viewid="43031" stylesysid=""--><table border="0" cellpadding="0" cellspacing="0"><tr><td><img alt="/AloeR/i_top_xjtu.jpg" border="0" src="../../AloeR/i_top_xjtu.jpg"/></td></tr></table><!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="i_top_news"><!--#begineditable contype="" name="新闻网logo" action="" layout="" clone="0" namechanged="0" order="1" ispublic="0" tagname="新闻网logo" viewid="43060" stylesysid=""-->
+<script language="javascript" src="../../system/resource/js/dynclicks.js"></script>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img border="0" height="85" hspace="3" src="../../newindex/pic/i_top_news.jpg" vspace="2" width="340"/></td>
+</tr>
+</table><!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="i_top_right" style="padding-top: 20px">
+<div 360chrome_form_autofill="2" class="i_top_datett"><script language="JavaScript" src="../../AloeR/datatime.js" type="text/javascript"></script>| <a 360chrome_form_autofill="2" class="i_white" href="http://xiaoli.xjtu.edu.cn" target="_blank">电子校历 </a></div>
+<div 360chrome_form_autofill="2" class="i_top_writesq" style="width: 112px;float: right"><a 360chrome_form_autofill="2" class="i_white" href="http://202.117.3.237:8080/system/contribute/login.jsp" target="_blank"><img 360chrome_form_autofill="2" data-bd-imgshare-binded="1" height="51" src="../../images/xwtg_r2_c2.jpg" tangram_guid="TANGRAM_18" width="112"/></a></div></div></div>
+<div 360chrome_form_autofill="2" class="i_menu"><!--#begineditable contype="" name="网站导航" action="" layout="" clone="0" namechanged="0" order="2" ispublic="0" tagname="网站导航" viewid="43061" stylesysid=""--> <div class="i_menu_home">
+<a class="i_home" href="../../index.htm">新闻网首页</a>
+<a class="i_home" href="http://www.xjtu.edu.cn" target="_blank">交大首页</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../zyxw.htm">主页新闻</a>
+<a class="i_menu" href="../../zhxw.htm">综合新闻</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../jyjx.htm">教育教学</a>
+<a class="i_menu" href="../../kydt.htm">科研动态</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../wshd.htm">外事活动</a>
+<a class="i_menu" href="../../zsjy.htm">招生就业</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../ybdt.htm">院部动态</a>
+<a class="i_menu" href="../../dcsy.htm">多彩书院</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../xysh.htm">校园生活</a>
+<a class="i_menu" href="../../syjt.htm">思源讲堂</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../rwfc.htm">人物风采</a>
+<a class="i_menu" href="../../xyzs.htm">校友之声</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../ylzx.htm">医疗在线</a>
+<a class="i_menu" href="../../shfw.htm">社会服务</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../mtjd.htm">媒体交大</a>
+<a class="i_menu" href="../../xwzh.htm">新闻纵横</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../xwzt.htm">新闻专题</a>
+<a class="i_menu" href="../../tpxw.htm">图片新闻</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../spjd.htm">视频交大</a>
+<a class="i_menu" href="../../llyd.htm">理论园地</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../xxyg.htm">信息预告</a>
+<a class="i_menu" href="../../xysb.htm">校园随笔</a>
+</div>
+<!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="i_menu_bottom"> </div>
+<div 360chrome_form_autofill="2" class="pw">
+<div 360chrome_form_autofill="2" class="i_left">
+<div 360chrome_form_autofill="2" class="l_location"><!--#begineditable contype="" name="当前位置" action="" layout="" clone="0" namechanged="0" order="3" ispublic="0" tagname="当前位置" viewid="42997" stylesysid=""-->
+<table cellpadding="0" cellspacing="0" class="winstyle42997"><tr><td nowrap="">
+<a href="../../index.htm"><span class="fontstyle42997">新闻网首页</span></a><span class="splitflagstyle42997"> &gt; </span><a href="../../xxyg.htm"><span class="fontstyle42997">信息预告</span></a><span class="splitflagstyle42997"> &gt; </span><span class="fontstyle42997">正文</span></td></tr></table><!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="l_split"> </div><!--#begineditable contype="" name="文章内容" action="" layout="" clone="0" namechanged="0" order="4" ispublic="0" tagname="文章内容" viewid="42979" stylesysid=""-->
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="../../system/resource/js/news/newscontent.js"></script><link href="../../system/resource/style/component/news/content/format2.css" rel="stylesheet" type="text/css"/><script language="javascript" src="../../system/resource/js/ajax.js"></script><script language="javascript" src="../../system/resource/js/jquery/jquery-latest.min.js"></script>
+<form name="_newscontent_fromname">
+<div>
+<input id="cc_title" name="cc_title" type="hidden" value="第三届“一带一路”全球健康国际研讨会暨丝绸之路大学联盟2019全球健康论坛第二轮会议通知"/>
+<div class="d_title"><p>第三届“一带一路”全球健康国际研讨会暨丝绸之路大学联盟</p>
+<p>2019全球健康论坛</p>
+<p>第二轮会议通知</p></div>
+<div class="d_author">来源：交大新闻网 日期 2019-07-03 17:13 点击：<script>_showDynClicks("wbnews", 1025023737, 116013)</script> </div>
+<div class="d_detail" id="lmz_content"><div id="vsb_newscontent"><p align="center"><b><img align="middle" border="0" src="../../_mediafile/news/2019/07/03/2coz1gn250.jpg" width="480"/></b></p>
+<p align="center"><b>第三届“一带一路”全球健康国际研讨会</b><b></b></p>
+<p align="center"><b>暨丝绸之路大学联盟</b><b>2019</b><b>全球健康论坛</b><b></b></p>
+<p align="center"><b>The 3<sup>rd</sup>Belt &amp; Road Initiative Global Health International Congress</b></p>
+<p align="center"><b>&amp; 2019 Global Health Forum of the University Alliance of the Silk Road</b></p>
+<p align="center"><b>2019</b><b>年9</b><b>月13</b><b>日~16</b><b>日,</b><b>中国•</b><b>西安</b></p>
+<p align="center"><b>September 13~16, 2019 Xi’an, China</b><b></b></p>
+<p align="center"><b></b></p>
+<p align="center"><b>第二轮会议通知</b><b></b></p>
+<p align="center">（2019年7月3日）</p>
+<p>第三届“一带一路”全球健康国际研讨会暨丝绸之路大学联盟2019全球健康论坛将于2019年9月13日~16日（周五~周一）在西安隆重召开，我们诚挚邀请您和同仁莅临参会！会议信息如下：</p>
+<p><b></b></p>
+<p><b>一、</b><b>会议主题</b></p>
+<p>共享发展机遇•共促全球健康</p>
+<p>Sharing Opportunities for Development • Promoting Health for the Globe</p>
+<p><b>二、主办单位</b></p>
+<p>西安交通大学全球健康研究院</p>
+<p>西安交通大学公共卫生学院</p>
+<p>西安交通大学医学部</p>
+<p>丝绸之路大学联盟健康子联盟</p>
+<p><b>三、主要协办单位</b></p>
+<p>联合国儿童基金会</p>
+<p>世界华人青年营养学者发展促进会</p>
+<p>中国卫生政策与管理学会（海外）</p>
+<p>中华预防医学会全球卫生分会</p>
+<p>中国营养学会</p>
+<p>国家体育总局体育科学研究所体医融合促进与创新研究中心</p>
+<p>行为健康学术论坛</p>
+<p>中国疾病预防控制中心营养与健康所</p>
+<p>中国疾病预防控制中心全球公共卫生中心</p>
+<p>人民卫生出版社系列期刊《全球健康杂志（英文）》（Global Health Journal）</p>
+<p>西安交通大学国际合作与交流处</p>
+<p>西安交通大学科研院</p>
+<p>西安交通大学公共政策与管理学院</p>
+<p>西安交通大学第一附属医院</p>
+<p>西安交通大学第二附属医院</p>
+<p>国家卫生健康委员会微量元素与地方病研究重点实验室</p>
+<p>西安交通大学国际教育学院</p>
+<p>西安交通大学实证社会科学研究所</p>
+<p>陕西省卫生改革发展研究中心</p>
+<p>陕西省卫生经济学会</p>
+<p>华为技术有限公司</p>
+<p>广东新南方青蒿药业股份有限公司</p>
+<p><b>新闻协办单位</b></p>
+<p>《极养视界》营养科教新媒体公众平台</p>
+<p>西安医邦医疗服务集团有限公司（医邦直播）</p>
+<p><b>四、会议时间、地点及重要活动安排</b></p>
+<p>2019年9月13日（周五）注册报到</p>
+<p>2019年9月14日（周六）大会开幕式、主旨论坛、专题论坛</p>
+<p>2019年9月15日（周日）专题论坛</p>
+<p>2019年9月16日 (周一) 特邀专家论坛、合作项目研讨会、培训班</p>
+<p>会议地点：古都文化大酒店</p>
+<p>地址：陕西省西安市莲湖路172号</p>
+<p>电话：029-87216868</p>
+<p><b>五、特邀专家</b><b></b></p>
+<p><a name="OLE_LINK9"></a>世界卫生组织、联合国儿童基金会、中国国家卫生健康委员会、中国疾病预防控制中心、亚太临床营养学会、中华预防医学会等机构的领导，及众多海内外知名专家学者、国内外高校校长、医院院长等学术大咖将参会并作报告。部分特邀专家简介请见附件1<strong>，</strong>更多专家信息详见会议手册。</p>
+<p><b>六、会议主要议题和</b><b>专题论坛</b></p>
+<p>会议将围绕全球重大健康议题展开研讨，设大会主旨论坛和多个专题论坛，并开展研究成果壁报，包括：</p>
+<p><strong>1.大会主旨论坛：</strong>特邀的国内外学科领域内资深专家和相关国际组织领导将报告，研讨国际上健康领域的重大和热点问题。</p>
+<p><strong>2.营养与健康论坛：</strong>多位国内外重量级专家将从国家策略到膳食结构，成人慢病到儿童肥胖，全民健康促进到临床营养干预，全面探讨营养对健康的影响。本论坛由西安交通大学全球健康研究院、世界华人青年营养学者发展促进会及中国营养学会共同主办。</p>
+<p><strong>3.系统科学、大数据、人工智能与移动健康论坛：</strong>汇集国际知名专家，分享和讨论创新的大数据科学分析方法，并将其纳入中国和全球的生物医学研究，促进系统科学、大数据、人工智能与移动健康与公共卫生的跨学科合作，为未来的研究和应用提供基础和建议。</p>
+<p><b>4.老龄健康与老年医学论坛</b>：为应对社会老龄化，关注老年医学热点，重视功能慢病管理，提高老年生命质量，本论坛特别邀请多位领域内专家共同探讨老龄健康与老年医学领域内热点问题。</p>
+<p><b>5.肥胖防控论坛：</b>国际领域内资深专家将帮助与会者了解肥胖防控的前沿研究信息，为相关学者提供一个国际交流平台，为未来的国内外肥胖研究及防控工作提供合作契机。本论坛由西安交通大学全球健康研究院和联合国儿童基金会共同主办。</p>
+<p><b>6.国际知名杂志主编论坛：</b>为与会者提供与顶级学术期刊主编们直接互动的机会和平台，特邀的主编们 （例如<i>The Lancet Global Health, International Journal Of Epidemiology, Social Science &amp; Medicine,中华预防医学杂志,中华流行病学杂志</i>主编) 将就如何在高影响力的期刊上发表学术论文提供建议，就重要话题展开讨论, 并与参会者互动并回答相关问题。</p>
+<p><b>7.智能穿戴与运动健康产学研论坛</b>：探讨穿戴设备的技术发展趋势，运动健康检测技术和科学运动解决方案；穿戴设备在健康领域，尤其在青少年运动训练方面的应用前景；智能可穿戴设备舒适佩戴的技术和应用。本论坛由西安交通大学全球健康研究院、华为技术有限公司及北京体育大学运动与体质健康教育部重点实验室共同主办。</p>
+<p><b>8.慢性病防控论坛：</b>慢性病是全球和中国的第一位死因，近二十年来联合国高度重视全球慢病防控工作。本论坛特邀资深专家包括世界卫生组织高级官员针对慢性病防控的前沿研究及相关政策进行研讨，为未来慢性病防控提供新的思路和建议，为国内外领域内今后的合作与发展提供支持。<b></b></p>
+<p><b>9.中华预防医学会全球卫生分会青年委员会论坛</b>：交流国内外全球健康领域的研究和实践成果，促进未来的研究与合作。本论坛由西安交通大学全球健康研究院与中华预防医学会全球卫生分会青年委员会共同主办。</p>
+<p><b>10.高端专家跨界合作论坛</b>：多位国内外产学研界的精英将报告交流，促进不同领域专家在健康领域的产学研结合，并为全球健康的发展和“一带一路”项目的开展注入新动力。</p>
+<p><b>11.国际合作与交流论坛：</b>促进国内外尤其是“一带一路”国家相关高校和科研院所与其他健康相关机构的合作交流与优势资源整合，建立国际合作平台，为推动全球健康发展贡献力量。</p>
+<p><b>12.行为健康论坛：</b>促进医学、大众健康、公共卫生、心理学、人类学、社会学及其他学科的交流与合作，推动国内外行为健康领域的科研教学工作，为与会者展现跨学科行为健康的广阔蓝图和应用前景。</p>
+<p><b>13.国际青蒿素与传染病防控论坛：</b>汇聚国际知名专家，回顾青蒿素发现之路与青蒿素复方研发历史，分享广东青蒿抗疟团队在东南亚、非洲与南太平洋等“一带一路”沿线疟疾流行国家帮助当地民众摆脱疟疾危害的成功经验，探索以中国经验解决世界疟疾难题的道路。本论坛由西安交通大学全球健康研究院与广东新南方青蒿药业股份有限公司共同主办。<b></b></p>
+<p><b>14.“深化医改，共建共享”研究论坛</b>：紧紧围绕解决看病难、看病贵问题，以健康为中心，深化医药卫生体制改革，增进交流与合作，提高医药卫生体制改革研究水平，推动医改科学、高效地为人民群众提供全方位全周期健康服务，践行健康中国战略。本论坛由西安交通大学全球健康研究院、西安交通大学公共政策与管理学院及陕西省卫生经济学会共同主办。<b></b></p>
+<p><b>15.环境健康与地方性疾病论坛</b>：探讨环境因素对人类健康的影响、环境健康研究在中国和国际上的发展趋势、空间技术在环境健康领域和“一带一路”国家合作中 的应用与合作前景，探讨丝路区域国家环境与地方性疾病防控策略、发病机制的国际合作新领域及前沿热点。</p>
+<p><b>16.青年论坛：</b>为中青年研究人员提供一个国际学术交流平台，展示健康相关的研究成果。报告将由大会的论文摘要投稿中评选，并会选出优秀论文报告给予奖励。欢迎广大中青年学者及研究生尽快提交健康相关的论文摘要！投稿截止日期：2019年8月10日！更多信息请见如下【会议征稿】。</p>
+<p><b>17.研究成果壁报展示：</b>为中青年研究人员，包括研究生等，提供一个国际学术交流平台，展示相关的研究成果。报告将由大会的论文摘要投稿中评选。投稿截止日期：2019年8月10日！更多信息请见如下【会议征稿】。</p>
+<p><b>七、<b>会议报名注册*</b></b></p>
+<p align="center"><img align="middle" border="0" src="../../_mediafile/news/2019/07/03/2l15fzr4u9.png" width="480"/></p>
+<p><b>请将注册费交纳至西安交通大学账号，银行转账信息如下：</b></p>
+<p><b>户</b><b>名：</b><b>西安交通大学</b></p>
+<p><b>开户行：西安市工商行互助路支行</b></p>
+<p><b>银行账号：3700023509088100314</b></p>
+<p><b>行号：102791000162</b></p>
+<p><b>转账时请务必注明</b><b>：</b><b>“</b><b>BRC</b><b>会务费</b><b>+</b><b>姓名”，并把汇款日期及汇款凭证发送至</b><b><a>xjtu_ghi@xjtu.edu.cn</a></b><b>，</b><b>注册费发票将在会议报到时发放。</b></p>
+<p><b>交纳注册费后请填写</b><b>附件</b><b>2</b><b>：《</b><b>2019 BRC</b><b>注册人员回执表》(</b><b>于会议网站http://brh-ghic.xjtu.edu.cn</b><b>“资料下载”区下载)</b><b>，并和上述汇款信息一同发送至邮箱</b><b>：</b><b><a href="mailto:xjtu_ghi@xjtu.edu.cn">xjtu_ghi@xjtu.edu.cn</a></b><b>。</b></p>
+<p><b>境外人员可以先注册报名，2019</b><b>年9</b><b>月13</b><b>日~16</b><b>日到会场交付注册费。</b></p>
+<p><b>交通费及食宿费用自理。</b></p>
+<p><b>会议酒店请自行预订：单人间（含中式单早300</b><b>元）；双人间（含中式双早340</b><b>元）。联系人：古都文化大酒店杨经理；联系电话：13909287542</b><b>。</b></p>
+<p>欢迎广大科研医护人员、注册营养师、疾控系统工作人员、研究生参会！凡参会注册者还可以获得由中国营养学会认定的继续教育学分或国家继续教育医学类继续教育学分。</p>
+<p>更多会议注册相关信息，请登录本次大会网站：<a href="http://brh-ghic.xjtu.edu.cn/">http://brh-ghic.xjtu.edu.cn</a>。</p>
+<p><b>八、会议征稿</b></p>
+<p>欢迎相关领域内的专家学者、研究生积极交投论文摘要！</p>
+<p><b>1.</b><b>征稿对象：</b>包括但不限于高校教师、研究生以及科研院所等研究机构的研究人员。</p>
+<p><b>2.</b><b>征文范围</b><b>：</b>包含但不局限于慢性非传染性疾病防控、肥胖防控、营养与健康、环境健康及地方性疾病、老龄健康与老年医学、卫生体系与政策、健康大数据、移动健康与系统科学、行为健康、智能穿戴与运动健康。</p>
+<p><b>3.</b><b>征稿要求：</b></p>
+<p>1）投稿内容须本次会议前尚未在国内外期刊发表；</p>
+<p>2）以论文摘要的形式，将稿件以Word文件附件发送至邮箱xjtu_ghi@xjtu.edu.cn。邮件名及稿件名称请注明“BRC投稿+作者名+单位名+征文主题”。大会不接受纸质投稿。</p>
+<p>3）提交正文在300字以内的论文英文摘要，全文不超过500字，注明题目、作者（姓名、职称、单位、电子邮箱）。正文按照研究目的、方法、结果、结论及关键词的格式书写，并声明可能存在的利益冲突。稿件内容应科学性强，数据可靠，结论恰当，文字通顺精炼。</p>
+<p><b>4.</b><b>重要日期：</b></p>
+<p>投稿截止日期：2019年8月10日；</p>
+<p>录用通知日期：2019年8月下旬。</p>
+<p><b>5.</b><b>论文交流及发布：</b></p>
+<p>大会学术委员会将组织召开专家审稿会，对所有投稿摘要进行审阅（未缴纳注册费的投稿将不予参评），录用的稿件将收录入汇编，其中优秀的稿件将被邀请到会做壁报展示或交流报告。</p>
+<p>本届大会将从投稿摘要中评选优秀稿件并设置奖项，优秀的交流报告学者将会获得“青年学者之星获奖证书”及奖金。</p>
+<p>欢迎未投稿者直接报名注册参会！</p>
+<p><b></b></p>
+<p><b>九、企业合作方式</b></p>
+<p>本次大会诚邀国内外优秀企业加入，可通过多种方式提供支持和合作。</p>
+<p>联系人：王老师，Email：drliangwang@gmail.com 微信：MVP21s</p>
+<p><b>十、会议联系人</b></p>
+<p>闫老师，联系电话：029-8265-7395，189-9282-0077；Email：<a>xjtu_ghi@xjtu.edu.cn</a></p>
+<p>周老师，联系电话：029-8265-7395，182-9246-5185；Email：<a>xjtu_ghi@xjtu.edu.cn</a></p>
+<p><b>十一、会议背景</b></p>
+<p>健康是人类全面发展、生活幸福的基石，也是国家繁荣昌盛、社会文明进步的重要标志。近年来，健康问题早已跨越国家和领土界线，成为全球共同关注的国际性问题。为促进国内外全球健康领域的发展与合作，西安交通大学联合多家国内外知名机构，分别于2017年9月24日-27日和2018年11月23日-26日在西安成功举办了“第一届‘一带一路’全球健康国际研讨会暨2017中华预防医学会全球卫生分会学术年会”及“第二届‘一带一路’全球健康国际研讨会暨丝绸之路大学联盟2018全球健康论坛”，并在第一届大会正式成立了“丝绸之路大学联盟健康子联盟”（Health Sub-Alliance of the University Alliance of the Silk Road，HSA-UASR），助力<a name="OLE_LINK6"></a>“一带一路”沿线国家及全球健康问题的解决。</p>
+<p>在2017年9月24日-27日举办的“第一届‘一带一路’全球健康国际研讨会暨2017中华预防医学会全球卫生分会学术年会”上，共有来自26个国家的近400名代表出席了大会，包括来自美国、俄罗斯、英国、日本、乌克兰、巴基斯坦、格鲁吉亚、亚美尼亚、伊朗等13个国家和地区的国外卫生部门领导及专家40余位，来自阿富汗、坦桑尼亚、孟加拉国、南非、秘鲁、苏丹、毛里塔尼亚、叙利亚、多米尼加等16个国家的留学生40余位。大会共设有17个论坛，包括3个大会主旨论坛、10个分论坛和4个青年学者论坛，来自世界卫生组织、联合国儿童基金会、中国疾病预防控制中心、国家体育总局等组织的近90位领导和专家受邀报告。与会代表针对全球健康领域的焦点问题、未来的合作与发展进行了广泛地交流和研讨。</p>
+<p>在2018年11月23日-26日举办的“第二届‘一带一路’全球健康国际研讨会暨丝绸之路大学联盟2018全球健康论坛”上，共有来自29个国家的近500名代表出席了大会，包括来自美国、英国、德国、日本、尼泊尔、韩国等多个国家和地区的卫生部门的领导及专家，及来自坦桑尼亚、孟加拉国、南非、秘鲁、尼泊尔、巴基斯坦等数个“一带一路”沿线国家的留学生30余位。大会设置了21个专题论坛，包含诸多热点领域，来自世界卫生组织、联合国儿童基金会、亚太临床营养学会、中国疾病预防控制中心、国家体育总局、陕西省卫生健康委员会、“一带一路”国家相关机构、华为技术有限公司、其他多个学术学会的重要领导和专家、中国工程院院士，高校校长，医院院长和学会主席等近100名中外专家进行了发言报告，为国内外健康相关领域专家提供了良好的学术交流平台。</p>
+<p>为进一步加强“一带一路”沿线国家与健康相关的院校的交流与合作，共同规划未来合作和发展，建立全球健康教育和科研合作网络，为健康相关研究的学者提供交流平台，协助解决相关国家面临的重大和热点健康问题，西安交通大学全球健康研究院、西安交通大学公共卫生学院、西安交通大学医学部及丝绸之路大学联盟健康子联盟将于2019年9月13日~16日联合主办“第三届‘一带一路’全球健康国际研讨会暨丝绸之路大学联盟2019全球健康论坛”。我们诚挚地欢迎各位同道莅临世界历史名城—中国十三朝古都西安参加本次会议，为推动全球健康发展、共建人类命运共同体贡献中国力量！</p>
+<p><b>十二、会议主办单位概况</b></p>
+<p>西安交通大学是国家教育部直属重点大学，为我国最早兴办的高等学府之一，一直是国家重点建设的大学之一，是首批进入国家“211”和“985”工程建设的学校。西安交通大学是一所具有理工特色，涵盖理、工、医、经、管、文、法、哲、教、艺10大学科门类的综合性研究型大学。学校以创建世界一流大学为目标，围绕“理学、工学、医学、人文社科”四大板块，构建学科高地。</p>
+<p><b>西安交通大学医学部</b></p>
+<p>西安交通大学医学部，前身为西安医科大学。2000年，西安医科大学与西安交通大学、陕西财经学院三校合并，更名为西安交通大学医学院；2012年，组建更名为西安交通大学医学部，是我国西北地区培养高级医学专业人才的摇篮之一，是西北地区唯一一所原卫生部直属重点医学院校。医学部下设基础医学院、第一临床医学院、第二临床医学院、口腔医学院、公共卫生学院、药学院、法医学院、护理学系，全球健康研究院、转化医学研究院、药物科学与技术研究院、生物证据研究院、医学交叉研究院、生物诊断与治疗研究院等一批教学和研究机构，拥有第一附属医院、第二附属医院、附属口腔医院等医疗机构。</p>
+<p><b>西安交通大学全球健康研究院</b></p>
+<p>西安交通大学全球健康研究院（Xi’an Jiaotong University Global Health Institute, GHI）成立于2016年9月18日。GHI 目前有五个研究中心，包括系统科学和健康大数据研究中心、慢性病预防和控制研究中心、传染病防治研究中心、地方性疾病研究中心、老龄健康与老年医学中心，未来将会成立更多研究中心。西安交通大学建立GHI旨在贯彻落实国家创新驱动发展战略、“一带一路”倡议及全国卫生与健康大会和“健康中国2030”规划纲要精神，围绕中国西部科技创新港的建设任务和西安交通大学创建世界一流大学的发展目标，依托西安交通大学公共卫生、临床医学、基础医学、药学、数学、统计学、生物信息学、管理、人文、工程等优势学科，针对目前全球健康领域面临的重大挑战，创建国际领先的全球健康教育科研平台，开展跨地区、多国家的重大公共卫生和健康问题研究，为全球健康问题的解决和卫生政策的制定提供科学依据，培养具有国际水平和国际视野的创新型健康专业人才，服务国家战略和地方发展，为国家卫生与健康发展战略蓝图的实现和全球健康事业的发展提供强有力的技术支撑。研究院科研团队目前开展的研究为国内外的研究基金资助，包括例如联合国儿童基金会（UNICEF）、美国中华医学基金会（CMB）、美国国立卫生研究院（NIH）、中国科学技术部、中国国家卫生健康委员会、中国国家自然科学基金委员会、中国疾病预防控制中心、中国营养学会等的资助。</p>
+<p><b>西安交通大学公共卫生学院</b></p>
+<p>西安交通大学公共卫生学院拥有公共卫生与预防医学一级学科博士和硕士学位授权点、公共卫生专业硕士学位授权点和一级学科博士后流动站，在国内率先开展公共卫生硕士MPH（1998年）和公共卫生博士DrPH（2011年）专业学位培养试点工作，扎根西部培养医药卫生与疾病控制领域毕业生数千余名。拥有国家卫健委微量元素与地方病研究重点实验室、陕西省营养与食品安全工程研究中心、陕西省丝路区域地方病与人群健康促进协同创新中心、卫生信息大数据管理与分析中心等研究机构；下设流行病与卫生统计学系、劳动卫生与环境卫生学系、营养与食品安全系、儿少卫生与妇幼保健学系、卫生毒理与卫生检验系、地方病研究所、卫生改革与发展研究中心和实验教学中心。围绕我国西部人群健康重大公共卫生问题，学院形成了以妇幼营养与健康评价、环境与地方病、传染病预防控制、食品质量与安全、儿童发育与身心健康、卫生政策与医学伦理等为代表具有鲜明特色的研究方向。相关研究获得中国科学技术部、中国国家卫生健康委员会、中国国家自然科学基金委员会、联合国儿童基金会（UNICEF）和美国中华医学基金会（CMB）等资助，近五年科研经费6000余万元，科研论文被认可为“F1000论文”。获得2项国际生物无机化学家协会“克劳斯•施瓦兹奖”和2项陕西省科技进步一等奖。主持修订《大骨节病疗效判定》等多项国家、行业标准。主编《西安交通大学学报（医学版）》《中国医学伦理学》《国外医学•医学地理分册》等核心期刊。</p>
+<p><b>丝绸之路大学联盟健康子联盟</b></p>
+<p><b>丝绸之路大学联盟</b>于2015年5月22日由西安交通大学发起成立，是弘扬丝绸之路精神，促进高等教育和科研的国际合作的重要举措。它是由海内外大学结成的非政府、非营利性的开放性、国际化高等教育合作平台，目前共有来自38个国家和地区的151所高校加入，成员遍布于五大洲。它以弘扬“和平合作、开放包容、互学互鉴、互利共赢”的丝绸之路精神为宗旨，以首倡“丝绸之路学术带”为内涵，以“共建教育合作平台，推进区域开放发展”为主题，旨在推动“新丝绸之路经济带”沿线国家和地区大学之间在校际交流、人才培养、科研合作、文化沟通、政策研究、医疗服务等方面的交流与合作，培养具有国际视野、国际合作能力和创新精神的复合型人才，服务“新丝绸之路经济带”沿线及欧亚地区的发展建设。</p>
+<p><b>丝绸之路大学联盟健康子联盟</b>是由西安交通大学全球健康研究院倡导，于2017年9月“第一届‘一带一路’全球健康国际研讨会暨2017中华预防医学会全球卫生分会学术年会”上正式成立。她是在“丝绸之路大学联盟”框架下，由健康领域的高校在平等自愿基础上，结成的非政府、非营利、开放性、国际化的与健康领域相关的学术组织。她致力于帮助促进整合国际上健康相关的大学与学院科教资源和技术平台优势，共建健康研究合作网络与健康状况数据共享平台，开展多学科、高水平的学术交流和科学研究，培养健康专业人才，共同致力促进全球范围内的人类健康。目前共有13所海内外大学加入丝绸之路大学联盟健康子联盟，包括：美国德克萨斯大学奥斯汀分校、英国利物浦热带医学院、乌克兰塔夫利达国立大学、巴基斯坦拉瓦尔品第医科大学、巴基斯坦卫生服务研究院、沙特黑尔大学药学院、西班牙萨拉戈萨大学、马拉维大学医学院、香港中文大学赛马会公共卫生及基层医疗学院、中国医科大学 、天津医科大学、大连医科大学、四川大学华西医学院公共卫生学院。未来丝绸之路大学联盟健康子联盟将借助丝绸之路大学联盟平台，邀请更多“一带一路”沿线国家健康相关院校加入并建立长期合作，开展跨地区、多国家的重大公共卫生和健康问题研究，为推动全球健康发展、共建人类命运体贡献力量！</p>
+<p><b>获取更多会议的信息，请关注西安交通大学全球健康研究院微信公众号。</b></p>
+<p align="center"><img align="middle" border="0" hspace="0" src="../../_mediafile/news/2019/07/03/28c7whi260.jpg"/></p></div></div>
+<p>
+<ul style="list-style-type:none">
+<li>附件【<a href="../../system/_content/download.jsp?urltype=news.DownloadAttachUrl&amp;owner=1025023737&amp;wbfileid=1455767" target="_blank">附件1 部分特邀专家简介.docx</a>】</li> <li>附件【<a href="../../system/_content/download.jsp?urltype=news.DownloadAttachUrl&amp;owner=1025023737&amp;wbfileid=1455768" target="_blank">附件2 2019 BRC 注册人员回执表.docx</a>】</li>
+</ul>
+</p>
+<div class="d_write2" style="text-align:right"><span class="d_write" style="width:550px;float:left;text-align:right">文字：</span><span style="width:150px;float:left;color:#00467f;text-align:left">全球健康研究院</span></div>
+<div class="d_write2" style="text-align:right"><span class="d_write" style="width:550px;float:left;text-align:right">图片：</span><span style="width:150px;float:left;color:#00467f;text-align:left">全球健康研究院</span></div>
+<div class="d_write2" style="text-align:right"><span class="d_write" style="width:550px;float:left;text-align:right">编辑：</span><span style="width:150px;float:left;color:#00467f;text-align:left">腾飞工作室 杨朝妍</span></div>
+</div>
+</form>
+<br/>
+<div class="bdsharebuttonbox"><a class="bds_more" data-cmd="more" href="../../#"></a><a class="bds_qzone" data-cmd="qzone" href="../../#"></a><a class="bds_tsina" data-cmd="tsina" href="../../#"></a><a class="bds_tqq" data-cmd="tqq" href="../../#"></a><a class="bds_renren" data-cmd="renren" href="../../#"></a><a class="bds_weixin" data-cmd="weixin" href="../../#"></a></div>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdPic":"","bdStyle":"0","bdSize":"16"},"share":{},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+<script language="javascript">
+
+    function linkForImg42979(){
+    var images=document.getElementById("lmz_content").getElementsByTagName("img");
+    var imgLen=images.length;
+    var img_links = new Array(imgLen);　
+    
+    for(var i=0;i<imgLen;i++){
+        img_links[i] = repleaceLast42979(images[i].src);
+        var p = images[i].parentNode;
+        if(p.tagName=="a"||p.tagName=="A")
+            continue;
+        if(img_links[i].indexOf("/_mediafile/")!=-1&&CheckImgExists42979(img_links[i]))
+        {
+            images[i].onclick=function(){
+                var thepath = repleaceLast42979(this.src);
+                window.open(thepath,"n","");
+            };
+        }else{
+            images[i].onclick=function(){window.open(this.src,"n","");};
+        }
+        images[i].title="点击查看大图"
+        images[i].style.cursor="pointer";
+    }
+    }
+
+    //检查图片是否存在
+    function CheckImgExists42979(imgurl) {
+        var bea = true;
+        /**
+        $.ajax({
+            url: imgurl,
+            async: false,
+            statusCode: {
+                200: function() {
+                    bea = true;
+                }
+            }
+       });
+       */
+       return bea;
+    }
+    
+    function repleaceLast42979(imgurl)
+    {
+        if(imgurl==null||imgurl=="")
+            return imgurl;
+        var temp = imgurl.substring(0,imgurl.lastIndexOf("/"));
+        imgurl= imgurl.replace(temp,temp+"/source");
+        return imgurl;
+    }
+
+    linkForImg42979();
+</script>
+<!--#endeditable-->
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="l_split"> </div>
+<div 360chrome_form_autofill="2" class="d_relate">相关文章</div><!--#begineditable contype="" name="相关文章" action="" layout="" clone="0" namechanged="0" order="5" ispublic="0" tagname="相关文章" viewid="42982" stylesysid=""-->
+<span id="relateNewsjs42982js">读取内容中,请等待...</span>
+<script language="JavaScript">
+$(function(){
+
+	getRelateNewsjs42982js();
+	});
+	function getRelateNewsjs42982js() { 
+	    
+	    var pars = 'archive=0&viewid=42982&leaderchar=%C2%B7&titlelen=43&days=3&endimage=&clickshow=false&clickname=%E7%82%B9%E5%87%BB%EF%BC%9A+&&linkmode=_blank&mode=10&pageUrl=/system/_owners/news/_webprj/content.jsp&columnshow=false&wbnewsid=116024&owner=1025023737&limitdays=365&rowcount=10&columnstyle= columnstyle42982 &columnid=-1'; 
+	    var url = '/system/resource/code/relatenews.jsp?'+pars;  
+	        $.post(
+	            url,
+	            {
+	            	winstyle:"winstyle",
+	            	leaderfont:"leaderfont42982",
+	            	leaderimage:"",
+	            	linkmode:"target=_blank",
+	            	titlestylename:"titlestyle42982",
+	            	timestylename:"timestyle42982"
+		        }
+		        ,
+	            function(date)
+	            {
+		        	$("#relateNewsjs42982js").empty();
+		     	   	$("#relateNewsjs42982js").append(date);    
+	            }
+	        );
+	       
+	    }   
+
+	   
+</script>
+<!--#endeditable-->
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="l_split"> </div>
+<div 360chrome_form_autofill="2" class="d_pinglun"><!--#begineditable contype="" name="整合式评论" action="" layout="" clone="0" namechanged="0" order="6" ispublic="0" tagname="整合式评论" viewid="42983" stylesysid=""-->
+<table bgcolor="#CCCCCC" cellpadding="2" cellspacing="1">
+<tr>
+<td style="background-color:#ffffff;font-size: 9pt">
+<div class="input3style42983">
+<textarea id="respwbrespcontent" name="respwbrespcontent" oninput="calculatesize();" onpropertychange="calculatesize();" style="width:650px;height:180px"></textarea>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="background-color:#ffffff;font-size: 9pt">
+<div id="respmessage"></div>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#ffffff">
+<span id="contentsize" style="display:none">0/1000</span>
+<input id="respsoru" name="respsoru" type="hidden" value="0">
+<input id="respid" name="respid" type="hidden"/>
+<span id="respaccorpass" style="display:none;font-size:9pt">
+            用户名 <input id="respwbaccount" maxlength="20" name="respwbaccount" size="8" style="background-color: #FFFFFF;border: 1px solid #BAD3E6" type="text"/>
+            密码 <input id="respwbpassword" maxlength="20" name="respwbpassword" size="8" style="background-color: #FFFFFF;border: 1px solid #BAD3E6" type="password"/>
+</span>
+<input checked="" id="respcheck" name="respcheck" onclick="ischeckjs42983js();" type="checkbox" value="0"/><span style="font-size:9pt"> 匿名发布</span>
+<span style="font-size: 9pt">验证码</span><input autocomplete="off" id="resprand" maxlength="4" name="resprand" size="4" style="background-color: #FFFFFF;border: 1px solid #BAD3E6" type="text"/>
+<img align="absmiddle" border="0" id="resprandimage" src="../../system/resource/js/message/createimage.jsp"/>
+<span onclick="changeimagejs42983js()" style="font-size:9pt;cursor:hand">看不清楚,换张图片</span>
+<input onclick="submitrespjs42983js();return false;" src="../../AloeR/tj.gif" style="cursor:hand" type="image"/>
+</input></td>
+</tr>
+<tr>
+<td colspan="2" height="25" style="background-color:#ffffff;font-size: 9pt;padding-left:10px">
+        共<span id="resptotid">0</span>条评论    共<span id="resptotpage">1</span>页   当前第<span id="slidercontent">1</span>页
+    </td>
+</tr>
+<tr>
+<td colspan="2" style="background-color:#ffffff;font-size: 9pt">
+<div id="respslider" style="height:20px">
+</div></td>
+</tr>
+<tr>
+<td colspan="2" style="background-color:#ffffff;font-size: 9pt">
+<div id="respcontent"></div>
+</td>
+</tr>
+</table>
+<style>
+.respimageSliderjs42983js { margin:0;padding:0; height:20px; width:651px; background-image:url(../../system/resource/js/slider/scrollbg.gif);}
+.respimageBarjs42983js    { margin:0;padding:0; height:17px; width:10px; background-image:url(../../system/resource/js/slider/scrfloat.gif);}   
+</style>
+<script language="javascript" src="../../system/resource/js/slider/slider_extras.js"></script>
+<script language="javascript" src="../../_dwr/engine.js"></script>
+<script language="javascript" src="../../_dwr/util.js"></script>
+<script language="javascript" src="../../_dwr/interface/NewsRespUtil.js"></script>
+<script language="javascript" src="../../system/resource/js/base64.js"></script>
+<script>
+var isduplicatejs42983js=false;
+var pagesizejs42983js = 10;//每页多少条
+var totalsizejs42983js = 0;//共多少条  
+var totalpagejs42983js = 0;//共多少页
+var startpagejs42983js = 0;//当前页
+var pagejs42983js = startpagejs42983js+1; //显示的页数
+function initsizejs42983js(data)
+{
+     if(data)
+     {
+        totalsizejs42983js=data;
+        totalpagejs42983js = parseInt(totalsizejs42983js%pagesizejs42983js==0?totalsizejs42983js/pagesizejs42983js:(totalsizejs42983js/pagesizejs42983js+1));
+        $("#resptotid").empty();
+        $("#respmessage").empty();
+        $("#resptotid").append(data);
+        $("#resptotpage").append(totalpagejs42983js);
+        showpagejs42983js(startpagejs42983js); //初始化新闻评论
+     }
+}
+function inittotalsizejs42983js()
+{
+     NewsRespUtil.getTotalpage("1025023737","116024","wbnews",initsizejs42983js);  
+}
+//显示评论列表主方法
+function showpagejs42983js(start)
+{
+    if(startpagejs42983js>=0)
+    {        
+        pagejs42983js = parseInt(start/pagesizejs42983js)+1;
+    }
+    NewsRespUtil.getResp("1025023737","116024",start,pagesizejs42983js,"wbnews",buildresultjs42983js);       
+}
+//取消回复
+function cancelrespjs42983js()
+{
+   $("#respmessage").empty();
+   $("#respsoru").val("0");
+   $("#respid").val(""); 
+}
+//回复
+function repjs42983js(id,top)
+{
+	$("#respmessage").empty();
+    $("#respmessage").append("<span style='color:#ff8000;font-size:10pt;height:30px;padding-top:expression(15);padding-bottom:expression(15);'>回复["+top+"]楼的评论&nbsp;&nbsp;&nbsp;&nbsp;<a href='javascript:' onclick='cancelrespjs42983js()'>取消</a></span>");
+    $("#respsoru").val("1");
+    $("#respid").val(id);
+    $("#respwbrespcontent").focus();   
+}
+//回复的处理结果
+function represultjs42983js(data)
+{
+    if(data=="0"  || data=="-12")
+    {
+        $("#respwbaccount").val("");
+        $("#respwbpassword").val("");
+        $("#respwbrespcontent").val("");
+        $("#resprand").val("");
+        $("#contentsize").text("0/1000");
+        $("#resprandimage").attr("src","/system/resource/js/message/createimage.jsp?randnum="+Math.random());
+        //$("respmessage").innerHTML="<span style='font-size:9pt;color:#ff8000;height:30px;padding-top:expression(15);padding-bottom:expression(15);'>回复评论成功</span>"; 
+        var isflag = "0";
+        if(data=="-12")
+        {
+            alert("回复评论成功,您的內容中含有敏感字,请等待后台审核");
+        }else
+        {
+            if(isflag=="1")
+            {
+                alert("回复评论成功");
+            }else
+            {
+                alert("回复评论成功,请等待后台审核");
+            }
+        }
+        
+        NewsRespUtil.getTotalpage("1025023737","116024","wbnews",reloadjs42983js);           
+    }else
+    {
+        buildResultStrjs42983js(data);
+    }
+}
+
+//创建评论表格滚动条
+function buildresultjs42983js(data)
+{
+    if(data)
+    {
+        var result = "<table align='center' width='610' >";
+        for(var i=0;i<data.length;i++)
+        {   
+            result += "<tr>";
+            result += "    <td style='background-color:#ffffff;font-size: 9pt'>";
+            result += "         <font  color=#326FA8>"+ data[i].wbaccount+ "  ["+data[i].wbip+"]"+  "</font>";
+            result += "         "+ data[i].wbrespdate;
+            result += "    </td>";  
+            result += "    <td style='background-color:#ffffff;font-size: 9pt' rowspan='2' align='center' nowrap>";
+            result += "         <span style='color:blue;cursor:pointer;text-decoration:underline' onclick='repjs42983js("+data[i].wbrespid+","+ data[i].wbtop +")'>[回复]</span>"; 
+            result += "         <div style='font-size:20pt;color:gray'>"+ data[i].wbtop +"</div>";
+            result += "    </td>";      
+            result += "</tr>";
+            
+            result += "<tr>";
+            result += "    <td style='background-color:#ffffff;font-size: 9pt;word-break:break-all;' >";
+            result += "          " + data[i].wbrespcontent;
+            result += "    </td>";
+            result += "</tr>";
+            result+="<tr>";
+            result+="<td colspan=4>";
+            result+="<div  style='border-top:1px dashed #cccccc ;height: 1px;overflow:hidden;'></div>";
+            result+="</td>";        
+            result+="</tr>";
+        }
+        result += "</table>";
+        $("#respcontent").empty();
+        $("#respcontent").append(result);
+        $("#resptotpage").empty();
+        $("#resptotpage").append(totalpagejs42983js);
+        var isreload = "0";
+        var sliderImage1 = new neverModules.modules.slider(
+        {
+        targetId: "respslider",
+        sliderCss: "respimageSliderjs42983js",
+        barCss: "respimageBarjs42983js",
+        min: 1,
+        max: totalpagejs42983js,
+        hints: ""
+        });
+        sliderImage1.onstart  = function () 
+        {
+            isreload = "1" ;
+        }
+        sliderImage1.onchange = function () 
+        {
+            $("#slidercontent").empty();
+            $("#slidercontent").append(sliderImage1.getValue()==0?1:sliderImage1.getValue());       
+        };
+        sliderImage1.onend = function () 
+        {
+            if(isreload=="1")
+            {
+                if(sliderImage1.getValue()!=pagejs42983js && sliderImage1.getValue()!=0)
+                {    
+                    showpagejs42983js((parseInt(sliderImage1.getValue())-1)*pagesizejs42983js);
+                    $("#respmessage").empty();
+                }
+            }
+        }
+        sliderImage1.donclick  = function ()
+        {              
+            if(sliderImage1.getValue()!=pagejs42983js && sliderImage1.getValue()!=0)
+            { 
+                showpagejs42983js((parseInt(sliderImage1.getValue())-1)*pagesizejs42983js);
+                $("#respmessage").empty();
+            }
+        }
+        sliderImage1.create();
+        sliderImage1.setValue(pagejs42983js);
+    }
+    else
+    {
+    	$("#respcontent").empty();
+        $("#respcontent").append("<span style='font-size:9pt;height:30px;padding-top:expression(15);padding-bottom:expression(15);'>该新闻还没有评论</span>");
+
+    }
+}
+//评论回复完成后，重新读取计算评论的表格
+function reloadjs42983js(data)
+{
+    totalsizejs42983js = data;
+    totalpagejs42983js = parseInt(totalsizejs42983js%pagesizejs42983js==0?totalsizejs42983js/pagesizejs42983js:(totalsizejs42983js/pagesizejs42983js+1));
+    $("#resptotid").empty();
+    $("#resptotpage").empty();
+    $("#resptotid").append(totalsizejs42983js);
+    $("#resptotpage").append(totalpagejs42983js);
+    showpagejs42983js(0);
+    cancelrespjs42983js();
+}
+function buildResultStrjs42983js(data)
+{
+    if(data=="-2")
+    {
+        alert("没有这个用户或用户被禁用");
+    }
+     else if(data=="-3")
+    {
+        alert("用户名或密码错误");
+    }    
+    else if(data=="-4")
+    {
+        alert("验证码错误");
+    }else if(data=="-9")
+    {
+        alert("请放置在新闻内容页");
+    }   
+    else if(data=="-11")
+    {
+        alert("评论内容过长");
+    }  
+    else
+    {
+        alert("未知错误");
+    }
+}
+
+//添加评论后的处理方法
+function savejs42983js(data)
+{ 
+    
+    if(data=="0" || data=="-12")
+    {
+        $("#respwbaccount").val("");
+        $("#respwbpassword").val("");
+        $("#respwbrespcontent").val("");
+        $("#resprand").val("");
+        $("#contentsize").empty();
+        $("#contentsize").append("0/1000");
+        $("#resprandimage").attr("src","/system/resource/js/message/createimage.jsp?randnum="+Math.random());
+        var isflag = "0";
+        if(data=="-12")
+        {
+            alert("回复评论成功,您的內容中含有敏感字,请等待后台审核");
+        }
+        else
+        {
+            if(isflag=="1")
+            {
+                alert("添加评论成功");
+            }else
+            {
+                alert("评论添加成功，等待后台审核");
+            }
+        }
+        NewsRespUtil.getTotalpage("1025023737","116024","wbnews",reloadjs42983js);
+        
+    }
+    else
+    {
+        buildResultStrjs42983js(data);
+    }
+}
+String.prototype.trim　= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+} 
+
+//提交评论
+function submitrespjs42983js(id)
+{
+    var anonymous = "1";
+    if($("#respcheck")==null || !$("#respcheck").attr("checked"))
+    {
+        
+        if($("#respwbaccount").val()=="" || $("#respwbpassword").val()=="")
+        {    
+             alert("请输入用户名或密码");
+             return;
+        }
+    }
+    else
+    {
+        anonymous = "0";
+    }
+    if(($("#respwbrespcontent").val()).trim()=="")
+    {
+        alert("请输入评论内容");
+        $("#respwbrespcontent").focus();
+        return;
+    }
+    if(($("#respwbrespcontent").val()).length>1000)
+    {
+        alert("评论内容内容小于1000个字符");
+        $("#respwbrespcontent").focus();
+        return;
+    }
+    
+    if($("#resprand").val()=="")
+    {
+        alert("请输入验证码");
+        $("#resprand").focus();
+        return;
+    }
+    if($("#respsoru").val()=="0")
+    {
+        NewsRespUtil.save("1025023737","1017","116024",anonymous,$("#respwbaccount").val(),$("#respwbpassword").val(),base64Contentjs42983js($("#respwbrespcontent").val()),$("#resprand").val(),'0',false,savejs42983js);
+    }
+    else
+    {
+        NewsRespUtil.update("1025023737","1017","116024",anonymous,$("#respwbaccount").val(),$("#respwbpassword").val(),base64Contentjs42983js($("#respwbrespcontent").val()),$("#resprand").val(),$("#respid").val(),'0',represultjs42983js);
+    }
+       
+}
+//内容编码
+function base64Contentjs42983js(respcontent)
+{
+	return new Base64().encode(respcontent);	
+}
+
+//是否匿名
+function ischeckjs42983js()
+{
+    if(!$("#respcheck").attr("checked"))
+    {
+        $("#respaccorpass").css("display","inline");
+        $("#respwbaccount").val("");
+        $("#respwbpassword").val("");
+    }
+    else
+    {
+        $("#respwbaccount").val("");
+        $("#respwbpassword").val("");
+        $("#respaccorpass").hide();
+    }
+}
+function changeimagejs42983js()
+{	
+    $("#resprandimage").attr("src","/system/resource/js/message/createimage.jsp?randnum="+Math.random());
+}
+function calculatesize()
+{
+    var c = ($("#respwbrespcontent").val()).length;
+    $("#contentsize").empty();
+    $("#contentsize").append( c+"/1000");
+    
+}
+
+function  addEventjs42983js(elm, evType, fn, useCapture) { 
+if (elm.addEventListener) {  
+elm.addEventListener(evType, fn, useCapture);   
+return true; 
+} 
+else if (elm.attachEvent) { 
+var r = elm.attachEvent('on' + evType, fn); 
+return r; 
+}
+else {  
+elm['on' + evType] = fn;
+} 
+}
+addEventjs42983js(window,"load",inittotalsizejs42983js,true);
+</script><!--#endeditable--> </div>
+<div 360chrome_form_autofill="2" class="clear"> </div></div>
+<div 360chrome_form_autofill="2" class="i_right">
+<div 360chrome_form_autofill="2" class="i_search"><!--#begineditable contype="" name="全文检索" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="全文检索" viewid="65621" stylesysid=""--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode65621').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword65621").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword65621").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword65621").value = base64.encode(document.getElementById("lucenenewssearchkeyword65621").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode65621"));
+        return true;
+    } 
+</script>
+<form action="../../ssjgy.jsp?wbtreeid=1017" id="au7a" method="post" name="au7a" onsubmit="return _nl_ys_check()" style="display: inline">
+<input id="lucenenewssearchkeyword65621" name="lucenenewssearchkeyword" type="hidden" value=""/><input id="_lucenesearchtype65621" name="_lucenesearchtype" type="hidden" value="1"/><input id="searchScope65621" name="searchScope" type="hidden" value="0"/>
+<div>
+<table border="0" cellpadding="0" cellspacing="1">
+<tr>
+<td height="20px">
+<input id="showkeycode65621" name="showkeycode" style="height:20px;width:136px"/>
+</td>
+<td width="5px"> </td>
+<td align="absmiddle" height="1" nowrap="nowrap">
+<input align="absmiddle" src="../../i_search_btn.jpg" style="cursor: hand" type="image" valign="bottom"/>
+</td>
+<td width="5px"> </td>
+<td align="absmiddle" class="i_search_left" nowrap="nowrap"><a "arial";="" background:="" center="" href="../../index/gjjs.htm" no-repeat="" style="font-family:" top;="" url(i_body_bg.jpg)="" 宋体",="">高级搜索</a></td>
+</tr>
+</table>
+</div>
+</form>
+<script language="javascript" src="../../system/resource/js/formfunc.js"></script>
+<!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="l_redian"><span class="l_redian">信息预告</span> <a 360chrome_form_autofill="2" class="l_redian_more" href="../../xxyg.htm">更多</a>
+<div 360chrome_form_autofill="2" class="clear"> </div></div>
+<div 360chrome_form_autofill="2" class="l_redian_con"><!--#begineditable contype="" name="信息预告" action="" layout="" clone="0" namechanged="0" order="7" ispublic="0" tagname="信息预告" viewid="42980" stylesysid=""--> <div class="l_redian_li"><a class="i_li" href="117943.htm" title="第12届微纳尺度材料行为国际研讨会开幕在即">·第12届微纳尺度材料行为国际研讨会...</a></div>
+<div class="l_redian_li"><a class="i_li" href="116024.htm" title="第三届“一带一路”全球健康国际研讨会暨丝绸之路大学联盟2019全球健康论坛第二轮会议通知">·第三届“一带一路”全球健康国际研...</a></div>
+<div class="l_redian_li"><a class="i_li" href="114980.htm" title="西安交大VEX机器人夏令营报名啦！">·西安交大VEX机器人夏令营报名啦！</a></div>
+<div class="l_redian_li"><a class="i_li" href="114752.htm" title="“青马问道”第十一讲预告">·“青马问道”第十一讲预告</a></div>
+<div class="l_redian_li"><a class="i_li" href="114506.htm" title="西安交通大学2019年教师授课竞赛复赛即将开幕">·西安交通大学2019年教师授课竞赛复...</a></div>
+<div class="l_redian_li"><a class="i_li" href="113998.htm" title="新媒体学院学术工作坊第二十八期：马克思恩格斯传播思想研究">·新媒体学院学术工作坊第二十八期：...</a></div>
+<div class="l_redian_li"><a class="i_li" href="113982.htm" title="讲座预告：北斗论坛第二十四讲">·讲座预告：北斗论坛第二十四讲</a></div>
+<div class="l_redian_li"><a class="i_li" href="113415.htm" title="讲座预告：青马问道第十期">·讲座预告：青马问道第十期</a></div>
+<div class="l_redian_li"><a class="i_li" href="113361.htm" title="新媒体学院学术工作坊第二十七期： “线索民族志”及其在传播过程性研究中的应用">·新媒体学院学术工作坊第二十七期： ...</a></div>
+<div class="l_redian_li"><a class="i_li" href="113334.htm" title='关于举办"创新港建设足迹摄影作品展"的通知'>·关于举办"创新港建设足迹摄影作品展...</a></div>
+<script>_showDynClickBatch(['dynclicks_u8_117943','dynclicks_u8_116024','dynclicks_u8_114980','dynclicks_u8_114752','dynclicks_u8_114506','dynclicks_u8_113998','dynclicks_u8_113982','dynclicks_u8_113415','dynclicks_u8_113361','dynclicks_u8_113334'],[117943,116024,114980,114752,114506,113998,113982,113415,113361,113334],"wbnews", 1025023737)</script>
+<!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="l_lanmu"><span class="l_redian">栏目新闻</span>  
+<div 360chrome_form_autofill="2" class="clear"> </div></div>
+<div 360chrome_form_autofill="2" class="l_redian_con"><!--#begineditable contype="" name="栏目新闻" action="" layout="" clone="0" namechanged="0" order="8" ispublic="0" tagname="栏目新闻" viewid="42981" stylesysid=""--> <div class="l_redian_li"><a class="l_lanmu_li" href="../1002/117942.htm" title="交大师生热议陶文铨院士当选“2019最美科技工作者”">·交大师生热议陶文铨院士当选“2019...</a></div></div></div></div></body></html>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1033/117935.htm" title="西安交大参加第七届内地高校行政管理暑期学院培训">·西安交大参加第七届内地高校行政管...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/117928.htm" title="【我在跑港】创新港给你最好的大学生活">·【我在跑港】创新港给你最好的大学生活</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/117918.htm" title="【暑期不放假】争分夺秒 积极谋划 干就要干出个好样子">·【暑期不放假】争分夺秒 积极谋划 ...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/117919.htm" title="第四届中国青少年魔方公开赛在西安交大举行">·第四届中国青少年魔方公开赛在西安...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/117888.htm" title="西安交大举办2019年度第二期新任干部培训班">·西安交大举办2019年度第二期新任干...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/117884.htm" title="西安交通大学与陕西省科技厅联合启动医学交叉研究引导项目">·西安交通大学与陕西省科技厅联合启...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/117861.htm" title="张定红、成进、别朝红分别深入创新港工程一线督导推进创新港内涵建设">·张定红、成进、别朝红分别深入创新...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/117853.htm" title="“振兴乡村 留住乡愁—首届乡村美术作品展”在西安交通大学博物馆开幕">·“振兴乡村 留住乡愁—首届乡村美术...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/117835.htm" title="西安交大陶文铨院士当选“2019最美科技工作者”">·西安交大陶文铨院士当选“2019最美...</a></div>
+<script>_showDynClickBatch(['dynclicks_u9_117942','dynclicks_u9_117935','dynclicks_u9_117928','dynclicks_u9_117918','dynclicks_u9_117919','dynclicks_u9_117888','dynclicks_u9_117884','dynclicks_u9_117861','dynclicks_u9_117853','dynclicks_u9_117835'],[117942,117935,117928,117918,117919,117888,117884,117861,117853,117835],"wbnews", 1025023737)</script>
+<!--#endeditable-->
+<div 360chrome_form_autofill="2" class="i_weibo" id="div_weibo_span"><span class="i_weibo_now" id="span_weibo_1" onmousemove="switchWeibo(1);"><img 360chrome_form_autofill="2" align="absMiddle" src="../../AloeR/i_sina.jpg"/> 新浪微博</span> <span class="i_weibo_split"> </span> <span class="i_weibo" id="span_weibo_2" onmousemove="switchWeibo(2);"><img 360chrome_form_autofill="2" align="absMiddle" src="../../AloeR/i_toutiao.png"/> 今日头条</span> <span class="i_weibo_split"> </span> <span class="i_weibo" id="span_weibo_3" onmousemove="switchWeibo(3);"><img 360chrome_form_autofill="2" align="absMiddle" src="../../AloeR/i_weixin.jpg"/> 微信</span> </div>
+<div 360chrome_form_autofill="2" class="i_weibo_con" id="div_weibo_div">
+<div 360chrome_form_autofill="2" class="i_weibo_detail" id="div_weibo_1" style="display: block"><img 360chrome_form_autofill="2" src="../../pic/weibo_ewm.png"/> </div>
+<div 360chrome_form_autofill="2" class="i_weibo_detail" id="div_weibo_2" style="display: none"><!--#begineditable contype="" name="人人网" action="" layout="" clone="0" namechanged="0" order="9" ispublic="0" tagname="人人网" viewid="43083" stylesysid=""-->
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><a href="https://www.toutiao.com/c/user/6223492102/#mid=6223492102" onclick="_addDynClicks('wbimage',1025023737,11002)" target="_blank"><img border="0" height="190" hspace="3" src="../../toutiao_ewm.png" vspace="2" width="266"/></a></td>
+</tr>
+</table><!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="i_weibo_detail" id="div_weibo_3" style="display: none"><!--#begineditable contype="" name="微信" action="" layout="" clone="0" namechanged="0" order="10" ispublic="0" tagname="微信" viewid="43084" stylesysid=""-->
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img border="0" height="190" hspace="3" src="../../02.jpg" vspace="2" width="266"/></td>
+</tr>
+</table><!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="clear"> </div></div>
+<div 360chrome_form_autofill="2" class="clear"> </div>
+<div 360chrome_form_autofill="2" class="clear"> </div><iframe class="bdselect_share_bg" frameborder="0" id="bdSharePopup_selectshare1536821604004bg" style="display: none"></iframe>
+<div class="bdselect_share_box" data-bd-bind="1536821604004" id="bdSharePopup_selectshare1536821604004box" share-type="selectshare" style="display: none" tangram_guid="TANGRAM_4">
+<div class="selectshare-mod-triangle">
+<div class="triangle-border"></div>
+<div class="triangle-inset"></div></div>
+<div class="bdselect_share_head"><span>分享到</span><a class="bdselect_share_dialog_search" href="http://www.baidu.com/s?wd=&amp;tn=SE_hldp08010_vurs2xrp" target="_blank"><i class="bdselect_share_dialog_search_i"></i><span class="bdselect_share_dialog_search_span">百度一下</span></a><a class="bdselect_share_dialog_close" tangram_guid="TANGRAM_3"></a></div>
+<div class="bdselect_share_content">
+<ul class="bdselect_share_list bdshare-button-style0-16">
+<div class="bdselect_share_partners"></div><a class="bds_more" data-cmd="more" href="../../#"></a></ul></div></div>
+<div class="sr-bdimgshare sr-bdimgshare-list sr-bdimgshare-16 sr-bdimgshare-black" data-bd-bind="1536821604009" id="bdimgshare_1536821604010" style="font-size: 12px;height: 36px;display: none;line-height: 26px" tangram_guid="TANGRAM_37">
+<div class="bdimgshare-bg"></div>
+<div class="bdimgshare-content bdsharebuttonbox bdshare-button-style0-16"><label class="bdimgshare-lbl">分享到：</label><a class="bds_qzone" data-cmd="qzone" hidefocus="" href="../../#" onclick="return false;"></a><a class="bds_tsina" data-cmd="tsina" hidefocus="" href="../../#" onclick="return false;"></a><a class="bds_tqq" data-cmd="tqq" hidefocus="" href="../../#" onclick="return false;"></a><a class="bds_renren" data-cmd="renren" hidefocus="" href="../../#" onclick="return false;"></a><a class="bds_weixin" data-cmd="weixin" hidefocus="" href="../../#" onclick="return false;"></a><a class="bds_more" data-cmd="more" hidefocus="" href="../../#" onclick="return false;"></a></div></div><iframe class="bdselect_share_bg" frameborder="0" id="bdSharePopup_selectshare1515463313002bg" style="display: none" tangram_guid="TANGRAM_41"></iframe>
+<div 360chrome_form_autofill="2" class="bdselect_share_box" data-bd-bind="1515463313002" id="bdSharePopup_selectshare1515463313002box" share-type="selectshare" style="display: none" tangram_guid="TANGRAM_4">
+<div 360chrome_form_autofill="2" class="selectshare-mod-triangle">
+<div 360chrome_form_autofill="2" class="triangle-border"></div>
+<div 360chrome_form_autofill="2" class="triangle-inset"></div></div>
+<div 360chrome_form_autofill="2" class="bdselect_share_head"><span>分享到</span><a 360chrome_form_autofill="2" class="bdselect_share_dialog_search" href="http://www.baidu.com/s?wd=&amp;tn=SE_hldp08010_vurs2xrp" target="_blank"><i class="bdselect_share_dialog_search_i"></i><span class="bdselect_share_dialog_search_span">百度一下</span></a><a 360chrome_form_autofill="2" class="bdselect_share_dialog_close" tangram_guid="TANGRAM_3"></a></div>
+<div 360chrome_form_autofill="2" class="bdselect_share_content">
+<ul class="bdselect_share_list bdshare-button-style0-16">
+<div 360chrome_form_autofill="2" class="bdselect_share_partners"><a class="bds_qzone" data-cmd="qzone" href="../../sys_e_content.jsp#"></a><a class="bds_tsina" data-cmd="tsina" href="../../sys_e_content.jsp#"></a><a class="bds_tqq" data-cmd="tqq" href="../../sys_e_content.jsp#"></a><a class="bds_renren" data-cmd="renren" href="../../sys_e_content.jsp#"></a><a class="bds_weixin" data-cmd="weixin" href="../../sys_e_content.jsp#"></a></div><a 360chrome_form_autofill="2" class="bds_more" data-cmd="more" href="../../sys_e_content.jsp#"></a></ul></div></div>
+<div 360chrome_form_autofill="2" class="sr-bdimgshare sr-bdimgshare-list sr-bdimgshare-16 sr-bdimgshare-black" data-bd-bind="1515463313005" id="bdimgshare_1515463313005" style="font-size: 12px;height: 36px;display: none;line-height: 26px" tangram_guid="TANGRAM_39">
+<div 360chrome_form_autofill="2" class="bdimgshare-bg"></div>
+<div 360chrome_form_autofill="2" class="bdimgshare-content bdsharebuttonbox bdshare-button-style0-16"><label class="bdimgshare-lbl">分享到：</label><a 360chrome_form_autofill="2" class="bds_qzone" data-cmd="qzone" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a><a 360chrome_form_autofill="2" class="bds_tsina" data-cmd="tsina" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a><a 360chrome_form_autofill="2" class="bds_tqq" data-cmd="tqq" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a><a 360chrome_form_autofill="2" class="bds_renren" data-cmd="renren" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a><a 360chrome_form_autofill="2" class="bds_weixin" data-cmd="weixin" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a><a 360chrome_form_autofill="2" class="bds_more" data-cmd="more" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a></div></div>
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="i_bottom"><!--#begineditable contype="" name="底部链接" action="" layout="" clone="0" namechanged="0" order="11" ispublic="0" tagname="底部链接" viewid="42984" stylesysid=""--><script language="javascript" src="../../system/resource/js/openlink.js"></script> <a class="i_bottom" href="http://202.117.3.237:8080/system/contribute/login.jsp">在线投稿</a>
+<strong>|</strong>
+<a class="i_bottom" href="../../lxwm.htm">联系我们</a>
+<strong>|</strong>
+<a class="i_bottom" href="http://202.117.3.24:8080/system/login.jsp">管理登陆</a>
+<strong>|</strong>
+<a class="i_bottom" href="http://xwlc1.xjtu.edu.cn/">新闻流程</a>
+<!--#endeditable--><br/> <!--#begineditable contype="" name="版权" action="" layout="" clone="0" namechanged="0" order="12" ispublic="0" tagname="版权" viewid="42985" stylesysid=""-->版权所有：西安交通大学党委宣传部 网站建设：<a class="design" href="http://nic.xjtu.edu.cn">网络信息中心</a><br/>陕ICP备06008037号 网络信息中心提供网络带宽 <!--#endeditable--></div>
+

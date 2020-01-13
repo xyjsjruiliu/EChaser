@@ -1,0 +1,396 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>西安交通大学中国西部海外博士后创新示范中心</title><meta content="中国西部海外博士后创新示范中心" name="keywords"/>
+<link href="css/style.css" rel="stylesheet" type="text/css"/>
+<script src="js/jquery.min.js" type="text/javascript"></script>
+<script src="js/ddsmoothmenu.js" type="text/javascript"></script>
+<script src="js/koala.min.js" type="text/javascript"></script>
+<script src="js/terminator.min.js" type="text/javascript"></script>
+<script src="js/jquery.SuperSlide.js" type="text/javascript"></script>
+<!--Announced by Visual SiteBuilder 9-->
+<link href="_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css"/>
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307045120812 -->
+<link href="index.vsb.css" rel="stylesheet" type="text/css"/>
+<script src="/system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1537687115)</script>
+</head>
+<body>
+<div id="wrapper">
+<!--head start-->
+<div class="top">
+<div class="head">
+<div class="head_top clearfix">
+<div class="logo fl">
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="index.htm" title="中国西部海外博士后创新示范中心"><img src="images/logo.png"/></a>
+</div>
+<div class="ycljss fr">
+<div class="sousuo">
+<script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode234910').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey234910").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey234910").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey234910").value = base64.encode(document.getElementById("lucenenewssearchkey234910").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode234910"));
+        return true;
+    } 
+</script>
+<form action="ssjgy.jsp?wbtreeid=1001" id="au1a" method="post" name="au1a" onsubmit="return _nl_ys_check()" style="display: inline">
+<input id="lucenenewssearchkey234910" name="lucenenewssearchkey" type="hidden" value=""/><input id="_lucenesearchtype234910" name="_lucenesearchtype" type="hidden" value="1"/><input id="searchScope234910" name="searchScope" type="hidden" value="0"/>
+<input class="sou fl" id="showkeycode234910" name="showkeycode" type="text">
+<input class="suo fr" src="images/ssan.png" type="image">
+</input></input></form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+</div>
+</div>
+</div>
+</div>
+<!--nav开始-->
+<div class="nav">
+<div class="ddsmoothmenu" id="smoothmenu1">
+<ul>
+<li>
+<a class="cur" href="index.htm" title="首页">首页</a>
+</li>
+<li>
+<a href="zxjs/zxgk.htm" title="中心介绍">中心介绍</a>
+<ul>
+<li style="border-top:none;">
+<a href="zxjs/zxgk.htm" title="中心概况">中心概况</a>
+</li>
+<li>
+<a href="zxjs/jgzn.htm" title="机构职能">机构职能</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="xmsb/gjbshxm/xmxx.htm" title="项目申报">项目申报</a>
+<ul>
+<li style="border-top:none;">
+<a href="xmsb/gjbshxm/xmxx.htm" title="国家博士后项目">国家博士后项目</a>
+</li>
+<li>
+<a href="xmsb/sxsbshxm/xmxx.htm" title="陕西省博士后项目">陕西省博士后项目</a>
+</li>
+<li>
+<a href="xmsb/zxbshxm/xmxx.htm" title="中心博士后项目">中心博士后项目</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="zczd/gjzc.htm" title="政策制度">政策制度</a>
+<ul>
+<li style="border-top:none;">
+<a href="zczd/gjzc.htm" title="国家政策">国家政策</a>
+</li>
+<li>
+<a href="zczd/sxszc.htm" title="陕西省政策">陕西省政策</a>
+</li>
+<li>
+<a href="zczd/zxzc.htm" title="中心政策">中心政策</a>
+</li>
+<li>
+<a href="zczd/xsddgf.htm" title="学术道德规范">学术道德规范</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="fwzn/bszn/sqr.htm" title="服务指南">服务指南</a>
+<ul>
+<li style="border-top:none;">
+<a href="fwzn/bszn/sqr.htm" title="办事指南">办事指南</a>
+</li>
+<li>
+<a href="fwzn/zlxz.htm" title="资料下载">资料下载</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="zpxx.htm" title="招聘信息">招聘信息</a>
+</li>
+<li>
+<a href="zytz.htm" title="重要通知">重要通知</a>
+</li>
+<li>
+<a href="xwsd.htm" title="新闻速递">新闻速递</a>
+</li>
+<li>
+<a href="cgzs.htm" title="成果展示">成果展示</a>
+</li>
+<li>
+<a href="hzjl.htm" title="合作交流">合作交流</a>
+</li>
+</ul>
+</div>
+<script type="text/javascript">
+                        ddsmoothmenu.init({
+                            mainmenuid: "smoothmenu1", //menu DIV id
+                            orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+                            classname: 'ddsmoothmenu', //class added to menu's outer DIV
+                            //customtheme: ["#1c5a80", "#18374a"],
+                            contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+                        })
+                    </script>
+</div>
+</div>
+<!--head end-->
+<!--main start-->
+<div class="main-wrap">
+<!--banner start-->
+<div class="banner">
+<div class="slideBox" id="slideBox">
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script><div class="hd">
+<ul>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+</div>
+<div class="bd">
+<ul>
+<li>
+<a><img src="images/banner.png"/></a>
+</li>
+<li>
+<a><img src="images/banner.png"/></a>
+</li>
+<li>
+<a><img src="images/banner.png"/></a>
+</li>
+</ul>
+</div>
+<!-- 下面是前/后按钮代码，如果不需要删除即可 -->
+<a class="prev" href="javascript:void(0)"></a>
+<a class="next" href="javascript:void(0)"></a>
+</div>
+<script type="text/javascript">
+                        jQuery(".slideBox").slide({
+                            mainCell: ".bd ul",
+                            autoPlay: true
+                        });
+                    </script>
+</div>
+<!--banner end-->
+<!--one开始-->
+<div class="main clearfix">
+<!--three开始-->
+<div class="main-three clearfix">
+<div class="zxjs clearfix">
+<script language="javascript" src="/system/resource/js/ajax.js"></script><img src="/__local/0/10/02/A47C3CC53F19E951CD31166D83D_5BA3E03B_34FCD.png">
+<div class="zxjswz fl">
+<h3>中心介绍</h3>
+<p>“中国西部海外博士后创新示范中心”（以下简称“中心”）以西安交通大学发起的“丝绸之路大学联盟”和“中国西部科技创新港”为依托，旨在打造青年科技工作者创新创业和文化交流的国际平台，建立博士后人才体制机制改革试验区；同时将人才工作关口前移，着力为优秀青年人才搭建事业平台，吸引海内外优秀博士毕业生来“中心”工作，构建中国西部人才高地。</p>
+<a href="zxjs/zxgk.htm" target="_blank">查看详情</a>
+</div>
+<script>_showDynClickBatch(['dynclicks_u4_1001'],[1001],"wbnews", 1537687115)</script>
+</img></div>
+</div>
+<!--three结束-->
+<div class="main-one clearfix">
+<div class="xwdt fl">
+<div class="xwdttit clearfix">
+<div class="xwdtlmmc fl">
+                                    新闻速递
+                                </div>
+<div class="xwdtgd fr">
+<a href="xwsd.htm">更多&gt;</a>
+</div>
+</div>
+<div class="xwdtnr">
+<ul class="clearfix">
+<li style="margin-left: 0;">
+<div class="xwpic">
+<a href=""><img src="/__local/3/11/C6/F611E029379716EF5C0133253AA_B3250C5D_5653.jpg"/></a>
+</div>
+<div class="xwcon">
+<p class="xwrq">2020-01-10</p>
+<a href="info/1008/1144.htm" target="_blank" title="中国西部海外博士后创新示范中心举办博士后科学基金申报培训会">中国西部海外博士后创新示范中心举办博士后科学基金...</a>
+<p class="zy">中国西部海外博士后创新示范中心举办博士后科学基金申报培训会1月10日，“2020年中国博士后科...</p>
+</div>
+</li>
+<li>
+<div class="xwpic">
+<a href=""><img src="/__local/0/94/39/0CDBDC35D79E7081E3F62C59437_4778D3FA_7119.jpg"/></a>
+</div>
+<div class="xwcon">
+<p class="xwrq">2019-11-27</p>
+<a href="info/1008/1134.htm" target="_blank" title="“博士后国际交流计划引进项目”联谊会筹建会议召开">“博士后国际交流计划引进项目”联谊会筹建会议召开</a>
+<p class="zy">​ 2019年11月24日，“博士后国际交流计划引进项目”联谊会（以下简称“博引”联谊会）筹建讨...</p>
+</div>
+</li>
+<li>
+<div class="xwpic">
+<a href=""><img src="/__local/5/4E/01/78C1D6E83EA6D1D9BD7910994E8_1FF73375_38F8.jpg"/></a>
+</div>
+<div class="xwcon">
+<p class="xwrq">2019-10-28</p>
+<a href="info/1008/1133.htm" target="_blank" title="深圳市人社局率企业团访问我校">深圳市人社局率企业团访问我校</a>
+<p class="zy"> 10月23日，深圳市人社局专技处陆晔处长率企业团访问我校，考察中国西部海外博士后创新示范中...</p>
+</div>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u5_1144','dynclicks_u5_1134','dynclicks_u5_1133'],[1144,1134,1133],"wbnews", 1537687115)</script>
+</div>
+</div>
+<div class="tzgg fr">
+<div class="xwdttit clearfix">
+<div class="xwdtlmmc fl">
+                                    重要通知
+                                </div>
+<div class="xwdtgd fr">
+<a href="zytz.htm">更多&gt;</a>
+</div>
+</div>
+<ul>
+<li class="clearfix">
+<div class="zytzrq fl">
+<p class="ri">24</p>
+<p class="ny">2017-10</p>
+</div>
+<a href="info/1007/1098.htm" target="_blank" title="关于博士后申报助理研究员技术职称的通知">关于博士后申报助理研究员技术职称的通知</a>
+</li>
+<li class="clearfix">
+<div class="zytzrq fl">
+<p class="ri">13</p>
+<p class="ny">2017-06</p>
+</div>
+<a href="info/1007/1099.htm" target="_blank" title="关于在站人员申请专职科研博士后的通知">关于在站人员申请专职科研博士后的通知</a>
+</li>
+<li class="clearfix">
+<div class="zytzrq fl">
+<p class="ri">20</p>
+<p class="ny">2017-04</p>
+</div>
+<a href="info/1007/1096.htm" target="_blank" title="关于核对2017年陕西省博士后生活资助上报人员信息的通知">关于核对2017年陕西省博士后生活资助上报人员信息的...</a>
+</li>
+<li class="clearfix">
+<div class="zytzrq fl">
+<p class="ri">17</p>
+<p class="ny">2016-11</p>
+</div>
+<a href="info/1007/1097.htm" target="_blank" title="关于清理超期在站博士后人员的通知">关于清理超期在站博士后人员的通知</a>
+</li>
+<li class="clearfix">
+<div class="zytzrq fl">
+<p class="ri">16</p>
+<p class="ny">2016-03</p>
+</div>
+<a href="info/1007/1100.htm" target="_blank" title="关于填报并核对国家计划博士后基本信息的通知">关于填报并核对国家计划博士后基本信息的通知</a>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u6_1098','dynclicks_u6_1099','dynclicks_u6_1096','dynclicks_u6_1097','dynclicks_u6_1100'],[1098,1099,1096,1097,1100],"wbnews", 1537687115)</script>
+</div>
+<!--新闻动态-->
+</div>
+<!--one结束-->
+<!--two开始-->
+<div class="main-two clearfix">
+<div class="xmsb twolb fl">
+<div class="xwdttit clearfix">
+<div class="xwdtlmmc fl">
+                                    项目申报
+                                </div>
+<div class="xwdtgd fr">
+<a href="xmsb/gjbshxm/xmxx.htm">更多&gt;</a>
+</div>
+</div>
+<ul>
+<li><span>01-12</span><a href="/system/_content/download.jsp?urltype=news.DownloadAttachUrl&amp;owner=1537687115&amp;wbfileid=4463514" target="_blank" title="关于做好2020年度“博士后创新人才支持计划”工作的通知">关于做好2020年度“博士后创新人才支持计划”工作的通知</a></li>
+<li><span>10-09</span><a href="info/1017/1124.htm" target="_blank" title="建设中">建设中</a></li>
+<li><span>10-09</span><a href="info/1019/1123.htm" target="_blank" title="建设中">建设中</a></li>
+<li><span>01-24</span><a href="info/1016/1089.htm" target="_blank" title="西安交通大学2019年博士后项目申报通知（第一期）">西安交通大学2019年博士后项目申报通知（第一期）</a></li>
+<li><span>01-24</span><a href="info/1016/1086.htm" target="_blank" title="2019年中德博士后交流项目申报通知">2019年中德博士后交流项目申报通知</a></li>
+<li><span>01-24</span><a href="info/1016/1072.htm" target="_blank" title="2019年澳门青年学者计划申报通知">2019年澳门青年学者计划申报通知</a></li>
+<li><span>01-24</span><a href="info/1016/1075.htm" target="_blank" title="2019年香江学者计划申报通知">2019年香江学者计划申报通知</a></li>
+<li><span>01-24</span><a href="info/1016/1071.htm" target="_blank" title="2019年博士后国际交流计划学术交流项目申报通知">2019年博士后国际交流计划学术交流项目申报通知</a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u7_1145','dynclicks_u7_1124','dynclicks_u7_1123','dynclicks_u7_1089','dynclicks_u7_1086','dynclicks_u7_1072','dynclicks_u7_1075','dynclicks_u7_1071'],[1145,1124,1123,1089,1086,1072,1075,1071],"wbnews", 1537687115)</script>
+</div>
+<div class="zpxx twolb fr">
+<div class="xwdttit clearfix">
+<div class="xwdtlmmc fl">
+                                    招聘信息
+                                </div>
+<div class="xwdtgd fr">
+<a href="zpxx.htm">更多&gt;</a>
+</div>
+</div>
+<ul>
+<li><span>08-12</span><a href="info/1006/1111.htm" target="_blank" title="中心博士后招聘网址">中心博士后招聘网址</a></li>
+<li><span>03-25</span><a href="info/1006/1058.htm" target="_blank" title="2019年西咸新区与西安交通大学联合招聘博士后简章">2019年西咸新区与西安交通大学联合招聘博士后简章</a></li>
+<li><span>11-29</span><a href="info/1006/1057.htm" target="_blank" title="西安交通大学丝绸之路经济带法律政策协同创新中心助理研究员招聘启事">西安交通大学丝绸之路经济带法律政策协同创新中心助理研究员招聘启事</a></li>
+<li><span>07-03</span><a href="info/1006/1061.htm" target="_blank" title="中国西部质量科学与技术研究院专职科研博士后招聘启事">中国西部质量科学与技术研究院专职科研博士后招聘启事</a></li>
+<li><span>06-29</span><a href="info/1006/1056.htm" target="_blank" title="西安交通大学微纳尺度材料行为研究中心博士后招聘启事">西安交通大学微纳尺度材料行为研究中心博士后招聘启事</a></li>
+<li><span>05-08</span><a href="info/1006/1062.htm" target="_blank" title="医工交叉科技创新博士后招聘启事">医工交叉科技创新博士后招聘启事</a></li>
+<li><span>03-30</span><a href="info/1006/1060.htm" target="_blank" title="西安交通大学黄辰课题组诚聘专职科研博士后">西安交通大学黄辰课题组诚聘专职科研博士后</a></li>
+<li><span>03-29</span><a href="info/1006/1055.htm" target="_blank" title="西安交通大学自贸区研究院专职科研人员招聘公告">西安交通大学自贸区研究院专职科研人员招聘公告</a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u8_1111','dynclicks_u8_1058','dynclicks_u8_1057','dynclicks_u8_1061','dynclicks_u8_1056','dynclicks_u8_1062','dynclicks_u8_1060','dynclicks_u8_1055'],[1111,1058,1057,1061,1056,1062,1060,1055],"wbnews", 1537687115)</script>
+</div>
+</div>
+<!--two结束-->
+<!-- 友情链接 -->
+<div class="slideTxtBox" style="height:135px;">
+<div class="hd xwdttit clearfix"><!-- 下面是前/后按钮代码，如果不需要删除即可 -->
+<div class="links fl">
+<div class="xwdtlmmc fl">友情链接</div></div>
+<ul>
+<li class="xnlj">校内连接 </li>
+<li class="xwlj"><span></span>校外链接</li></ul>
+</div>
+<div class="bd">
+<ul> <script language="javascript" src="/system/resource/js/openlink.js"></script>
+<li><a href="http://www.xjtu.edu.cn/" onclick='_addDynClicks("wburl", 1537687115, 62246)' title="">西安交通大学</a></li>
+<li><a href="http://hr.xjtu.edu.cn/index.htm" onclick='_addDynClicks("wburl", 1537687115, 62245)' title="">人力资源部</a></li>
+<li><a href="http://std.xjtu.edu.cn" onclick='_addDynClicks("wburl", 1537687115, 62244)' title="">科研院</a></li>
+<li><a href="http://skc.xjtu.edu.cn" onclick='_addDynClicks("wburl", 1537687115, 62243)' title="">社会科学处</a></li>
+<li><a href="http://jdcw.xjtu.edu.cn" onclick='_addDynClicks("wburl", 1537687115, 62242)' title="">财务处</a></li>
+<li><a href="http://dwzzb.xjtu.edu.cn" onclick='_addDynClicks("wburl", 1537687115, 62241)' title="">党委组织部</a></li>
+<li><a href="http://dwzzb.xjtu.edu.cn" onclick='_addDynClicks("wburl", 1537687115, 62240)' title="">党委组织部</a></li>
+<li><a href="http://dwzzb.xjtu.edu.cn" onclick='_addDynClicks("wburl", 1537687115, 62239)' title="">党委组织部</a></li>
+<li><a href="http://dwzzb.xjtu.edu.cn" onclick='_addDynClicks("wburl", 1537687115, 62238)' title="">党委组织部</a></li>
+<li><a href="http://dwzzb.xjtu.edu.cn" onclick='_addDynClicks("wburl", 1537687115, 62237)' title="">党委组织部</a></li>
+<li><a href="http://dwzzb.xjtu.edu.cn" onclick='_addDynClicks("wburl", 1537687115, 62236)' title="">党委组织部</a></li>
+<li><a href="http://dwzzb.xjtu.edu.cn" onclick='_addDynClicks("wburl", 1537687115, 62235)' title="">党委组织部</a></li>
+</ul>
+<ul>
+<li><a href="http://www.mohrss.gov.cn/" onclick='_addDynClicks("wburl", 1537687115, 62250)' title="">人力资源和社会保障部</a></li>
+<li><a href="http://www.chinapostdoctor.org.cn" onclick='_addDynClicks("wburl", 1537687115, 62252)' title="">中国博士后网</a></li>
+<li><a href="http://jj.chinapostdoctor.org.cn/V1/Program3/Default.aspx" onclick='_addDynClicks("wburl", 1537687115, 62251)' title="">中国博士后科学基金会</a></li>
+<li><a href="#" onclick='_addDynClicks("wburl", 1537687115, 62249)' title="">校外链接</a></li>
+<li><a href="#" onclick='_addDynClicks("wburl", 1537687115, 62247)' title="">校外链接</a></li>
+<li><a href="#" onclick='_addDynClicks("wburl", 1537687115, 62248)' title="">校外链接</a></li>
+</ul>
+</div>
+</div>
+<script type="text/javascript">jQuery(".slideTxtBox").slide();</script>
+</div>
+</div>
+<!--main end-->
+<!--foot start-->
+<div class="foot">
+<div class="main clearfix">
+<div class="dblogo fl">
+<img src="images/dblogo.png"/>
+</div>
+<div class="bq fr">
+<!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>地址：陕西省西安市咸宁西路28号 邮编：710049 主页建议意见</p><p>版权所有：西安交通大学 站点建设与维护中国西部海外博士后创新示范中心（人力资源部）</p>
+</div>
+</div>
+</div>
+<!--foot end-->
+</div>
+</body>
+</html>

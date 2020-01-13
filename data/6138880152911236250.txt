@@ -1,0 +1,183 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<link href="fassets/css/AloeR.css" rel="stylesheet" type="text/css"/>
+<title>西安交通大学办公自动化系统</title>
+<script type="text/javascript">
+</script>
+<script>"undefined"==typeof CODE_LIVE&&(!function(e){var t={nonSecure:"8123",secure:"8124"},c={nonSecure:"http://",secure:"https://"},r={nonSecure:"127.0.0.1",secure:"gapdebug.local.genuitec.com"},n="https:"===window.location.protocol?"secure":"nonSecure";script=e.createElement("script"),script.type="text/javascript",script.async=!0,script.src=c[n]+r[n]+":"+t[n]+"/codelive-assets/bundle.js",e.getElementsByTagName("head")[0].appendChild(script)}(document),CODE_LIVE=!0);</script></head>
+<body data-genuitec-file-id="wc1-14" data-genuitec-lp-enabled="false" data-genuitec-path="/oa2018/WebRoot/index.jsp">
+<table cellpadding="0" cellspacing="0" data-genuitec-file-id="wc1-14" data-genuitec-lp-enabled="false" data-genuitec-path="/oa2018/WebRoot/index.jsp" width="100%">
+<tr>
+<td width="998"><img src="fassets/images/oa.jpg"/></td>
+<td class="noa_top"> </td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td class="login_l"></td><td width="42"><img src="fassets/images/login_l.jpg"/></td><td 120="" class="login_r" width=""></td><td class="login_r">  <a href="http://noa.xjtu.edu.cn"><img align="absmiddle" alt="登录OA系统" border="0" height="21" src="fassets/images/login.jpg" width="76"/></a></td>
+</tr>
+</table>
+<form action="index.jsp" method="post" name="l_search">
+<input id="ksrq" name="ksrq" type="hidden" value=""/>
+<input id="jsrq" name="jsrq" type="hidden" value=""/>
+<input id="processInsId" name="processInsId" type="hidden" value=""/>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td class="noa_list" colspan="2">
+<table cellpadding="0" cellspacing="3" width="100%">
+<tr>
+<td class="noa_left">
+<div class="noa_notice">最新公告</div>
+<div class="noa_more"><a href="zxgg_index.jsp">更多 &gt;&gt;</a> </div> </td>
+<td class="noa_right" nowrap="nowrap">
+<div class="noa_meeting">最新会议安排</div>
+<div class="noa_more"><a href="mzhy_index.jsp">更多 &gt;&gt;</a> </div> </td>
+</tr>
+<tr>
+<td class="list_right">
+<table align="center" cellpadding="0" cellspacing="0" class="lh_25">
+<tr onmouseout="this.style.backgroundColor = ''; " onmouseover="this.style.backgroundColor = '#dfeff5';">
+<td class="noa_title"><img align="absmiddle" src="fassets/images/news_icon.gif"/><a class="noa_list" href="#" onclick="gotodetail_tz('STTQRU')">关于2020年度国家自然科学基金项目预算审核的通知</a> <img src="fassets/images/newflag.gif"/></td>
+<td class="timedate" nowrap="">2020-01-12</td>
+</tr>
+<tr onmouseout="this.style.backgroundColor = ''; " onmouseover="this.style.backgroundColor = '#dfeff5';">
+<td class="noa_title"><img align="absmiddle" src="fassets/images/news_icon.gif"><a class="noa_list" href="#" onclick="gotodetail_tz('STTPVS')">关于做好2020年中国博士后科学基金项目和博士后创新人才支持计划申报的通知</a> <img src="fassets/images/newflag.gif"/></img></td>
+<td class="timedate" nowrap="">2020-01-12</td>
+</tr>
+<tr onmouseout="this.style.backgroundColor = ''; " onmouseover="this.style.backgroundColor = '#dfeff5';">
+<td class="noa_title"><img align="absmiddle" src="fassets/images/news_icon.gif"><a class="noa_list" href="#" onclick="gotodetail_tz('STWZ[V')">温馨提示：学校部分工作2020年寒假安排</a> <img src="fassets/images/newflag.gif"/></img></td>
+<td class="timedate" nowrap="">2020-01-11</td>
+</tr>
+<tr onmouseout="this.style.backgroundColor = ''; " onmouseover="this.style.backgroundColor = '#dfeff5';">
+<td class="noa_title"><img align="absmiddle" src="fassets/images/news_icon.gif"><a class="noa_list" href="#" onclick="gotodetail_tz('STWZZT')">关于2020年寒假后勤服务安排的通知</a> <img src="fassets/images/newflag.gif"/></img></td>
+<td class="timedate" nowrap="">2020-01-11</td>
+</tr>
+<tr onmouseout="this.style.backgroundColor = ''; " onmouseover="this.style.backgroundColor = '#dfeff5';">
+<td class="noa_title"><img align="absmiddle" src="fassets/images/news_icon.gif"><a class="noa_list" href="#" onclick="gotodetail_tz('STWTTT')">关于现场直播西安交通大学2020年寒假工作会议的通知</a> </img></td>
+<td class="timedate" nowrap="">2020-01-10</td>
+</tr>
+<tr onmouseout="this.style.backgroundColor = ''; " onmouseover="this.style.backgroundColor = '#dfeff5';">
+<td class="noa_title"><img align="absmiddle" src="fassets/images/news_icon.gif"/><a class="noa_list" href="#" onclick="gotodetail_tz('STWW[R')">关于教师高级职务评议结果的公示</a> </td>
+<td class="timedate" nowrap="">2020-01-10</td>
+</tr>
+<tr onmouseout="this.style.backgroundColor = ''; " onmouseover="this.style.backgroundColor = '#dfeff5';">
+<td class="noa_title"><img align="absmiddle" src="fassets/images/news_icon.gif"/><a class="noa_list" href="#" onclick="gotodetail_tz('STWWZW')">关于交大西迁博物馆寒假开放的通知</a> </td>
+<td class="timedate" nowrap="">2020-01-10</td>
+</tr>
+<tr onmouseout="this.style.backgroundColor = ''; " onmouseover="this.style.backgroundColor = '#dfeff5';">
+<td class="noa_title"><img align="absmiddle" src="fassets/images/news_icon.gif"/><a class="noa_list" href="#" onclick="gotodetail_tz('STWVUZ')">关于做好寒假期间实验室安全工作的通知</a> </td>
+<td class="timedate" nowrap="">2020-01-10</td>
+</tr>
+<tr onmouseout="this.style.backgroundColor = ''; " onmouseover="this.style.backgroundColor = '#dfeff5';">
+<td class="noa_title"><img align="absmiddle" src="fassets/images/news_icon.gif"/><a class="noa_list" href="#" onclick="gotodetail_tz('STWVUQ')">关于社会教育系统专业技术高级职务拟聘人选的公示</a> </td>
+<td class="timedate" nowrap="">2020-01-10</td>
+</tr>
+<tr onmouseout="this.style.backgroundColor = ''; " onmouseover="this.style.backgroundColor = '#dfeff5';">
+<td class="noa_title"><img align="absmiddle" src="fassets/images/news_icon.gif"/><a class="noa_list" href="#" onclick="gotodetail_tz('STWVWR')">关于召开“不忘初心、牢记使命”主题教育 总结会议暨2020年寒假工作会议的通知</a> </td>
+<td class="timedate" nowrap="">2020-01-10</td>
+</tr>
+<tr onmouseout="this.style.backgroundColor = ''; " onmouseover="this.style.backgroundColor = '#dfeff5';">
+<td class="noa_title"><img align="absmiddle" src="fassets/images/news_icon.gif"/><a class="noa_list" href="#" onclick="gotodetail_tz('STWPQQ')">关于别朝红等同志任职的公示</a> </td>
+<td class="timedate" nowrap="">2020-01-09</td>
+</tr>
+<tr onmouseout="this.style.backgroundColor = ''; " onmouseover="this.style.backgroundColor = '#dfeff5';">
+<td class="noa_title"><img align="absmiddle" src="fassets/images/news_icon.gif"/><a class="noa_list" href="#" onclick="gotodetail_tz('STWPPU')">关于文体中心寒假开放的通知</a> </td>
+<td class="timedate" nowrap="">2020-01-09</td>
+</tr>
+</table>
+</td>
+<td align="center" class="list_right">
+<table width="100%">
+<tr><td> <table align="center" cellpadding="0" cellspacing="0" class="lh_25">
+<tr height="25" onmouseout="this.style.backgroundColor = ''; " onmouseover="this.style.backgroundColor = '#dfeff5';">
+<td class="noa_title"><img align="absmiddle" src="fassets/images/news_icon.gif"/> <a class="noa_list" href="mzhd.jsp?ksrq=PRPRRSRT&amp;jsrq=PRPRRSSP&amp;zhou=S[" target="_blank">2020年1月6日至2020年1月12日（第19周）主要会议安排</a> </td>
+<tr height="25" onmouseout="this.style.backgroundColor = ''; " onmouseover="this.style.backgroundColor = '#dfeff5';">
+<td class="noa_title"><img align="absmiddle" src="fassets/images/news_icon.gif"/> <a class="noa_list" href="mzhd.jsp?ksrq=PRS[SPQR&amp;jsrq=PRPRRSRW&amp;zhou=SZ" target="_blank">2019年12月30日至2020年1月5日（第18周）主要会议安排</a> </td>
+<tr height="25" onmouseout="this.style.backgroundColor = ''; " onmouseover="this.style.backgroundColor = '#dfeff5';">
+<td class="noa_title"><img align="absmiddle" src="fassets/images/news_icon.gif"/> <a class="noa_list" href="mzhd.jsp?ksrq=PRS[SPPQ&amp;jsrq=PRS[SPP[&amp;zhou=SU" target="_blank">2019年12月23日至2019年12月29日（第17周）主要会议安排</a> </td>
+<tr height="25" onmouseout="this.style.backgroundColor = ''; " onmouseover="this.style.backgroundColor = '#dfeff5';">
+<td class="noa_title"><img align="absmiddle" src="fassets/images/news_icon.gif"/> <a class="noa_list" href="mzhd.jsp?ksrq=PRS[SPST&amp;jsrq=PRS[SPPP&amp;zhou=ST" target="_blank">2019年12月16日至2019年12月22日（第16周）主要会议安排</a> </td>
+<tr height="25" onmouseout="this.style.backgroundColor = ''; " onmouseover="this.style.backgroundColor = '#dfeff5';">
+<td class="noa_title"><img align="absmiddle" src="fassets/images/news_icon.gif"/> <a class="noa_list" href="mzhd.jsp?ksrq=PRS[SPR[&amp;jsrq=PRS[SPSW&amp;zhou=SW" target="_blank">2019年12月9日至2019年12月15日（第15周）主要会议安排</a> </td>
+<tr height="25" onmouseout="this.style.backgroundColor = ''; " onmouseover="this.style.backgroundColor = '#dfeff5';">
+<td class="noa_title"><img align="absmiddle" src="fassets/images/news_icon.gif"/> <a class="noa_list" href="mzhd.jsp?ksrq=PRS[SPRP&amp;jsrq=PRS[SPRZ&amp;zhou=SV" target="_blank">2019年12月2日至2019年12月8日（第14周）主要会议安排</a> </td>
+<tr height="25" onmouseout="this.style.backgroundColor = ''; " onmouseover="this.style.backgroundColor = '#dfeff5';">
+<td class="noa_title"><img align="absmiddle" src="fassets/images/news_icon.gif"/> <a class="noa_list" href="mzhd.jsp?ksrq=PRS[SSPW&amp;jsrq=PRS[SPRS&amp;zhou=SQ" target="_blank">2019年11月25日至2019年12月1日（第13周）主要会议安排</a> </td>
+<tr height="25" onmouseout="this.style.backgroundColor = ''; " onmouseover="this.style.backgroundColor = '#dfeff5';">
+<td class="noa_title"><img align="absmiddle" src="fassets/images/news_icon.gif"/> <a class="noa_list" href="mzhd.jsp?ksrq=PRS[SSSZ&amp;jsrq=PRS[SSPV&amp;zhou=SP" target="_blank">2019年11月18日至2019年11月24日（第12周）主要会议安排</a> </td>
+<tr height="25" onmouseout="this.style.backgroundColor = ''; " onmouseover="this.style.backgroundColor = '#dfeff5';">
+<td class="noa_title"><img align="absmiddle" src="fassets/images/news_icon.gif"/> <a class="noa_list" href="mzhd.jsp?ksrq=PRS[SSSS&amp;jsrq=PRS[SSSU&amp;zhou=SS" target="_blank">2019年11月11日至2019年11月17日（第11周）主要会议安排</a> </td>
+<tr height="25" onmouseout="this.style.backgroundColor = ''; " onmouseover="this.style.backgroundColor = '#dfeff5';">
+<td class="noa_title"><img align="absmiddle" src="fassets/images/news_icon.gif"/> <a class="noa_list" href="mzhd.jsp?ksrq=PRS[SSRV&amp;jsrq=PRS[SSSR&amp;zhou=SR" target="_blank">2019年11月4日至2019年11月10日（第10周）主要会议安排</a> </td>
+<tr height="25" onmouseout="this.style.backgroundColor = ''; " onmouseover="this.style.backgroundColor = '#dfeff5';">
+<td class="noa_title"><img align="absmiddle" src="fassets/images/news_icon.gif"/> <a class="noa_list" href="mzhd.jsp?ksrq=PRS[SRPZ&amp;jsrq=PRS[SSRQ&amp;zhou=[" target="_blank">2019年10月28日至2019年11月3日（第9周）主要会议安排</a> </td>
+</tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></table></td></tr>
+<tr><td>
+<table width="100%">
+<tr>
+<td class="noa_right" nowrap="nowrap">
+<div class="noa_meeting">学校大型活动</div>
+<div class="noa_more"><a href="https://one.xjtu.edu.cn/EIP/nonlogin/queryLargeActivityList.htm" target="_blank">更多 &gt;&gt;</a> </div> </td>
+</tr>
+</table>
+</td></tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="noa_left" colspan="2">
+<div class="noa_question">常见问题</div> </td>
+</tr>
+<tr>
+<td class="list_right" colspan="2">
+<p class="noindent">1、登录系统                       </p>
+<p> 在OA系统主页，点击“登录系统”按钮，在打开的统一身份认证网关输入数字校园门户登录账号（NetID）和密码登录。 
+                            如果统一身份认证网关提示“对不起, 您的校园网身份（NetID）与密码不能通过系统认证.”，请电话咨询82668827，确认您的NetID是否激活，密码是否正确。
+                            如果提示“系统中暂无您的信息，请及时与管理员联系！”，请您与本单位公文秘书联系。                          </p>
+<p class="noindent">2、 核对部门和用户信息</p>
+<p> 登录OA系统后，在系统首页上显示当前用户的部门和姓名。单击人名则可以看到个人信息卡片，烦请在基本信息里把自己的移动电话、电子邮箱进行更新，方便系统给你发送及时消息。在系统信息里可以查看到自己的安全级别，公文秘书的安全级别为50，普通人员为10.如安全级别有问题及时联系网络信息中心82668902 贾老师。                          </p>
+<p class="noindent">3、 安装控件</p>
+<p> 登录OA系统后，单击页面右上方...的图标，点击插件下载。请注意：如果控件安装不正确，会导致发文文件无法发送。 </p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" data-genuitec-file-id="wc1-1" data-genuitec-lp-enabled="false" data-genuitec-path="/oa2018/WebRoot/bottom_noa.jsp" width="100%">
+<tr><td align="center"><div align="center">开发和维护：<a href="http://nic.xjtu.edu.cn/" target="_blank"><font color="red">西安交通大学网络信息中心</font></a>  
+	<a href="http://www.beian.miit.gov.cn/" target="_blank">陕ICP备06008037号</a>  
+</div></td>
+</tr></table>
+<br/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</form>
+</body>
+<script>
+
+
+function gotodetail_tz(id){
+		
+	document.getElementById("processInsId").value=id;
+	l_search.action="zxgg_readcount.jsp";
+	l_search.target="_blank";
+	l_search.submit();
+			
+}
+
+function gotodetail_hd(startd,endd){
+		
+	document.getElementById("ksrq").value=startd;
+	document.getElementById("jsrq").value=endd;
+	l_search.target="_blank";
+	l_search.action="../info/hyapfb/info.jsp";
+	l_search.submit();
+			
+}
+
+
+</script>
+</html>

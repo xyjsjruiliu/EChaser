@@ -1,0 +1,1237 @@
+<!DOCTYPE html>
+<html><head>
+<meta content="IE=Edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<meta charset="utf-8"/>
+<link href="css/reset.css" rel="stylesheet"/>
+<link href="css/common.css" rel="stylesheet"/>
+<link href="css/index.css" rel="stylesheet"/>
+<title>西安交通大学西迁博物馆</title><meta content="西安交通大学西迁博物馆" name="keywords">
+<script src="js/jquery.min.js"></script>
+<script src="js/jquery.SuperSlide.js"></script>
+<!--Announced by Visual SiteBuilder 9-->
+<link href="_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307045120812 -->
+<link href="index.vsb.css" rel="stylesheet" type="text/css">
+<script src="/system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1023,'/index.jsp',-1,1557903784)</script>
+</link></link></meta></head>
+<body style="min-width: 1200px;">
+<!--头部开始-->
+<div id="header">
+<div class="commonWidth clear">
+<div class="lf">
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a class="clearFix logo_index" href="index.htm" title="西迁博物馆"><img alt="西迁博物馆" border="0" height="130" src="img/logo.png" title="西迁博物馆" width="608"/></a>
+</div>
+<ul class="rt clearFix header_right">
+<li class="rt header_search">
+<script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode245973').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey245973").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey245973").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey245973").value = base64.encode(document.getElementById("lucenenewssearchkey245973").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode245973"));
+        return true;
+    } 
+</script>
+<form action="jsjg.jsp?wbtreeid=1023" id="au1a" method="post" name="au1a" onsubmit="return _nl_ys_check()" style="display: inline">
+<input id="lucenenewssearchkey245973" name="lucenenewssearchkey" type="hidden" value=""/><input id="_lucenesearchtype245973" name="_lucenesearchtype" type="hidden" value="1"/><input id="searchScope245973" name="searchScope" type="hidden" value="0"/>
+<div>
+<span class="searchIcon"><input type="submit" value=""/></span>
+<input class="searchBox" id="showkeycode245973" name="showkeycode" type="text"/>
+</div>
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+</li>
+<li class="rt">
+<img alt="" src="img/header_list.png"/>
+</li>
+</ul>
+</div>
+</div>
+<!--头部结束-->
+<!--导航部分开始-->
+<div>
+<div class="nav">
+<ul class="commonWidth">
+<li class="lf">
+<h3 class="selectTitle">
+<a href="index.htm" title="首页">首页</a>
+</h3>
+</li>
+<li class="lf">
+<h3>
+<a href="zggk/zgjj.htm" title="展馆概况">展馆概况</a>
+<ul class="subTitle">
+<li><a href="zggk/zgjj.htm" title="展馆简介">展馆简介</a></li>
+<li><a href="zggk/zzjg.htm" title="组织架构">组织架构</a></li>
+<li><a href="zggk/gzzd1.htm" title="规章制度">规章制度</a></li>
+</ul>
+</h3>
+</li>
+<li class="lf">
+<h3>
+<a href="xwgg/tzgg.htm" title="新闻公告">新闻公告</a>
+<ul class="subTitle">
+<li><a href="xwgg/tzgg.htm" title="通知公告">通知公告</a></li>
+<li><a href="xwgg/xwkx.htm" title="新闻快讯">新闻快讯</a></li>
+<li><a href="xwgg/zlxz.htm" title="资料下载">资料下载</a></li>
+</ul>
+</h3>
+</li>
+<li class="lf">
+<h3>
+<a href="xjhd/cgzn.htm" title="宣教活动">宣教活动</a>
+<ul class="subTitle">
+<li><a href="xjhd/cgzn.htm" title="参观指南">参观指南</a></li>
+<li><a href="xjhd/jjfw.htm" title="讲解服务">讲解服务</a></li>
+<li><a href="xjhd/zthd.htm" title="主题活动">主题活动</a></li>
+</ul>
+</h3>
+</li>
+<li class="lf">
+<h3>
+<a href="clzl/jqzl.htm" title="陈列展览">陈列展览</a>
+<ul class="subTitle">
+<li><a href="clzl/jqzl.htm" title="近期展览">近期展览</a></li>
+<li><a href="clzl/zlhg.htm" title="展览回顾">展览回顾</a></li>
+<li><a href="clzl/szzt.htm" title="数字展厅">数字展厅</a></li>
+</ul>
+</h3>
+</li>
+<li class="lf">
+<h3>
+<a href="dzyj/xswh.htm" title="典藏研究">典藏研究</a>
+<ul class="subTitle">
+<li><a href="dzyj/xswh.htm" title="校史文化">校史文化</a></li>
+<li><a href="dzyj/dzgs.htm" title="典藏故事">典藏故事</a></li>
+<li><a href="dzyj/jdsp.htm" title="经典视频">经典视频</a></li>
+</ul>
+</h3>
+</li>
+<li class="lf">
+<h3>
+<a href="xqhz/xqss.htm" title="西迁华章">西迁华章</a>
+<ul class="subTitle">
+<li><a href="xqhz/xqss.htm" title="西迁史实">西迁史实</a></li>
+<li><a href="xqhz/xqjs.htm" title="西迁精神">西迁精神</a></li>
+<li><a href="xqhz/zjxq.htm" title="致敬西迁">致敬西迁</a></li>
+</ul>
+</h3>
+</li>
+<li class="lf">
+<h3>
+<a href="gywm/lxwm1.htm" title="关于我们">关于我们</a>
+<ul class="subTitle">
+<li><a href="gywm/lxwm1.htm" title="联系我们">联系我们</a></li>
+</ul>
+</h3>
+</li>
+</ul>
+</div>
+<div class="slideBox clear bannerBox" id="slideBox">
+<div class="bd">
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script><ul>
+<li>
+<a href="" style="cursor: default;"><img alt="" border="0" height="600" src="images/02.jpg" width="100%"/></a>
+</li>
+<li>
+<a href="" style="cursor: default;"><img alt="" border="0" height="600" src="images/03.jpg" width="100%"/></a>
+</li>
+<li>
+<a href="" style="cursor: default;"><img alt="" border="0" height="600" src="images/01.jpg" width="100%"/></a>
+</li>
+<li>
+<a href="" style="cursor: default;"><img alt="" border="0" height="600" src="images/04.jpg" width="100%"/></a>
+</li>
+<li>
+<a href="" style="cursor: default;"><img alt="" border="0" height="600" src="images/05.jpg" width="100%"/></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<!--导航部分结束-->
+<!--通知公告开始-->
+<div>
+<div class="commonWidth clearFix mainTop">
+<!--左-->
+<div class="lf tongLeft">
+<!--通知公告-->
+<div class="tongLeft_top">
+<div class="clearFix tongLeft_title">
+<h3 class="lf clearFix">
+<img alt="" class="lf" src="img/tongzhi.png"/>
+<span class="lf"><a href="xwgg/tzgg.htm" style="color:#333333;text-decoration:none;out-line: none;">通知公告</a></span>
+</h3>
+</div>
+<script language="javascript" src="/system/resource/js/ajax.js"></script><ul>
+<li class="clearFix">
+<a class="lf" href="info/1033/1936.htm" target="_blank" title="交大西迁博物馆关于2020年寒假期间开放时间的公告">交大西迁博物馆关于2020年寒假期...</a>
+<span class="rt">【01-06】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1033/1499.htm" target="_blank" title="参观须知">参观须知</a>
+<span class="rt">【08-02】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1033/1268.htm" target="_blank" title="交大西迁博物馆参观接待管理办法（试行）">交大西迁博物馆参观接待管理办法...</a>
+<span class="rt">【07-17】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1033/1261.htm" target="_blank" title="交大西迁博物馆参观流程及须知">交大西迁博物馆参观流程及须知</a>
+<span class="rt">【07-12】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1033/1296.htm" target="_blank" title="西迁博物馆讲解、场地使用收费办法">西迁博物馆讲解、场地使用收费办法</a>
+<span class="rt">【05-23】</span>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u4_1936','dynclicks_u4_1499','dynclicks_u4_1268','dynclicks_u4_1261','dynclicks_u4_1296'],[1936,1499,1268,1261,1296],"wbnews", 1557903784)</script>
+</div>
+<!--校园文化-->
+<div class="tongLeft_sub">
+<div class="clearFix tongLeft_title">
+<h3 class="lf clearFix">
+<img alt="" class="lf" src="img/schoolCulture.png"/>
+<span class="lf"><a href="dzyj/xswh.htm" style="color:#333333;text-decoration:none;out-line: none;">校史文化</a></span>
+</h3>
+</div>
+<div class="bd">
+<ul class="infoList">
+<li class="clearFix">
+<a class="lf" href="info/1046/1896.htm" target="_blank" title="我家的西迁漫记">我家的西迁漫记</a>
+<span class="rt">【12-16】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1868.htm" target="_blank" title="交通大学西迁亲历者口述史3">交通大学西迁亲历者口述史3</a>
+<span class="rt">【11-28】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1866.htm" target="_blank" title="在地球上散步——追忆江其务教授">在地球上散步——追忆江其务教授</a>
+<span class="rt">【11-28】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1865.htm" target="_blank" title="西迁精神歌词：《黄浦江水渭河情》">西迁精神歌词：《黄浦江水渭河情》</a>
+<span class="rt">【11-28】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="http://58.206.125.28/?p=6749" target="_blank" title="丰富多彩的课余生活–忆交大摩托车队">丰富多彩的课余生活–忆交大摩托车队</a>
+<span class="rt">【11-28】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1739.htm" target="_blank" title="交通大学西迁亲历者口述史2">交通大学西迁亲历者口述史2</a>
+<span class="rt">【08-26】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1738.htm" target="_blank" title="交通大学西迁亲历者口述史1">交通大学西迁亲历者口述史1</a>
+<span class="rt">【08-26】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1487.htm" target="_blank" title="（英俊济跄）江小涓:中国工业经济专业第一位女博士*">（英俊济跄）江小涓:中国工业经济...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1486.htm" target="_blank" title="（英俊济跄）张玮：新时期产业工人的榜样">（英俊济跄）张玮：新时期产业工...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1485.htm" target="_blank" title="（英俊济跄）付春钢：少年班走出的电机专家">（英俊济跄）付春钢：少年班走出...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1484.htm" target="_blank" title="（英俊济跄）侯义斌：全国有突出贡献的回国留学人员">（英俊济跄）侯义斌：全国有突出...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1483.htm" target="_blank" title="（英俊济跄）韩启德在陕西的难忘岁月*">（英俊济跄）韩启德在陕西的难忘...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1482.htm" target="_blank" title="（英俊济跄）陈惠波：敢于挑战世界权威的技术专家">（英俊济跄）陈惠波：敢于挑战世...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1481.htm" target="_blank" title="（英俊济跄）交大新时期造就的科技工程“巨匠”">（英俊济跄）交大新时期造就的科...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1480.htm" target="_blank" title="（英俊济跄）王选父子的交大情结">（英俊济跄）王选父子的交大情结</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1479.htm" target="_blank" title="（英俊济跄）蒋正华在母校的日子*">（英俊济跄）蒋正华在母校的日子*</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1478.htm" target="_blank" title="（英俊济跄）李义怀：中国第一颗同步通信卫星的研制者">（英俊济跄）李义怀：中国第一颗...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1477.htm" target="_blank" title="（英俊济跄）蒋新松：中国机器人之父">（英俊济跄）蒋新松：中国机器人之父</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1476.htm" target="_blank" title="（英俊济跄）为中国首枚火箭成功发射做出重大贡献的交大人">（英俊济跄）为中国首枚火箭成功...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1475.htm" target="_blank" title="（英俊济跄）丁关根：中国共产党宣传思想文化战线的卓越领导人">（英俊济跄）丁关根：中国共产党...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1474.htm" target="_blank" title="（英俊济跄）金凤：从交大走上革命道路的女记者">（英俊济跄）金凤：从交大走上革...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1473.htm" target="_blank" title="（英俊济跄）卢燕：第一代圆梦好莱坞的华裔女星">（英俊济跄）卢燕：第一代圆梦好...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1472.htm" target="_blank" title="（英俊济跄）黄旭华：中国核潜艇之父">（英俊济跄）黄旭华：中国核潜艇之父</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1471.htm" target="_blank" title="（英俊济跄）江泽民三次回母校">（英俊济跄）江泽民三次回母校</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1470.htm" target="_blank" title="（英俊济跄）夏培肃：中国计算机事业的奠基人">（英俊济跄）夏培肃：中国计算机...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1469.htm" target="_blank" title="（英俊济跄）“华人之光”王安">（英俊济跄）“华人之光”王安</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1468.htm" target="_blank" title="（英俊济跄）徐光宪：交大人永远的骄傲">（英俊济跄）徐光宪：交大人永远...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1467.htm" target="_blank" title="（英俊济跄）“两弹一星”元勋杨嘉墀">（英俊济跄）“两弹一星”元勋杨嘉墀</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1466.htm" target="_blank" title="（英俊济跄）胡声求和他的“旧金山中国飞机制造厂”">（英俊济跄）胡声求和他的“旧金...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1465.htm" target="_blank" title="（英俊济跄）爱国侨领董寅初">（英俊济跄）爱国侨领董寅初</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1464.htm" target="_blank" title="（英俊济跄）黄志千：新中国飞机设计事业的开创者">（英俊济跄）黄志千：新中国飞机...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1463.htm" target="_blank" title="（英俊济跄）孪生兄弟交大七年度同窗">（英俊济跄）孪生兄弟交大七年度同窗</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1462.htm" target="_blank" title="（英俊济跄）张光斗：土木工程学院走出的最受崇敬校友">（英俊济跄）张光斗：土木工程学...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1461.htm" target="_blank" title="（英俊济跄）老交大“学霸”钱钟韩">（英俊济跄）老交大“学霸”钱钟韩</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1460.htm" target="_blank" title="（英俊济跄）钱学森的母校情缘">（英俊济跄）钱学森的母校情缘</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1459.htm" target="_blank" title="（英俊济跄）陆定一关怀母校发展">（英俊济跄）陆定一关怀母校发展</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1458.htm" target="_blank" title="（英俊济跄）交通大学早期的陕西籍学生马师亮">（英俊济跄）交通大学早期的陕西...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1457.htm" target="_blank" title="（英俊济跄）杨左陶：从交通大学走出的动画专家">（英俊济跄）杨左陶：从交通大学...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1456.htm" target="_blank" title="（英俊济跄）支秉渊：中国汽车之父">（英俊济跄）支秉渊：中国汽车之父</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1455.htm" target="_blank" title="（英俊济跄）申国权：交大参加奥运会第一人">（英俊济跄）申国权：交大参加奥...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1454.htm" target="_blank" title="（英俊济跄）邹韬奋：工科大学走出的文化巨子">（英俊济跄）邹韬奋：工科大学走...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1453.htm" target="_blank" title="（英俊济跄）谢无量：南洋公学走出的孙中山秘书">（英俊济跄）谢无量：南洋公学走...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1452.htm" target="_blank" title="（英俊济跄）“和平老人”邵力子">（英俊济跄）“和平老人”邵力子</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1451.htm" target="_blank" title="（英俊济跄）谁是李复几">（英俊济跄）谁是李复几</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1450.htm" target="_blank" title="（英俊济跄）李叔同：中国现代艺术启蒙教育的先驱">（英俊济跄）李叔同：中国现代艺...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1449.htm" target="_blank" title="（英俊济跄）黄炎培在南洋公学特班">（英俊济跄）黄炎培在南洋公学特班</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1448.htm" target="_blank" title="（英俊济跄）沈心工：中国音乐教育第一人">（英俊济跄）沈心工：中国音乐教...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1447.htm" target="_blank" title="（英俊济跄）“胡氏四杰”与交通大学">（英俊济跄）“胡氏四杰”与交通大学</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1446.htm" target="_blank" title="（英俊济跄）父携子就学沪上">（英俊济跄）父携子就学沪上</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1445.htm" target="_blank" title="（先生之风）姚熹：中国铁电陶瓷领域的奠基人">（先生之风）姚熹：中国铁电陶瓷...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1444.htm" target="_blank" title="（先生之风）孟庆集:改革新时期中央落实优秀知识分子政策的典型">（先生之风）孟庆集:改革新时期中...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1443.htm" target="_blank" title="（先生之风）谢友柏：中国机械摩擦学事业的重要开拓者">（先生之风）谢友柏：中国机械摩...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1442.htm" target="_blank" title="（先生之风）唐照千：一代力学大师">（先生之风）唐照千：一代力学大师</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1441.htm" target="_blank" title="（先生之风）闵宗陶：我国物资价格理论的核心奠基人">（先生之风）闵宗陶：我国物资价...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1440.htm" target="_blank" title="（先生之风）屈梁生：我国机械故障诊断领域的开创者">（先生之风）屈梁生：我国机械故...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1439.htm" target="_blank" title="（先生之风）江其务：中国银行信贷管理学科的开拓者和奠基人">（先生之风）江其务：中国银行信...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1438.htm" target="_blank" title="（先生之风）汪应洛：以“治国之道”开创中国管理事业的管理学大师">（先生之风）汪应洛：以“治国之...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1437.htm" target="_blank" title="（先生之风）杨延篪：用行动为祖国赢得荣誉的学者">（先生之风）杨延篪：用行动为祖...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1436.htm" target="_blank" title="（先生之风）郑守淇与中国第一台智能计算机">（先生之风）郑守淇与中国第一台...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1435.htm" target="_blank" title="（先生之风）程敬之与中国第一台复合型相控阵超声诊断仪">（先生之风）程敬之与中国第一台...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1434.htm" target="_blank" title="（先生之风）杨世铭：我国传热学教学的开拓者之一">（先生之风）杨世铭：我国传热学...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1433.htm" target="_blank" title="（先生之风）杨宗昌：新中国会计承上启下的代表人物之一">（先生之风）杨宗昌：新中国会计...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1432.htm" target="_blank" title="（先生之风）杨晋堦：抗战老兵、西迁元老">（先生之风）杨晋堦：抗战老兵、...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1431.htm" target="_blank" title="（先生之风）苗永淼：“共负中兴业、力薄一份情”">（先生之风）苗永淼：“共负中兴...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1430.htm" target="_blank" title="（先生之风）蒋大宗：中国生物医学工程的创始人">（先生之风）蒋大宗：中国生物医...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1429.htm" target="_blank" title="（先生之风）王季梅：“中国真空电器之父”">（先生之风）王季梅：“中国真空...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1428.htm" target="_blank" title="（先生之风）魏明中：杰出的高等医学教育领导者">（先生之风）魏明中：杰出的高等...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1427.htm" target="_blank" title="（先生之风）阳含和：机械控制工程课程的奠基者">（先生之风）阳含和：机械控制工...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1426.htm" target="_blank" title="（先生之风）朱城:我国工程力学专业的奠基者*">（先生之风）朱城:我国工程力学专...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1425.htm" target="_blank" title="（先生之风）蒋咏秋：我国工程力学和材料力学科教领域的先驱">（先生之风）蒋咏秋：我国工程力...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1424.htm" target="_blank" title="（先生之风）陈学俊：“为中国工程事业奋斗到底”的杰出科学家">（先生之风）陈学俊：“为中国工...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1423.htm" target="_blank" title="（先生之风）来虔：西安交大机械原理课程建设的奠基人">（先生之风）来虔：西安交大机械...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1422.htm" target="_blank" title="（先生之风）顾崇衔：我国机械制造学科的主要创始人之一">（先生之风）顾崇衔：我国机械制...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1421.htm" target="_blank" title="（先生之风）方亮：中国著名的医学微生物学家">（先生之风）方亮：中国著名的医...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1420.htm" target="_blank" title="（先生之风）黄席椿黄席棠兄弟与交大物理学发展">（先生之风）黄席椿黄席棠兄弟与...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1419.htm" target="_blank" title="（先生之风）徐桂芳：中国应用数学、计算数学的开拓者">（先生之风）徐桂芳：中国应用数...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1418.htm" target="_blank" title="（先生之风）邢润雨：中国金融理论发展的核心奠基人">（先生之风）邢润雨：中国金融理...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1417.htm" target="_blank" title="（先生之风）张鸿对交大基础教学传统的贡献">（先生之风）张鸿对交大基础教学...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1416.htm" target="_blank" title="（先生之风）周惠久和他的“金花”科研成果">（先生之风）周惠久和他的“金花...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1415.htm" target="_blank" title="（先生之风）沈尚贤：中国自动控制与电子工程教育的奠基者">（先生之风）沈尚贤：中国自动控...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1414.htm" target="_blank" title="（先生之风）殷大钧先生其人其事">（先生之风）殷大钧先生其人其事</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1413.htm" target="_blank" title="（先生之风）陈季丹：我国电介质物理课程的开创者">（先生之风）陈季丹：我国电介质...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1412.htm" target="_blank" title="（先生之风）严晙：交通大学电力工程系及工业自动化专业的创始人">（先生之风）严晙：交通大学电力...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1411.htm" target="_blank" title="（先生之风） 刘蔚同：中国现代皮肤病学重要奠基者">（先生之风） 刘蔚同：中国现代皮...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1409.htm" target="_blank" title="（先生之风） 24、赵富鑫：交大物理学优良教学传统的奠">（先生之风） 24、赵富鑫：交大物...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1408.htm" target="_blank" title="（先生之风）潘作新：我国现代眼科学重要开拓者">（先生之风）潘作新：我国现代眼...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1407.htm" target="_blank" title="（先生之风）陈大燮：中国热力工程的先驱">（先生之风）陈大燮：中国热力工...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1406.htm" target="_blank" title="（先生之风）张同和：我国外科学事业的重要开拓者">（先生之风）张同和：我国外科学...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1405.htm" target="_blank" title="（先生之风）朱公谨：我国高等数学教育的奠基者">（先生之风）朱公谨：我国高等数...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1404.htm" target="_blank" title="（先生之风） 一代文理大师顾毓琇与西安交大之缘">（先生之风） 一代文理大师顾毓琇...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1403.htm" target="_blank" title="（先生之风） 毛鸿志：西北地区病理学发展奠基人">（先生之风） 毛鸿志：西北地区病...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1402.htm" target="_blank" title="（先生之风）钟兆琳：中国电机之父">（先生之风）钟兆琳：中国电机之父</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1401.htm" target="_blank" title="（先生之风）君心一片磁针石——深切缅怀敬爱的彭康校长">（先生之风）君心一片磁针石——...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1400.htm" target="_blank" title="（先生之风） 王景槐：西北联大医学院临时附属诊所首任所长">（先生之风） 王景槐：西北联大医...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1399.htm" target="_blank" title="（先生之风）侯宗濂：著名医学教育家暨生理学大师">（先生之风）侯宗濂：著名医学教...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1398.htm" target="_blank" title="（先生之风） 颜守民：中国现代儿科学宗师">（先生之风） 颜守民：中国现代儿...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1397.htm" target="_blank" title="（先生之风）杜定友：中国近代图书馆事业的奠基者">（先生之风）杜定友：中国近代图...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1396.htm" target="_blank" title="（先生之风）唐庆诒：国学世家走出的英语大师">（先生之风）唐庆诒：国学世家走...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1395.htm" target="_blank" title="（先生之风） 淩鸿勋：交通大学培养出的我国最年轻校长">（先生之风） 淩鸿勋：交通大学培...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1394.htm" target="_blank" title="（先生之风）徐佐夏：西北地区高等医学教育的拓荒者">（先生之风）徐佐夏：西北地区高...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1393.htm" target="_blank" title="（先生之风） 蹇先器：西北联大医学院的奠基">（先生之风） 蹇先器：西北联大医...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1392.htm" target="_blank" title="（先生之风）叔侄并肩 向西而行">（先生之风）叔侄并肩 向西而行</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1391.htm" target="_blank" title="（先生之风） 交大老夫子“陈石英”">（先生之风） 交大老夫子“陈石英”</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1390.htm" target="_blank" title="（先生之风） 黄竹斋：医学部中医学主要创立者">（先生之风） 黄竹斋：医学部中医...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1389.htm" target="_blank" title="（先生之风） 张廷金：中国无线电事业的主要奠基人">（先生之风） 张廷金：中国无线电...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1388.htm" target="_blank" title="（先生之风） 谢尔屯：老交大历史上执教时间最长的外教">（先生之风） 谢尔屯：老交大历史...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1387.htm" target="_blank" title="（先生之风）唐文治与交通大学*">（先生之风）唐文治与交通大学*</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1386.htm" target="_blank" title="（先生之风） 辜鸿铭在交大">（先生之风） 辜鸿铭在交大</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1385.htm" target="_blank" title="（文脉承传）西迁精神的光辉*">（文脉承传）西迁精神的光辉*</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1384.htm" target="_blank" title="（文脉承传）为世界之光：交大精神的历史解读">（文脉承传）为世界之光：交大精...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1383.htm" target="_blank" title="（文脉承传）校旗飘扬 与日俱长">（文脉承传）校旗飘扬 与日俱长</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1382.htm" target="_blank" title="（文脉承传）意蕴深长的交大校徽">（文脉承传）意蕴深长的交大校徽</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1381.htm" target="_blank" title="（文脉承传）弦歌百廿  再忆校歌">（文脉承传）弦歌百廿  再忆校歌</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1380.htm" target="_blank" title="（文脉承传）交大校训中的文化精义">（文脉承传）交大校训中的文化精义</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1379.htm" target="_blank" title="（文脉承传） “饮水思源”情  拳拳爱校心*">（文脉承传） “饮水思源”情  拳...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1378.htm" target="_blank" title="（文脉承传） 对钱学森图书馆前雕塑的回忆">（文脉承传） 对钱学森图书馆前雕...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1377.htm" target="_blank" title="（文脉承传）校门沧桑话交大 *">（文脉承传）校门沧桑话交大 *</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1376.htm" target="_blank" title="（文脉承传）话说“老交大讲演传统”">（文脉承传）话说“老交大讲演传统”</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1375.htm" target="_blank" title="（文脉承传）百廿交大 社团寻宗——交大早期的社团活动">（文脉承传）百廿交大 社团寻宗—...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1374.htm" target="_blank" title="（文脉承传）巨匠严中求，真功实处谋——史上“最严”的实习制度*">（文脉承传）巨匠严中求，真功实...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1373.htm" target="_blank" title="（文脉承传）从昔日体育运动到今日赛艇挑战赛">（文脉承传）从昔日体育运动到今...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1372.htm" target="_blank" title="（文脉承传）南洋学子的“话剧潮”">（文脉承传）南洋学子的“话剧潮”</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1371.htm" target="_blank" title="（真理之花）刘文善在抗美援朝的日子里">（真理之花）刘文善在抗美援朝的...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1370.htm" target="_blank" title="（真理之花）穆汉祥、史霄雯： “为人民利益而光荣就义”的革命英烈">（真理之花）穆汉祥、史霄雯： “...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1369.htm" target="_blank" title="（真理之花）共产党人侯绍裘与南洋义务学校">（真理之花）共产党人侯绍裘与南...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1368.htm" target="_blank" title="（真理之花）蔡锷：中华民国国葬第一人">（真理之花）蔡锷：中华民国国葬...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1367.htm" target="_blank" title="（真理之花）白毓昆：为辛亥革命喋血滦州的南洋骄子">（真理之花）白毓昆：为辛亥革命...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1366.htm" target="_blank" title="（真理之花）交大学生与“反饥饿、反内战、反迫害”运动*">（真理之花）交大学生与“反饥饿...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1365.htm" target="_blank" title="（真理之花）“五·二〇”惨案后的交大民主运动*">（真理之花）“五·二〇”惨案后的...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1364.htm" target="_blank" title="（真理之花）了不起的护校运动">（真理之花）了不起的护校运动</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1363.htm" target="_blank" title="（真理之花）“五卅运动”中的交大学生">（真理之花）“五卅运动”中的交...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1362.htm" target="_blank" title="（真理之花）交大地下党组织发展记">（真理之花）交大地下党组织发展记</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1361.htm" target="_blank" title="（真理之花）交大最早的党组织建设及光荣的革命传统">（真理之花）交大最早的党组织建...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1360.htm" target="_blank" title="（真理之花）“五四精神”与交大学生运动">（真理之花）“五四精神”与交大...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1359.htm" target="_blank" title="（真理之花）“墨水瓶事件”：中国教育史上一最大纪念">（真理之花）“墨水瓶事件”：中...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1358.htm" target="_blank" title="（科学奥府）三校合并前的财经教育发展路">（科学奥府）三校合并前的财经教...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1357.htm" target="_blank" title="（科学奥府）医学教育抗战迁陕八十年">（科学奥府）医学教育抗战迁陕八十年</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1356.htm" target="_blank" title="（科学奥府）浅话交大少年班">（科学奥府）浅话交大少年班</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1355.htm" target="_blank" title="（科学奥府）交大研究生教育纪事*">（科学奥府）交大研究生教育纪事*</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1354.htm" target="_blank" title="（科学奥府）交大计算机学科发展回眸">（科学奥府）交大计算机学科发展回眸</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1353.htm" target="_blank" title="（科学奥府）能源动力工程学院的历史溯源*">（科学奥府）能源动力工程学院的...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1352.htm" target="_blank" title="（科学奥府）交大管理教育发展回眸">（科学奥府）交大管理教育发展回眸</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1351.htm" target="_blank" title="（科学奥府）交大电气教育发展回眸">（科学奥府）交大电气教育发展回眸</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1350.htm" target="_blank" title="（科学奥府）电信研究所：解放前我国工学硕士授予最多的单位">（科学奥府）电信研究所：解放前...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1349.htm" target="_blank" title="（科学奥府）航空工程教育：中国航空航天事业人才的摇篮">（科学奥府）航空工程教育：中国...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1348.htm" target="_blank" title="（科学奥府）机械工程教育与那时的名教授们">（科学奥府）机械工程教育与那时...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1347.htm" target="_blank" title="（科学奥府）陈柱与交大中国文学系">（科学奥府）陈柱与交大中国文学系</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1346.htm" target="_blank" title="（科学奥府）裘维裕与交大曾有的科学学院">（科学奥府）裘维裕与交大曾有的...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1345.htm" target="_blank" title="（科学奥府）工业研究所 : 国内最早的大学研究机构">（科学奥府）工业研究所 : 国内最...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1344.htm" target="_blank" title="（科学奥府）铁路管理科: 中国现代管理人才培养之源头">（科学奥府）铁路管理科: 中国现...</a>
+<span class="rt">【08-01】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1339.htm" target="_blank" title="（科学奥府）国文科：交大工文并重办学传统之开端">（科学奥府）国文科：交大工文并...</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1338.htm" target="_blank" title="（科学奥府） 航海科 :中国高等航海教育的奠基">（科学奥府） 航海科 :中国高等航...</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1337.htm" target="_blank" title="（科学奥府） 电机科：中国高等电机工程教育的肇端 19世纪60、70时代，随着电力的广泛应用，人类社会开">（科学奥府） 电机科：中国高等电...</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1336.htm" target="_blank" title="（科学奥府）铁路科：交大高等工程教育的探索之路">（科学奥府）铁路科：交大高等工...</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1335.htm" target="_blank" title="（科学奥府） 师范院：中国师范教育之滥觞">（科学奥府） 师范院：中国师范教...</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1334.htm" target="_blank" title="（西迁华章）悠久的非洲情谊——医疗工作支援苏丹、马拉维、瓦努阿图概况">（西迁华章）悠久的非洲情谊——...</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1333.htm" target="_blank" title="（西迁华章）三校合一著华章">（西迁华章）三校合一著华章</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1332.htm" target="_blank" title="（西迁华章）立足西部 走向世界">（西迁华章）立足西部 走向世界</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1331.htm" target="_blank" title="（西迁华章）大西北的灿烂明珠 *">（西迁华章）大西北的灿烂明珠 *</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1330.htm" target="_blank" title="（西迁华章）进入国家重点建设时期">（西迁华章）进入国家重点建设时期</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1329.htm" target="_blank" title="（西迁华章） 风雨岁月  賡续传统">（西迁华章） 风雨岁月  賡续传统</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1328.htm" target="_blank" title="（西迁华章） 迁校十年谱新篇">（西迁华章） 迁校十年谱新篇</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1327.htm" target="_blank" title="（西迁华章）胡耀邦来到交大师生中">（西迁华章）胡耀邦来到交大师生中</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1326.htm" target="_blank" title="（西迁华章）扎根西部  科技新兴">（西迁华章）扎根西部  科技新兴</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1325.htm" target="_blank" title="（西迁华章）迁校时的难忘记忆 *">（西迁华章）迁校时的难忘记忆 *</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1324.htm" target="_blank" title="（西迁华章）国家视野中的“交大西迁”">（西迁华章）国家视野中的“交大...</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1323.htm" target="_blank" title="（西迁华章）周恩来与交通大学西迁">（西迁华章）周恩来与交通大学西迁</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1322.htm" target="_blank" title="（西迁华章）定名“西安交通大学” *">（西迁华章）定名“西安交通大学...</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1321.htm" target="_blank" title="（西迁华章）一校两地  拓业东西 *">（西迁华章）一校两地  拓业东西 ...</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1320.htm" target="_blank" title="（西迁华章）八方“交”子聚古城">（西迁华章）八方“交”子聚古城</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1319.htm" target="_blank" title="（西迁华章）兴庆宫阙新校起">（西迁华章）兴庆宫阙新校起</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1318.htm" target="_blank" title="（西迁华章）到祖国最需要的地方去 *">（西迁华章）到祖国最需要的地方...</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1317.htm" target="_blank" title="（长河撷英）“白区抗大”的财经星火">（长河撷英）“白区抗大”的财经星火</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1316.htm" target="_blank" title="（长河撷英）徒步翻越秦岭——医学院抗战迁徙的一次壮举">（长河撷英）徒步翻越秦岭——医...</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1315.htm" target="_blank" title="（长河撷英）西迁抗战——扎根建设大西北的医学高等教育先行者">（长河撷英）西迁抗战——扎根建...</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1314.htm" target="_blank" title="（长河撷英）新中国成立后的新征程">（长河撷英）新中国成立后的新征程</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1313.htm" target="_blank" title="（长河撷英）山重水复  沪上再起">（长河撷英）山重水复  沪上再起</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1312.htm" target="_blank" title="（长河撷英）在抗战大后方崛起的“新”交大">（长河撷英）在抗战大后方崛起的...</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1311.htm" target="_blank" title="（长河撷英）抗战烽火中的不辍弦歌">（长河撷英）抗战烽火中的不辍弦歌</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1310.htm" target="_blank" title="（长河撷英）交通大学的“黄金时代”">（长河撷英）交通大学的“黄金时代”</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1309.htm" target="_blank" title="（长河撷英）孙中山父子与交通大学">（长河撷英）孙中山父子与交通大学</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1308.htm" target="_blank" title="（长河撷英）“Chiao-Tung University”之意">（长河撷英）“Chiao-Tung Univer...</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1307.htm" target="_blank" title="（长河撷英）定名“交通大学”">（长河撷英）定名“交通大学”</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1306.htm" target="_blank" title="（长河撷英）“后南洋”时期 初与交通结缘">（长河撷英）“后南洋”时期 初与...</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1305.htm" target="_blank" title="（长河撷英）社会科举废  南洋实学兴">（长河撷英）社会科举废  南洋实...</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1304.htm" target="_blank" title="（长河撷英）福开森与南洋西学道路的开辟">（长河撷英）福开森与南洋西学道...</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1303.htm" target="_blank" title="（长河撷英）张元济与南洋公学译书院">（长河撷英）张元济与南洋公学译书院</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1302.htm" target="_blank" title="（长河撷英）蔡元培与南洋公学">（长河撷英）蔡元培与南洋公学</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1046/1301.htm" target="_blank" title="（长河撷英）盛宣怀与南洋公学初创">（长河撷英）盛宣怀与南洋公学初创</a>
+<span class="rt">【07-31】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="http://news.xjtu.edu.cn/content.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1050&amp;wbnewsid=114818" target="_blank" title="陈学俊：赤诚之心献祖国">陈学俊：赤诚之心献祖国</a>
+<span class="rt">【06-11】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="http://www.jyb.cn/rmtzcg/xwy/wzxw/201812/t20181227_127097.html" target="_blank" title="彭康：新中国高等教育的开拓者">彭康：新中国高等教育的开拓者</a>
+<span class="rt">【12-27】</span>
+</li>
+</ul>
+</div>
+<script type="text/javascript">
+jQuery(".tongLeft_sub").slide({titCell:".hd ul",mainCell:".bd ul",autoPage:true,effect:"topLoop",autoPlay:true,vis:5,easing:"swing",delayTime:700,pnLoop:false,mouseOverStop:false});
+</script><script>_showDynClickBatch(['dynclicks_u5_1896','dynclicks_u5_1868','dynclicks_u5_1866','dynclicks_u5_1865','dynclicks_u5_1864','dynclicks_u5_1739','dynclicks_u5_1738','dynclicks_u5_1487','dynclicks_u5_1486','dynclicks_u5_1485','dynclicks_u5_1484','dynclicks_u5_1483','dynclicks_u5_1482','dynclicks_u5_1481','dynclicks_u5_1480','dynclicks_u5_1479','dynclicks_u5_1478','dynclicks_u5_1477','dynclicks_u5_1476','dynclicks_u5_1475','dynclicks_u5_1474','dynclicks_u5_1473','dynclicks_u5_1472','dynclicks_u5_1471','dynclicks_u5_1470','dynclicks_u5_1469','dynclicks_u5_1468','dynclicks_u5_1467','dynclicks_u5_1466','dynclicks_u5_1465','dynclicks_u5_1464','dynclicks_u5_1463','dynclicks_u5_1462','dynclicks_u5_1461','dynclicks_u5_1460','dynclicks_u5_1459','dynclicks_u5_1458','dynclicks_u5_1457','dynclicks_u5_1456','dynclicks_u5_1455','dynclicks_u5_1454','dynclicks_u5_1453','dynclicks_u5_1452','dynclicks_u5_1451','dynclicks_u5_1450','dynclicks_u5_1449','dynclicks_u5_1448','dynclicks_u5_1447','dynclicks_u5_1446','dynclicks_u5_1445','dynclicks_u5_1444','dynclicks_u5_1443','dynclicks_u5_1442','dynclicks_u5_1441','dynclicks_u5_1440','dynclicks_u5_1439','dynclicks_u5_1438','dynclicks_u5_1437','dynclicks_u5_1436','dynclicks_u5_1435','dynclicks_u5_1434','dynclicks_u5_1433','dynclicks_u5_1432','dynclicks_u5_1431','dynclicks_u5_1430','dynclicks_u5_1429','dynclicks_u5_1428','dynclicks_u5_1427','dynclicks_u5_1426','dynclicks_u5_1425','dynclicks_u5_1424','dynclicks_u5_1423','dynclicks_u5_1422','dynclicks_u5_1421','dynclicks_u5_1420','dynclicks_u5_1419','dynclicks_u5_1418','dynclicks_u5_1417','dynclicks_u5_1416','dynclicks_u5_1415','dynclicks_u5_1414','dynclicks_u5_1413','dynclicks_u5_1412','dynclicks_u5_1411','dynclicks_u5_1409','dynclicks_u5_1408','dynclicks_u5_1407','dynclicks_u5_1406','dynclicks_u5_1405','dynclicks_u5_1404','dynclicks_u5_1403','dynclicks_u5_1402','dynclicks_u5_1401','dynclicks_u5_1400','dynclicks_u5_1399','dynclicks_u5_1398','dynclicks_u5_1397','dynclicks_u5_1396','dynclicks_u5_1395','dynclicks_u5_1394','dynclicks_u5_1393','dynclicks_u5_1392','dynclicks_u5_1391','dynclicks_u5_1390','dynclicks_u5_1389','dynclicks_u5_1388','dynclicks_u5_1387','dynclicks_u5_1386','dynclicks_u5_1385','dynclicks_u5_1384','dynclicks_u5_1383','dynclicks_u5_1382','dynclicks_u5_1381','dynclicks_u5_1380','dynclicks_u5_1379','dynclicks_u5_1378','dynclicks_u5_1377','dynclicks_u5_1376','dynclicks_u5_1375','dynclicks_u5_1374','dynclicks_u5_1373','dynclicks_u5_1372','dynclicks_u5_1371','dynclicks_u5_1370','dynclicks_u5_1369','dynclicks_u5_1368','dynclicks_u5_1367','dynclicks_u5_1366','dynclicks_u5_1365','dynclicks_u5_1364','dynclicks_u5_1363','dynclicks_u5_1362','dynclicks_u5_1361','dynclicks_u5_1360','dynclicks_u5_1359','dynclicks_u5_1358','dynclicks_u5_1357','dynclicks_u5_1356','dynclicks_u5_1355','dynclicks_u5_1354','dynclicks_u5_1353','dynclicks_u5_1352','dynclicks_u5_1351','dynclicks_u5_1350','dynclicks_u5_1349','dynclicks_u5_1348','dynclicks_u5_1347','dynclicks_u5_1346','dynclicks_u5_1345','dynclicks_u5_1344','dynclicks_u5_1339','dynclicks_u5_1338','dynclicks_u5_1337','dynclicks_u5_1336','dynclicks_u5_1335','dynclicks_u5_1334','dynclicks_u5_1333','dynclicks_u5_1332','dynclicks_u5_1331','dynclicks_u5_1330','dynclicks_u5_1329','dynclicks_u5_1328','dynclicks_u5_1327','dynclicks_u5_1326','dynclicks_u5_1325','dynclicks_u5_1324','dynclicks_u5_1323','dynclicks_u5_1322','dynclicks_u5_1321','dynclicks_u5_1320','dynclicks_u5_1319','dynclicks_u5_1318','dynclicks_u5_1317','dynclicks_u5_1316','dynclicks_u5_1315','dynclicks_u5_1314','dynclicks_u5_1313','dynclicks_u5_1312','dynclicks_u5_1311','dynclicks_u5_1310','dynclicks_u5_1309','dynclicks_u5_1308','dynclicks_u5_1307','dynclicks_u5_1306','dynclicks_u5_1305','dynclicks_u5_1304','dynclicks_u5_1303','dynclicks_u5_1302','dynclicks_u5_1301','dynclicks_u5_1899','dynclicks_u5_1900'],[1896,1868,1866,1865,1864,1739,1738,1487,1486,1485,1484,1483,1482,1481,1480,1479,1478,1477,1476,1475,1474,1473,1472,1471,1470,1469,1468,1467,1466,1465,1464,1463,1462,1461,1460,1459,1458,1457,1456,1455,1454,1453,1452,1451,1450,1449,1448,1447,1446,1445,1444,1443,1442,1441,1440,1439,1438,1437,1436,1435,1434,1433,1432,1431,1430,1429,1428,1427,1426,1425,1424,1423,1422,1421,1420,1419,1418,1417,1416,1415,1414,1413,1412,1411,1409,1408,1407,1406,1405,1404,1403,1402,1401,1400,1399,1398,1397,1396,1395,1394,1393,1392,1391,1390,1389,1388,1387,1386,1385,1384,1383,1382,1381,1380,1379,1378,1377,1376,1375,1374,1373,1372,1371,1370,1369,1368,1367,1366,1365,1364,1363,1362,1361,1360,1359,1358,1357,1356,1355,1354,1353,1352,1351,1350,1349,1348,1347,1346,1345,1344,1339,1338,1337,1336,1335,1334,1333,1332,1331,1330,1329,1328,1327,1326,1325,1324,1323,1322,1321,1320,1319,1318,1317,1316,1315,1314,1313,1312,1311,1310,1309,1308,1307,1306,1305,1304,1303,1302,1301,1899,1900],"wbnews", 1557903784)</script>
+</div>
+</div>
+<!--中-->
+<div class="lf tongMd">
+<div class="newsTitle clearFix">
+<h3 class="lf clearFix">
+<img alt="" class="lf" src="img/news.png"/>
+<span class="lf"><a href="xwgg/xwkx.htm" style="color:#333333;text-decoration:none;out-line: none;">新闻快讯</a></span>
+</h3>
+</div>
+<div class="newDong">
+<div class="newImg">
+<ul>
+<li class="newPhoto">
+<a class="newBanner" href="https://mp.weixin.qq.com/s/LCwXtPWCjsIj8hE8yvJbsA">
+<img alt="" border="none" height="246px" src="/__local/7/25/94/9728B9212345206751216DC1582_C7D62E30_290B4.png" width="438px">
+</img></a>
+<a class="newName" href="https://mp.weixin.qq.com/s/LCwXtPWCjsIj8hE8yvJbsA" target="_blank" title="留言本里的“新”语“新”愿">留言本里的“新”语“新”愿</a>
+</li>
+<li class="newPhoto">
+<a class="newBanner" href="https://mp.weixin.qq.com/s/WStz2_7u7YYj1ettk_YQug">
+<img alt="" border="none" height="246px" src="/__local/1/CD/C9/A49F946F443F925C3960C6AC7FD_F3447FB2_1C70D.png" width="438px">
+</img></a>
+<a class="newName" href="https://mp.weixin.qq.com/s/WStz2_7u7YYj1ettk_YQug" target="_blank" title="西迁馆展品鉴赏之五--“前进1956”机车模型背后三代人的交大情">西迁馆展品鉴赏之五--“前进1956”机车模型背后...</a>
+</li>
+<li class="newPhoto">
+<a class="newBanner" href="https://mp.weixin.qq.com/s/HMMAUqc0wnsfCEAq5zyMHQ">
+<img alt="" border="none" height="246px" src="/__local/F/8D/4A/82E142CC2B1C037601E5DBD68DA_400CCBB0_131D3.png" width="438px">
+</img></a>
+<a class="newName" href="https://mp.weixin.qq.com/s/HMMAUqc0wnsfCEAq5zyMHQ" target="_blank" title="数说交小迁的2019">数说交小迁的2019</a>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u6_1942','dynclicks_u6_1940','dynclicks_u6_1925'],[1942,1940,1925],"wbnews", 1557903784)</script>
+</div>
+</div>
+<ul class="newCon">
+<li class="clearFix">
+<a class="lf" href="https://mp.weixin.qq.com/s/LCwXtPWCjsIj8hE8yvJbsA" target="_blank" title="留言本里的“新”语“新”愿">留言本里的“新”语“新”愿</a>
+<span class="rt">【01-10】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="https://mp.weixin.qq.com/s/WStz2_7u7YYj1ettk_YQug" target="_blank" title="西迁馆展品鉴赏之五--“前进1956”机车模型背后三代人的交大情">西迁馆展品鉴赏之五--“前进1956”机车模...</a>
+<span class="rt">【01-09】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="https://mp.weixin.qq.com/s/KU_iirRUj9cqsHEd3Oxhsw" target="_blank" title="交大西迁博物馆每周参观速递">交大西迁博物馆每周参观速递</a>
+<span class="rt">【01-08】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="https://mp.weixin.qq.com/s/HMMAUqc0wnsfCEAq5zyMHQ" target="_blank" title="数说交小迁的2019">数说交小迁的2019</a>
+<span class="rt">【01-02】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="https://mp.weixin.qq.com/s/qoy_J5exqsKKlc3KkvqR1w" target="_blank" title="交大西迁博物馆每周参观速递">交大西迁博物馆每周参观速递</a>
+<span class="rt">【01-02】</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="http://news.xjtu.edu.cn/info/1033/126916.htm" target="_blank" title="【央视探索·发现】播出两集纪录片《西迁纪》">【央视探索·发现】播出两集纪录片《西迁纪》</a>
+<span class="rt">【12-30】</span>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u7_1942','dynclicks_u7_1940','dynclicks_u7_1937','dynclicks_u7_1925','dynclicks_u7_1924','dynclicks_u7_1938'],[1942,1940,1937,1925,1924,1938],"wbnews", 1557903784)</script>
+</div>
+<!--右-->
+<div class="lf tongRt">
+<div class="tongSub_top">
+<script language="javascript" src="/system/resource/js/openlink.js"></script>
+<a class="clearFix" href="info/1033/1499.htm" onclick='_addDynClicks("wburl", 1557903784, 60635)' title="">
+<img alt="" class="lf" src="img/titleLeft.png"/>
+<span class="lf">参观须知</span>
+<img alt="" class="lf" src="img/titleRight.png"/>
+</a>
+</div>
+<div class="tongSub_m">
+<a class="zhuanTitle clearFix" href="ztzl.htm">
+<img alt="" class="lf" src="img/titleLeft.png"/>
+<span class="lf">专题展览</span>
+<img alt="" class="lf" src="img/titleRight.png"/>
+</a>
+<ul class="zhuanCon">
+<li class="clearFix">
+<a class="lf" href="http://jdxqmuseum.xjtu.edu.cn/info/1041/1916.htm" target="_blank" title="“爱国奋斗 旗帜高扬”交大西迁博物馆开馆周年纪念特展">“爱国奋斗 旗帜高扬”交...</a>
+<span class="rt">12-24</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="https://mp.weixin.qq.com/s/xdFvxmP0s22Ifc4h_sJAQA" target="_blank" title="“向祖国献礼，为创新喝彩——学生艺术作品展”今日开幕！">“向祖国献礼，为创新喝...</a>
+<span class="rt">12-24</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="http://jdxqmuseum.xjtu.edu.cn/info/1041/1803.htm" target="_blank" title="“不忘初心，牢记使命”西迁先贤业绩展">“不忘初心，牢记使命”...</a>
+<span class="rt">12-24</span>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u9_1915','dynclicks_u9_1914','dynclicks_u9_1913'],[1915,1914,1913],"wbnews", 1557903784)</script>
+</div>
+<div class="tongSub_bottom">
+<a class="juanTitle clearFix" href="jzxx.htm">
+<img alt="" class="lf" src="img/titleLeft.png"/>
+<span class="lf">捐赠信息</span>
+<img alt="" class="lf" src="img/titleRight.png"/>
+</a>
+<ul class="juanCon">
+<li class="clearFix">
+<a class="lf" href="info/1053/1846.htm" target="_blank" title="交大西迁博物馆藏品征集信息">交大西迁博物馆藏品征集信息</a>
+<span class="rt">10-12</span>
+</li>
+<li class="clearFix">
+<a class="lf" href="info/1053/1548.htm" target="_blank" title="交大西迁博物馆、高等工程教育博物馆藏品征集信息">交大西迁博物馆、高等工...</a>
+<span class="rt">08-06</span>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u10_1846','dynclicks_u10_1548'],[1846,1548],"wbnews", 1557903784)</script>
+</div>
+</div>
+</div>
+</div>
+<!--通知公告结束-->
+<!--网上展馆开始-->
+<div class="netClass">
+<div class="commonWidth">
+<div class="clearFix classTitle">
+<h3 class="lf clearFix">
+<img alt="" class="lf" src="img/net.png"/>
+<span class="lf">网上展馆</span>
+</h3>
+</div>
+<ul class="clearFix netImg">
+<li class="lf clearFix">
+<a href="https://www.jt720.cn//t/47cd5b868d65b341" target="_blank" title="序厅">
+<img alt="" border="0" height="393" src="/__local/E/71/54/567B6C27F6F475570585D033630_A0AF69C7_34D88.png" width="279">
+<div class="netBox">
+<ul class="clearFix">
+<li class="rt">序厅</li>
+</ul>
+</div>
+</img></a>
+</li>
+<li class="lf clearFix">
+<a href="https://www.jt720.cn//t/15e4603217e1f158" target="_blank" title="溯源">
+<img alt="" border="0" height="393" src="/__local/8/DE/A5/92F292E08DD95AE189CF8933C8E_606EFFCC_20A7B.png" width="279">
+<div class="netBox">
+<ul class="clearFix">
+<li class="rt">溯源</li>
+</ul>
+</div>
+</img></a>
+</li>
+<li class="lf clearFix">
+<a href="https://www.jt720.cn//t/5add5340e11ab7e0" target="_blank" title="西迁">
+<img alt="" border="0" height="393" src="/__local/2/E6/9A/EE9154E72C82F1F42291228AAF4_047C8550_2C4B2.png" width="279">
+<div class="netBox">
+<ul class="clearFix">
+<li class="rt">西迁</li>
+</ul>
+</div>
+</img></a>
+</li>
+<li class="lf clearFix">
+<a href="https://www.jt720.cn//t/be481346a9c78b93" target="_blank" title="致远">
+<img alt="" border="0" height="393" src="/__local/F/C5/87/A317B13597FBD7FACE9CA204E63_A8E4E756_2642C.png" width="279">
+<div class="netBox">
+<ul class="clearFix">
+<li class="rt">致远</li>
+</ul>
+</div>
+</img></a>
+</li>
+</ul>
+<ul>
+</ul><script>_showDynClickBatch(['dynclicks_u11_1297','dynclicks_u11_1298','dynclicks_u11_1299','dynclicks_u11_1300'],[1297,1298,1299,1300],"wbnews", 1557903784)</script>
+</div>
+</div>
+<!--网上展馆结束-->
+<!--友情链接开始-->
+<div class="friendShipLink">
+<div class="commonWidth">
+<div class="linkTitle clearFix">
+<b class="lf">|</b>
+<span class="lf">友情链接</span>
+<a class="rt more" href="yqlj.htm"></a>
+</div>
+<ul class="clearFix linkList">
+<li class="lf">
+<a href="http://www.sach.gov.cn/" target="_blank" title="国家文物局">国家文物局</a>
+</li>
+<li class="lf">
+<a href="http://wwj.shaanxi.gov.cn/" target="_blank" title="陕西省文物局">陕西省文物局</a>
+</li>
+<li class="lf">
+<a href="http://xawwj.xa.gov.cn/ptl/index.html" target="_blank" title="西安市文物局">西安市文物局</a>
+</li>
+<li class="lf">
+<a href="http://58.206.125.28/" target="_blank" title="西安交通大学档案馆">西安交通大学档案馆</a>
+</li>
+<li class="lf">
+<a href="http://www.museum.xjtu.edu.cn/" target="_blank" title="西安交通大学博物馆">西安交通大学博物馆</a>
+</li>
+<li class="lf">
+<a href="http://xsg.tsinghua.edu.cn/" target="_blank" title="清华大学校史馆">清华大学校史馆</a>
+</li>
+<li class="lf">
+<a href="http://www.museum.hit.edu.cn/" target="_blank" title="哈尔滨工业大学博物馆">哈尔滨工业大学博物馆</a>
+</li>
+<li class="lf">
+<a href="http://www.qianxslib.sjtu.edu.cn/" target="_blank" title="钱学森图书馆">钱学森图书馆</a>
+</li>
+<li class="lf">
+<a href="http://bwg1.snnu.edu.cn/" target="_blank" title="陕西师范大学博物馆">陕西师范大学博物馆</a>
+</li>
+<li class="lf">
+<a href="http://bwg.nwu.edu.cn/" target="_blank" title="西北大学博物馆">西北大学博物馆</a>
+</li>
+</ul>
+<script>_showDynClickBatch(['dynclicks_u12_1157','dynclicks_u12_1156','dynclicks_u12_1155','dynclicks_u12_1154','dynclicks_u12_1153','dynclicks_u12_1152','dynclicks_u12_1151','dynclicks_u12_1150','dynclicks_u12_1149','dynclicks_u12_1148'],[1157,1156,1155,1154,1153,1152,1151,1150,1149,1148],"wbnews", 1557903784)</script>
+</div>
+</div>
+<!--友情链接结束-->
+<!--底部开始-->
+<div id="footer">
+<div class="footerBox">
+<ul class="clearFix">
+<li class="lf">
+<div>
+<!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<span><p>地址：陕西省西安市咸宁西路28号 邮编：710049 电话：82666292</p><p>版权所有：交大西迁博物馆</p></span>
+</div>
+</li>
+<li class="rt clearFix">
+<div class="lf">
+<p>
+<a href="images/19/06/06/1k9ragyzcv/guanWei.png" onclick='_addDynClicks("wbimage", 1557903784, 51245)' target="_blank" title="官方微信">
+<img border="0" height="64" src="images/19/06/06/1k9ragyzcv/guanWei.png" width="64"/>
+</a>
+</p>
+<h3>官方微信</h3>
+</div>
+<div class="lf">
+<p>
+<a href="images/19/06/06/1k9ragyzcv/xiWei.png" onclick='_addDynClicks("wbimage", 1557903784, 51246)' target="_blank" title="交大万象">
+<img border="0" height="64" src="images/19/06/06/1k9ragyzcv/xiWei.png" width="64"/>
+</a>
+</p>
+<h3>交大万象</h3>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<!--底部结束-->
+<script>
+ 
+               jQuery(".slideBox").slide({mainCell:".bd ul",effect:"left",autoPlay:true,easing:"easeOutCirc",delayTime:3000,interTime:5000});
+        
+        $(".newDong").slide({
+            mainCell:".newImg ul",
+            effect:'leftLoop',
+            autoPlay:true
+        });
+    </script>
+</body></html>

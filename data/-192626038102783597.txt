@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta content="webkit|ie-comp|ie-stand" name="renderer">
+<meta content="width=device-width, user-scalable=no, initial-scale=1.0,maximum-scale=1.0" name="viewport"/>
+<meta content="edge" http-equiv="X-UA-Compatible">
+<meta content="no-cache,no-store, must-revalidate" http-equiv="cache-control"/>
+<meta content="no-cache" http-equiv="pragma"/>
+<meta content="0" http-equiv="Expires"/>
+<!--连接css-->
+<link href="css/public/common.css" rel="stylesheet"/>
+<!--报错信息弹出框展示-->
+<link href="css/Popup.css" rel="stylesheet"/>
+<link href="css/login/swiper.min.css" rel="stylesheet"/>
+<!-- <link rel="stylesheet" href="css/login/login.css"> -->
+<title>西安交通大学统一身份认证网关</title>
+</meta></meta></head>
+<body>
+<div class="loginBox" style="display:none">
+<div class="organizational">
+<img class="bigBg" src="images/bgNow.jpg"/>
+<div class="header">
+<div class="header_content">
+<span class="span">
+<img class="img_3" src="images/shouji.png"/>移动交通大学APP
+                    </span>
+<div class="img_1"><img src="images/headerBg.png"/>统一身份认证网关</div>
+<div class="div_img">
+<div class="img_2" id="img_2">
+<img id="qrCodeIcoimg"/>
+</div>
+<!--<img class="img_2" src="images/produce_qr_code.png"/>-->
+<p>移动交通大学下载</p>
+</div>
+</div>
+</div>
+<!--主体内容展示信息-->
+<div class="main">
+<img class="miniBg" src="images/miniBg1.png"/>
+<div class="swiper-container">
+<div class="swiper-wrapper">
+</div>
+<div class="swiper-pagination"></div><!--分页器。如果放置在swiper-container外面，需要自定义样式。-->
+</div>
+<!--账号密码登陆-->
+<div class="main_info">
+<h3 class="h3">账号密码登录</h3>
+<div class="login-mian-title"><span>正在登录至</span> <span class="teach"></span><span class="xitong"></span></div>
+<form class="form" id="form1" role="form">
+<input autocomplete="off" autofocus="autofocus" class="username" maxlength="50" name="username" placeholder="职工号/学生号/NetID/手机号/身份证" type="text"/>
+<p class="span_username">职工号/学生号/NetID/手机号/身份证不能为空</p>
+<input autocomplete="new-password" class="pwd" maxlength="20" name="pwd" placeholder="请输入密码" type="password"/>
+<p class="span_password">密码不能为空</p>
+<div class="codeBox">
+<input class="text_yan" maxlength="6" name="jcaptchaCode" placeholder="验证码" type="text"/>
+<!--获取图片验证码-->
+<img alt="" class="img_span" src=""/>
+<p class="span_img">图形验证码不能为空</p>
+</div>
+</form>
+<div class="new">
+<span class="newAdd">新用户认证</span>
+<span class="forget">忘记密码</span>
+</div>
+<!--登录按钮展示-->
+<div class="login_btn account_login" id="account_login">登录</div>
+<div class="sendInfo message" id="message">短信验证码登录</div>
+</div>
+<!--短信验证码登录-->
+<div class="main_info_send" id="formSend" role="formSend">
+<h3 class="h3">短信验证码登录</h3>
+<div class="login-mian-title"><span>正在登录至</span><span class="teach"></span><span class="xitong"></span></div>
+<form class="form">
+<div class="phone">
+<span>+86</span>
+<input class="phoneVal" maxlength="11" name="phoneVal" placeholder="请输入手机号码" type="text"/>
+</div>
+<p class="phoneVal_span">手机号不能为空！ </p>
+<div class="VerificationCode">
+<input class="code" name="code" placeholder="请输入验证码" type="text"/>
+<span class="codeSend">获取验证码</span>
+</div>
+<p class="code_span">验证码不能为空! </p>
+</form>
+<div class="new">
+<span class="newAdd">新用户认证</span>
+<span class="forget">忘记密码</span>
+</div>
+<div class="login_btn message_login" id="message_login">登录</div>
+<div class="sendInfo account" id="account">账号密码登录</div>
+</div>
+</div>
+<!--页脚内容展示-->
+<div class="footer">
+<p><span>开发维护：西安交通大学网络信息中心 </span><span>账号密码问题：029-82667777</span></p>
+<p>建议使用 IE10及以上，或谷歌（Chrome）浏览器</p>
+</div>
+<!--新用户认证弹出框-->
+<div class="mark"></div>
+<div class="new_pop">
+<div class="new_h3_title">
+<div class="title_left">提示</div>
+<div class="title_right">×</div>
+</div>
+<div class="new_info">新用户， 请下载“移动交通大学” App完成认证！</div>
+<div class="new_query" id="new_query">
+<img id="qrCodeIco">
+</img></div>
+<div class="new_info_1">开发维护：西安交通大学网络信息中心</div>
+<div class="new_info_1">账号密码问题：029-82667777</div>
+<div class="new_info_2">认证操作说明</div>
+<div class="new_info_btn">确定</div>
+</div>
+<div class="van-dialog1">
+<div class="new_h3_title">
+<div class="title_left">提示</div>
+<div class="title_right">×</div>
+</div>
+<div class="old_pass_tip">密码过于简单,建议修改密码！</div>
+<div class="passTip_btn">确定</div>
+</div>
+</div>
+<div class="isMObil">
+<div class="logoMain">
+<img alt="" src="./images/logo-xa.png"/>
+<div class="logoTitle">统一身份认证登录</div>
+</div>
+<!--账号密码登陆-->
+<div class="main_info">
+<!-- <h3 class="h3">账号密码登录</h3> -->
+<div class="login-mian-title"><span>正在登录至</span><span class="teach"></span><span class="xitong"></span></div>
+<form autocomplete="off" class="form" id="form" role="form">
+<div class="inputBox">
+<div>账号</div>
+<input autocomplete="off" class="username" maxlength="50" name="username" placeholder="职工号/学生号/NetID/手机号" type="text"/>
+</div>
+<p class="span_username">职工号/学生号/NetID/手机号/身份证不能为空</p>
+<div class="inputBox">
+<div>密码</div>
+<input autocomplete="new-password" class="pwd" maxlength="20" name="pwd" placeholder="请输入密码" type="password"/>
+</div>
+<p class="span_password">密码不能为空!</p>
+<div class="codeBox">
+<div class="codeBoxDiv">
+<div>验证码</div>
+<input class="text_yan" maxlength="6" name="jcaptchaCode" placeholder="验证码" type="text"/>
+<!--获取图片验证码-->
+<img alt="" class="img_span" src=""/>
+</div>
+<p class="span_img">图形验证码不能为空!</p>
+</div>
+</form>
+<div class="new">
+<div class="new-left">
+<span class="newAdd1 message">验证码登录</span>
+<span class="line"></span>
+<span class="newAdd newAdd1">新用户认证</span>
+</div>
+<span class="forget forget1">忘记密码</span>
+</div>
+<!--登录按钮展示-->
+<div class="login_btn account_login" id="account_login">登录</div>
+<!-- <div class="sendInfo message" id="message">短信验证码登录</div> -->
+</div>
+<!--短信验证码登录-->
+<div class="main_info_send" id="formSend" role="formSend">
+<!-- <h3 class="h3">短信验证码登录</h3> -->
+<div class="login-mian-title"><span>正在登录至</span><span class="teach"></span><span class="xitong"></span></div>
+<form class="form">
+<div class="phone">
+<div>手机号</div>
+<input class="phoneVal" maxlength="11" name="phoneVal" placeholder="请输入手机号码" type="text"/>
+</div>
+<p class="phoneVal_span">手机号不能为空！ </p>
+<div class="VerificationCode">
+<div>验证码 </div>
+<input class="code" name="code" placeholder="请输入验证码" type="text"/>
+<span class="codeSend">获取验证码</span>
+</div>
+<p class="code_span">验证码不能为空! </p>
+</form>
+<div class="new">
+<div class="new-left">
+<span class="newAdd1 account">账号密码登录</span>
+<span class="line"></span>
+<span class="newAdd newAdd1">新用户认证</span>
+</div>
+<span class="forget forget1">忘记密码</span>
+<!-- <span class="newAdd newAdd1">新用户认证</span>
+                  <span class="forget forget1">忘记密码</span> -->
+</div>
+<div class="login_btn message_login" id="message_login">登录</div>
+<!-- <div class="sendInfo account" id="account">账号密码登录</div> -->
+</div>
+<div class="footer">
+<div>开发维护：西安交通大学网络信息中心 </div>
+<div>账号密码问题：029-82667777</div>
+</div>
+<!-- h5 移动端弹框 -->
+<div class="van-overlay"></div>
+<div class="van-dialog">
+<div class="title">提示</div>
+<div class="content">新用户， 请下载“移动交通大学” App完成认证！</div>
+<div class="new_query" id="new_query1">
+<img id="qrCodeIco1">
+</img></div>
+<div class="content1">开发维护：西安交通大学网络信息中心</div>
+<div class="content1">账号密码问题：029-82667777</div>
+<div class="content1 new_info_2">认证操作说明</div>
+<div class="new_info_btn1 new_info_btn">确定</div>
+</div>
+<div class="van-dialog1">
+<div class="title">提示</div>
+<div class="content">密码过于简单,建议修改密码！</div>
+<div class="new_info_btn1 passTip_btn">确定</div>
+</div>
+</div>
+</div>
+<!--连接js-->
+<script src="js/public/jquery-1.8.3.min.js"></script>
+<!--swiper-->
+<script src="js/login/swiper.min.js"></script>
+<!--生成二维码js-->
+<script src="js/public/jquery.qrcode.min.js"></script>
+<!--解决JSON兼容问题-->
+<script src="js/public/json2.js"></script>
+<!--密码加密规则-->
+<!--<script src="js/public/jsencrypt.min.js"></script>-->
+<!--密码加密规则-->
+<script src="js/public/crypto.js"></script>
+<!--处理placeholder的兼容问题-->
+<script src="js/public/jquery.placeholder.min.js"></script>
+<script src="js/public/jquery.validate.js"></script>
+<!--保存信息弹出框展示信息-->
+<script src="js/public/Popup.js"></script>
+<script src="js/common/common.js"></script>
+<!--<script src="js/common/common.js"></script>-->
+<!-- <script src="js/login/login.js"></script> -->
+<script>
+         var script = document.createElement("script");
+            script.type = "text/javascript";
+            script.src='js/login/login.js?t=' + new Date().getTime() ;
+            document.body.appendChild(script);
+      // document.write('<script src="js/login/login.js?t=' + new Date().getTime() + '"><\/script>')
+
+      </script>
+</body>
+</html>

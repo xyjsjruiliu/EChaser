@@ -1,0 +1,280 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<title>学校“不忘初心、牢记使命”主题教育全面启动-西安交通大学数字报</title>
+<link href="css/ys.css" rel="stylesheet" type="text/css"/>
+<script language="Javascript" src="js/prototype.js"></script>
+<script language="Javascript" src="js/range1.js"></script>
+<script language="Javascript" src="js/calendar.js"></script>
+<script language="Javascript" src="js/menu.js"></script>
+<script language="Javascript" src="js/jquery-1.9.1.min.js"></script>
+<meta content="交大报,西安交大报,西安交大数字报,西安交大数字报纸 ,西安交大电子报" name="keywords">
+<meta content="交大报,西安交大报,西安交大数字报,西安交大数字报纸 ,西安交大电子报" name="description"/>
+<script type="text/javaScript">
+		function doZoom(size){
+			document.getElementById('zoom').style.fontSize=size+'px'}
+	</script>
+<style type="text/css">
+	.bantu_img {position:relative;  top:22px; left:15px;width:402px;height:542px;z-index:99;}
+</style>
+<script type="text/javascript">
+
+         jQuery(document).ready(function () {
+			 	  //通版
+			if(402>403){
+			jQuery('#zhankan').click(function(){
+			jQuery('img.bantu_img').css("width","790");
+			
+			  });
+			jQuery("#shousuo").click(function(){
+            jQuery("img.bantu_img").css("width","373");
+			
+            });
+			jQuery("#tongban").show();
+			}
+			if(402<403){
+			jQuery("#tongban").hide();
+			}
+			//选框移入移出
+		   jQuery("map").mouseover(function(event){
+  
+	    rangeDeltaX =11;
+		rangeDeltaY = -60;
+		drawLine(event.target,event);
+		  });
+
+		jQuery("#sss").mouseout(function(){
+		var divElm = document.getElementById("leveldiv");
+		divElm.style.border = "";
+	
+		showTitlePane(false);
+
+		});
+		jQuery("#ttt").mouseout(function(){
+		var divElm = document.getElementById("leveldiv");
+		divElm.style.border = "";
+	
+		showTitlePane(false);
+
+		});
+		var content = jQuery("#zoom").html().replace(/&nbsp;&nbsp;&nbsp;&nbsp;/g,"&#12288;&#12288;");
+		jQuery("#zoom").html(content);
+
+		//点击量和文章字数统计
+               var count1=content.length;
+			   jQuery.get("/tbarticle.do?epaper=sum&riqi="+"19-9-26"+"&banci="+"01"+"&title="+encodeURIComponent("学校“不忘初心、牢记使命”主题教育全面启动"),function(data,status){
+			  
+					var str = "文章字数："+count1+"&nbsp;&nbsp;&nbsp;&nbsp;文章浏览数："+data;;
+					jQuery("#div1").html(str);
+				});
+
+			     //日历控件
+			   	
+			var dd='19-9-26'.split('-');
+			$("#rili").html("<span  class='search_span1'>20"+dd[0]+"年"+dd[1]+"月"+dd[2]+"日</span>");
+            
+		});
+		</script>
+</meta></head>
+<body>
+<div id="ttt">
+</div><div id="leveldiv" style="z-index:100;  POSITION: absolute; pointer-events: none;"></div>
+<div class="tb_sxrb">
+<!--导航-->
+</div>
+<div class="main_02">
+<div class="logo_dt_1">
+</div>
+<div class="daoh">
+<div class="menu">
+<div class="menu_nei">
+<ul id="nav">
+<li class="top1">
+<a class="top_link" href="/"><span>数字报首页</span></a>
+</li>
+<li class="top1">
+<a class="top_link" href="" id="products"><span class="down">版面导航</span></a>
+<ul class="sub1">
+<li>
+<div onclick="window.open('index.htm','_self')"><a href="#">第01版：要闻</a></div>
+<div onclick="window.open('page_01.htm','_self')"><a href="#">第02版：综合信息</a></div>
+<div onclick="window.open('page_02.htm','_self')"><a href="#">第03版：专版</a></div>
+<div onclick="window.open('page_03.htm','_self')"><a href="#">第04版：校园生活</a></div>
+</li>
+</ul>
+</li>
+<li class="top1">
+<a class="top_link" href="" id="contacts"><span class="down">标题导航</span></a>
+<ul class="sub2">
+<li>
+<div onclick="window.open('index_content_000.htm','_self')" title="学校“不忘初心、牢记使命”主题教育全面启动">
+<div id="mp000" style="DISPLAY: inline">
+<a href="#">学校“不忘初心、牢记使命”主题教育全面启动</a>
+</div>
+</div>
+<div onclick="window.open('index_content_004.htm','_self')" title="学校召开党委常委会">
+<div id="mp004" style="DISPLAY: inline">
+<a href="#">学校召开党委常委会</a>
+</div>
+</div>
+<div onclick="window.open('index_content_006.htm','_self')" title="学校进入ESI前1%学科达15个">
+<div id="mp006" style="DISPLAY: inline">
+<a href="#">学校进入ESI前1%学科达15个</a>
+</div>
+</div>
+<div onclick="window.open('index_content_002.htm','_self')" title="我校“西迁人”爱国奋斗先进群体被授予“最美奋斗者”称号">
+<div id="mp002" style="DISPLAY: inline">
+<a href="#">我校“西迁人”爱国奋斗先进群体被授予“最美奋斗者”称号</a>
+</div>
+</div>
+<div onclick="window.open('index_content_003.htm','_self')" title="两名校友被授予国家勋章和国家荣誉称号">
+<div id="mp003" style="DISPLAY: inline">
+<a href="#">两名校友被授予国家勋章和国家荣誉称号</a>
+</div>
+</div>
+<div onclick="window.open('index_content_005.htm','_self')" title="我校214人获颁“庆祝中华人民共和国成立70周年”纪念章">
+<div id="mp005" style="DISPLAY: inline">
+<a href="#">我校214人获颁“庆祝中华人民共和国成立70周年”纪念章</a>
+</div>
+</div>
+<div onclick="window.open('index_content_001.htm','_self')" title="理论学习要“管用”">
+<div id="mp001" style="DISPLAY: inline">
+<a href="#">理论学习要“管用”</a>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="top1">
+<a class="top_link" href="outline.htm" id="privacy"><span>版面概览</span></a>
+</li>
+<li class="top1">
+<a class="top_link" href="/about.jsp" target="_blank"><span>联系我们</span></a>
+</li>
+<li class="shijian">
+<script type="text/javascript">
+ var today = new Date(); //新建一个Date对象
+  var date = today.getDate();//查询当月日期
+  var day = today.getDay();//查询当前星期几
+  var month = today.getMonth()+1;//查询月份
+  var year = today.getFullYear();//查询年份  
+  var hour=today.getHours();
+  var morning="";
+  if (hour>=8 & hour<=12) morning="上午好";
+  var week="";                               
+  if (day==0) week='星期日';
+  if (day==1) week='星期一';
+  if (day==2) week='星期二';
+  if (day==3) week='星期三';
+  if (day==4) week='星期四';
+  if (day==5) week='星期五';
+  if (day==6) week='星期六';
+  document.write(year+"年"+month+"月"+date+"日 "+week+" ");
+</script></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div style=" clear:both"></div>
+<div class="wrap_03">
+<div class="main">
+<div class="page">
+<div id="sss" style="width: 440px;height: 591px;float: left;background: url('images/bz_bg.png') no-repeat;">
+<img border="0" class="bantu_img" src="index.jpg" usemap="#Map"/>
+</div>
+<div id="tongban">
+<div class="dianji">通版阅读请点击：</div><div id="zhankan">展开通版</div> <div id="shousuo">收缩通版</div>
+</div>
+<div class="bott_1">
+<div class="b_bot">
+                        当前版：01版
+                </div>
+<div class="page_bottom">
+<a href="index.htm">首版</a>
+<a href="#">上一版</a>
+<a href="page_01.htm">下一版</a>
+<a href="page_03.htm">末版</a>
+</div>
+</div>
+</div>
+<div class="right">
+<div class="r_top">
+<div class="ss_rl"><span class="ss_rl_1">发布日期:</span><span class="ss_rl_2" id="rili"></span></div>
+<div class="search">
+<form action="/tbarticle.do?" id="Form1" method="get" name="formSearch" target="_blank">
+<input name="epaper" type="hidden" value="searchlistWy"/>
+<input name="STime" type="hidden" value=""/>
+<input name="ETime" type="hidden" value=""/>
+<div class="search_span"><select name="type" style=" font-size:12px; border:1px solid #D0D0D0;  height:25px; float:left; width:80px;"><option selected="selected" value="1">文章标题</option>
+<option value="2">文章内容</option>
+<option value="3">文章作者</option></select></div>
+<div class="search_text01">
+<input id="title" name="title" style="  border: 1px solid #D0D0D0;  width: 172px; height: 21px; line-height: 23px;  float: left;" type="text"/>
+</div>
+<div class="search_bat"><input height="25" name="image" onclick="return searchSubmit();" src="images/search_btn.jpg" type="image" width="60"/></div>
+</form>
+<script type="text/javascript">
+		function searchSubmit(){
+		var title = document.getElementById("title").value;
+			if(title==''){
+				alert('搜索关键字不能为空！');
+				return false;
+			}else{
+				return true;
+			}
+		
+		}
+	</script>
+</div>
+</div>
+<div class="bmnr">
+<div class="list_title">
+<a class="list_title_fanye" href="#">上一篇</a>
+<a class="list_title_fanye" href="index_content_004.htm">下一篇</a>
+<div class="list_title_ziti">字体：</div>
+<a class="list_title_ziti_a" href="javascript:doZoom(18)">放大<img src="images/fangda_icon.gif"/></a>
+<a class="list_title_ziti_a" href="javascript:doZoom(12)">缩小<img src="images/suoxiao_icon.gif"/></a>
+<a class="list_title_ziti_a" href="javascript:doZoom(14)">默认<img src="images/moren_icon.gif"/></a>
+</div>
+<div class="bmnr_con">
+<div class="bmnr_con_yinti">坚持问题导向 强化检视整改 推动事业发展</div>
+<div class="bmnr_con_biaoti">
+						学校“不忘初心、牢记使命”主题教育全面启动 	
+					</div>
+<div class="bmnr_con_yinti"> </div>
+<div class="bmnr_con_biaoti"><div id="div1" style="font-size:12px; class:#ccc; font-weight:100;height:20px"></div></div>
+<div class="bmnr_con_con">
+<div id="zoom">　　<strong>本报讯</strong> 根据中央安排，第二批主题教育在中管高校和其他高校等单位开展。9月10日下午，学校召开由中央第一指导组成员，学校党委常委、校长助理，原校领导，校管干部，省部级、国家级教学科研机构负责人，师生党支部书记、党员代表等参加的动员大会，标志着“不忘初心、牢记使命”主题教育工作在我校全面启动。 <br/>　　当日的会议认真学习贯彻习近平总书记在“不忘初心、牢记使命”主题教育工作会议上的重要讲话精神，严格按照中央、教育部党组和陕西省委对主题教育的部署要求，对全校主题教育进行全面动员与重点部署。校党委书记张迈曾主持会议并作动员部署，明确了总体要求、目标任务和着力重点。根据中央安排，对学校主题教育进行全程指导的中央第一指导组副组长、工信部人事教育司副司长闫为革就学校开展好主题教育提出四点具体要求。会议要求，要以对党高度负责的作风开展好主题教育。通过主题教育用习近平新时代中国特色社会主义思想武装头脑，实打实地搞调研、真对真地找问题、硬碰硬地抓整改，努力达到目标要求。坚持问题导向，推动事业发展；领导干部以身作则带好头；发挥好身边典型示范引领作用；统筹推进主题教育和各项重点任务；加强组织领导，力戒形式主义。 <br/>　　9月12日举行的校党委常委会审议通过学校主题教育工作方案和指导组工作方案，在校管干部和党支部两个层面分别做出要求和部署，方案要求处级及以上领导班子和领导干部、全体师生党员聚焦学习贯彻习近平新时代中国特色社会主义思想这个主线和根本任务，统筹推进学习教育、调查研究、检视问题、整改落实四项重点措施。紧扣立德树人的根本任务，突出问题导向，结合工作实际推动学校党的政治建设、“双一流”建设、创新港内涵建设、人才培养质量提升与家国情怀塑造、科研组织模式改革、师资队伍建设、干部作风本领提升、思想文化建设、办学资源拓展、民生工作提质等10项重点任务，着力整改工作中存在的突出问题，原原本本学、刀刃向内查、扎扎实实改。指导组工作方案确定了指导组人员安排、工作任务、指导内容与指导方式。校党委成立13个指导组，党委常委每人联系1个指导组，指导院系党组织和机关单位主题教育的开展，为学校主题教育打下坚实的组织基础。 <br/>　　在9月16日由学校“不忘初心、牢记使命”主题教育领导小组召开的指导组工作会上，校内二级党组织主要负责人、组织员、指导组全体成员集体学习了学校“不忘初心、牢记使命”主题教育工作方案和指导组工作方案。主题教育领导小组办公室对学校“不忘初心、牢记使命”主题教育方案和校内指导组工作方案进行了详细解读，明确了学习教育、调查研究、检视问题、整改落实各项工作的任务要求、关键环节、时间节点和联络机制，并对关键环节进行了进一步细化，对指导组工作方式也进行了详细说明和解读。9月17日、19日、20日由学校“不忘初心、牢记使命”主题教育领导小组牵头，分别对全校450余名教工党支部书记和新党员，400余名本科生党支部书记、研究生党支部书记以及离退休人员党支部书记进行了培训。重点就主题教育中党支部学习教育和检视整改各环节任务进行部署说明。陕西省委党校吴永教授还应邀以“学习中国共产党历史，把握党史的主流和本质”为主题，为教工党支部书记和新党员作了报告。指导组联系常委分别参加了各自联系点的活动。据悉，本次主题教育培训从9月开始，11月底结束。 <br/>　　9月20日，《西安交通大学“不忘初心、牢记使命”主题教育领导干部学习研讨方案》印发，《方案》结合八个专题、十项重点任务、四种教育形式，列出十项专题，要求以中心组学习、读书班等方式开展领导班子学习研讨。9月21日、22日，学校连续两天举行“不忘初心、牢记使命”主题教育理论学习中心组集中学习。张迈曾、王树国以及校党委常委、校院两级党委中心组成员、省级以上教学科研机构领导班子成员、校管干部和主题教育指导组成员等共计400人参加学习。省委党校（行政学院）常务副校（院）长蔡钊利以及我校马克思主义学院陆卫明、王维国分别作了专题报告。学校各分党委、机关、直属、附属单位等组织本单位领导班子、中心组成员围绕辅导报告内容开展学习研讨。交流研讨主要聚焦党员干部理想信念、党性修养、理论学习、落实落地等方面存在的差距和不足。在9月21日下午举行的主题教育第六期“常委读书班”上，常委们首先来到交大西迁博物馆和西迁先贤事迹展参观学习，回顾63年前波澜壮阔的西迁历史，再次重温习近平总书记对西迁精神的重要指示精神。随后，荣命哲副校长对习近平总书记在全国教育大会上的重要讲话精神和关于西迁精神指示精神进行深入解读，并详细介绍了学校贯彻落实习近平总书记重要讲话精神的六项举措。与会常委们就如何建设好西迁精神新传人教师队伍逐一发言，深入剖析存在问题，畅谈思考体会。全程参加活动的中央第一指导组组长、十三届全国政协委员黄宪起在总结讲话中还对学校主题教育提出了三点具体要求。 <br/>　　连日来，在学校党委的系统安排下，全校各基层党组织普遍就“不忘初心、牢记使命”主题教育作了动员部署，下一步将以读原著、学原文、悟原理，紧密围绕学习研讨、调查研究、检视问题、整改落实四项中心工作，系统推进主题教育十项重点任务落实；学习教育指导组按照党中央和学校党委部署要求将分赴各单位开展巡回指导，突出重点对象、重点要求，加强督促指导，总结经验、发现典型；坚持原则、严格标准，督促各单位使学习教育取得实效。<br/>　　<strong>（本报记者）</strong></div>
+<script charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript"></script>
+<script charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript"></script>
+</div>
+</div>
+<div style="clear:both"></div>
+<div class="fx">
+<div class="bshare-custom" style="position:relative; left:10px; top:10px">
+<a class="bshare-more" href="http://www.bShare.cn/" id="bshare-shareto" title="分享到">分享到</a><a class="bshare-weixin" title="分享到微信">微信</a><a class="bshare-qqim" title="分享到QQ好友">QQ好友</a><a class="bshare-qzone" title="分享到QQ空间">QQ空间</a><a class="bshare-sinaminiblog" title="分享到新浪微博">新浪微博</a><a class="bshare-more bshare-more-icon more-style-sharethis" title="更多平台"></a><span class="BSHARE_COUNT bshare-share-count">0</span></div><script charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=cc34420b-96de-4724-8b64-1634161dff4e&amp;pophcol=3&amp;lang=zh" type="text/javascript"></script><script charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript"></script>
+</div>
+</div>
+</div>
+<div style="clear:both;height:10px;"></div>
+</div></div>
+</body></html>
+<div class="main">
+<div class="bottom">
+版权所有：西安交通大学 陕ICP备05001571号  技术支持：<a href="http://www.joyhua.com">锦华科技</a>
+</div></div>
+<map name="Map">
+<area coords="0,0,0,0,0,0,0,0,0,0,0,0" href="#" shape="poly"/><area coords="34,101,279,251" href="index_content_000.htm" shape="rect"/>
+<area coords="286,103,364,498" href="index_content_001.htm" shape="rect"/>
+<area coords="116,262,278,347" href="index_content_002.htm" shape="rect"/>
+<area coords="116,351,278,428" href="index_content_003.htm" shape="rect"/>
+<area coords="34,263,113,411" href="index_content_004.htm" shape="rect"/>
+<area coords="116,434,278,504" href="index_content_005.htm" shape="rect"/>
+<area coords="34,415,112,505" href="index_content_006.htm" shape="rect"/>
+</map>
+
+

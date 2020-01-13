@@ -1,0 +1,1121 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+<base href="http://gis.xjtu.edu.cn:80/"/>
+<meta content="IE=EmulateIE9" http-equiv="X-UA-Compatible"/>
+<meta content="no-cache" http-equiv="pragma"/>
+<meta content="no-cache" http-equiv="cache-control"/>
+<meta content="0" http-equiv="expires"/>
+<link href="images/logo.ico" rel="shortcut icon" type="image/x-icon"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<!-- <meta http-equiv="Cache-control" content="no-cache" /> -->
+<meta content="width=device-width,minimum-scale=1.0,maximum-scale=1.0" name="viewport">
+<title>西安交通大学虚拟校园</title>
+<link href="styles/mainpage.css" rel="stylesheet" type="text/css"/>
+<link href="scripts/JqueryPlus/Sticky-master/sticky.css" rel="stylesheet" type="text/css"/>
+<link href="scripts/JqueryPlus/intro/introjs.css" rel="stylesheet" type="text/css"/>
+<link href="scripts/JqueryPlus/intro/introjs-ie.css" rel="stylesheet" type="text/css"/>
+<link href="scripts/JqueryPlus/colorbox/colorbox.css" rel="stylesheet" type="text/css"/>
+<link href="src/mbTooltip.css" rel="stylesheet" type="text/css">
+<script class="autoinsert" src="js/jquery-1.8.3.js" type="text/javascript"></script>
+<script src="scripts/JqueryPlus/Sticky-master/sticky.js" type="text/javascript"></script>
+<!-- 权限 -->
+<script src="scripts/JqueryPlus/jquery.cookie.js" type="text/javascript"></script>
+<script src="scripts/SuperMap.Include.js" type="text/javascript"></script>
+<script src="scripts/changeview.js" type="text/javascript"></script>
+<script src="scripts/mainPage.js" type="text/javascript"></script>
+<script src="scripts/jk.js" type="text/javascript"></script>
+<script src="scripts/2.5D.js" type="text/javascript"></script>
+<script src="scripts/queryBySql.js" type="text/javascript"></script>
+<script src="scripts/queryYxPoi.js" type="text/javascript"></script>
+<script src="scripts/layoutCtrl.js" type="text/javascript"></script>
+<script src="scripts/flymgr.js" type="text/javascript"></script>
+<script src="scripts/particle.js" type="text/javascript"></script>
+<script src="scripts/getPoi.js" type="text/javascript"></script>
+<script src="scripts/poicodetype.js" type="text/javascript"></script>
+<!-- xc -->
+<link href="themes/bootstrap/easyui.css" rel="stylesheet" type="text/css"/>
+<link href="scripts/JqueryPlus/ui-lightness/jquery.contextMenu.css" rel="stylesheet" type="text/css"/>
+<link href="scripts/JqueryPlus/ui-lightness/jquery-ui-1.9.2.custom.min.css" rel="stylesheet" type="text/css"/>
+<link href="./scripts/JqueryPlus//tip-yellow/tip-yellow.css" rel="stylesheet" type="text/css">
+<script src="./scripts/JqueryPlus/jquery.poshytip.min.js" type="text/javascript"></script>
+<script src="scripts/jquery-ui/jquery.easyui.min.js" type="text/javascript"></script>
+<script src="scripts/jquery-ui/easyui-lang-zh_CN.js" type="text/javascript"></script>
+<script src="scripts/JqueryPlus/jquery-ui-1.9.2.custom.js" type="text/javascript"></script>
+<script src="scripts/JqueryPlus/controls.js" type="text/javascript"></script>
+<script src="scripts/flyAfterQueryPath.js" type="text/javascript"></script>
+<script src="scripts/SceneSelectMng.js" type="text/javascript"></script>
+<script src="scripts/JqueryPlus/jquery.contextMenu.js" type="text/javascript"></script>
+<script src="scripts/JqueryPlus/xmlToJson.js" type="text/javascript"></script>
+<script src="scripts/Competence.js" type="text/javascript"></script>
+<script src="scripts/JqueryPlus/jquery.colorbox-min.js" type="text/javascript"></script>
+<script src="src/jquery.easing.1.3.js" type="text/javascript"></script>
+<script src="src/jquery.timers.js" type="text/javascript"></script>
+<script src="src/mbTooltip.js" type="text/javascript"></script>
+<script src="js/snowfall.jquery.js" type="text/javascript"></script>
+<style type="text/css">
+ html {
+	 overflow-x:hidden;
+	  overflow-y:hidden;
+ }
+.wrapper {
+	position:absolute;
+	top:50%;
+	left:50%;
+}
+
+.header{
+	height:174px;
+	width:100%;
+	position:relative;
+	margin-left:0px;
+	margin-top:0px;
+}
+.topheader{
+	height:141px;
+	width:100%;
+	overflow:hidden;
+    background-image:url('images/menu/background1.png');
+}
+.bottomheader{
+	height:33px;
+	width:100%;
+	background-color:rgb(247,247,247);
+	border-bottom: 1px solid rgb(191,191,191);
+}
+.title{
+	background:url('images/menu/logo.png') repeat-y fixed;
+	height:141px;
+	width:623px;
+}
+.menu1{
+	position:absolute;
+	left:665px;
+	top:0px;
+	height:68px;
+	margin-right:15px;
+	margin-top:45px;
+}
+.menu_bar{
+	width:30px;
+	height:5px;
+	background-color:rgb(199,0,0);
+}
+.text_hover:hover{
+	text-decoration: underline;
+}
+.ulMain{
+	display:block;
+	margin:0 auto;
+}
+.ulMain li{
+	float:left;
+	display: inline;
+	list-style-type: none;
+}
+.menu1 li{
+	padding:5px;
+}
+.menu1 img{
+	cursor:pointer;
+
+}
+.YH{
+	display:block;
+	width:150px;
+}
+.Dinline{
+	display:inline;
+}
+.whitefont{
+	color:rgb(37,37,37);
+	font-family:微软雅黑 ;
+	font-size:13px;
+}
+td{text-align:center;}
+input{
+	width:100px;
+}
+#tools li{
+	padding-left:8px;
+}
+#search li{
+	padding-left:8px;
+}
+.l{
+	background-image:url('images/menu/scroline.png');
+	background-repeat:no-repeat;
+	height:27px;
+	width:2px;
+	margin-top:4px;
+}
+.meature img{
+	padding-right:7px;
+}
+/*视频监控*/
+.jk-pic{
+	background-repeat:no-repeat;
+	height:80px;
+	width:90px;
+	margin-top:2rem;
+	z-index:1999;
+	cursor:pointer;
+
+}
+.jk-pic-location{
+	position:absolute;
+	right:10%;
+	top:20%;
+	z-index:2000;
+	display: none;
+}
+.jk_box{background: #A1A0B6;width: 68px;height: 26px;border-radius: 7px;position: relative;left: 0px;top: 0px;border: 0px solid #629FCE;}
+.jk_slider{background: #C71D1D;width: 35px;height: 26px;border-radius: 5px;position: absolute;transition: left 0.5s; -moz-transition: left 0.5s; -webkit-transition: left 0.5s;left:35px;line-height: 26px;color: #F6F6F6;font-size: 14px;padding-left: 5px;cursor: pointer;}
+/*视频监控结束*/
+
+</style>
+<script type="text/javascript">
+$(function(){
+	var iframe= $("#leftinfoiframe")[0];
+	if (iframe.attachEvent){
+    iframe.attachEvent("onload", function(){
+        $("#waitingloading").hide();
+        if(currentweishu()=="3D"){
+        	yjStop();
+        }
+    });
+	} else {
+	    iframe.onload = function(){
+	        $("#waitingloading").hide();
+	    };
+	}
+	$("#searchselect > div").click(function(){
+		$(this).parent().children().children().css("background-image","");
+		$(this).parent().parent().find("div").css("color","rgb(37,37,37)");
+		$(this).find("div").css("background-image","url('images/menu/select.png')");
+		$(this).find("div").css("color","white");
+		if($(this).index()==0){
+			$("#searchDivC").css("display","block");
+			$("#searchDivS").css("display","none");
+			$("#searchDivD").css("display","none");
+			closeiframe("iframeslider");
+		}
+		else if($(this).index()==1){
+			$("#searchDivS").css("display","block");
+			$("#searchDivD").css("display","none");
+			$("#searchDivC").css("display","none");
+			closeiframe("iframepoi");
+			closeiframe("iframeslider");
+		}
+		else if($(this).index()==2){
+			$("#searchDivD").css("display","block");
+			$("#searchDivS").css("display","none");
+			$("#searchDivC").css("display","none");
+			closeiframe("iframepoi");
+		}
+	});
+	$("#mapContain").css("width",$(window).width()-288+"px");
+	$(".divXqselect").click(function(){
+		$(this).parent().parent().find("div").css("background-image","");
+		$(this).parent().parent().find("div").css("color","rgb(37,37,37)");
+		$(this).css("background-image","url('images/menu/select1.png')");
+		$(this).find("div").css("color","white");
+		if($(this).find("div").html()=="兴庆校区"){
+			queryBySQL_changeXiaoQu(1);
+		}
+		else if($(this).find("div").html()=="雁塔校区"){
+			queryBySQL_changeXiaoQu(2);
+		}
+		else if($(this).find("div").html()=="曲江校区"){
+			queryBySQL_changeXiaoQu(3);
+		}
+	});
+
+	visitCount();
+	//changeCurrentMapText();
+	
+	$(document).ready(
+		function(){
+			changeXqStyle();
+		}
+	);
+        //setTimeout(function(){queryBySQL_changeXiaoQu(1)},1500);
+});
+
+function visitCount(){
+	$.post("../../ServletSvr/servlet/ServiceEx?param1=GetVisiteCount", null, function(data){
+		$("#visitCount").text(data);
+	});
+}
+
+
+function changeXqText(obj1,name,obj2){
+	obj1.trigger('click');
+	$('#changeXqDiv').css('display','none');
+	$('#changeXqText').text(name);
+	$('#yiying1').css('display','none');
+	$('#yiying2').css('display','none');
+	$('#yiying3').css('display','none');
+	obj2.css('display','block');
+}
+
+function currentXq(){ //得到当前校区
+	if (map != null){
+			if($("#xqdefault").parent().css("background-image")!="none"){
+				$("#xqdefault").trigger("click");
+				changeXqText($('#xqdefault'),'兴庆校区',$('#yiying1'));
+			}
+			else if($("#xqdefault1").parent().css("background-image")!="none"){
+				changeXqText($('#xqdefault1'),'雁塔校区',$('#yiying2'));
+			}
+			else if($("#xqdefault2").parent().css("background-image")!="none"){
+				changeXqText($('#xqdefault2'),'曲江校区',$('#yiying3'));
+			}
+		}
+}
+
+function setCurrentXq(num){ //设置当前校区标记 1:兴庆 2:雁塔 3:曲江
+//	if (map != null){
+			if(num == 1){
+				//changeXqText($('#xqdefault'),'兴庆校区',$('#yiying1'));
+				$("#xqdefault").parent().css("background-image","url('images/menu/select1.png')");
+				setXqStyle('兴庆校区',$('#yinying1'),$('#xqdefault').parent());
+			}
+			else if(num == 2){
+				//changeXqText($('#xqdefault1'),'雁塔校区',$('#yiying2'));
+				$("#xqdefault1").parent().css("background-image","url('images/menu/select1.png')");
+				setXqStyle('雁塔校区',$('#yinying2'),$('#xqdefault1').parent());
+			}
+			else if(num == 3){
+				//changeXqText($('#xqdefault2'),'曲江校区',$('#yiying3'));
+				$("#xqdefault2").parent().css("background-image","url('images/menu/select1.png')");
+				setXqStyle('曲江校区',$('#yinying3'),$('#xqdefault2').parent());
+				queryBySQL_changeXiaoQu(num);   //会导致曲江校区的定位窗口靠上
+			}
+	//	}
+}
+
+function setXqStyle(name,obj1,obj2){ // 调用setCurrentXq方法之后需要更改的主页样式
+	$('#changeXqDiv').css('display','none');
+	$('#changeXqText').text(name);
+	$('#yiying1').css('display','none');
+	$('#yiying2').css('display','none');
+	$('#yiying3').css('display','none');
+	obj1.css('display','block');
+	
+	$(obj2).parent().parent().find("div").css("background-image","");
+	$(obj2).parent().parent().find("div").css("color","rgb(37,37,37)");
+	$(obj2).css("background-image","url('images/menu/select1.png')");
+	$(obj2).find("div").css("color","white");
+}
+
+function changeXqStyle(){ //根据浏览器body区域大小来判断显示切换校区的样式
+	currentXq();
+	if(document.body.clientWidth < 1280){//1280
+		$(".changeXq").css("display","none");
+		$("#changexqbutton").css("display","block");
+	}else{
+		$("#changexqbutton").css("display","none");
+		$('#changeXqDiv').css('display','none');
+		$(".changeXq").css("display","block");
+	}
+}
+
+function changeXqDivShow(){ //显示切换校区的iframe
+	$("#iframechangeviewtype2").css("display","none");
+	if($("#changeXqDiv").css("display")=="block"){
+			$("#changeXqDiv").css("display","none");
+			return;
+		}
+		$("#changeXqDiv").css("display","block");
+}
+
+function changeCurrentMapText(){ //显示当前地图的位数
+	if(currentweishu() == "2D")
+		$("#changeViewText").text("当前二维地图");
+	else if(currentweishu() == "3D")
+		$("#changeViewText").text("当前三维地图");
+	else
+		$("#changeViewText").text("当前2.5维地图");
+}
+//改版后增加
+function reHomeClear(){
+	$("#menu_bar_line").hide();
+	clearFeatures_A();
+}
+function reHome(){
+	$("#leftMainiframe").show();
+	$("#menu_bar_line").hide();
+}
+// 	papa5.1节前两天添加
+	function menu_move(){
+	
+	    var move_l;
+		if($("#movebar").css("background-image").indexOf('trangle1')<0){
+			var m_c= $(".menu1 li").not(":hidden").length+1;
+			var w=$(window).width()-620;
+			var w_c= Math.round(w/90)-1;
+			var m_f=(m_c-w_c)*90;
+			move_l=m_f-30;
+			$(".ulMain").animate({marginLeft:(-35-m_f)+"px"},500);
+			$("#movebar").css("background-image","url(images/menu/trangle1.png)");
+		}
+		else{
+			move_l=parseInt($(".ulMain").css("marginLeft").replace("px",""))+5;
+			$(".ulMain").animate({marginLeft:"-35px"},500);
+			$("#movebar").css("background-image","url(images/menu/trangle.png)");
+		}
+		setMenu_bar_l(menubar_pageName,move_l);
+	}
+	function bodyselect(){
+// 		if($("#inputstartPos:focus").length==0&&$("#inputstopPos:focus").length==0&&$("#inputPoi:focus").length==0&&$("#inputNear:focus").length==0){
+// 			return false;
+// 		}
+// 		else{
+			
+// 		}	
+return false;
+	}
+	
+	
+	function view_change(){
+		$("#changeXqDiv").css("display","none");
+		if($("#iframechangeviewtype2").css("display")=="block"){
+			$("#iframechangeviewtype2").css({
+				display:"none"
+			});
+			return;
+		}
+		var offsetT=$("#changemapDiv").offset().top;
+		var offsetL=$("#changemapDiv").offset().left;
+		$("#iframechangeviewtype2").css({
+			display:"block",
+			top:offsetT+30+"px",
+			left:offsetL-135+"px"
+		});
+	}
+	var m_bufferDistance = 0.004;
+	function Setm_bufferDistance(dis) {
+		m_bufferDistance = dis;
+	}
+	function changeviewIfram_in_main(i) {
+		changeviewIfram();
+		queryBySQL_changeXiaoQu(i);
+	}
+	function queryBySQL_changeXiaoQu_in_main(i) {
+		queryBySQL_changeXiaoQu(i);
+	}
+	function changeXqtypeIfram_in_main(i){ //切换校区   1.兴庆；2.雁塔；3.曲江
+		queryBySQL_changeXiaoQu(i);
+		$("#changeXqDiv").css("display","none");
+	}
+	
+
+	function changeviewtypeIfram_in_main(i) {
+		//changeviewtypeIfram();
+		//queryBySQL_changeXiaoQu(i);
+		var sa_flag = $("#isSAFlag").val();
+		var d3_flag = true;
+		if (i == 1&&currentweishu()!="2D") {
+			//$("#jk_window").show();
+			gstop();
+			$("#flyControl").css("display","none");//隐藏三维飞行控件
+			Set_leftMainiframe();
+			
+			weishuTag="2D";
+			$('#changeViewText').html('当前二维地图');
+			if(parseInt($("#infoContain").css("width").replace("px",""))>10){ //将图片显示切换为圆角图
+				$("#infoContain div").eq(0).css("background-image", "url(images/leftinfo/yuanjiao/default.png)");
+			}else{
+				$("#infoContain div").eq(0).css("background-image", "url(images/leftinfo/yuanjiao/default1.png)");
+			}
+			changeviewtype('2D');
+			//在地图上标记监控点位置
+			if(sa_flag == 'true'){
+				setTimeout(function(){queryBySQL_poiLocation();},200);
+			}
+		} else if (i == 2&&currentweishu()!="2.5D") {
+			//$("#jk_window").show();
+			gstop();
+			$("#flyControl").css("display","none");//隐藏三维飞行控件
+			Set_leftMainiframe();
+			
+			weishuTag="2.5D";
+			$('#changeViewText').html('当前2.5维地图');
+			if(parseInt($("#infoContain").css("width").replace("px",""))>10){ //将图片显示切换为圆角图
+				$("#infoContain div").eq(0).css("background-image", "url(images/leftinfo/yuanjiao/default.png)");
+			}else{
+				$("#infoContain div").eq(0).css("background-image", "url(images/leftinfo/yuanjiao/default1.png)");
+			}
+			changeviewtype('2.5D');
+			//在地图上标记监控点位置
+			if(sa_flag == 'true'){
+				setTimeout(function(){queryBySQL_poiLocation();},200);
+			}
+		} else if (i == 3&&currentweishu()!="3D") {
+			//$("#u_shitu").html("[&nbsp;三维&nbsp;]");
+			weishuTag="3D";
+			if(parseInt($("#infoContain").css("width").replace("px",""))>10){ //将图片显示切换为方角图
+				$("#infoContain div").eq(0).css("background-image", "url(images/leftinfo/default.png)");
+			}else{
+				$("#infoContain div").eq(0).css("background-image", "url(images/leftinfo/default1.png)");
+			}
+			//end
+			changeviewtype('3D');
+			$("#jk_window").hide();
+			if(!$.isEmptyObject(curPageName)){
+			    d3_flag = false;
+				setTimeout(function(){ctrlleftPage(curPageName);}, 5000);
+			}
+		}else if (i == 4&&currentweishu()!="4D") {
+			//$("#u_shitu").html("[&nbsp;三维&nbsp;]");
+			weishuTag="4D";
+			if(parseInt($("#infoContain").css("width").replace("px",""))>10){ //将图片显示切换为方角图
+				$("#infoContain div").eq(0).css("background-image", "url(images/leftinfo/default.png)");
+			}else{
+				$("#infoContain div").eq(0).css("background-image", "url(images/leftinfo/default1.png)");
+			}
+			//end
+			changeviewtype('4D');
+			$("#jk_window").hide();
+		}	
+		if(!$.isEmptyObject(curPageName)&&d3_flag){
+			setTimeout(function(){ctrlleftPage(curPageName);}, 3000);
+		}	
+	}
+	function Set_Menu()
+	{
+	   	$(".ulMain").animate({marginLeft:"-35px"},500);
+		$("#movebar").css("background-image","url(images/menu/trangle.png)");
+		menuOverSize();
+	}
+	//--20130829 李小彦 切换地图时清空停车场和圈存机的操作记录
+	function Set_leftMainiframe()
+	{
+	   $('#leftMainiframe').contents().find('#ckbox_tcc')[0].checked=false;
+	   $('#leftMainiframe').contents().find('#ckbox_qcj')[0].checked=false;
+	   
+	   clear_markerLayer_ByID("mark_tcc") ;
+	   clear_markerLayer_ByID("mark_qcj") ;
+	}
+	///兴趣点查询结果
+	var m_PoiKeyWords = null;
+	var m_PointResult = null;
+	var m_PointResult_Yx = null;
+	function closeiframe_in_mian(iframename) {
+		closeiframe(iframename);
+	}
+	function getPoi_in_mian(strPoiType,strPoiName) {
+		closeiframe_in_mian("iframepoi");
+		getPoi1(strPoiType,strPoiName);
+	}
+
+	function getMap() {
+		return map;
+	}
+
+
+	function getfeaturesLayer() {
+		return featuresLayer;
+	}
+	function getMarkerLayer() {
+		return markerLayer;
+	}
+	function getMarkerLayer25() {
+		return markerLayer_25;
+	}
+
+	function getScene() {
+		return scene;
+	}
+
+	////飞行到指定地点
+	function flyto_in_Main(x, y, z) {
+		_flyto(x, y, z);
+	}
+
+	function active_loactedbybsm_in_main(bsm) {
+		active_loactedbybsm(bsm);
+	}
+
+	function yx_xiaonei_rout_locatebybsm_in_main(bsm) {
+		///暂时使用市内路线的定位函数
+		yx_shinei_rout_locatebybsm(bsm);
+	}
+
+	function yx_shinei_rout_locatebybsm_in_main(bsm) {
+		yx_shinei_rout_locatebybsm(bsm);
+	}
+
+	function yx_rout_locatebybsm_in_main(bsm) {
+		yx_rout_locatebybsm(bsm);
+	}
+	function get_yx_Poi_result_in_main(type) {
+		getPoi_yx(1);
+	}
+
+	////沿线飞行
+	function fly_in_main_line(flyfile) {
+		flyinline(flyfile);
+	}
+	///沿线飞行暂停
+	function fly_pause_in_main() {
+		pause();
+	}
+	///沿线飞行停止
+	function fly_stop_in_main() {
+		stop();
+	}
+
+	function makeiFrameMinSize_in_main(iframeid) {
+		makeiFrameMinSize(iframeid);
+	}
+
+	function makeiFrameMaxSize_in_main(iframeid) {
+		makeiFrameMaxSize(iframeid);
+	}
+
+	function makeiFrameMaxorMin_in_main(iframeid) {
+		makeiFrameMaxorMin(iframeid);
+	}
+
+	///设置提示消息
+	function setMsg_in_Main(msg) {
+		setMsg(msg);
+	}
+
+	//定位到火车站或者飞机场接待点
+	function panToStation_In_Main(tag) {
+		panToStation(tag);
+	}
+	///定位并且绘制报道地点
+	function panToBaoDaoDD_In_Main(tag) {
+		panToBaoDaoDD(tag);
+	}
+	///定位并且绘制报道地点--蓝色
+	function panToBaoDaoDD_In_Main_2(tag) {
+		panToBaoDaoDD_2(tag);
+	}
+	//判断是否是三维显示
+	function is3Dpreview() {
+		if ($("#sceneControlDiv", parent.document).css("width").replace("px",
+				"") < 100)
+			return false;
+		return true;
+	}
+	///外框飞动效果
+	function iframefly_in_main(left_, top_, width_, height_) {
+		iframefly(left_, top_, width_, height_);
+	}
+
+	///周边/兴趣点、路径查询的切换
+	function changesarchtype_in_main(tag) {
+		changesarchtype(tag);
+	}
+
+	function setStart_StopPos_in_main(tag, szbsm) {
+		if (tag == 2)
+			markerLayer.removeMarkerById("temp_routes_Stp");
+		else
+			markerLayer.removeMarkerById("temp_routes_Etp");
+		setStart_StopPos(tag, szbsm);
+	}
+
+	function setStart_StopPos_2_in_main(tag, szbsm) {
+		if (tag == 2)
+			markerLayer.removeMarkerById("temp_routes_Stp");
+		else
+			markerLayer.removeMarkerById("temp_routes_Etp");
+		setStart_StopPos_2(tag, szbsm);
+	}
+
+	///开水房
+	function ksf_loactedbybsm_in_main(bsm) {
+		ksf_loactedbybsm(bsm);
+	}
+
+	function reAddMarkerlayer2D_in_main() {
+		reAddMarkerlayer2D;
+	}
+
+	function drawMarkerIn3D_in_main(feature) {
+		drawMarkerIn3D(feature);
+	}
+
+	function drawMarkerIn2D_in_main(feature) {
+		drawMarkerIn2D(feature);
+	}
+
+	function min_max_size_in_main() {
+		min_max_size();
+	}
+
+	// /1 startpos
+	// /2.stoppos
+	function Set_isGetStart_StopPos(tag) {
+		isGetStart_StopPos = tag;
+	}
+	function jk_Located_in_main(bsm) {
+		jk_Located(bsm);
+	}
+	function jzw_Located_in_main(bsm) {
+		jzw_Located(bsm);
+	}
+	
+	//------------pchenghao    --start  [20131111]
+	function clickChangeWeiShuBugRebuild(tag){
+		if(tag == 2){
+			//weishuTag = "2D";
+			$("#changeViewText").text("当前二维地图");
+		}
+		setTimeout(function(){$("#iframechangeviewtype2").css("display","none");}, 500);
+	}
+	//------------end
+	
+	
+	//控制视频监控显示-----start
+	function displayJKCotroller(onoff){
+	    if(onoff == 'on'){
+	    	onoff = true;
+	    }else{
+	    	onoff = false;
+	    }
+		if(currentweishu()!="2.5D"){
+			if (null != jk_markerLayer)
+				jk_markerLayer.setVisibility(onoff);
+		}else{
+			if (null != jk_markerLayer_25)
+				jk_markerLayer_25.setVisibility(onoff);
+		}
+	}
+	//判断是否是有权限的三位老师
+	function hasPower(){
+		var flag = false;
+		var SAname = $("#SAname").val();
+		if(SAname != null && SAname != undefined && SAname != "" && SAname != "undefined"){
+			  if('taniaw' == SAname || "zhsuo" == SAname || "liujun902" == SAname){
+			       flag = true;
+			  }
+		}
+		return flag;
+	}
+	var jk_onoff = false;
+	$(function(){
+		$("#jk_slider").toggle(
+            function () {
+                $(this).css("left","0");
+                $("#jk_slider").html("")
+                setTimeout(function(){
+                    $("#jk_slider").html("隐藏");
+                },300);
+                displayJKCotroller('off');
+                jk_onoff = false;
+            },
+            function () {
+            	$(this).css("left","29px");
+                $("#jk_slider").html("")
+                setTimeout(function(){
+                    $("#jk_slider").html("显示");
+                },300);
+                displayJKCotroller('on');
+                jk_onoff = true;
+            }
+	    );
+	  
+	});	
+	//控制视频监控显示结束----end
+	
+</script>
+</link></link></meta></head>
+<body id="mybody" onload="onPageLoad()" onselectstart="return false" style="overflow:hidden;margin:0px;">
+<!-- 视频监控 -->
+<input id="isSAFlag" type="hidden" value=""/>
+<input id="SAname" type="hidden" value=""/>
+<div class="jk-pic-location" id="jk_window">
+<div class="jk-pic">
+<img onclick="" src="./images/menu/jk.png"/>
+</div>
+<div class="jk_box">
+<div class="jk_slider" id="jk_slider">显示</div>
+</div>
+</div>
+<!-- 视频监控结束 -->
+<div id="divWait" onselectstart="return false" style="display:none;">
+<div class="wrapper" id="canvasloader-container"></div>
+<a id="aWait" style="position:absolute;color: #4f6b72;font: normal 16px auto 'Trebuchet MS', Verdana, Arial, Helvetica,sans-serif;"></a>
+</div>
+<div class="header">
+<div class="topheader">
+<img class="menu_bar" id="menu_bar_line" style="position:absolute;z-index:5;display:none;"/>
+<div class="title">
+<div style="position:absolute;top:40px;left:450px;font-family: 微软雅黑;font-size: 30px;letter-spacing: 3px;">
+<img src="images/xnxy.png">
+</img></div>
+<div style="position:absolute;top:48px;left:655px;">
+<img src="images/menu/menu_fg.png"/>
+</div>
+<div style="position:absolute;left:700px;">
+<img src="images/menu/background_outer.png"/>
+</div>
+</div>
+<div class="menu1" data-intro="这里是功能菜单，包含网站主要功能" data-position="bottom" data-step="1" style="display:inline;overflow:hidden;height:90px !important;margin-top:33px;">
+<ul class="ulMain" style="margin-left:-34px;">
+<!-- <li	tag="kx">
+						<div>
+							<img title="查询指定条件的教室空闲状态，实时使用情况等" alt="空闲教室" src="images/menu/menu_kxjs.png" onclick="ctrlleftPage('kx')">
+						</div>
+					</li> -->
+<li tag="dx">
+<div>
+<img alt="大型设备" onclick="ctrlleftPage('dx')" src="images/menu/menu_dxsb.png" title="各类共享设备基本信息"/>
+</div>
+</li>
+<li tag="hy">
+<div>
+<img alt="会议室" onclick="ctrlleftPage('hy')" src="images/menu/menu_hys.png" title="查询指定条件的会议室的空闲状态"/>
+</div>
+</li>
+<li tag="yx">
+<div>
+<img alt="迎新" onclick="ctrlleftPage('yx')" src="images/menu/menu_yx.png" title="显示迎新点、报到地点，其他须知，帮助新生了解学校"/>
+</div>
+</li>
+<li tag="hd">
+<div>
+<img alt="活动" onclick="ctrlleftPage('hd')" src="images/menu/menu_hd.png" title="查询迎新、校庆、就业相关信息"/>
+</div>
+</li>
+<li tag="my">
+<div>
+<img alt="校园漫游" onclick="ctrlleftPage('my')" src="images/menu/menu_xy.png" title="校园漫游"/>
+</div>
+</li>
+<li tag="yj">
+<div>
+<img alt="应急演练" onclick="ctrlleftPage('yj')" src="images/menu/menu_yj.png" title="模拟学校重点区域应急逃生路线"/>
+</div>
+</li>
+<li tag="xc">
+<div>
+<img alt="校车查询" onclick="ctrlleftPage('xc')" src="images/menu/menu_xc.png" title="校车线路和站点查询"/>
+</div>
+</li>
+<!-- 图书查询 -->
+<li id="tsg" tag="tsg">
+<div>
+<img alt="图书查询" onclick="ctrlleftPage('tsg')" src="images/menu/menu_tsg.png" title="校园图书馆信息三维状态下展示查询"/>
+</div>
+</li>
+<!-- 数字展品 -->
+<li id="tsg" tag="szzp">
+<div>
+<img alt="图书查询" onclick="ctrlleftPage('szzp')" src="images/menu/menu_szzp.png" title="校园博物馆数字展品展示查询"/>
+</div>
+</li>
+<!-- 视频监控 -->
+<!-- 
+					<li id="jk" tag="jk">
+						<div>
+							<img title="校园内视频监控点实时视频及位置信息等" alt="监控" src="images/menu/menu_jk.png" onclick="ctrlleftPage('jk')">
+						</div>
+					</li> -->
+<li id="help" tag="help">
+<div>
+<img alt="地下管线" onclick="openHelp()" src="images/menu/menu_help.png" title="显示系统的使用帮助"/>
+</div>
+</li>
+<li id="appDown" tag="app">
+<div>
+<img alt="移动端下载" onclick="window.open('http://zq.xjtu.edu.cn/mxjtu/');" src="images/menu/menu_appDown.png" title="下载android或者ios版本"/>
+</div>
+</li>
+<li tag="xq">
+<div>
+<img alt="校庆" onclick="ctrlleftPage('xq')" src="images/menu/menu_xq.png" title="校庆期间接待点说明、活动安排通知、校园风光展示"/>
+</div>
+</li>
+</ul>
+</div>
+<div id="movebar" onclick="menu_move()" style="background-image: url(images/menu/trangle.png);width:14px;height:21px;position:absolute;right:1px;top:65px;"></div>
+</div>
+<div class="bottomheader">
+<div class="user" onselectstart="return false;" style="float:left;width:288px;">
+<img alt="返回首页" onclick="reHomeClear()" src="images/menu/rehome.png" style="float:left;margin-left:10px;cursor:pointer;"/>
+<div class="whitefont" id="userName_login" onclick="reHomeClear()" style="float:left;line-height:33px;cursor:pointer;">返回首页</div>
+<div>
+<a href="http://map.xjtu.edu.cn" style="color:rgb(195,22,22);margin-left:13px;float:left;line-height:36px;font-size:13px;text-decoration: none;" target="_blank">怀念旧版</a>
+</div>
+<!-- <div> pchenghao  暂时添加，用于测试
+					<a onclick="showFreeRoomInMain()" style="cursor:pointer;color:rgb(195,22,22);margin-left:13px;float:left;line-height:36px;font-size:13px;text-decoration: none;">空闲座位</a>
+				</div> -->
+<div class="whitefont text_hover" id="userName_login" onclick="window.open('http://gis.xjtu.edu.cn/redirect.jsp')" onmouseout="$(this).css('text-decoration' , 'none');" onmouseover="$(this).css('text-decoration' , 'underline');" style="float:right;line-height:33px;margin-right:20px;cursor:pointer;color:rgb(195,22,22);font-weight: bold;cursor:pointer;">登录</div>
+</div>
+<div class="user" onselectstart="return false;" style="float:left;width:120px;display:none;">
+<img alt="用户登录" src="images/menu/user_dl.png" style="float:left;"/>
+<div class="whitefont" id="userName_login" style="line-height:33px;">游客,你好<a id="exit_login" onclick="Canceled()" style="line-height:33px;margin-left:5px;cursor:pointer;text-decoration: underline;">退出</a></div>
+</div>
+<div class="l" style="float:left;">
+</div>
+<div class="search" data-intro="这里查询面板，可以进行兴趣点查询，周边查询等" data-position="bottom" data-step="2" style="float:left;width:470px;">
+<div id="searchselect" style="float:left;">
+<div class="whitefont" style="float:left;margin-top:6px;cursor:pointer;z-index:2;"><div style="width:41px;width:49px;height:21px;text-align:center;">搜索</div></div>
+<div class="whitefont" style="float:left;margin-top:6px;cursor:pointer;z-index:2;"><div style="background-image:url('images/menu/select.png');width:49px;height:21px;text-align:center;color:white">路径</div></div>
+<div class="whitefont" style="float:left;margin-top:6px;cursor:pointer;z-index:2;"><div style="width:41px;width:49px;height:21px;text-align:center;">周边</div></div>
+<!--<div style="background-image:url('images/menu/select.png');background-repeat:no-repeat;position:absolute;width:41px;height:28px;z-index:1;"></div>
+--> </div>
+<div id="searchDivS" style="float:left;">
+<div style="float:left;padding-right:5px;">
+<input id="inputstartPos" onblur="if(!value){value=defaultValue;this.style.color='#999'}" onclick="if(value==defaultValue){value='';this.style.color='#000'}" placeholder="请输入起点" style="height:20px;margin-top:4px;color:#999;" title="输入起点" type="text" value="请输入起点" x-webkit-grammar="builtin:search" x-webkit-speech="true"/>
+</div>
+<div onclick="Set_Change_Start_Stop()" style="background-image:url('images/menu/rechange.gif');height:28px;width:26px;float:left;cursor:pointer" title="切换"></div>
+<div style="float:left;padding-right:5px;margin-left: 5px;">
+<input id="inputstopPos" onblur="if(!value){value=defaultValue;this.style.color='#999'}" onclick="if(value==defaultValue){value='';this.style.color='#000'}" placeholder="请输入终点" style="height:20px;margin-top:4px;color:#999;" title="输入终点" type="text" value="请输入终点" x-webkit-grammar="builtin:search" x-webkit-speech="true"/>
+</div>
+<div onclick="getstartendRoutes()" style="background-image:url('images/menu/start.gif');height:28px;width:28px;float:left;cursor:pointer" title="查询路径"></div>
+</div>
+<div id="searchDivC" style="float:left;display: none;">
+<div style="float:left;padding-right:5px;">
+<input id="inputPoi" onblur="ctrlPoiPageView(0)" onclick="if(value==defaultValue){value='';this.style.color='#000'}$('#iframepoi').css('z-index',$.fn.window.defaults.zIndex++);" onfocus="ctrlPoiPageView(1)" placeholder="输入关键字" style="height:20px;margin-top:4px;color:#999;width:200px;" title="输入关键字" type="text" value="请输入关键字，搜索当前校区" x-webkit-grammar="builtin:search" x-webkit-speech="true"/><!-- onkeyup="queryInput()" -->
+</div>
+<div onclick="getPoiByKeyWords()" style="background-image:url('images/menu/start.gif');height:28px;width:28px;float:left;"></div>
+</div>
+<div id="searchDivD" style="float:left;display: none;">
+<div style="float:left;padding-right:5px;">
+<input id="inputNear" onblur="if(!value){value=defaultValue;this.style.color='#999' }" onclick="if(value==defaultValue){value='';this.style.color='#000'}$('#iframeslider').css('z-index',$.fn.window.defaults.zIndex++);" onfocus="ctrlNearPageView(1)" placeholder="输入关键字" style="height:20px;margin-top:4px;color:#999;width:200px;" title="输入关键字" type="text" value="请输入关键字，搜索当前校区" x-webkit-grammar="builtin:search" x-webkit-speech="true"/>
+</div>
+<div onclick="NearQuery()" style="background-image:url('images/menu/start.gif');height:28px;width:28px;float:left;"></div>
+</div>
+</div>
+<div class="meature" style="float:right;padding-right:10px;">
+<img onclick="drawLine()" src="images/menu/meatureline.gif" style="float:left;cursor:pointer;" title="距离测量"/>
+<img onclick="drawPolygon()" src="images/menu/meaturearea.gif" style="float:left;cursor:pointer;" title="面积测量"/>
+<img img="" onclick="clearFeatures_A()" src="images/menu/clear.gif" style="float:left;cursor:pointer;" title="清除结果"/>
+<img onclick="_Pan()" src="images/menu/pan.gif" style="float:left;cursor:pointer;" title="平移"/>
+</div>
+<div class="l" style="float:right;">
+</div>
+<div class="changeview" data-intro="这里可以用来切换二维，三维和2.5维地图" data-position="bottom" data-step="4" style="float:right;padding-right:10px;padding-left:10px;cursor:pointer;">
+<div class="whitefont" id="changemapDiv" onclick="view_change()" style="line-height:33px;float:left;font-family:'微软雅黑';font-size:13px;">
+<a id="changeViewText" style="color:rgb(195,22,22);font-weight: bold;">当前2.5维地图</a>   <img src="./images/menu/sanjiao.png"/></div>
+</div>
+<div class="l" style="float:right;">
+</div>
+<!-- pchenghao 更改校区 -->
+<div class="whitefont" id="changexqbutton" style="float:right;padding-right:20px;width:76px;height:21px;bottom:20px;display:none;">
+<div class="whitefont" onclick="changeXqDivShow()" style="line-height:33px;float:left;font-family:'微软雅黑';font-size:13px;cursor:pointer;"><a id="changeXqText">兴庆校区</a>   <img src="./images/menu/sanjiao.png"/></div>
+<img src="images/topmenu/arrows.png" style="float:left;padding-left:4px;padding-top:11px;"/>
+</div>
+<div class="changeXq" data-intro="这里用来切换校区" data-position="bottom" data-step="3" style="float:right;padding-right:20px;">
+<div style="float:left;padding-right:5px;cursor:pointer">
+<div class="whitefont divXqselect" style="float:left;">
+<div id="xqdefault" style="text-align:center;z-index:300;color:white;">兴庆校区</div>
+</div>
+</div>
+<div style="float:left;padding-right:5px;cursor:pointer">
+<div class="whitefont divXqselect" style="margin-top:6px;float:left;width:76px;height:21px;"><div id="xqdefault1" style="text-align:center;z-index:300">雁塔校区</div></div>
+</div>
+<div style="float:left;cursor:pointer">
+<div class="whitefont divXqselect" style="margin-top:6px;float:left;width:76px;height:21px;"><div id="xqdefault2" style="text-align:center;z-index:300">曲江校区</div></div>
+</div>
+</div>
+</div>
+</div>
+<div id="DivCenter" style="width:100%;position:relative;">
+<div id="infoContain" style="height:100%;position:absolute;width:288px;top: 1px;">
+<iframe frameborder="0" id="leftMainiframe" scrolling="no" src="subpages/poi/sub_poi.jsp?isSA=" style="position:absolute;width:100%;height:100%;z-index:9999;background-color:white"></iframe>
+<iframe frameborder="0" id="leftInfoContentBtn" scrolling="no" src="" style="z-index:8888;position:absolute;top:46%;right:-17px;height:70px;width:18px;border: 0px;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=1)"></iframe>
+<div style="position:absolute;top:46%;right:-17px;background-image:url(images/leftinfo/yuanjiao/default.png);height:70px;width:18px;z-index:9999;cursor:pointer;border: 0px;">
+</div>
+<img src="images/leftinfo/yuanjiao/default.png" style="display: none;"/>
+<img src="images/leftinfo/yuanjiao/default1.png" style="display: none;"/>
+<img src="images/leftinfo/yuanjiao/default_s.png" style="display: none;"/>
+<img src="images/leftinfo/yuanjiao/default1_s.png" style="display: none;"/>
+<img src="images/leftinfo/default.png" style="display: none;"/>
+<img src="images/leftinfo/default1.png" style="display: none;"/>
+<img src="images/leftinfo/default_s.png" style="display: none;"/>
+<img src="images/leftinfo/default1_s.png" style="display: none;"/>
+<div style="display:inline;position:absolute;;right:-4px;background-image:url(images/leftinfo/shad_v_kqoxcl.png);background-repeat:repeat-y;height:100%;width:4px;z-index:9998;cursor:pointer;">
+</div>
+<div id="waitingloading" style="position:relative;vertical-align:middle;top:45%;height:100%;width:100%;margin-left: 130px;display:none;">
+<img height="42px" src="images/wait.gif" width="42px">
+</img></div>
+<iframe frameborder="0" id="leftinfoiframe" scrolling="no" style="width:100%;height:100%"></iframe>
+</div>
+<div id="mapContain" style="height:100%;width:100%;position:absolute;left:288px;top:1px;">
+<div class="mapDiv" id="mapDiv"></div>
+<div class="mapDiv_25" id="mapDiv_25"></div>
+<div class="sceneControlDiv" id="sceneControlDiv"></div>
+<div id="right" onselectstart="return false" style="position: fixed;left:300px;bottom:10px;color:#4c4c4c;z-index:999;font: 12px arial,宋体,sans-serif">
+<div>
+					您是本站第<a id="visitCount" style="color:rgb(195,22,22);">60000</a>个浏览者！
+				</div>
+<div>
+<prep>版权所有：西安交通大学 ©2012-2017  站点建设与维护：西安交通大学网络信息中心  技术支持：北京超图软件股份有限公司</prep>
+</div>
+<div>
+<prep>建议使用1920*1080分辨率</prep>
+<img height="16px" onclick="window.open('http://e.weibo.com/xjtuofficial')" src="images/links/weibo.png" style="cursor: pointer;" title="进入西安交通大学新浪官方微博..." width="16px"/>
+<img height="16px" onclick="window.open('http://t.qq.com/xjtuofficial')" src="images/links/tengxun.png" style="cursor: pointer;" title="进入西安交通大学腾讯官方微博..." width="16px"/>
+<img height="16px" onclick="window.open('http://page.renren.com/600722033')" src="images/links/renren.png" style="cursor: pointer;" title="进入西安交通大学人人网公共主页..." width="16px"/>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div id="iframepoi" style="display:inline;position:absolute;top:175px;left:440px;height:154px;width:308px;z-index:9998;display:none">
+<div style="display:inline;position:absolute;width:4px;height:182px;background-image:url(images/leftinfo/shad_v_kqoxcl_left.png);background-repeat:repeat-y;">
+</div>
+<div style="display:inline;position:absolute;width:100%;background-image:url(images/leftinfo/shad_v_kqoxcl_bottom.png);height:4px;top:180px;background-repeat:repeat-x;">
+</div>
+<div style="display:inline;position:absolute;width:4px;background-image:url(images/leftinfo/shad_v_kqoxcl.png);height:182px;right:0px;margin-bottom:4px;background-repeat:repeat-y;">
+</div>
+<iframe frameborder="0" scrolling="no" src="subpages/poi.jsp" style="padding-left:4px;width:300px;height:180px;top:0px;"></iframe>
+</div>
+</div>
+<div class="easyui-window" data-options="iconCls:'icon-save',minimizable:false,maximizable:false,resizable:false" id="iframeleftDialog" onmousedown="return false" style="width:400px;height:560px;left:10px;top:125px;" title="提示">
+<div id="iframeLeftDialogLoading" style="width:100%;height:100%;position:absolute;left:0px;top:28px;background-color:white;text-align:center;display:table-cell;vertical-align:middle;">
+<img src="images/wait.gif" style="position:relative;vertical-align:middle;top:45%;"/>
+</div>
+<iframe frameborder="0" id="iframeleft" scrolling="no"></iframe>
+</div>
+<div class="easyui-dialog" data-options="iconCls:'icon-save',resizable:true,modal:true,buttons:[{
+				text:'确定',
+				handler:function(){$('#dd').dialog({
+					closed : true
+				});
+				$('#windowframe1').remove();}
+			}]" id="dd" style="width:250px;height:130px;" title="提示">
+<p style="margin-left:5px;">Dialog Content.</p>
+</div>
+<div class="easyui-dialog" data-options="iconCls:'icon-save',resizable:true,modal:true,buttons:[{
+				text:'确定',
+				handler:function(){$('#dd1').dialog({
+					closed : true
+				});
+				$('#windowframe2').remove();
+				changeviewtypeIfram_in_main(3);
+				}
+			},{
+				text:'取消',
+				handler:function(){$('#dd1').dialog({
+					closed : true
+				});
+				$('#windowframe2').remove();
+				}
+			}]" id="dd1" style="width:250px;height:130px;" title="提示">
+<p style="margin-left:5px;">该应用需要在三维模式下运行，是否切换到三维？</p>
+</div>
+<div class="easyui-dialog" data-options="iconCls:'icon-save',resizable:true,modal:true,buttons:[{
+				text:'确定',
+				handler:function(){$('#dxgwdialog').dialog({
+					closed : true
+				});
+				$('#windowframe2').remove();
+				changeviewtypeIfram_in_main(4);
+				}
+			},{
+				text:'取消',
+				handler:function(){$('#dxgwdialog').dialog({
+					closed : true
+				});
+				$('#windowframe2').remove();
+				}
+			}]" id="dxgwdialog" style="width:250px;height:130px;" title="提示">
+<p style="margin-left:5px;">该应用需要在三维模式下运行，是否切换到三维？</p>
+</div>
+<div class="easyui-dialog" data-options="iconCls:'icon-save',resizable:true,modal:true,buttons:[{
+				text:'确定',
+				handler:function(){$('#dd2').dialog({
+					closed : true
+				});
+				$('#windowframe2').remove();
+				onPageLoad1();
+				changeviewtypeIfram_in_main(1);
+				}
+			},{
+				text:'取消',
+				handler:function(){$('#dd2').dialog({
+					closed : true
+				});
+				$('#windowframe2').remove();
+				}
+			}]" id="dd2" style="width:250px;height:130px;" title="提示">
+<p style="margin-left:5px;">该应用需要在二维模式下运行，是否切换到二维？</p>
+</div>
+<div class="easyui-dialog" data-options="iconCls:'icon-save',resizable:true,modal:true,buttons:[{
+				text:'确定',
+				handler:function(){$('#dd3').dialog({
+					closed : true
+				});
+				$('#windowframe2').remove();
+				onPageLoad_2_5D();
+				changeviewtypeIfram_in_main(2);
+				}
+			},{
+				text:'取消',
+				handler:function(){$('#dd3').dialog({
+					closed : true
+				});
+				$('#windowframe2').remove();
+				}
+			}]" id="dd3" style="width:250px;height:130px;" title="提示">
+<p style="margin-left:5px;">该应用需要在2.5维模式下运行，是否切换到2.5维？</p>
+</div>
+<!-- 	<iframe id="iframemeasureresult" frameborder="0" scrolling="no" -->
+<!-- 		name="iframemeasureresult" src="subpages/measureresult.jsp"></iframe> -->
+<iframe frameborder="0" id="iframemeasureresult" name="iframemeasureresult" scrolling="no" src="subpages/measureresult.jsp" style="position:absolute;!left:290px;!top:175px;z-index:90000;display:none"></iframe>
+<iframe frameborder="0" id="iframechangeviewtype2" scrolling="no" src="subpages/changeview.jsp" style="position:absolute;width:286px;height:110px;z-index:90000;display:none"></iframe>
+<!-- <iframe id="changeXqDiv" frameborder="0" scrolling="no" src="subpages/changexq.html" style="position:absolute;left:820px;top:171px;width:286px;height:110px;z-index:90000;display:none;"></iframe> -->
+<div id="changeXqDiv" style="position:absolute;right:258px;top:175px;width:120px;height:100px;z-index:90000;display:none;line-height: 30px;background-color:#F7F7F7;">
+<div style="position:absolute;left:-4px;top:0px;background-image:url(images/leftinfo/shad_v_kqoxcl_left.png);width:4px;height:100px;background-repeat: repeat-y;"></div>
+<div style="position:absolute;bottom:-4px;left:0px;background-image:url(images/leftinfo/shad_v_kqoxcl_bottom.png);width:100%;height:4px;background-repeat: repeat-x;"></div>
+<div style="position:absolute;right:-4px;top:0px;background-image:url(images/leftinfo/shad_v_kqoxcl.png);width:4px;height:100px;background-repeat-y;"></div>
+<div style="position:absolute;top:3px;left:25px;width:100px;">
+<div class="whitefont" onclick="changeXqText($('#xqdefault'),'兴庆校区',$('#yiying1'));" style="cursor:pointer;">兴庆校区</div>
+<div class="whitefont" onclick="changeXqText($('#xqdefault1'),'雁塔校区',$('#yiying2'));" style="cursor:pointer;">雁塔校区</div>
+<div class="whitefont" onclick="changeXqText($('#xqdefault2'),'曲江校区',$('#yiying3'));" style="cursor:pointer;">曲江校区</div>
+</div>
+<div id="yiying1" onclick="changeXqText($('#xqdefault'),'兴庆校区',$('#yiying1'));" style="background-color:#12559E;position:absolute;top:3px;left:10px;opacity: 0.3;width:100px;height:30px;"></div>
+<div id="yiying2" onclick="changeXqText($('#xqdefault1'),'雁塔校区',$('#yiying2'));" style="background-color:#12559E;position:absolute;top:33px;left:10px;opacity: 0.3;width:100px;height:30px;display:none;"></div>
+<div id="yiying3" onclick="changeXqText($('#xqdefault2'),'曲江校区',$('#yiying3'));" style="background-color:#12559E;position:absolute;top:63px;left:10px;opacity: 0.3;width:100px;height:30px;display:none;"></div>
+</div>
+<iframe frameborder="0" id="iframechangeviewbounds" scrolling="no"></iframe>
+<iframe frameborder="0" id="iframechangeviewtype" scrolling="no"></iframe>
+<div id="oversizeDiv" onclick="min_max_size1()" style="position:absolute;height:13px;width:14px;background:url(images/msg/min_max.png) no-repeat 0 0;right:2px;bottom:2px;z-index:999;"></div>
+<iframe frameborder="0" id="iframeTip" name="iframeTip" scrolling="no" style="display: none;"></iframe>
+<iframe frameborder="0" id="iframeVideo" name="iframeVideo" scrolling="no" src="subpages/video.html"></iframe>
+<iframe id="iframefly" name="iframefly" scrolling="no"></iframe>
+<iframe frameborder="0" id="infoWindow" src="subpages/scene/loading.html" style="position:absolute;display:none;overflow-x:hidden;"> </iframe>
+<iframe frameborder="0" id="iframeslider" scrolling="no" src="" style="position: absolute;height:220px"> </iframe>
+<div id="colorBoxDiv" style="z:index:0;display:none;position:absolute;background-color: lime;">
+<p>
+<a class="group1" href="images/sat/gxsb/1234543678/1.JPG" title="Me and my grandfather on the Ohoopee.">Grouped Photo 1</a>
+</p>
+</div>
+<div id="flyControl">
+<div class="window" style="display: block; left: 350px; bottom: 20px; width: 200px;height: 30px; z-index: 9017; position: absolute;border-width: 3px;">
+<div class="panel-header panel-header-noborder window-header" style="width: 388px;border-width: 0 0 0 0">
+<div class="panel-title panel-with-icon" style="line-height:35px;vertical-align: bottom;">飞行管理</div>
+<img id="Start" onclick="gstart()" src="./images/infowindow/Button_Play_Pause.png" style="margin-left:100px;margin-top:-20px;"/>
+<img id="Stop" onclick="gstop()" src="./images/infowindow/Button_Stop.png" style="margin-left:30px;margin-top:-20px;"/>
+<div class="panel-icon icon-save"></div>
+</div>
+</div>
+<iframe frameborder="0" scrolling="no" style="position:absolute;display:inline; z-index:9016;left:350px;bottom:20px;width:216px;height:46px;"></iframe>
+</div>
+<!-- 背景音乐，只会随三维飞行的播放、暂停、停止而播放、暂停、停止 -->
+<div id="musicDiv"></div> <!-- 动态判断浏览器来添加飞行背景音乐的代码 -->
+<!--  <embed src="bg.mp3" type="audio/mpeg" autostart="false" hidden="true" loop="true" id="music"></embed> -->
+<script type="text/javascript">
+	/*$(document).snowfall('clear');
+        $(document).snowfall({
+            image: "images/huaban.png",
+            flakeCount:30,
+            minSize: 5,
+            maxSize: 22
+        });*/
+</script>
+</body>
+</html>

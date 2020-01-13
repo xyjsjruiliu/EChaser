@@ -1,0 +1,262 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<title>我校召开2019年暑期工作会议-西安交通大学数字报</title>
+<link href="css/ys.css" rel="stylesheet" type="text/css"/>
+<script language="Javascript" src="js/prototype.js"></script>
+<script language="Javascript" src="js/range1.js"></script>
+<script language="Javascript" src="js/calendar.js"></script>
+<script language="Javascript" src="js/menu.js"></script>
+<script language="Javascript" src="js/jquery-1.9.1.min.js"></script>
+<meta content="交大报,西安交大报,西安交大数字报,西安交大数字报纸 ,西安交大电子报" name="keywords">
+<meta content="交大报,西安交大报,西安交大数字报,西安交大数字报纸 ,西安交大电子报" name="description"/>
+<script type="text/javaScript">
+		function doZoom(size){
+			document.getElementById('zoom').style.fontSize=size+'px'}
+	</script>
+<style type="text/css">
+	.bantu_img {position:relative;  top:22px; left:15px;width:402px;height:542px;z-index:99;}
+</style>
+<script type="text/javascript">
+
+         jQuery(document).ready(function () {
+			 	  //通版
+			if(402>403){
+			jQuery('#zhankan').click(function(){
+			jQuery('img.bantu_img').css("width","790");
+			
+			  });
+			jQuery("#shousuo").click(function(){
+            jQuery("img.bantu_img").css("width","373");
+			
+            });
+			jQuery("#tongban").show();
+			}
+			if(402<403){
+			jQuery("#tongban").hide();
+			}
+			//选框移入移出
+		   jQuery("map").mouseover(function(event){
+  
+	    rangeDeltaX =11;
+		rangeDeltaY = -60;
+		drawLine(event.target,event);
+		  });
+
+		jQuery("#sss").mouseout(function(){
+		var divElm = document.getElementById("leveldiv");
+		divElm.style.border = "";
+	
+		showTitlePane(false);
+
+		});
+		jQuery("#ttt").mouseout(function(){
+		var divElm = document.getElementById("leveldiv");
+		divElm.style.border = "";
+	
+		showTitlePane(false);
+
+		});
+		var content = jQuery("#zoom").html().replace(/&nbsp;&nbsp;&nbsp;&nbsp;/g,"&#12288;&#12288;");
+		jQuery("#zoom").html(content);
+
+		//点击量和文章字数统计
+               var count1=content.length;
+			   jQuery.get("/tbarticle.do?epaper=sum&riqi="+"19-7-25"+"&banci="+"01"+"&title="+encodeURIComponent("我校召开2019年暑期工作会议"),function(data,status){
+			  
+					var str = "文章字数："+count1+"&nbsp;&nbsp;&nbsp;&nbsp;文章浏览数："+data;;
+					jQuery("#div1").html(str);
+				});
+
+			     //日历控件
+			   	
+			var dd='19-7-25'.split('-');
+			$("#rili").html("<span  class='search_span1'>20"+dd[0]+"年"+dd[1]+"月"+dd[2]+"日</span>");
+            
+		});
+		</script>
+</meta></head>
+<body>
+<div id="ttt">
+</div><div id="leveldiv" style="z-index:100;  POSITION: absolute; pointer-events: none;"></div>
+<div class="tb_sxrb">
+<!--导航-->
+</div>
+<div class="main_02">
+<div class="logo_dt_1">
+</div>
+<div class="daoh">
+<div class="menu">
+<div class="menu_nei">
+<ul id="nav">
+<li class="top1">
+<a class="top_link" href="/"><span>数字报首页</span></a>
+</li>
+<li class="top1">
+<a class="top_link" href="" id="products"><span class="down">版面导航</span></a>
+<ul class="sub1">
+<li>
+<div onclick="window.open('index.htm','_self')"><a href="#">第01版：要闻</a></div>
+<div onclick="window.open('page_01.htm','_self')"><a href="#">第02版：综合信息</a></div>
+<div onclick="window.open('page_02.htm','_self')"><a href="#">第03版：综合信息</a></div>
+<div onclick="window.open('page_03.htm','_self')"><a href="#">第04版：校园笔会</a></div>
+</li>
+</ul>
+</li>
+<li class="top1">
+<a class="top_link" href="" id="contacts"><span class="down">标题导航</span></a>
+<ul class="sub2">
+<li>
+<div onclick="window.open('index_content_003.htm','_self')" title="我校召开2019年暑期工作会议">
+<div id="mp003" style="DISPLAY: inline">
+<a href="#">我校召开2019年暑期工作会议</a>
+</div>
+</div>
+<div onclick="window.open('index_content_002.htm','_self')" title="电气科学与技术研究院暨合作研究院入驻创新港">
+<div id="mp002" style="DISPLAY: inline">
+<a href="#">电气科学与技术研究院暨合作研究院入驻创新港</a>
+</div>
+</div>
+<div onclick="window.open('index_content_000.htm','_self')" title="学校教职工暑期全速推进重点工作">
+<div id="mp000" style="DISPLAY: inline">
+<a href="#">学校教职工暑期全速推进重点工作</a>
+</div>
+</div>
+<div onclick="window.open('index_content_001.htm','_self')" title="交大人 干就要干出个好样子">
+<div id="mp001" style="DISPLAY: inline">
+<a href="#">交大人 干就要干出个好样子</a>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="top1">
+<a class="top_link" href="outline.htm" id="privacy"><span>版面概览</span></a>
+</li>
+<li class="top1">
+<a class="top_link" href="/about.jsp" target="_blank"><span>联系我们</span></a>
+</li>
+<li class="shijian">
+<script type="text/javascript">
+ var today = new Date(); //新建一个Date对象
+  var date = today.getDate();//查询当月日期
+  var day = today.getDay();//查询当前星期几
+  var month = today.getMonth()+1;//查询月份
+  var year = today.getFullYear();//查询年份  
+  var hour=today.getHours();
+  var morning="";
+  if (hour>=8 & hour<=12) morning="上午好";
+  var week="";                               
+  if (day==0) week='星期日';
+  if (day==1) week='星期一';
+  if (day==2) week='星期二';
+  if (day==3) week='星期三';
+  if (day==4) week='星期四';
+  if (day==5) week='星期五';
+  if (day==6) week='星期六';
+  document.write(year+"年"+month+"月"+date+"日 "+week+" ");
+</script></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div style=" clear:both"></div>
+<div class="wrap_03">
+<div class="main">
+<div class="page">
+<div id="sss" style="width: 440px;height: 591px;float: left;background: url('images/bz_bg.png') no-repeat;">
+<img border="0" class="bantu_img" src="index.jpg" usemap="#Map"/>
+</div>
+<div id="tongban">
+<div class="dianji">通版阅读请点击：</div><div id="zhankan">展开通版</div> <div id="shousuo">收缩通版</div>
+</div>
+<div class="bott_1">
+<div class="b_bot">
+                        当前版：01版
+                </div>
+<div class="page_bottom">
+<a href="index.htm">首版</a>
+<a href="#">上一版</a>
+<a href="page_01.htm">下一版</a>
+<a href="page_03.htm">末版</a>
+</div>
+</div>
+</div>
+<div class="right">
+<div class="r_top">
+<div class="ss_rl"><span class="ss_rl_1">发布日期:</span><span class="ss_rl_2" id="rili"></span></div>
+<div class="search">
+<form action="/tbarticle.do?" id="Form1" method="get" name="formSearch" target="_blank">
+<input name="epaper" type="hidden" value="searchlistWy"/>
+<input name="STime" type="hidden" value=""/>
+<input name="ETime" type="hidden" value=""/>
+<div class="search_span"><select name="type" style=" font-size:12px; border:1px solid #D0D0D0;  height:25px; float:left; width:80px;"><option selected="selected" value="1">文章标题</option>
+<option value="2">文章内容</option>
+<option value="3">文章作者</option></select></div>
+<div class="search_text01">
+<input id="title" name="title" style="  border: 1px solid #D0D0D0;  width: 172px; height: 21px; line-height: 23px;  float: left;" type="text"/>
+</div>
+<div class="search_bat"><input height="25" name="image" onclick="return searchSubmit();" src="images/search_btn.jpg" type="image" width="60"/></div>
+</form>
+<script type="text/javascript">
+		function searchSubmit(){
+		var title = document.getElementById("title").value;
+			if(title==''){
+				alert('搜索关键字不能为空！');
+				return false;
+			}else{
+				return true;
+			}
+		
+		}
+	</script>
+</div>
+</div>
+<div class="bmnr">
+<div class="list_title">
+<a class="list_title_fanye" href="#">上一篇</a>
+<a class="list_title_fanye" href="index_content_002.htm">下一篇</a>
+<div class="list_title_ziti">字体：</div>
+<a class="list_title_ziti_a" href="javascript:doZoom(18)">放大<img src="images/fangda_icon.gif"/></a>
+<a class="list_title_ziti_a" href="javascript:doZoom(12)">缩小<img src="images/suoxiao_icon.gif"/></a>
+<a class="list_title_ziti_a" href="javascript:doZoom(14)">默认<img src="images/moren_icon.gif"/></a>
+</div>
+<div class="bmnr_con">
+<div class="bmnr_con_yinti">舟至中流不进则退 奋楫方能破浪前行 </div>
+<div class="bmnr_con_biaoti">
+						我校召开2019年暑期工作会议 	
+					</div>
+<div class="bmnr_con_yinti"> </div>
+<div class="bmnr_con_biaoti"><div id="div1" style="font-size:12px; class:#ccc; font-weight:100;height:20px"></div></div>
+<div class="bmnr_con_con">
+<div id="zoom">　　<strong>本报讯</strong> 7月20日上午，学校召开2019年暑期工作会议。本次会议以“不忘初心、牢记使命，为一流大学新形态建设提供保证”为主题，全面系统总结了学校上半年学习贯彻落实习近平新时代中国特色社会主义思想、积极推进“双一流”和中国西部科技创新港建设、全面深化改革等各项工作的成效，深入分析了在国际国内新形势下学校面临的新机遇、新挑战，为下半年各项工作的开展指明了方向，明晰了路径，提供了遵循。校党委书记张迈曾主持会议。 <br/>　　2019年已经过半，交大人又创造了哪些留下历史印记的新贡献？王树国校长以“不忘初心、牢记使命”为主题对上半年工作进行总结。他指出，上半年全校上下齐心协力，坚持弘扬传承西迁精神，在人才培养、科学研究、队伍建设、国际交流等方面披荆斩棘、搏浪前行，均取得了良好的发展成绩，继续保持了昂扬向上的发展态势，开拓了新时代学校工作的新局面。围绕下半年加强党的建设，深入推进全面从严治党；落实立德树人根本任务，提升人才培养质量；聚焦国家重大重点项目和创新港平台建设，持续落实“跑5”任务；抓好教师队伍建设，加强博士后（优青计划）、领军人才和青拔人才的引育工作；推进国际交流与合作，进一步提升开放办学水平；强化学科建设，以优异成绩迎接2020年“双一流”建设中期评估等主要工作，尤其是9月正式启用创新港，王树国要求各学院、各单位要充分利用暑期，全力以赴做好装修搬迁进驻工作，确保各项任务按时间节点高质量完成。 <br/>　　“干就要干出个好样子”，这是张迈曾讲话的主题，也是学校下半年工作的总体指导思想。如何干？怎样才能干出个好样子？张迈曾指出，本学期任务完成过程中呈现出了时间不够用、创造保持好态势、精气神巩固提升、“跑5”取得新收获、作风形成新氛围、文化建设持续升温六个新特点。对于下学期工作，张迈曾指出，要组织好“不忘初心、牢记使命”主题教育，完成好创新港搬迁工作，组织好学科评估，做大人才和钱财增量，做好体制机制改革。他同时强调，工作过程中一定要注重加强思维能力建设和作风建设。“希望我们每个人都能无愧于每一次努力，一起坚持，干就要干出个好样子。” <br/>　　在会议开始前，王树国现场抽取交大•长安通联名一卡通，约有20位教职工领取到了专属纪念卡，拿到了进入创新港的“钥匙”。据了解，该卡在目前校园卡的基础上，可为职工提供市内公交、地铁、共享自行车等服务，实现了“市校两通”。 <br/>　　学校党政领导、党委常委、校长助理，老领导和院士代表，全体校管干部、各学院系主任、国家及省部级重点科研教学基地负责人，高层次人才和中青年教师代表，民主党派基层组织、侨联、留联会负责人等约450余人参加会议。 <br/>　　连日来，校内党政各部门、各学院、各书院等纷纷传达学习此次会议精神，就下半年工作进行安排部署。<br/>　　<strong>（问炀 胡晓楠）</strong></div>
+<script charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript"></script>
+<script charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript"></script>
+</div>
+</div>
+<div style="clear:both"></div>
+<div class="fx">
+<div class="bshare-custom" style="position:relative; left:10px; top:10px">
+<a class="bshare-more" href="http://www.bShare.cn/" id="bshare-shareto" title="分享到">分享到</a><a class="bshare-weixin" title="分享到微信">微信</a><a class="bshare-qqim" title="分享到QQ好友">QQ好友</a><a class="bshare-qzone" title="分享到QQ空间">QQ空间</a><a class="bshare-sinaminiblog" title="分享到新浪微博">新浪微博</a><a class="bshare-more bshare-more-icon more-style-sharethis" title="更多平台"></a><span class="BSHARE_COUNT bshare-share-count">0</span></div><script charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=cc34420b-96de-4724-8b64-1634161dff4e&amp;pophcol=3&amp;lang=zh" type="text/javascript"></script><script charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript"></script>
+</div>
+</div>
+</div>
+<div style="clear:both;height:10px;"></div>
+</div></div>
+</body></html>
+<div class="main">
+<div class="bottom">
+版权所有：西安交通大学 陕ICP备05001571号  技术支持：<a href="http://www.joyhua.com">锦华科技</a>
+</div></div>
+<map name="Map">
+<area coords="0,0,0,0,0,0,0,0,0,0,0,0" href="#" shape="poly"/><area coords="32,333,270,506" href="index_content_000.htm" shape="rect"/>
+<area coords="278,107,364,498" href="index_content_001.htm" shape="rect"/>
+<area coords="34,214,270,325" href="index_content_002.htm" shape="rect"/>
+<area coords="34,101,270,204" href="index_content_003.htm" shape="rect"/>
+</map>
+
+

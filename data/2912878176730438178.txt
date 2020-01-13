@@ -1,0 +1,121 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="fassets/AloeR@BMY" name="author"/>
+<link href="fassets/css/AloeR.css" rel="stylesheet" type="text/css"/>
+<title>西安交通大学办公自动化系统</title>
+<script>"undefined"==typeof CODE_LIVE&&(!function(e){var t={nonSecure:"8123",secure:"8124"},c={nonSecure:"http://",secure:"https://"},r={nonSecure:"127.0.0.1",secure:"gapdebug.local.genuitec.com"},n="https:"===window.location.protocol?"secure":"nonSecure";script=e.createElement("script"),script.type="text/javascript",script.async=!0,script.src=c[n]+r[n]+":"+t[n]+"/codelive-assets/bundle.js",e.getElementsByTagName("head")[0].appendChild(script)}(document),CODE_LIVE=!0);</script></head>
+<body data-genuitec-file-id="wc1-27" data-genuitec-lp-enabled="false" data-genuitec-path="/oa2018/WebRoot/zxgg_infonew_oa.jsp">
+<!--loginstart-->
+<input data-genuitec-file-id="wc1-27" data-genuitec-lp-enabled="false" data-genuitec-path="/oa2018/WebRoot/zxgg_infonew_oa.jsp" name="_ggfw" type="hidden" value="1"/>
+<!--loginend-->
+<table cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="998"><img src="fassets/images/oa.jpg"/></td>
+<td class="noa_top"> </td>
+</tr>
+</table>
+<!-- 打印2个隐含变量，供电子校历用  -->
+<input id="qcr" name="qcr" type="hidden" value="1"/>
+<input id="fromdeptname" name="fromdeptname" type="hidden" value="1"/>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td class="login_l"></td><td width="42"><img src="fassets/images/login_l.jpg"/></td><td class="login_r">  <a href="http://noa.xjtu.edu.cn"><img align="absmiddle" alt="登录OA系统" border="0" height="21" src="fassets/images/login.jpg" width="76"/></a></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td class="noa_list" colspan="2">
+<table cellpadding="0" cellspacing="3" width="100%">
+<tr>
+<td class="left_p1">
+<div class="home"><a class="home" href="index.jsp">返回首页</a></div>
+</td>
+<td class="right_p1">
+<div class="zxgg">详细信息</div>
+</td>
+</tr>
+<tr>
+<td class="list_left">
+<ul class="list_left" data-genuitec-file-id="wc1-15" data-genuitec-lp-enabled="false" data-genuitec-path="/oa2018/WebRoot/left_common.jsp">
+<li class="list_left"><a href="zxgg_index.jsp">通知公告</a></li>
+<li class="list_left"><a href="mzhy_index.jsp">会议安排</a></li>
+<li class="list_left"><a href="dxhd_index.jsp">学校大型活动</a></li>
+<!-- <li class="list_left"><a href="10wen_index.jsp">新OA系统使用十问解答</a></li>							 -->
+<li class="list_left"><a href="help.jsp">常见问题解答</a></li>
+<!-- <li class="list_left"><a href=" http://985ap.xjtu.edu.cn/viewlist.php?id=traindetail&pid=2">用户手册下载</a></li>
+							<li class="list_left1"><a href="http://985ap.xjtu.edu.cn/advise.php">意见及建议</a></li>
+							 -->
+</ul>
+<br/><br/>
+					    开发和维护：<a href="http://nic.xjtu.edu.cn/" target="_blank"><font color="red">西安交通大学网络信息中心</font></a>
+<br/>
+</td>
+<td align="center" class="list_right">
+<table align="center" cellpadding="0" cellspacing="0" class="nos_d" width="100%">
+<tr>
+<td>
+<span class="noa_title">喜迎春节送春联，师生携手送祝福</span>
+<span class="noa_f">崇实书院 发布于2020-01-09 11:52〔已被读 492 次〕</span>
+</td>
+</tr>
+<tr>
+<td class="nos_d"><div id="tzggzw">
+<p style="text-indent:32px;"><span style="font-family: 宋体; font-size: 18px;">春节将至，为弘扬中华民族优良传统文化，营造温馨喜庆的节日氛围，让广大教职工度过一个欢乐、祥和的春节，校工会和崇实书院联合组织师生书法协会送春联送祝福活动，届时，教工书法协会和崇实书院学生书画协会的师生将携手创作，现场泼墨挥毫写春联、送祝福，欢迎广大教职工参加、领取。</span></p><p style="text-indent:32px;"><span style="font-family: 宋体; font-size: 18px;"> </span></p><p style="text-indent:32px;"><span style="font-family: 宋体; font-size: 18px;">时间：2020年1月10日（本周五）下午14:30-17:00</span></p><p style="text-indent:32px;"><span style="font-family: 宋体; font-size: 18px;">地点：交大二村教工之家大厅（交大附小南侧）</span></p><p style="text-indent:32px;"><span style="font-family: 宋体; font-size: 18px;"> </span></p><p style="text-align:right;text-indent:32px;"><span style="font-family: 宋体; font-size: 18px;">校工会 崇实书院</span></p><p style="text-align:right;text-indent:32px;"><span style="font-family: 宋体; font-size: 18px;">2020年1月9日</span></p>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+								 
+							
+							</td>
+</tr>
+<tr>
+<td>
+</td>
+</tr>
+<tr>
+<td><span class="noa_f"> </span>
+</td>
+</tr>
+<tr height="25">
+<td> 							
+							
+							</td>
+</tr>
+<!--<tr height="25">
+							<td ><font color="blue"><b>相关公告</b></font> <img src='fassets/images/newflag.gif'/>	<br/>							
+							
+							</td>
+						</tr> -->
+<tr>
+<td> <table align="center" border="0" bordercolor="#d0d0d0" cellpadding="0" cellspacing="0" width="80%">
+<!-- <tr height="25"><td width="60%"> 相关公告内容</td></tr> -->
+</table>
+</td>
+</tr>
+<tr height="25">
+<td> 							
+							
+							</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<div align="center" id="mybottom">
+<table align="center" border="0" cellpadding="0" cellspacing="0" data-genuitec-file-id="wc1-1" data-genuitec-lp-enabled="false" data-genuitec-path="/oa2018/WebRoot/bottom_noa.jsp" width="100%">
+<tr><td align="center"><div align="center">开发和维护：<a href="http://nic.xjtu.edu.cn/" target="_blank"><font color="red">西安交通大学网络信息中心</font></a>  
+	<a href="http://www.beian.miit.gov.cn/" target="_blank">陕ICP备06008037号</a>  
+</div></td>
+</tr></table>
+</div>
+</body>
+</html>

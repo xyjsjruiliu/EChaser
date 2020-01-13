@@ -1,0 +1,746 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html><head><title>品鉴经典之作，为思政课堂养“气”-西安交大新闻网</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="CSS:AloeR@BMY,美工设计:阿颖" name="author"/>
+<meta content="西安交通大学 新闻网XJTUNEWS" name="description"/><link href="../../AloeR/AloeR_news.css" rel="stylesheet" type="text/css"/><script language="JavaScript" src="../../AloeR/AloeR_news.js" type="text/JavaScript"></script><script src="http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=420961"></script><link href="http://bdimg.share.baidu.com/static/api/css/share_style0_16.css?v=6aba13f0.css" rel="stylesheet"/><link href="http://bdimg.share.baidu.com/static/api/css/share_popup.css?v=240f357d.css" rel="stylesheet"/><link href="http://bdimg.share.baidu.com/static/api/css/select_share.css?v=15f56735.css" rel="stylesheet"/>
+<script src="http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=426893"></script>
+<link href="http://bdimg.share.baidu.com/static/api/css/share_style0_16.css?v=8105b07e.css" rel="stylesheet"/><!--Announced by Visual SiteBuilder 9-->
+<link href="../../_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230697547545255564203030000 -->
+<link href="../../content.vsb.css" rel="stylesheet" type="text/css">
+<meta content="西安交大新闻网" name="keywords">
+<script src="../../system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1016,'/content.jsp',121845,1025023737)</script>
+</meta></link></link></head>
+<body tangram_guid="TANGRAM_5" target="_blank"><a 360chrome_form_autofill="2" href="../../xxyg.htm"></a>
+<div 360chrome_form_autofill="2" class="i_top">
+<div 360chrome_form_autofill="2" class="i_top_xjtu"><!--#begineditable contype="" name="交大LOGO" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="交大LOGO" viewid="43031" stylesysid=""--><table border="0" cellpadding="0" cellspacing="0"><tr><td><img alt="/AloeR/i_top_xjtu.jpg" border="0" src="../../AloeR/i_top_xjtu.jpg"/></td></tr></table><!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="i_top_news"><!--#begineditable contype="" name="新闻网logo" action="" layout="" clone="0" namechanged="0" order="1" ispublic="0" tagname="新闻网logo" viewid="43060" stylesysid=""-->
+<script language="javascript" src="../../system/resource/js/dynclicks.js"></script>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img border="0" height="85" hspace="3" src="../../newindex/pic/i_top_news.jpg" vspace="2" width="340"/></td>
+</tr>
+</table><!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="i_top_right" style="padding-top: 20px">
+<div 360chrome_form_autofill="2" class="i_top_datett"><script language="JavaScript" src="../../AloeR/datatime.js" type="text/javascript"></script>| <a 360chrome_form_autofill="2" class="i_white" href="http://xiaoli.xjtu.edu.cn" target="_blank">电子校历 </a></div>
+<div 360chrome_form_autofill="2" class="i_top_writesq" style="width: 112px;float: right"><a 360chrome_form_autofill="2" class="i_white" href="http://202.117.3.237:8080/system/contribute/login.jsp" target="_blank"><img 360chrome_form_autofill="2" data-bd-imgshare-binded="1" height="51" src="../../images/xwtg_r2_c2.jpg" tangram_guid="TANGRAM_18" width="112"/></a></div></div></div>
+<div 360chrome_form_autofill="2" class="i_menu"><!--#begineditable contype="" name="网站导航" action="" layout="" clone="0" namechanged="0" order="2" ispublic="0" tagname="网站导航" viewid="43061" stylesysid=""--> <div class="i_menu_home">
+<a class="i_home" href="../../index.htm">新闻网首页</a>
+<a class="i_home" href="http://www.xjtu.edu.cn" target="_blank">交大首页</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../zyxw.htm">主页新闻</a>
+<a class="i_menu" href="../../zhxw.htm">综合新闻</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../jyjx.htm">教育教学</a>
+<a class="i_menu" href="../../kydt.htm">科研动态</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../wshd.htm">外事活动</a>
+<a class="i_menu" href="../../zsjy.htm">招生就业</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../ybdt.htm">院部动态</a>
+<a class="i_menu" href="../../dcsy.htm">多彩书院</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../xysh.htm">校园生活</a>
+<a class="i_menu" href="../../syjt.htm">思源讲堂</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../rwfc.htm">人物风采</a>
+<a class="i_menu" href="../../xyzs.htm">校友之声</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../ylzx.htm">医疗在线</a>
+<a class="i_menu" href="../../shfw.htm">社会服务</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../mtjd.htm">媒体交大</a>
+<a class="i_menu" href="../../xwzh.htm">新闻纵横</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../xwzt.htm">新闻专题</a>
+<a class="i_menu" href="../../tpxw.htm">图片新闻</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../spjd.htm">视频交大</a>
+<a class="i_menu" href="../../llyd.htm">理论园地</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../xxyg.htm">信息预告</a>
+<a class="i_menu" href="../../xysb.htm">校园随笔</a>
+</div>
+<!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="i_menu_bottom"> </div>
+<div 360chrome_form_autofill="2" class="pw">
+<div 360chrome_form_autofill="2" class="i_left">
+<div 360chrome_form_autofill="2" class="l_location"><!--#begineditable contype="" name="当前位置" action="" layout="" clone="0" namechanged="0" order="3" ispublic="0" tagname="当前位置" viewid="42997" stylesysid=""-->
+<table cellpadding="0" cellspacing="0" class="winstyle42997"><tr><td nowrap="">
+<a href="../../index.htm"><span class="fontstyle42997">新闻网首页</span></a><span class="splitflagstyle42997"> &gt; </span><a href="../../xysb.htm"><span class="fontstyle42997">校园随笔</span></a><span class="splitflagstyle42997"> &gt; </span><span class="fontstyle42997">正文</span></td></tr></table><!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="l_split"> </div><!--#begineditable contype="" name="文章内容" action="" layout="" clone="0" namechanged="0" order="4" ispublic="0" tagname="文章内容" viewid="42979" stylesysid=""-->
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="../../system/resource/js/news/newscontent.js"></script><link href="../../system/resource/style/component/news/content/format2.css" rel="stylesheet" type="text/css"/><script language="javascript" src="../../system/resource/js/ajax.js"></script><script language="javascript" src="../../system/resource/js/jquery/jquery-latest.min.js"></script>
+<form name="_newscontent_fromname">
+<div>
+<input id="cc_title" name="cc_title" type="hidden" value="品鉴经典之作，为思政课堂养“气”"/>
+<div class="d_title">品鉴经典之作，为思政课堂养“气”</div>
+<div class="d_author">来源：交大新闻网 日期 2019-10-14 10:40 点击：<script>_showDynClicks("wbnews", 1025023737, 121845)</script> </div>
+<div class="d_detail" id="lmz_content"><div id="vsb_newscontent"><p align="left">青少年阶段是人生的“拔节孕穗期”，最需要精心引导和栽培。书香校园最芬芳，文学经典、文化经典，思想丰富情感清正，精神充盈意志坚定，是青少年成长的绝好营养。青少年是祖国的未来、民族的希望。我们应当立足本来，植根于中华民族优秀的传统文化；吸引外来，汲取世界优秀文化；只有这样，面向未来，才会稳健而从容。优秀的传统文化，千古流传的经典之作，以及优秀的世界文化，耳熟能详的经典歌曲，都是我们精心引导和栽培的绝好材料。品鉴这些经典之作，培养少年气象、英雄气魄和贵族气质，为思政课堂养“气”。</p>
+<p align="center"><b>品鉴经典，培养开朗达观、自信阳光的“少年气象”</b></p>
+<p>“王杨卢骆当时体，轻薄为文哂未休。尔曹身与名俱灭，不废江河万古流。”诗圣杜甫确实具有先见之明，他不顾世俗的轻薄哂笑，对“初唐四杰”不吝赞美之词。千年已逝，初唐四杰依旧光彩照人。品鉴王勃的诗作，总是让人耳目一新，心中一振，同样是抒写离别，常人笔下，总是儿女情长，泪眼婆娑。要么“劝君更尽一杯酒，西出阳关无故人”，送者不舍，离者感伤，而友人毕竟要走向远方；要么“执手相看泪眼，竟无语凝噎，”送别之际，情意缱绻，缠绵悱恻，而伊人终究要踏上征程；送别之时的两泪汪汪，总落得送者和离者“两情相伤”。而少年王勃的千古之作《送杜少府之任蜀州》，一洗尘泥，随即吟诵出离别之际的高调：“海内存知己，天涯若比邻，”诗人心胸宽广，劝勉对方；鼓励友人放眼未来，前途敞亮。心存知己情意在，与君离别不觉伤。反复吟咏，旷达洒脱，一扫离别时送者的牵挂羁绊，而倍感豁达开朗。理想在远方，让友人轻装上阵，踏上征程，从而表现出一种阔达乐观的胸襟，给人以阳光之感、进取之意和高格之调。这种精神气质，超越常情，自成高格，堪为人杰禀性，也成为初唐时期亮丽的风景；大唐伊始，就气宇不凡，俊朗洒脱；大唐开端，即精神饱满，英气勃勃。这种思想境界，成为大唐走向盛世的精神光照，清新而俊逸，鲜亮而耀眼，其字里行间流淌出不同凡响的精神气息，为后世树立了“开朗达观、自信阳光”的少年气象。</p>
+<p>拥有少年气象，自有不同寻常的精神气质！拥有少年气象，即使在国运的低谷，也能唤醒国人照耀内心的精神力量，唤起沉睡的国人对国家富强的热望。“少年智则国智，少年富则国富；少年强则国强，少年独立则国独立；少年自由则国自由，少年进步则国进步；少年胜于欧洲则国胜于欧洲，少年雄于地球则国雄于地球。红日初升，其道大光……美哉我少年中国，与天不老！壮哉我中国少年，与国无疆！”百年已过，少年气象依然活脱鲜亮。</p>
+<p align="left">这也是少年气象，自有与天不老的精神光照，自有与地同在的行动高标！自古英雄出少年。在漫漫历史长河中，人类社会青年英雄辈出，中华民族青年英雄辈出。《共产党宣言》发表时马克思是30岁，恩格斯是28岁。列宁最初参加革命活动时只有17岁。牛顿和莱布尼茨发现微积分时分别是22岁和28岁，达尔文开始环球航行时是22岁，爱因斯坦提出狭义相对论时是26岁。贾谊写出“西汉一代最好的政论”时不到30岁，王勃写下千古名篇《滕王阁序》时才20多岁。在我们党领导人民进行革命、建设、改革的伟大历史进程中更是青年英雄辈出。中共一大召开时毛泽东是28岁，周恩来参加中国共产党时是23岁，邓小平参加旅欧中国少年共产党时是18岁。杨靖宇牺牲时是35岁，赵一曼牺牲时是31岁，江姐牺牲时是29岁，红三十四师师长陈树湘牺牲时是29岁，邱少云牺牲时是26岁，雷锋牺牲时是22岁，黄继光牺牲时是21岁，刘胡兰牺牲时只有15岁。守岛32年的王继才第一次登上开山岛时是26岁，航天报国的嫦娥团队、神舟团队平均年龄是33岁，北斗团队平均年龄是35岁。这样的青年英杰数不胜数！青春成为中华民族生气勃发、高歌猛进的持久风景，青年英雄成为驱动中华民族加速迈向伟大复兴的蓬勃力量！</p>
+<p align="center"><b>品鉴经典，培养积极进取、坚韧执着的“英雄气魄”</b></p>
+<p>英雄是一个民族的精神脊梁，是一个社会的价值标杆。捍卫英雄，就是捍卫一个民族的历史；守望英雄，就是在守望一个国家的未来。英雄有着浓厚的家国情怀：浓浓爱国情、腾腾强国志、切切报国行。</p>
+<p>古典散文，气象万千。英雄之气，充满其间。作为英雄，国家有难，挺身而出。阅读经典之作《烛之武退秦师》：面对“晋侯、秦伯围郑”的危情，烛之武不顾年迈，临危受命，夜缒而出，不避险阻，只身前往秦营之中，因势利导，妙语退秦师。烛之武以个人之力，挽救了国家的危亡。作为英雄，国家有急，设法而为。阅读经典之作《触龙说赵太后》：战国时期，秦国趁赵国政权交替之机，大举攻赵，赵国形势危急，求救于齐国。齐国一定要赵威后的小儿子长安君为人质，才肯出兵。而赵威后溺爱长安君，执意不肯。大臣触龙以“父母之爱子，则为之计深远”之语，晓之以理，动之以情，让赵威后的爱子出质齐国，解除了赵国的危机。大国压境，触龙不惧龙颜，循循善诱而救赵于水火。作为英雄，时刻心思为国图强。阅读经典之作《邹忌讽齐王纳谏》：作为人臣，邹忌以“我孰与城北徐公美”而问其妻、其妾和其客，他们皆从自己的利害出发而枉顾事实。邹忌不自信，“暮寝而思之，”由一己之蔽想到“王之蔽甚矣”。于是婉言进谏，实现了强国梦想——“此所谓战胜于朝廷。”</p>
+<p>国家兴亡，匹夫有责。身为平民，充满英雄之气。走进经典之作《曹刿论战》：十年春，齐师伐我。公将战，曹刿请见。其乡人曰：“肉食者谋之，又何间焉？”刿曰：“肉食者鄙，未能远谋。” 于是曹刿跟随鲁庄公走上战场，活用“一鼓作气，再而衰，三而竭”的原理击退了强大的齐军，正确运用战略防御原则——“取信于民”，实行“敌疲我打”的正确方针，选择反攻和追击的有利时机，创造了“以小敌大，以弱胜强”的战争范例。曹刿，智勇可嘉！作为英雄，国家利益至高，民族尊严至上。苏武，作为汉朝使臣，不辱使命。单于召武受辞，威武不能屈；卫律逼诱，饮雪吞毡，贫贱不能移；苏武牧羊，环境恶劣，饥寒压不倒；李陵劝降，言语诚挚，私情无所动。苏武，一次次的拒降，一次次的将为臣的品节淬练，将做人的标尺拔高，将为人的境界提升。苏武，就是寒风凛冽中的一面旗帜，风愈紧烈，旗愈招展。</p>
+<p>经典诗歌，意蕴悠长。英雄形象，气宇轩昂。回溯现实主义的源头，中国第一部诗歌总集《诗经》中的一首《秦风·无衣》：“岂曰无衣？与子同袍。王于兴师，修我戈矛。与子同仇！岂曰无衣？与子同泽。王于兴师，修我矛戟。与子偕作！岂曰无衣？与子同裳。王于兴师，修我甲兵。与子偕行！”这是一首激昂慷慨、同仇敌忾的战歌，秦国军民团结互助、共御外侮，他们以大局为重，一听“王于兴师”，便磨刀擦枪、舞戈挥戟，奔赴前线，共同杀敌，演绎了一首英雄主义的集体颂歌。</p>
+<p>是为英雄，屈原竭忠尽智，抒发“长太息以掩涕兮，哀民生之多艰”的忧心；是为英雄，霍去病毅然吐出“匈奴不灭，何以家为”的豪言；是为英雄，曹植坚定抒写“捐躯赴国难，视死忽如归”的壮语；是为英雄，“醉卧沙场君莫笑，古来征战几人回”是何等豪迈？是为英雄，“黄沙百战穿金甲，不破楼兰终不还”何等决心？是为英雄，国家危难，夜不能寐。辛弃疾“醉里挑灯看剑，梦回吹角连营”，陆游“夜阑卧听风吹雨，铁马冰河入梦来”；是为英雄，临终之际，心念国家，临终留言，切盼统一：“死去元知万事空，但悲不见九州同。王师北定中原日，家祭无忘告乃翁。”是为英雄，自是“千磨万击还坚劲，任尔东西南北风”；是为英雄，“粉身碎骨浑不怕，要留清白在人间。”是为英雄，虎门销烟抵外侵，被贬新疆忠肝胆，毅然抒写出 “苟利国家生死以，岂因祸福避趋之”的伟大诗篇；是为英雄，少年周恩来吟诵出：“大江歌罢掉头东，邃密群科济世穷。面壁十年图破壁，难酬蹈海亦英雄。”品味首首诗歌，爱国之情流淌，强国之志偾张，报国之行强烈。英雄之气，彪炳史册；英雄之歌，气壮山河。</p>
+<p>英雄气魄，穿越国界。经典之作，世界尊崇。阅读海明威的《老人与海》，老渔夫桑地亚哥的奋斗之歌：“一个人并不是生来就要给打败的，你尽可以消灭它，但就是打不败它。”努力坚持，奋斗的过程就是胜利之歌。振聋发聩，让我不由得想起了伟大的先行者孙中山的深切感言：“文奔走国事三十余年，毕生学力尽萃于斯，精诚无间，百折不回，满清之威力所不能屈，穷途之困苦所不能挠。吾志所向，一往无前，愈挫愈奋，再接再厉，用能鼓动风潮，造成时势。卒赖全国人心之倾向，仁人志士之赞襄，乃得推覆专制，创建共和。”英雄之志，人类相通；英雄气魄，中外钦赞。</p>
+<p>面对生活的苦难、命运的不公时，迎难而上、绝不低头。英雄之气，让著者尊崇。贝多芬的人格力量，让《贝多芬传》的作者罗曼·罗兰用以激励人生：“打开窗子吧！让自由的空气重新进来，呼吸一下英雄的气息。” 英雄之气，让译者钦佩。傅雷先生翻译《贝多芬传》时感慨道：让我们不只是通过传记进入迷人的音乐王国，更要体味到那弥漫全篇的英雄气息，并学习那种敢于“我要扼住命运的咽喉”的大无畏精神。</p>
+<p>英雄气魄，相通中外，相贯古今。崇尚英雄才能产生英雄，争当英雄才能英雄辈出。以生命赴使命，用热血铸忠魂——最美的逆行，最美的背影——哪有什么岁月静好？那是有人替你负重前行……</p>
+<p>歌声嘹亮，英雄之气伴随经典之歌的旋律而飘荡。经典歌曲，意味隽永。优美的歌词耐人品味，动人的旋律荡气回肠。聆听《三国演义》的插曲《千里走单骑》：“好江风，将这轻舟催送；波翻浪涌，添几分壮志豪情；龙潭虎穴何足惧？剑戟丛中久鏖兵，非是俺藐群雄，一部春秋铭记，义不负心泰山重，忠不顾死何言轻，桃园金兰誓，弟兄山海盟，早把这七尺身躯青龙偃月，付与苍生！”义绝关羽，忠勇双雄，单刀赴会，义薄云天，是为英雄中的经典。欣赏《西游记》的插曲《五百年沧海桑田》：“五百年桑田沧海，顽石也长满青苔。只一颗心儿未死，向往着逍遥自在。哪怕是野火焚烧，哪怕是冰雪覆盖，依然是志向不改，依然是信念不衰！蹉跎了岁月，激荡着情怀。为什么为什么，偏有这样的安排？” 遇到任何艰难险阻，绝不要放弃。命在梦想在，定有翻身日。还有新版《西游记》的插曲：“ 猴哥猴哥，你真了不得，五行大山压不住你，蹦出个孙行者……”文学中的经典形象，叱咤风云，铲除妖孽，英雄的气息，充盈了一代又一代孩童的心胸。</p>
+<p>回味革命歌曲《红梅赞》：“红岩上红梅开，千里冰霜脚下踩，三九严寒何所惧？一片丹心向阳开。红梅花儿开，朵朵放光彩，昂首怒放花万朵，香飘云天外，唤醒百花齐开放，高歌欢庆新春来。”英雄之梅花：傲霜斗雪的无所畏惧，千里冰霜的铁骨冰心，昂首怒放的执着进取，引领春天的梦想坚持。歌声嘹亮，英雄之气高昂。童声合唱《歌唱二小放牛郎》：“牛儿还在山坡吃草，放牛的却不知哪儿去了？不是他贪玩耍丢了牛，那放牛的孩子王二小。九月十六那天早上，敌人向一条山沟扫荡，山沟里掩护着后方机关，掩护着几千老乡……”小小少年，舍己为人；英雄气象，感人至深；英雄气魄，催人奋进。</p>
+<p>历史的天空闪烁几颗星，人间一股英雄气在驰骋纵横。</p>
+<p align="center"><b>品鉴经典，培养勇于担当、从容优雅的“贵族气质”</b></p>
+<p align="left">少年气象，充满阳光；英雄气魄，气宇轩昂；贵族气质，自有涵养。 莎士比亚说：“三代培养不出一个贵族。”可见贵族需要思想的沉淀，需要精神的涵养……贵族气质，即富有理想追求信仰，富有正气使命担当，富有涵养灵魂自由。贵族气质，灵魂与脚步同频，精神丰盈，品行坚定。</p>
+<p align="left">品鉴经典，贵族之气就在圣人的只言片语中。拥有贵族之气，自有理想追求，自有精神操守。子曰：“岁寒，然后知松柏之后凋也。” 天气寒冷，然后才知道松柏迟迟不凋谢的可贵。 岁寒而松柏不凋，有修养有道德有操守的人自有一种力量：耐得住困苦，受得了折磨，不变初心。子曰:“贤哉，回也！一箪食,一瓢饮,在陋巷,人不堪其忧,回也不改其乐。贤哉，回也！”一个人有了精神有了理想，且为之不断追求，即使清苦也自得其乐。真乃贫贱不能移。子曰: “饭疏食饮水，曲肱而枕之，乐亦在其中矣。不义而富且贵，于我如浮云。”这是颜回精神形象的再版，心中有理想、有志向的君子，不会总是为了自己的吃穿住而奔波。在贫困艰苦的情况下照样可以很快乐。子贡曰：“贫而无谄，富而无骄，何如?”子曰：“可也，未若贫而乐，富而好礼者也'。子贡曰：“《诗》云：‘如切如磋，如琢如磨。’ 其斯之谓与？子曰：“赐也，始可与言《诗》已矣，告诸往而知来者！千年已逝，而孔子和弟子子贡间师徒对话的情景却始终萦绕在后世那些自我追求修养之人的心中，由“贫而无谄，富而无骄”到“贫而乐，富而好礼”，富有追求，为富且仁；富而思进，居安思危，即是一个人修养的自我提升；“如切如磋，如琢如磨”，这正是君子修养的要诀，人们就是在这个要诀中一次次地践行着精神的追求和奋力的攀登；当然这个追求是需要时间的打磨，需要耐力、毅力以及永不满足的进取精神。</p>
+<p align="left">这种精神，就是“无恒产而有恒心者，惟士为能”的最好表达。正因如此，这种贵族之气顺时延续。孟子提出“富贵不能淫，威武不能屈，贫贱不能移”；曹操歌吟“老骥伏枥，志在千里。烈士暮年，壮心不已”；少年王勃抒发“老当益壮，宁移白首之心；穷且益坚，不坠青云之志”；刘禹锡歌咏“莫道桑榆晚，为霞尚满天”；王安石吟诵“岁老根弥壮，阳骄叶更阴”……直到现代，词坛泰斗乔羽自有清心正气的法则——“不为积习所蔽，不为世俗所惑”；革命作品《林海雪原》的作者曲波坚守人生的信条——“顺境时刚毅，逆境时节制”。这些不同流俗自有追求的贵族之气，化作芬芳的花朵，绽放在“出淤泥而不染，濯清涟而不妖”的莲花上，就寄托在“宁可枝头抱香死，何曾吹落北风中”的菊花里，就糅合在“零落成泥碾作尘，只有香如故”的梅花中。这种追求，生则洁美，死亦流芳；这种气质，格超梅以上，品在竹之间。</p>
+<p align="left">拥有贵族之气，自然不同流俗。自有高贵灵魂，自由个性。屈原“举世皆浊而我独清，众人皆醉而我独醒……新沐者必弹冠，新浴者必振衣。人又谁能以身之察察，受物之汶汶者乎？宁赴常流而葬乎江鱼腹中耳。又安能以皓皓之白，而蒙世之温蠖乎？”屈原自是高洁，精神高贵，坚持操守，至死不渝，为后世树立起一个光耀千秋的精神标杆。陶渊明“不为五斗米折腰”，归园田居，“登东皋以舒啸，临清流而赋诗”，不屈从权贵，活出一个自由的灵魂。李白“安能摧眉折腰事权贵，使我不得开心颜”，不事权贵，傲岸不羁，张扬个性，追求自由。苏轼“莫听穿林打叶声，何妨吟啸且徐行，竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生”，诗人旷达超逸的胸襟，充满清旷豪放之气，独到的人生感悟，时时品味，让人耳目为之一新，心胸为之舒阔。</p>
+<p align="left">拥有贵族之气，心中自有担当。“顾吾念之，强秦之所以不敢加兵于赵者，徒以吾两人在也。今两虎共斗，其势不俱生。吾所以为此者，以先国家之急而后私仇也。”门客出身的蔺相如，完璧归赵不居功，渑池之会不自傲，心中始终系念着国家的前途，思虑着国家的命运，说服门客，感动廉颇。其格调之高，境界之大，自成高格。他与廉颇的交往，堪称文臣武将合作的典范。“安得广厦千万间，大庇天下寒士俱欢颜！风雨不动安如山。呜呼！何时眼前突兀见此屋，吾庐独破受冻死亦足！”诗人由己推人，自身受冻，心怀天下，茅屋虽破念苍生；“昔闻洞庭水，今上岳阳楼。吴楚东南坼，乾坤日夜浮。亲朋无一字，老病有孤舟。戎马关山北，凭轩涕泗流。”诗人忧国忧民，身在小舟上，操心时事中，孤舟虽小系苍生。遥想封建社会的士大夫们，皆以“穷则独善其身，达则兼善天下”来作为自己立身处世的最高理想，且加以标榜，可他们与杜甫相比，高下立见。诗圣杜甫达则兼善天下，穷亦心系苍生！这境界之高，人格之贵，真是对“诗圣”的最好诠释。</p>
+<p align="left">拥有贵族之气，就是要活得有尊严。“齐大饥。黔敖为食于路，以待饿者而食之。有饿者，蒙袂辑屦，贸贸然而来。黔敖左奉食，右执饮，曰：‘嗟!来食！'扬其目而视之，曰：‘予惟不食嗟来之食，以至于斯也！'从而谢焉，终不食而死。曾子闻之，曰：‘微与！其嗟与，可去，其谢也，可食。'”——不食嗟来之食！贫而有节，人穷志不短，绝不低三下四地接受别人的施舍，哪怕是让自己饿死。中国的传统尤其看重做人要有骨气，即使受苦受难，也不能少了这口气。宁为玉碎，不为瓦全；人要脸，树要皮；看重气节，强调尊严。此刻，一个声音又在耳畔回响：“一身重病，宁可饿死，也不领美国的救济粮。”</p>
+<p align="left">“十三能织素，十四学裁衣，十五弹箜篌，十六诵诗书”。刘兰芝，原本就是一个家教严谨，多才多艺而又知书达礼的闺阁少女，可就是为焦母不容，即将被遣回娘家。“鸡鸣外欲曙，新妇起严妆。著我绣夹裙，事事四五通。足下蹑丝履，头上玳瑁光。腰若流纨素，耳著明月珰。指如削葱根，口如含朱丹。纤纤作细步，精妙世无双。”刘兰芝自知此去就是诀别，依然精心打扮，精巧美丽，举世无双，从容镇定，优雅精致。盛妆而来，靓装而去。自有教养，不失尊严。</p>
+<p></p>
+<p align="left">“我善养吾浩然之气。”千年之语，声犹在耳。“其为气也，至大至刚，以直养而无害，则塞于天地之间。其为气也，配义与道；无是，馁也。是集义所生者，非义袭而取之也。行有不慊于心，则馁矣。”此气一气贯通，文天祥化作《正气歌》：“天地有正气，杂然赋流形。下则为河岳，上则为日星。于人曰浩然，沛乎塞苍冥。皇路当清夷，含和吐明庭。时穷节乃见，一一垂丹青。”此气一脉相承，鲁迅先生坦言“我们自古以来，就有埋头苦干的人，有拼命硬干的人，有为民请命的人，有舍身求法的人……这就是中国的脊梁。”品鉴经典之作，在只言片语中修习君子风范，弘扬正气之歌，在一个个经典形象中传承爱国精神，感受家国情怀。品味经典诗文，彰显中华文化的魅力，伟大的中华民族，绵延五千年而雄姿英发。“天行健，君子以自强不息”的自强刚健，时刻昭示着着中华文化的伟力；“生于忧患，死于安乐”的忧患意识，始终涵养着中华民族清醒的操持。</p>
+<p align="left">传承文化经典，品鉴中外名著，从中汲取多样的精神给养，不断丰富少年气象、英雄气魄和贵族气质的内涵和外延。品鉴经典，培养“三气”，让青少年在人生的道路上立得正，站得直，行得稳；拥有“三气”，让青少年的身上焕发出勃勃英姿、铮铮骨气和凛凛正气。</p>
+<p align="left">传承本来，吸收外来，品鉴经典之作，让蕴藏其间的少年气象、英雄气魄和贵族气质，相和相揉、相融相通、蕴蓄酿酵，共同升华为忠诚、执着和朴实的英雄品质，成为中华民族精神的内核；共同涵养新时代青少年的身心，敦促青少年砥砺前行，健康成长，成为共和国的中流砥柱，拥有美好的未来，真正实现人民有信仰、民族有希望，国家有力量。</p></div></div>
+<div class="d_write2" style="text-align:right"><span class="d_write" style="width:550px;float:left;text-align:right">文字：</span><span style="width:150px;float:left;color:#00467f;text-align:left">交大附中雁塔校区 秦万学</span></div>
+<div class="d_write2" style="text-align:right"><span class="d_write" style="width:550px;float:left;text-align:right">编辑：</span><span style="width:150px;float:left;color:#00467f;text-align:left">星  火</span></div>
+</div>
+</form>
+<br/>
+<div class="bdsharebuttonbox"><a class="bds_more" data-cmd="more" href="../../#"></a><a class="bds_qzone" data-cmd="qzone" href="../../#"></a><a class="bds_tsina" data-cmd="tsina" href="../../#"></a><a class="bds_tqq" data-cmd="tqq" href="../../#"></a><a class="bds_renren" data-cmd="renren" href="../../#"></a><a class="bds_weixin" data-cmd="weixin" href="../../#"></a></div>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdPic":"","bdStyle":"0","bdSize":"16"},"share":{},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+<script language="javascript">
+
+    function linkForImg42979(){
+    var images=document.getElementById("lmz_content").getElementsByTagName("img");
+    var imgLen=images.length;
+    var img_links = new Array(imgLen);　
+    
+    for(var i=0;i<imgLen;i++){
+        img_links[i] = repleaceLast42979(images[i].src);
+        var p = images[i].parentNode;
+        if(p.tagName=="a"||p.tagName=="A")
+            continue;
+        if(img_links[i].indexOf("/_mediafile/")!=-1&&CheckImgExists42979(img_links[i]))
+        {
+            images[i].onclick=function(){
+                var thepath = repleaceLast42979(this.src);
+                window.open(thepath,"n","");
+            };
+        }else{
+            images[i].onclick=function(){window.open(this.src,"n","");};
+        }
+        images[i].title="点击查看大图"
+        images[i].style.cursor="pointer";
+    }
+    }
+
+    //检查图片是否存在
+    function CheckImgExists42979(imgurl) {
+        var bea = true;
+        /**
+        $.ajax({
+            url: imgurl,
+            async: false,
+            statusCode: {
+                200: function() {
+                    bea = true;
+                }
+            }
+       });
+       */
+       return bea;
+    }
+    
+    function repleaceLast42979(imgurl)
+    {
+        if(imgurl==null||imgurl=="")
+            return imgurl;
+        var temp = imgurl.substring(0,imgurl.lastIndexOf("/"));
+        imgurl= imgurl.replace(temp,temp+"/source");
+        return imgurl;
+    }
+
+    linkForImg42979();
+</script>
+<!--#endeditable-->
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="l_split"> </div>
+<div 360chrome_form_autofill="2" class="d_relate">相关文章</div><!--#begineditable contype="" name="相关文章" action="" layout="" clone="0" namechanged="0" order="5" ispublic="0" tagname="相关文章" viewid="42982" stylesysid=""-->
+<span id="relateNewsjs42982js">读取内容中,请等待...</span>
+<script language="JavaScript">
+$(function(){
+
+	getRelateNewsjs42982js();
+	});
+	function getRelateNewsjs42982js() { 
+	    
+	    var pars = 'archive=0&viewid=42982&leaderchar=%C2%B7&titlelen=43&days=3&endimage=&clickshow=false&clickname=%E7%82%B9%E5%87%BB%EF%BC%9A+&&linkmode=_blank&mode=10&pageUrl=/system/_owners/news/_webprj/content.jsp&columnshow=false&wbnewsid=121845&owner=1025023737&limitdays=365&rowcount=10&columnstyle= columnstyle42982 &columnid=-1'; 
+	    var url = '/system/resource/code/relatenews.jsp?'+pars;  
+	        $.post(
+	            url,
+	            {
+	            	winstyle:"winstyle",
+	            	leaderfont:"leaderfont42982",
+	            	leaderimage:"",
+	            	linkmode:"target=_blank",
+	            	titlestylename:"titlestyle42982",
+	            	timestylename:"timestyle42982"
+		        }
+		        ,
+	            function(date)
+	            {
+		        	$("#relateNewsjs42982js").empty();
+		     	   	$("#relateNewsjs42982js").append(date);    
+	            }
+	        );
+	       
+	    }   
+
+	   
+</script>
+<!--#endeditable-->
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="l_split"> </div>
+<div 360chrome_form_autofill="2" class="d_pinglun"><!--#begineditable contype="" name="整合式评论" action="" layout="" clone="0" namechanged="0" order="6" ispublic="0" tagname="整合式评论" viewid="42983" stylesysid=""-->
+<table bgcolor="#CCCCCC" cellpadding="2" cellspacing="1">
+<tr>
+<td style="background-color:#ffffff;font-size: 9pt">
+<div class="input3style42983">
+<textarea id="respwbrespcontent" name="respwbrespcontent" oninput="calculatesize();" onpropertychange="calculatesize();" style="width:650px;height:180px"></textarea>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="background-color:#ffffff;font-size: 9pt">
+<div id="respmessage"></div>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#ffffff">
+<span id="contentsize" style="display:none">0/1000</span>
+<input id="respsoru" name="respsoru" type="hidden" value="0">
+<input id="respid" name="respid" type="hidden"/>
+<span id="respaccorpass" style="display:none;font-size:9pt">
+            用户名 <input id="respwbaccount" maxlength="20" name="respwbaccount" size="8" style="background-color: #FFFFFF;border: 1px solid #BAD3E6" type="text"/>
+            密码 <input id="respwbpassword" maxlength="20" name="respwbpassword" size="8" style="background-color: #FFFFFF;border: 1px solid #BAD3E6" type="password"/>
+</span>
+<input checked="" id="respcheck" name="respcheck" onclick="ischeckjs42983js();" type="checkbox" value="0"/><span style="font-size:9pt"> 匿名发布</span>
+<span style="font-size: 9pt">验证码</span><input autocomplete="off" id="resprand" maxlength="4" name="resprand" size="4" style="background-color: #FFFFFF;border: 1px solid #BAD3E6" type="text"/>
+<img align="absmiddle" border="0" id="resprandimage" src="../../system/resource/js/message/createimage.jsp"/>
+<span onclick="changeimagejs42983js()" style="font-size:9pt;cursor:hand">看不清楚,换张图片</span>
+<input onclick="submitrespjs42983js();return false;" src="../../AloeR/tj.gif" style="cursor:hand" type="image"/>
+</input></td>
+</tr>
+<tr>
+<td colspan="2" height="25" style="background-color:#ffffff;font-size: 9pt;padding-left:10px">
+        共<span id="resptotid">0</span>条评论    共<span id="resptotpage">1</span>页   当前第<span id="slidercontent">1</span>页
+    </td>
+</tr>
+<tr>
+<td colspan="2" style="background-color:#ffffff;font-size: 9pt">
+<div id="respslider" style="height:20px">
+</div></td>
+</tr>
+<tr>
+<td colspan="2" style="background-color:#ffffff;font-size: 9pt">
+<div id="respcontent"></div>
+</td>
+</tr>
+</table>
+<style>
+.respimageSliderjs42983js { margin:0;padding:0; height:20px; width:651px; background-image:url(../../system/resource/js/slider/scrollbg.gif);}
+.respimageBarjs42983js    { margin:0;padding:0; height:17px; width:10px; background-image:url(../../system/resource/js/slider/scrfloat.gif);}   
+</style>
+<script language="javascript" src="../../system/resource/js/slider/slider_extras.js"></script>
+<script language="javascript" src="../../_dwr/engine.js"></script>
+<script language="javascript" src="../../_dwr/util.js"></script>
+<script language="javascript" src="../../_dwr/interface/NewsRespUtil.js"></script>
+<script language="javascript" src="../../system/resource/js/base64.js"></script>
+<script>
+var isduplicatejs42983js=false;
+var pagesizejs42983js = 10;//每页多少条
+var totalsizejs42983js = 0;//共多少条  
+var totalpagejs42983js = 0;//共多少页
+var startpagejs42983js = 0;//当前页
+var pagejs42983js = startpagejs42983js+1; //显示的页数
+function initsizejs42983js(data)
+{
+     if(data)
+     {
+        totalsizejs42983js=data;
+        totalpagejs42983js = parseInt(totalsizejs42983js%pagesizejs42983js==0?totalsizejs42983js/pagesizejs42983js:(totalsizejs42983js/pagesizejs42983js+1));
+        $("#resptotid").empty();
+        $("#respmessage").empty();
+        $("#resptotid").append(data);
+        $("#resptotpage").append(totalpagejs42983js);
+        showpagejs42983js(startpagejs42983js); //初始化新闻评论
+     }
+}
+function inittotalsizejs42983js()
+{
+     NewsRespUtil.getTotalpage("1025023737","121845","wbnews",initsizejs42983js);  
+}
+//显示评论列表主方法
+function showpagejs42983js(start)
+{
+    if(startpagejs42983js>=0)
+    {        
+        pagejs42983js = parseInt(start/pagesizejs42983js)+1;
+    }
+    NewsRespUtil.getResp("1025023737","121845",start,pagesizejs42983js,"wbnews",buildresultjs42983js);       
+}
+//取消回复
+function cancelrespjs42983js()
+{
+   $("#respmessage").empty();
+   $("#respsoru").val("0");
+   $("#respid").val(""); 
+}
+//回复
+function repjs42983js(id,top)
+{
+	$("#respmessage").empty();
+    $("#respmessage").append("<span style='color:#ff8000;font-size:10pt;height:30px;padding-top:expression(15);padding-bottom:expression(15);'>回复["+top+"]楼的评论&nbsp;&nbsp;&nbsp;&nbsp;<a href='javascript:' onclick='cancelrespjs42983js()'>取消</a></span>");
+    $("#respsoru").val("1");
+    $("#respid").val(id);
+    $("#respwbrespcontent").focus();   
+}
+//回复的处理结果
+function represultjs42983js(data)
+{
+    if(data=="0"  || data=="-12")
+    {
+        $("#respwbaccount").val("");
+        $("#respwbpassword").val("");
+        $("#respwbrespcontent").val("");
+        $("#resprand").val("");
+        $("#contentsize").text("0/1000");
+        $("#resprandimage").attr("src","/system/resource/js/message/createimage.jsp?randnum="+Math.random());
+        //$("respmessage").innerHTML="<span style='font-size:9pt;color:#ff8000;height:30px;padding-top:expression(15);padding-bottom:expression(15);'>回复评论成功</span>"; 
+        var isflag = "0";
+        if(data=="-12")
+        {
+            alert("回复评论成功,您的內容中含有敏感字,请等待后台审核");
+        }else
+        {
+            if(isflag=="1")
+            {
+                alert("回复评论成功");
+            }else
+            {
+                alert("回复评论成功,请等待后台审核");
+            }
+        }
+        
+        NewsRespUtil.getTotalpage("1025023737","121845","wbnews",reloadjs42983js);           
+    }else
+    {
+        buildResultStrjs42983js(data);
+    }
+}
+
+//创建评论表格滚动条
+function buildresultjs42983js(data)
+{
+    if(data)
+    {
+        var result = "<table align='center' width='610' >";
+        for(var i=0;i<data.length;i++)
+        {   
+            result += "<tr>";
+            result += "    <td style='background-color:#ffffff;font-size: 9pt'>";
+            result += "         <font  color=#326FA8>"+ data[i].wbaccount+ "  ["+data[i].wbip+"]"+  "</font>";
+            result += "         "+ data[i].wbrespdate;
+            result += "    </td>";  
+            result += "    <td style='background-color:#ffffff;font-size: 9pt' rowspan='2' align='center' nowrap>";
+            result += "         <span style='color:blue;cursor:pointer;text-decoration:underline' onclick='repjs42983js("+data[i].wbrespid+","+ data[i].wbtop +")'>[回复]</span>"; 
+            result += "         <div style='font-size:20pt;color:gray'>"+ data[i].wbtop +"</div>";
+            result += "    </td>";      
+            result += "</tr>";
+            
+            result += "<tr>";
+            result += "    <td style='background-color:#ffffff;font-size: 9pt;word-break:break-all;' >";
+            result += "          " + data[i].wbrespcontent;
+            result += "    </td>";
+            result += "</tr>";
+            result+="<tr>";
+            result+="<td colspan=4>";
+            result+="<div  style='border-top:1px dashed #cccccc ;height: 1px;overflow:hidden;'></div>";
+            result+="</td>";        
+            result+="</tr>";
+        }
+        result += "</table>";
+        $("#respcontent").empty();
+        $("#respcontent").append(result);
+        $("#resptotpage").empty();
+        $("#resptotpage").append(totalpagejs42983js);
+        var isreload = "0";
+        var sliderImage1 = new neverModules.modules.slider(
+        {
+        targetId: "respslider",
+        sliderCss: "respimageSliderjs42983js",
+        barCss: "respimageBarjs42983js",
+        min: 1,
+        max: totalpagejs42983js,
+        hints: ""
+        });
+        sliderImage1.onstart  = function () 
+        {
+            isreload = "1" ;
+        }
+        sliderImage1.onchange = function () 
+        {
+            $("#slidercontent").empty();
+            $("#slidercontent").append(sliderImage1.getValue()==0?1:sliderImage1.getValue());       
+        };
+        sliderImage1.onend = function () 
+        {
+            if(isreload=="1")
+            {
+                if(sliderImage1.getValue()!=pagejs42983js && sliderImage1.getValue()!=0)
+                {    
+                    showpagejs42983js((parseInt(sliderImage1.getValue())-1)*pagesizejs42983js);
+                    $("#respmessage").empty();
+                }
+            }
+        }
+        sliderImage1.donclick  = function ()
+        {              
+            if(sliderImage1.getValue()!=pagejs42983js && sliderImage1.getValue()!=0)
+            { 
+                showpagejs42983js((parseInt(sliderImage1.getValue())-1)*pagesizejs42983js);
+                $("#respmessage").empty();
+            }
+        }
+        sliderImage1.create();
+        sliderImage1.setValue(pagejs42983js);
+    }
+    else
+    {
+    	$("#respcontent").empty();
+        $("#respcontent").append("<span style='font-size:9pt;height:30px;padding-top:expression(15);padding-bottom:expression(15);'>该新闻还没有评论</span>");
+
+    }
+}
+//评论回复完成后，重新读取计算评论的表格
+function reloadjs42983js(data)
+{
+    totalsizejs42983js = data;
+    totalpagejs42983js = parseInt(totalsizejs42983js%pagesizejs42983js==0?totalsizejs42983js/pagesizejs42983js:(totalsizejs42983js/pagesizejs42983js+1));
+    $("#resptotid").empty();
+    $("#resptotpage").empty();
+    $("#resptotid").append(totalsizejs42983js);
+    $("#resptotpage").append(totalpagejs42983js);
+    showpagejs42983js(0);
+    cancelrespjs42983js();
+}
+function buildResultStrjs42983js(data)
+{
+    if(data=="-2")
+    {
+        alert("没有这个用户或用户被禁用");
+    }
+     else if(data=="-3")
+    {
+        alert("用户名或密码错误");
+    }    
+    else if(data=="-4")
+    {
+        alert("验证码错误");
+    }else if(data=="-9")
+    {
+        alert("请放置在新闻内容页");
+    }   
+    else if(data=="-11")
+    {
+        alert("评论内容过长");
+    }  
+    else
+    {
+        alert("未知错误");
+    }
+}
+
+//添加评论后的处理方法
+function savejs42983js(data)
+{ 
+    
+    if(data=="0" || data=="-12")
+    {
+        $("#respwbaccount").val("");
+        $("#respwbpassword").val("");
+        $("#respwbrespcontent").val("");
+        $("#resprand").val("");
+        $("#contentsize").empty();
+        $("#contentsize").append("0/1000");
+        $("#resprandimage").attr("src","/system/resource/js/message/createimage.jsp?randnum="+Math.random());
+        var isflag = "0";
+        if(data=="-12")
+        {
+            alert("回复评论成功,您的內容中含有敏感字,请等待后台审核");
+        }
+        else
+        {
+            if(isflag=="1")
+            {
+                alert("添加评论成功");
+            }else
+            {
+                alert("评论添加成功，等待后台审核");
+            }
+        }
+        NewsRespUtil.getTotalpage("1025023737","121845","wbnews",reloadjs42983js);
+        
+    }
+    else
+    {
+        buildResultStrjs42983js(data);
+    }
+}
+String.prototype.trim　= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+} 
+
+//提交评论
+function submitrespjs42983js(id)
+{
+    var anonymous = "1";
+    if($("#respcheck")==null || !$("#respcheck").attr("checked"))
+    {
+        
+        if($("#respwbaccount").val()=="" || $("#respwbpassword").val()=="")
+        {    
+             alert("请输入用户名或密码");
+             return;
+        }
+    }
+    else
+    {
+        anonymous = "0";
+    }
+    if(($("#respwbrespcontent").val()).trim()=="")
+    {
+        alert("请输入评论内容");
+        $("#respwbrespcontent").focus();
+        return;
+    }
+    if(($("#respwbrespcontent").val()).length>1000)
+    {
+        alert("评论内容内容小于1000个字符");
+        $("#respwbrespcontent").focus();
+        return;
+    }
+    
+    if($("#resprand").val()=="")
+    {
+        alert("请输入验证码");
+        $("#resprand").focus();
+        return;
+    }
+    if($("#respsoru").val()=="0")
+    {
+        NewsRespUtil.save("1025023737","1016","121845",anonymous,$("#respwbaccount").val(),$("#respwbpassword").val(),base64Contentjs42983js($("#respwbrespcontent").val()),$("#resprand").val(),'0',false,savejs42983js);
+    }
+    else
+    {
+        NewsRespUtil.update("1025023737","1016","121845",anonymous,$("#respwbaccount").val(),$("#respwbpassword").val(),base64Contentjs42983js($("#respwbrespcontent").val()),$("#resprand").val(),$("#respid").val(),'0',represultjs42983js);
+    }
+       
+}
+//内容编码
+function base64Contentjs42983js(respcontent)
+{
+	return new Base64().encode(respcontent);	
+}
+
+//是否匿名
+function ischeckjs42983js()
+{
+    if(!$("#respcheck").attr("checked"))
+    {
+        $("#respaccorpass").css("display","inline");
+        $("#respwbaccount").val("");
+        $("#respwbpassword").val("");
+    }
+    else
+    {
+        $("#respwbaccount").val("");
+        $("#respwbpassword").val("");
+        $("#respaccorpass").hide();
+    }
+}
+function changeimagejs42983js()
+{	
+    $("#resprandimage").attr("src","/system/resource/js/message/createimage.jsp?randnum="+Math.random());
+}
+function calculatesize()
+{
+    var c = ($("#respwbrespcontent").val()).length;
+    $("#contentsize").empty();
+    $("#contentsize").append( c+"/1000");
+    
+}
+
+function  addEventjs42983js(elm, evType, fn, useCapture) { 
+if (elm.addEventListener) {  
+elm.addEventListener(evType, fn, useCapture);   
+return true; 
+} 
+else if (elm.attachEvent) { 
+var r = elm.attachEvent('on' + evType, fn); 
+return r; 
+}
+else {  
+elm['on' + evType] = fn;
+} 
+}
+addEventjs42983js(window,"load",inittotalsizejs42983js,true);
+</script><!--#endeditable--> </div>
+<div 360chrome_form_autofill="2" class="clear"> </div></div>
+<div 360chrome_form_autofill="2" class="i_right">
+<div 360chrome_form_autofill="2" class="i_search"><!--#begineditable contype="" name="全文检索" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="全文检索" viewid="65621" stylesysid=""--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode65621').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword65621").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword65621").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword65621").value = base64.encode(document.getElementById("lucenenewssearchkeyword65621").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode65621"));
+        return true;
+    } 
+</script>
+<form action="../../ssjgy.jsp?wbtreeid=1016" id="au7a" method="post" name="au7a" onsubmit="return _nl_ys_check()" style="display: inline">
+<input id="lucenenewssearchkeyword65621" name="lucenenewssearchkeyword" type="hidden" value=""/><input id="_lucenesearchtype65621" name="_lucenesearchtype" type="hidden" value="1"/><input id="searchScope65621" name="searchScope" type="hidden" value="0"/>
+<div>
+<table border="0" cellpadding="0" cellspacing="1">
+<tr>
+<td height="20px">
+<input id="showkeycode65621" name="showkeycode" style="height:20px;width:136px"/>
+</td>
+<td width="5px"> </td>
+<td align="absmiddle" height="1" nowrap="nowrap">
+<input align="absmiddle" src="../../i_search_btn.jpg" style="cursor: hand" type="image" valign="bottom"/>
+</td>
+<td width="5px"> </td>
+<td align="absmiddle" class="i_search_left" nowrap="nowrap"><a "arial";="" background:="" center="" href="../../index/gjjs.htm" no-repeat="" style="font-family:" top;="" url(i_body_bg.jpg)="" 宋体",="">高级搜索</a></td>
+</tr>
+</table>
+</div>
+</form>
+<script language="javascript" src="../../system/resource/js/formfunc.js"></script>
+<!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="l_redian"><span class="l_redian">信息预告</span> <a 360chrome_form_autofill="2" class="l_redian_more" href="../../xxyg.htm">更多</a>
+<div 360chrome_form_autofill="2" class="clear"> </div></div>
+<div 360chrome_form_autofill="2" class="l_redian_con"><!--#begineditable contype="" name="信息预告" action="" layout="" clone="0" namechanged="0" order="7" ispublic="0" tagname="信息预告" viewid="42980" stylesysid=""--> <div class="l_redian_li"><a class="i_li" href="../1017/121206.htm" title="第十一届国际研究生奖学金信息说明会即将召开">·第十一届国际研究生奖学金信息说明...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/121129.htm" title="第10届“学术之星”评选活动通知">·第10届“学术之星”评选活动通知</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/120815.htm" title="【初心·使命】西安交大教职工歌咏比赛即将倾情上演">·【初心·使命】西安交大教职工歌咏比...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/120096.htm" title="未来汽车动力与出行方式创新发展论坛即将举行">·未来汽车动力与出行方式创新发展论...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/119463.htm" title="文脉相继——交通大学人文教育文献暨钟明善教授从教60周年成果展">·文脉相继——交通大学人文教育文献...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1033/119195.htm" title="欢迎关注研究生开学典礼网络直播和新媒体互动">·欢迎关注研究生开学典礼网络直播和...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/117943.htm" title="第12届微纳尺度材料行为国际研讨会开幕在即">·第12届微纳尺度材料行为国际研讨会...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/116024.htm" title="第三届“一带一路”全球健康国际研讨会暨丝绸之路大学联盟2019全球健康论坛第二轮会议通知">·第三届“一带一路”全球健康国际研...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/114980.htm" title="西安交大VEX机器人夏令营报名啦！">·西安交大VEX机器人夏令营报名啦！</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/114752.htm" title="“青马问道”第十一讲预告">·“青马问道”第十一讲预告</a></div>
+<script>_showDynClickBatch(['dynclicks_u8_121206','dynclicks_u8_121129','dynclicks_u8_120815','dynclicks_u8_120096','dynclicks_u8_119463','dynclicks_u8_119195','dynclicks_u8_117943','dynclicks_u8_116024','dynclicks_u8_114980','dynclicks_u8_114752'],[121206,121129,120815,120096,119463,119195,117943,116024,114980,114752],"wbnews", 1025023737)</script>
+<!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="l_lanmu"><span class="l_redian">栏目新闻</span>  
+<div 360chrome_form_autofill="2" class="clear"> </div></div>
+<div 360chrome_form_autofill="2" class="l_redian_con"><!--#begineditable contype="" name="栏目新闻" action="" layout="" clone="0" namechanged="0" order="8" ispublic="0" tagname="栏目新闻" viewid="42981" stylesysid=""--> <div class="l_redian_li"><a class="l_lanmu_li" href="../1002/123743.htm" title="西安交通大学举办安全稳定及保密工作研修班">·西安交通大学举办安全稳定及保密工...</a></div></div></div></div></body></html>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/123729.htm" title="大船已出港 风劲正扬帆——创新港研究院入驻高光时刻">·大船已出港 风劲正扬帆——创新港研...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/123660.htm" title="【数读交大】创新港研究院入驻之五：中外媒体唱响创新港全面进驻最强音">·【数读交大】创新港研究院入驻之五...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/123654.htm" title="张迈曾检查创新港研究院内涵建设情况">·张迈曾检查创新港研究院内涵建设情况</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/123701.htm" title="临床医学专业“十三五”第二轮器官—系统整合规划教材主编人会议在西安召开">·临床医学专业“十三五”第二轮器官...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/123641.htm" title="弘扬西迁精神 盛剑霓教授教学思想座谈会举行">·弘扬西迁精神 盛剑霓教授教学思想座...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/123604.htm" title="第六届氢生物学与氢医学学术大会举行">·第六届氢生物学与氢医学学术大会举行</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/123642.htm" title="中国音像与数字出版协会教育音像工作委员会召开第五届第四次理事大会">·中国音像与数字出版协会教育音像工...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/123600.htm" title="第七届中国衰老与抗衰老学术大会在西安交大成功举办">·第七届中国衰老与抗衰老学术大会在...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/123575.htm" title="【我在跑港】走进一流大学建设系列研讨会—2019暨中国大学校长联谊会">·【我在跑港】走进一流大学建设系列...</a></div>
+<script>_showDynClickBatch(['dynclicks_u9_123743','dynclicks_u9_123729','dynclicks_u9_123660','dynclicks_u9_123654','dynclicks_u9_123701','dynclicks_u9_123641','dynclicks_u9_123604','dynclicks_u9_123642','dynclicks_u9_123600','dynclicks_u9_123575'],[123743,123729,123660,123654,123701,123641,123604,123642,123600,123575],"wbnews", 1025023737)</script>
+<!--#endeditable-->
+<div 360chrome_form_autofill="2" class="i_weibo" id="div_weibo_span"><span class="i_weibo_now" id="span_weibo_1" onmousemove="switchWeibo(1);"><img 360chrome_form_autofill="2" align="absMiddle" src="../../AloeR/i_sina.jpg"/> 新浪微博</span> <span class="i_weibo_split"> </span> <span class="i_weibo" id="span_weibo_2" onmousemove="switchWeibo(2);"><img 360chrome_form_autofill="2" align="absMiddle" src="../../AloeR/i_toutiao.png"/> 今日头条</span> <span class="i_weibo_split"> </span> <span class="i_weibo" id="span_weibo_3" onmousemove="switchWeibo(3);"><img 360chrome_form_autofill="2" align="absMiddle" src="../../AloeR/i_weixin.jpg"/> 微信</span> </div>
+<div 360chrome_form_autofill="2" class="i_weibo_con" id="div_weibo_div">
+<div 360chrome_form_autofill="2" class="i_weibo_detail" id="div_weibo_1" style="display: block"><img 360chrome_form_autofill="2" src="../../pic/weibo_ewm.png"/> </div>
+<div 360chrome_form_autofill="2" class="i_weibo_detail" id="div_weibo_2" style="display: none"><!--#begineditable contype="" name="人人网" action="" layout="" clone="0" namechanged="0" order="9" ispublic="0" tagname="人人网" viewid="43083" stylesysid=""-->
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><a href="https://www.toutiao.com/c/user/6223492102/#mid=6223492102" onclick="_addDynClicks('wbimage',1025023737,11002)" target="_blank"><img border="0" height="190" hspace="3" src="../../toutiao_ewm.png" vspace="2" width="266"/></a></td>
+</tr>
+</table><!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="i_weibo_detail" id="div_weibo_3" style="display: none"><!--#begineditable contype="" name="微信" action="" layout="" clone="0" namechanged="0" order="10" ispublic="0" tagname="微信" viewid="43084" stylesysid=""-->
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img border="0" height="190" hspace="3" src="../../02.jpg" vspace="2" width="266"/></td>
+</tr>
+</table><!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="clear"> </div></div>
+<div 360chrome_form_autofill="2" class="clear"> </div>
+<div 360chrome_form_autofill="2" class="clear"> </div><iframe class="bdselect_share_bg" frameborder="0" id="bdSharePopup_selectshare1536821604004bg" style="display: none"></iframe>
+<div class="bdselect_share_box" data-bd-bind="1536821604004" id="bdSharePopup_selectshare1536821604004box" share-type="selectshare" style="display: none" tangram_guid="TANGRAM_4">
+<div class="selectshare-mod-triangle">
+<div class="triangle-border"></div>
+<div class="triangle-inset"></div></div>
+<div class="bdselect_share_head"><span>分享到</span><a class="bdselect_share_dialog_search" href="http://www.baidu.com/s?wd=&amp;tn=SE_hldp08010_vurs2xrp" target="_blank"><i class="bdselect_share_dialog_search_i"></i><span class="bdselect_share_dialog_search_span">百度一下</span></a><a class="bdselect_share_dialog_close" tangram_guid="TANGRAM_3"></a></div>
+<div class="bdselect_share_content">
+<ul class="bdselect_share_list bdshare-button-style0-16">
+<div class="bdselect_share_partners"></div><a class="bds_more" data-cmd="more" href="../../#"></a></ul></div></div>
+<div class="sr-bdimgshare sr-bdimgshare-list sr-bdimgshare-16 sr-bdimgshare-black" data-bd-bind="1536821604009" id="bdimgshare_1536821604010" style="font-size: 12px;height: 36px;display: none;line-height: 26px" tangram_guid="TANGRAM_37">
+<div class="bdimgshare-bg"></div>
+<div class="bdimgshare-content bdsharebuttonbox bdshare-button-style0-16"><label class="bdimgshare-lbl">分享到：</label><a class="bds_qzone" data-cmd="qzone" hidefocus="" href="../../#" onclick="return false;"></a><a class="bds_tsina" data-cmd="tsina" hidefocus="" href="../../#" onclick="return false;"></a><a class="bds_tqq" data-cmd="tqq" hidefocus="" href="../../#" onclick="return false;"></a><a class="bds_renren" data-cmd="renren" hidefocus="" href="../../#" onclick="return false;"></a><a class="bds_weixin" data-cmd="weixin" hidefocus="" href="../../#" onclick="return false;"></a><a class="bds_more" data-cmd="more" hidefocus="" href="../../#" onclick="return false;"></a></div></div><iframe class="bdselect_share_bg" frameborder="0" id="bdSharePopup_selectshare1515463313002bg" style="display: none" tangram_guid="TANGRAM_41"></iframe>
+<div 360chrome_form_autofill="2" class="bdselect_share_box" data-bd-bind="1515463313002" id="bdSharePopup_selectshare1515463313002box" share-type="selectshare" style="display: none" tangram_guid="TANGRAM_4">
+<div 360chrome_form_autofill="2" class="selectshare-mod-triangle">
+<div 360chrome_form_autofill="2" class="triangle-border"></div>
+<div 360chrome_form_autofill="2" class="triangle-inset"></div></div>
+<div 360chrome_form_autofill="2" class="bdselect_share_head"><span>分享到</span><a 360chrome_form_autofill="2" class="bdselect_share_dialog_search" href="http://www.baidu.com/s?wd=&amp;tn=SE_hldp08010_vurs2xrp" target="_blank"><i class="bdselect_share_dialog_search_i"></i><span class="bdselect_share_dialog_search_span">百度一下</span></a><a 360chrome_form_autofill="2" class="bdselect_share_dialog_close" tangram_guid="TANGRAM_3"></a></div>
+<div 360chrome_form_autofill="2" class="bdselect_share_content">
+<ul class="bdselect_share_list bdshare-button-style0-16">
+<div 360chrome_form_autofill="2" class="bdselect_share_partners"><a class="bds_qzone" data-cmd="qzone" href="../../sys_e_content.jsp#"></a><a class="bds_tsina" data-cmd="tsina" href="../../sys_e_content.jsp#"></a><a class="bds_tqq" data-cmd="tqq" href="../../sys_e_content.jsp#"></a><a class="bds_renren" data-cmd="renren" href="../../sys_e_content.jsp#"></a><a class="bds_weixin" data-cmd="weixin" href="../../sys_e_content.jsp#"></a></div><a 360chrome_form_autofill="2" class="bds_more" data-cmd="more" href="../../sys_e_content.jsp#"></a></ul></div></div>
+<div 360chrome_form_autofill="2" class="sr-bdimgshare sr-bdimgshare-list sr-bdimgshare-16 sr-bdimgshare-black" data-bd-bind="1515463313005" id="bdimgshare_1515463313005" style="font-size: 12px;height: 36px;display: none;line-height: 26px" tangram_guid="TANGRAM_39">
+<div 360chrome_form_autofill="2" class="bdimgshare-bg"></div>
+<div 360chrome_form_autofill="2" class="bdimgshare-content bdsharebuttonbox bdshare-button-style0-16"><label class="bdimgshare-lbl">分享到：</label><a 360chrome_form_autofill="2" class="bds_qzone" data-cmd="qzone" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a><a 360chrome_form_autofill="2" class="bds_tsina" data-cmd="tsina" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a><a 360chrome_form_autofill="2" class="bds_tqq" data-cmd="tqq" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a><a 360chrome_form_autofill="2" class="bds_renren" data-cmd="renren" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a><a 360chrome_form_autofill="2" class="bds_weixin" data-cmd="weixin" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a><a 360chrome_form_autofill="2" class="bds_more" data-cmd="more" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a></div></div>
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="i_bottom"><!--#begineditable contype="" name="底部链接" action="" layout="" clone="0" namechanged="0" order="11" ispublic="0" tagname="底部链接" viewid="42984" stylesysid=""--><script language="javascript" src="../../system/resource/js/openlink.js"></script> <a class="i_bottom" href="http://xwtg.xjtu.edu.cn:8080/system/contribute/alogin.jsp">在线投稿</a>
+<strong>|</strong>
+<a class="i_bottom" href="../../lxwm.htm">联系我们</a>
+<strong>|</strong>
+<a class="i_bottom" href="http://202.117.3.24:8080/system/login.jsp">管理登陆</a>
+<strong>|</strong>
+<a class="i_bottom" href="http://xwlc1.xjtu.edu.cn/">新闻流程</a>
+<!--#endeditable--><br/> <!--#begineditable contype="" name="版权" action="" layout="" clone="0" namechanged="0" order="12" ispublic="0" tagname="版权" viewid="42985" stylesysid=""-->版权所有：西安交通大学党委宣传部 网站建设：<a class="design" href="http://nic.xjtu.edu.cn">网络信息中心</a><br/>陕ICP备06008037号 网络信息中心提供网络带宽 <!--#endeditable--></div>
+

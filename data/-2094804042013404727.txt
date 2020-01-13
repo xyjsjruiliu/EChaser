@@ -1,0 +1,776 @@
+<!DOCTYPE html>
+<html><head>
+<meta charset="utf-8"/>
+<link href="css/css.css" rel="stylesheet" type="text/css"/>
+<link href="css/animate.min.css" rel="stylesheet"/>
+<script charset="utf-8" src="js/jquery.js" type="text/javascript"></script>
+<script src="js/jquery.min.js" type="text/javascript"></script>
+<script src="js/jquery.SuperSlide.a.js" type="text/javascript"></script>
+<script charset="utf-8" src="js/isScroll.js"></script>
+<title>文明网</title><meta content="文明网" name="keywords">
+<!--[if IE 8]> 
+            <style>
+                                
+                .culture .c-con .con-left .partone,
+                .culture .c-con .con-mid .parttwo,
+                .c-con .con-mid .partthree1,
+                .c-con .con-mid .partthree2,
+                .c-con .con-right .partfour{
+                background:#a6070a;}
+            </style>
+        <![endif]-->
+<!--Announced by Visual SiteBuilder 9-->
+<link href="_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307045120812 -->
+<link href="index.vsb.css" rel="stylesheet" type="text/css">
+<script src="/system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1571491137)</script>
+</link></link></meta></head>
+<body>
+<div class="header">
+<div class="head container clearfix">
+<div class="headlink clearfix">
+<script language="javascript">
+function dosuba249653a()
+{
+    try{
+        var ua = navigator.userAgent.toLowerCase();
+        if(ua.indexOf("msie 8")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+        }else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+            if (document.all) 
+            {
+                window.external.addFavorite(document.location.href, document.title);
+            }else if(window.sidebar)
+            {
+                window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+            }
+            else
+            {
+                alert(hotKeysa249653a());
+            }
+        }
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa249653a() 
+{
+    var ua = navigator.userAgent.toLowerCase(); 
+    var str = "";    
+    var isWebkit = (ua.indexOf('webkit') != - 1); 
+    var isMac = (ua.indexOf('mac') != - 1);     
+    if (ua.indexOf('konqueror') != - 1) 
+    {  
+        str = 'CTRL + B'; // Konqueror   
+    } 
+    else if (window.home || isWebkit || isMac) 
+    {        
+        str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+    }
+    return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea249653a()
+{
+    var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+        }
+    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+    prefs.setCharPref('browser.startup.homepage',url);
+    }
+    else
+    {
+        alert("浏览器不支持自动设为首页，请手动设置");
+    }
+}
+</script>
+<a href="javascript:setHomepagea249653a()" style="TEXT-DECORATION: none;"><p>设为首页</p></a>
+<a href="#" onclick="javascript:dosuba249653a();" style="TEXT-DECORATION: none;"><p>加入收藏</p></a>
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+<a href="search.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1017" onclick='_addDynClicks("wbimage", 1571491137, 53062)' target="_blank" title="">
+<img border="0" src="images/search.png"/>
+</a>
+</div>
+</div>
+<div class="banner">
+<div class="focusBox" style="margin: 0px auto;">
+<ul class="pic">
+<li>
+<a href="http://news.xjtu.edu.cn/info/1009/127226.htm" onclick='_addDynClicks("wbimage", 1571491137, 56607)' target="_blank" title="">
+<img border="0" src="images/simianqizhi.jpg"/>
+</a>
+</li>
+<li>
+<a href="http://news.xjtu.edu.cn/info/1033/126922.htm" onclick='_addDynClicks("wbimage", 1571491137, 56557)' target="_blank" title="">
+<img border="0" src="images/2020.jpg"/>
+</a>
+</li>
+<li>
+<a href="http://wmw.xjtu.edu.cn/wh/yyyp.htm" onclick='_addDynClicks("wbimage", 1571491137, 54630)' target="_blank" title="">
+<img border="0" src="images/yiyuanyipin.jpg"/>
+</a>
+</li>
+<li>
+<a href="http://wmw.xjtu.edu.cn/dt1/pl.htm" onclick='_addDynClicks("wbimage", 1571491137, 54545)' target="_blank" title="">
+<img border="0" src="images/siyuan.jpg"/>
+</a>
+</li>
+</ul>
+<a class="prev" href="javascript:void(0)"></a>
+<a class="next" href="javascript:void(0)"></a>
+</div>
+<script type="text/javascript">
+                    jQuery(".focusBox").slide({ mainCell:".pic",effect:"left", autoPlay:true, delayTime:300});
+                </script>
+<div class="headmessage container clearfix">
+<div class="logo fl divtest animated animation-delay-1" data-animation="rollIn">
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="index.htm" title="文明网"><img alt="文明网" border="0" height="53" src="images/logo.png" title="文明网" width="330"/></a>
+</div>
+<div class="navmenu fr">
+<div class="navBar divtest animated animation-delay-1" data-animation="slideInLeft">
+<ul class="nav clearfix">
+<li class="m first">
+<h3><a href="index.htm" title="首页">首页</a></h3>
+</li>
+<li class="m second">
+<h3><a href="dt1/xw.htm" title="动态">动态</a></h3>
+<ul class="sub">
+<li class="firstjt">
+<img src="images/subjt.png">
+<a href="dt1/xw.htm" title="新闻">新闻</a>
+</img></li>
+<li> <a href="dt1/pl.htm" title="评论">评论</a></li>
+<li> <a href="dt1/llwz.htm" title="理论文章">理论文章</a></li>
+</ul>
+</li>
+<li class="m third">
+<h3><a href="dx.htm" title="典型">典型</a></h3>
+</li>
+<li class="m fourth">
+<h3><a href="wh.htm" title="文化">文化</a></h3>
+<ul class="sub">
+<li class="firstjt">
+<img src="images/subjt.png">
+<a href="wh/yyyp.htm" title="一院一品">一院一品</a>
+</img></li>
+<li> <a href="http://vi.xjtu.edu.cn/" target="_blank" title="交大标识">交大标识</a></li>
+<li> <a href="wh/dbcg1.htm" title="地标场馆">地标场馆</a></li>
+<li> <a href="wh/whcp1.htm" title="文化产品">文化产品</a></li>
+</ul>
+</li>
+<li class="m fifth">
+<h3><a href="gy1/mzwx1.htm" title="光影">光影</a></h3>
+<ul class="sub">
+<li class="firstjt">
+<img src="images/subjt.png">
+<a href="gy1/mzwx1.htm" title="美哉吾校">美哉吾校</a>
+</img></li>
+<li> <a href="gy1/spjd1.htm" title="视频交大">视频交大</a></li>
+</ul>
+</li>
+<li class="m sixth">
+<h3><a href="zl1/tzgg.htm" title="资料">资料</a></h3>
+<ul class="sub">
+<li class="firstjt">
+<img src="images/subjt.png">
+<a href="zl1/tzgg.htm" title="通知公告">通知公告</a>
+</img></li>
+<li> <a href="zl1/sjjs.htm" title="上级精神">上级精神</a></li>
+<li> <a href="zl1/gygg.htm" title="公益广告">公益广告</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="content" style="height: 120px;"><!-- 内容 --></div>
+<script type="text/javascript">
+
+                    (function(){
+                            var ind = 2; //初始位置
+                            var nav= jQuery(".nav");
+                            var init = jQuery(".nav .m").eq(ind);
+                            var block = jQuery(".nav .block"); //滑块
+                            block.css({"left":init.position().left-3}); //初始化滑块位置
+                            nav.hover(function(){},function(){ block.animate({"left":init.position().left-3},100); }); //移出导航滑块返回
+
+                            jQuery(".nav").slide({
+                                    type:"menu", //效果类型
+                                    titCell:".m", // 鼠标触发对象
+                                    targetCell:".sub", // 效果对象，必须被titCell包含
+                                    delayTime:300, // 效果时间
+                                    triggerTime:0, //鼠标延迟触发时间
+                                    returnDefault:true,//on返回初始位置
+                                    defaultIndex:ind,//初始位置
+                                    startFun:function(i,c,s,tit){ //控制当前滑块位置
+                                        block.animate({"left":tit.eq(i).position().left-3},100);
+                                    }
+                                });
+                    })()
+
+                    </script>
+</div>
+</div>
+</div>
+</div>
+<div class="active container clearfix">
+<a href="dt1/xw.htm"><div class="clumn fl">
+<div class="wz">
+<p class="black"><span>N</span>ews</p>
+</div>
+<p class="cname">动态</p>
+</div></a>
+<div class="article fl divtest animated animation-delay-1" data-animation="slideInLeft">
+<script language="javascript" src="/system/resource/js/ajax.js"></script><ul class="clearfix">
+<li class="clearfix">
+<a href="http://news.xjtu.edu.cn/info/1033/126953.htm" target="_blank" title="西安交大2019年文明校园工作推进会召开 两大看点值得关注"><img src="/__local/F/0E/AC/1DB74D93FB33FF86913BC6637CA_1A238141_76F97.jpg"/></a>
+<div class="eachnews">
+<p class="headline"><a href="http://news.xjtu.edu.cn/info/1033/126953.htm" target="_blank" title="西安交大2019年文明校园工作推进会召开 两大看点值得关注">西安交大2019年文明校园工作推进会召开 两大看点值得关注</a></p>
+<p class="summary"><a href="http://news.xjtu.edu.cn/info/1033/126953.htm" target="_blank" title="西安交大2019年文明校园工作推进会召开 两大看点值得关注">12月30日，西安交大2019年文明校园工作推进会在科学馆207召开。会议总结了学校2019年“六个好”指标的推进情况。</a></p>
+<div class="date">
+<img src="images/time.png">
+<p class="nyr">2020-01-11</p>
+</img></div>
+</div>
+</li>
+<li class="clearfix">
+<a href="http://news.xjtu.edu.cn/info/1033/127401.htm" target="_blank" title="【初心·使命】焦仲平系列评论之十： 鼓满风帆踏征程，全力奋进创明天"><img src="/__local/9/5E/C2/DB8EC32354C6968D02125CACF01_0BB75FF5_5AC64.png"/></a>
+<div class="eachnews">
+<p class="headline"><a href="http://news.xjtu.edu.cn/info/1033/127401.htm" target="_blank" title="【初心·使命】焦仲平系列评论之十： 鼓满风帆踏征程，全力奋进创明天">【初心·使命】焦仲平系列评论之十： 鼓满风帆踏征程，全力奋进创明天</a></p>
+<p class="summary"><a href="http://news.xjtu.edu.cn/info/1033/127401.htm" target="_blank" title="【初心·使命】焦仲平系列评论之十： 鼓满风帆踏征程，全力奋进创明天">“一个前进的时代，总有一种奋发向上的力量；一个强大的民族，总有一种锐意进取的意志。” 当前，交大人正焕发着青春的活力，在这个充满变革的新时代</a></p>
+<div class="date">
+<img src="images/time.png"/>
+<p class="nyr">2020-01-11</p>
+</div>
+</div>
+</li>
+<li class="clearfix">
+<a href="http://news.xjtu.edu.cn/info/1009/127226.htm" target="_blank" title="“弘扬‘四面旗帜’ 绘就文明底色”主题摄影图片展举行"><img src="/__local/E/7A/A3/66080F4CD6B2531CFCD0DDA1D9C_EB91310F_68E71.jpg"/></a>
+<div class="eachnews">
+<p class="headline"><a href="http://news.xjtu.edu.cn/info/1009/127226.htm" target="_blank" title="“弘扬‘四面旗帜’ 绘就文明底色”主题摄影图片展举行">“弘扬‘四面旗帜’ 绘就文明底色”主题摄影图片展举行</a></p>
+<p class="summary"><a href="http://news.xjtu.edu.cn/info/1009/127226.htm" target="_blank" title="“弘扬‘四面旗帜’ 绘就文明底色”主题摄影图片展举行">2020年年初，“弘扬‘四面旗帜’ 绘就文明底色”主题摄影图片展在西安交通大学四大发明广场展出。</a></p>
+<div class="date">
+<img src="images/time.png"/>
+<p class="nyr">2020-01-09</p>
+</div>
+</div>
+</li>
+<li class="clearfix last">
+<a href="http://news.xjtu.edu.cn/info/1033/127210.htm" target="_blank" title="西安交大邓景元、王世绍获评第五届西安市道德模范"><img src="/__local/9/BA/DD/64C949B93FF8A6E737A511DEA5B_BE4642A0_1070B.jpg"/></a>
+<div class="eachnews">
+<p class="headline"><a href="http://news.xjtu.edu.cn/info/1033/127210.htm" target="_blank" title="西安交大邓景元、王世绍获评第五届西安市道德模范">西安交大邓景元、王世绍获评第五届西安市道德模范</a></p>
+<p class="summary"><a href="http://news.xjtu.edu.cn/info/1033/127210.htm" target="_blank" title="西安交大邓景元、王世绍获评第五届西安市道德模范">近日，中共西安市委精神文明建设指导委员会公布了第五届西安市道德模范名单，10名先进个人被评为第五届西安市道德模范。</a></p>
+<div class="date">
+<img src="images/time.png"/>
+<p class="nyr">2020-01-08</p>
+</div>
+</div>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u5_1717','dynclicks_u5_1750','dynclicks_u5_1741','dynclicks_u5_1737'],[1717,1750,1741,1737],"wbnews", 1571491137)</script>
+</div>
+<div class="yllink fr">
+<div class="lblink">
+<div class="tmall-brand divtest animated animation-delay-1" data-animation="slideInLeft" style="margin: 0px auto;">
+<ul class="fCl-slide" style="width:401px">
+<li>
+<a href="http://news.xjtu.edu.cn/info/1033/122954.htm" onclick='_addDynClicks("wbimage", 1571491137, 54553)' target="_blank" title="西迁精神">
+<img border="0" height="490" src="images/xiqianjingshen.jpg" width="399"/>
+</a>
+</li>
+<li>
+<a href="images/1.jpg" onclick='_addDynClicks("wbimage", 1571491137, 53789)' target="_blank" title="为民族而生 为时代而生">
+<img border="0" height="490" src="images/19/09/09/1m1xqw8qfg/1.jpg" width="399"/>
+</a>
+</li>
+<li>
+<a href="images/3.jpg" onclick='_addDynClicks("wbimage", 1571491137, 53791)' target="_blank" title="进驻创新港 攀登新高峰">
+<img border="0" height="490" src="images/19/09/09/1m1xqw8qfg/3.jpg" width="399"/>
+</a>
+</li>
+<li>
+<a href="images/5.jpg" onclick='_addDynClicks("wbimage", 1571491137, 53793)' target="_blank" title="立鸿鹄志 做奋斗者">
+<img border="0" height="490" src="images/19/09/09/1m1xqw8qfg/5.jpg" width="399"/>
+</a>
+</li>
+<li>
+<a href="images/2.jpg" onclick='_addDynClicks("wbimage", 1571491137, 53790)' target="_blank" title="饮水思源 爱国奋斗">
+<img border="0" height="490" src="images/19/09/09/1m1xqw8qfg/2.jpg" width="399"/>
+</a>
+</li>
+<li>
+<a href="images/4.jpg" onclick='_addDynClicks("wbimage", 1571491137, 53792)' target="_blank" title="建文明校园 育时代新人">
+<img border="0" height="490" src="images/19/09/09/1m1xqw8qfg/4.jpg" width="399"/>
+</a>
+</li>
+</ul>
+<ul class="fCl-nav">
+<li>●</li>
+<li>●</li>
+<li>●</li>
+<li>●</li>
+<li>●</li>
+</ul>
+</div>
+<script type="text/javascript">jQuery(".tmall-brand").slide({ titCell:".fCl-nav li", mainCell:".fCl-slide", effect:"left",autoPlay:true,delayTime:300});</script>
+</div>
+<script language="javascript" src="/system/resource/js/openlink.js"></script><ul class="yl">
+<li class="first"><a href="http://news.xjtu.edu.cn/info/1033/119208.htm" onclick='_addDynClicks("wburl", 1571491137, 60397)' target="_blank" title="“交大情书”系列画册首发">交大情书</a></li>
+<li class="second"><a href="http://wmw.xjtu.edu.cn/wh/yyyp.htm" onclick='_addDynClicks("wburl", 1571491137, 60398)' target="_blank" title="“一院一品”">一院一品</a></li>
+</ul>
+</div>
+</div>
+<div class="section-two">
+<div class="two-con container clearfix">
+<div class="leftsec fl divtest animated animation-delay-1" data-animation="slideInLeft">
+<a href="dx.htm"> <div class="clumn fl">
+<div class="wz">
+<p class="black"><span>T</span>ypical</p>
+</div>
+<p class="cname">典型</p>
+</div></a>
+<div class="lbnr clearfix">
+<ul class="lbxw fl">
+<li class="con-lb">
+<p class="headline"><a href="http://news.xjtu.edu.cn/info/1033/121481.htm" target="_blank" title="【CCTV闪亮的名字】最美科技工作者陶文铨">【CCTV闪亮的名字】最美科技工作者陶文铨</a></p>
+<p class="summary"><a href="http://news.xjtu.edu.cn/info/1033/121481.htm" target="_blank" title="【CCTV闪亮的名字】最美科技工作者陶文铨">由中央宣传部、中国科学技术协会、中华人民共和国科学技术部、中国科学院、中国工程院、国家国防科技工业局联合开展“最美科技工作者”学习宣传活动，共选出10位2019年“最美科技工作者”。</a></p>
+<div class="date">
+<p class="rq fl">2019-10-11</p>
+<p class="more fr"><a href="dx.htm">MORE</a></p>
+</div>
+<div class="headtu">
+<a href="http://news.xjtu.edu.cn/info/1033/121481.htm" target="_blank" title="【CCTV闪亮的名字】最美科技工作者陶文铨"><img src="/__local/0/05/00/4CD762ED6DD94105D3C93F81D4F_6A41FD03_2180A.jpg" style="width:280px;height:186px;"/></a>
+</div>
+</li>
+</ul>
+<ul class="lbxw fl">
+<li class="con-lb">
+<p class="headline"><a href="http://news.xjtu.edu.cn/info/1033/120474.htm" target="_blank" title="交大西迁人：家国情怀无私奉献">交大西迁人：家国情怀无私奉献</a></p>
+<p class="summary"><a href="http://news.xjtu.edu.cn/info/1033/120474.htm" target="_blank" title="交大西迁人：家国情怀无私奉献">2017年11月，西安交大15位老教授给习近平总书记写信，在信中吐露了师生们的心声：“听党指挥跟党走，几代交大人砥砺奋斗的精神内涵，就是始终与党和国家的发展同向同行。”</a></p>
+<div class="date">
+<p class="rq fl">2019-09-26</p>
+<p class="more fr"><a href="dx.htm">MORE</a></p>
+</div>
+<div class="headtu">
+<a href="http://news.xjtu.edu.cn/info/1033/120474.htm" target="_blank" title="交大西迁人：家国情怀无私奉献"><img src="/__local/D/DE/D9/806685CE2267D5480BC14C3E7C3_D4204AF3_216DC.jpg" style="width:280px;height:186px;"/></a>
+</div>
+</li>
+</ul>
+<ul class="lbxw fl">
+<li class="con-lb">
+<p class="headline"><a href="http://news.xjtu.edu.cn/info/1033/117980.htm" target="_blank" title="俞茂宏：在基础理论研究中贡献中国智慧">俞茂宏：在基础理论研究中贡献中国智慧</a></p>
+<p class="summary"><a href="http://news.xjtu.edu.cn/info/1033/117980.htm" target="_blank" title="俞茂宏：在基础理论研究中贡献中国智慧">六月的天津，满城飞花，“何梁何利基金”高峰论坛在此间举行。当西安交大机械结构强度与振动国家重点实验室特聘教授俞茂宏信步登台做特邀报告时，场下掌声雷动。</a></p>
+<div class="date">
+<p class="rq fl">2019-09-13</p>
+<p class="more fr"><a href="dx.htm">MORE</a></p>
+</div>
+<div class="headtu">
+<a href="http://news.xjtu.edu.cn/info/1033/117980.htm" target="_blank" title="俞茂宏：在基础理论研究中贡献中国智慧"><img src="/__local/6/30/6F/3335ABB230C723F31B52349055D_C4DDED68_13743.jpg" style="width:280px;height:186px;"/></a>
+</div>
+</li>
+</ul>
+</div><script>_showDynClickBatch(['dynclicks_u8_1448','dynclicks_u8_1362','dynclicks_u8_1263'],[1448,1362,1263],"wbnews", 1571491137)</script>
+<div class="prevv"></div>
+<div class="nextt"></div>
+</div>
+<script>
+                    var index = 0;
+                        //上一张
+                        $(".prevv").click(function(){
+                            index--
+                            if(index < 0){
+                                index = $(".lbnr .lbxw").length - 1;
+                            }
+                            $(".lbnr").animate({left:-index * 670},500)
+                        })
+                        //下一张
+                        $(".nextt").click(function(){
+                            index++
+                            if(index >= $(".lbnr .lbxw").length){
+                                index = 0;
+                            }
+                            $(".lbnr").animate({left:-index * 670},500)
+                        })
+                </script>
+<div class="rightsec fr divtest animated animation-delay-1" data-animation="slideInLeft">
+<a href="zl1/tzgg.htm"> </a><div class="lmtb clearfix"><a href="zl1/tzgg.htm">
+<p class="source fl">资料</p>
+<p class="ensource fl">Material</p>
+</a><p class="gd fr"><a href="zl1/tzgg.htm"><a href="zl1/tzgg.htm" style="color: rgb(128, 128, 128); text-decoration: none;">更多+</a></a></p>
+</div>
+<ul class="zlxw clearfix">
+<li>
+<div class="date fl">
+<p class="mouth">01-10</p>
+<p class="year">2020</p>
+</div>
+<p class="art-tit fl">
+<a href="http://oa.xjtu.edu.cn/zxgg_infonew.jsp?processInsId=STWSVZ" target="_blank" title="喜迎春节送春联，师生携手送祝福">喜迎春节送春联，师生携手送祝福</a>
+</p>
+</li>
+<li>
+<div class="date fl">
+<p class="mouth">12-21</p>
+<p class="year">2019</p>
+</div>
+<p class="art-tit fl">
+<a href="http://alumni.xjtu.edu.cn/wznr.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1033&amp;wbnewsid=4621" target="_blank" title="“交相辉映——西安交通大首届校友书画摄影展”展览通知">“交相辉映——西安交通大首届校友书画摄影展”展览通知</a>
+</p>
+</li>
+<li>
+<div class="date fl">
+<p class="mouth">12-17</p>
+<p class="year">2019</p>
+</div>
+<p class="art-tit fl">
+<a href="http://oa.xjtu.edu.cn/zxgg_infonew.jsp?processInsId=SWWSUZ" target="_blank" title="关于参观“翰墨庆七秩 礼赞新时代”C9高校教职工书法绘画巡回展的通知">关于参观“翰墨庆七秩 礼赞新时代”C9高校教职工书法绘画巡回展的通知</a>
+</p>
+</li>
+<li>
+<div class="date fl">
+<p class="mouth">12-17</p>
+<p class="year">2019</p>
+</div>
+<p class="art-tit fl">
+<a href="http://oa.xjtu.edu.cn/zxgg_infonew.jsp?processInsId=SWVZUR" target="_blank" title="关于参观“爱国奋斗、旗帜高扬：交大西迁博物馆开馆周年纪念特展”的邀请">关于参观“爱国奋斗、旗帜高扬：交大西迁博物馆开馆周年纪念特展”的邀请</a>
+</p>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u9_1742','dynclicks_u9_1690','dynclicks_u9_1683','dynclicks_u9_1682'],[1742,1690,1683,1682],"wbnews", 1571491137)</script>
+</div>
+</div>
+</div>
+<div class="viedo">
+<div class="v-con container clearfix divtest animated animation-delay-1" data-animation="slideInLeft">
+<div class="v-left fl">
+<a href="gy1/spjd1.htm">
+<div class="clumn fl">
+<div class="wz">
+<p class="black"><span>V</span>ideo</p>
+</div>
+<p class="cname">视频</p>
+</div></a>
+<div class="v-headtu">
+<a href="info/1014/1516.htm" target="_blank" title="【新闻直播间】最美奋斗者-交大西迁人"><img src="/__local/F/AF/A2/9822BD6F76C5C64B509B981D81F_1C43BF02_FC62.png"/></a>
+<p class="v-tit">【新闻直播间】最美奋斗者-交大西迁人</p>
+</div><script>_showDynClickBatch(['dynclicks_u10_1516'],[1516],"wbnews", 1571491137)</script>
+</div>
+<div class="v-right fr divtest animated animation-delay-1" data-animation="slideInRight">
+<div class="m-slide" style="margin: 15px auto;">
+<img alt="" class="btn-next-page" src="images/btn-next-page.png"/>
+<ul class="img">
+<li>
+<div>
+<a href="#" onclick='_addDynClicks("wbimage", 1571491137, 53798)' target="_blank" title="">
+<img border="0" src="images/90c22f8fca03bb5f2178d1c531c0a1d.png"/>
+</a>
+</div>
+</li>
+<li>
+<div>
+<a href="#" onclick='_addDynClicks("wbimage", 1571491137, 53799)' target="_blank" title="">
+<img border="0" src="images/a9af00dcd910c478b5874b7052f704b.png"/>
+</a>
+</div>
+</li>
+<li>
+<div>
+<a href="#" onclick='_addDynClicks("wbimage", 1571491137, 53800)' target="_blank" title="">
+<img border="0" src="images/efb7cc31d2eea400f82f7c08b2641db.png"/>
+</a>
+</div>
+</li>
+<li>
+<div>
+<a href="#" onclick='_addDynClicks("wbimage", 1571491137, 53801)' target="_blank" title="">
+<img border="0" src="images/7b08c2922ebe2f36290e361dce46d02.png"/>
+</a>
+</div>
+</li>
+<li>
+<div>
+<a href="#" onclick='_addDynClicks("wbimage", 1571491137, 53802)' target="_blank" title="">
+<img border="0" src="images/82140efcd99519776731062eb42d902.png"/>
+</a>
+</div>
+</li>
+<li>
+<div>
+<a href="#" onclick='_addDynClicks("wbimage", 1571491137, 53803)' target="_blank" title="">
+<img border="0" src="images/f79de6263c329403f1c85a2d4f59a39.png"/>
+</a>
+</div>
+</li>
+</ul>
+<ul class="tab">
+<li>
+<a href="#">
+<span class="title"> 文明校园创建战略意义 </span>
+</a>
+</li>
+<li>
+<a href="#">
+<span class="title"> 全国文明校园创建标准</span>
+</a>
+</li>
+<li>
+<a href="#">
+<span class="title"> 全国文明校园创建原则</span>
+</a>
+</li>
+<li>
+<a href="#">
+<span class="title"> 文明校园创建“三个着力”</span>
+</a>
+</li>
+<li>
+<a href="#">
+<span class="title"> 创建主题</span>
+</a>
+</li>
+<li class="last">
+<a href="#">
+<span class="title">创建任务</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<script>
+                    var num = 0; //记数量
+                    $(".tab li").each(function(index,item){
+                        $(item).hover(function(){
+                            $(item).addClass("on");
+                            $(".img li").css({
+                                display:"none"
+                            });
+                            $(".img li").eq(index).css({
+                                display:"block"
+                            })
+                            num = index ;
+                        },function(){
+                            $(item).removeClass("on")
+                        })
+                    });
+                    $(".btn-next-page").click(function(){
+                        $(".img li").css({
+                            display:"none"
+                        });
+                        $(".tab li").removeClass("on");
+                        $(".img li").eq(num).css({
+                            display:"block"
+                        });
+                        $(".tab li").eq(num).addClass("on");
+                        num++
+                        if(num > $(".img li").length-1){
+                            num = 0
+                        }
+                    })
+                                           $(".img li").eq(0).css({
+                            display:"block"
+                        });
+                </script>
+</div>
+</div>
+<div class="culture">
+<div class="c-con clearfix container divtest animated animation-delay-1" data-animation="fadeInDown">
+<div class="con-left fl">
+<a href="wh.htm"> <div class="clumn fl">
+<div class="wz">
+<p class="black"><span>C</span>ulture</p>
+</div>
+<p class="cname">文化</p>
+</div></a>
+<div class="wcone fl">
+<div class="onepart">
+<a href="wh/dbcg1.htm" onclick='_addDynClicks("wbimage", 1571491137, 53823)' target="_blank" title="地标场馆"><img border="0" src="images/8.jpg"/></a></div>
+<a href="wh/dbcg1.htm" onclick='_addDynClicks("wbimage", 1571491137, 53823)' target="_blank" title="地标场馆"><div class="partone"> <p>地标场馆</p></div></a>
+</div>
+</div>
+<script>
+                    $(".wcone").each(function(ind,item){
+                        $(this).hover(function(){
+                            $(".partone").eq(ind).animate({
+                            top:0,
+                        },500)
+                        },function(){
+                            $(".partone").eq(ind).animate({
+                            top:260,
+                        },500)
+
+                        })
+                    })
+                </script>
+<div class="con-mid fl">
+<div class="wctwo">
+<div class="twopart">
+<a href="wh/whcp1.htm" onclick='_addDynClicks("wbimage", 1571491137, 53825)' target="_blank" title="文化产品"><img border="0" src="images/12.jpg"/></a></div>
+<a href="wh/whcp1.htm" onclick='_addDynClicks("wbimage", 1571491137, 53825)' target="_blank" title="文化产品"><div class="parttwo"> <p>文化产品</p></div></a>
+</div>
+<script>
+                    $(".wctwo").each(function(ind,item){
+                        $(this).hover(function(){
+                            $(".parttwo").eq(ind).animate({
+                            top:0,
+                        },500)
+                        },function(){
+                            $(".parttwo").eq(ind).animate({
+                            top:260,
+                        },500)
+
+                        })
+                    })
+                </script>
+<div class="threeall">
+<div class="wcthree1 fl">
+<div class="threepart1">
+<a href="http://www.xjtu.edu.cn/jdgk/xxbs.htm" onclick='_addDynClicks("wbimage", 1571491137, 53824)' target="_blank" title="学校标识"><img border="0" src="images/10.jpg"/></a></div>
+<a href="http://www.xjtu.edu.cn/jdgk/xxbs.htm" onclick='_addDynClicks("wbimage", 1571491137, 53824)' target="_blank" title="学校标识"><div class="partthree1"> <p>学校标识</p></div></a>
+</div>
+<script>
+                            $(".wcthree1").each(function(ind,item){
+                                $(this).hover(function(){
+                                    $(".partthree1").eq(ind).animate({
+                                    top:0,
+                                },500)
+                                },function(){
+                                    $(".partthree1").eq(ind).animate({
+                                    top:125,
+                                },500)
+
+                                })
+                            })
+                        </script>
+<div class="wcthree2 fr">
+<div class="threepart2">
+<a href="zl1/gygg.htm" onclick='_addDynClicks("wbimage", 1571491137, 53887)' target="_blank" title="公益广告"><img border="0" src="images/19/09/09/1m1xqw8qfg/2.jpg"/></a></div>
+<a href="zl1/gygg.htm" onclick='_addDynClicks("wbimage", 1571491137, 53887)' target="_blank" title="公益广告"><div class="partthree2"> <p>公益广告</p></div></a>
+</div>
+<script>
+                            $(".wcthree2").each(function(ind,item){
+                                $(this).hover(function(){
+                                    $(".partthree2").eq(ind).animate({
+                                    top:0,
+                                },500)
+                                },function(){
+                                    $(".partthree2").eq(ind).animate({
+                                    top:125,
+                                },500)
+
+                                })
+                            })
+                        </script>
+</div>
+</div>
+<div class="con-right fr">
+<div class="wcfour">
+<div class="fourpart">
+<a href="gy1/mzwx1.htm" onclick='_addDynClicks("wbimage", 1571491137, 53822)' target="_blank" title="美哉吾校"><img border="0" src="images/7.jpg"/></a></div>
+<a href="gy1/mzwx1.htm" onclick='_addDynClicks("wbimage", 1571491137, 53822)' target="_blank" title="美哉吾校"><div class="partfour"> <p>美哉吾校</p></div></a>
+</div>
+</div>
+<script>
+                    $(".wcfour").each(function(ind,item){
+                        $(this).hover(function(){
+                            $(".partfour").eq(ind).animate({
+                            top:0,
+                        },500)
+                        },function(){
+                            $(".partfour").eq(ind).animate({
+                            top:400,
+                        },500)
+
+                        })
+                    })
+                </script>
+</div>
+</div>
+<div class="firlink">
+<div class="yqljcon clearfix container">
+<ul>
+<li class="first">
+<p>友情链接</p>
+</li>
+<li>
+<div class="link" onchange="top.location=this.value;">
+<p><a href="http://www.wenming.cn/" onclick='_addDynClicks("wburl", 1571491137, 60399)' target="_blank" title="">中国文明网</a></p>
+</div>
+</li>
+<li>
+<div class="link" onchange="top.location=this.value;">
+<p><a href="http://shx.wenming.cn" onclick='_addDynClicks("wburl", 1571491137, 60400)' target="_blank" title="">陕西文明网</a></p>
+</div>
+</li>
+<li>
+<div class="link" onchange="top.location=this.value;">
+<p><a href="http://xa.wenming.cn" onclick='_addDynClicks("wburl", 1571491137, 60401)' target="_blank" title="">西安文明网</a></p>
+</div>
+</li>
+<li>
+<div class="link" onchange="top.location=this.value;">
+<p><a href="http://www.xjtu.edu.cn" onclick='_addDynClicks("wburl", 1571491137, 60402)' target="_blank" title="">西安交通大学</a></p>
+</div>
+</li>
+<li>
+<div class="link" onchange="top.location=this.value;">
+<p><a href="http://news.xjtu.edu.cn" onclick='_addDynClicks("wburl", 1571491137, 60403)' target="_blank" title="">交大新闻网</a></p>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="footer">
+<div class="foot clearfix container">
+<div class="footlogo fl divtest animated animation-delay-1" data-animation="fadeInDown">
+<a href="#" onclick='_addDynClicks("wbimage", 1571491137, 53063)' target="_blank" title="">
+<img border="0" src="images/foot_logo.png"/>
+</a>
+</div>
+<div class="copyright fl divtest animated animation-delay-1" data-animation="fadeInDown">
+<!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>
+    地址：陕西省西安市咸宁西路28号 邮编：710049
+</p>
+<p>
+    版权所有：西安交通大学文明校园创建工作领导小组办公室 投稿邮箱：wmxy@xjtu.edu.cn
+</p>
+<p>
+    技术支持：西安交通大学网信中心
+</p>
+</div>
+<div class="ma fr divtest animated animation-delay-1" data-animation="fadeInDown">
+<ul class="clearfix">
+<li class="fl">
+<a href="#" onclick='_addDynClicks("wbimage", 1571491137, 53070)' target="_blank" title="官方微博">
+<img src="images/weibo.png"> </img></a>
+<p>官方微博</p>
+</li>
+<li class="fr">
+<a href="#" onclick='_addDynClicks("wbimage", 1571491137, 53069)' target="_blank" title="官方微信">
+<img src="images/guanfangweixin.jpg"> </img></a>
+<p>官方微信</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</body><script type="text/javascript">
+$(document).ready(function() {
+  isScroll.init('.divtest');
+});
+</script></html>

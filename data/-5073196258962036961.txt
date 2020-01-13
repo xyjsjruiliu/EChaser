@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<title>西安交通大学数字报-版面概览</title>
+<link href="css/ys.css" rel="stylesheet" type="text/css"/>
+<meta content="交大报,西安交大报,西安交大数字报,西安交大数字报纸 ,西安交大电子报" name="keywords">
+<meta content="交大报,西安交大报,西安交大数字报,西安交大数字报纸 ,西安交大电子报" name="description"/>
+</meta></head>
+<body>
+<div class="tb_sxrb">
+<!--导航-->
+</div>
+<div class="main_02">
+<div class="logo_dt_1">
+</div>
+<div class="daoh">
+<div class="menu1">
+<div class="menu_nei">
+<ul id="nav">
+<li class="top1">
+<a class="top_link" href="/"><span>数字报首页</span></a>
+</li>
+<li class="top1">
+<a class="top_link" href="" id="products"><span class="down">版面导航</span></a>
+<ul class="sub1">
+<li>
+<div onclick="window.open('index.htm','_self')"><a href="#">第01版：要闻</a></div>
+<div onclick="window.open('page_01.htm','_self')"><a href="#">第02版：综合信息</a></div>
+<div onclick="window.open('page_02.htm','_self')"><a href="#">第03版：校园生活</a></div>
+<div onclick="window.open('page_03.htm','_self')"><a href="#">第04版：校园笔会</a></div>
+</li>
+</ul>
+</li>
+<li class="top1">
+<a class="top_link" href="outline.htm" id="privacy"><span>版面概览</span></a>
+</li>
+<li class="top1">
+<a class="top_link" href="/about.jsp" target="_blank"><span>联系我们</span></a>
+</li>
+<li class="shijian">
+<script type="text/javascript">
+ var today = new Date(); //新建一个Date对象
+  var date = today.getDate();//查询当月日期
+  var day = today.getDay();//查询当前星期几
+  var month = today.getMonth()+1;//查询月份
+  var year = today.getFullYear();//查询年份  
+  var hour=today.getHours();
+  var morning="";
+  if (hour>=8 & hour<=12) morning="上午好";
+  var week="";                               
+  if (day==0) week='星期日';
+  if (day==1) week='星期一';
+  if (day==2) week='星期二';
+  if (day==3) week='星期三';
+  if (day==4) week='星期四';
+  if (day==5) week='星期五';
+  if (day==6) week='星期六';
+  document.write(year+"年"+month+"月"+date+"日 "+week+" ");
+</script></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap_1">
+<div style="clear:both; height:10px; "></div>
+<div class="main">
+<div class="bmml01" style="margin:0px;">
+<div class="bmml_title_01">
+<span class="bm_dh">
+        	版面目录
+            </span>
+</div>
+<div class="bmml_con01">
+<div class="bmml_con_div_01">
+<a class="bmml_con_div_name" href="index.htm">第01版：要闻</a>
+<a class="bmml_con_div_pic" href="92180787ce6d7547018c7d9928a21da2.pdf
+"><img src="images/banmian_icon.png"/></a>
+</div>
+<div class="bmml_con_div_01">
+<a class="bmml_con_div_name" href="page_01.htm">第02版：综合信息</a>
+<a class="bmml_con_div_pic" href="3220b90e5d42d996219fdc56943d727d.pdf
+"><img src="images/banmian_icon.png"/></a>
+</div>
+<div class="bmml_con_div_01">
+<a class="bmml_con_div_name" href="page_02.htm">第03版：校园生活</a>
+<a class="bmml_con_div_pic" href="c7533604886c1b40b0f787e2cc6c1fe9.pdf
+"><img src="images/banmian_icon.png"/></a>
+</div>
+<div class="bmml_con_div_01">
+<a class="bmml_con_div_name" href="page_03.htm">第04版：校园笔会</a>
+<a class="bmml_con_div_pic" href="535851027b63778985491aad3f21fbae.pdf
+"><img src="images/banmian_icon.png"/></a>
+</div>
+</div>
+</div>
+<div class="thumb_banmian">
+<div class="thumb_banmian_title">
+<span class="bm_dh">
+        	版面概览
+            </span>
+</div>
+<div class="thumb_banmian_con">
+<div class="thumb_banmian_con_div">
+<a class="thumb_banmian_con_div_pic" href="index.htm">
+<img border="0" src="s_index.jpg"/>
+</a>
+<a class="thumb_banmian_con_div_a" href="index.htm">第01版</a>
+</div>
+<div class="thumb_banmian_con_div">
+<a class="thumb_banmian_con_div_pic" href="page_01.htm">
+<img border="0" src="s_page_01.jpg"/>
+</a>
+<a class="thumb_banmian_con_div_a" href="page_01.htm">第02版</a>
+</div>
+<div class="thumb_banmian_con_div">
+<a class="thumb_banmian_con_div_pic" href="page_02.htm">
+<img border="0" src="s_page_02.jpg"/>
+</a>
+<a class="thumb_banmian_con_div_a" href="page_02.htm">第03版</a>
+</div>
+<div class="thumb_banmian_con_div">
+<a class="thumb_banmian_con_div_pic" href="page_03.htm">
+<img border="0" src="s_page_03.jpg"/>
+</a>
+<a class="thumb_banmian_con_div_a" href="page_03.htm">第04版</a>
+</div>
+</div>
+<div style=" clear:both; height:20px;"></div>
+</div> </div>
+</div>
+<div style="clear:both; height:10px;"></div>
+<div class="main">
+<div class="bottom">
+版权所有：西安交通大学 陕ICP备05001571号  技术支持：<a href="http://www.joyhua.com">锦华科技</a>
+</div>
+</div>
+</body>
+</html>

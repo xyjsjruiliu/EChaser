@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<link href="css/index.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<!--头部-->
+<div class="head wrap clearfix">
+<img alt="" src="images/logo.png"/>
+</div>
+<!--登录框-->
+<div class="mainbox wrap clearfix">
+<div class="banner">
+<img src="images/2.png"/>
+</div>
+<div class="choose">
+<ul>
+<li><a class="Administration active" href="http://202.117.17.195/caslogin.jsp">管 理 服 务</a></li>
+<li><a class="Teacher" href="http://202.117.17.195/caslogin.jsp">教 师 服 务</a></li>
+<li><a class="Bid" href="http://202.117.17.195/caslogin.jsp">横 向 合 同<br/>立 项 申 请</a><span><img src="images/new.png"/></span></li>
+<li><a class="Bid" href="http://202.117.17.195/caslogin.jsp">科 研 项 目<br/>投 标 申 请</a></li>
+<li><a class="declare" href="http://202.117.17.195/caslogin.jsp">基本业务费<br/>项 目 申 报</a></li>
+</ul>
+</div>
+</div>
+<!--脚部-->
+<div class="wrap foot">
+<div class="clearfix">
+<ul>
+<li><span>科研项目(理科类)：029-82667086            科研项目(军工类)：029-82664783            科研项目(社科类)：029-82663932</span></li>
+<li><span>开发和维护：<a href="http://nic.xjtu.edu.cn/">西安交通大学网络信息中心</a>            联系电话：029-82668827-810、029-82668827-804</span></li>
+</ul>
+</div>
+</div>
+</body>
+</html>

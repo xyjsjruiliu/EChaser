@@ -1,0 +1,767 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html><head><title>【捐赠故事】饮水思源，感恩交大-西安交大新闻网</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="CSS:AloeR@BMY,美工设计:阿颖" name="author"/>
+<meta content="西安交通大学 新闻网XJTUNEWS" name="description"/><link href="../../AloeR/AloeR_news.css" rel="stylesheet" type="text/css"/><script language="JavaScript" src="../../AloeR/AloeR_news.js" type="text/JavaScript"></script><script src="http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=420961"></script><link href="http://bdimg.share.baidu.com/static/api/css/share_style0_16.css?v=6aba13f0.css" rel="stylesheet"/><link href="http://bdimg.share.baidu.com/static/api/css/share_popup.css?v=240f357d.css" rel="stylesheet"/><link href="http://bdimg.share.baidu.com/static/api/css/select_share.css?v=15f56735.css" rel="stylesheet"/>
+<script src="http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=426893"></script>
+<link href="http://bdimg.share.baidu.com/static/api/css/share_style0_16.css?v=8105b07e.css" rel="stylesheet"/><!--Announced by Visual SiteBuilder 9-->
+<link href="../../_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230697547545255564203030000 -->
+<link href="../../content.vsb.css" rel="stylesheet" type="text/css">
+<meta content="西安交大新闻网" name="keywords">
+<script src="../../system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1123,'/content.jsp',115914,1025023737)</script>
+</meta></link></link></head>
+<body tangram_guid="TANGRAM_5" target="_blank"><a 360chrome_form_autofill="2" href="../../xxyg.htm"></a>
+<div 360chrome_form_autofill="2" class="i_top">
+<div 360chrome_form_autofill="2" class="i_top_xjtu"><!--#begineditable contype="" name="交大LOGO" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="交大LOGO" viewid="43031" stylesysid=""--><table border="0" cellpadding="0" cellspacing="0"><tr><td><img alt="/AloeR/i_top_xjtu.jpg" border="0" src="../../AloeR/i_top_xjtu.jpg"/></td></tr></table><!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="i_top_news"><!--#begineditable contype="" name="新闻网logo" action="" layout="" clone="0" namechanged="0" order="1" ispublic="0" tagname="新闻网logo" viewid="43060" stylesysid=""-->
+<script language="javascript" src="../../system/resource/js/dynclicks.js"></script>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img border="0" height="85" hspace="3" src="../../newindex/pic/i_top_news.jpg" vspace="2" width="340"/></td>
+</tr>
+</table><!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="i_top_right" style="padding-top: 20px">
+<div 360chrome_form_autofill="2" class="i_top_datett"><script language="JavaScript" src="../../AloeR/datatime.js" type="text/javascript"></script>| <a 360chrome_form_autofill="2" class="i_white" href="http://xiaoli.xjtu.edu.cn" target="_blank">电子校历 </a></div>
+<div 360chrome_form_autofill="2" class="i_top_writesq" style="width: 112px;float: right"><a 360chrome_form_autofill="2" class="i_white" href="http://202.117.3.237:8080/system/contribute/login.jsp" target="_blank"><img 360chrome_form_autofill="2" data-bd-imgshare-binded="1" height="51" src="../../images/xwtg_r2_c2.jpg" tangram_guid="TANGRAM_18" width="112"/></a></div></div></div>
+<div 360chrome_form_autofill="2" class="i_menu"><!--#begineditable contype="" name="网站导航" action="" layout="" clone="0" namechanged="0" order="2" ispublic="0" tagname="网站导航" viewid="43061" stylesysid=""--> <div class="i_menu_home">
+<a class="i_home" href="../../index.htm">新闻网首页</a>
+<a class="i_home" href="http://www.xjtu.edu.cn" target="_blank">交大首页</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../zyxw.htm">主页新闻</a>
+<a class="i_menu" href="../../zhxw.htm">综合新闻</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../jyjx.htm">教育教学</a>
+<a class="i_menu" href="../../kydt.htm">科研动态</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../wshd.htm">外事活动</a>
+<a class="i_menu" href="../../zsjy.htm">招生就业</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../ybdt.htm">院部动态</a>
+<a class="i_menu" href="../../dcsy.htm">多彩书院</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../xysh.htm">校园生活</a>
+<a class="i_menu" href="../../syjt.htm">思源讲堂</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../rwfc.htm">人物风采</a>
+<a class="i_menu" href="../../xyzs.htm">校友之声</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../ylzx.htm">医疗在线</a>
+<a class="i_menu" href="../../shfw.htm">社会服务</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../mtjd.htm">媒体交大</a>
+<a class="i_menu" href="../../xwzh.htm">新闻纵横</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../xwzt.htm">新闻专题</a>
+<a class="i_menu" href="../../tpxw.htm">图片新闻</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../spjd.htm">视频交大</a>
+<a class="i_menu" href="../../llyd.htm">理论园地</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../../xxyg.htm">信息预告</a>
+<a class="i_menu" href="../../xysb.htm">校园随笔</a>
+</div>
+<!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="i_menu_bottom"> </div>
+<div 360chrome_form_autofill="2" class="pw">
+<div 360chrome_form_autofill="2" class="i_left">
+<div 360chrome_form_autofill="2" class="l_location"><!--#begineditable contype="" name="当前位置" action="" layout="" clone="0" namechanged="0" order="3" ispublic="0" tagname="当前位置" viewid="42997" stylesysid=""-->
+<table cellpadding="0" cellspacing="0" class="winstyle42997"><tr><td nowrap="">
+<a href="../../index.htm"><span class="fontstyle42997">新闻网首页</span></a><span class="splitflagstyle42997"> &gt; </span><a href="../../xwzt.htm"><span class="fontstyle42997">新闻专题</span></a><span class="splitflagstyle42997"> &gt; </span><a href="../../xwzt/bdzt.htm"><span class="fontstyle42997">报道专题</span></a><span class="splitflagstyle42997"> &gt; </span><a href="../../xwzt/bdzt/xqzl2.htm"><span class="fontstyle42997">捐赠故事</span></a><span class="splitflagstyle42997"> &gt; </span><span class="fontstyle42997">正文</span></td></tr></table><!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="l_split"> </div><!--#begineditable contype="" name="文章内容" action="" layout="" clone="0" namechanged="0" order="4" ispublic="0" tagname="文章内容" viewid="42979" stylesysid=""-->
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="../../system/resource/js/news/newscontent.js"></script><link href="../../system/resource/style/component/news/content/format2.css" rel="stylesheet" type="text/css"/><script language="javascript" src="../../system/resource/js/ajax.js"></script><script language="javascript" src="../../system/resource/js/jquery/jquery-latest.min.js"></script>
+<form name="_newscontent_fromname">
+<div>
+<input id="cc_title" name="cc_title" type="hidden" value="【捐赠故事】饮水思源，感恩交大"/>
+<div class="d_title">【捐赠故事】饮水思源，感恩交大</div>
+<div class="d_author">来源：交大新闻网 日期 2019-07-02 10:20 点击：<script>_showDynClicks("wbnews", 1025023737, 115768)</script> </div>
+<div class="d_detail" id="lmz_content"><div id="vsb_newscontent"><p><font style="font-family: 楷体,楷体_GB2312, SimKai">为进一步丰富交大西迁博物馆捐赠纪念墙的文化内涵，将之打造成为传承西迁精神和弘扬饮水思源传统，激励广大青年学子潜心学习、砥砺奋进的宣传阵地，西安交通大学教育基金会启动了 “交大西迁博物馆捐赠墙背后的故事 ” 征文活动，并向全体“助（筑）力西迁一交大西迁博物馆建设基金项目”捐赠人发出诚挚邀请。</font></p>
+<p align="center"><img align="middle" border="0" src="../../_mediafile/news/2019/06/28/1syniazcwx.jpg"/></p>
+<p><font style="font-family: 楷体,楷体_GB2312, SimKai">近日，教育基金会收到了1978级电子元件与材料专业的陈增来校友的投稿《饮水思源，感恩交大》，文中回忆了陈增来校友与母校多年的缘分与故事。但是，陈增来校友没有提到的是，他常年持续向母校捐赠，但是每次都坚决拒绝基金会向其邮寄捐赠证书和票据。陈校友总是说，给他邮箱发送一个电子证书就可以了，母校的钱要用在更需要的地方，就不要邮寄了。这样一位与母校情谊绵长、时时刻刻为母校着想的校友，着实让人感动。现在，就让我们与陈校友一同回忆他与母校、与恩师之间的故事吧！</font></p>
+<p align="center"><strong>一、</strong><strong>从捐款谈起</strong></p>
+<p align="left"><font style="font-family: 楷体,楷体_GB2312, SimKai">西迁壮举领风骚，母校声名日益高。学子常怀感恩意，纷纷捐款乐陶陶。——陈增来</font></p>
+<p align="left">2018年4月，我按照往年的惯例在母校西安交通大学校庆月给母校捐款1000元。不久我就收到了教育基金会发来的热情洋溢的感谢信和电子捐赠证书。</p>
+<p>2018年11月，我了解到了交大西迁博物馆建设基金捐赠项目，心情很不平静。西迁精神早已传为佳话，母校对我的培育之恩不能忘却！我当即决定捐赠，第二天就汇出5000元。紧接着，我收到了母校教育基金会的电话回访与致谢，并确认了所捐赠的小块墙砖在纪念墙的位置。</p>
+<p align="center"><img align="middle" border="0" hspace="0" src="../../_mediafile/news/2019/06/28/2e35cvccwx.jpg" width="600"/></p>
+<p align="center"><font style="font-family: 楷体,楷体_GB2312, SimKai">2012年毕业30周年回母校参加纪念活动（右一）</font></p>
+<p>我捐款几天后，觉得自己有义务和责任让全班的同学们都知道交大西迁博物馆建设基金捐赠项目，于是我把项目内容发送到了大学同学的微信群。后来，我们元件81班的热心人郭晓燕同学在群里发起了以班级名义捐款2万元给该项目的倡议。郭晓燕同学知道我已经参加了这个活动，建议我可以不必再捐款了。但我在群里首先表态：我是元件81班的一员，既然是以班级的名义捐款，那理所当然就该有我的一份。班上的李邓化同学早已是北京信息科技大学自动化学院院长、教授，而她的博士学位是在母校西安交大获得的，她单独捐了5000元，但仍满怀感恩之心表示愿意再参加班级的捐款。郭晓燕同学以她的热心、细心和人格魅力燃起大家热爱母校的热焰，她的倡议获得了班上同学的响应。张育龙同学随即在群里发起捐款接龙，26位同学纷纷报名参加。还值得一提是蔡田丰同学，他参加了班级捐款，还以个人的名义单独捐款1万元。就这样，2018年我实际上三次参与了为母校捐款的活动，总额6790元。</p>
+<p>毕业以来我多次向母校表达感恩之情。1996年母校100周年校庆之际我捐出1000元，当时我虽然担任厦华电子公司中周与电源变压器厂的厂长，但月薪才1250元。2012年回母校参加毕业30周年庆祝活动，就主动进行捐款。此后的好几个年头我陆续给母校捐款，略表感恩寸心。</p>
+<p align="center"><img align="middle" border="0" hspace="0" src="../../_mediafile/news/2019/06/28/3hklduscwx.jpg" width="600"/></p>
+<p align="center"><font style="font-family: 楷体,楷体_GB2312, SimKai">2012年毕业30周年部分师生合影（前排右一）</font></p>
+<p>2016年是我退休的第三个年头，而身在新加坡的儿子却要赴美攻读计算机软件方面的硕士学位。4月初我回母校参加校庆120周年和迁校60周年的纪念活动之前，家人曾问我能不能省点钱不去参加这个活动，因为儿子已经接到美国三所高校的录取通知，而他最钟情的竟然是学费最昂贵的私立大学：卡内基梅隆大学。要实现儿子的愿望，家里还面临着30多万人民币的资金缺口。但我还是决定回母校为母校庆祝120岁华诞。回校期间，我除了参加了校庆活动，还上门拜访了99岁高龄的恩师陈国光教授，并请袁战恒老师和徐友龙老师帮忙，联系并见到了所有曾经教过我的电子元件与材料专业的老师们，共叙师生情谊，以表感恩之心。回到厦门之后，我知道自己还有一件事没有做，那就是给母校捐款。由于囊中羞涩，这次我只给母校捐了1000元。</p>
+<p align="center"><strong>二、</strong><strong>交大求学之路</strong></p>
+<p>我是个生活简朴之人，但对交大母校情有独钟，这是事出有因。我进交大之前是个身在偏僻山区的知青，交大的录取和培养改变了我的人生轨迹。</p>
+<p>1974年我在福建仙游一中高中毕业之前，我的老师傅文庆先生就痛批“读书无用论”，并鼓励我自学高等数学和英语。毕业后我离开县城当了知青。在艰苦繁重的体力劳动之余，我坚持自学《高等数学》和英语，并得到数学教师陈笃修（原福建师大数学系讲师）、林仲金老师（后厦门大学物理学教授）和赵根榕老师（西北大学数学教授）的辅导和帮助。1977年恢复高考时，福建的高考试卷有微积分的加试题，全省只有三人作答，我是其中之一。虽然我的高考成绩优异，但是由于一些历史原因政审没有通过，导致名落孙山。半年后我参加1978年度的高考，数理化语政五门功课的成绩总分408分，英语加试名列前茅。为了帮助我解决政审问题，陈笃修老师亲笔给他高中时代的同学、当时在西安交大任教的李开泰老师写信，详细介绍我自学高等数学的情况和报考西安交大的愿望。李开泰老师惜才，当即找了前往福建招生的陈贵灿老师。这才使我在1978年的时候有幸跨入西安交大的校门。</p>
+<p align="center"><img align="middle" border="0" src="../../_mediafile/news/2019/07/01/2htw0ih1f3.jpg" width="600"/></p>
+<p>1978年的秋天我风尘仆仆来到西安交大，报到之后就迫不及待地去拜访西北大学的赵根榕老师和交大的李开泰老师、陈贵灿老师。赵老师为我写了一封简短的推荐信给交大数学系的游兆泳教授。陈贵灿老师则向我解释了为何录取到电子元件与材料专业：因为我的物理分数是97分，高于数学分数，但他同意并带我去找了校领导申请改回计算数学专业。（未果）</p>
+<p>在交大学习的日子里，我得到多位老师的认真辅导和生活方面的关怀。母校因材施教的做法也有利于人才的培养。下面仅举数例。</p>
+<p>李心平老师，我大二的班主任和电工课老师，只年长我一点。他身材魁梧，为人十分和气。记得当时班上只有班长有个计算器，大家都羡慕不已。我曾向李老师借用计算器，没想到他居然让我长期使用他自己的那个计算器，节约了我不少的计算时间。大一的暑假开始时，我在交大图书馆勤工俭学。赵根榕老师知道后要我放弃勤工俭学，抓紧暑假的时间学习。他说他可以提供经济资助，并让我去西北大学，在赵老师的指导下学完了北大数学力学系的《高等代数》教程。赵老师还指导我和他的子女使用英文版的书本，学习了英国人赫伯特编写的 <em>The structure of Technical English </em>（《科技英语的结构》），那是当时出国研究生学习的书籍。在大二的电工课里，我就用《高等代数》中的矩阵的初等变换对线性电路进行推导计算，得到李心平老师的肯定和好评。寒假开始时，李老师把他在交大的宿舍钥匙交给我，让我住在他的宿舍，以便有个更好的自学的环境。1980年的春节，李老师一大早就来找我，把我带到他家一起吃饺子过年。如今回想起，仍感念于李老师的平易近人和关爱学生。</p>
+<p align="center"><img align="middle" border="0" src="../../_mediafile/news/2019/07/01/4ftsh601ft.jpg" width="600"/></p>
+<p>记得刚进交大不久，学校对新生进行了一次数理化和英语的复试。我的英语复试成绩是全系第二。我和班长马逸群进入英语快班学习。大二结束前学校举行了一次全校性的英语竞赛，参赛人员由各班的英语教师推荐。我和马逸群同学双双进入竞赛的前100名，从而有机会进入由学校专门举办的英语口语班学习。在英语口语班里，我有机会获得施明德和周光父两位教授以及外籍英语老师在听力和口头表达方面长达一年半的训练，使我的英语学习时间比其他同学增加了一倍，上了一个新的台阶，为后来的职业发展打下良好的基础。</p>
+<p>在交大学习的过程中，我必须提到我的另一位恩师：电子元件与材料教研室主任陈国光教授。这位当年响应国家西迁号召，处理掉上海的住房、举家来到西安交大的名人，以治学严谨、学术高超而全国闻名。1958年他负责筹建交通大学（西安）无线电元件与材料专业和无线电元件与材料教研室，担任第一届教研室主任。60年代初曾组织全国钽电解电容器技术攻关，开始电解电容器理论和技术研究工作，由此西安交大成为全国第一也是唯一的电解电容器研究单位。陈老师给同学们上的那节《如何查找国外科技文献》的公开课让我受益一辈子，毕竟他是曾经留美的科技人员，经验丰富。1981年暑假，我和同学们一起去北京电子工业部的718厂和798厂实习，两厂的总工程师对陈国光教授的学识都是赞赏有加。</p>
+<p>1982年4月，我开始做自己的大学毕业设计。在挑选导师时，有的同学担心陈老师的严苛而回避，而我却大胆地挑选了他的设计课题，因此我的毕业设计全过程很荣幸地得到陈老师的指导。当时全班只有两名同学有此殊荣。我作为本科生，率先得到当时教研室里面为数不多的教授的指导，可以说是率先享受到了研究生的待遇。在陈老师的指导下，我从交大图书馆浩瀚的科技期刊和图书中查找了大量的资料，进行了分析整理，结合在北京两个电子厂的实习心得并融入专业知识，数次修改论文。经过论文答辩，陈老师给我的毕业论文打了优秀的成绩。陈老师与我之间深厚的师生情谊也是由毕业设计的指导开始萌芽。</p>
+<p align="center"><strong>三<em>、</em></strong><strong>与交大的未了情和职业道路</strong></p>
+<p>1982年8月，我毕业分配到电子工业部北京798厂后，单位的总工程师在我的个人档案里看到了陈国光教授的优良评语，出于对陈老师学术威望的高度敬仰和信赖，破例把我安排到厂技术科工作，并刻意把我作为未来的总工程师重点培养。我有幸在798厂的12个车间进行了为期一年的实习锻炼，并有机会阅读到所有的保密技术资料和配方，了解和掌握全厂的技术动态。后来我又负责全厂设计文件和工艺文件的标准化审查。在参加工作的前两年里，我作为项目负责人承担了电子工业部下达的制定CC52和CT52两个穿心瓷介电容器的部级标准的任务，以及国际多层叠片电容器发展最新动态的调研任务，并在各方面人士的大力协助下顺利完成。1985年，我还作为项目负责人承担了国家标准局下达的制定CC52和CT52两个穿心瓷介电容器的国家级标准的任务，并圆满成功，获得国家科技进步三等奖。与同期来厂报到的来自清华等其他高校的毕业生相比，交大的学生以务实、知识全面、专业对口发挥好，而获得各方面更多的好评。</p>
+<p align="center"><img align="middle" border="0" src="../../_mediafile/news/2019/06/28/3djcc5scwy.jpg"/></p>
+<p align="center"><font style="font-family: 楷体,楷体_GB2312, SimKai">陈增来校友在美国旧金山</font></p>
+<p>顺便一提的是我在798厂工作的前两年我还担任了厂里的英语教师，每周一下午为全厂的工程师上英语课，所用教材是北大英语系杜秉正教授编写的全国高等学校试用教材《英语》（1-3册）。虽然与我同时来厂报到的有英语专业的大学毕业生，但是在涉及电子元件和材料或电子方面的翻译方面往往抓襟见肘或差错频出。当时厂里还流行使用的一本绿色封面的《无线电英语读本》，该书有全部的英中文翻译和习题答案。厂里技术科的正负科长有意无意地用该书的问题让我翻译并解答习题，我都能予以迅速的回复。而他们对照书中给出的答案时，惊呼小陈太厉害了，不愧是西安交大的，不愧是陈教授的得意门生。我的一位上司（技术科的副科长，大学期间学法语的）也在我开讲的英语班里学习，后来在高工职称的英语考试中获得90多分的好成绩，顺利获得高工职称。其他通过工程师职称英语考试的也不少。</p>
+<p>在798厂工作期间，我还担任了IEC TC40 (国际电工委员会第40号技术委员会) 国内归口组织的联络秘书。要担任这个职务，必须是电子部重点厂的技术人员，还要具备全面的电子阻容元件的专业知识和过硬的英语表达能力，能够对来自国际的阻容行业的国际标准的制定或修正提出学术方面的意见或建议。我较好地履行了自己的职责，受到厂里总工和上级单位的好评。据说我离开单位后这个岗位的人选空缺了好几年。</p>
+<p align="center"><img align="middle" border="0" src="../../_mediafile/news/2019/06/28/1dqwak3cwz.jpg"/></p>
+<p align="center"><font style="font-family: 楷体,楷体_GB2312, SimKai">2016年建校120周年纪念（左一）</font></p>
+<p>1986年，我看到厦门特区蓬勃发展的局面，产生了回福建老家工作的念头。我写信给交大的陈国光老师，请他推荐。是陈老师向厦门厦华电子公司的张岳和副总写了推荐信。张副总原来是电子部景德镇4321厂的副厂长，虽然与陈老师未曾谋面，但久闻电解电容器专家陈教授的大名，他欣然表示接纳我，并让厦门市人事局在2007年发出了第一号调令，使我顺利调来厦门。我在厦华电子公司工作了13年，在那儿我入了党，评上了高工职称，当上了厦华中周与电源变压器厂的厂长，又去厦门大学学习获得了硕士学位，后来还担任厦华通用制造公司的副总和厦华三宝计算机公司的副总。在厦华公司公司工作的头几年，我在开发中高压铝电解电容器的新品工作中碰到一些实际问题也曾向陈老师请教，得到他的热心指导。在厦华电子公司的电容厂，我成功地开发出160伏和250伏的中高压铝电解电容器，直接用在厦华的彩电上，每年节约外汇几十万元。厦华电容厂原来的技术是从日本SHOEI公司引进购买的，而且仅限于100V以下的低压电解电容器。这家日本公司对我开发的160V和250V中高压电容器进行了严苛的长时间的高温负荷和高温无负荷试验后，非常满意，后来干脆下单采购打着他们的商标，而实际是在厦华电容厂开发并生产的中高压电容器，有的产品直接发货给东南亚国家。我还在铝电解电容器的老练工艺上做了重大的革新，首创使用恒流电源，一次性加电压并在老练的电容器上串联限流分压电阻的方法，大大提高了老练效率，减少老练过程的爆裂、提高了成品率，产生了明显的经济效益。我把该方法写成论文发表在《电子工艺技术》上，颇得同行好评。</p>
+<p>在厦华电容厂工作的几年时间，我用陈国光老师教我的查找国外科技文献的办法，去北京的国家专利馆和科技情报所查找大量的日本、英国和美国的相关专利，结合国内可以买到的化工材料，并应用了在交大学到的电工基础知识和电解电容器的专业知识，做了大量的试验，取得一手的数据，并且在国内最具影响的两个电子元件与材料的杂志上发表了许多论文，成为行业中颇受关注的技术人物。陈国光老师在他主编的工科重点教材《电解电容器》的前言中，客气地为该书提供最新技术进展资料的我鸣谢。该书的参考文献中还有多处出现署有本人名字的论文名称。由于该书也是行业公认的技术权威书籍，让我这个学生在行业里有了相当的知名度。我和陈老师之间非亲非故，而老师以其渊博的知识、过硬的英语、严谨的治学精神、甘当人梯的情怀和关心学生前程、始终将学生放在心上的美德，让我这个学生受益终生，由衷感激。</p>
+<p align="center"><img align="middle" border="0" hspace="0" src="../../_mediafile/news/2019/06/28/2jrljf0cwz.jpg" width="600"/></p>
+<p align="center"><font style="font-family: 楷体,楷体_GB2312, SimKai">2016年拜访恩师陈国光老师</font></p>
+<p>2016年11月5日，陈国光教授仙逝，享年99岁。第二天我获得此噩耗，悲痛不已，当即决定前往西安参加他的追悼会。从厦门直达兰州的快车Z126经过23小时的行驶于7日凌晨5时到达西安。我打车到达交大康桥宾馆时天还未亮。当天上午，我联系上了李能贵老师（曾经担任交大教务处处长，享受国务院政府津贴）。李老师陪我在交大商场附近寻找花店，制作悼念花篮，并以元件81班的名义书写了挽联，再送到陈老师家里的灵堂处。第二天我和众多的交大领导和老师、来自全国各地的陈国光老师的弟子前往西安殡仪馆。低沉的哀乐声中，大家瞻仰了陈老师安详的遗容。追悼会上，我作为1978级电子元件与材料这个班级的代表发言。我追忆他一生为电子元件事业所做的贡献，为培养电子高级人才所作的不懈努力。在谈及恩师对自己的栽培和知遇之恩时，我无法控制自己的感情，声泪俱下，多次哽咽，泣不成声。</p>
+<p>从交大毕业到工作退休的32年职业生涯中，我的前一半时间是从事技术工作，而后一半时间是从事管理工作。我离开厦华电子公司后在美资企业厦门赛特勒电子公司担任总经理，最后在港资企业奥得奥科技（厦门）有限公司担任总经理，直到退休。在公司的总经理岗位，必须对全公司人员的人事、采购、制造、质量管理、国内外销售、财务状况和安全无事故负起全面的责任，因而善于学习、接受新知识和高度的责任感，能为公司创造经济效益都是应具备的素质。而母校早已为我们打下了坚实的基础。</p>
+<p>顺便还是谈谈母校交大英语教学给学生带来的好处。最初学习英语的初衷是阅读英语科技资料，学习国外的先进技术。而交大的英语教学，包括每天早晨全校性广播的《New concept English》（新概念英语），开放的英语视听教室，英语竞赛以及后面为优秀学生举办的英语口语班，把我的英语水平提升到新的高度，从而为胜任各种工作和深造创造了有利条件。</p>
+<p>我离开厦华的技术岗位而到厦华电子公司的海外市场部从事电子产品的海外销售是因为1992年海外销售人员辞职下海而有的一个偶然的机会。我顺利地通过了有关的面试，并通过了国家对外经贸部举办的外销员资格考试。我在海外市场部的优异表现引起厦华公司总经理的重视，并破格提拔为厂长。后来厦华公司派12名厂长经理到厦门大学企业管理系研究生班学习，而要拿到硕士学位就必须通过国家教委命题的在职人员攻读硕士学位的英语考试。面对这个包括听力的英语六级难度的考试，我没参加专门的考前培训，直接报名参加该考试并像厦门大学英语教授预言的那样，顺利通过了考试，实际上获得了良好的成绩，从而为后面获得硕士学位扫除了障碍。有人羡慕在外资公司担任高管的工资待遇，而要获得外商老板的信任和任命，良好的英语口语和书面沟通都是必不可少的。即使是退休前几年我在总经理的岗位时与瑞典技术专家的技术合作洽谈，送电子产品到美国的UL试验室做认证试验，并与UL认证人员进行多方面的沟通，均需要过硬的专业知识和良好的英语能力。所以我对自己所有的英语老师不能忘怀，感谢母校交大给我打下的超过常人的英语基础。从某种意义上说，正是交大培养的能力为自己的职业生涯创造了优越的条件。</p>
+<p>作为向交大西迁博物馆建设基金项目的捐赠者之一，我把自己的亲身经历匆匆写出与大家分享。如果陈国光老师泉下有灵得知如今的交大为“西迁人”矗立起交大西迁博物馆，那么他这位西迁的交大老前辈也可以含笑告慰。所有当年响应国家号召离开繁华的上海而西迁来西安的师生都是最棒的！我谨向你们致以崇高的敬意。衷心希望西迁精神得以发扬光大，母校越办越好！</p>
+<p align="center"><strong>交大西迁博物馆建设基金</strong><strong>众筹募捐项目简介</strong></p>
+<p>为了更好地在新时代弘扬西迁精神，西安交通大学设立“助（筑）力西迁”——交大西迁博物馆建设基金，希望能够在最广大范围内汇聚西安交大全体校友师生、社会爱心人士及组织的爱心与力量，共同为交大西迁博物馆加油助力！</p>
+<p align="center"><img align="middle" border="0" hspace="0" src="../../_mediafile/news/2019/06/28/3ucsi1scwz.jpg" width="600"/></p>
+<p align="center"><img align="middle" border="0" hspace="0" src="../../_mediafile/news/2019/06/28/1i6w8xxcx0.jpg" width="600"/></p>
+<p align="center"><font style="font-family: 楷体,楷体_GB2312, SimKai">交大西迁博物馆溯源墙</font></p>
+<p align="center"><img align="middle" border="0" src="../../_mediafile/news/2019/06/28/223bb3qcx0.jpg"/></p>
+<p align="center"><font style="font-family: 楷体,楷体_GB2312, SimKai">扫一扫，了解捐赠详情</font></p></div></div>
+<div class="d_write2" style="text-align:right"><span class="d_write" style="width:550px;float:left;text-align:right">文字：</span><span style="width:150px;float:left;color:#00467f;text-align:left">陈增来</span></div>
+<div class="d_write2" style="text-align:right"><span class="d_write" style="width:550px;float:left;text-align:right">图片：</span><span style="width:150px;float:left;color:#00467f;text-align:left">陈增来 教育基金会</span></div>
+<div class="d_write2" style="text-align:right"><span class="d_write" style="width:550px;float:left;text-align:right">编辑：</span><span style="width:150px;float:left;color:#00467f;text-align:left">星  火</span></div>
+</div>
+</form>
+<br/>
+<div class="bdsharebuttonbox"><a class="bds_more" data-cmd="more" href="../../#"></a><a class="bds_qzone" data-cmd="qzone" href="../../#"></a><a class="bds_tsina" data-cmd="tsina" href="../../#"></a><a class="bds_tqq" data-cmd="tqq" href="../../#"></a><a class="bds_renren" data-cmd="renren" href="../../#"></a><a class="bds_weixin" data-cmd="weixin" href="../../#"></a></div>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdPic":"","bdStyle":"0","bdSize":"16"},"share":{},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+<script language="javascript">
+
+    function linkForImg42979(){
+    var images=document.getElementById("lmz_content").getElementsByTagName("img");
+    var imgLen=images.length;
+    var img_links = new Array(imgLen);　
+    
+    for(var i=0;i<imgLen;i++){
+        img_links[i] = repleaceLast42979(images[i].src);
+        var p = images[i].parentNode;
+        if(p.tagName=="a"||p.tagName=="A")
+            continue;
+        if(img_links[i].indexOf("/_mediafile/")!=-1&&CheckImgExists42979(img_links[i]))
+        {
+            images[i].onclick=function(){
+                var thepath = repleaceLast42979(this.src);
+                window.open(thepath,"n","");
+            };
+        }else{
+            images[i].onclick=function(){window.open(this.src,"n","");};
+        }
+        images[i].title="点击查看大图"
+        images[i].style.cursor="pointer";
+    }
+    }
+
+    //检查图片是否存在
+    function CheckImgExists42979(imgurl) {
+        var bea = true;
+        /**
+        $.ajax({
+            url: imgurl,
+            async: false,
+            statusCode: {
+                200: function() {
+                    bea = true;
+                }
+            }
+       });
+       */
+       return bea;
+    }
+    
+    function repleaceLast42979(imgurl)
+    {
+        if(imgurl==null||imgurl=="")
+            return imgurl;
+        var temp = imgurl.substring(0,imgurl.lastIndexOf("/"));
+        imgurl= imgurl.replace(temp,temp+"/source");
+        return imgurl;
+    }
+
+    linkForImg42979();
+</script>
+<!--#endeditable-->
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="l_split"> </div>
+<div 360chrome_form_autofill="2" class="d_relate">相关文章</div><!--#begineditable contype="" name="相关文章" action="" layout="" clone="0" namechanged="0" order="5" ispublic="0" tagname="相关文章" viewid="42982" stylesysid=""-->
+<span id="relateNewsjs42982js">读取内容中,请等待...</span>
+<script language="JavaScript">
+$(function(){
+
+	getRelateNewsjs42982js();
+	});
+	function getRelateNewsjs42982js() { 
+	    
+	    var pars = 'archive=0&viewid=42982&leaderchar=%C2%B7&titlelen=43&days=3&endimage=&clickshow=false&clickname=%E7%82%B9%E5%87%BB%EF%BC%9A+&&linkmode=_blank&mode=10&pageUrl=/system/_owners/news/_webprj/content.jsp&columnshow=false&wbnewsid=115914&owner=1025023737&limitdays=365&rowcount=10&columnstyle= columnstyle42982 &columnid=-1'; 
+	    var url = '/system/resource/code/relatenews.jsp?'+pars;  
+	        $.post(
+	            url,
+	            {
+	            	winstyle:"winstyle",
+	            	leaderfont:"leaderfont42982",
+	            	leaderimage:"",
+	            	linkmode:"target=_blank",
+	            	titlestylename:"titlestyle42982",
+	            	timestylename:"timestyle42982"
+		        }
+		        ,
+	            function(date)
+	            {
+		        	$("#relateNewsjs42982js").empty();
+		     	   	$("#relateNewsjs42982js").append(date);    
+	            }
+	        );
+	       
+	    }   
+
+	   
+</script>
+<!--#endeditable-->
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="l_split"> </div>
+<div 360chrome_form_autofill="2" class="d_pinglun"><!--#begineditable contype="" name="整合式评论" action="" layout="" clone="0" namechanged="0" order="6" ispublic="0" tagname="整合式评论" viewid="42983" stylesysid=""-->
+<table bgcolor="#CCCCCC" cellpadding="2" cellspacing="1">
+<tr>
+<td style="background-color:#ffffff;font-size: 9pt">
+<div class="input3style42983">
+<textarea id="respwbrespcontent" name="respwbrespcontent" oninput="calculatesize();" onpropertychange="calculatesize();" style="width:650px;height:180px"></textarea>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="background-color:#ffffff;font-size: 9pt">
+<div id="respmessage"></div>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#ffffff">
+<span id="contentsize" style="display:none">0/1000</span>
+<input id="respsoru" name="respsoru" type="hidden" value="0">
+<input id="respid" name="respid" type="hidden"/>
+<span id="respaccorpass" style="display:none;font-size:9pt">
+            用户名 <input id="respwbaccount" maxlength="20" name="respwbaccount" size="8" style="background-color: #FFFFFF;border: 1px solid #BAD3E6" type="text"/>
+            密码 <input id="respwbpassword" maxlength="20" name="respwbpassword" size="8" style="background-color: #FFFFFF;border: 1px solid #BAD3E6" type="password"/>
+</span>
+<input checked="" id="respcheck" name="respcheck" onclick="ischeckjs42983js();" type="checkbox" value="0"/><span style="font-size:9pt"> 匿名发布</span>
+<span style="font-size: 9pt">验证码</span><input autocomplete="off" id="resprand" maxlength="4" name="resprand" size="4" style="background-color: #FFFFFF;border: 1px solid #BAD3E6" type="text"/>
+<img align="absmiddle" border="0" id="resprandimage" src="../../system/resource/js/message/createimage.jsp"/>
+<span onclick="changeimagejs42983js()" style="font-size:9pt;cursor:hand">看不清楚,换张图片</span>
+<input onclick="submitrespjs42983js();return false;" src="../../AloeR/tj.gif" style="cursor:hand" type="image"/>
+</input></td>
+</tr>
+<tr>
+<td colspan="2" height="25" style="background-color:#ffffff;font-size: 9pt;padding-left:10px">
+        共<span id="resptotid">0</span>条评论    共<span id="resptotpage">1</span>页   当前第<span id="slidercontent">1</span>页
+    </td>
+</tr>
+<tr>
+<td colspan="2" style="background-color:#ffffff;font-size: 9pt">
+<div id="respslider" style="height:20px">
+</div></td>
+</tr>
+<tr>
+<td colspan="2" style="background-color:#ffffff;font-size: 9pt">
+<div id="respcontent"></div>
+</td>
+</tr>
+</table>
+<style>
+.respimageSliderjs42983js { margin:0;padding:0; height:20px; width:651px; background-image:url(../../system/resource/js/slider/scrollbg.gif);}
+.respimageBarjs42983js    { margin:0;padding:0; height:17px; width:10px; background-image:url(../../system/resource/js/slider/scrfloat.gif);}   
+</style>
+<script language="javascript" src="../../system/resource/js/slider/slider_extras.js"></script>
+<script language="javascript" src="../../_dwr/engine.js"></script>
+<script language="javascript" src="../../_dwr/util.js"></script>
+<script language="javascript" src="../../_dwr/interface/NewsRespUtil.js"></script>
+<script language="javascript" src="../../system/resource/js/base64.js"></script>
+<script>
+var isduplicatejs42983js=false;
+var pagesizejs42983js = 10;//每页多少条
+var totalsizejs42983js = 0;//共多少条  
+var totalpagejs42983js = 0;//共多少页
+var startpagejs42983js = 0;//当前页
+var pagejs42983js = startpagejs42983js+1; //显示的页数
+function initsizejs42983js(data)
+{
+     if(data)
+     {
+        totalsizejs42983js=data;
+        totalpagejs42983js = parseInt(totalsizejs42983js%pagesizejs42983js==0?totalsizejs42983js/pagesizejs42983js:(totalsizejs42983js/pagesizejs42983js+1));
+        $("#resptotid").empty();
+        $("#respmessage").empty();
+        $("#resptotid").append(data);
+        $("#resptotpage").append(totalpagejs42983js);
+        showpagejs42983js(startpagejs42983js); //初始化新闻评论
+     }
+}
+function inittotalsizejs42983js()
+{
+     NewsRespUtil.getTotalpage("1025023737","115914","wbnews",initsizejs42983js);  
+}
+//显示评论列表主方法
+function showpagejs42983js(start)
+{
+    if(startpagejs42983js>=0)
+    {        
+        pagejs42983js = parseInt(start/pagesizejs42983js)+1;
+    }
+    NewsRespUtil.getResp("1025023737","115914",start,pagesizejs42983js,"wbnews",buildresultjs42983js);       
+}
+//取消回复
+function cancelrespjs42983js()
+{
+   $("#respmessage").empty();
+   $("#respsoru").val("0");
+   $("#respid").val(""); 
+}
+//回复
+function repjs42983js(id,top)
+{
+	$("#respmessage").empty();
+    $("#respmessage").append("<span style='color:#ff8000;font-size:10pt;height:30px;padding-top:expression(15);padding-bottom:expression(15);'>回复["+top+"]楼的评论&nbsp;&nbsp;&nbsp;&nbsp;<a href='javascript:' onclick='cancelrespjs42983js()'>取消</a></span>");
+    $("#respsoru").val("1");
+    $("#respid").val(id);
+    $("#respwbrespcontent").focus();   
+}
+//回复的处理结果
+function represultjs42983js(data)
+{
+    if(data=="0"  || data=="-12")
+    {
+        $("#respwbaccount").val("");
+        $("#respwbpassword").val("");
+        $("#respwbrespcontent").val("");
+        $("#resprand").val("");
+        $("#contentsize").text("0/1000");
+        $("#resprandimage").attr("src","/system/resource/js/message/createimage.jsp?randnum="+Math.random());
+        //$("respmessage").innerHTML="<span style='font-size:9pt;color:#ff8000;height:30px;padding-top:expression(15);padding-bottom:expression(15);'>回复评论成功</span>"; 
+        var isflag = "0";
+        if(data=="-12")
+        {
+            alert("回复评论成功,您的內容中含有敏感字,请等待后台审核");
+        }else
+        {
+            if(isflag=="1")
+            {
+                alert("回复评论成功");
+            }else
+            {
+                alert("回复评论成功,请等待后台审核");
+            }
+        }
+        
+        NewsRespUtil.getTotalpage("1025023737","115914","wbnews",reloadjs42983js);           
+    }else
+    {
+        buildResultStrjs42983js(data);
+    }
+}
+
+//创建评论表格滚动条
+function buildresultjs42983js(data)
+{
+    if(data)
+    {
+        var result = "<table align='center' width='610' >";
+        for(var i=0;i<data.length;i++)
+        {   
+            result += "<tr>";
+            result += "    <td style='background-color:#ffffff;font-size: 9pt'>";
+            result += "         <font  color=#326FA8>"+ data[i].wbaccount+ "  ["+data[i].wbip+"]"+  "</font>";
+            result += "         "+ data[i].wbrespdate;
+            result += "    </td>";  
+            result += "    <td style='background-color:#ffffff;font-size: 9pt' rowspan='2' align='center' nowrap>";
+            result += "         <span style='color:blue;cursor:pointer;text-decoration:underline' onclick='repjs42983js("+data[i].wbrespid+","+ data[i].wbtop +")'>[回复]</span>"; 
+            result += "         <div style='font-size:20pt;color:gray'>"+ data[i].wbtop +"</div>";
+            result += "    </td>";      
+            result += "</tr>";
+            
+            result += "<tr>";
+            result += "    <td style='background-color:#ffffff;font-size: 9pt;word-break:break-all;' >";
+            result += "          " + data[i].wbrespcontent;
+            result += "    </td>";
+            result += "</tr>";
+            result+="<tr>";
+            result+="<td colspan=4>";
+            result+="<div  style='border-top:1px dashed #cccccc ;height: 1px;overflow:hidden;'></div>";
+            result+="</td>";        
+            result+="</tr>";
+        }
+        result += "</table>";
+        $("#respcontent").empty();
+        $("#respcontent").append(result);
+        $("#resptotpage").empty();
+        $("#resptotpage").append(totalpagejs42983js);
+        var isreload = "0";
+        var sliderImage1 = new neverModules.modules.slider(
+        {
+        targetId: "respslider",
+        sliderCss: "respimageSliderjs42983js",
+        barCss: "respimageBarjs42983js",
+        min: 1,
+        max: totalpagejs42983js,
+        hints: ""
+        });
+        sliderImage1.onstart  = function () 
+        {
+            isreload = "1" ;
+        }
+        sliderImage1.onchange = function () 
+        {
+            $("#slidercontent").empty();
+            $("#slidercontent").append(sliderImage1.getValue()==0?1:sliderImage1.getValue());       
+        };
+        sliderImage1.onend = function () 
+        {
+            if(isreload=="1")
+            {
+                if(sliderImage1.getValue()!=pagejs42983js && sliderImage1.getValue()!=0)
+                {    
+                    showpagejs42983js((parseInt(sliderImage1.getValue())-1)*pagesizejs42983js);
+                    $("#respmessage").empty();
+                }
+            }
+        }
+        sliderImage1.donclick  = function ()
+        {              
+            if(sliderImage1.getValue()!=pagejs42983js && sliderImage1.getValue()!=0)
+            { 
+                showpagejs42983js((parseInt(sliderImage1.getValue())-1)*pagesizejs42983js);
+                $("#respmessage").empty();
+            }
+        }
+        sliderImage1.create();
+        sliderImage1.setValue(pagejs42983js);
+    }
+    else
+    {
+    	$("#respcontent").empty();
+        $("#respcontent").append("<span style='font-size:9pt;height:30px;padding-top:expression(15);padding-bottom:expression(15);'>该新闻还没有评论</span>");
+
+    }
+}
+//评论回复完成后，重新读取计算评论的表格
+function reloadjs42983js(data)
+{
+    totalsizejs42983js = data;
+    totalpagejs42983js = parseInt(totalsizejs42983js%pagesizejs42983js==0?totalsizejs42983js/pagesizejs42983js:(totalsizejs42983js/pagesizejs42983js+1));
+    $("#resptotid").empty();
+    $("#resptotpage").empty();
+    $("#resptotid").append(totalsizejs42983js);
+    $("#resptotpage").append(totalpagejs42983js);
+    showpagejs42983js(0);
+    cancelrespjs42983js();
+}
+function buildResultStrjs42983js(data)
+{
+    if(data=="-2")
+    {
+        alert("没有这个用户或用户被禁用");
+    }
+     else if(data=="-3")
+    {
+        alert("用户名或密码错误");
+    }    
+    else if(data=="-4")
+    {
+        alert("验证码错误");
+    }else if(data=="-9")
+    {
+        alert("请放置在新闻内容页");
+    }   
+    else if(data=="-11")
+    {
+        alert("评论内容过长");
+    }  
+    else
+    {
+        alert("未知错误");
+    }
+}
+
+//添加评论后的处理方法
+function savejs42983js(data)
+{ 
+    
+    if(data=="0" || data=="-12")
+    {
+        $("#respwbaccount").val("");
+        $("#respwbpassword").val("");
+        $("#respwbrespcontent").val("");
+        $("#resprand").val("");
+        $("#contentsize").empty();
+        $("#contentsize").append("0/1000");
+        $("#resprandimage").attr("src","/system/resource/js/message/createimage.jsp?randnum="+Math.random());
+        var isflag = "0";
+        if(data=="-12")
+        {
+            alert("回复评论成功,您的內容中含有敏感字,请等待后台审核");
+        }
+        else
+        {
+            if(isflag=="1")
+            {
+                alert("添加评论成功");
+            }else
+            {
+                alert("评论添加成功，等待后台审核");
+            }
+        }
+        NewsRespUtil.getTotalpage("1025023737","115914","wbnews",reloadjs42983js);
+        
+    }
+    else
+    {
+        buildResultStrjs42983js(data);
+    }
+}
+String.prototype.trim　= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+} 
+
+//提交评论
+function submitrespjs42983js(id)
+{
+    var anonymous = "1";
+    if($("#respcheck")==null || !$("#respcheck").attr("checked"))
+    {
+        
+        if($("#respwbaccount").val()=="" || $("#respwbpassword").val()=="")
+        {    
+             alert("请输入用户名或密码");
+             return;
+        }
+    }
+    else
+    {
+        anonymous = "0";
+    }
+    if(($("#respwbrespcontent").val()).trim()=="")
+    {
+        alert("请输入评论内容");
+        $("#respwbrespcontent").focus();
+        return;
+    }
+    if(($("#respwbrespcontent").val()).length>1000)
+    {
+        alert("评论内容内容小于1000个字符");
+        $("#respwbrespcontent").focus();
+        return;
+    }
+    
+    if($("#resprand").val()=="")
+    {
+        alert("请输入验证码");
+        $("#resprand").focus();
+        return;
+    }
+    if($("#respsoru").val()=="0")
+    {
+        NewsRespUtil.save("1025023737","1123","115914",anonymous,$("#respwbaccount").val(),$("#respwbpassword").val(),base64Contentjs42983js($("#respwbrespcontent").val()),$("#resprand").val(),'0',false,savejs42983js);
+    }
+    else
+    {
+        NewsRespUtil.update("1025023737","1123","115914",anonymous,$("#respwbaccount").val(),$("#respwbpassword").val(),base64Contentjs42983js($("#respwbrespcontent").val()),$("#resprand").val(),$("#respid").val(),'0',represultjs42983js);
+    }
+       
+}
+//内容编码
+function base64Contentjs42983js(respcontent)
+{
+	return new Base64().encode(respcontent);	
+}
+
+//是否匿名
+function ischeckjs42983js()
+{
+    if(!$("#respcheck").attr("checked"))
+    {
+        $("#respaccorpass").css("display","inline");
+        $("#respwbaccount").val("");
+        $("#respwbpassword").val("");
+    }
+    else
+    {
+        $("#respwbaccount").val("");
+        $("#respwbpassword").val("");
+        $("#respaccorpass").hide();
+    }
+}
+function changeimagejs42983js()
+{	
+    $("#resprandimage").attr("src","/system/resource/js/message/createimage.jsp?randnum="+Math.random());
+}
+function calculatesize()
+{
+    var c = ($("#respwbrespcontent").val()).length;
+    $("#contentsize").empty();
+    $("#contentsize").append( c+"/1000");
+    
+}
+
+function  addEventjs42983js(elm, evType, fn, useCapture) { 
+if (elm.addEventListener) {  
+elm.addEventListener(evType, fn, useCapture);   
+return true; 
+} 
+else if (elm.attachEvent) { 
+var r = elm.attachEvent('on' + evType, fn); 
+return r; 
+}
+else {  
+elm['on' + evType] = fn;
+} 
+}
+addEventjs42983js(window,"load",inittotalsizejs42983js,true);
+</script><!--#endeditable--> </div>
+<div 360chrome_form_autofill="2" class="clear"> </div></div>
+<div 360chrome_form_autofill="2" class="i_right">
+<div 360chrome_form_autofill="2" class="i_search"><!--#begineditable contype="" name="全文检索" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="全文检索" viewid="65621" stylesysid=""--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode65621').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword65621").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword65621").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword65621").value = base64.encode(document.getElementById("lucenenewssearchkeyword65621").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode65621"));
+        return true;
+    } 
+</script>
+<form action="../../ssjgy.jsp?wbtreeid=1123" id="au7a" method="post" name="au7a" onsubmit="return _nl_ys_check()" style="display: inline">
+<input id="lucenenewssearchkeyword65621" name="lucenenewssearchkeyword" type="hidden" value=""/><input id="_lucenesearchtype65621" name="_lucenesearchtype" type="hidden" value="1"/><input id="searchScope65621" name="searchScope" type="hidden" value="0"/>
+<div>
+<table border="0" cellpadding="0" cellspacing="1">
+<tr>
+<td height="20px">
+<input id="showkeycode65621" name="showkeycode" style="height:20px;width:136px"/>
+</td>
+<td width="5px"> </td>
+<td align="absmiddle" height="1" nowrap="nowrap">
+<input align="absmiddle" src="../../i_search_btn.jpg" style="cursor: hand" type="image" valign="bottom"/>
+</td>
+<td width="5px"> </td>
+<td align="absmiddle" class="i_search_left" nowrap="nowrap"><a "arial";="" background:="" center="" href="../../index/gjjs.htm" no-repeat="" style="font-family:" top;="" url(i_body_bg.jpg)="" 宋体",="">高级搜索</a></td>
+</tr>
+</table>
+</div>
+</form>
+<script language="javascript" src="../../system/resource/js/formfunc.js"></script>
+<!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="l_redian"><span class="l_redian">信息预告</span> <a 360chrome_form_autofill="2" class="l_redian_more" href="../../xxyg.htm">更多</a>
+<div 360chrome_form_autofill="2" class="clear"> </div></div>
+<div 360chrome_form_autofill="2" class="l_redian_con"><!--#begineditable contype="" name="信息预告" action="" layout="" clone="0" namechanged="0" order="7" ispublic="0" tagname="信息预告" viewid="42980" stylesysid=""--> <div class="l_redian_li"><a class="i_li" href="../1017/116024.htm" title="第三届“一带一路”全球健康国际研讨会暨丝绸之路大学联盟2019全球健康论坛第二轮会议通知">·第三届“一带一路”全球健康国际研...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/114980.htm" title="西安交大VEX机器人夏令营报名啦！">·西安交大VEX机器人夏令营报名啦！</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/114752.htm" title="“青马问道”第十一讲预告">·“青马问道”第十一讲预告</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/114506.htm" title="西安交通大学2019年教师授课竞赛复赛即将开幕">·西安交通大学2019年教师授课竞赛复...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/113998.htm" title="新媒体学院学术工作坊第二十八期：马克思恩格斯传播思想研究">·新媒体学院学术工作坊第二十八期：...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/113982.htm" title="讲座预告：北斗论坛第二十四讲">·讲座预告：北斗论坛第二十四讲</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/113415.htm" title="讲座预告：青马问道第十期">·讲座预告：青马问道第十期</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/113361.htm" title="新媒体学院学术工作坊第二十七期： “线索民族志”及其在传播过程性研究中的应用">·新媒体学院学术工作坊第二十七期： ...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/113334.htm" title='关于举办"创新港建设足迹摄影作品展"的通知'>·关于举办"创新港建设足迹摄影作品展...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../1017/112737.htm" title="第三届“一带一路”全球健康国际研讨会暨丝绸之路大学联盟2019全球健康论坛通知">·第三届“一带一路”全球健康国际研...</a></div>
+<script>_showDynClickBatch(['dynclicks_u8_116024','dynclicks_u8_114980','dynclicks_u8_114752','dynclicks_u8_114506','dynclicks_u8_113998','dynclicks_u8_113982','dynclicks_u8_113415','dynclicks_u8_113361','dynclicks_u8_113334','dynclicks_u8_112737'],[116024,114980,114752,114506,113998,113982,113415,113361,113334,112737],"wbnews", 1025023737)</script>
+<!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="l_lanmu"><span class="l_redian">栏目新闻</span>  
+<div 360chrome_form_autofill="2" class="clear"> </div></div>
+<div 360chrome_form_autofill="2" class="l_redian_con"><!--#begineditable contype="" name="栏目新闻" action="" layout="" clone="0" namechanged="0" order="8" ispublic="0" tagname="栏目新闻" viewid="42981" stylesysid=""--> <div class="l_redian_li"><a class="l_lanmu_li" href="../1002/116328.htm" title="【捐赠故事】向西向远方，挑战网一直在路上">·【捐赠故事】向西向远方，挑战网一...</a></div></div></div></div></body></html>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/116316.htm" title="西安交大召开党委常委会 传达习近平总书记重要讲话精神 审议师德师风文件等">·西安交大召开党委常委会 传达习近平...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/116295.htm" title="【初心·使命】庆祝建党98周年“两优一先”——先进基层党组织">·【初心·使命】庆祝建党98周年“两优...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/116296.htm" title="西安交大专家学者为对口支援高校——新疆财经大学举办系列报告会">·西安交大专家学者为对口支援高校—...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/116293.htm" title="【捐赠故事】我的实业报国梦">·【捐赠故事】我的实业报国梦</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/116280.htm" title="西安交大第十届中国传统文化C9暑期学校开班">·西安交大第十届中国传统文化C9暑期...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/116252.htm" title="专家学者谈新工科与一流本科建设（一）">·专家学者谈新工科与一流本科建设（一）</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/116246.htm" title="【进军创新港】创新港信息化建设先锋队扎根一线 助力入驻单位二次装修高效推进">·【进军创新港】创新港信息化建设先...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/116242.htm" title="2019年“思源物业杯”教职工游泳比赛成功举办">·2019年“思源物业杯”教职工游泳比...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../1002/116233.htm" title="省委统战部莅校开展“不忘初心、牢记使命”主题党日活动">·省委统战部莅校开展“不忘初心、牢...</a></div>
+<script>_showDynClickBatch(['dynclicks_u9_116328','dynclicks_u9_116316','dynclicks_u9_116295','dynclicks_u9_116296','dynclicks_u9_116293','dynclicks_u9_116280','dynclicks_u9_116252','dynclicks_u9_116246','dynclicks_u9_116242','dynclicks_u9_116233'],[116328,116316,116295,116296,116293,116280,116252,116246,116242,116233],"wbnews", 1025023737)</script>
+<!--#endeditable-->
+<div 360chrome_form_autofill="2" class="i_weibo" id="div_weibo_span"><span class="i_weibo_now" id="span_weibo_1" onmousemove="switchWeibo(1);"><img 360chrome_form_autofill="2" align="absMiddle" src="../../AloeR/i_sina.jpg"/> 新浪微博</span> <span class="i_weibo_split"> </span> <span class="i_weibo" id="span_weibo_2" onmousemove="switchWeibo(2);"><img 360chrome_form_autofill="2" align="absMiddle" src="../../AloeR/i_toutiao.png"/> 今日头条</span> <span class="i_weibo_split"> </span> <span class="i_weibo" id="span_weibo_3" onmousemove="switchWeibo(3);"><img 360chrome_form_autofill="2" align="absMiddle" src="../../AloeR/i_weixin.jpg"/> 微信</span> </div>
+<div 360chrome_form_autofill="2" class="i_weibo_con" id="div_weibo_div">
+<div 360chrome_form_autofill="2" class="i_weibo_detail" id="div_weibo_1" style="display: block"><img 360chrome_form_autofill="2" src="../../pic/weibo_ewm.png"/> </div>
+<div 360chrome_form_autofill="2" class="i_weibo_detail" id="div_weibo_2" style="display: none"><!--#begineditable contype="" name="人人网" action="" layout="" clone="0" namechanged="0" order="9" ispublic="0" tagname="人人网" viewid="43083" stylesysid=""-->
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><a href="https://www.toutiao.com/c/user/6223492102/#mid=6223492102" onclick="_addDynClicks('wbimage',1025023737,11002)" target="_blank"><img border="0" height="190" hspace="3" src="../../toutiao_ewm.png" vspace="2" width="266"/></a></td>
+</tr>
+</table><!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="i_weibo_detail" id="div_weibo_3" style="display: none"><!--#begineditable contype="" name="微信" action="" layout="" clone="0" namechanged="0" order="10" ispublic="0" tagname="微信" viewid="43084" stylesysid=""-->
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img border="0" height="190" hspace="3" src="../../02.jpg" vspace="2" width="266"/></td>
+</tr>
+</table><!--#endeditable--></div>
+<div 360chrome_form_autofill="2" class="clear"> </div></div>
+<div 360chrome_form_autofill="2" class="clear"> </div>
+<div 360chrome_form_autofill="2" class="clear"> </div><iframe class="bdselect_share_bg" frameborder="0" id="bdSharePopup_selectshare1536821604004bg" style="display: none"></iframe>
+<div class="bdselect_share_box" data-bd-bind="1536821604004" id="bdSharePopup_selectshare1536821604004box" share-type="selectshare" style="display: none" tangram_guid="TANGRAM_4">
+<div class="selectshare-mod-triangle">
+<div class="triangle-border"></div>
+<div class="triangle-inset"></div></div>
+<div class="bdselect_share_head"><span>分享到</span><a class="bdselect_share_dialog_search" href="http://www.baidu.com/s?wd=&amp;tn=SE_hldp08010_vurs2xrp" target="_blank"><i class="bdselect_share_dialog_search_i"></i><span class="bdselect_share_dialog_search_span">百度一下</span></a><a class="bdselect_share_dialog_close" tangram_guid="TANGRAM_3"></a></div>
+<div class="bdselect_share_content">
+<ul class="bdselect_share_list bdshare-button-style0-16">
+<div class="bdselect_share_partners"></div><a class="bds_more" data-cmd="more" href="../../#"></a></ul></div></div>
+<div class="sr-bdimgshare sr-bdimgshare-list sr-bdimgshare-16 sr-bdimgshare-black" data-bd-bind="1536821604009" id="bdimgshare_1536821604010" style="font-size: 12px;height: 36px;display: none;line-height: 26px" tangram_guid="TANGRAM_37">
+<div class="bdimgshare-bg"></div>
+<div class="bdimgshare-content bdsharebuttonbox bdshare-button-style0-16"><label class="bdimgshare-lbl">分享到：</label><a class="bds_qzone" data-cmd="qzone" hidefocus="" href="../../#" onclick="return false;"></a><a class="bds_tsina" data-cmd="tsina" hidefocus="" href="../../#" onclick="return false;"></a><a class="bds_tqq" data-cmd="tqq" hidefocus="" href="../../#" onclick="return false;"></a><a class="bds_renren" data-cmd="renren" hidefocus="" href="../../#" onclick="return false;"></a><a class="bds_weixin" data-cmd="weixin" hidefocus="" href="../../#" onclick="return false;"></a><a class="bds_more" data-cmd="more" hidefocus="" href="../../#" onclick="return false;"></a></div></div><iframe class="bdselect_share_bg" frameborder="0" id="bdSharePopup_selectshare1515463313002bg" style="display: none" tangram_guid="TANGRAM_41"></iframe>
+<div 360chrome_form_autofill="2" class="bdselect_share_box" data-bd-bind="1515463313002" id="bdSharePopup_selectshare1515463313002box" share-type="selectshare" style="display: none" tangram_guid="TANGRAM_4">
+<div 360chrome_form_autofill="2" class="selectshare-mod-triangle">
+<div 360chrome_form_autofill="2" class="triangle-border"></div>
+<div 360chrome_form_autofill="2" class="triangle-inset"></div></div>
+<div 360chrome_form_autofill="2" class="bdselect_share_head"><span>分享到</span><a 360chrome_form_autofill="2" class="bdselect_share_dialog_search" href="http://www.baidu.com/s?wd=&amp;tn=SE_hldp08010_vurs2xrp" target="_blank"><i class="bdselect_share_dialog_search_i"></i><span class="bdselect_share_dialog_search_span">百度一下</span></a><a 360chrome_form_autofill="2" class="bdselect_share_dialog_close" tangram_guid="TANGRAM_3"></a></div>
+<div 360chrome_form_autofill="2" class="bdselect_share_content">
+<ul class="bdselect_share_list bdshare-button-style0-16">
+<div 360chrome_form_autofill="2" class="bdselect_share_partners"><a class="bds_qzone" data-cmd="qzone" href="../../sys_e_content.jsp#"></a><a class="bds_tsina" data-cmd="tsina" href="../../sys_e_content.jsp#"></a><a class="bds_tqq" data-cmd="tqq" href="../../sys_e_content.jsp#"></a><a class="bds_renren" data-cmd="renren" href="../../sys_e_content.jsp#"></a><a class="bds_weixin" data-cmd="weixin" href="../../sys_e_content.jsp#"></a></div><a 360chrome_form_autofill="2" class="bds_more" data-cmd="more" href="../../sys_e_content.jsp#"></a></ul></div></div>
+<div 360chrome_form_autofill="2" class="sr-bdimgshare sr-bdimgshare-list sr-bdimgshare-16 sr-bdimgshare-black" data-bd-bind="1515463313005" id="bdimgshare_1515463313005" style="font-size: 12px;height: 36px;display: none;line-height: 26px" tangram_guid="TANGRAM_39">
+<div 360chrome_form_autofill="2" class="bdimgshare-bg"></div>
+<div 360chrome_form_autofill="2" class="bdimgshare-content bdsharebuttonbox bdshare-button-style0-16"><label class="bdimgshare-lbl">分享到：</label><a 360chrome_form_autofill="2" class="bds_qzone" data-cmd="qzone" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a><a 360chrome_form_autofill="2" class="bds_tsina" data-cmd="tsina" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a><a 360chrome_form_autofill="2" class="bds_tqq" data-cmd="tqq" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a><a 360chrome_form_autofill="2" class="bds_renren" data-cmd="renren" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a><a 360chrome_form_autofill="2" class="bds_weixin" data-cmd="weixin" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a><a 360chrome_form_autofill="2" class="bds_more" data-cmd="more" hidefocus="" href="../../sys_e_content.jsp#" onclick="return false;"></a></div></div>
+<div 360chrome_form_autofill="2" class="split"> </div>
+<div 360chrome_form_autofill="2" class="i_bottom"><!--#begineditable contype="" name="底部链接" action="" layout="" clone="0" namechanged="0" order="11" ispublic="0" tagname="底部链接" viewid="42984" stylesysid=""--><script language="javascript" src="../../system/resource/js/openlink.js"></script> <a class="i_bottom" href="http://202.117.3.237:8080/system/contribute/login.jsp">在线投稿</a>
+<strong>|</strong>
+<a class="i_bottom" href="../../lxwm.htm">联系我们</a>
+<strong>|</strong>
+<a class="i_bottom" href="http://202.117.3.24:8080/system/login.jsp">管理登陆</a>
+<strong>|</strong>
+<a class="i_bottom" href="http://xwlc1.xjtu.edu.cn/">新闻流程</a>
+<!--#endeditable--><br/> <!--#begineditable contype="" name="版权" action="" layout="" clone="0" namechanged="0" order="12" ispublic="0" tagname="版权" viewid="42985" stylesysid=""-->版权所有：西安交通大学党委宣传部 网站建设：<a class="design" href="http://nic.xjtu.edu.cn">网络信息中心</a><br/>陕ICP备06008037号 网络信息中心提供网络带宽 <!--#endeditable--></div>
+

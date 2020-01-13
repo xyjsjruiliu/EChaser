@@ -1,0 +1,2 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/><meta content="ie=edge" http-equiv="X-UA-Compatible"/><link href="//s3a.pstatp.com/toutiao/resource/ntoutiao_web/static/image/favicon_5995b44.ico" rel="shortcut icon" type="image/x-icon"/><title>今日头条</title></head><body><p></p></body></html>

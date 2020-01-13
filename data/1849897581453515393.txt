@@ -1,0 +1,596 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html><head><title>西安交通大学网上展馆</title><meta content="西安交通大学网上展馆" name="keywords"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><link href="css/style.css" rel="stylesheet" type="text/css"/><script src="js/jquery.min.js" type="text/javascript"></script><script src="js/ddsmoothmenu.js" type="text/javascript"></script><script src="js/koala.min.js" type="text/javascript"></script><script src="js/terminator.min.js" type="text/javascript"></script><script>
+			
+
+			function setTab(name, cursel, n) {
+
+				for(i = 1; i <= n; i++) {
+
+					var menu = document.getElementById(name + i);
+
+					var con = document.getElementById("con_" + name + "_" + i);
+
+					menu.className = i == cursel ? "hover" : "";
+
+					con.style.display = i == cursel ? "block" : "none";
+
+				}
+
+			}
+ 
+			
+		</script>
+<!--Announced by Visual SiteBuilder 9-->
+<link href="_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230697547545257544003060005 -->
+<link href="index.vsb.css" rel="stylesheet" type="text/css"/>
+<script src="/system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1431359365)</script>
+</link></head>
+<body>
+<div id="wrapper"><!--head start-->
+<div class="topbg">
+<div class="head">
+<div class="head_top">
+<div class="head_tm clearfix"><span class="logo fl"><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="LOGO" viewid="198456" contentviewid="" contype="" stylesysid="" layout="" action="" name="LOGO"-->
+<img src="images/logo.png"/><!--#endeditable--></span><span class="sousuo fr"><!--#begineditable clone="0" namechanged="0" order="1" ispublic="0" tagname="图片列表-搜素按钮" viewid="198457" contentviewid="" contype="" stylesysid="" layout="" action="" name="图片列表-搜素按钮"--> <script language="javascript" src="/system/resource/js/dynclicks.js"></script> <a href="ssjgy.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1017" onclick='_addDynClicks("wbimage", 1431359365, 40777)' target="_blank">
+<img src="images/ssan.png"/>
+</a>
+<!--#endeditable--></span></div></div></div><!--nav开始-->
+<div class="nav">
+<div class="ddsmoothmenu" id="smoothmenu1"><!--#begineditable clone="0" namechanged="0" order="2" ispublic="0" tagname="网站导航" viewid="198458" contentviewid="" contype="" stylesysid="" layout="" action="" name="网站导航"--><ul>
+<li>
+<a class="cur" href="index.htm">首页</a>
+</li>
+<li>
+<a href="xwgg.htm">新闻公告</a>
+</li>
+<li>
+<a href="http://wszg.xjtu.edu.cn/tour/tour.html">虚拟展馆</a>
+</li>
+<li>
+<a href="ztzl.htm">主题展览</a>
+</li>
+<li>
+<a href="xssj.htm">校史书籍</a>
+</li>
+<li>
+<a href="xyyz1/xhbhm.htm">校园遗珍</a>
+</li>
+<li>
+<a href="xsyy.htm">校史影音</a>
+</li>
+<li>
+<a href="cgyy1/bwgyy.htm">参观预约</a>
+</li>
+<li>
+<a href="gzjp.htm">馆藏精品</a>
+</li>
+</ul><!--#endeditable--></div><script type="text/javascript">
+					ddsmoothmenu.init({
+						mainmenuid: "smoothmenu1", //menu DIV id
+						orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+						classname: 'ddsmoothmenu', //class added to menu's outer DIV
+						//customtheme: ["#1c5a80", "#18374a"],
+						contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+					})
+				</script></div></div><!--head end--><!--banner start-->
+<div class="banner"><!-- 代码 开始 -->
+<div class="focus2" id="fsD2"><!--#begineditable clone="0" namechanged="0" order="3" ispublic="0" tagname="图片列表-banner" viewid="198459" contentviewid="" contype="" stylesysid="" layout="" action="" name="图片列表-banner"--> <div class="fPic2" id="D2pic1">
+<div class="fcon2" style="display: none;">
+<img src="images/18/04/04/5mu7g7pjic/01.JPG" style="opacity: 1"/>
+</div>
+<div class="fcon2" style="display: none;">
+<img src="images/18/04/04/5mu7g7pjic/02.jpg" style="opacity: 1"/>
+</div>
+<div class="fcon2" style="display: none;">
+<img src="images/qinqiang1.jpg" style="opacity: 1"/>
+</div>
+<div class="fcon2" style="display: none;">
+<img src="images/bwg1.jpg" style="opacity: 1"/>
+</div>
+</div>
+<div class="fbg2">
+<div class="D2fBt" id="D2fBt">
+<a class="current" hidefocus="true" href="javascript:void(0)" target="_self"><i>1</i></a>
+<a hidefocus="true" href="javascript:void(0)" target="_self"><i>2</i></a>
+<a hidefocus="true" href="javascript:void(0)" target="_self"><i>3</i></a>
+<a hidefocus="true" href="javascript:void(0)" target="_self"><i>4</i></a>
+</div>
+</div><!--#endeditable--><span class="prev"></span><span class="next"></span></div><script type="text/javascript">
+					Qfast.add('widgets');
+					Qfast(false, 'widgets', function() {
+						K.tabs({
+							id: 'fsD2', //焦点图包裹id  
+							conId: "D2pic1", //** 大图域包裹id  
+							tabId: "D2fBt",
+							tabTn: "a",
+							conCn: '.fcon2', //** 大图域配置class       
+							auto: 1, //自动播放 1或0
+							effect: 'fade', //效果配置
+							eType: 'click', //** 鼠标事件
+							pageBt: true, //是否有按钮切换页码
+							bns: ['.prev', '.next'], //** 前后按钮配置class                          
+							interval: 3000 //** 停顿时间  
+						})
+					})
+				</script><!-- 代码 结束 --></div><!--banner end-->
+<div class="bannerxx"></div><!--main start-->
+<div class="main-wrap">
+<div class="main"><!--one开始-->
+<div class="main-one clearfix">
+<div class="xwgg fl">
+<div class="xwggz fl"><img src="images/xwgg.png"/> <a href="xwgg.htm"><img src="images/sygd.png"/></a> </div>
+<div class="xwggy fl"><!--#begineditable clone="0" namechanged="0" order="4" ispublic="0" tagname="标题列表-新闻公告" viewid="198460" contentviewid="" contype="" stylesysid="" layout="" action="" name="标题列表-新闻公告"--><ul>
+<li>
+<div class="rq"><span class="yue">07</span><span class="ri">/26</span></div>
+<div class="bt">
+<a href="info/1003/1468.htm" target="_blank">台湾新竹书画协会与耕雅书画赖焕琳校长一行赴我馆参观交流</a>
+</div>
+</li>
+<li>
+<div class="rq"><span class="yue">07</span><span class="ri">/22</span></div>
+<div class="bt">
+<a href="info/1003/1464.htm" target="_blank">青少年高校科学营、“亲和基金”校友子女夏令营、“追梦思源"夏令营营员们...</a>
+</div>
+</li>
+<li>
+<div class="rq"><span class="yue">07</span><span class="ri">/22</span></div>
+<div class="bt">
+<a href="info/1003/1466.htm" target="_blank">小学期交大博物馆充电参观热度不减</a>
+</div>
+</li>
+<li>
+<div class="rq"><span class="yue">07</span><span class="ri">/19</span></div>
+<div class="bt">
+<a href="info/1003/1474.htm" target="_blank">“印证丝路”——篆刻艺术讲座 成功举办</a>
+</div>
+</li>
+<li>
+<div class="rq"><span class="yue">07</span><span class="ri">/19</span></div>
+<div class="bt">
+<a href="info/1003/1462.htm" target="_blank">交大博物馆暑期讲解员招募令</a>
+</div>
+</li>
+<li>
+<div class="rq"><span class="yue">07</span><span class="ri">/10</span></div>
+<div class="bt">
+<a href="info/1003/1471.htm" target="_blank">“宝扇生风”——雅扇书写活动在我馆成功举办</a>
+</div>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u4_1468','dynclicks_u4_1464','dynclicks_u4_1466','dynclicks_u4_1474','dynclicks_u4_1462','dynclicks_u4_1471'],[1468,1464,1466,1474,1462,1471],"wbnews", 1431359365)</script>
+<!--#endeditable--></div></div>
+<div class="spjj fr">
+<div class="spjjz fl">
+<ul class="cleafix">
+<li class="hover" id="one1" onmousemove="setTab('one',1,2)"><a href="xqgsp.htm"><img src="images/xqg.png"/></a><br/>
+<li id="one2" onmousemove="setTab('one',2,2)"><a href="bwgsp.htm"><img src="images/bwg.png"/></a> </li></li></ul></div>
+<div class="spjjy fl">
+<div class="sp">
+<ul class="news-lb" id="con_one_1"><!--#begineditable clone="0" namechanged="0" order="5" ispublic="0" tagname="新闻视频-西迁馆" viewid="203924" contentviewid="" contype="" stylesysid="" layout="" action="" name="新闻视频-西迁馆"-->
+<table cellpadding="0" cellspacing="0" width="100%">
+<script language="javascript" src="/system/resource/js/news/mp4video.js"></script><script language="javascript" src="/system/resource/interview/js/flowplayer-3.2.8.min.js"></script>
+<tr>
+<td colspan="5">
+<div id="u5" style="display:none;width:419px;height:314px;">
+<script 314""="" 419""="" name="_videourl" vheight="height=" vurl="/__local/B/B0/D5/D23ED5B9D07396AAC629E131D86_D3F7D617_161D669.mp4" vwidth="width=">showVsbVideo('/__local/B/B0/D5/D23ED5B9D07396AAC629E131D86_D3F7D617_161D669.mp4','height="314"','width="419"','','','false','id="MediaPlayeru5"');</script>
+</div>
+<div id="u5u5" style="cursor:pointer;width:419;height:314"><img height="314" onclick="doPlayVideou5()" src="images/112121212.png" title="点击播放视频" width="419"/></div></td></tr>
+</table>
+<script>
+function doPlayVideou5()                
+{
+	var isrm = "false";
+	var isflv = "false";
+    try             
+    {                
+        if(isrm=="true")                
+        {
+            document.getElementById("MediaPlayeru5").DoPlay();                
+        }else if(isflv=="true")
+        {
+            document.getElementById("MediaPlayeru5").Play();
+        }
+        else                
+        {
+			document.getElementById("MediaPlayeru5").fp_play();
+        }      
+    }catch(e)             
+    {
+    }                      
+	document.getElementById("u5").style.display="inline";        
+	document.getElementById("u5u5").style.display="none";
+}
+
+</script> <!--#endeditable--></ul>
+<ul class="news-lb" id="con_one_2" style="display: none"><!--#begineditable clone="0" namechanged="0" order="6" ispublic="0" tagname="新闻视频" viewid="198461" contentviewid="" contype="" stylesysid="" layout="" action="" name="新闻视频"-->
+<table cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td colspan="5">
+<div id="u6" style="display:none;width:419px;height:314px;">
+<script 314""="" 419""="" name="_videourl" vheight="height=" vurl="/__local/B/27/39/B2D51512C91C3BEF6719E7DA90D_AFBA6CC3_6410EFA.mp4" vwidth="width=">showVsbVideo('/__local/B/27/39/B2D51512C91C3BEF6719E7DA90D_AFBA6CC3_6410EFA.mp4','height="314"','width="419"','','','false','id="MediaPlayeru6"');</script>
+</div>
+<div id="u6u6" style="cursor:pointer;width:419;height:314"><img height="314" onclick="doPlayVideou6()" src="images/sptb.png" title="点击播放视频" width="419"/></div></td></tr>
+</table>
+<script>
+function doPlayVideou6()                
+{
+	var isrm = "false";
+	var isflv = "false";
+    try             
+    {                
+        if(isrm=="true")                
+        {
+            document.getElementById("MediaPlayeru6").DoPlay();                
+        }else if(isflv=="true")
+        {
+            document.getElementById("MediaPlayeru6").Play();
+        }
+        else                
+        {
+			document.getElementById("MediaPlayeru6").fp_play();
+        }      
+    }catch(e)             
+    {
+    }                      
+	document.getElementById("u6").style.display="inline";        
+	document.getElementById("u6u6").style.display="none";
+}
+
+</script> <!--#endeditable--></ul></div></div></div></div><!--one结束--><!--two开始-->
+<div class="main-two clearfix">
+<div class="xnzg"><img src="images/xnzg.png"/> </div>
+<div class="xnzgt"><!--#begineditable name="banner变换-虚拟展馆" action="webber.wbst.com.image.ColumnImage" layout="/system/_component/columnimage/bannerchangeimage.jsp" tpltype="0" contype="image" clone="" viewid="221498" contentviewid="" tagname="banner变换-虚拟展馆"--><style type="text/css">
+ul,li{
+    padding:0;
+    margin:0;
+    list-style:none;}
+#flashBoxu_u7_{
+    width:1130px;
+    height:450px;
+    border:0px solid #EEE;
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;}
+#flashBoxu_u7_ img{
+    /*初始不要显示*/
+    display:none;
+    /*用边框来实现空位，因为margin和paading有时会引起些麻烦*/
+    border:0px solid #FFF;}
+#flashBoxu_u7_ ul{
+    display:none;
+    position:absolute;
+    right:7px;
+    bottom:3px;
+    font:9px tahoma;}
+#flashBoxu_u7_ ul li{
+    display:none;
+    float:left;
+    width:12px;
+    height:12px;
+    line-height:12px;
+    margin-right:3px;
+    border:0px solid #999;
+    background:#F0F0F0;
+    text-align:center;
+    cursor:pointer;}
+#flashBoxu_u7_ ul li.hover{
+    border-color:red;
+    background:#FFE1E1;
+    color:red;}
+</style>
+<script type="text/javascript">
+function flashBoxCtrl(o){
+    this.obj=document.getElementById(o);
+    //这个私有方法虽然写了，但暂时没用到
+    function addListener(ele,eventName,functionBody){
+        if (ele.attachEvent){
+            ele.attachEvent("on"+eventName, functionBody);
+        }else if (ele.addEventListener){
+            ele.addEventListener("on"+eventName,functionBody, false);
+        }else{
+            return false;
+        }
+    }
+    //初始化
+    this.init=function(){
+        var objImg=this.obj.getElementsByTagName("img");
+        var tagLength=objImg.length;
+        if (tagLength>0){
+            var oUl=document.createElement("ul");
+            oUl.setAttribute("id",o+"numTag");
+            for (var i=0;i<tagLength;i++){
+                var oLi=oUl.appendChild(document.createElement("li"));
+                if (i==0){
+                    oLi.setAttribute("class","hover"); //初始化时把第一个设置为高亮
+                    oLi.setAttribute("className","hover");
+                }
+                //设置标签的数字
+                oLi.appendChild(document.createTextNode((i+1)));
+            }
+            this.obj.appendChild(oUl);
+            objImg[0].style.display="block";
+            //设置标签事件
+            var oTag=this.obj.getElementsByTagName("li");
+            for (var i=0;i<oTag.length;i++){
+                var flag = 0;
+                var temp = 0;
+                var timeout=null;
+                var step = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    this.className="hover";
+                    flag = flag>=oTag.length-1?0:flag+1;
+                    objImg[flag].style.display="block";
+                    oTag[flag].className = "hover";
+                    timeout = setTimeout(step,4000);
+                };
+                oTag[i].onmouseover=function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                        temp = j;
+                    }
+                    this.className="hover";
+                    objImg[this.innerHTML-1].style.display="block";
+                    temp = this.innerHTML-1;
+                    flag = i;
+                    clearInterval(timeout);
+                }
+                oTag[i].onmouseout = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    flag = temp;
+                    objImg[temp].style.display="block";
+                    oTag[temp].className = "hover";
+                    timeout = setTimeout(step,4000);
+                }
+                if(i==0)
+                {
+                    timeout = setTimeout(step,4000);
+                }
+            }
+        }
+    };
+    //自动滚动的方法还没写
+    this.imgRoll=function(){};
+    //生成对象时自动加载init()方法以初始化对象
+    this.init();
+}
+</script>
+<table border="0" cellpadding="0" cellspacing="0"><tr><td><div id="flashBoxu_u7_"><a href="https://www.jt720.cn/t/3eba50782e84d47f" target="_blank"><img border="0" height="450" src="images/2-1.jpg" width="1130"/></a><a href="http://wszg.xjtu.edu.cn/tour/tour.html" target="_blank"><img border="0" height="450" src="images/xunizhanguan2.jpg" width="1130"/></a></div></td></tr></table><script language="JavaScript">new flashBoxCtrl("flashBoxu_u7_");</script><!--#endeditable--></div></div>
+<div class="main-three clearfix">
+<div class="ztzl"><img src="images/ztzl.png"/> </div>
+<div class="ztzlt"><!--#begineditable clone="0" namechanged="0" order="8" ispublic="0" tagname="图片列表-主题展览" viewid="198463" contentviewid="" contype="" stylesysid="" layout="" action="" name="图片列表-主题展览"--> <ul>
+<li class="zlt1">
+<a href="http://wszg.xjtu.edu.cn/liuzidu" onclick='_addDynClicks("wbimage", 1431359365, 40783)' target="_blank">
+<img src="images/1_baner1.jpg"/>
+</a>
+</li>
+<li class="zlt2">
+<a href="http://wszg.xjtu.edu.cn/kyjxcg" onclick='_addDynClicks("wbimage", 1431359365, 41255)' target="_blank">
+<img src="images/jxkyz.jpg"/>
+</a>
+</li>
+<li class="zlt3">
+<a href="http://wszg.xjtu.edu.cn/2017" onclick='_addDynClicks("wbimage", 1431359365, 40895)' target="_blank">
+<img src="images/4.jpg"/>
+</a>
+</li>
+<li class="zlt4">
+<a href="http://wszg.xjtu.edu.cn/yuyouren" onclick='_addDynClicks("wbimage", 1431359365, 40892)' target="_blank">
+<img src="images/1.jpg"/>
+</a>
+</li>
+<li class="zlt5">
+<a href="http://wszg.xjtu.edu.cn/2016" onclick='_addDynClicks("wbimage", 1431359365, 40893)' target="_blank">
+<img src="images/2.jpg"/>
+</a>
+</li>
+<li class="zlt6">
+<a href="http://wszg.xjtu.edu.cn/2015" onclick='_addDynClicks("wbimage", 1431359365, 40894)' target="_blank">
+<img src="images/3.jpg"/>
+</a>
+</li>
+</ul><!--#endeditable--></div></div><!--two结束--><!--three开始-->
+<div class="main-four">
+<div class="xssj"><img src="images/xssj.png"/> </div>
+<div class="pic-cont">
+<div class="qhan"><a class="LeftBotton" href="javascript:void(0);" onmousedown="ISL_GoUp_1()" onmouseout="ISL_StopUp_1()" onmouseup="ISL_StopUp_1()" target="_self"></a><a class="RightBotton" href="javascript:void(0);" onmousedown="ISL_GoDown_1()" onmouseout="ISL_StopDown_1()" onmouseup="ISL_StopDown_1()" target="_self"></a></div><script type="text/javascript">
+								var Speed_1 = 10; //速度(毫秒)
+								var Space_1 = 10; //每次移动(px)
+								var PageWidth_1 = 850; //翻页宽度
+								var interval_1 = 3000; //翻页间隔时间
+								var fill_1 = 0; //整体移位
+								var MoveLock_1 = false;
+								var MoveTimeObj_1;
+								var MoveWay_1 = "right";
+								var Comp_1 = 0;
+								var AutoPlayObj_1 = null;
+
+								function GetObj(objName) {
+									if(document.getElementById) {
+										return eval('document.getElementById("' + objName + '")')
+									} else {
+										return eval('document.all.' + objName)
+									}
+								}
+
+								function AutoPlay_1() {
+									clearInterval(AutoPlayObj_1);
+									AutoPlayObj_1 = setInterval('ISL_GoDown_1();ISL_StopDown_1();', interval_1)
+								}
+
+								function ISL_GoUp_1() {
+									if(MoveLock_1) return;
+									clearInterval(AutoPlayObj_1);
+									MoveLock_1 = true;
+									MoveWay_1 = "left";
+									MoveTimeObj_1 = setInterval('ISL_ScrUp_1();', Speed_1);
+								}
+
+								function ISL_StopUp_1() {
+									if(MoveWay_1 == "right") {
+										return
+									};
+									clearInterval(MoveTimeObj_1);
+									if((GetObj('ISL_Cont_1').scrollLeft - fill_1) % PageWidth_1 != 0) {
+										Comp_1 = fill_1 - (GetObj('ISL_Cont_1').scrollLeft % PageWidth_1);
+										CompScr_1()
+									} else {
+										MoveLock_1 = false
+									}
+									AutoPlay_1()
+								}
+
+								function ISL_ScrUp_1() {
+									if(GetObj('ISL_Cont_1').scrollLeft <= 0) {
+										GetObj('ISL_Cont_1').scrollLeft = GetObj('ISL_Cont_1').scrollLeft + GetObj('List1_1').offsetWidth
+									}
+									GetObj('ISL_Cont_1').scrollLeft -= Space_1
+								}
+
+								function ISL_GoDown_1() {
+									clearInterval(MoveTimeObj_1);
+									if(MoveLock_1) return;
+									clearInterval(AutoPlayObj_1);
+									MoveLock_1 = true;
+									MoveWay_1 = "right";
+									ISL_ScrDown_1();
+									MoveTimeObj_1 = setInterval('ISL_ScrDown_1()', Speed_1)
+								}
+
+								function ISL_StopDown_1() {
+									if(MoveWay_1 == "left") {
+										return
+									};
+									clearInterval(MoveTimeObj_1);
+									if(GetObj('ISL_Cont_1').scrollLeft % PageWidth_1 - (fill_1 >= 0 ? fill_1 : fill_1 + 1) != 0) {
+										Comp_1 = PageWidth_1 - GetObj('ISL_Cont_1').scrollLeft % PageWidth_1 + fill_1;
+										CompScr_1()
+									} else {
+										MoveLock_1 = false
+									}
+									AutoPlay_1()
+								}
+
+								function ISL_ScrDown_1() {
+									if(GetObj('ISL_Cont_1').scrollLeft >= GetObj('List1_1').scrollWidth) {
+										GetObj('ISL_Cont_1').scrollLeft = GetObj('ISL_Cont_1').scrollLeft - GetObj('List1_1').scrollWidth
+									}
+									GetObj('ISL_Cont_1').scrollLeft += Space_1
+								}
+
+								function CompScr_1() {
+									if(Comp_1 == 0) {
+										MoveLock_1 = false;
+										return
+									}
+									var num, TempSpeed = Speed_1,
+										TempSpace = Space_1;
+									if(Math.abs(Comp_1) < PageWidth_1 / 2) {
+										TempSpace = Math.round(Math.abs(Comp_1 / Space_1));
+										if(TempSpace < 1) {
+											TempSpace = 1
+										}
+									}
+									if(Comp_1 < 0) {
+										if(Comp_1 < -TempSpace) {
+											Comp_1 += TempSpace;
+											num = TempSpace
+										} else {
+											num = -Comp_1;
+											Comp_1 = 0
+										}
+										GetObj('ISL_Cont_1').scrollLeft -= num;
+										setTimeout('CompScr_1()', TempSpeed)
+									} else {
+										if(Comp_1 > TempSpace) {
+											Comp_1 -= TempSpace;
+											num = TempSpace
+										} else {
+											num = Comp_1;
+											Comp_1 = 0
+										}
+										GetObj('ISL_Cont_1').scrollLeft += num;
+										setTimeout('CompScr_1()', TempSpeed)
+									}
+								}
+
+								function picrun_ini() {
+									GetObj("List2_1").innerHTML = GetObj("List1_1").innerHTML;
+									GetObj('ISL_Cont_1').scrollLeft = fill_1 >= 0 ? fill_1 : GetObj('List1_1').scrollWidth - Math.abs(fill_1);
+									GetObj("ISL_Cont_1").onmouseover = function() {
+										clearInterval(AutoPlayObj_1)
+									}
+									GetObj("ISL_Cont_1").onmouseout = function() {
+										AutoPlay_1()
+									}
+									AutoPlay_1();
+								}
+							</script>
+<div class="blk_18 fl">
+<div class="pcont" id="ISL_Cont_1">
+<div class="ScrCont">
+<div id="List1_1"><!--#begineditable clone="0" namechanged="0" order="9" ispublic="0" tagname="标题列表-校史书籍" viewid="198464" contentviewid="" contype="" stylesysid="" layout="" action="" name="标题列表-校史书籍"--> <a class="pl" href="info/1009/1282.htm" target="_blank">
+<img alt="" src="/__local/2/30/AA/FD23CEC3AD124699D6D57B7955A_017F9604_4A5C.jpg">
+<p></p>
+</img></a>
+<a class="pl" href="info/1009/1281.htm" target="_blank">
+<img alt="" src="/__local/E/47/CC/607AD6E6AB89889D41702D612D2_8DB3ADC0_48AE.jpg">
+<p></p>
+</img></a>
+<a class="pl" href="info/1009/1280.htm" target="_blank">
+<img alt="" src="/__local/3/4D/92/7A73FEC7D718A5589650E601886_ABF7CF76_4752.jpg">
+<p></p>
+</img></a>
+<a class="pl" href="info/1009/1279.htm" target="_blank">
+<img alt="" src="/__local/9/1F/F2/9A29515DC03EFF25880B5A5A2EB_AE945418_4AF6.jpg">
+<p></p>
+</img></a>
+<a class="pl" href="info/1009/1278.htm" target="_blank">
+<img alt="" src="/__local/7/81/A7/1A7D6E64C485C656B11280ADEF4_917547BB_2E57.jpg">
+<p>​</p>
+</img></a>
+<script>_showDynClickBatch(['dynclicks_u9_1282','dynclicks_u9_1281','dynclicks_u9_1280','dynclicks_u9_1279','dynclicks_u9_1278'],[1282,1281,1280,1279,1278],"wbnews", 1431359365)</script>
+<!--#endeditable--></div>
+<div id="List2_1"></div></div></div></div>
+<div class="c"></div><script type="text/javascript">
+								<!--
+								picrun_ini()
+								//-->
+							</script></div></div>
+<div class="clearfix"></div><!--three结束--></div></div><!--main end-->
+<div class="dbwb">
+<div class="dbwbbt"><img src="images/cgyy.png"/> </div><!--#begineditable clone="0" namechanged="0" order="10" ispublic="0" tagname="文本框-参观预约" viewid="198465" contentviewid="" contype="" stylesysid="" layout="" action="" name="文本框-参观预约"-->
+<div class="zwz fl">
+<p>一、请观众朋友在开放时间内到博物馆参观，博物馆开放时间为每天9：00-17：00；</p>
+<p>二、观众可以自带液体饮料进入场馆，但禁止观众自带食品进入场馆；</p>
+<p>三、请勿将各类管制刀具、打火机、光盘、危险品及宠物带入场馆；</p>
+<p>四、参观前请您整理好衣物，衣冠不整者谢绝入内；</p>
+<p>五、参观时请勿大声喧哗并请将手机设置为静音以免影响他人参观；</p>
+<p>六、参观时请勿触摸展品；</p>
+<p>七、场馆内请勿吸烟；</p>
+<p>八、场馆内请勿奔跑、追逐、攀爬、躺卧，请您协助我们维持好展厅内的参观秩序和良好的参观环境；</p>
+<p>九、观众可以拍照留念，但请勿使用闪光灯、自拍杆和脚架。引进的临时性展览，将依据办展协议确定是否可以拍照，若不可拍  照，将在展厅内设立明显的提示标识。新闻记者若因工作需要，须进入展厅进行拍照，请参照《国家博物馆新闻采访办法》的相关规定办理手续。</p>
+</div>
+<div class="ytw fl">
+<div class="ewm">
+<img class="img_vsb_content" orisrc="/__local/9/E2/EE/2DE61C29F41713679681840160E_4AC519A0_1EDF.png" src="/__local/9/E2/EE/2DE61C29F41713679681840160E_4AC519A0_1EDF.png" style="padding-right: 39px" vheight="" vsbhref="vurl" vurl="/_vsl/9E2EE2DE61C29F41713679681840160E/4AC519A0/1EDF?e=.png" vwidth=""/>       
+  <img class="img_vsb_content" orisrc="/__local/1/6D/56/630C33A29E4B16346652FB8B881_BEEF3F81_2255.png" src="/__local/1/6D/56/630C33A29E4B16346652FB8B881_BEEF3F81_2255.png" vheight="" vsbhref="vurl" vurl="/_vsl/16D56630C33A29E4B16346652FB8B881/BEEF3F81/2255?e=.png" vwidth=""/>
+</div>
+<h3>开馆时间</h3>
+<p>周一至周六 </p>
+<p><strong>9:00 - 12:00 13:00 - 17:00</strong> </p>
+<p>（法定节假日正常开放）</p>
+</div><!--#endeditable--></div><!--foot start-->
+<div class="foot"><!--#begineditable clone="0" namechanged="0" order="11" ispublic="0" tagname="版权" viewid="198466" contentviewid="" contype="" stylesysid="" layout="" action="" name="版权"--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>版权所有©西安交通大学  技术支持与维护：网络信息中心</p><!--#endeditable--></div><!--foot end--></div>
+</body></html>

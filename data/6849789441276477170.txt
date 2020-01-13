@@ -1,0 +1,706 @@
+<!DOCTYPE html>
+<html><head><title>西安交通大学基金会</title><meta content="西安交通大学基金会" name="keywords"/>
+<meta charset="utf-8"/><link href="css/default.css" rel="stylesheet" type="text/css"/><link href="css/style.css" rel="stylesheet" type="text/css"/><script src="js/jquery.min.js"></script><script src="js/jquery.SuperSlide.2.1.1.js"></script><script src="js/index.js"></script>
+<!--Announced by Visual SiteBuilder 9-->
+<link href="_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307003475455525640035748 -->
+<link href="index.vsb.css" rel="stylesheet" type="text/css">
+<script id="_vsbscreen" src="/system/resource/js/vsbscreen.min.js" type="text/javascript"></script>
+<script src="/system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1360182284)</script>
+</link></link></head>
+<body>
+<div class="slideMenu">
+<div class="donation">
+<dl class="cleafix">
+<dt></dt>
+<dd><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script>
+<a href="zxjz.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1086" onclick='_addDynClicks("wburl", 1360182284, 33460)' title="">我要捐款</a>
+<a href="http://yuejuanwang.xjtu.edu.cn" onclick='_addDynClicks("wburl", 1360182284, 33458)' title="">众筹平台</a>
+<a href="http://219.245.39.41/fms/login.html" onclick='_addDynClicks("wburl", 1360182284, 33499)' title="">捐赠系统</a>
+</dd></dl></div>
+<div class="phone_number">
+<dl class="cleafix">
+<dt></dt>
+<dd> <a href="javascript:void(0)">029-82668262</a>
+</dd></dl></div></div>
+<div class="headerWarp">
+<div class="header cleafix">
+<div class="logo fl">
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="" title="西安交通大学基金会"><img src="images/logo.png"/></a>
+</div></div></div></body></html>
+<div class="header_right fr">
+<p>
+<a href="index.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1001" onclick='_addDynClicks("wburl", 1360182284, 33461)' title="">中</a>|
+    <a class="english" href="http://www.ef.xjtu.edu.cn/jjhe/" onclick='_addDynClicks("wburl", 1360182284, 33462)' title="">EN</a>
+</p>
+<div class="search"><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode178926').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword178926").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword178926").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword178926").value = base64.encode(document.getElementById("lucenenewssearchkeyword178926").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode178926"));
+        return true;
+    } 
+</script>
+<form action="ssjg.jsp?wbtreeid=1001" id="au5a" method="post" name="au5a" onsubmit="return _nl_ys_check()" style="display: inline">
+<input id="lucenenewssearchkeyword178926" name="lucenenewssearchkeyword" type="hidden" value=""/><input id="_lucenesearchtype178926" name="_lucenesearchtype" type="hidden" value="1"/><input id="searchScope178926" name="searchScope" type="hidden" value="0"/>
+<input id="showkeycode178926" name="showkeycode" placeholder="输入关键字进行搜索" style="border-right:1px solid #fff;" type="text"/>
+<div style="text-align:center;">
+<input align="absmiddle" src="images/search.png" style="cursor: hand;margin-top:8px;" type="image"/>
+</div>
+</form> <script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script></div></div>
+<div class="navWarp">
+<div class="nav"><ul id="nav_ul">
+<li class="nLi on" style="width:107px;">
+<a href="index.jsp" title="网站首页">网站首页</a>
+</li>
+<li class="nLi" style="width:107px;">
+<a href="gywm/jjhjj.htm" title="关于我们">关于我们</a>
+<ul class="sub">
+<li><a href="gywm/jjhjj.htm" title="基金会简介">基金会简介</a></li>
+<li><a href="gywm/zzjg.htm" title="组织机构">组织机构</a></li>
+<li><a href="gywm/jjhmsc.htm" title="基金会秘书处">基金会秘书处</a></li>
+<li><a href="gywm/zzzc.htm" title="宗旨章程">宗旨章程</a></li>
+<li><a href="gywm/zczd.htm" title="政策制度">政策制度</a></li>
+<li><a href="gywm/lxwm.htm" title="联系我们">联系我们</a></li>
+<li><a href="gywm/yjwjj.htm" title="悦捐网简介">悦捐网简介</a></li>
+<li><a href="gywm/jjhzzzs.htm" title="基金会资质证书">基金会资质证书</a></li>
+</ul>
+</li>
+<li class="nLi" style="width:107px;">
+<a href="xwzx/xwsd.htm" title="新闻中心">新闻中心</a>
+<ul class="sub">
+<li><a href="xwzx/xwsd.htm" title="新闻速递">新闻速递</a></li>
+<li><a href="xwzx/jzgs.htm" title="捐赠故事">捐赠故事</a></li>
+<li><a href="xwzx/tzgg.htm" title="通知公告">通知公告</a></li>
+</ul>
+</li>
+<li class="nLi" style="width:107px;">
+<a href="djgz/zzjj.htm" title="党建工作">党建工作</a>
+<ul class="sub">
+<li><a href="djgz/zzjj.htm" title="组织简介">组织简介</a></li>
+<li><a href="djgz/zbsh.htm" title="支部生活">支部生活</a></li>
+<li><a href="djgz/xxyd.htm" title="学习园地">学习园地</a></li>
+</ul>
+</li>
+<li class="nLi" style="width:107px;">
+<a href="jzlby.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1023" title="信息公开">信息公开</a>
+<ul class="sub">
+<li><a href="jzlby.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1023" title="捐赠芳名榜">捐赠芳名榜</a></li>
+<li><a href="xxgk/ndjcbg.htm" title="年度检查报告">年度检查报告</a></li>
+<li><a href="xxgk/ndzjbg.htm" title="年度总结报告">年度总结报告</a></li>
+<li><a href="xxgk/zcxmzj.htm" title="众筹项目总结">众筹项目总结</a></li>
+<li><a href="xxgk/nddwtzbg.htm" title="年度对外投资报告">年度对外投资报告</a></li>
+<li><a href="xxgk/xmsszj.htm" title="项目实施总结">项目实施总结</a></li>
+<li><a href="xxgk/jjhgzzd.htm" title="基金会规章制度">基金会规章制度</a></li>
+</ul>
+</li>
+<li class="nLi" style="width:107px;">
+<a href="mjxm/xszz.htm" title="募捐项目">募捐项目</a>
+<ul class="sub">
+<li><a href="mjxm/xszz.htm" title="学生资助">学生资助</a></li>
+<li><a href="mjxm/cxgzx.htm" title="创新港专项">创新港专项</a></li>
+<li><a href="mjxm/sczldxlmzx.htm" title="丝绸之路大学联盟专项">丝绸之路大学联盟专项</a></li>
+<li><a href="mjxm/szjs.htm" title="师资建设">师资建设</a></li>
+<li><a href="mjxm/zmjsjj.htm" title="知名教授基金">知名教授基金</a></li>
+<li><a href="mjxm/xkfzjs.htm" title="学科发展建设">学科发展建设</a></li>
+<li><a href="mjxm/jcssjs.htm" title="基础设施建设">基础设施建设</a></li>
+<li><a href="mjxm/xywhjs.htm" title="校园文化建设">校园文化建设</a></li>
+<li><a href="mjxm/fxdxjz.htm" title="非限定性捐赠">非限定性捐赠</a></li>
+<li><a href="mjxm/axfp.htm" title="爱心扶贫">爱心扶贫</a></li>
+</ul>
+</li>
+<li class="nLi" style="width:107px;">
+<a href="jzzn/jzfs_.htm" title="捐赠指南">捐赠指南</a>
+<ul class="sub">
+<li><a href="jzzn/jzfs_.htm" title="捐赠方式 ">捐赠方式 </a></li>
+<li><a href="jzzn/jzlc.htm" title="捐赠流程">捐赠流程</a></li>
+<li><a href="jzzn/jzgl.htm" title="捐赠管理">捐赠管理</a></li>
+<li><a href="jzzn/jzmx.htm" title="捐赠鸣谢">捐赠鸣谢</a></li>
+<li><a href="zxjz.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1086" title="在线捐款">在线捐款</a></li>
+<li><a href="jzzn/dszc.htm" title="抵税政策">抵税政策</a></li>
+<li><a href="jzzn/sljsq.htm" title="税率计算器">税率计算器</a></li>
+</ul>
+</li>
+<li class="nLi" style="width:107px;">
+<a href="xzzx.htm" title="下载中心">下载中心</a>
+</li>
+<li class="nLi" style="width:107px;">
+<a href="jphd/gyjd.htm" title="精品活动">精品活动</a>
+<ul class="sub">
+<li><a href="jphd/gyjd.htm" title="国运交大">国运交大</a></li>
+<li><a href="jphd/yjjh.htm" title="越杰计划">越杰计划</a></li>
+</ul>
+</li>
+<li class="nLi" style="width:107px;">
+<a href="volunteerindex.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1044" title="志愿者">志愿者</a>
+<ul class="sub">
+<li><a href="zyzlogin.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1072" title="登录注册">登录注册</a></li>
+<li><a href="hdlby.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1073" title="活动列表">活动列表</a></li>
+<li><a href="zyz/zyzptjj.htm" title="志愿者平台简介">志愿者平台简介</a></li>
+<li><a href="zyzfczs/wzqtd.htm" title="志愿者风采展示">志愿者风采展示</a></li>
+<li><a href="zyz/gyzx.htm" title="公益之星">公益之星</a></li>
+</ul>
+</li>
+<li class="nLi" style="width:107px;">
+<a href="cjwt.htm" title="常见问题">常见问题</a>
+</li>
+</ul></div></div>
+<div class="bannerWarp">
+<div class="banner">
+<div class="slideBox">
+<div class="bd"> <ul>
+<li><a href="http://www.ef.xjtu.edu.cn/info/1019/2184.htm"><img src="images/20181013002952537ku9.png"/></a></li>
+<li><a href=""><img src="images/20180917215614576J5S.jpg"/></a></li>
+<li><a href="http://www.ef.xjtu.edu.cn/gywm/jjhjj.htm"><img src="images/banner_1.png"/></a></li>
+<li><a href="info/1019/1813.htm"><img src="images/helloha_meitu_2.jpg"/></a></li>
+</ul></div><a class="prev" href="javascript:void(0)" onfocus="undefined"></a><a class="next" href="javascript:void(0)" onfocus="undefined"></a></div></div></div>
+<div class="mainWarp"><!--捐赠芳名榜-->
+<div class="giving_name_list">
+<div class="title">
+<h3>捐/赠/芳/名/榜</h3>
+<p>Giving Name List</p><a href="jzlby.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1023" onfocus="undefined">更多</a> </div>
+<div class="giving_name_list_cont">
+<div class="picScroll">
+<div class="bd">
+<ul>
+<li>
+<a>
+<h3>瑞萨电子管理（上海）有限公司</h3>
+<span class="donate_money">捐赠金额：<em>￥460000</em></span>
+<span>捐赠时间：<em>2020-01-18</em></span>
+<span class="myspan">捐赠项目：<em>其他项目</em></span>
+</a>
+</li>
+<li>
+<a>
+<h3>沈先生</h3>
+<span class="donate_money">捐赠金额：<em>￥1.0</em></span>
+<span>捐赠时间：<em>2020-01-13</em></span>
+<span class="myspan">捐赠项目：<em>为创新港捐棵树——数学与统计学院助力创新港绿化建设众筹项目</em></span>
+</a>
+</li>
+<li>
+<a>
+<h3>沈先生</h3>
+<span class="donate_money">捐赠金额：<em>￥1.0</em></span>
+<span>捐赠时间：<em>2020-01-13</em></span>
+<span class="myspan">捐赠项目：<em>缘聚南洋十周年院庆众筹项目</em></span>
+</a>
+</li>
+<li>
+<a>
+<h3>沈先生</h3>
+<span class="donate_money">捐赠金额：<em>￥1.0</em></span>
+<span>捐赠时间：<em>2020-01-13</em></span>
+<span class="myspan">捐赠项目：<em>“为崇实之光”崇实书院众筹项目</em></span>
+</a>
+</li>
+<li>
+<a>
+<h3>沈先生</h3>
+<span class="donate_money">捐赠金额：<em>￥1.0</em></span>
+<span>捐赠时间：<em>2020-01-13</em></span>
+<span class="myspan">捐赠项目：<em>创新港绿化建设基金众筹募捐项目</em></span>
+</a>
+</li>
+<li>
+<a>
+<h3>凌恒梁</h3>
+<span class="donate_money">捐赠金额：<em>￥1000</em></span>
+<span>捐赠时间：<em>2020-01-13</em></span>
+<span class="myspan">捐赠项目：<em>助学金：春雨助学金</em></span>
+</a>
+</li>
+</ul></div><a class="prev" href="javascript:void(0)" onfocus="undefined"></a><a class="next" href="javascript:void(0)" onfocus="undefined"></a></div> <div class="picScroll2">
+<div class="bd bd1">
+<div class="ulWarp">
+<ul style=" float:left;width:150px;">
+<li>
+<a href="info/1101/1463.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/logogoge222222.jpg" width="130"/></span></a>
+<a href="info/1101/1463.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/logogoge222222.jpg" width="130"/></span></a>
+</li>
+<li>
+<a href="info/1101/1537.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/1010.jpg" width="130"/></span></a>
+<a href="info/1101/1537.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/1010.jpg" width="130"/></span></a>
+</li>
+</ul>
+<ul style=" float:left;width:150px;">
+<li>
+<a href="info/1101/1470.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/qw111.jpg" width="130"/></span></a>
+<a href="info/1101/1470.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/qw111.jpg" width="130"/></span></a>
+</li>
+<li>
+<a href="info/1101/1469.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/asd555.jpg" width="130"/></span></a>
+<a href="info/1101/1469.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/asd555.jpg" width="130"/></span></a>
+</li>
+</ul>
+<ul style=" float:left;width:150px;">
+<li>
+<a href="info/1101/1468.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/z888.jpg" width="130"/></span></a>
+<a href="info/1101/1468.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/z888.jpg" width="130"/></span></a>
+</li>
+<li>
+<a href="info/1101/1467.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/qwe222.jpg" width="130"/></span></a>
+<a href="info/1101/1467.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/qwe222.jpg" width="130"/></span></a>
+</li>
+</ul>
+<ul style=" float:left;width:150px;">
+<li>
+<a href="info/1101/1466.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/zx333.jpg" width="130"/></span></a>
+<a href="info/1101/1466.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/zx333.jpg" width="130"/></span></a>
+</li>
+<li>
+<a href="info/1101/1457.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/2IBM.jpg" width="130"/></span></a>
+<a href="info/1101/1457.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/2IBM.jpg" width="130"/></span></a>
+</li>
+</ul>
+<ul style=" float:left;width:150px;">
+<li>
+<a href="info/1101/1465.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/b888.jpg" width="130"/></span></a>
+<a href="info/1101/1465.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/b888.jpg" width="130"/></span></a>
+</li>
+<li>
+<a href="info/1101/1464.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/999.jpg" width="130"/></span></a>
+<a href="info/1101/1464.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/999.jpg" width="130"/></span></a>
+</li>
+</ul>
+<ul style=" float:left;width:150px;">
+<li>
+<a href="info/1101/1538.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/444.jpg" width="130"/></span></a>
+<a href="info/1101/1538.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/444.jpg" width="130"/></span></a>
+</li>
+<li>
+<a href="info/1101/1462.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/q444.jpg" width="130"/></span></a>
+<a href="info/1101/1462.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/q444.jpg" width="130"/></span></a>
+</li>
+</ul>
+<ul style=" float:left;width:150px;">
+<li>
+<a href="info/1101/1458.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/555.jpg" width="130"/></span></a>
+<a href="info/1101/1458.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/555.jpg" width="130"/></span></a>
+</li>
+<li>
+<a href="info/1101/1459.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/333.jpg" width="130"/></span></a>
+<a href="info/1101/1459.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/333.jpg" width="130"/></span></a>
+</li>
+</ul>
+<ul style=" float:left;width:150px;">
+<li>
+<a href="info/1101/1534.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/e333.jpg" width="130"/></span></a>
+<a href="info/1101/1534.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/e333.jpg" width="130"/></span></a>
+</li>
+<li>
+<a href="info/1101/1535.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/q333.jpg" width="130"/></span></a>
+<a href="info/1101/1535.htm" target="_blank" title=""><span style="margin-right:5px;"><img height="130" src="imagess/q333.jpg" width="130"/></span></a>
+</li>
+</ul>
+</div>
+<span class="next_warp"><a class="next" href="javascript:void(0)"></a></span>
+<span class="prev_warp"><a class="prev" href="javascript:void(0)"></a></span>
+</div></div>
+<div class="title" style="margin-bottom: 40px; margin-top: 40px">
+<h3>捐/赠/项/目</h3>
+<p>Donation Project</p><a href="mjxm/xszz.htm" onfocus="undefined">更多</a> </div>
+<div class="giving_name_list_cont_3"> <div class="back_img_wrap">
+<!--img  class="on"  src="temp/xszz.jpg" /-->
+<div class="back_icon on">
+<img src="temp/xszz.jpg"/>
+</div>
+<!--img  src="imagess/11qq.JPG" /-->
+<div class="back_icon">
+<img src="imagess/11qq.JPG"/>
+</div>
+<!--img  src="images/500477041.jpg" /-->
+<div class="back_icon">
+<img src="images/500477041.jpg"/>
+</div>
+<!--img  src="images/20160411145940_90755.jpg" /-->
+<div class="back_icon">
+<img src="images/20160411145940_90755.jpg"/>
+</div>
+<!--img  src="temp/jcssjs.jpg" /-->
+<div class="back_icon">
+<img src="temp/jcssjs.jpg"/>
+</div>
+<!--img  src="imagess/11111.jpg" /-->
+<div class="back_icon">
+<img src="imagess/11111.jpg"/>
+</div>
+</div>
+<div class="donate_project"><ul>
+<li>
+<a href="mjxm/xszz.htm" style="" target="_blank" title="学生资助">
+<h3>
+<span>
+<img class="icon_span" src="images/img1.png"/>
+<img class="back_span" src="images/red_bac.png"/>
+</span>
+<i>学生资助</i>
+</h3>
+<p></p>
+<b>我要捐款</b>
+</a>
+</li>
+<li>
+<a href="mjxm/szjs.htm" style="" target="_blank" title="师资建设">
+<h3>
+<span>
+<img class="icon_span" src="images/img2.png"/>
+<img class="back_span" src="images/red_bac.png"/>
+</span>
+<i>师资建设</i>
+</h3>
+<p></p>
+<b>我要捐款</b>
+</a>
+</li>
+<li>
+<a href="mjxm/xkfzjs.htm" style="" target="_blank" title="学科发展建设">
+<h3>
+<span>
+<img class="icon_span" src="images/img3.png" style="margin-top: 29px"/>
+<img class="back_span" src="images/red_bac.png"/>
+</span>
+<i>学科发展建设</i>
+</h3>
+<p></p>
+<b>我要捐款</b>
+</a>
+</li>
+<li>
+<a href="mjxm/zmjsjj.htm" style="" target="_blank" title="知名教授">
+<h3>
+<span>
+<img class="icon_span" src="images/img4.png"/>
+<img class="back_span" src="images/red_bac.png"/>
+</span>
+<i>知名教授</i>
+</h3>
+<p></p>
+<b>我要捐款</b>
+</a>
+</li>
+<li>
+<a href="mjxm/jcssjs.htm" style="" target="_blank" title="基础设施建设">
+<h3>
+<span>
+<img class="icon_span" src="images/img5.png" style="margin-top: 26px"/>
+<img class="back_span" src="images/red_bac.png"/>
+</span>
+<i>基础设施建设</i>
+</h3>
+<p></p>
+<b>我要捐款</b>
+</a>
+</li>
+<li>
+<a href="mjxm/xywhjs.htm" style="" target="_blank" title="校园文化建设">
+<h3>
+<span>
+<img class="icon_span" src="images/img6.png"/>
+<img class="back_span" src="images/red_bac.png"/>
+</span>
+<i>校园文化建设</i>
+</h3>
+<p></p>
+<b>我要捐款</b>
+</a>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u11_1444','dynclicks_u11_1445','dynclicks_u11_1447','dynclicks_u11_1443','dynclicks_u11_1448','dynclicks_u11_1449'],[1444,1445,1447,1443,1448,1449],"wbnews", 1360182284)</script>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%">
+<script language="javascript" src="/system/resource/js/news/mp4video.js"></script><script language="javascript" src="/system/resource/interview/js/flowplayer-3.2.8.min.js"></script>
+<tr>
+<td colspan="5">
+<div id="u12" style="display:none;width:600px;height:320px;">
+<script 320""="" 600""="" name="_videourl" vheight="height=" vurl="/__local/9/1A/EC/FE024B261EA3B815A540B54596F_BA548BC3_A476B74.mp4" vwidth="width=">showVsbVideo('/__local/9/1A/EC/FE024B261EA3B815A540B54596F_BA548BC3_A476B74.mp4','height="320"','width="600"','','','false','id="MediaPlayeru12"');</script>
+</div>
+<div id="u12u12" style="position: relative;cursor:pointer;width:600;height:320">
+<img height="320" onclick="doPlayVideou12()" src="images/bofang21.png" title="点击播放视频" width="600"/>
+<b style="position: absolute;top: 38%;left: 0;right: 0;display: block;font-weight: normal;width: 128px;height: 33px;border: 1px solid #fff;text-align: center;line-height: 33px;font-size: 16px;margin: 36px auto 0;color: #fff;">
+                视频播放
+            </b>
+</div>
+</td>
+</tr>
+</table>
+<script>
+function doPlayVideou12()                
+{
+    var isrm = "false";
+    var isflv = "false";
+    try             
+    {                
+        if(isrm=="true")                
+        {
+            document.getElementById("MediaPlayeru12").DoPlay();                
+        }else if(isflv=="true")
+        {
+            document.getElementById("MediaPlayeru12").Play();
+        }
+        else                
+        {
+            document.getElementById("MediaPlayeru12").fp_play();
+        }      
+    }catch(e)             
+    {
+    }                      
+    document.getElementById("u12").style.display="inline";        
+    document.getElementById("u12u12").style.display="none";
+}
+
+</script> </div></div></div></div></div><!--新闻资讯-->
+<div class="news_information">
+<div class="title">
+<h3>新/闻/资/讯</h3>
+<p>News</p><a href="xwzx/xwsd.htm" onfocus="undefined">更多</a> </div>
+<div class="news_information_cont">
+<dl><dt>
+<div class="divWarp">
+<div>
+<a href="info/1019/2779.htm" style="" target="_blank"><img src="/__local/D/DE/26/7C4963AE62958B101C3AEF5625F_172BA89E_C6FCC.png"/></a>
+<a href="info/1019/2778.htm" style="" target="_blank"><img src="/__local/E/A1/88/21D16D09734C2444C34CB09BBAE_F56B291B_178AF.jpg"/></a>
+<a href="info/1019/2776.htm" style="" target="_blank"><img src="/__local/2/D7/37/D072D381AAADE309BA70115929C_9CA320AD_3584A.jpg"/></a>
+<a href="info/1019/2774.htm" style="" target="_blank"><img src="/__local/F/40/D3/B3F0A0FF05EF5F30C80639888EF_2CD8044B_A168.png"/></a>
+</div>
+</div>
+</dt>
+<dd>
+<a href="info/1019/2779.htm" style="" target="_blank">
+<span>01-12</span>
+<div>
+<h3>【奋翅起高飞】教育基金会传达学习寒假工作会议精神</h3>
+<p>1月11日上午，教育基金会全体成员观看了学校寒假工作会议视频直播，下午召开专题讨论会议...</p>
+</div>
+</a>
+<a href="info/1019/2778.htm" style="" target="_blank">
+<span>01-11</span>
+<div>
+<h3>消费扶贫再出发——学校赴云南施甸考察消费扶贫</h3>
+<p>2020年新年伊始，校工会、扶贫办组织考察组前往云南施甸考察消费扶贫，引进农副产品进校...</p>
+</div>
+</a>
+<a href="info/1019/2776.htm" style="" target="_blank">
+<span>01-11</span>
+<div>
+<h3>档案馆、博物馆举行交通大学外教杨以琦先生相关实物...</h3>
+<p>1月9日上午，来自美国的FRANK DAVID·MC CALEB先生将外祖父（E•G•YOUNG，中文名：杨以琦...</p>
+</div>
+</a>
+<a href="info/1019/2774.htm" style="" target="_blank">
+<span>01-08</span>
+<div>
+<h3>西安交大校友王琦当选银川市政协副主席</h3>
+<p>据银川晚报消息，1月7日，西安交大校友王琦在中国人民政治协商会议银川市第十三届委员会...</p>
+</div>
+</a>
+</dd><script>_showDynClickBatch(['dynclicks_u13_2779','dynclicks_u13_2778','dynclicks_u13_2776','dynclicks_u13_2774'],[2779,2778,2776,2774],"wbnews", 1360182284)</script>
+</dl></div></div><!--通知公告-->
+<div class="Announcements"><div class="title">
+<h3>通/知/公/告</h3>
+<p>Announcements</p>
+<a href="xwzx/tzgg.htm">更多</a>
+</div>
+<div class="Announcements_cont">
+<ul>
+<li>
+<a href="info/1021/2705.htm" style="" target="_blank">
+<span>
+<i>Dec</i>
+<em>3</em>
+</span>
+<div>
+<h3>关于申报潘文渊文教基金会研究杰出奖及​...</h3>
+<p> ​各有关单位、教师：2020年潘文渊文教基金会“研究杰出奖”及“年轻创新奖...</p>
+</div>
+</a>
+</li>
+<li>
+<a href="info/1021/2648.htm" style="" target="_blank">
+<span>
+<i>Oct</i>
+<em>13</em>
+</span>
+<div>
+<h3>第二届“公益之星”报名通知</h3>
+<p> 为了弘扬公益精神，倡导公益行动，增强学生的公益意识、奉献意识，培养学生...</p>
+</div>
+</a>
+</li>
+<li>
+<a href="info/1021/2598.htm" style="" target="_blank">
+<span>
+<i>Sep</i>
+<em>7</em>
+</span>
+<div>
+<h3>“WE微益”招新啦！</h3>
+<p>​一、“WE微益”招新：“WE微益”是西安交通大学教育基金会（以下简称基金...</p>
+</div>
+</a>
+</li>
+<li>
+<a href="info/1021/2559.htm" style="" target="_blank">
+<span>
+<i>Jun</i>
+<em>21</em>
+</span>
+<div>
+<h3>西安交大爱心夏令营志愿者招募通知</h3>
+<p> 为增进与我校与捐赠单位的互动交流，圆梦青少年对大学的憧憬与向往，为交大...</p>
+</div>
+</a>
+</li>
+</ul>
+</div><script>_showDynClickBatch(['dynclicks_u14_2705','dynclicks_u14_2648','dynclicks_u14_2598','dynclicks_u14_2559'],[2705,2648,2598,2559],"wbnews", 1360182284)</script>
+</div><!--捐赠故事-->
+<div class="donation_story">
+<div class="donation_story_cont cleafix"><div class="donation_story_cont_1">
+<div class="title">
+<h3>捐/赠/故/事</h3>
+<p>Donation of story</p>
+<a href="xwzx/jzgs.htm">更多</a>
+</div>
+<div class="donation_story_details">
+<div>
+<h3>【捐赠故事】安永强：寸草春晖，感恩母校</h3>
+<span>2019-06-12</span>
+<p>编者按：为进一步丰富交大西迁博物馆捐赠纪念墙的文化内涵，将之打造成为传承西迁精神和弘扬饮水思源传统，激励广大青年学子潜心学习、砥砺奋进的宣传阵地，西安交通大学教育基金会启动“交大西迁博物馆捐赠墙背后的故事”征文活动，并向全体《助（筑）力西迁——交大西迁博物馆建设基金项目》捐赠人发出诚挚邀请。近日，教</p>
+<a href="info/1020/2538.htm"> details&gt; </a>
+</div>
+</div>
+</div>
+<div class="donation_story_cont_2 picScroll3">
+<div class="bd">
+<ul>
+<li>
+<a data-time="2019-06-12" href="info/1020/2538.htm">
+<img src="/__local/A/72/46/6FC93054029B53C18D286177571_AB6BA02C_1083AF.png"/>
+<div></div>
+<p>【捐赠故事】安永强：寸草春晖，感恩母校</p>
+<span>编者按：为进一步丰富交大西迁博物馆捐赠纪念墙的文化内涵，将之打造成为传承西迁精神和弘扬饮水思源传统，激励广大青年学子潜心学习、砥砺奋进的宣传阵地，西安交通大学教育基金会启动“交大西迁博物馆捐赠墙背后的故事”征文活动，并向全体《助（筑）力西迁——交大西迁博物馆建设基金项目》捐赠人发出诚挚邀请。近日，教</span>
+</a>
+</li>
+<li>
+<a data-time="2018-11-20" href="info/1020/2284.htm">
+<img src="/__local/A/4C/33/2E769472D6344C6FABB9680B595_C87A19EE_16C17.jpg"/>
+<div></div>
+<p>【捐赠故事】用尽一生做一个光明磊落的人</p>
+<span>秋风起兮白云飞，草木黄落兮雁南归。金秋时节，在一个推窗望去，满目金黄的午后，建斌校友如约而至。作为西安交大的兼职教授及“校友剑冰奖励基金”的设立者，建斌校友会在繁忙的工作之余回到母校，与学弟学妹们畅聊交流，君子之交淡如水，目之所至，心藏万象，恬淡处之，意蕴深远。脚踏实地，低飞远行“我那青春岁月也一样</span>
+</a>
+</li>
+<li>
+<a data-time="2018-09-10" href="info/1020/2164.htm">
+<img src="/__local/9/F2/37/037C3BB96F981B76F92E2E4517B_2C752350_1CCF8.png"/>
+<div></div>
+<p>【捐赠故事】忠厚传家继世长，念念不忘教育情</p>
+<span>距2017年7月陈学俊院士逝世已经一年有余，时光如白驹过隙，宿草春风又，总思量，更难忘。在学校光影交织的梧桐道上，在彻夜长明的实验室里，似乎依然还留存着陈院士学习、工作的影子。江山回首发如雪，梦绕神州强国路，忠厚传家继世长，丹心不灭思今古。曾经在最艰苦的环境之中，陈教授“不坠青云之志”；国泰民安之时，陈</span>
+</a>
+</li>
+<li>
+<a data-time="2018-09-01" href="info/1020/2130.htm">
+<img src="/__local/A/EA/54/6129A20B74D624BCFF2393B7417_DC258123_CB42.jpg"/>
+<div></div>
+<p>【捐赠故事】做公益力量的传递者——记国运-交大青年领导力项目</p>
+<span>2018年夏，国运—交大青年领导力二期项目举行了结题仪式，其中星星的孩子、玉树实践、利涉大川珠峰徒步计划等公益项目进行了结题汇报。岁月流转，时光如梭，在陕西国运教育慈善基金会的大力支持下，国运交大项目已开展到了第三个年头，三期共涌现出53个优秀公益项目，涵盖了科技、文化、支教、艺术、医疗等各个领域，公益之</span>
+</a>
+</li>
+<li>
+<a data-time="2018-07-20" href="info/1020/2057.htm">
+<img src="/__local/D/B4/A8/E933579802B459165DC009CF5C4_D302BA0D_A91C.jpg"/>
+<div></div>
+<p>峥嵘岁月六十余载归来仍是赤子之心——访捐赠人陈听宽教授</p>
+<span>延陵多才子，其名唤听宽。沪上逢交大，长安落余年。斗转六十载，星移心未变。只此赤子意，报予湖畔边。陈听宽教授，江苏常州人。1956年毕业于交通大学动力机械系锅炉专业。1960年获得西安交通大学四年制硕士研究生学位，之后留校任教。一声西迁令，一生交大情‍江苏常州，旧谓延陵，史称“三吴重镇，八邑名都”，亦是袁枚笔</span>
+</a>
+</li>
+<li>
+<a data-time="2018-06-19" href="info/1020/2030.htm">
+<img src="/__local/8/AC/34/38D8710F7E91307FC23D63E4BF5_8B2332C6_87A9.jpg"/>
+<div></div>
+<p>潜心磨剑五十载，饮水思源志淡泊——访捐赠人俞茂宏教授</p>
+<span>俞茂宏教授，祖籍浙江宁波，1934年11月出生于江苏镇江，1951至1955年就读于浙江大学，毕业后历任交通大学助教和西安交通大学助教、讲师、副教授和教授。2005年退休。不论是奋斗在教学一线，还是荣休后，俞教授对科研都保持着一如既往的热情和坚持。通过长达半个世纪的潜心研究，破解了基础力学理论领域的世界性难题，使中国</span>
+</a>
+</li>
+<li>
+<a data-time="2018-04-25" href="info/1020/1861.htm">
+<img src="/__local/4/CB/0A/2BBDE7E1DAA340449B0B14F9A04_2D03DC76_89E7.jpg"/>
+<div></div>
+<p>【捐赠故事】让海外精品雕塑文物“回归故里”​——记唐仲英基金</p>
+<span>引语：唐仲英基金会自2003年起至今，持续在西安交大捐赠设立公益项目10余项，内容涵盖人才培养、实践活动、文化建设等等，有力支持了学校教育事业的发展。其中，唐仲英艺术庭院建设、中国濒危泥塑彩绘艺术遗产保护两个文化类项目均由贾濯非教授团队实施，受到了唐仲英基金会的肯定与认可。下面，就让我们一起走进郁郁葱葱的</span>
+</a>
+</li>
+<li>
+<a data-time="2018-04-02" href="info/1020/1762.htm">
+<img src="/__local/2/CB/3A/6961F726594A135026677AF0CC9_418D9EA3_38CB1.jpg"/>
+<div></div>
+<p>不驰空想，不骛虚声——采访西​安交通大学上海校友会会长、AMT</p>
+<span>         博士总裁？儒雅绅士？创业大佬？一众标签似乎极为精细地勾勒出西安交通大学上海校友会会长、AMT企源科技创始人及CEO孔祥云校友的肖像，但又远不能够完整形容。在同行眼中，他高屋建瓴，兼具勇气和毅力，誓将AMT企源科技打造为中国人创办的世界级咨询服务企业；在校友同乡眼中，他文雅亲和，虚怀若谷，是校友会或同</span>
+</a>
+</li>
+<li>
+<a data-time="2018-03-01" href="info/1020/1748.htm">
+<img src="/__local/0/53/A6/18F7DE6345C35FC7643EB2D4CCD_2D9FBFB0_1CAA3.png"/>
+<div></div>
+<p>【捐赠故事】架桥不止 筑梦不息</p>
+<span>甘肃秦安，即使在一个干旱少雨的地方，也有个别月份的湍急水流阻挡着村民的脚步。架桥不止，筑梦不息，2018年西安交通大学无止桥团队的下一个目的地就是这里。作为全国无止桥创始团队之一，在香港无止桥基金会与西安交通大学教育基金会的大力支持下，西安交大无止桥团队已走过了风风雨雨的12个年头。缘起‍“无止桥”团队因</span>
+</a>
+</li>
+<li>
+<a data-time="2018-01-02" href="info/1020/1701.htm">
+<img src="/__local/4/8C/06/731E6A50FA44ECF7B8C40DCF658_37603EA4_55933.jpg"/>
+<div></div>
+<p>【捐赠故事】精进持恒，感恩修行——访南洋书院院长、精进基金会</p>
+<span>春风化雨，润物无声。或许用这句话来形容西安交通大学南洋书院院长、精进基金会创始人潘宗光教授最为合适，但似乎又远远不够。对许多青年学者来说，他学问精深，是学界泰斗，甚至两次被瑞典皇家科学院邀请提名诺贝尔化学奖候选人；对香港的大学师生来说，他是潜心人才培养的教育家，从事大学教育40载；对许多受他点化，开始</span>
+</a>
+</li>
+</ul></div></div><script>_showDynClickBatch(['dynclicks_u15_2538','dynclicks_u15_2284','dynclicks_u15_2164','dynclicks_u15_2130','dynclicks_u15_2057','dynclicks_u15_2030','dynclicks_u15_1861','dynclicks_u15_1762','dynclicks_u15_1748','dynclicks_u15_1701'],[2538,2284,2164,2130,2057,2030,1861,1762,1748,1701],"wbnews", 1360182284)</script>
+</div></div></div>
+<div class="footerWarp">
+<div class="links"><span>友情链接</span> <ul>
+<li><a href="http://www.xjtu.edu.cn/" onclick='_addDynClicks("wburl", 1360182284, 33464)'>西安交通大学</a></li>
+<li><a href="http://yuejuanwang.xjtu.edu.cn" onclick='_addDynClicks("wburl", 1360182284, 33465)'>西安交通大学众筹平台--思源悦捐网</a></li>
+<li><a href="http://xsc.xjtu.edu.cn/" onclick='_addDynClicks("wburl", 1360182284, 33466)'>西安交通大学学生处</a></li>
+<li><a href="http://alumni.xjtu.edu.cn/" onclick='_addDynClicks("wburl", 1360182284, 33467)'>西安交通大学校友网</a></li>
+<li><a href="http://job.xjtu.edu.cn/" onclick='_addDynClicks("wburl", 1360182284, 33468)'>西安交通大学就业创业网</a></li>
+</ul></div>
+<div class="footer">
+<div>
+<dl class="cleafix">
+<dt><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p><span class="copyRight">版权所有 ：西安交通大学教育基金会 陕ICP备06008037号</span>                            <span class="phone_number">电    话 ：029-82668262 传真：029—82668199</span>                            </p><p><span class="address">地    址 ：西安交通大学东南门出版大厦十九楼(1904办公室、1905办公室、1906办公室、                         1907办公室、1909办公室)</span>                            <span class="code">邮政编码： 710049</span>                            <span class="tech">技术支持与维护：西安交通大学数据与信息中心</span></p></dt>
+<dd>
+<ul> <li><a class="weixin" href="javascript:void(0);" title="官方微信"> <div><img src="imagess/qrcode_for_gh_a6de40c7e88a_258.jpg"/></div> <span>官方微信</span></a></li>
+<li><a class="sina" href="javascript:void(0);" title="新浪微博"> <span>新浪微博</span></a></li>
+<li><a class="tenxun" href="javascript:void(0);" title="腾讯微博"> <span>腾讯微博</span></a></li>
+<li><a class="phone" href="javascript:void(0);" onclick="_vsb_multiscreen.setDevice('mobile')" title="手机版"><span>手机版</span></a></li>
+</ul></dd></dl></div></div></div><script src="js/jqthumb.js"></script><script>
+    $(function(){
+        $('.back_icon img').jqthumb({
+            className: 'jqthumb',
+            width: 100+'%',
+            height: 100+'%',
+            position: {
+                top  : '50%',
+                left : '50%'
+            },
+            source: 'src'
+        });
+    });
+</script>
+

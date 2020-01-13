@@ -1,0 +1,376 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html><head><title>西安交通大学信息公开平台</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><link href="style/master.css" rel="stylesheet" type="text/css"/><script type="text/javascript">
+<!--
+if(/AppleWebKit.*Mobile/i.test(navigator.userAgent) ||(/MIDP|SymbianOS|NOKIA|SAMSUNG|LG|NEC|TCL|Alcatel|BIRD|DBTEL|Dopod|PHILIPS|HAIER|LENOVO|MOT-|Nokia|SonyEricsson|SIE-|Amoi|ZTE/.test(navigator.userAgent))){
+    if(window.location.href.indexOf("?mobile")<0){
+        try{
+            if(/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)){
+                window.location.href="http://mxxgk.xjtu.edu.cn/";
+            }else if(/iPad/i.test(navigator.userAgent)){
+                window.location.href="http://mxxgk.xjtu.edu.cn/";
+            }else{
+                window.location.href="http://mxxgk.xjtu.edu.cn/";
+            }
+        }catch(e){}
+    }
+}
+-->
+</script>
+<style></style>
+<style></style>
+<style></style>
+<style></style>
+<style></style>
+<style></style>
+<noscript><iframe height="0" src="*.html" style="display:none" width="0"></iframe></noscript>
+<!--Announced by Visual SiteBuilder 9-->
+<link href="_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230697547545253554603060005 -->
+<link href="index.vsb.css" rel="stylesheet" type="text/css"/>
+<meta content="西安交通大学信息公开平台" name="keywords">
+<script src="system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1113170786)</script>
+<!--[if lt IE 7]><script type="text/javascript" src="/system/resource/js/unitpngfix/unitpngfix.js"></script><![endif]--></meta></link></head>
+<body onbeforecopy="return false" oncontextmenu="return false" oncopy="document.selection.empty()" ondragstart="return false" onselect="document.selection.empty()" onselectstart="return false">
+<div class="top">
+<div class="t_lj"></div>
+<div class="t_fla">
+<div class="logo"><!--#begineditable viewid="1002" name="LOGO"--><table border="0" cellpadding="0" cellspacing="0"><tr><td><a alt="网站LOGO" href="index.htm" title="西安交大信息公开网"><img alt="西安交大信息公开网" border="0" src="images/logo1.png" title="西安交大信息公开网"/></a></td></tr></table><!--#endeditable--></div></div></div>
+<div class="nav">
+<div class="nav_l"><!--#begineditable viewid="1003" name="欢迎文本框"--><script language="javascript" src="system/resource/js/news/mp4video.js"></script>
+欢迎光临西安交通大学信息公开平台！<!--#endeditable--></div>
+<div class="nav_c"><!--#begineditable viewid="1004" name="文本日历"--><script language="javascript" src="system/resource/js/calendar/simple.js"></script>
+<script language="JavaScript">
+//阳历
+var c_Calendar1004EnDateString;
+
+var c_Calendar1004WeekDayString;
+
+//阴历
+var c_Calendar1004CnDateString;
+//节气
+var c_Calendar1004JQString;
+//年
+var c_Calendar1004YearString;
+//月
+var c_Calendar1004MonthString;
+//日
+var c_Calendar1004DayString;
+//周
+var c_Calendar1004WeekString;
+function RunGLNL1004()
+{          
+    var  sc =new Simple_Calendar ();
+    sc.init();
+    c_Calendar1004CnDateString=sc.getCnDateString();
+    c_Calendar1004WeekDayString=sc.getCalendarWeekString();
+    c_Calendar1004JQString=sc.getJQString();
+    c_Calendar1004EnDateString=sc.getEnDateString();
+    c_Calendar1004YearString=sc.getYearString();
+    c_Calendar1004MonthString=sc.getMonthString();
+    c_Calendar1004DayString=sc.getDayString();
+    c_Calendar1004WeekString=sc.getWeekString();    
+}
+RunGLNL1004();
+document.write('<div id="c_lunar1004"   class="fontstyle1004"  >今天是：');       
+document.write(c_Calendar1004EnDateString);
+document.write("&nbsp;&nbsp;"+c_Calendar1004WeekDayString);
+document.write("&nbsp;&nbsp;"+c_Calendar1004CnDateString);document.write("</div>");
+</script>
+<!--#endeditable--></div>
+<div class="nav_r"><!--#begineditable viewid="1013" name="全文检索-简单检索"--><style>
+select { font-family : Trebuchet MS;*font-size:16px;}
+</style>
+<form action="search.jsp?urltype=egovinfo.EgovSearchList&amp;wbtreeid=1001&amp;stype=sindex" id="simplesearch1013" method="post" name="simplesearch1013" style="*margin-top:5px">
+<input id="searchScope" name="searchScope" type="hidden" value="0"/>
+<input id="indexsearchkeyword" name="indexsearchkeyword" style="width:178px;*width:158px;padding-left:3px;padding-right:2px;height:28px;border:0;line-height:28px;background:url(images/search_input.gif) no-repeat left;vertical-align:middle" type="text" value="">
+<select id="indexsearchtype" name="indexsearchtype" style="height:28px;line-height:28px;vertical-align:middle;padding:2px 0">
+<option selected="" value="1">
+        全部
+    </option>
+<option value="2">
+        名称
+    </option>
+<option value="3">
+        正文
+    </option>
+<option value="4">
+        索引号
+    </option>
+<option value="5">
+        文号
+    </option>
+<option value="6">
+        关键词
+    </option>
+<option value="7">
+        公开目录
+    </option>
+<option value="8">
+        服务对象
+    </option>
+<option value="9">
+        体裁分类
+    </option>
+<option value="10">
+        发布机构
+    </option>
+</select>
+<select id="indexsearchtime" name="indexsearchtime" style="height:28px;vertical-align:middle;padding:2px 0;border:0;line-height:28px">
+<option value="0">
+        全部时间
+    </option>
+<option value="2020">2020</option>
+<option value="2019">2019</option>
+<option value="2018">2018</option>
+<option value="2017">2017</option>
+<option value="2016">2016</option>
+<option value="2015">2015</option>
+<option value="2014">2014</option>
+<option value="2013">2013</option>
+<option value="2012">2012</option>
+<option value="2011">2011</option>
+<option value="2010">2010</option>
+<option value="2009">2009</option>
+<option value="2008">2008</option>
+<option value="2007">2007</option>
+<option value="2006">2006</option>
+<option value="2005">2005</option>
+<option value="2004">2004</option>
+<option value="2003">2003</option>
+</select>
+<input src="images/search_but.gif" style="cursor: hand;width:70px;height:28px;vertical-align:middle" type="image"/>
+</input></form><!--#endeditable--></div></div>
+<div class="clear5"></div>
+<div class="clear5"></div>
+<div class="ejmain">
+<div class="ejm_left">
+<ul><!--#begineditable viewid="1006" name="网站二级导航"--> <li><a href="pt_list_lm.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1011" id="nav_home" title="信息公开指南">信息公开指南</a></li>
+<li><a href="pt_list_lm.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1012" id="nav_home" title="最新信息公开">最新信息公开</a></li>
+<li><a href="pt_list_lm.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1013" id="nav_home" title="信息公开年度报告">信息公开年度报告</a></li>
+<li><a href="pt_list_lm.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1014" id="nav_home" title="信息公开规章制度">信息公开规章制度</a></li>
+<li><a href="liuyan.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1076" id="nav_home" title="信息公开意见箱">信息公开意见箱</a></li>
+<li><a href="http://xxgk.xjtu.edu.cn/list_lm.jsp?urltype=egovinfo.EgovTreeURl&amp;wbtreeid=1015&amp;type=egovinfosubcattree2&amp;sccode=xxgkml&amp;subtype=3&amp;gilevel=1" id="nav_home" title="信息公开目录">信息公开目录</a></li>
+<li><a href="bnxh.htm" id="nav_home" title="百年薪火">百年薪火</a></li>
+<!--#endeditable--></ul>
+<div style="width: 216px;margin: 0px auto"><!--#begineditable viewid="60681" name="图片变换"--><style type="text/css">
+ul,li{
+    padding:0;
+    margin:0;
+    list-style:none;}
+#flashBoxu_u5_{
+    width:215px;
+    height:756px;
+    border:0px solid #EEE;
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;}
+#flashBoxu_u5_ img{
+    /*初始不要显示*/
+    display:none;
+    /*用边框来实现空位，因为margin和paading有时会引起些麻烦*/
+    border:0px solid #FFF;}
+#flashBoxu_u5_ ul{
+    display:none;
+    position:absolute;
+    right:7px;
+    bottom:3px;
+    font:9px tahoma;}
+#flashBoxu_u5_ ul li{
+    display:none;
+    float:left;
+    width:12px;
+    height:12px;
+    line-height:12px;
+    margin-right:3px;
+    border:0px solid #999;
+    background:#F0F0F0;
+    text-align:center;
+    cursor:pointer;}
+#flashBoxu_u5_ ul li.hover{
+    border-color:red;
+    background:#FFE1E1;
+    color:red;}
+</style>
+<script type="text/javascript">
+function flashBoxCtrl(o){
+    this.obj=document.getElementById(o);
+    //这个私有方法虽然写了，但暂时没用到
+    function addListener(ele,eventName,functionBody){
+        if (ele.attachEvent){
+            ele.attachEvent("on"+eventName, functionBody);
+        }else if (ele.addEventListener){
+            ele.addEventListener("on"+eventName,functionBody, false);
+        }else{
+            return false;
+        }
+    }
+    //初始化
+    this.init=function(){
+        var objImg=this.obj.getElementsByTagName("img");
+        var tagLength=objImg.length;
+        if (tagLength>0){
+            var oUl=document.createElement("ul");
+            oUl.setAttribute("id",o+"numTag");
+            for (var i=0;i<tagLength;i++){
+                var oLi=oUl.appendChild(document.createElement("li"));
+                if (i==0){
+                    oLi.setAttribute("class","hover"); //初始化时把第一个设置为高亮
+                    oLi.setAttribute("className","hover");
+                }
+                //设置标签的数字
+                oLi.appendChild(document.createTextNode((i+1)));
+            }
+            this.obj.appendChild(oUl);
+            objImg[0].style.display="block";
+            //设置标签事件
+            var oTag=this.obj.getElementsByTagName("li");
+            for (var i=0;i<oTag.length;i++){
+                var flag = 0;
+                var temp = 0;
+                var timeout=null;
+                var step = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    this.className="hover";
+                    flag = flag>=oTag.length-1?0:flag+1;
+                    objImg[flag].style.display="block";
+                    oTag[flag].className = "hover";
+                    timeout = setTimeout(step,5000);
+                };
+                oTag[i].onmouseover=function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                        temp = j;
+                    }
+                    this.className="hover";
+                    objImg[this.innerHTML-1].style.display="block";
+                    temp = this.innerHTML-1;
+                    flag = i;
+                    clearInterval(timeout);
+                }
+                oTag[i].onmouseout = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    flag = temp;
+                    objImg[temp].style.display="block";
+                    oTag[temp].className = "hover";
+                    timeout = setTimeout(step,5000);
+                }
+                if(i==0)
+                {
+                    timeout = setTimeout(step,5000);
+                }
+            }
+        }
+    };
+    //自动滚动的方法还没写
+    this.imgRoll=function(){};
+    //生成对象时自动加载init()方法以初始化对象
+    this.init();
+}
+</script>
+<table border="0" cellpadding="0" cellspacing="0"><tr><td><div id="flashBoxu_u5_"><img border="0" height="756" src="images/huandeng3.jpg" width="215"><img border="0" height="756" src="images/huandeng1.jpg" width="215"/><img border="0" height="756" src="images/huandeng2.jpg" width="215"/></img></div></td></tr></table><script language="JavaScript">new flashBoxCtrl("flashBoxu_u5_");</script><!--#endeditable--></div></div>
+<div class="cont_zw"><!-- 板块一 -->
+<div class="mt_1">
+<div class="mtl_bt">基本信息</div>
+<div class="mtl_pic"><!--#begineditable viewid="1047" name="基本信息-自定义分类列表"--> <a "="" class="c1047nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=xxjj&amp;subtype=3&amp;gilevel=2&amp;openitem=xxjj:2" target="_blank" title=" title=" 学校简介"="">学校简介</a>
+<a "="" class="c1047nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=ldbz&amp;subtype=3&amp;gilevel=2&amp;openitem=ldbz:2" target="_blank" title=" title=" 领导班子"="">领导班子</a>
+<a "="" class="c1047nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=jgsz&amp;subtype=1&amp;gilevel=2&amp;openitem=jgsz:2" target="_blank" title=" title=" 机构设置"="">机构设置</a>
+<a "="" class="c1047nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=xkqk&amp;subtype=3&amp;gilevel=2&amp;openitem=xkqk:2" target="_blank" title=" title=" 学科情况"="">学科情况</a>
+<a "="" class="c1047nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=zysz&amp;subtype=1&amp;gilevel=2&amp;openitem=zysz:2" target="_blank" title=" title=" 专业设置"="">专业设置</a>
+<a "="" class="c1047nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=xxzc&amp;subtype=3&amp;gilevel=2&amp;openitem=xxzc:2" target="_blank" title=" title=" 学校章程"="">学校章程</a>
+<a "="" class="c1047nav_2" href="gzzd.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1023" target="_blank" title=" title=" 规章制度"="">规章制度</a>
+<a "="" class="c1047nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=jzgdbdh&amp;subtype=1&amp;gilevel=2&amp;openitem=jzgdbdh:2" target="_blank" title=" title=" 教职工代表大会"="">教职工代表大会</a>
+<a "="" class="c1047nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=sxwyh&amp;subtype=3&amp;gilevel=2&amp;openitem=sxwyh:2" target="_blank" title=" title=" 学术委员会"="">学术委员会</a>
+<a "="" class="c1047nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=fzgh&amp;subtype=3&amp;gilevel=2&amp;openitem=fzgh:2" target="_blank" title=" title=" 发展规划"="">发展规划</a>
+<a "="" class="c1047nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=yldxjsfa&amp;subtype=1&amp;gilevel=2&amp;openitem=yldxjsfa:2" target="_blank" title=" title=" 一流大学建设"="">一流大学建设</a>
+<a "="" class="c1047nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=ndgzjh&amp;subtype=1&amp;gilevel=2&amp;openitem=ndgzjh:2" target="_blank" title=" title=" 年度工作计划"="">年度工作计划</a>
+<!--#endeditable--></div></div><!-- 板块二 -->
+<div class="mt_1">
+<div class="mtl_bt">招生考试信息</div>
+<div class="mtl_pic"><!--#begineditable viewid="1048" name="招生考试信息-自定义分类列表"--> <a "="" class="c1048nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=bkszs&amp;subtype=1&amp;gilevel=2&amp;openitem=bkszs:2" target="_blank" title=" title=" 本科生招生"="">本科生招生</a>
+<a "="" class="c1048nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=yjszs&amp;subtype=1&amp;gilevel=2&amp;openitem=yjszs:2" target="_blank" title=" title=" 研究生招生"="">研究生招生</a>
+<!--#endeditable--></div></div><!-- 板块三 -->
+<div class="mt_1">
+<div class="mtl_bt">财务、资产及收费信息</div>
+<div class="mtl_pic"><!--#begineditable viewid="1049" name="资产财务信息-自定义分类列表"--> <a "="" class="c1049nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=cwgl&amp;subtype=1&amp;gilevel=2&amp;openitem=cwgl:2" target="_blank" title=" title=" 财务管理"="">财务管理</a>
+<a "="" class="c1049nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=zcgl&amp;subtype=1&amp;gilevel=2&amp;openitem=zcgl:2" target="_blank" title=" title=" 资产管理"="">资产管理</a>
+<a "="" class="c1049nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=jzgl&amp;subtype=1&amp;gilevel=2&amp;openitem=jzgl:2" target="_blank" title=" title=" 捐赠管理"="">捐赠管理</a>
+<a "="" class="c1049nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=xbqy&amp;subtype=1&amp;gilevel=2&amp;openitem=xbqy:2" target="_blank" title=" title=" 校办企业"="">校办企业</a>
+<a "="" class="c1049nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=ztbgl&amp;subtype=1&amp;gilevel=2&amp;openitem=ztbgl:2" target="_blank" title=" title=" 建设工程招投标"="">建设工程招投标</a>
+<a "="" class="c1049nav_2" href="http://xxgk.xjtu.edu.cn/czlist_lmm.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1118" target="_blank" title=" title=" 采购管理"="">采购管理</a>
+<!--#endeditable--></div></div><!-- 板块四 -->
+<div class="mt_1">
+<div class="mtl_bt">人事师资信息</div>
+<div class="mtl_pic"><!--#begineditable viewid="1050" name="人事师资信息-自认识定义分类列表"--> <a "="" class="c1050nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=xjld&amp;subtype=1&amp;gilevel=2&amp;openitem=xjld:2" target="_blank" title=" title=" 校级领导干部社会兼职情况"="">校级领导干部社会兼职情况</a>
+<a "="" class="c1050nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=zjqk&amp;subtype=1&amp;gilevel=2&amp;openitem=zjqk:2" target="_blank" title=" title=" 校级领导干部因公出国（境）情况"="">校级领导干部因公出国（境）情况</a>
+<a "="" class="c1050nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=gbrm&amp;subtype=1&amp;gilevel=2&amp;openitem=gbrm:2" target="_blank" title=" title=" 干部任免"="">干部任免</a>
+<a "="" class="c1050nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=gbzp&amp;subtype=1&amp;gilevel=2&amp;openitem=gbzp:2" target="_blank" title=" title=" 干部招聘"="">干部招聘</a>
+<a "="" class="c1050nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=gwsz&amp;subtype=1&amp;gilevel=2&amp;openitem=gwsz:2" target="_blank" title=" title=" 岗位设置"="">岗位设置</a>
+<a "="" class="c1050nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=jzgpy&amp;subtype=1&amp;gilevel=2&amp;openitem=jzgpy:2" target="_blank" title=" title=" 教职工聘用"="">教职工聘用</a>
+<a "="" class="c1050nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=jzgzyjjbf&amp;subtype=1&amp;gilevel=2&amp;openitem=jzgzyjjbf:2" target="_blank" title=" title=" 教职工争议解决办法"="">教职工争议解决办法</a>
+<!--#endeditable--></div></div><!-- 板块五 -->
+<div class="mt_1">
+<div class="mtl_bt">教学质量信息</div>
+<div class="mtl_pic"><!--#begineditable viewid="1051" name="教学质量信息-自定义分类列表"--> <a "="" class="c1051nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=xzzy&amp;subtype=1&amp;gilevel=2&amp;openitem=xzzy:2" target="_blank" title=" title=" 新增专业"="">新增专业</a>
+<a "="" class="c1051nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=bkjxjbxx&amp;subtype=1&amp;gilevel=2&amp;openitem=bkjxjbxx:2" target="_blank" title=" title=" 本科教学基本信息"="">本科教学基本信息</a>
+<a "="" class="c1051nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=ztzy&amp;subtype=1&amp;gilevel=2&amp;openitem=ztzy:2" target="_blank" title=" title=" 停招专业"="">停招专业</a>
+<a "="" class="c1051nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=bkjxzlbg&amp;subtype=1&amp;gilevel=2&amp;openitem=bkjxzlbg:2" target="_blank" title=" title=" 本科教学质量报告"="">本科教学质量报告</a>
+<a "="" class="c1051nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=ysjxfz&amp;subtype=1&amp;gilevel=2&amp;openitem=ysjxfz:2" target="_blank" title=" title=" 艺术教育发展年度报告"="">艺术教育发展年度报告</a>
+<a "="" class="c1051nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=jyzd&amp;subtype=1&amp;gilevel=2&amp;openitem=jyzd:2" target="_blank" title=" title=" 就业指导"="">就业指导</a>
+<!--#endeditable--></div></div><!-- 板块六 -->
+<div class="mt_1">
+<div class="mtl_bt">学生管理服务信息</div>
+<div class="mtl_pic"><!--#begineditable viewid="1052" name="学生管理信息-自定义分类列表"--> <a "="" class="c1052nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=bksxjgl&amp;subtype=1&amp;gilevel=2&amp;openitem=bksxjgl:2" target="_blank" title=" title=" 本科生学籍管理"="">本科生学籍管理</a>
+<a "="" class="c1052nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=yjsxjgl&amp;subtype=1&amp;gilevel=2&amp;openitem=yjsxjgl:2" target="_blank" title=" title=" 研究生学籍管理"="">研究生学籍管理</a>
+<a "="" class="c1052nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=zjzc&amp;subtype=1&amp;gilevel=2&amp;openitem=zjzc:2" target="_blank" title=" title=" 奖助政策及处罚规定"="">奖助政策及处罚规定</a>
+<a "="" class="c1052nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=ssbf&amp;subtype=1&amp;gilevel=2&amp;openitem=ssbf:2" target="_blank" title=" title=" 申诉办法"="">申诉办法</a>
+<!--#endeditable--></div></div><!-- 板块七 -->
+<div class="mt_1">
+<div class="mtl_bt">学风建设信息</div>
+<div class="mtl_pic"><!--#begineditable viewid="1053" name="学风建设信息-自定义分类列表"--> <a "="" class="c1053nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=xfjjsjg&amp;subtype=1&amp;gilevel=2&amp;openitem=xfjjsjg:2" target="_blank" title=" title=" 学风建设机构"="">学风建设机构</a>
+<a "="" class="c1053nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=xsgfzd&amp;subtype=1&amp;gilevel=2&amp;openitem=xsgfzd:2" target="_blank" title=" title=" 学术规范制度"="">学术规范制度</a>
+<a "="" class="c1053nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=sxfb&amp;subtype=1&amp;gilevel=2&amp;openitem=sxfb:2" target="_blank" title=" title=" 学术不端查处机制"="">学术不端查处机制</a>
+<!--#endeditable--></div></div><!-- 板块八 -->
+<div class="mt_1">
+<div class="mtl_bt">学位、学科信息</div>
+<div class="mtl_pic"><!--#begineditable viewid="1054" name="学位学科信息-自定义分类列表"--> <a "="" class="c1054nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=xsxwyq&amp;subtype=1&amp;gilevel=2&amp;openitem=xsxwyq:2" target="_blank" title=" title=" 学士学位要求"="">学士学位要求</a>
+<a "="" class="c1054nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=ssbsxw&amp;subtype=1&amp;gilevel=2&amp;openitem=ssbsxw:2" target="_blank" title=" title=" 硕士、博士学位要求"="">硕士、博士学位要求</a>
+<a "="" class="c1054nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=xzxss&amp;subtype=1&amp;gilevel=2&amp;openitem=xzxss:2" target="_blank" title=" title=" 新增学士学位授权情况"="">新增学士学位授权情况</a>
+<a "="" class="c1054nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=xzbsxs&amp;subtype=1&amp;gilevel=2&amp;openitem=xzbsxs:2" target="_blank" title=" title=" 新增硕士、博士学位授权情况"="">新增硕士、博士学位授权情况</a>
+<!--#endeditable--></div></div><!-- 板块九 -->
+<div class="mt_1">
+<div class="mtl_bt">对外交流与合作信息</div>
+<div class="mtl_pic"><!--#begineditable viewid="1055" name="对外交流与合作信息-自定义分类列表"--> <a "="" class="c1055nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=hzbx&amp;subtype=1&amp;gilevel=2&amp;openitem=hzbx:2" target="_blank" title=" title=" 合作办学"="">合作办学</a>
+<a "="" class="c1055nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=lxsgl&amp;subtype=1&amp;gilevel=2&amp;openitem=lxsgl:2" target="_blank" title=" title=" 留学生管理"="">留学生管理</a>
+<!--#endeditable--></div></div><!-- 板块九 -->
+<div class="mt_1">
+<div class="mtl_bt">其他</div>
+<div class="mtl_pic"><!--#begineditable viewid="1056" name="其他-自定义分类列表"--> <a "="" class="c1056nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=xszyj&amp;subtype=1&amp;gilevel=2&amp;openitem=xszyj:2" target="_blank" title=" title=" 巡视组意见反馈"="">巡视组意见反馈</a>
+<a "="" class="c1056nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=yjclya&amp;subtype=1&amp;gilevel=2&amp;openitem=yjclya:2" target="_blank" title=" title=" 应急处理预案"="">应急处理预案</a>
+<a "="" class="c1056nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=yjxxjclqk&amp;subtype=1&amp;gilevel=2&amp;openitem=yjxxjclqk:2" target="_blank" title=" title=" 预警信息及处置情况"="">预警信息及处置情况</a>
+<a "="" class="c1056nav_2" href="list_lm.jsp?urltype=egovinfo.EgovCustomURl&amp;wbtreeid=1001&amp;type=subcattree&amp;sccode=zdsjdc&amp;subtype=1&amp;gilevel=2&amp;openitem=zdsjdc:2" target="_blank" title=" title=" 重大事件调查处理情况"="">重大事件调查处理情况</a>
+<!--#endeditable--></div></div></div></div>
+<div class="clear5"></div>
+<div style="height: 12px;width: 1000px;margin: 0px auto"></div>
+<div class="tail">
+<div class="tail_cont">
+<div class="tc_l"><!--#begineditable viewid="1008" name="版权"--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<div>版权所有：西安交通大学校长办公室    技术支持与维护：<a href="http://ic.xjtu.edu.cn/" style="color: #ffffff" target="_blank">网络信息中心</a></div><!--#endeditable--><!--#begineditable viewid="60679" name="计数器"-->
+<table align="center" width="1%">
+<tr>
+<td nowrap="" valign="middle"><span class="btextstyle60679">您是第：</span></td>
+<td nowrap="" valign="middle"><img src="system/_component/jsq/counter.jsp?wbtreeid=1001&amp;owner=1113170786&amp;len=8&amp;style=19&amp;basenum=0&amp;countertype=TOTAL_COUNTER"/></td>
+<td nowrap="" valign="middle"><span class="btextstyle60679">位访客</span></td>
+</tr>
+</table><!--#endeditable--></div></div></div>
+</body></html>

@@ -1,0 +1,121 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="fassets/AloeR@BMY" name="author"/>
+<link href="fassets/css/AloeR.css" rel="stylesheet" type="text/css"/>
+<title>西安交通大学办公自动化系统</title>
+<script>"undefined"==typeof CODE_LIVE&&(!function(e){var t={nonSecure:"8123",secure:"8124"},c={nonSecure:"http://",secure:"https://"},r={nonSecure:"127.0.0.1",secure:"gapdebug.local.genuitec.com"},n="https:"===window.location.protocol?"secure":"nonSecure";script=e.createElement("script"),script.type="text/javascript",script.async=!0,script.src=c[n]+r[n]+":"+t[n]+"/codelive-assets/bundle.js",e.getElementsByTagName("head")[0].appendChild(script)}(document),CODE_LIVE=!0);</script></head>
+<body data-genuitec-file-id="wc1-27" data-genuitec-lp-enabled="false" data-genuitec-path="/oa2018/WebRoot/zxgg_infonew_oa.jsp">
+<!--loginstart-->
+<input data-genuitec-file-id="wc1-27" data-genuitec-lp-enabled="false" data-genuitec-path="/oa2018/WebRoot/zxgg_infonew_oa.jsp" name="_ggfw" type="hidden" value="1"/>
+<!--loginend-->
+<table cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="998"><img src="fassets/images/oa.jpg"/></td>
+<td class="noa_top"> </td>
+</tr>
+</table>
+<!-- 打印2个隐含变量，供电子校历用  -->
+<input id="qcr" name="qcr" type="hidden" value="1"/>
+<input id="fromdeptname" name="fromdeptname" type="hidden" value="1"/>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td class="login_l"></td><td width="42"><img src="fassets/images/login_l.jpg"/></td><td class="login_r">  <a href="http://noa.xjtu.edu.cn"><img align="absmiddle" alt="登录OA系统" border="0" height="21" src="fassets/images/login.jpg" width="76"/></a></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td class="noa_list" colspan="2">
+<table cellpadding="0" cellspacing="3" width="100%">
+<tr>
+<td class="left_p1">
+<div class="home"><a class="home" href="index.jsp">返回首页</a></div>
+</td>
+<td class="right_p1">
+<div class="zxgg">详细信息</div>
+</td>
+</tr>
+<tr>
+<td class="list_left">
+<ul class="list_left" data-genuitec-file-id="wc1-15" data-genuitec-lp-enabled="false" data-genuitec-path="/oa2018/WebRoot/left_common.jsp">
+<li class="list_left"><a href="zxgg_index.jsp">通知公告</a></li>
+<li class="list_left"><a href="mzhy_index.jsp">会议安排</a></li>
+<li class="list_left"><a href="dxhd_index.jsp">学校大型活动</a></li>
+<!-- <li class="list_left"><a href="10wen_index.jsp">新OA系统使用十问解答</a></li>							 -->
+<li class="list_left"><a href="help.jsp">常见问题解答</a></li>
+<!-- <li class="list_left"><a href=" http://985ap.xjtu.edu.cn/viewlist.php?id=traindetail&pid=2">用户手册下载</a></li>
+							<li class="list_left1"><a href="http://985ap.xjtu.edu.cn/advise.php">意见及建议</a></li>
+							 -->
+</ul>
+<br/><br/>
+					    开发和维护：<a href="http://nic.xjtu.edu.cn/" target="_blank"><font color="red">西安交通大学网络信息中心</font></a>
+<br/>
+</td>
+<td align="center" class="list_right">
+<table align="center" cellpadding="0" cellspacing="0" class="nos_d" width="100%">
+<tr>
+<td>
+<span class="noa_title">关于更新学校主页交大简介和单位简介的通知</span>
+<span class="noa_f">网络信息中心 发布于2020-01-03 19:38〔已被读 2893 次〕</span>
+</td>
+</tr>
+<tr>
+<td class="nos_d"><div id="tzggzw">
+<p style='font-family: "微软雅黑","Microsoft YaHei"; font-size: 12px;'><span style="font-family: 宋体; font-size: 14px;"></span></p><p class="MsoNormal" style="margin: 0cm 0cm 0pt;"><span style="font-family: 宋体,SimSun; font-size: 18px;">各单位：<o:p style="font-family: 宋体,SimSun; font-size: 18px;"></o:p></span></p><p style='font-family: "微软雅黑","Microsoft YaHei"; font-size: 12px;'><span style="font-family: 宋体,SimSun; font-size: 18px;"></span></p><p class="MsoNormal" style="margin: 0cm 0cm 0pt;"><span style="font-family: 宋体,SimSun; font-size: 18px;"><span style="font-family: 宋体,SimSun; font-size: 18px; mso-spacerun: yes;">   </span>新年伊始，为做好学校主页内容建设，请各单位就主页中以下内容进行核对：<o:p style="font-family: 宋体,SimSun; font-size: 18px;"></o:p></span></p><p style='font-family: "微软雅黑","Microsoft YaHei"; font-size: 12px;'><span style="font-family: 宋体,SimSun; font-size: 18px;"></span></p><p class="MsoNormal" style="margin: 0cm 0cm 0pt;"><span style="font-family: 宋体,SimSun; font-size: 18px;"><span style="font-family: 宋体,SimSun; font-size: 18px; mso-spacerun: yes;">   </span>1、交大简介（http://www.xjtu.edu.cn/jdgk/jdjj.htm）中与本单位相关的内容、数据；<o:p style="font-family: 宋体,SimSun; font-size: 18px;"></o:p></span></p><p style='font-family: "微软雅黑","Microsoft YaHei"; font-size: 12px;'><span style="font-family: 宋体,SimSun; font-size: 18px;"></span></p><p class="MsoNormal" style="margin: 0cm 0cm 0pt;"><span style="font-family: 宋体,SimSun; font-size: 18px;"><span style="font-family: 宋体,SimSun; font-size: 18px; mso-spacerun: yes;">   </span>2、本单位简介及科研机构简介；<o:p style="font-family: 宋体,SimSun; font-size: 18px;"></o:p></span></p><p style='font-family: "微软雅黑","Microsoft YaHei"; font-size: 12px;'><span style="font-family: 宋体,SimSun; font-size: 18px;"></span></p><p class="MsoNormal" style="margin: 0cm 0cm 0pt;"><span style="font-family: 宋体,SimSun; font-size: 18px;"><span style="font-family: 宋体,SimSun; font-size: 18px; mso-spacerun: yes;">   </span>如需更新，请在师生服务大厅（one.xjtu.edu.cn）“主页与综合信息服务导航变更”流程，按照表单要求进行填写，简介文件可以附件形式上传。<o:p style="font-family: 宋体,SimSun; font-size: 18px;"></o:p></span></p><p style='font-family: "微软雅黑","Microsoft YaHei"; font-size: 12px;'><span style="font-family: 宋体,SimSun; font-size: 18px;"></span></p><p class="MsoNormal" style="margin: 0cm 0cm 0pt;"><span style="font-family: 宋体,SimSun; font-size: 18px;"><span style="font-family: 宋体,SimSun; font-size: 18px; mso-spacerun: yes;">   </span>联系人：<span style="font-family: 宋体,SimSun; font-size: 18px; mso-spacerun: yes;">  </span>王齐（QQ：36735911；电话：13110492499）<o:p style="font-family: 宋体,SimSun; font-size: 18px;"></o:p></span></p><p style='font-family: "微软雅黑","Microsoft YaHei"; font-size: 12px;'><span style="font-family: 宋体,SimSun; font-size: 18px;"></span></p><p class="MsoNormal" style="margin: 0cm 0cm 0pt;"><span style="font-family: 宋体,SimSun; font-size: 18px;"><span style="font-family: 宋体,SimSun; font-size: 18px; mso-spacerun: yes;">            </span>贺喜梅（QQ：1327679405；电话：15029037611）<o:p style="font-family: 宋体,SimSun; font-size: 18px;"></o:p></span></p><p style='font-family: "微软雅黑","Microsoft YaHei"; font-size: 12px;'><span style="font-family: 宋体,SimSun; font-size: 18px;"></span></p><p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: right;"><span style="font-family: 宋体,SimSun; font-size: 18px;">网络信息中心<o:p style="font-family: 宋体,SimSun; font-size: 18px;"></o:p></span></p><p style="text-align: right;"><span style="font-family: 宋体,SimSun; font-size: 18px;"></span></p><p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: right;"><span style="font-family: 宋体,SimSun; font-size: 18px;">2020年1月3日<o:p style="font-family: 宋体,SimSun; font-size: 18px;"></o:p></span></p><p style='font-family: "微软雅黑","Microsoft YaHei"; font-size: 12px;'><span style="font-family: 宋体,SimSun; font-size: 18px;"></span></p><p class="MsoNormal" style="margin: 0cm 0cm 0pt;"><span style="font-family: 宋体,SimSun; font-size: 18px;"><o:p style="font-family: 宋体,SimSun; font-size: 18px;"> </o:p></span></p><p style='font-family: "微软雅黑","Microsoft YaHei"; font-size: 12px;'><span style="font-family: 宋体; font-size: 14px;"></span></p><p style='font-family: "微软雅黑","Microsoft YaHei"; font-size: 12px;'> </p>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+								 
+							
+							</td>
+</tr>
+<tr>
+<td>
+</td>
+</tr>
+<tr>
+<td><span class="noa_f"> </span>
+</td>
+</tr>
+<tr height="25">
+<td> 							
+							
+							</td>
+</tr>
+<!--<tr height="25">
+							<td ><font color="blue"><b>相关公告</b></font> <img src='fassets/images/newflag.gif'/>	<br/>							
+							
+							</td>
+						</tr> -->
+<tr>
+<td> <table align="center" border="0" bordercolor="#d0d0d0" cellpadding="0" cellspacing="0" width="80%">
+<!-- <tr height="25"><td width="60%"> 相关公告内容</td></tr> -->
+</table>
+</td>
+</tr>
+<tr height="25">
+<td> 							
+							
+							</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<div align="center" id="mybottom">
+<table align="center" border="0" cellpadding="0" cellspacing="0" data-genuitec-file-id="wc1-1" data-genuitec-lp-enabled="false" data-genuitec-path="/oa2018/WebRoot/bottom_noa.jsp" width="100%">
+<tr><td align="center"><div align="center">开发和维护：<a href="http://nic.xjtu.edu.cn/" target="_blank"><font color="red">西安交通大学网络信息中心</font></a>  
+	<a href="http://www.beian.miit.gov.cn/" target="_blank">陕ICP备06008037号</a>  
+</div></td>
+</tr></table>
+</div>
+</body>
+</html>

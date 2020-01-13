@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no" name="viewport"/>
+<meta content="*" http-equiv="Access-Control-Allow-Origin"/>
+<title>西安交通大学校友网</title><meta content="西安交通大学校友网" name="keywords">
+<link href="css/public.css" rel="stylesheet" type="text/css"/>
+<link href="css/style.css" rel="stylesheet" type="text/css"/>
+<link href="css/20190521142657366Pc9.css" rel="stylesheet" type="text/css"/>
+<script src="/system/resource/js/jquery/jquery-latest.js"></script>
+<script charset="utf-8" src="http://cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.3/jquery.xdomainrequest.min.js" type="text/javascript"></script>
+<script src="/system/resource/xyw/js/crypto.js"></script>
+<script src="/system/resource/xyw/js/common.js"></script>
+<script src="js/20190521142641511kA7.js"></script>
+<script src="/system/resource/xyw/js/template-web.js"></script>
+<script src="js/public.js"></script>
+<script>
+          jQuery.support.cors = true;
+        </script>
+<!--Announced by Visual SiteBuilder 9-->
+<link href="_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css"/>
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232300201465c -->
+<link href="index.vsb.css" rel="stylesheet" type="text/css"/>
+<script devices="pc|pad" id="_vsbscreen" src="/system/resource/js/vsbscreen.min.js" type="text/javascript"></script>
+<script src="/system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1552753585)</script>
+</meta></head>
+<body>
+<div class="headbox">
+<div class="head clearfloat">
+<div class="menu">更多
+                </div>
+<div class="logo">
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="index.htm" title="新校友网"><img src="images/logo.png"/></a>
+</div>
+<div class="head_link clearfloat" style="    width: 420px;">
+<div class="head_top">
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script> <a class="wei" href="">微信公众号
+                     <div class="codes">
+<img src="images/20190428110900301Ryk.jpg"/>
+</div>
+</a>
+</div>
+<div class="sear_box clearfloat"><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode1284').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey1284").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey1284").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey1284").value = base64.encode(document.getElementById("lucenenewssearchkey1284").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode1284"));
+        return true;
+    } 
+</script>
+<form action="jsjg.jsp?wbtreeid=1001" id="au2a" method="post" name="au2a" onsubmit="return _nl_ys_check()" style="display: inline">
+<input id="lucenenewssearchkey1284" name="lucenenewssearchkey" type="hidden" value=""/><input id="_lucenesearchtype1284" name="_lucenesearchtype" type="hidden" value="1"/><input id="searchScope1284" name="searchScope" type="hidden" value="0"/>
+<input id="showkeycode1284" name="showkeycode" placeholder="站内搜索" type="text"/>
+<input align="absmiddle" class="sear_btn" src="images/20190402104933452mdI.png" style="cursor: hand;float: right;width: 26px;height: 27px;margin-right: 8px;margin-top: 4px;display: block;cursor: hand" type="image"/>
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+</div>
+</div>
+<div class="motto">
+<img src="images/motto.png"/>
+</div>
+</div>
+<!--head-->
+<div class="nav_box">
+<div class="nav">
+<ul class="clearfloat"><li><a href="index.htm">首页</a></li>
+<li><a href="shutu_list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1034">新闻公告</a></li>
+<li><a href="list_wt.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1044">校友服务</a></li>
+<li><a href="fxzn.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1051">校友联络</a></li>
+<li><a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1229">桃李芬芳</a></li>
+<li><a href="xyzs.jsp?urltype=tree.TreeTempUrl+&amp;wbtreeid=1059">校友刊物</a></li>
+<li><a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1228">回馈母校</a></li>
+<li><a href="fxzn.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1036">关于我们</a></li>
+<li><a href="zbjj.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1084">支部党建</a></li>
+<li><a href="English.htm">English</a></li>
+</ul>
+</div>
+<div class="head_link clearfloat">
+<div class="sear_box clearfloat"><script type="text/javascript">
+    function _nl_ys_check1(){
+        
+        var keyword = document.getElementById('showkeycode14101').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey1410").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey1410").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey1410").value = base64.encode(document.getElementById("lucenenewssearchkey1410").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode14101"));
+        return true;
+    } 
+</script>
+<form action="jsjg.jsp?wbtreeid=1001" id="au4a" method="post" name="au4a" onsubmit="return _nl_ys_check1()" style="display: inline">
+<input id="lucenenewssearchkey1410" name="lucenenewssearchkey" type="hidden" value=""/><input id="_lucenesearchtype1410" name="_lucenesearchtype" type="hidden" value="1"/><input id="searchScope1410" name="searchScope" type="hidden" value="0"/>
+<input id="showkeycode14101" name="showkeycode" placeholder="站内搜索" type="text"/>
+<input align="absmiddle" class="sear_btn" src="images/20190402104933452mdI.png" style="float: right;width: 18px;height: 18px;margin-right: 0;display: block; padding: 8px 8px 8px 0;" type="image"/>
+</form>
+</div>
+</div>
+</div>
+</div>
+<!--head-->
+<!--轮播-->
+<div class="device">
+<a class="arrow-left" href="#"></a>
+<a class="arrow-right" href="#"></a>
+<div class="swiper-container">
+<div class="swiper-wrapper"> <div class="swiper-slide"><a href="http://alumni.xjtu.edu.cn/wznr.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1115&amp;wbnewsid=4649"><img class="img-responsive" src="images/201912311516188571YS.png" width="100%"/></a></div>
+<div class="swiper-slide"><a href="http://alumni.xjtu.edu.cn/wznr.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1033&amp;wbnewsid=4621"><img class="img-responsive" src="images/20191220105244213Wgr.jpg" width="100%"/></a></div>
+<div class="swiper-slide"><a href="http://news.xjtu.edu.cn/info/1002/126833.htm"><img class="img-responsive" src="images/202001011439136531eK.png" width="100%"/></a></div>
+<div class="swiper-slide"><a href=""><img class="img-responsive" src="images/20191225093109013lyS.jpg" width="100%"/></a></div>
+<div class="swiper-slide"><a href="http://alumni.xjtu.edu.cn/wznr.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1137&amp;wbnewsid=4620"><img class="img-responsive" src="images/20191225090925922u9L.jpg" width="100%"/></a></div>
+</div>
+</div>
+<div class="pagination"></div>
+</div>
+<!-- banner end -->
+<script src="js/idangerous.swiper.min.js"></script>
+<script>
+        //swiper banner start
+        var mySwiper = new Swiper('.swiper-container',{
+        loop:true,//循环模式  是/否
+            grabCursor: true,//光标属性   当为true时，光标移动到banner上变成手掌的样式
+            paginationClickable: false,//生成分页控件
+            calculateHeight:true,//响应式容器高度
+            autoplay:3000,//过度时间
+           pagination: '.pagination',
+           paginationClickable: !0,
+           paginationBulletRender: function(a, b, c) {
+            return '<span class="' + c + '"></span>'
+        },
+        //    pagination: '.pagination',
+        //    loop:true,//循环模式  是/否
+         //   grabCursor: true,//光标属性   当为true时，光标移动到banner上变成手掌的样式
+        //    paginationClickable: false,//生成分页控件
+        //    calculateHeight:true,//响应式容器高度
+       //     autoplay:3000//过度时间
+        })
+        $(window).resize(function(){
+            var h=$(".swiper-slide").find("img").height();
+            $(".swiper-wrapper,.swiper-slide").css("height",h)
+        })
+        $('.arrow-left').on('click', function(e){
+            e.preventDefault()
+            mySwiper.swipePrev()
+        })
+        $('.arrow-right').on('click', function(e){
+            e.preventDefault()
+            mySwiper.swipeNext()
+        })
+        </script>
+<div class="news_box clearfloat">
+<div class="news"><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script><script language="javascript" src="/system/resource/js/centerCutImg.js"></script><script language="javascript" src="/system/resource/js/ajax.js"></script><div class="news_tit clearfloat">
+<span class="news_ch">新闻</span><span class="news_en">NEWS</span>
+</div>
+<div class="news_list">
+<ul>
+<li class="clearfloat">
+<div class="news_pic">
+<a href="wznr.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1139&amp;wbnewsid=4660"><img src="/__local/E/D5/87/16738B4243733717B51A4C9AFCB_6F561980_1ABC46.png"/></a>
+</div>
+<div class="news_cont">
+<a href="wznr.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1139&amp;wbnewsid=4660" target="_blank" title="【履新】王琦校友当选银川市政协副主席">
+<h2 class="news_name">【履新】王琦校友当选银川市政协副主席<span style="color:red; padding-left:10px;">new!</span> </h2>
+<div class="news_info">王琦校友当选银川市政协副主席 据银川晚报消息，2020年1月7日，我校校友王琦在中国人民政治协商会议银川市第十三届委员会第四次会议上当选为银川市政协副主席... </div>
+</a>
+</div>
+</li>
+<li class="clearfloat">
+<div class="news_pic">
+<a href="wznr.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1137&amp;wbnewsid=4654"><img src="/__local/8/A8/8C/F918307962816E1AA59A38F78C7_38E1150A_202D2.jpg"/></a>
+</div>
+<div class="news_cont">
+<a href="wznr.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1137&amp;wbnewsid=4654" target="_blank" title="西安交大湖北校友会2019年年会举行">
+<h2 class="news_name">西安交大湖北校友会2019年年会举行<span style="color:red; padding-left:10px;">new!</span> </h2>
+<div class="news_info">12月29日，西安交通大学湖北校友会2019年年会在武汉举行，在这个辞旧迎新的日子里湖北校友会迎来了她第三个生日，约120名校友来到现场参加本次年会。 </div>
+</a>
+</div>
+</li>
+<li class="clearfloat">
+<div class="news_pic">
+<a href="wznr.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1137&amp;wbnewsid=4653"><img src="/__local/1/ED/DF/01B81545D9A289779F23CCB9458_208FABAA_2041D.jpg"/></a>
+</div>
+<div class="news_cont">
+<a href="wznr.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1137&amp;wbnewsid=4653" target="_blank" title="2019年西安交通大学重庆校友年会举行">
+<h2 class="news_name">2019年西安交通大学重庆校友年会举行<span style="color:red; padding-left:10px;">new!</span> </h2>
+<div class="news_info">不忘初心 携手前行，2019年西安交通大学重庆校友年会举行。 </div>
+</a>
+</div>
+</li>
+</ul>
+</div>
+<div class="more">
+<a href="shutu_list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1034">查看更多</a>
+</div><script>_showDynClickBatch(['dynclicks_u6_4660','dynclicks_u6_4654','dynclicks_u6_4653'],[4660,4654,4653],"wbnews", 1552753585)</script>
+</div>
+<!--新闻-->
+<div class="notice"><div class="not_tit clearfloat">
+<span class="news_ch">公告</span><span class="news_en">NOTICE</span>
+</div>
+<div class="notice_list">
+<ul>
+<li class="clearfloat">
+<div class="not_date">
+<div class="not_mont">
+                                01-06
+                              </div>
+<div class="not_year">
+                               2020
+                              </div>
+</div>
+<div class="notice_cont">
+<a href="wznr.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1033&amp;wbnewsid=4652">
+<h2 class="not_name">【通知】关于职员招聘考察工作安排的通知<span style="color:red; padding-left:10px;">new!</span> </h2>
+<div class="not_info">期待你的加入！</div>
+</a>
+</div>
+</li>
+<li class="clearfloat">
+<div class="not_date">
+<div class="not_mont">
+                                12-20
+                              </div>
+<div class="not_year">
+                               2019
+                              </div>
+</div>
+<div class="notice_cont">
+<a href="wznr.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1033&amp;wbnewsid=4621">
+<h2 class="not_name">【通知】首届校友书画摄影展开展，欢迎校友参观<span style="color:red; padding-left:10px;">new!</span> </h2>
+<div class="not_info">展览时间：2019年12月22日-2020年2月20日</div>
+</a>
+</div>
+</li>
+<li class="clearfloat">
+<div class="not_date">
+<div class="not_mont">
+                                12-26
+                              </div>
+<div class="not_year">
+                               2019
+                              </div>
+</div>
+<div class="notice_cont">
+<a href="wznr.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1033&amp;wbnewsid=4643">
+<h2 class="not_name">【通知】欢迎收看中央电视台纪录片《西迁纪》<span style="color:red; padding-left:10px;">new!</span> </h2>
+<div class="not_info">中央电视台CCTV-10，首播12月27日21：20，重播12月28日9：17</div>
+</a>
+</div>
+</li>
+<li class="clearfloat">
+<div class="not_date">
+<div class="not_mont">
+                                12-26
+                              </div>
+<div class="not_year">
+                               2019
+                              </div>
+</div>
+<div class="notice_cont">
+<a href="wznr.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1033&amp;wbnewsid=4641">
+<h2 class="not_name">【通知】2019年度西安交通大学十大新闻评选</h2>
+<div class="not_info">进入专题网投票吧</div>
+</a>
+</div>
+</li>
+</ul>
+</div>
+<div class="more">
+<a href="list_notice.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1033">查看更多</a>
+</div><script>_showDynClickBatch(['dynclicks_u7_4652','dynclicks_u7_4621','dynclicks_u7_4643','dynclicks_u7_4641'],[4652,4621,4643,4641],"wbnews", 1552753585)</script>
+</div>
+</div>
+<!--新闻和公告-->
+<div class="popu_box"><div class="popu">
+<div class="popu_tit clearfloat">
+<span class="news_ch">活动报名</span>
+<div class="popu_en">
+<p>TOP </p>
+<p>ACTIVITIES</p>
+</div>
+<a class="po_more" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1194">查看更多</a>
+</div>
+<div class="popu_list">
+<ul class="clearfloat">
+<li>
+<div class="popu_pic" style="height: 198.221px;">
+<a class="pic_box" href="wznr.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1194&amp;wbnewsid=4656"><img src="/__local/4/D7/39/AE5B14E91F01F7D364AD1A00776_2DB3F7F6_923B.jpg"/></a>
+</div>
+<div class="popu_text" style="height:height: 78px;">
+<a href="wznr.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1194&amp;wbnewsid=4656">1990届校友纪念毕业30周年返校活动报名</a>
+<p>活动时间：2020年4月6日，活动对象：1990年毕业于西安交通大学、西安医科大学、陕西财经学院校友</p>
+</div>
+</li>
+<li>
+<div class="popu_pic" style="height: 198.221px;">
+<a class="pic_box" href="wznr.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1194&amp;wbnewsid=4600"><img src="/__local/8/9A/2B/8E33F99978B95396C2A4C82BC7B_BE593F17_2641E.jpg"/></a>
+</div>
+<div class="popu_text" style="height:height: 78px;">
+<a href="wznr.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1194&amp;wbnewsid=4600">西安交通大学各地区校友会2019年年会报名</a>
+<p>重庆，上海，宁夏，安徽、继续教育、新疆、潍坊、惠州、济南、烟威、徐州、广东、日本、贵州、广西，四川</p>
+</div>
+</li>
+<li>
+<div class="popu_pic" style="height: 198.221px;">
+<a class="pic_box" href="wznr.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1194&amp;wbnewsid=4658"><img src="/__local/2/FB/2E/C0355E907F631320F704CCE7432_F33CA56D_2FAB0.jpg"/></a>
+</div>
+<div class="popu_text" style="height:height: 78px;">
+<a href="wznr.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1194&amp;wbnewsid=4658">2020年校友返校服务</a>
+<p>欢迎各个年级的校友返校，校友关系发展部、西安交通大学校友总会将全面做好校友返校服务</p>
+</div>
+</li>
+</ul>
+</div>
+</div><script>_showDynClickBatch(['dynclicks_u8_4656','dynclicks_u8_4600','dynclicks_u8_4658'],[4656,4600,4658],"wbnews", 1552753585)</script>
+</div>
+<!--热门活动-->
+<!--校友风采-->
+<div class="demeanor">
+<div class="deme_tit clearfloat">
+<span class="news_ch">校友故事</span>
+<div class="popu_en">
+<p>ALUMNI</p>
+<p>STORY</p>
+</div>
+<a class="de_more" href="fcl.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1042">查看更多</a>
+</div>
+<div class="demelist"><ul class="clearfloat">
+<li class="clearfloat">
+<div class="deme_date">
+<div class="deme_mont">
+                                06-12
+                              </div>
+<div class="de_year">
+                                2019
+                              </div>
+</div>
+<div class="de_cont">
+<a href="wznr.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1042&amp;wbnewsid=4217">
+<h2 class="de_name">“校友故事”征稿启事</h2>
+<div class="de_info">  百廿交大，岁月如歌，我们的母校西安交通大学如今已跨越了三个世纪，...</div>
+</a>
+</div>
+</li>
+<li class="clearfloat">
+<div class="deme_date">
+<div class="deme_mont">
+                                01-12
+                              </div>
+<div class="de_year">
+                                2020
+                              </div>
+</div>
+<div class="de_cont">
+<a href="wznr.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1042&amp;wbnewsid=4663">
+<h2 class="de_name">吴宜灿：认准的事 一头扎下去</h2>
+<div class="de_info">吴宜灿：认准的事 一头扎下去作者 吴月辉 吴宜灿，1985年毕业于西安交通...</div>
+</a>
+</div>
+</li>
+<li class="clearfloat">
+<div class="deme_date">
+<div class="deme_mont">
+                                01-08
+                              </div>
+<div class="de_year">
+                                2020
+                              </div>
+</div>
+<div class="de_cont">
+<a href="wznr.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1042&amp;wbnewsid=4662">
+<h2 class="de_name">郑维国：选煤电气技术的创新者</h2>
+<div class="de_info">窗体顶端郑维国：选煤电气技术的创新者作者：栗鸿源 窗体底端 郑维国，1...</div>
+</a>
+</div>
+</li>
+<li class="clearfloat">
+<div class="deme_date">
+<div class="deme_mont">
+                                12-17
+                              </div>
+<div class="de_year">
+                                2019
+                              </div>
+</div>
+<div class="de_cont">
+<a href="wznr.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1042&amp;wbnewsid=4617">
+<h2 class="de_name">福耀玻璃前CEO刘小稚：带中国企业家打世界杯</h2>
+<div class="de_info">福耀玻璃前CEO刘小稚：带中国企业家打世界杯  刘小稚，1977—1982就读于...</div>
+</a>
+</div>
+</li>
+<li class="clearfloat">
+<div class="deme_date">
+<div class="deme_mont">
+                                12-16
+                              </div>
+<div class="de_year">
+                                2019
+                              </div>
+</div>
+<div class="de_cont">
+<a href="wznr.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1042&amp;wbnewsid=4616">
+<h2 class="de_name">印建安​：用不同造就不凡</h2>
+<div class="de_info">“敬佩一家企业，更要敬佩这家企业的缔造者。”曾被柳传志先生评价为“...</div>
+</a>
+</div>
+</li>
+<li class="clearfloat">
+<div class="deme_date">
+<div class="deme_mont">
+                                10-21
+                              </div>
+<div class="de_year">
+                                2019
+                              </div>
+</div>
+<div class="de_cont">
+<a href="wznr.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1042&amp;wbnewsid=4526">
+<h2 class="de_name">薛莹：25年“铆钉”人生</h2>
+<div class="de_info">薛莹：25年“铆钉”人生作者：中国青年网　张群 薛莹，2011年毕业于西安...</div>
+</a>
+</div>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u9_4217','dynclicks_u9_4663','dynclicks_u9_4662','dynclicks_u9_4617','dynclicks_u9_4616','dynclicks_u9_4526'],[4217,4663,4662,4617,4616,4526],"wbnews", 1552753585)</script>
+</div>
+</div>
+<div class="feed_box">
+<div class="feed">
+<div class="col-md-6 clearfloat">
+<div class="feed_tit clearfloat">
+<span class="news_ch">回馈母校</span><span class="news_en">GIVINGS</span>
+<div class="feed_more">
+<a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1022">查看更多</a>
+</div>
+</div>
+<div class="feed_back clearfloat"><div class="feed_list"><ul class="clearfloat">
+<li>
+<div class="feed_pic">
+<a href="http://www.ef.xjtu.edu.cn/jzlby.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1023"><img src="/__local/B/50/AD/BB770099D6C5B3AF8E8827CC027_0FEA485E_106B5.jpg"/></a>
+</div>
+<div class="feed_name">
+<a href="http://www.ef.xjtu.edu.cn/jzlby.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1023">捐赠芳名榜</a>
+</div>
+</li>
+<li>
+<div class="feed_pic">
+<a href="http://www.ef.xjtu.edu.cn/mjxm/xszz.htm"><img src="/__local/E/CD/7D/D9937C88A5153E8744275EFE530_612A5DB4_B6FC.jpg"/></a>
+</div>
+<div class="feed_name">
+<a href="http://www.ef.xjtu.edu.cn/mjxm/xszz.htm">回馈项目</a>
+</div>
+</li>
+</ul></div>
+<!--左侧--><script>_showDynClickBatch(['dynclicks_u10_4148','dynclicks_u10_3863'],[4148,3863],"wbnews", 1552753585)</script>
+</div>
+</div><!--回馈母校结束-->
+<!--校友刊物-->
+<div class="col-md-6 clearfloat">
+<div class="alum"><div class="alum_tit clearfloat">
+<span class="news_ch whitez">校友刊物</span>
+<div class="popu_en">
+<p class="whitez">ALUMNI  </p>
+<p class="whitez">PUBLICATIONS</p>
+</div>
+<div class="feed_more">
+<a href="xyzs.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1059" target="">查看更多</a>
+</div>
+</div>
+<div class="alum_list">
+<ul class="clearfloat">
+<li id="line_u11_0">
+<a href="20190428111822498D7D.pdf">
+<div class="alum_pic">
+<img src="/__local/1/82/CE/B889DAEBDFE8DD0F3861D1C3D49_459CA5D1_1975F.png"/>
+</div>
+<div class="at_qi">
+<span>校友之声</span>
+<p>【2019年 第1期】</p>
+</div>
+</a>
+</li>
+<li id="line_u11_1">
+<a href="pdf/20190529105906154x98.pdf">
+<div class="alum_pic">
+<img src="/__local/6/42/7C/8F3E4132ACBC9EA455623F0BA22_D905C4A4_12D17.png"/>
+</div>
+<div class="at_qi">
+<span>校友之声</span>
+<p>【2018年 第2期】</p>
+</div>
+</a>
+</li>
+<li id="line_u11_2">
+<a href="pdf/201905291117564612HD.pdf">
+<div class="alum_pic">
+<img src="/__local/2/53/0F/12840C4F1E16ABB15B94C3B0F4E_EF934B5F_28525.jpg"/>
+</div>
+<div class="at_qi">
+<span>校友之声</span>
+<p>【2017年-2018年 第1期】</p>
+</div>
+</a>
+</li>
+<li id="line_u11_3">
+<a href="pdf/20190527185710915Bnc.pdf">
+<div class="alum_pic">
+<img src="/__local/5/BF/96/4BE2644B510D0BB6A8799F9A12E_BBA19B25_112AF.jpg"/>
+</div>
+<div class="at_qi">
+<span>校友之声</span>
+<p>【2016年 第2期】</p>
+</div>
+</a>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u11_2831','dynclicks_u11_2830','dynclicks_u11_2829','dynclicks_u11_3158'],[2831,2830,2829,3158],"wbnews", 1552753585)</script></div>
+</div>
+</div><!--校友刊物结束-->
+</div>
+</div>
+<div class="friend">
+<div class="fri_tit clearfloat">
+<span class="news_ch">常用链接</span>
+<div class="popu_en">
+<p style="line-height:32px">LINKS </p>
+</div>
+</div>
+<div class="fri_list"><script language="javascript" src="/system/resource/js/openlink.js"></script> <a class="xhx" href="http://www.mca.gov.cn/" onclick='_addDynClicks("wburl", 1552753585, 1019)' title="">中华人民共和国民政部</a>
+    |
+    <a class="xhx" href="http://www.chinanpo.gov.cn/index.html" onclick='_addDynClicks("wburl", 1552753585, 1018)' title="">中国社会组织网</a>
+    |
+    <a class="xhx" href="http://www.xjtu.edu.cn/index.htm" onclick='_addDynClicks("wburl", 1552753585, 1015)' title="">西安交通大学主页</a>
+    |
+    <a class="xhx" href="http://news.xjtu.edu.cn/index.htm" onclick='_addDynClicks("wburl", 1552753585, 1027)' title="">西安交大新闻网</a>
+    |
+    <a class="xhx" href="http://std.xjtu.edu.cn/" onclick='_addDynClicks("wburl", 1552753585, 1024)' title="">西安交大科研院</a>
+    |
+    <a class="xhx" href="http://due.xjtu.edu.cn/" onclick='_addDynClicks("wburl", 1552753585, 1023)' title="">西安交大教务处</a>
+    |
+    <a class="xhx" href="http://gs.xjtu.edu.cn/" onclick='_addDynClicks("wburl", 1552753585, 1020)' title="">西安交大研究生院</a>
+    |
+    <a class="xhx" href="http://zs.xjtu.edu.cn/" onclick='_addDynClicks("wburl", 1552753585, 1022)' title="">西安交大本科招生网</a>
+    |
+    <a class="xhx" href="http://yz.xjtu.edu.cn/" onclick='_addDynClicks("wburl", 1552753585, 1033)' title="">西安交大研究生招生信息网</a>
+    |
+    <a class="xhx" href="http://job.xjtu.edu.cn/" onclick='_addDynClicks("wburl", 1552753585, 1025)' title="">西安交大学生就业创业信息网</a>
+    |
+    <a class="xhx" href="http://58.206.125.28/" onclick='_addDynClicks("wburl", 1552753585, 1026)' title="">西安交大档案馆</a>
+    |
+    <a class="xhx" href="http://hr.xjtu.edu.cn/" onclick='_addDynClicks("wburl", 1552753585, 1028)' title="">西安交大人力资源部</a>
+    |
+    <a class="xhx" href="http://www.lib.xjtu.edu.cn/" onclick='_addDynClicks("wburl", 1552753585, 1030)' title="">西安交大图书馆</a>
+    |
+    <a class="xhx" href="http://www.museum.xjtu.edu.cn/" onclick='_addDynClicks("wburl", 1552753585, 1031)' title="">西安交大博物馆</a>
+    |
+    <a class="xhx" href="http://www.ef.xjtu.edu.cn/" onclick='_addDynClicks("wburl", 1552753585, 1021)' title="">西安交大教育基金会</a>
+<style>
+a.xhx:hover{text-decoration:underline;}
+
+</style></div>
+</div>
+<!--友情链接-->
+<div class="footer">
+<div class="foot clearfloat">
+<div class="tech_info">
+<p></p>
+<p><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p style="padding: 0px; border: currentColor; border-image: none; text-align: center; color: rgb(255, 255, 255); font-family: 微软雅黑; font-size: 15px; margin-top: 0px; margin-bottom: 0px; white-space: normal; background-color: rgb(243, 61, 47);">地址：陕西省西安市咸宁西路28号 邮编：710049</p><p style="padding: 0px; border: currentColor; border-image: none; text-align: center; color: rgb(255, 255, 255); font-family: 微软雅黑; font-size: 15px; margin-top: 0px; margin-bottom: 0px; white-space: normal; background-color: rgb(243, 61, 47);">联系邮箱：xygfb@mail.xjtu.edu.cn 服务热线：+86-29-82664795  </p><p style="padding: 0px; border: currentColor; border-image: none; text-align: center; color: rgb(255, 255, 255); font-family: 微软雅黑; font-size: 15px; margin-top: 0px; margin-bottom: 0px; white-space: normal; background-color: rgb(243, 61, 47);">版权所有：西安交通大学校友关系发展部(本站技术支持 罗鹏升 文字统筹 尹承龙）<br/></p></p>
+</div>
+<div class="code_list">
+<div class="code">
+<div class="code_pic">
+<img src="images/20190428110900301Ryk.jpg">
+</img></div>
+<div class="code_name">
+                            微信公众号
+                        </div>
+</div>
+</div>
+</div>
+</div>
+</body>
+<script>
+    jQuery.support.cors = true;
+        var sethe=function(){
+            var wid=$(".popu_pic").width();
+            var he=(wid*214)/434;
+            $(".popu_pic").height(he);
+            var wid2=$(".feed_pic").width();
+            var he2=(wid2*168)/367;
+            $(".feed_pic").height(he2);
+            var wid3=$(".alum_list li").width();
+            var he3=(wid3*220)/146;
+            $(".alum_list li").height(he3);
+            $(".alum_pic").height(he3-60);
+        }
+        setInterval(sethe,10)
+       
+    </script>
+</html>

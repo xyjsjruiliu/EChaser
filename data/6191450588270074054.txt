@@ -1,0 +1,166 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>西安交通大学邮件系统</title>
+<base href="http://webmail.xjtu.edu.cn/coremail/common/index_cmxt30.jsp"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<link charset="iso-8859-1" href="index_cmxt30/login.css" rel="stylesheet" type="text/css"/>
+<link charset="iso-8859-1" href="../common/assets/70572/jquery-ui/themes/base/jquery.ui.tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+        var markme_msg = "请按 Ctrl-D 收藏本页";
+        var login_page_custom = {};
+        login_page_custom.locale = "zh_CN";
+    </script>
+<script charset="iso-8859-1" src="/coremail/common/assets/70572/jquery/jquery-1.8.2.min.js" type="text/javascript"></script>
+<script charset="iso-8859-1" src="../common/assets/login/login.js" type="text/javascript"></script>
+<script charset="iso-8859-1" src="../common/assets/70572/js/blur.js" type="text/javascript"></script>
+</head>
+<body>
+<div class="Head">
+<div class="logo">
+<a href="http://www.xjtu.edu.cn" target="_blank">
+<img alt="Coremail 电子邮件系统" src="
+
+/coremail/s?func=getOrgLoginLogoData&amp;temp_login_page_data=&amp;isOA=&amp;domain=" style="border:0 none;"/>
+</a>
+</div>
+<div class="Links" id="links">
+<span id="homepage"><a class="MTLinks">设为首页</a> | </span>
+<span id="bookmark"><a href="javascript:bookmarkMe()">收藏本页</a> | </span>
+<span id="localeSwitch"><a href="javascript:setCookie('locale','en_US'); window.location = location;">English</a> | </span>
+<span id="helpIndex"><a href="/coremail/help/index_zh_CN.jsp" target="_blank">帮助</a> | </span>
+</div>
+</div>
+<div class="Main" id="Main">
+<div class="MainBg" id="MainBg">
+<form action="/coremail/index.jsp?cus=1" id="loginForm" method="post" onsubmit="return loginSubmit(this, event);">
+<div class="MainL">
+</div>
+<div id="mainRCommon">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head></head>
+<body>
+<div class="MainR" style="width: 335px;">
+<div class="Header">
+<div class="title">电子邮箱登录</div>
+<div class="language" id="language" onclick="fadeInElement(jQ('.localePanel').get(0), this, 5, -4);">
+<span>Language:</span>
+<span id="languageName">简体中文</span>
+<b class="ico icoArr"></b>
+<input id="locale" name="locale" type="hidden" value="zh_CN"/>
+</div>
+<div class="select_options localePanel">
+<ul>
+<a href="javascript:void(0);" onclick="changeLocale('zh_CN', '简体中文'); return false;">
+<li>
+<span>简体中文</span>
+</li>
+</a>
+<a href="javascript:void(0);" onclick="changeLocale('zh_TW', '繁體中文'); return false;">
+<li>
+<span>繁體中文</span>
+</li>
+</a>
+<a href="javascript:void(0);" onclick="changeLocale('en_US', 'English'); return false;">
+<li>
+<span>English</span>
+</li>
+</a>
+</ul>
+</div>
+</div>
+<div class="tab-content" id="logArea">
+<div class="inptr">
+<input class="inpUser" id="uid" name="uid" type="text" value=""/>
+<input name="nodetect" type="hidden" value="false">
+</input></div>
+<div class="inptr">
+<input autocomplete="off" class="inpPW" id="password" name="password" type="password" value=""/>
+</div>
+<div class="inplist">
+<label for="saveUsername" id="saveUsernameLabel">
+<input checked="" class="checkboxfix" id="saveUsername" type="checkbox">
+                    记住用户名
+                </input></label>
+</div>
+<div class="inpB">
+<div>
+<button class="Button" id="login_button" name="action:login" type="submit">
+                        登录
+                    </button>
+</div>
+</div>
+<div><p><font color="red">客户端配置方法<br/>
+   POP3方式<br/>POP服务器：pop3.xjtu.edu.cn,端口110<br/>SMTP服务器：smtp.xjtu.edu.cn,端口25<br/>
+   IMAP方式<br/>
+   IMAP服务器:mail.xjtu.edu.cn,端口143<br/>SMTP服务器：smtp.xjtu.edu.cn,端口25<br/>
+</font></p></div>
+<div class="inplist">
+</div>
+</div>
+<div class="Bottom">
+<div>
+<div class="TLine"></div>
+<label id="faceSelectOption">
+<a href="javascript:void(0);" onclick="displayFacePanel(this)">
+</a>
+</label>
+</div>
+</div>
+</div>
+</body>
+</html></div>
+</form>
+</div>
+</div>
+<div class="MainM" id="newFeatures">
+<div class="main">
+<dl>
+<a href="/coremail/help/mobile_zh_CN.jsp">
+<b class="bico icoPhone"></b>
+<span class="dd">移动办公</span>
+</a>
+</dl>
+<dl>
+<a href="/coremail/help/coremail_zh_CN.jsp">
+<b class="bico icoTemplate"></b>
+<span class="dd">全新风格</span>
+</a>
+</dl>
+<dl>
+<a href="/coremail/help/multiSecurity_zh_CN.jsp">
+<b class="bico icoMultiSecurity"></b>
+<span class="dd">多重密保</span>
+</a>
+</dl>
+<dl>
+<a href="/coremail/help/calendar_zh_CN.jsp">
+<b class="bico icoCalendar"></b>
+<span class="dd">会议与日程</span>
+</a>
+</dl>
+</div>
+</div>
+<div class="footer">
+<div class="link">
+<a href="http://www.coremail.cn/" target="_blank">邮件系统</a>
+<a href="http://www.coremail.cn/" target="_blank">邮件服务器</a>
+<a href="http://www.corpease.net/" target="_blank">企业邮箱</a>
+<a href="http://www.icoremail.cn/" target="_blank">企业邮箱</a>
+</div>
+<div class="copyright" id="copyright">
+<a href="http://www.coremail.cn" target="_blank">系统维护：西安交通大学网络中心 服务电话 82667777 邮箱 support@xjtu.edu.cn</a>
+</div>
+</div>
+<script type="text/javascript">
+    
+    initXT3("uid");
+
+</script>
+</body>
+</html>

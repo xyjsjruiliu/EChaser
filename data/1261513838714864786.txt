@@ -1,0 +1,355 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<strong></strong>
+<!DOCTYPE html>
+
+<!--[if lt IE 7 ]><html class="ie6" lang="zh-cn"><![endif]-->
+<!--[if IE 7 ]><html class="ie7" lang="zh-cn"><![endif]-->
+<!--[if IE 8 ]><html class="ie8" lang="zh-cn"><![endif]-->
+<!--[if IE 9 ]><html class="ie9" lang="zh-cn"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="zh-cn"><!--<![endif]-->
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="webkit" name="renderer"/>
+<meta content="陕西锦华网络科技有限责任公司（简称：锦华科技）是中国知名新媒体科技公司，掌握领先PDF智能反解技术，专注于新媒体软件开发和互联网运营，向客户提供新媒体系列化解决方案、产品和服务。主要产品有：国内领先的EPMAKER数字报刊系统（PC端、APP端、微信端三为一体）、掌上城市APP手机客户端系统、媒体门户网站系统、全媒体采编系统、互联网舆情监控系统、EPS数字报刊收费发行系统、CDMAKER数字报刊全文检索数据系统等。" name="description">
+<meta content="锦华科技 ,锦华网络 ,陕西锦华 ,西安锦华 ,数字报 ,电子报 ,电子版 ,云数字报 ,数字报代加工 ,报刊数据加工 ,多媒体数字报 数字报软件,数字报系统 ,电子报软件,电子报系统 ,电子报平台 ,日报 , 掌上城市 ,客户端 , APP , app ,手机客户端 ,数字报发行,数字报付费,数字报制作,数字报加工,电子报制作,电子报加工,电子版制作,电子版加工,全文检索,网站,全媒体,中央厨房,大数据,云计算,新媒体 
+" name="keywords">
+<title>锦华科技—知名新媒体科技服务商</title>
+<link href="/statics/css/joyhua/prettyPhoto.css" rel="stylesheet"/>
+<link href="/statics/css/joyhua/style.css" rel="stylesheet"/>
+<script src="/statics/js/joyhua/jquery.js" type="text/javascript"></script>
+<script src="/statics/js/joyhua/jquery.prettyPhoto.js" type="text/javascript"></script>
+<script src="/statics/js/joyhua/main.js" type="text/javascript"></script>
+<script src="/statics/js/joyhua/script.js" type="text/javascript"></script>
+<script src="/statics/js/joyhua/jquery.min.js" type="text/javascript"></script>
+<script src="/statics/js/joyhua/jquery-1.7.2.min.js" type="text/javascript"></script>
+<script src="/statics/js/joyhua/jquery.flexslider-min.js" type="text/javascript"></script>
+</meta></meta></head>
+<body>
+<div id="header">
+<header>
+<div class="main">
+<p class="welcome">029-89195790  89195760   15353526898</p>
+<span><img src="/statics/images/joyhua/top_by.png"/></span>
+</div>
+</header>
+</div>
+<div class="main">
+<div class="logo"><img height="101" src="/statics/images/joyhua/logo.jpg" width="206"/></div>
+<div class="nav">
+<ul>
+<li><a href="/">网站首页</a></li>
+<li><a href="/html/cpzx">产品中心</a></li>
+<li><a href="/html/cgal">成功案例</a></li>
+<li><a href="">技术支持</a></li>
+<li><a href="/html/dlhz">代理合作</a></li>
+<li><a href="/html/gyjh">关于锦华</a></li>
+<li><a href="/html/lxwm">联系我们</a></li>
+</ul>
+</div>
+</div>
+<div class="lanrenzhijia-cs" id="floatTools">
+<div class="floatL">
+<a class="btnOpen" href="javascript:void(0);" id="aFloatTools_Show" onclick="javascript:$('#divFloatToolsView').animate({width: 'show', opacity: 'show'}, 'normal',function(){ $('#divFloatToolsView').show();
+
+
+
+  });$('#aFloatTools_Show').attr('style','display:none');$('#aFloatTools_Hide').attr('style','display:block');" style="display: none" title="查看在线客服"> 展开</a>
+<a class="btnCtn" href="javascript:void(0);" id="aFloatTools_Hide" onclick="javascript:$('#divFloatToolsView').animate({width: 'hide', opacity: 'hide'}, 'normal',function(){ $('#divFloatToolsView').hide(); });$('#aFloatTools_Show').attr('style','display:block');$('#aFloatTools_Hide').attr('style','display:none');" style="display: block" title="关闭在线客服"> 收缩</a> </div>
+<div class="floatR" id="divFloatToolsView">
+<div class="cn">
+<ul>
+<li><span>客服1</span> <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=451711513&amp;site=qq&amp;menu=yes" target="_blank"> <img alt="客服1" border="0" src="/statics/images/joyhua/button_111.gif" title="客服1"/></a> </li>
+</ul></div></div></div></body></html>
+<li><span>客服2</span> <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=315332456&amp;site=qq&amp;menu=yes" target="_blank"> <img alt="客服2" border="0" src="/statics/images/joyhua/button_111.gif" title="客服2"/></a></li>
+<li><span>客服3</span> <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=451711513&amp;site=qq&amp;menu=yes" target="_blank"> <img alt="客服3" border="0" src="/statics/images/joyhua/button_111.gif" title="客服3"/></a></li>
+<li><span>客服4</span> <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=910770122&amp;site=qq&amp;menu=yes" target="_blank"> <img alt="客服4" border="0" src="/statics/images/joyhua/button_111.gif" title="客服4"/></a></li>
+<li><span>客服5</span> <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=451711513&amp;site=qq&amp;menu=yes" target="_blank"> <img alt="客服5" border="0" src="/statics/images/joyhua/button_111.gif" title="客服5"/></a></li>
+<li><span>客服6</span> <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=1695688118&amp;site=qq&amp;menu=yes" target="_blank"> <img alt="客服6" border="0" src="/statics/images/joyhua/button_111.gif" title="客服6"/></a></li>
+
+<h3><img border="0" src="/statics/images/joyhua/kf.jpg"/></h3>
+<h3><img border="0" src="/statics/images/joyhua/rx.jpg"/> </h3>
+
+
+
+<div class="lht">
+<div class="flexslider">
+<ul class="slides">
+<li style="background:url(/statics/images/joyhua/banner_1.jpg) 50% 0 no-repeat;">
+<a href="/html/rongyu/" style="width:100%; height:450px; float:left;" target="_blank"></a>
+</li>
+<li style="background:url(/statics/images/joyhua/banner_2.jpg) 50% 0 no-repeat;">
+<a href="/html/mtrh/" style="width:100%; height:450px; float:left;" target="_blank"></a>
+</li>
+<li style="background:url(/statics/images/joyhua/banner_3.jpg) 50% 0 no-repeat;">
+<a href="/html/epmakerszb/" style="width:100%;height:450px;  float:left;" target="_blank"></a>
+</li>
+<li style="background:url(/statics/images/joyhua/banner_4.jpg) 50% 0 no-repeat; ">
+<a href="/html/banner4.html" style="width:100%;height:450px;  float:left;" target="_blank"></a>
+</li>
+<li style="background:url(/statics/images/joyhua/banner_5.jpg) 50% 0 no-repeat;">
+<a href="/html/qmtcbxt/" style="width:100%;height:450px;  float:left;" target="_blank"></a>
+</li>
+<li style="background:url(/statics/images/joyhua/banner_6.jpg) 50% 0 no-repeat;">
+<a href="/html/mtmhwzxt/" style="width:100%;height:450px;  float:left;" target="_blank"></a>
+</li>
+<li style="background:url(/statics/images/joyhua/banner_7.jpg) 50% 0 no-repeat;">
+<a href="/html/zsapp/" style="width:100%;height:450px;  float:left;" target="_blank"></a>
+</li>
+<li style="background:url(/statics/images/joyhua/banner_8.jpg) 50% 0 no-repeat;">
+<a href="/html/hlw/" style="width:100%;height:450px;  float:left;" target="_blank"></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="cpfw_div">
+<div class="main">
+<div class="gdxw_div">
+<div class="gdxw_div_span"><b>新闻：</b></div>
+<div id="scrolllayer">
+<div id="scrollmessage">
+<ul>
+<li><a href="http://www.joyhua.com/html/2019/gsxw_1231/765.html">祝贺我公司中标山东滨州日报历史报纸全文数字化项目</a></li>
+<li><a href="http://www.joyhua.com/html/2019/gsxw_1231/764.html">祝贺我公司中标中国酒泉网改版升级新媒体建设项目</a></li>
+<li><a href="http://www.joyhua.com/html/2019/gsxw_1231/763.html">祝贺我公司中标甘肃定西电视台新媒体平台建设项目</a></li>
+<li><a href="http://www.joyhua.com/html/2019/gsxw_0716/762.html">我公司EPS数字报刊收费发行系统（数字报付费墙）   V3.0正式上线！</a></li>
+<li><a href="http://www.joyhua.com/html/2019/gsxw_0418/761.html">祝贺我公司收获中国报协温州大会荣誉证书！</a></li>
+<li><a href="http://www.joyhua.com/html/2019/gsxw_0415/760.html">祝贺我公司收获高新技术企业证书！</a></li>
+<li><a href="http://www.joyhua.com/html/2018/gsxw_1229/759.html">我公司小程序版数字报上线！更快、更便捷、传播效果更好！</a></li>
+<li><a href="http://www.joyhua.com/html/2018/gsxw_1229/758.html">锦华科技助力青海日报社数字报新媒体平台建设！</a></li>
+<li><a href="http://www.joyhua.com/html/2018/gsxw_1229/757.html">我公司荣获第八届陕西互联网大会“优秀网络安全企业奖”！</a></li>
+<li><a href="http://www.joyhua.com/html/2018/gsxw_1229/756.html">锦华科技参展2018第二十二届中国国际软件博览会！</a></li>
+</ul>
+</div>
+</div>
+<div class="gdxw_bg"></div>
+</div>
+<div class="byxmt">
+<div class="byxmt_lm"><div class="left_x"></div><span>报业新媒体系列化产品和服务</span><div class="left_x"></div><a class="more" href="/html/lby/">更多&gt;&gt;</a></div>
+<ul class="byxmt_ul">
+<a href="/html/zsapp/"><li>
+<img height="156" src="/uploadfile/2017/1023/20171023102725179.bmp" width="283"/>
+<span>掌上城市APP手机客户端系统</span>
+</li></a>
+<a href="/html/mtmhwzxt/"><li>
+<img height="156" src="/uploadfile/2017/1023/20171023102641732.bmp" width="283"/>
+<span>媒体门户网站系统</span>
+</li></a>
+<a href="/html/epmakerszb/"><li>
+<img height="156" src="/uploadfile/2017/1023/20171023102445574.bmp" width="283"/>
+<span>EPMAKER 数字报刊系统</span>
+</li></a>
+<a href="/html/yszb/"><li>
+<img height="156" src="/uploadfile/2017/1023/20171023093815297.bmp" width="283"/>
+<span>云数字报纸代制作服务</span>
+</li></a>
+</ul>
+</div>
+<div class="byxmt">
+<div class="byxmt_lm"><div class="left_x_1"></div><span>电视台新媒体系列化产品</span><div class="left_x_1"></div><a class="more" href="/html/lby2/">更多&gt;&gt;</a></div>
+<ul class="byxmt_ul">
+<a href="/html/sjdst/"><li>
+<img height="156" src="/uploadfile/2017/1023/20171023105010236.bmp" width="283"/>
+<span>手机电视台</span>
+</li></a>
+<a href="/html/wldst/"><li>
+<img height="156" src="/uploadfile/2017/1023/20171023104015478.bmp" width="283"/>
+<span>网络电视台</span>
+</li></a>
+<a href="/html/lmtmzxtjj/"><li>
+<img height="156" src="/uploadfile/2017/1023/20171023103922834.bmp" width="283"/>
+<span>流媒体媒资系统</span>
+</li></a>
+<a href="/html/wlzbxt/"><li>
+<img height="156" src="/uploadfile/2017/1023/20171023103321623.bmp" width="283"/>
+<span>网络直播系统</span>
+</li></a>
+</ul>
+</div>
+</div>
+</div>
+<div class="main">
+<div class="khal">
+<div class="byxmt_lm"><div class="left_x_2"></div><span>客户案例</span><div class="left_x_2"></div></div>
+<div id="movie1" style="display:block;">
+<ul class="khal_div">
+<li>
+<div class="khal_div_pic">
+<img height="201" src="/uploadfile/20180411/thumb_300_201_1523409811686149.jpg" width="300"/>
+<div class="khal_div_bat">
+<a class="bat_ckxx" href="http://www.joyhua.com/html/2018/cgal_0411/749.html">查看详细</a><a class="bat_ckdt" data-gallery="prettyPhoto" href="/uploadfile/20180411/1523409811686149.jpg ">查看大图</a>
+</div>
+</div>
+<div class="khal_div_text"><p class="bt_p sl m_t">中国产经新闻（北京）</p><p class="bt_p ss">报业案例</p></div>
+</li>
+<li>
+<div class="khal_div_pic">
+<img height="201" src="/uploadfile/20180411/thumb_300_201_1523409791376428.jpg" width="300"/>
+<div class="khal_div_bat">
+<a class="bat_ckxx" href="http://www.joyhua.com/html/2018/cgal_0411/748.html">查看详细</a><a class="bat_ckdt" data-gallery="prettyPhoto" href="/uploadfile/20180411/1523409791376428.jpg ">查看大图</a>
+</div>
+</div>
+<div class="khal_div_text"><p class="bt_p sl m_t">陕西日报</p><p class="bt_p ss">报业案例</p></div>
+</li>
+<li>
+<div class="khal_div_pic">
+<img height="201" src="/uploadfile/20180411/thumb_300_201_1523409770198977.jpg" width="300"/>
+<div class="khal_div_bat">
+<a class="bat_ckxx" href="http://www.joyhua.com/html/2018/cgal_0411/747.html">查看详细</a><a class="bat_ckdt" data-gallery="prettyPhoto" href="/uploadfile/20180411/1523409770198977.jpg ">查看大图</a>
+</div>
+</div>
+<div class="khal_div_text"><p class="bt_p sl m_t">新安晚报（安徽）</p><p class="bt_p ss">报业案例</p></div>
+</li>
+<li>
+<div class="khal_div_pic">
+<img height="201" src="/uploadfile/20180411/thumb_300_201_1523409751846446.jpg" width="300"/>
+<div class="khal_div_bat">
+<a class="bat_ckxx" href="http://www.joyhua.com/html/2018/cgal_0411/746.html">查看详细</a><a class="bat_ckdt" data-gallery="prettyPhoto" href="/uploadfile/20180411/1523409751846446.jpg ">查看大图</a>
+</div>
+</div>
+<div class="khal_div_text"><p class="bt_p sl m_t">三秦都市报（陕西）</p><p class="bt_p ss">报业案例</p></div>
+</li>
+<li>
+<div class="khal_div_pic">
+<img height="201" src="/uploadfile/20180411/thumb_300_201_1523409727964309.jpg" width="300"/>
+<div class="khal_div_bat">
+<a class="bat_ckxx" href="http://www.joyhua.com/html/2018/cgal_0411/745.html">查看详细</a><a class="bat_ckdt" data-gallery="prettyPhoto" href="/uploadfile/20180411/1523409727964309.jpg ">查看大图</a>
+</div>
+</div>
+<div class="khal_div_text"><p class="bt_p sl m_t">滨州日报（山东）</p><p class="bt_p ss">报业案例</p></div>
+</li>
+<li>
+<div class="khal_div_pic">
+<img height="201" src="/uploadfile/20180411/thumb_300_201_1523409712646947.jpg" width="300"/>
+<div class="khal_div_bat">
+<a class="bat_ckxx" href="http://www.joyhua.com/html/2018/cgal_0411/744.html">查看详细</a><a class="bat_ckdt" data-gallery="prettyPhoto" href="/uploadfile/20180411/1523409712646947.jpg ">查看大图</a>
+</div>
+</div>
+<div class="khal_div_text"><p class="bt_p sl m_t">盐阜大众报（江苏）</p><p class="bt_p ss">报业案例</p></div>
+</li>
+<li>
+<div class="khal_div_pic">
+<img height="201" src="/uploadfile/20180411/thumb_300_201_1523409690303392.jpg" width="300"/>
+<div class="khal_div_bat">
+<a class="bat_ckxx" href="http://www.joyhua.com/html/2018/cgal_0411/743.html">查看详细</a><a class="bat_ckdt" data-gallery="prettyPhoto" href="/uploadfile/20180411/1523409690303392.jpg ">查看大图</a>
+</div>
+</div>
+<div class="khal_div_text"><p class="bt_p sl m_t">盐城晚报（江苏）</p><p class="bt_p ss">报业案例</p></div>
+</li>
+<li>
+<div class="khal_div_pic">
+<img height="201" src="/uploadfile/20180411/thumb_300_201_1523409667406288.jpg" width="300"/>
+<div class="khal_div_bat">
+<a class="bat_ckxx" href="http://www.joyhua.com/html/2018/cgal_0411/742.html">查看详细</a><a class="bat_ckdt" data-gallery="prettyPhoto" href="/uploadfile/20180411/1523409667406288.jpg ">查看大图</a>
+</div>
+</div>
+<div class="khal_div_text"><p class="bt_p sl m_t">开州之窗（重庆）</p><p class="bt_p ss">报业案例</p></div>
+</li>
+<li>
+<div class="khal_div_pic">
+<img height="201" src="/uploadfile/20180411/thumb_300_201_1523409652910863.jpg" width="300"/>
+<div class="khal_div_bat">
+<a class="bat_ckxx" href="http://www.joyhua.com/html/2018/cgal_0411/741.html">查看详细</a><a class="bat_ckdt" data-gallery="prettyPhoto" href="/uploadfile/20180411/1523409652910863.jpg ">查看大图</a>
+</div>
+</div>
+<div class="khal_div_text"><p class="bt_p sl m_t">天门日报（湖北）</p><p class="bt_p ss">报业案例</p></div>
+</li>
+<li>
+<div class="khal_div_pic">
+<img height="201" src="/uploadfile/20180411/thumb_300_201_1523409632597782.jpg" width="300"/>
+<div class="khal_div_bat">
+<a class="bat_ckxx" href="http://www.joyhua.com/html/2018/cgal_0411/740.html">查看详细</a><a class="bat_ckdt" data-gallery="prettyPhoto" href="/uploadfile/20180411/1523409632597782.jpg ">查看大图</a>
+</div>
+</div>
+<div class="khal_div_text"><p class="bt_p sl m_t">绥化日报（黑龙江）</p><p class="bt_p ss">报业案例</p></div>
+</li>
+<li>
+<div class="khal_div_pic">
+<img height="201" src="/uploadfile/20180411/thumb_300_201_1523409549758966.jpg" width="300"/>
+<div class="khal_div_bat">
+<a class="bat_ckxx" href="http://www.joyhua.com/html/2018/cgal_0411/739.html">查看详细</a><a class="bat_ckdt" data-gallery="prettyPhoto" href="/uploadfile/20180411/1523409549758966.jpg ">查看大图</a>
+</div>
+</div>
+<div class="khal_div_text"><p class="bt_p sl m_t">绥化晚报（黑龙江）</p><p class="bt_p ss">报业案例</p></div>
+</li>
+</ul>
+</div>
+<div class="hyh_div">
+<a href="/html/cgal/">
+<img class="hyh_tb" onclick="javascript:divrefresh();" src="/statics/images/joyhua/hyh_tb.png"/>
+<input class="hyh_ip" onclick="javascript:divrefresh();" type="button" value=""/>
+</a>
+</div>
+<script type="text/javascript">
+    var divs = document.getElementsByTagName('div'),	movies = [],	
+	i;	for (i = 0; i < divs.length; i++) {
+	if (divs[i].id && divs[i].id.indexOf('movie') != -1) {
+	movies.push(divs[i]);		}	}	
+	function divrefresh() {		var i, nextOne;		
+	for (i = 0; i < movies.length; i++) {			
+	if (movies[i].style.display === 'block') {				
+	movies[i].style.display = 'none';				
+	nextOne = (i === movies.length - 1) ? 0 : i + 1;				
+	movies[nextOne].style.display = 'block';				
+	break;			}		}	}
+    </script>
+</div>
+</div>
+
+<script type="text/javascript">
+$(document).ready(function(){
+	$('.flexslider').flexslider({
+		directionNav: true,
+		pauseOnAction: false
+	});
+});
+</script>
+
+<div class="bottom">
+<div class="main">
+<div class="bottom_nav">
+<div class="b_gywm">
+<div class="b_bt">关于我们</div>
+<ul>
+<li><a href="/html/gyjh/">公司简介</a></li>
+<li><a href="/html/gszz/">公司资质</a></li>
+<li><a href="/html/lxwm/">联系我们</a></li>
+<li><a href="/html/gzju/">工作机会</a></li>
+</ul>
+</div>
+<div class="b_gywm">
+<div class="b_bt">友情链接</div>
+<ul>
+<li style="width:100px; float:left;"><a href="http://www.cnnmp.net/">中国新媒体网</a></li>
+<li style="width:100px; float:left;"><a href="http://zgbx.people.com.cn/">中国报协网</a></li>
+<li style="width:100px; float:left;"><a href="http://ntv.cctv.com/">视听新媒体</a></li>
+<li style="width:100px; float:left;"><a href="http://www.sxdaily.com.cn/">陕西传媒网</a></li>
+<li><a href="http://www.sxbaoye.com/">陕西报业网</a></li>
+<li><a href="http://www.xmtnews.com/">新媒体观察</a></li>
+<li><a href="http://www.admin5.com/">A5站长网</a></li>
+<li><a href="http://www.qudong.com/">驱动中国</a></li>
+</ul>
+</div>
+<div class="b_lxwm">
+<div class="b_bt">联系我们</div>
+<ul>
+<li>公司地址：西安市高新区科技路10号华奥大夏C座8层、20层</li>
+<li>电       话：029-89195790  89195760  15353526898</li>
+</ul>
+</div>
+<div class="b_erweima">
+<img src="/statics/images/joyhua/erweima.jpg"/>
+<span class="b_gz">关注我们</span>
+</div>
+</div>
+</div>
+<div class="b_q_div">
+<div class="main">
+<span class="b_q_div_banquan">陕西锦华网络科技有限责任公司<br/>
+版权所有JOYHUA CORPORATION. All Rights Reserved. 陕ICP备05010893号</span>
+</div>
+</div>
+</div>
+<link href="/statics/css/joyhua/lanrenzhijia.css" rel="stylesheet" type="text/css"/>
+<script src="/statics/js/joyhua/xwgd.js" type="text/javascript"></script>

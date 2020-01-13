@@ -1,0 +1,945 @@
+<!DOCTYPE html>
+
+<html class="pb-page" data-request-id="23a59c8b-f0ee-4c8d-af06-c016f78292ca" lang="en"><head data-pb-dropzone="head"><meta content=";page:string:Article/Chapter View;subPage:string:Abstract;journal:journal:nalefd;wgroup:string:ACHS website Group;website:website:acspubs;pageGroup:string:Publication Pages;article:article:10.1021/acs.nanolett.9b04741" name="pbContext"/>
+<link href="http://purl.org/DC/elements/1.0/" rel="schema.DC"/><meta content="Changing the Phosphorus Allotrope from a Square Columnar Structure to a Planar Zigzag Nanoribbon by Increasing the Diameter of Carbon Nanotube Nanoreactors" name="dc.Title"/><meta content="Nano Letters" name="citation_journal_title"/><meta content="Jinying  Zhang" name="dc.Creator"/><meta content="Chengcheng  Fu" name="dc.Creator"/><meta content="Shixin  Song" name="dc.Creator"/><meta content="Hongchu  Du" name="dc.Creator"/><meta content="Dan  Zhao" name="dc.Creator"/><meta content="Hongyang  Huang" name="dc.Creator"/><meta content="Lihui  Zhang" name="dc.Creator"/><meta content="Jie  Guan" name="dc.Creator"/><meta content="Yifan  Zhang" name="dc.Creator"/><meta content="Xinluo  Zhao" name="dc.Creator"/><meta content="Chuansheng  Ma" name="dc.Creator"/><meta content="Chun-Lin  Jia" name="dc.Creator"/><meta content="David  Tománek" name="dc.Creator"/><meta content="selective synthesis; phosphorus allotrope; phosphorus square column; black phosphorus nanoribbon; carbon nanotube; nanoreactor" name="dc.Subject"/><meta content="Elemental phosphorus nanostructures are notorious for a large number of allotropes, which limits their usefulness as semiconductors. To limit this structural diversity, we synthesize selectively quasi-1D phosphorus nanostructures inside carbon nanotubes (CNTs) that act both as stable templates and nanoreactors. Whereas zigzag phosphorus nanoribbons form preferably in CNTs with an inner diameter exceeding 1.4 nm, a previously unknown square columnar structure of phosphorus is observed to form inside narrower nanotubes. Our findings are supported by electron microscopy and Raman spectroscopy observations as well as ab initio density functional theory calculations. Our computational results suggest that square columnar structures form preferably in CNTs with an inner diameter around 1.0 nm, whereas black phosphorus nanoribbons form preferably inside CNTs with a 4.1 nm inner diameter, with zigzag nanoribbons energetically favored over armchair nanoribbons. Our theoretical predictions agree with the experiment..." name="dc.Description"/><meta content="" name="dc.Description"/><meta content="American Chemical Society" name="dc.Publisher"/><meta content="January 8, 2020" name="dc.Date" scheme="WTN8601"/><meta content="rapid-communication" name="dc.Type"/><meta content="text/HTML" name="dc.Format"/><meta content="10.1021/acs.nanolett.9b04741" name="dc.Identifier" scheme="doi"/><meta content="en" name="dc.Language"/><meta content="world" name="dc.Coverage"/><meta content="selective synthesis, phosphorus allotrope, phosphorus square column, black phosphorus nanoribbon, carbon nanotube, nanoreactor" name="keywords"/>
+<link href="https://doi.org/10.1021%2Facs.nanolett.9b04741" rel="meta" type="application/atom+xml"/>
+<link href="https://doi.org/10.1021%2Facs.nanolett.9b04741" rel="meta" type="application/rdf+json"/>
+<link href="https://doi.org/10.1021%2Facs.nanolett.9b04741" rel="meta" type="application/unixref+xml"/>
+<title>Changing the Phosphorus Allotrope from a Square Columnar Structure to a Planar Zigzag Nanoribbon by Increasing the Diameter of Carbon Nanotube Nanoreactors | Nano Letters</title>
+<meta charset="utf-8"/>
+<meta content="noarchive" name="robots">
+<meta content="https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.9b04741" property="og:url"/><meta content="Changing the Phosphorus Allotrope from a Square Columnar Structure to a Planar Zigzag Nanoribbon by Increasing the Diameter of Carbon Nanotube Nanoreactors" property="og:title"/><meta content="https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/nalefd/0/nalefd.ahead-of-print/acs.nanolett.9b04741/20200108/images/large/nl9b04741_0006.jpeg" property="og:image"/><meta content="Elemental phosphorus nanostructures are notorious for a large number of allotropes, which limits their usefulness as semiconductors. To limit this structural diversity, we synthesize selectively quasi-1D phosphorus nanostructures inside carbon nanotubes (CNTs) that act both as stable templates and nanoreactors. Whereas zigzag phosphorus nanoribbons form preferably in CNTs with an inner diameter exceeding 1.4 nm, a previously unknown square columnar structure of phosphorus is observed to form inside narrower nanotubes. Our findings are supported by electron microscopy and Raman spectroscopy observations as well as ab initio density functional theory calculations. Our computational results suggest that square columnar structures form preferably in CNTs with an inner diameter around 1.0 nm, whereas black phosphorus nanoribbons form preferably inside CNTs with a 4.1 nm inner diameter, with zigzag nanoribbons energetically favored over armchair nanoribbons. Our theoretical predictions agree with the experimental findings." property="og:description"/><meta content="summary_large_image" name="twitter:card"/><meta content="@ACSPublications" name="twitter:site"/><meta content="Elemental phosphorus nanostructures are notorious for a large number of allotropes, which limits their usefulness as semiconductors. To limit this structural diversity, we synthesize selectively quasi-1D phosphorus nanostructures inside carbon nanotubes (CNTs) that act both as stable templates and nanoreactors. Whereas zigzag phosphorus nanoribbons form preferably in CNTs with an inner diameter exceeding 1.4 nm, a previously unknown square columnar structure of phosphorus is observed to form inside narrower nanotubes. Our findings are supported by electron microscopy and Raman spectroscopy observations as well as ab initio density functional theory calculations. Our computational results suggest that square columnar structures form preferably in CNTs with an inner diameter around 1.0 nm, whereas black phosphorus nanoribbons form preferably inside CNTs with a 4.1 nm inner diameter, with zigzag nanoribbons energetically favored over armchair nanoribbons. Our theoretical predictions agree with the experimental findings." name="twitter:description"/><meta content="https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/nalefd/0/nalefd.ahead-of-print/acs.nanolett.9b04741/20200108/images/large/nl9b04741_0006.jpeg" name="twitter:image"/><meta content="Changing the Phosphorus Allotrope from a Square Columnar Structure to a Planar Zigzag Nanoribbon by Increasing the Diameter of Carbon Nanotube Nanoreactors" name="twitter:title"/>
+<meta content="Article" property="og:type"/>
+<meta content="width=device-width,initial-scale=1,maximum-scale=10, user-scalable=0" name="viewport"/>
+<meta content="10.1021/acs.nanolett.9b04741" name="dc.identifier"/>
+<link href="/wro/i0cf~product.css" rel="stylesheet" type="text/css"/><link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Cabin+Condensed:400,500,600,700" rel="stylesheet">
+<link href="/products/achs/releasedAssets/css/build.css" rel="stylesheet" type="text/css"/>
+<link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i,900,900i&amp;display=swap" rel="stylesheet"><link data-pb-css-id="t-1-v0/default.css" href="/pb/css/t-1-v0/default.css" id="pb-css" rel="stylesheet" type="text/css"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<link href="/pb-assets/styles/achs-1577995724727.css" rel="stylesheet" type="text/css"/>
+<link href="/pb-assets/styles/acs-1578693573517.css" rel="stylesheet" type="text/css"/>
+<script src="/templates/jsp/js/jquery-3.1.1.min.js" type="text/javascript"></script>
+<script src="/pb-assets/javascript/eloqua-1568818128347.js" type="text/javascript"></script>
+<script async="" rel="preconnect" src="https://www.googletagservices.com/tag/js/gpt.js" type="text/javascript"></script>
+<script data-cf-beacon='{"rayId":"5200035e6e4d5180","startTime":1570117212010}' defer="" src="https://static.cloudflareinsights.com/beacon.min.js"></script>
+<script type="text/javascript">
+                (function (i, s, o, g, r, a, m) {
+                    i['GoogleAnalyticsObject'] = r;
+                    i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+                    a = s.createElement(o), m = s.getElementsByTagName(o)[0];
+                    a.async = 1;
+                    a.src = g;
+                    m.parentNode.insertBefore(a, m)
+                })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+                ga('create', 'UA-7663985-4'
+                    
+                    
+                    , 'auto'
+                    
+                    );
+                
+                
+                ga('send', 'pageview');
+            </script>
+<meta content="uBHpu2M2kL7VihPCSRXWyBSxooDf7L_BGgfHA3cjSfY" name="google-site-verification">
+<link href="https://tpc.googlesyndication.com/safeframe/1-0-29/html/container.html" rel="prefetch"/></meta></link></link></meta></head>
+<body class="pb-ui">
+<script type="text/javascript">
+
+    if(false) {
+        document.getElementById("skipNavigationLink").onclick =function skipElement () {
+            var element = document.getElementById('');
+            if(element == null || element == undefined) {
+                element = document.getElementsByClassName('').item(0);
+            }
+            element.setAttribute('tabindex','0');
+            element.focus();
+
+        }
+
+    }
+
+</script>
+<div data-ng-non-bindable="" id="pb-page-content">
+<div data-pb-dropzone="main" data-pb-dropzone-name="Main">
+<div class="hide" data-widget-def="UX3HTMLWidget" data-widget-id="ed6ae788-7707-48f4-b02c-3187c75e10db">
+</div>
+<script type="text/javascript">
+    window.onload = function initDoubleClickEvents(){
+    googletag.cmd.push(function() {
+
+        //pubs
+        googletag.defineSlot('/8868/pubs/homepage', [[970, 90], [728, 90]], 'dfp-pubs-leaderboard').addService(googletag.pubads()).setTargeting('location', 'leaderboard1');
+        googletag.defineSlot('/8868/pubs/homepage', [300, 250], 'dfp-pubs-rectangle-1').addService(googletag.pubads()).setTargeting('location', 'rectangle1');
+        googletag.defineSlot('/8868/pubs/homepage', [300, 250], 'dfp-pubs-rectangle-2').addService(googletag.pubads()).setTargeting('location', 'rectangle2');
+
+        //arrc
+        googletag.defineSlot('/8868/pubs/arrc', [[970, 90], [728, 90]], 'dfp-pubs-arrc-leaderboard').addService(googletag.pubads()).setTargeting('location', 'leaderboard1');
+
+        //info central
+        googletag.defineSlot('/8868/pubs/infocentral', [[970, 90], [728, 90]], 'dfp-pubs-infocentral-leaderboard').addService(googletag.pubads()).setTargeting('location', 'leaderboard1');
+
+        //books
+        googletag.defineSlot('/8868/pubs/books', [[970, 90], [728, 90]], 'dfp-pubs-books-leaderboard').addService(googletag.pubads()).setTargeting('location', 'leaderboard1');
+        googletag.defineSlot('/8868/pubs/books', [300, 250], 'dfp-pubs-books-rectangle-1').addService(googletag.pubads()).setTargeting('location', 'rectangle1');
+        googletag.defineSlot('/8868/pubs/books', [300, 250], 'dfp-pubs-books-rectangle-2').addService(googletag.pubads()).setTargeting('location', 'rectangle2');
+
+
+        //advanced search
+        googletag.defineSlot('/8868/search', [[970, 90], [728, 90]], 'dfp-pubs-adv-search-leaderboard').addService(googletag.pubads());
+
+
+        //journal home pages and secondary pages
+        googletag.defineSlot('/8868/journal/${journal.dartId}/homepage', [[970, 90], [728, 90]], 'dfp-journal-hp-leaderboard').addService(googletag.pubads()).setTargeting('location', 'leaderboard1');
+        googletag.defineSlot('/8868/journal/${journal.dartId}/homepage', [[970, 90], [728, 90], [300, 250]], 'dfp-journal-hp-rectangle-1').addService(googletag.pubads()).setTargeting('location', 'rectangle1');
+        googletag.defineSlot('/8868/journal/${journal.dartId}/homepage', [300, 250], 'dfp-journal-hp-rectangle-2').addService(googletag.pubads()).setTargeting('location', 'rectangle2');
+
+
+        //journal submission pages
+        googletag.defineSlot('/8868/journal/${journal.dartId}/submission', [[970, 90], [728, 90]], 'dfp-journal-submission-leaderboard').addService(googletag.pubads()).setTargeting('location', 'leaderboard1');
+        googletag.defineSlot('/8868/journal/${journal.dartId}/submission', [300, 250], 'dfp-journal-submission-rectangle-1').addService(googletag.pubads()).setTargeting('location', 'rectangle1');
+        googletag.defineSlot('/8868/journal/${journal.dartId}/submission', [300, 250], 'dfp-journal-submission-rectangle-2').addService(googletag.pubads()).setTargeting('location', 'rectangle2');
+
+        //journal loi
+        googletag.defineSlot('/8868/journal/${journal.dartId}/loi', [[970, 90], [728, 90]], 'dfp-journal-loi-leaderboard').addService(googletag.pubads()).setTargeting('location', 'leaderboard1');
+        googletag.defineSlot('/8868/journal/${journal.dartId}/loi', [300, 250], 'dfp-journal-loi-rectangle-1').addService(googletag.pubads()).setTargeting('location', 'rectangle1');
+        googletag.defineSlot('/8868/journal/${journal.dartId}/loi', [300, 250], 'dfp-journal-loi-rectangle-2').addService(googletag.pubads()).setTargeting('location', 'rectangle2');
+
+        //journal toc
+        googletag.defineSlot('/8868/journal/${journal.dartId}/toc', [[970, 90], [728, 90]], 'dfp-journal-toc-leaderboard').addService(googletag.pubads()).setTargeting('location', 'leaderboard1');
+        googletag.defineSlot('/8868/journal/${journal.dartId}/toc', [300, 250], 'dfp-journal-toc-rectangle-1').addService(googletag.pubads()).setTargeting('location', 'rectangle1');
+        googletag.defineSlot('/8868/journal/${journal.dartId}/toc', [300, 250], 'dfp-journal-toc-rectangle-2').addService(googletag.pubads()).setTargeting('location', 'rectangle2');
+
+        //journal articles
+        googletag.defineSlot('/8868/journal/${journal.dartId}/article', [[970, 90], [728, 90]], 'dfp-journal-article-leaderboard').addService(googletag.pubads()).setTargeting('location', 'leaderboard1');
+
+        //googletag.pubads().enableSingleRequest();
+        googletag.pubads().collapseEmptyDivs();
+        googletag.pubads().setTargeting('inst',dartInstitutionType).setTargeting('memb',dartMember);
+        googletag.enableServices();
+    });
+
+};
+</script>
+<div class="pb-ad">
+<script type="text/javascript">
+	var dartInstitutionType = 'none';
+	var dartMember = 'false';
+</script>
+</div>
+<header class="header header_article_inactive">
+<div class="header_topbar hidden-sm hidden-xs">
+<div class="container"><div class="row"><div class="col-lg-3 col-md-4 col-sm-5 header_topbar_left">
+<div class="header_mainmenu" data-widget-def="UX3HTMLWidget" data-widget-id="0be92cec-36a8-4b4d-9a08-a28c790ce306">
+<ul>
+<li>
+<a href="http://www.acs.org">ACS</a>
+</li>
+<li class="header_mainmenu_current">
+<a href="/">ACS Publications</a>
+</li>
+<li>
+<a href="https://cen.acs.org">C&amp;EN</a>
+</li>
+<li>
+<a href="https://www.cas.org">CAS</a>
+</li>
+</ul>
+</div>
+</div><div class="col-lg-9 col-md-8 col-sm-7 header_topbar_right">
+<div class="institution"><span class="no-institution-wrapper"><a href="/action/ssostart" title="Find my institution"><span class="institution_no">Find my institution</span></a></span></div>
+<div class="user-login-bar"><input class="statusEndpoint" name="statusEndpoint" type="hidden" value="https://sso.acs.org/idp/status"/><input class="clientID" name="clientID" type="hidden" value="atypon-lives"/><input class="heartBeatReloadInterval" name="heartBeatReloadInterval" type="hidden" value="1740000"/><input class="logoutUrl" name="logoutUrl" type="hidden" value="https://pubs.acs.org/action/doLogout?logoutRedirectUrl=https%3A%2F%2Fsso.acs.org%2Fidp%2Fglogout%3Fappid%3Datypon-live%26returnURL%3Dhttps%253A%252F%252Fpubs.acs.org%252F"/><img alt="Blank image" class="ssoHeartBeatImg" src="https://sso.acs.org/idp/heartbeat?appid=atypon-lives&amp;max_auth_age=2592000"/><a class="user-login-bar__Login" href="https://pubs.acs.org/action/ssoRequestForLoginPage">Log In</a><input class="user-login-bar_is-loggedin" name="isUserLoggedIn" type="hidden" value="false"/><input class="pair-device-is-paired" name="isPaired" type="hidden" value="false"/><input class="isStronglyAuthenticated" name="isStronglyAuthenticated" type="hidden" value="false"/></div>
+</div></div></div>
+</div>
+<div class="header_content">
+<div class="container"><div class="row"><div class="header_content_main">
+<div class="header_content_row">
+<div class="header_content_left pull-left">
+<a href="/" title="logo"><img alt="logo" id="" src="/pb-assets/ux3/pubs-logo-481x82-1523435513963.png"/></a>
+<div class="pj-badge"></div><a class="header_article-logo" href="/journal/nalefd" title="journal logo"><img alt="Journal Logo" src="/na101/home/literatum/publisher/achs/journals/covergifs/nalefd/title.png"/></a><div class="header_article-separator"></div>
+</div><div class="header_content_center">
+<div class="header_contnav">
+<div class="header_contnav-row">
+<a class="header_contnav-pre" href="#" title="Previous">
+<i class="icon-angle-left"></i>
+</a>
+<div class="header_contnav-title">
+<h4>
+<a href="#" title=""></a>
+</h4>
+</div>
+<a class="header_contnav-next" href="#" title="Next">
+<i class="icon-angle-right"></i>
+</a>
+</div>
+</div>
+</div><div class="header_content_right pull-right">
+<div class="header_article-share">
+<!-- Go to www.addthis.com/dashboard to customize your tools --><script async="async" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-4faab26f2cff13a7" type="text/javascript"></script><div class="share"><div class="share_button"><span class="share__label">Share</span><a aria-label="share button" class="share__ctrl" data-db-switch="icon-close_thin" data-db-target-for="527d28d6-3414-4cb2-9560-99e677e62c0d" href="#"><i aria-hidden="true" class="icon-Icon_Share"></i></a></div><div class="pb-dropzone" data-pb-dropzone="ShareDropzone1" title="ShareDropzone1"></div><div class="pb-dropzone" data-pb-dropzone="ShareDropzone2" title="ShareDropzone2"></div><div class="share__block dropBlock__holder fixed" data-db-target-of="527d28d6-3414-4cb2-9560-99e677e62c0d" id="527d28d6-3414-4cb2-9560-99e677e62c0d_Pop"><div class="pb-dropzone" data-pb-dropzone="shareBlock" title="shareBlock"></div><ul class="rlist w-slide--list addthis addthis_toolbox addthis_default_style addthis_32x32_style"><li><a class="addthis_button_facebook"><i aria-hidden="true" class="at-icon-wrapper icon-facebook"></i>Facebook</a></li><li><a class="addthis_button_twitter"><i aria-hidden="true" class="at-icon-wrapper icon-twitter"></i>Twitter</a></li><li><a class="addthis_button_wechat"><i aria-hidden="true" class="at-icon-wrapper icon-wechat"></i>WeChat</a></li><li><a class="addthis_button_linkedin"><i aria-hidden="true" class="at-icon-wrapper icon-linkedin"></i>Linked In</a></li><li><a class="addthis_button_reddit"><i aria-hidden="true" class="at-icon-wrapper icon-reddit"></i>Reddit</a></li><li><a class="addthis_button_email"><i aria-hidden="true" class="at-icon-wrapper icon-envelope-o"></i>Email</a></li></ul></div></div>
+</div>
+<div class="header_article-separator"></div>
+<div class="quick-search"><a aria-label="quick search" class="quick-search_icon icon-search" href="#"></a><div class="quick-search_content"><form action="/action/doSearch" autocomplete="off" class="quick-search_default" method="get" name="defaultQuickSearch" title="Quick Search"><input aria-label="Search text, DOI, authors, etc." class="quick-search_all-field autocomplete" data-auto-complete-max-chars="32" data-auto-complete-max-words="7" data-contributors-conf="3" data-history-items-conf="3" data-publication-titles-conf="3" data-topics-conf="3" name="AllField" placeholder="Search text, DOI, authors, etc." type="search" value=""/><button class="icon-search" title="Search" type="submit"></button><div class="quick-search_journal-filter"><label class="radio--primary" for="thisJournalRadio"><input checked="checked" class="all-content" id="thisJournalRadio" name="SeriesKey" type="radio" value="nalefd"/><span>Nano Lett.</span></label><label class="radio--primary" for="allPubRadio"><input class="all-content" id="allPubRadio" name="SeriesKey" type="radio" value=""/><span>All Publications/Website</span></label></div></form><p>OR SEARCH CITATIONS</p><form action="/action/quickLink" class="quick-search_citation" method="get" name="citationQuickSearch" title="Quick Search"><input name="quickLink" type="hidden" value="true"/><select class="quick-search_journals-select jcf" datajcf='{"wrapNative": false,"wrapNativeOnMobile": false}' name="quickLinkJournal"><option value="nalefd">Nano Letters</option><option value="achre4">Accounts of Chemical Research</option><option value="aabmcb">ACS Applied Bio Materials</option><option value="aaembp">ACS Applied Electronic Materials</option><option value="aaemcq">ACS Applied Energy Materials</option><option value="aamick">ACS Applied Materials &amp; Interfaces</option><option value="aanmf6">ACS Applied Nano Materials</option><option value="aapmcd">ACS Applied Polymer Materials</option><option value="abseba">ACS Biomaterials Science &amp; Engineering</option><option value="accacs">ACS Catalysis</option><option value="acscii">ACS Central Science</option><option value="acbcct">ACS Chemical Biology</option><option value="achsc5">ACS Chemical Health &amp; Safety</option><option value="acncdm">ACS Chemical Neuroscience</option><option value="acsccc">ACS Combinatorial Science</option><option value="aesccq">ACS Earth and Space Chemistry</option><option value="aelccp">ACS Energy Letters</option><option value="aeecco">ACS ES&amp;T Engineering</option><option value="aewcaa">ACS ES&amp;T Water</option><option value="aidcbc">ACS Infectious Diseases</option><option value="amlccd">ACS Macro Letters</option><option value="amlcef">ACS Materials Letters</option><option value="amclct">ACS Medicinal Chemistry Letters</option><option value="ancac3">ACS Nano</option><option value="acsodf">ACS Omega</option><option value="aptsfn">ACS Pharmacology &amp; Translational Science</option><option value="apchd5">ACS Photonics</option><option value="ascefj">ACS Sensors</option><option value="ascecg">ACS Sustainable Chemistry &amp; Engineering</option><option value="asbcd6">ACS Synthetic Biology</option><option value="ancham">Analytical Chemistry</option><option value="bichaw">Biochemistry</option><option value="bcches">Bioconjugate Chemistry</option><option value="bomaf6">Biomacromolecules</option><option value="bipret">Biotechnology Progress</option><option value="cgeabj">C&amp;EN Global Enterprise</option><option value="cenear">Chemical &amp; Engineering News Archive</option><option value="chlseg">Chemical Health &amp; Safety</option><option value="crtoec">Chemical Research in Toxicology</option><option value="chreay">Chemical Reviews</option><option value="cmatex">Chemistry of Materials</option><option value="cgdefu">Crystal Growth &amp; Design</option><option value="enfuem">Energy &amp; Fuels</option><option value="esthag">Environmental Science &amp; Technology</option><option value="estlcu">Environmental Science &amp; Technology Letters</option><option value="iepra6.2">I&amp;EC Product Research and Development</option><option value="iechad">Industrial &amp; Engineering Chemistry</option><option value="iecac0">Industrial &amp; Engineering Chemistry Analytical Edition</option><option value="iecjc0">Industrial &amp; Engineering Chemistry Chemical &amp; Engineering Data Series</option><option value="iecfa7">Industrial &amp; Engineering Chemistry Fundamentals</option><option value="iepdaw">Industrial &amp; Engineering Chemistry Process Design and Development</option><option value="iepra6">Industrial &amp; Engineering Chemistry Product Research and Development</option><option value="iecred">Industrial &amp; Engineering Chemistry Research</option><option value="iecnav">Industrial and Engineering Chemistry, News Edition</option><option value="inocaj">Inorganic Chemistry</option><option value="jacsat">Journal of the American Chemical Society</option><option value="jafcau">Journal of Agricultural and Food Chemistry</option><option value="jceaax">Journal of Chemical &amp; Engineering Data</option><option value="jci001">Journal of Chemical Documentation</option><option value="jceda8">Journal of Chemical Education</option><option value="jchsc2">Journal of Chemical Health &amp; Safety</option><option value="jcics1">Journal of Chemical Information and Computer Sciences</option><option value="jcisd8">Journal of Chemical Information and Modeling</option><option value="jctcce">Journal of Chemical Theory and Computation</option><option value="jcchff">Journal of Combinatorial Chemistry</option><option value="iechad.1">Journal of Industrial &amp; Engineering Chemistry</option><option value="jmcmar.1">Journal of Medicinal and Pharmaceutical Chemistry</option><option value="jmcmar">Journal of Medicinal Chemistry</option><option value="jnprdf">Journal of Natural Products</option><option value="joceah">The Journal of Organic Chemistry</option><option value="jpchax">The Journal of Physical Chemistry</option><option value="jpchax.2">The Journal of Physical Chemistry</option><option value="jpcafh">The Journal of Physical Chemistry A</option><option value="jpcbfk">The Journal of Physical Chemistry B</option><option value="jpccck">The Journal of Physical Chemistry C</option><option value="jpclcd">The Journal of Physical Chemistry Letters</option><option value="jprobs">Journal of Proteome Research</option><option value="jamsef">Journal of the American Society for Mass Spectrometry</option><option value="langd5">Langmuir</option><option value="mamobx">Macromolecules</option><option value="mpohbp">Molecular Pharmaceutics</option><option value="neaca9">News Edition, American Chemical Society</option><option value="orlef7">Organic Letters</option><option value="oprdfk">Organic Process Research &amp; Development</option><option value="orgnd7">Organometallics</option><option value="pnas">PNAS</option><option value="iepra6.1">Product R&amp;D</option><option value="jpchax.1">The Journal of Physical and Colloid Chemistry</option></select><input autocomplete="false" class="quick-search_volume-input" name="quickLinkVolume" placeholder="Vol" required="required" type="search"/><input autocomplete="false" class="quick-search_page-input" name="quickLinkPage" placeholder="Page" required="required" type="search"/><button class="icon-search" title="Search" type="submit"></button></form></div></div>
+<div class="header_my-activity">
+<a href="#"><i class="icon-id-badge"></i><span>My Activity</span></a><div class="header_my-activity-content"><div class="header_my-activity-single"><div class="" data-name="recentlyViewedDropzone">
+<div class="show-recently"><div class="show-recently-header">Recently Viewed</div><h6 class="show-recently-empty">You have not visited any articles yet, Please visit some articles to see contents here. </h6></div>
+</div></div></div>
+</div>
+<div class="header_publications">
+<a class="pubModal_button" href="#"><i class="icon-book"></i><span>Publications</span></a>
+</div>
+<div class="header_burger-menu">
+<a class="header_burger-menu_button" href="#" title="menu button"><i class="icon-navicon"></i><i class="icon-close"></i></a>
+<div class="header_burger-menu_content">
+<ul class="hidden-lg">
+<li><a class="pubModal_button" href="#"><i class="icon-book"></i><span>publications</span></a></li>
+<li class="hidden"><a href="#"><i class="icon-id-badge"></i><span>my Activity</span></a></li>
+</ul>
+<ul>
+<li><a href="#">user resources</a>
+<ul>
+<li><a href="https://publish.acs.org/publish/" onclick="ga('send', 'event', 'Top Nav', 'Menu', 'Authors &amp; Reviewers');">Authors &amp; Reviewers</a></li>
+<li><a href="/page/4librarians/index.html" onclick="ga('send', 'event', 'Top Nav', 'Menu', 'Librarians &amp; Account Managers');">Librarians &amp; Account Managers</a></li>
+<li><a href="http://www.acs.org/content/acs/en/membership-and-networks/acs/benefits/professional/publications-benefits.html" onclick="ga('send', 'event', 'Top Nav', 'Menu', 'ACS Members');">ACS Members</a></li>
+<li><a href="/action/showPreferences?menuTab=Alerts" onclick="ga('send', 'event', 'Home_MainMenu', 'Click', 'eAlert');">eAlerts</a></li>
+<li><a href="/page/follow.html?widget=follow-pane-mobile" onclick="ga('send', 'event', 'Top Nav', 'Menu', 'RSS &amp; Mobile');">RSS &amp; Mobile</a></li>
+</ul>
+</li>
+<li><a href="#">support</a>
+<ul>
+<li><a href="https://helpfaqs.acs.org/" onclick="ga('send', 'event', 'Top Nav', 'Menu', 'Support FAQs');">Support FAQs </a></li>
+<li><a class="help help-chat" href="#" onclick="SnapEngage.startLink();return false; ga('send', 'event', 'Top Nav', 'Menu', 'Live Chat with Agent');">Live Chat with Agent</a></li>
+<li><a href="https://acsmediakit.org/digital/acs-pubs/?utm_source=Nav&amp;utm_medium=Pubs&amp;utm_campaign=CEN" onclick="ga('send', 'event', 'Top Nav', 'Menu', 'For Advertisers');">For Advertisers</a></li>
+<li><a href="/page/4librarians/contact-us/index.html" onclick="ga('send', 'event', 'Top Nav', 'Menu', 'For Librarians &amp; Account Managers');">For Librarians &amp; Account Managers</a></li>
+</ul>
+</li>
+<li class="hidden-sm hidden-xs"><a href="#">pairing</a>
+<ul>
+<li><a class="header_burger-menu_pairadevice-link" href="/pairdevice">Pair a device</a></li>
+<li><a class="header_burger-menu_pairthisdevice-link" href="/action/devicePairingSubmitCode" onclick="ga('send', 'event', 'Top Nav', 'Menu', 'Pair this device');">Pair this device</a></li>
+<li><a class="header_burger-menu_pairedstatus" href="/action/devicePairingSubmitCode">Paired status</a></li>
+</ul>
+</li>
+<li class="hidden-lg hidden-md">
+<a class="header_burger-menu_my-profile-link" href="/action/showPreferences">My Profile</a>
+<a class="header_burger-menu_login-link" href="/action/ssoRequestForLoginPage">Login</a>
+<a class="header_burger-menu_logout-link" href="#">Logout</a>
+<a class="header_burger-menu_pairadevice-link" href="/pairdevice">Pair a device</a>
+<a class="header_burger-menu_pairthisdevice-link" href="/action/devicePairingSubmitCode">Pair this device</a>
+<a class="header_burger-menu_pairedstatus" href="/action/devicePairingSubmitCode">Paired status</a>
+</li>
+<li><a href="#">about us</a>
+<ul>
+<li><a href="/page/about-us.html" onclick="ga('send', 'event', 'Top Nav', 'Menu', 'Overview');">Overview</a></li>
+<li><a href="http://acsopenaccess.org" onclick="ga('send', 'event', 'Top Nav', 'Menu', ACS &amp; Open Access');">ACS &amp; Open Access</a></li>
+<li><a href="/#partners" onclick="ga('send', 'event', 'Top Nav', 'Menu', 'Partners');">Partners</a></li>
+<li><a href="http://acsoncampus.acs.org" onclick="ga('send', 'event', 'Top Nav', 'Menu', 'Events');">Events</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<!-- begin SnapEngage code -->
+<script type="text/javascript">
+    $(function() {
+        $.getScript("https://storage.googleapis.com/code.snapengage.com/js/32ed9abd-0c89-48e6-819a-2f5ff40b0a9b.js");
+    });
+</script>
+<style>
+    #SnapABug_Button,
+    #designstudio-button {
+        display: none;
+    }
+</style>
+<!-- end SnapEngage code -->
+</div>
+</div>
+</div>
+</div></div></div>
+</div>
+<div class="pub"><div class="pub-modal"><div class="pub-modal_content"><div class="pub-modal_row"><div class="pub-modal_left"><div class="pub-modal_left-content"><div class="pub-modal_control hidden-lg hidden-md"><span class="pub-modal_control-text">Publications</span><a class="pub-modal_back" href="#" title="Back button"><i class="icon-angle-left"></i></a></div><!-- Types--><div class="pub-modal_types"><h6>CONTENT TYPES</h6><ul class="pub-modal_types-list"><li class="pub-modal_types-active" data-type="all" id="allID"><a href="#">All Types</a></li></ul></div><!-- Subjects--><div class="pub-modal_subjects hidden-sm hidden-xs"><h6>SUBJECTS</h6><ul class="pub-modal_subjects-list"></ul></div></div></div><div class="pub-modal_right"><div class="pub-modal_control hidden-lg hidden-md"><span class="pub-modal_control-text">Publications: All Types</span><a class="pub-modal_back" href="#" title="Back button"><i class="icon-angle-left"></i></a></div><a class="pub-modal_close icon-close pull-right" href="#"></a><!--div.pub-modal_right-cover-gallery.hidden-lg.hidden-md//a(href="/coverGallery") Browse Our Cover Art Gallery
+--><!-- Publications list--><!-- 'pub-modal_right--inner' adds styling required for IE--><div class="pub-modal_right--inner"><div class="pub-content"></div></div></div></div></div><!-- The widget data--><input name="pubModalData" type="hidden" value='{"types":[{"code":"journals","label":"Journals"},{"code":"books","label":"Books and Reference"},{"code":"news","label":"News"}],"subjects":[{"code":"cat_analytical","label":"Analytical"},{"code":"cat_app","label":"Applied"},{"code":"cat_biological","label":"Biological"},{"code":"cat_matscieng","label":"Materials Science &amp; Engineering"},{"code":"cat_organic_inorganic","label":"Organic-Inorganic"},{"code":"cat_physical","label":"Physical"}],"publications":[{"char":"A","publications":[{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/achre4/2019/achre4.2019.52.issue-12/achre4.2019.52.issue-12/20191217/achre4.2019.52.issue-12.largecover.jpg","code":"achre4","subjects":[{"code":"cat_analytical"},{"code":"cat_organic_inorganic"},{"code":"cat_biological"},{"code":"cat_physical"},{"code":"cat_matscieng"}],"name":"Accounts of Chemical Research","type":"journals","url":"/journal/achre4"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/aabmcb/2019/aabmcb.2019.2.issue-12/aabmcb.2019.2.issue-12/20191216/aabmcb.2019.2.issue-12.largecover.jpg","code":"aabmcb","subjects":[{"code":"cat_biological"},{"code":"cat_app"},{"code":"cat_matscieng"}],"name":"ACS Applied Bio Materials","type":"journals","url":"/journal/aabmcb"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/aaembp/2019/aaembp.2019.1.issue-12/aaembp.2019.1.issue-12/20191224/aaembp.2019.1.issue-12.largecover.jpg","code":"aaembp","subjects":[{"code":"cat_physical"},{"code":"cat_app"},{"code":"journals"},{"code":"1"},{"code":"cat_matscieng"}],"name":"ACS Applied Electronic Materials","type":"journals","url":"/journal/aaembp"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/aaemcq/2019/aaemcq.2019.2.issue-12/aaemcq.2019.2.issue-12/20191223/aaemcq.2019.2.issue-12.largecover.jpg","code":"aaemcq","subjects":[{"code":"cat_app"},{"code":"cat_matscieng"}],"name":"ACS Applied Energy Materials","type":"journals","url":"/journal/aaemcq"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/aamick/2020/aamick.2020.12.issue-1/aamick.2020.12.issue-1/20200108/aamick.2020.12.issue-1.largecover.jpg","code":"aamick","subjects":[{"code":"cat_app"},{"code":"cat_matscieng"}],"name":"ACS Applied Materials &amp; Interfaces","type":"journals","url":"/journal/aamick"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/aanmf6/2019/aanmf6.2019.2.issue-12/aanmf6.2019.2.issue-12/20191227/aanmf6.2019.2.issue-12.largecover.jpg","code":"aanmf6","subjects":[{"code":"cat_app"},{"code":"cat_matscieng"}],"name":"ACS Applied Nano Materials","type":"journals","url":"/journal/aanmf6"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/aapmcd/2020/aapmcd.2020.2.issue-1/aapmcd.2020.2.issue-1/20200110/aapmcd.2020.2.issue-1.largecover.jpg","code":"aapmcd","subjects":[{"code":"cat_app"},{"code":"journals"},{"code":"1"},{"code":"cat_matscieng"}],"name":"ACS Applied Polymer Materials","type":"journals","url":"/journal/aapmcd"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/abseba/2019/abseba.2019.5.issue-12/abseba.2019.5.issue-12/20191209/abseba.2019.5.issue-12.largecover.jpg","code":"abseba","subjects":[{"code":"cat_biological"},{"code":"cat_matscieng"}],"name":"ACS Biomaterials Science &amp; Engineering","type":"journals","url":"/journal/abseba"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/accacs/2020/accacs.2020.10.issue-1/accacs.2020.10.issue-1/20200103/accacs.2020.10.issue-1.largecover.jpg","code":"accacs","subjects":[{"code":"cat_organic_inorganic"},{"code":"cat_biological"},{"code":"cat_matscieng"}],"name":"ACS Catalysis","type":"journals","url":"/journal/accacs"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/acscii/2019/acscii.2019.5.issue-12/acscii.2019.5.issue-12/20191226/acscii.2019.5.issue-12.largecover.jpg","code":"acscii","subjects":[{"code":"cat_analytical"},{"code":"cat_organic_inorganic"},{"code":"cat_biological"},{"code":"cat_physical"},{"code":"cat_matscieng"}],"name":"ACS Central Science","type":"journals","url":"/journal/acscii"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/acbcct/2019/acbcct.2019.14.issue-12/acbcct.2019.14.issue-12/20191220/acbcct.2019.14.issue-12.largecover.jpg","code":"acbcct","subjects":[{"code":"cat_biological"}],"name":"ACS Chemical Biology","type":"journals","url":"/journal/acbcct"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/covergifs/achsc5/largecover.png","code":"achsc5","subjects":[{"code":"cat_analytical"},{"code":"cat_organic_inorganic"},{"code":"cat_biological"},{"code":"cat_physical"},{"code":"cat_applied"},{"code":"cat_matscieng"}],"name":"ACS Chemical Health &amp; Safety","type":"journals","url":"/journal/achsc5"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/acncdm/2020/acncdm.2020.11.issue-1/acncdm.2020.11.issue-1/20200102/acncdm.2020.11.issue-1.largecover.jpg","code":"acncdm","subjects":[{"code":"1"},{"code":"journals"},{"code":"cat_biological"}],"name":"ACS Chemical Neuroscience","type":"journals","url":"/journal/acncdm"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/acsccc/2019/acsccc.2019.21.issue-12/acsccc.2019.21.issue-12/20191209/acsccc.2019.21.issue-12.largecover.jpg","code":"acsccc","subjects":[{"code":"cat_organic_inorganic"},{"code":"cat_app"}],"name":"ACS Combinatorial Science","type":"journals","url":"/journal/acsccc"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/aesccq/2019/aesccq.2019.3.issue-12/aesccq.2019.3.issue-12/20191219/aesccq.2019.3.issue-12.largecover.jpg","code":"aesccq","subjects":[{"code":"cat_physical"},{"code":"cat_app"}],"name":"ACS Earth and Space Chemistry","type":"journals","url":"/journal/aesccq"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/aelccp/2020/aelccp.2020.5.issue-1/aelccp.2020.5.issue-1/20200110/aelccp.2020.5.issue-1.largecover.jpg","code":"aelccp","subjects":[{"code":"cat_physical"},{"code":"cat_app"},{"code":"cat_matscieng"}],"name":"ACS Energy Letters","type":"journals","url":"/journal/aelccp"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/covergifs/aeecco/largecover.png","code":"aeecco","subjects":[],"name":"ACS ES&amp;T Engineering","type":"journals","url":"/journal/aeecco"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/covergifs/aewcaa/largecover.png","code":"aewcaa","subjects":[{"code":"cat_applied"},{"code":"cat_analytical"}],"name":"ACS ES&amp;T Water","type":"journals","url":"/journal/aewcaa"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/aidcbc/2020/aidcbc.2020.6.issue-1/aidcbc.2020.6.issue-1/20200110/aidcbc.2020.6.issue-1.largecover.jpg","code":"aidcbc","subjects":[{"code":"cat_biological"},{"code":"cat_app"}],"name":"ACS Infectious Diseases","type":"journals","url":"/journal/aidcbc"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/amlccd/2019/amlccd.2019.8.issue-12/amlccd.2019.8.issue-12/20191217/amlccd.2019.8.issue-12.largecover.jpg","code":"amlccd","subjects":[{"code":"cat_matscieng"}],"name":"ACS Macro Letters","type":"journals","url":"/journal/amlccd"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/amlcef/2020/amlcef.2020.2.issue-1/amlcef.2020.2.issue-1/20200106/amlcef.2020.2.issue-1.largecover.jpg","code":"amlcef","subjects":[{"code":"cat_matscieng"}],"name":"ACS Materials Letters","type":"journals","url":"/journal/amlcef"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/amclct/2020/amclct.2020.11.issue-1/amclct.2020.11.issue-1/20200109/amclct.2020.11.issue-1.largecover.jpg","code":"amclct","subjects":[{"code":"cat_organic_inorganic"},{"code":"cat_biological"},{"code":"cat_app"}],"name":"ACS Medicinal Chemistry Letters","type":"journals","url":"/journal/amclct"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/ancac3/2019/ancac3.2019.13.issue-12/ancac3.2019.13.issue-12/20191224/ancac3.2019.13.issue-12.largecover.jpg","code":"ancac3","subjects":[{"code":"cat_matscieng"}],"name":"ACS Nano","type":"journals","url":"/journal/ancac3"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/acsodf/2019/acsodf.2019.4.issue-27/acsodf.2019.4.issue-27/20191231/acsodf.2019.4.issue-27.largecover.jpg","code":"acsodf","subjects":[{"code":"journals"},{"code":"1"},{"code":"cat_analytical"},{"code":"cat_organic_inorganic"},{"code":"cat_biological"},{"code":"cat_physical"},{"code":"cat_app"},{"code":"cat_matscieng"}],"name":"ACS Omega","type":"journals","url":"/journal/acsodf"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/aptsfn/2019/aptsfn.2019.2.issue-6/aptsfn.2019.2.issue-6/20191213/aptsfn.2019.2.issue-6.largecover.jpg","code":"aptsfn","subjects":[{"code":"cat_biological"}],"name":"ACS Pharmacology &amp; Translational Science","type":"journals","url":"/journal/aptsfn"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/apchd5/2019/apchd5.2019.6.issue-12/apchd5.2019.6.issue-12/20191218/apchd5.2019.6.issue-12.largecover.jpg","code":"apchd5","subjects":[{"code":"cat_physical"},{"code":"cat_matscieng"}],"name":"ACS Photonics","type":"journals","url":"/journal/apchd5"},{"imgUrl":"/na101/home/literatum/publisher/achs/books/content/reagents/2017/acsreagents/acsreagents/20170228/acsreagents.largecover.png","code":"reagents","subjects":[{"code":"1"}],"name":"ACS Reagent Chemicals","type":"books","url":"/series/reagents"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/ascefj/2019/ascefj.2019.4.issue-12/ascefj.2019.4.issue-12/20191227/ascefj.2019.4.issue-12.largecover.jpg","code":"ascefj","subjects":[{"code":"cat_analytical"},{"code":"cat_app"},{"code":"cat_matscieng"}],"name":"ACS Sensors","type":"journals","url":"/journal/ascefj"},{"imgUrl":"","code":"styleguide","subjects":[{"code":"category.books"}],"name":"The ACS Style Guide","type":"books","url":"/series/styleguide"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/ascecg/2019/ascecg.2019.7.issue-24/ascecg.2019.7.issue-24/20191216/ascecg.2019.7.issue-24.largecover.jpg","code":"ascecg","subjects":[{"code":"cat_app"},{"code":"cat_matscieng"}],"name":"ACS Sustainable Chemistry &amp; Engineering","type":"journals","url":"/journal/ascecg"},{"imgUrl":"/na101/home/literatum/publisher/achs/books/content/symposium/2019/bk-2019-1341/bk-2019-1341/20191111-01/bk-2019-1341.largecover.jpg","code":"symposium","subjects":[{"code":"category.books"},{"code":"1"},{"code":"383784032"}],"name":"ACS Symposium Series","type":"books","url":"/series/symposium"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/asbcd6/2019/asbcd6.2019.8.issue-12/asbcd6.2019.8.issue-12/20191220/asbcd6.2019.8.issue-12.largecover.jpg","code":"asbcd6","subjects":[{"code":"cat_biological"},{"code":"cat_app"}],"name":"ACS Synthetic Biology","type":"journals","url":"/journal/asbcd6"},{"imgUrl":"","code":"advances","subjects":[{"code":"category.books"},{"code":"1"},{"code":"383784032"}],"name":"Advances in Chemistry","type":"books","url":"/series/advances"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/ancham/2020/ancham.2020.92.issue-1/ancham.2020.92.issue-1/20200107/ancham.2020.92.issue-1.largecover.jpg","code":"ancham","subjects":[{"code":"cat_analytical"},{"code":"cat_app"}],"name":"Analytical Chemistry","type":"journals","url":"/journal/ancham"}]},{"char":"B","publications":[{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/bichaw/2019/bichaw.2019.58.issue-52/bichaw.2019.58.issue-52/20191231/bichaw.2019.58.issue-52.largecover.jpg","code":"bichaw","subjects":[{"code":"cat_biological"}],"name":"Biochemistry","type":"journals","url":"/journal/bichaw"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/bcches/2019/bcches.2019.30.issue-12/bcches.2019.30.issue-12/20191218/bcches.2019.30.issue-12.largecover.jpg","code":"bcches","subjects":[{"code":"cat_organic_inorganic"},{"code":"cat_biological"},{"code":"cat_matscieng"}],"name":"Bioconjugate Chemistry","type":"journals","url":"/journal/bcches"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/bomaf6/2019/bomaf6.2019.20.issue-12/bomaf6.2019.20.issue-12/20191209/bomaf6.2019.20.issue-12.largecover.jpg","code":"bomaf6","subjects":[{"code":"cat_biological"},{"code":"cat_matscieng"}],"name":"Biomacromolecules","type":"journals","url":"/journal/bomaf6"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/covergifs/bipret/largecover.jpg","code":"bipret","subjects":[],"name":"Biotechnology Progress","type":"journals","url":"/journal/bipret"}]},{"char":"C","publications":[{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/cgeabj/2020/cgeabj.2020.98.issue-1/cgeabj.2020.98.issue-1/20200106/cgeabj.2020.98.issue-1.largecover.jpg","code":"cgeabj","subjects":[{"code":"1"}],"name":"C&amp;EN Global Enterprise","type":"news","url":"/journal/cgeabj"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/crtoec/2019/crtoec.2019.32.issue-12/crtoec.2019.32.issue-12/20191216/crtoec.2019.32.issue-12.largecover.jpg","code":"crtoec","subjects":[{"code":"cat_biological"},{"code":"cat_app"}],"name":"Chemical Research in Toxicology","type":"journals","url":"/journal/crtoec"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/chreay/2020/chreay.2020.120.issue-1/chreay.2020.120.issue-1/20200108/chreay.2020.120.issue-1.largecover.jpg","code":"chreay","subjects":[{"code":"articletoc"},{"code":"cat_analytical"},{"code":"cat_organic_inorganic"},{"code":"cat_biological"},{"code":"cat_physical"},{"code":"cat_matscieng"}],"name":"Chemical Reviews","type":"journals","url":"/journal/chreay"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/cmatex/2019/cmatex.2019.31.issue-24/cmatex.2019.31.issue-24/20191224/cmatex.2019.31.issue-24.largecover.jpg","code":"cmatex","subjects":[{"code":"cat_matscieng"}],"name":"Chemistry of Materials","type":"journals","url":"/journal/cmatex"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/cgdefu/2020/cgdefu.2020.20.issue-1/cgdefu.2020.20.issue-1/20200102/cgdefu.2020.20.issue-1.largecover.jpg","code":"cgdefu","subjects":[{"code":"cat_app"},{"code":"cat_matscieng"}],"name":"Crystal Growth &amp; Design","type":"journals","url":"/journal/cgdefu"}]},{"char":"E","publications":[{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/enfuem/2019/enfuem.2019.33.issue-12/enfuem.2019.33.issue-12/20191219/enfuem.2019.33.issue-12.largecover.jpg","code":"enfuem","subjects":[{"code":"cat_physical"},{"code":"cat_app"},{"code":"cat_matscieng"}],"name":"Energy &amp; Fuels","type":"journals","url":"/journal/enfuem"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/esthag/2020/esthag.2020.54.issue-1/esthag.2020.54.issue-1/20200107/esthag.2020.54.issue-1.largecover.jpg","code":"esthag","subjects":[{"code":"cat_analytical"},{"code":"cat_app"}],"name":"Environmental Science &amp; Technology","type":"journals","url":"/journal/esthag"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/estlcu/2019/estlcu.2019.6.issue-12/estlcu.2019.6.issue-12/20191210/estlcu.2019.6.issue-12.largecover.jpg","code":"estlcu","subjects":[{"code":"1"},{"code":"cat_analytical"},{"code":"cat_app"}],"name":"Environmental Science &amp; Technology Letters","type":"journals","url":"/journal/estlcu"}]},{"char":"I","publications":[{"imgUrl":"","code":"iepra6.2","subjects":[{"code":"journals"}],"name":"I&amp;EC Product Research and Development","type":"journals","url":"/journal/iepra6.2"},{"imgUrl":"","code":"iechad","subjects":[],"name":"Industrial &amp; Engineering Chemistry","type":"journals","url":"/journal/iechad"},{"imgUrl":"","code":"iecac0","subjects":[{"code":"journals"}],"name":"Industrial &amp; Engineering Chemistry Analytical Edition","type":"journals","url":"/journal/iecac0"},{"imgUrl":"","code":"iecjc0","subjects":[{"code":"journals"}],"name":"Industrial &amp; Engineering Chemistry Chemical &amp; Engineering Data Series","type":"journals","url":"/journal/iecjc0"},{"imgUrl":"","code":"iecfa7","subjects":[{"code":"journals"}],"name":"Industrial &amp; Engineering Chemistry Fundamentals","type":"journals","url":"/journal/iecfa7"},{"imgUrl":"","code":"iepdaw","subjects":[{"code":"journals"}],"name":"Industrial &amp; Engineering Chemistry Process Design and Development","type":"journals","url":"/journal/iepdaw"},{"imgUrl":"","code":"iepra6","subjects":[{"code":"journals"}],"name":"Industrial &amp; Engineering Chemistry Product Research and Development","type":"journals","url":"/journal/iepra6"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/iecred/2020/iecred.2020.59.issue-1/iecred.2020.59.issue-1/20200108/iecred.2020.59.issue-1.largecover.jpg","code":"iecred","subjects":[{"code":"cat_physical"},{"code":"cat_app"},{"code":"cat_matscieng"}],"name":"Industrial &amp; Engineering Chemistry Research","type":"journals","url":"/journal/iecred"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/inocaj/2020/inocaj.2020.59.issue-1/inocaj.2020.59.issue-1/20200106/inocaj.2020.59.issue-1.largecover.jpg","code":"inocaj","subjects":[{"code":"cat_organic_inorganic"},{"code":"cat_matscieng"}],"name":"Inorganic Chemistry","type":"journals","url":"/journal/inocaj"}]},{"char":"J","publications":[{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/jafcau/2020/jafcau.2020.68.issue-1/jafcau.2020.68.issue-1/20200108/jafcau.2020.68.issue-1.largecover.jpg","code":"jafcau","subjects":[{"code":"cat_analytical"},{"code":"cat_biological"},{"code":"cat_app"}],"name":"Journal of Agricultural and Food Chemistry","type":"journals","url":"/journal/jafcau"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/jceaax/2020/jceaax.2020.65.issue-1/jceaax.2020.65.issue-1/20200109/jceaax.2020.65.issue-1.largecover.jpg","code":"jceaax","subjects":[{"code":"cat_physical"},{"code":"cat_app"},{"code":"cat_matscieng"}],"name":"Journal of Chemical &amp; Engineering Data","type":"journals","url":"/journal/jceaax"},{"imgUrl":"","code":"jci001","subjects":[{"code":"journals"}],"name":"Journal of Chemical Documentation","type":"journals","url":"/journal/jci001"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/jceda8/2019/jceda8.2019.96.issue-12/jceda8.2019.96.issue-12/20191210/jceda8.2019.96.issue-12.largecover.jpg","code":"jceda8","subjects":[{"code":"1"},{"code":"journals"},{"code":"cat_analytical"},{"code":"cat_app"},{"code":"divched"}],"name":"Journal of Chemical Education","type":"journals","url":"/journal/jceda8"},{"imgUrl":"","code":"jcics1","subjects":[{"code":"journals"}],"name":"Journal of Chemical Information and Computer Sciences","type":"journals","url":"/journal/jcics1"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/jcisd8/2019/jcisd8.2019.59.issue-12/jcisd8.2019.59.issue-12/20191223/jcisd8.2019.59.issue-12.largecover.jpg","code":"jcisd8","subjects":[{"code":"cat_physical"},{"code":"cat_app"}],"name":"Journal of Chemical Information and Modeling","type":"journals","url":"/journal/jcisd8"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/jctcce/2019/jctcce.2019.15.issue-12/jctcce.2019.15.issue-12/20191210/jctcce.2019.15.issue-12.largecover.jpg","code":"jctcce","subjects":[{"code":"cat_biological"},{"code":"cat_physical"},{"code":"cat_app"}],"name":"Journal of Chemical Theory and Computation","type":"journals","url":"/journal/jctcce"},{"imgUrl":"","code":"iechad.1","subjects":[{"code":"journals"}],"name":"Journal of Industrial &amp; Engineering Chemistry","type":"journals","url":"/journal/iechad.1"},{"imgUrl":"","code":"jmcmar.1","subjects":[{"code":"journals"}],"name":"Journal of Medicinal and Pharmaceutical Chemistry","type":"journals","url":"/journal/jmcmar.1"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/jmcmar/2020/jmcmar.2020.63.issue-1/jmcmar.2020.63.issue-1/20200109/jmcmar.2020.63.issue-1.largecover.jpg","code":"jmcmar","subjects":[{"code":"cat_organic_inorganic"},{"code":"cat_biological"},{"code":"cat_app"}],"name":"Journal of Medicinal Chemistry","type":"journals","url":"/journal/jmcmar"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/jnprdf/2019/jnprdf.2019.82.issue-12/jnprdf.2019.82.issue-12/20191227/jnprdf.2019.82.issue-12.largecover.jpg","code":"jnprdf","subjects":[{"code":"cat_organic_inorganic"},{"code":"cat_biological"}],"name":"Journal of Natural Products","type":"journals","url":"/journal/jnprdf"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/joceah/2020/joceah.2020.85.issue-1/joceah.2020.85.issue-1/20200103/joceah.2020.85.issue-1.largecover.jpg","code":"joceah","subjects":[{"code":"cat_organic_inorganic"}],"name":"The Journal of Organic Chemistry","type":"journals","url":"/journal/joceah"},{"imgUrl":"","code":"jpchax","subjects":[{"code":"journals"},{"code":"1"}],"name":"The Journal of Physical Chemistry","type":"journals","url":"/journal/jpchax"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/jpcafh/2020/jpcafh.2020.124.issue-1/jpcafh.2020.124.issue-1/20200109/jpcafh.2020.124.issue-1.largecover.jpg","code":"jpcafh","subjects":[{"code":"cat_physical"},{"code":"cat_app"}],"name":"The Journal of Physical Chemistry A","type":"journals","url":"/journal/jpcafh"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/jpcbfk/2020/jpcbfk.2020.124.issue-1/jpcbfk.2020.124.issue-1/20200109/jpcbfk.2020.124.issue-1.largecover.jpg","code":"jpcbfk","subjects":[{"code":"cat_biological"},{"code":"cat_physical"},{"code":"cat_app"}],"name":"The Journal of Physical Chemistry B","type":"journals","url":"/journal/jpcbfk"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/jpccck/2020/jpccck.2020.124.issue-1/jpccck.2020.124.issue-1/20200109/jpccck.2020.124.issue-1.largecover.jpg","code":"jpccck","subjects":[{"code":"cat_physical"},{"code":"cat_app"},{"code":"cat_matscieng"}],"name":"The Journal of Physical Chemistry C","type":"journals","url":"/journal/jpccck"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/jpclcd/2020/jpclcd.2020.11.issue-1/jpclcd.2020.11.issue-1/20200102/jpclcd.2020.11.issue-1.largecover.jpg","code":"jpclcd","subjects":[{"code":"cat_biological"},{"code":"cat_physical"},{"code":"cat_app"},{"code":"cat_matscieng"}],"name":"The Journal of Physical Chemistry Letters","type":"journals","url":"/journal/jpclcd"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/jprobs/2020/jprobs.2020.19.issue-1/jprobs.2020.19.issue-1/20200103/jprobs.2020.19.issue-1.largecover.jpg","code":"jprobs","subjects":[{"code":"cat_analytical"},{"code":"cat_biological"},{"code":"cat_app"}],"name":"Journal of Proteome Research","type":"journals","url":"/journal/jprobs"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/jacsat/2020/jacsat.2020.142.issue-1/jacsat.2020.142.issue-1/20200108/jacsat.2020.142.issue-1.largecover.jpg","code":"jacsat","subjects":[{"code":"pnas-tfl"},{"code":"cat_analytical"},{"code":"cat_organic_inorganic"},{"code":"cat_biological"},{"code":"cat_physical"},{"code":"cat_matscieng"}],"name":"Journal of the American Chemical Society","type":"journals","url":"/journal/jacsat"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/jamsef/2020/jamsef.2020.31.issue-1/jamsef.2020.31.issue-1/20200102/jamsef.2020.31.issue-1.largecover.jpg","code":"jamsef","subjects":[{"code":"cat_physical"},{"code":"journals"},{"code":"1"}],"name":"Journal of the American Society for Mass Spectrometry","type":"journals","url":"/journal/jamsef"}]},{"char":"L","publications":[{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/langd5/2019/langd5.2019.35.issue-52/langd5.2019.35.issue-52/20191231/langd5.2019.35.issue-52.largecover.jpg","code":"langd5","subjects":[{"code":"cat_physical"},{"code":"cat_matscieng"}],"name":"Langmuir","type":"journals","url":"/journal/langd5"}]},{"char":"M","publications":[{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/mamobx/2019/mamobx.2019.52.issue-24/mamobx.2019.52.issue-24/20191224/mamobx.2019.52.issue-24.largecover.jpg","code":"mamobx","subjects":[{"code":"cat_matscieng"}],"name":"Macromolecules","type":"journals","url":"/journal/mamobx"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/mpohbp/2020/mpohbp.2020.17.issue-1/mpohbp.2020.17.issue-1/20200106/mpohbp.2020.17.issue-1.largecover.jpg","code":"mpohbp","subjects":[{"code":"cat_organic_inorganic"},{"code":"cat_biological"},{"code":"cat_app"}],"name":"Molecular Pharmaceutics","type":"journals","url":"/journal/mpohbp"}]},{"char":"N","publications":[{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/nalefd/2020/nalefd.2020.20.issue-1/nalefd.2020.20.issue-1/20200108/nalefd.2020.20.issue-1.largecover.jpg","code":"nalefd","subjects":[{"code":"cat_matscieng"}],"name":"Nano Letters","type":"journals","url":"/journal/nalefd"}]},{"char":"O","publications":[{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/orlef7/2020/orlef7.2020.22.issue-1/orlef7.2020.22.issue-1/20200103/orlef7.2020.22.issue-1.largecover.jpg","code":"orlef7","subjects":[{"code":"cat_organic_inorganic"}],"name":"Organic Letters","type":"journals","url":"/journal/orlef7"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/oprdfk/2019/oprdfk.2019.23.issue-12/oprdfk.2019.23.issue-12/20191220/oprdfk.2019.23.issue-12.largecover.jpg","code":"oprdfk","subjects":[{"code":"cat_organic_inorganic"},{"code":"cat_app"}],"name":"Organic Process Research &amp; Development","type":"journals","url":"/journal/oprdfk"},{"imgUrl":"/na101/home/literatum/publisher/achs/journals/content/orgnd7/2019/orgnd7.2019.38.issue-24/orgnd7.2019.38.issue-24/20191223/orgnd7.2019.38.issue-24.largecover.jpg","code":"orgnd7","subjects":[{"code":"cat_organic_inorganic"}],"name":"Organometallics","type":"journals","url":"/journal/orgnd7"}]},{"char":"P","publications":[{"imgUrl":"","code":"iepra6.1","subjects":[{"code":"journals"}],"name":"Product R&amp;D","type":"journals","url":"/journal/iepra6.1"}]}]}'/></div></div>
+</header>
+<main class="content article" data-widget-id="28284a6d-730d-4a56-93ad-909787c5ac1b" id=""><article data-enable-mathjax="true" data-figures="https://pubs.acs.org/action/ajaxShowFigures?doi=10.1021%2Facs.nanolett.9b04741&amp;ajax=true" data-references="https://pubs.acs.org/action/ajaxShowEnhancedAbstract?doi=10.1021%2Facs.nanolett.9b04741&amp;ajax=true"><div class="figure-viewer"><div class="figure-viewer_row"><div class="figure-viewer_col"><div class="figure-viewer_modal"><a class="figure-viewer_close icon-close" href="#" title="Close"></a><h2 class="figure-viewer_label"><span class="figure-viewer_current"></span></h2><div class="figure-viewer_image"><a class="figure-viewer_next icon-angle-right" href="#" title="Next"></a><a class="figure-viewer_prev icon-angle-left" href="#" title="Previous"></a><div class="figure-viewer_image-content"><img alt="Figure 1" class="fv-img" src=""><img alt="Loading Img" class="loading-img" src="/pb-assets/ux3/loading-1525090748317.gif"/></img></div></div><div class="figure-viewer_links"><a class="figure-viewer_hi-res-link" href="#" target="_blank" title="Download Hi-Res Image"><i class="icon-file-image-o"></i><span>Download Hi-Res Image</span></a><span class="fv-separator"></span><a class="figure-viewer_ms-p-link" href="#" title="Download to MS-PowerPoint"><i class="icon-file-powerpoint-o"></i><span>Download to MS-PowerPoint</span></a><span class="cit-this-container"><a class="figure-viewer-cite-this-link" href="/action/showCitFormats?doi=10.1021/acs.nanolett.9b04741&amp;href=/doi/10.1021/acs.nanolett.9b04741" title="Cite This"><i class="icon-check-circle"></i><span><strong>Cite This:</strong></span></a><span class="article_header-cite-this figure-viewer-cite-this"><span class="cit-fg-title"><i>Nano Lett.</i></span><span class="cit-fg-year"> 2020</span><span class="cit-fg-volume">, XXXX</span><span class="cit-fg-issue">, XXX</span><span class="cit-fg-pageRange">, XXX-XXX</span></span></span></div></div></div></div></div><div class="article_header"><div class="articleHeaderDropzone5" data-pb-dropzone="articleHeaderDropzone5"><div class="advertisement">
+<div class="advertisement-link">
+<a href="http://acsmediakit.org">ADVERTISEMENT</a>
+</div>
+<div id="dfp-journal-article-leaderboard">
+<script type="text/javascript">
+			$(document).ready(function() {
+				setTimeout(function() {
+					googletag.cmd.push(function() { googletag.display("dfp-journal-article-leaderboard"); });
+				}, 1400);
+			});
+		</script>
+</div>
+</div></div><div class="container container_scaled-down"><div class="row"><div class="col-xs-12.clearfix"><div class="article_header-left pull-left"><div class="article_header-dropzone-1"><div class="articleHeaderDropzone1" data-pb-dropzone="articleHeaderDropzone1"><div class="content-navigation clearfix"><a class="content-navigation__btn--return" href="/toc/nalefd/0/0" id="returnToASAP" title="Return to Articles ASAP"><span>RETURN TO ARTICLES ASAP</span></a><a class="content-navigation__btn--pre" href="/doi/10.1021/acs.nanolett.9b04354" id="prevID" title="Previous"><i class="icon-angle-left"></i><span>PREV</span></a><span class="content-navigation__contentType">Letter</span><a class="content-navigation__btn--next" href="/doi/10.1021/acs.nanolett.9b03472" id="nextID" title="Next"><span>NEXT</span><i class="icon-angle-right"></i></a></div></div></div><div class="article_header-logo hidden-lg"><div class="pj-badge"></div><a href="/journal/nalefd" title="Journal Logo"><img alt="Journal Logo" src="/na101/home/literatum/publisher/achs/journals/covergifs/nalefd/title.png"/></a></div><h1 class="article_header-title"><span class="hlFld-Title">Changing the Phosphorus Allotrope from a Square Columnar Structure to a Planar Zigzag Nanoribbon by Increasing the Diameter of Carbon Nanotube Nanoreactors</span></h1><ul class="loa"><li><span class="hlFld-ContribAuthor">Jinying Zhang<strong>*</strong><div class="loa-info"><div class="loa-info-name">Jinying Zhang</div><div class="loa-info-affiliations"><div class="loa-info-affiliations-info">State Key Laboratory of Electrical Insulation and Power Equipment, Center of Nanomaterials for Renewable Energy, School of Electrical Engineering, Xi’an Jiaotong University, Xi’an, Shaanxi 710049, People’s Republic of China</div></div><span class="conrtib-corresp"><strong>*</strong>Email: <a href="/cdn-cgi/l/email-protection#315b585f48585f561f4b59505f56715c50585d1f495b45441f5455441f525f"><span class="__cf_email__" data-cfemail="dbb1b2b5a2b2b5bcf5a1b3bab5bc9bb6bab2b7f5a3b1afaef5bebfaef5b8b5">[email protected]</span></a>.</span><span class="conrtib-corresp"></span><div class="loa-info-scifinder"><span>More by <a href="/action/doSearch?field1=Contrib&amp;text1=Jinying++Zhang">Jinying Zhang</a></span></div><div class="loa-info-orcid"><img alt="Orcid" src="/products/achs/releasedAssets/images/orchid.png"/><a href="http://orcid.org/0000-0002-2634-6275" title="Orcid link">http://orcid.org/0000-0002-2634-6275</a></div></div></span></li><li><span class="hlFld-ContribAuthor">Chengcheng Fu<div class="loa-info"><div class="loa-info-name">Chengcheng Fu</div><div class="loa-info-affiliations"><div class="loa-info-affiliations-info">State Key Laboratory of Electrical Insulation and Power Equipment, Center of Nanomaterials for Renewable Energy, School of Electrical Engineering, Xi’an Jiaotong University, Xi’an, Shaanxi 710049, People’s Republic of China</div></div><div class="loa-info-scifinder"><span>More by <a href="/action/doSearch?field1=Contrib&amp;text1=Chengcheng++Fu">Chengcheng Fu</a></span></div></div></span></li><li><span class="hlFld-ContribAuthor">Shixin Song<div class="loa-info"><div class="loa-info-name">Shixin Song</div><div class="loa-info-affiliations"><div class="loa-info-affiliations-info">The School of Physics, Southeast University, Nanjing, Jiangsu 211189, People’s Republic of China</div></div><div class="loa-info-scifinder"><span>More by <a href="/action/doSearch?field1=Contrib&amp;text1=Shixin++Song">Shixin Song</a></span></div></div></span></li><li><span class="hlFld-ContribAuthor">Hongchu Du<div class="loa-info"><div class="loa-info-name">Hongchu Du</div><div class="loa-info-affiliations"><div class="loa-info-affiliations-info">Ernst Ruska Centre for Microscopy and Spectroscopy with Electrons, Forschungszentrum Jülich, Jülich 52425, Germany</div></div><div class="loa-info-scifinder"><span>More by <a href="/action/doSearch?field1=Contrib&amp;text1=Hongchu++Du">Hongchu Du</a></span></div><div class="loa-info-orcid"><img alt="Orcid" src="/products/achs/releasedAssets/images/orchid.png"/><a href="http://orcid.org/0000-0002-4661-4644" title="Orcid link">http://orcid.org/0000-0002-4661-4644</a></div></div></span></li><li><span class="hlFld-ContribAuthor">Dan Zhao<div class="loa-info"><div class="loa-info-name">Dan Zhao</div><div class="loa-info-affiliations"><div class="loa-info-affiliations-info">State Key Laboratory of Electrical Insulation and Power Equipment, Center of Nanomaterials for Renewable Energy, School of Electrical Engineering, Xi’an Jiaotong University, Xi’an, Shaanxi 710049, People’s Republic of China</div></div><div class="loa-info-scifinder"><span>More by <a href="/action/doSearch?field1=Contrib&amp;text1=Dan++Zhao">Dan Zhao</a></span></div></div></span></li><li><span class="hlFld-ContribAuthor">Hongyang Huang<div class="loa-info"><div class="loa-info-name">Hongyang Huang</div><div class="loa-info-affiliations"><div class="loa-info-affiliations-info">State Key Laboratory of Electrical Insulation and Power Equipment, Center of Nanomaterials for Renewable Energy, School of Electrical Engineering, Xi’an Jiaotong University, Xi’an, Shaanxi 710049, People’s Republic of China</div></div><div class="loa-info-scifinder"><span>More by <a href="/action/doSearch?field1=Contrib&amp;text1=Hongyang++Huang">Hongyang Huang</a></span></div></div></span></li><li><span class="hlFld-ContribAuthor">Lihui Zhang<div class="loa-info"><div class="loa-info-name">Lihui Zhang</div><div class="loa-info-affiliations"><div class="loa-info-affiliations-info">State Key Laboratory of Electrical Insulation and Power Equipment, Center of Nanomaterials for Renewable Energy, School of Electrical Engineering, Xi’an Jiaotong University, Xi’an, Shaanxi 710049, People’s Republic of China</div></div><div class="loa-info-scifinder"><span>More by <a href="/action/doSearch?field1=Contrib&amp;text1=Lihui++Zhang">Lihui Zhang</a></span></div></div></span></li><li><span class="hlFld-ContribAuthor">Jie Guan<strong>*</strong><div class="loa-info"><div class="loa-info-name">Jie Guan</div><div class="loa-info-affiliations"><div class="loa-info-affiliations-info">The School of Physics, Southeast University, Nanjing, Jiangsu 211189, People’s Republic of China</div></div><span class="conrtib-corresp"><strong>*</strong>Email: <a href="/cdn-cgi/l/email-protection#c6a1b3a7a8acafa386b5a3b3e8a3a2b3e8a5a8"><span class="__cf_email__" data-cfemail="2c4b594d424645496c5f495902494859024f42">[email protected]</span></a>.</span><span class="conrtib-corresp"></span><div class="loa-info-scifinder"><span>More by <a href="/action/doSearch?field1=Contrib&amp;text1=Jie++Guan">Jie Guan</a></span></div><div class="loa-info-orcid"><img alt="Orcid" src="/products/achs/releasedAssets/images/orchid.png"/><a href="http://orcid.org/0000-0003-2620-2279" title="Orcid link">http://orcid.org/0000-0003-2620-2279</a></div></div></span></li><li><span class="hlFld-ContribAuthor">Yifan Zhang<div class="loa-info"><div class="loa-info-name">Yifan Zhang</div><div class="loa-info-affiliations"><div class="loa-info-affiliations-info">Department of Physics, Shanghai University, Shanghai 200444, People’s Republic of China</div></div><div class="loa-info-scifinder"><span>More by <a href="/action/doSearch?field1=Contrib&amp;text1=Yifan++Zhang">Yifan Zhang</a></span></div></div></span></li><li><span class="hlFld-ContribAuthor">Xinluo Zhao<div class="loa-info"><div class="loa-info-name">Xinluo Zhao</div><div class="loa-info-affiliations"><div class="loa-info-affiliations-info">Department of Physics, Shanghai University, Shanghai 200444, People’s Republic of China</div></div><div class="loa-info-scifinder"><span>More by <a href="/action/doSearch?field1=Contrib&amp;text1=Xinluo++Zhao">Xinluo Zhao</a></span></div><div class="loa-info-orcid"><img alt="Orcid" src="/products/achs/releasedAssets/images/orchid.png"/><a href="http://orcid.org/0000-0003-2139-8583" title="Orcid link">http://orcid.org/0000-0003-2139-8583</a></div></div></span></li><li><span class="hlFld-ContribAuthor">Chuansheng Ma<div class="loa-info"><div class="loa-info-name">Chuansheng Ma</div><div class="loa-info-affiliations"><div class="loa-info-affiliations-info">The School of Microelectronics and State Key Laboratory for Mechanical Behavior of Materials, Xi’an Jiaotong University, Xi’an, Shaanxi 710049, People’s Republic of China</div></div><div class="loa-info-scifinder"><span>More by <a href="/action/doSearch?field1=Contrib&amp;text1=Chuansheng++Ma">Chuansheng Ma</a></span></div></div></span></li><li><span class="hlFld-ContribAuthor">Chun-Lin Jia<strong>*</strong><div class="loa-info"><div class="loa-info-name">Chun-Lin Jia</div><div class="loa-info-affiliations"><div class="loa-info-affiliations-info">Ernst Ruska Centre for Microscopy and Spectroscopy with Electrons, Forschungszentrum Jülich, Jülich 52425, Germany</div><div class="loa-info-affiliations-info">The School of Microelectronics and State Key Laboratory for Mechanical Behavior of Materials, Xi’an Jiaotong University, Xi’an, Shaanxi 710049, People’s Republic of China</div></div><span class="conrtib-corresp"><strong>*</strong>Email: <a href="/cdn-cgi/l/email-protection#9af9b4f0f3fbdafce0b7f0effff6f3f9f2b4feff"><span class="__cf_email__" data-cfemail="6a094400030b2a0c1047001f0f06030902440e0f">[email protected]</span></a>, <a href="/cdn-cgi/l/email-protection#0764296d6e66476a666e6b297f6d737229626372296469"><span class="__cf_email__" data-cfemail="24470a4e4d456449454d480a5c4e50510a4140510a474a">[email protected]</span></a>.</span><span class="conrtib-corresp"></span><span class="conrtib-corresp"></span><div class="loa-info-scifinder"><span>More by <a href="/action/doSearch?field1=Contrib&amp;text1=Chun-Lin++Jia">Chun-Lin Jia</a></span></div><div class="loa-info-orcid"><img alt="Orcid" src="/products/achs/releasedAssets/images/orchid.png"/><a href="http://orcid.org/0000-0001-7536-9521" title="Orcid link">http://orcid.org/0000-0001-7536-9521</a></div></div></span></li><li><span class="hlFld-ContribAuthor">David Tománek<div class="loa-info"><div class="loa-info-name">David Tománek</div><div class="loa-info-affiliations"><div class="loa-info-affiliations-info">Physics and Astronomy Department, Michigan State University, East Lansing, Michigan 48824-2320, United States</div></div><div class="loa-info-scifinder"><span>More by <a href="/action/doSearch?field1=Contrib&amp;text1=David++Tom%C3%A1nek">David Tománek</a></span></div></div></span></li></ul><div class="article_header-meta clearfix"><div class="article_header-meta-left pull-left"><input name="journalCodeForjhpLink" type="hidden" value="nalefd"/><input name="journalNameForjhpLink" type="hidden" value="Nano Letters"/><div class="article_header-cite-this"><a href="/action/showCitFormats?doi=10.1021%2Facs.nanolett.9b04741&amp;href=/doi/10.1021%2Facs.nanolett.9b04741" title="Cite This"><i class="icon-check-circle"></i><strong>Cite this: </strong></a><span class="cit-title"><i>Nano Lett.</i></span> <span class="cit-year-info"><span>2020</span></span><span class="cit-volume">, XXXX</span><span class="cit-issue">, XXX</span><span class="cit-pageRange">, XXX-XXX</span></div><div class="article_header-epubdate"><span class="pub-date epub-date">Publication Date</span><span class="web-text"> (Web)</span><span class="date-separator">:</span><span class="pub-date-value">January 6, 2020</span><div class="article_header-history base dropBlock"><a aria-expanded="false" class="" data-db-target-for="article_header-history" href="#" target="_self" title="History"><i class="icon-angle-down"></i><i class="icon-angle-up"></i></a><div aria-hidden="true" class="dropBlock__holder" data-db-target-of="article_header-history"><div class="articleHeaderHistoryDropzone" data-pb-dropzone="articleHeaderHistoryDropzone"><h4>Publication History</h4>
+<ul class="rlist article-chapter-history-list"><li><span class="item_label"><b>Received</b></span>16 November 2019</li><li><span class="item_label"><b>Revised</b></span>31 December 2019</li><li><span class="item_label"><b>Published</b> online</span>8 January 2020</li></ul></div></div></div></div><div class="article_header-doiurl"><a href="https://doi.org/10.1021/acs.nanolett.9b04741" title="DOI URL">https://doi.org/10.1021/acs.nanolett.9b04741</a></div><div class="article_header-article-copyright"><strong>Copyright © 2020 American Chemical Society</strong></div><div class="article_rightPermissionsLink"><div class="articleHeaderDropzone4" data-pb-dropzone="articleHeaderDropzone4"><div class="articleRightsPermissionsLink"><a href="/servlet/linkout?type=rightslink&amp;url=startPage%3D1%26pageCount%3D6%26copyright%3DAmerican%2BChemical%2BSociety%26author%3DJinying%2BZhang%252C%2BChengcheng%2BFu%252C%2BShixin%2BSong%252C%2Bet%2Bal%26orderBeanReset%3Dtrue%26imprint%3DAmerican%2BChemical%2BSociety%26volumeNum%3D0%26issueNum%3D0%26contentID%3Dacs.nanolett.9b04741%26title%3DChanging%2Bthe%2BPhosphorus%2BAllotrope%2Bfrom%2Ba%2BSquare%2BColumnar%2BStructure%2Bto%2Ba%2BPlanar%2BZigzag%2BNanoribbon%2Bby%2BIncreasing%2Bthe%2BDiameter%2Bof%2BCarbon%2BNanotube%2BNanoreactors%26numPages%3D6%26pa%3D%26issn%3D1530-6984%26publisherName%3Dacs%26publication%3Dnalefd%26rpt%3Dn%26endPage%3D6%26publicationDate%3DJanuary%2B2020">RIGHTS &amp; PERMISSIONS</a></div></div></div><div class="article_header-open-access"></div></div><div class="article_header-meta-center pull-left"><div class="articleHeaderDropzone3" data-pb-dropzone="articleHeaderDropzone3"><div class="articleMetrics"><div class="articleMetrics_table"><div class="articleMetrics_row"><input name="articleMetricsDoi" type="hidden" value="10.1021/acs.nanolett.9b04741"/><div class="articleMetrics_metric"><h6>Article Views</h6><div class="articleMetrics-val">4</div></div><div class="articleMetrics_altmetric"><h6>Altmetric</h6><div class="articleMetrics-val articleMetrics_score">-</div><div class="altmetric-donut hidden"><div class="altmetric-embed" data-badge-details="right" data-badge-type="donut" data-condensed="true" data-hide-no-mentions="false"></div></div></div><div class="articleMetrics_count"><h6>Citations</h6><div class="articleMetrics-val">-</div></div></div></div><div class="articleMetrics_about"><div class="base dropBlock"><a data-db-target-for="aboutArticleMetrics" href="#">LEARN ABOUT THESE METRICS</a><div class="dropBlock__holder" data-db-target-of="aboutArticleMetrics"><p>Article Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to reflect usage leading up to the last few days.</p><p>Citations are the number of other articles citing this article, calculated by Crossref and updated daily.<a href="https://www.crossref.org/services/cited-by/" title="Find more information about Crossref citation counts"> Find more information about Crossref citation counts.</a></p><p>The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online. Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article. Find more information on<a href="https://help.altmetric.com/support/solutions/articles/6000060969-how-is-the-altmetric-attention-score-calculated" title="The Altmetric Attention Score and how the score is calculated"> the Altmetric Attention Score and how the score is calculated.</a></p></div></div></div></div></div></div><div class="article_header-meta-right"><div class="articleHeaderDropzone6" data-pb-dropzone="articleHeaderDropzone6"><div class="article_header-share share_label_visible" data-widget-def="UX3share" data-widget-id="787b5b92-0445-40f4-bdd2-9591d56f4a67">
+<!-- Go to www.addthis.com/dashboard to customize your tools --><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script async="async" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-4faab26f2cff13a7" type="text/javascript"></script><div class="share"><div class="share_button"><span class="share__label">Share</span><a aria-label="share button" class="share__ctrl" data-db-switch="icon-close_thin" data-db-target-for="787b5b92-0445-40f4-bdd2-9591d56f4a67" href="#"><i aria-hidden="true" class="icon-Icon_Share"></i></a></div>
+<div class="achs-addto-mendeley"><input class="statusEndpoint" name="statusEndpoint" type="hidden" value="https://sso.acs.org/idp/status"/><input class="clientID" name="clientID" type="hidden" value="atypon-lives"/><input class="doi" type="hidden" value="10.1021/acs.nanolett.9b04741"/><span class="achs-addto-mendeley_label achs-addto-mendeley_addToLabel">Add to</span><span class="achs-addto-mendeley_label achs-addto-mendeley_viewInLabel">View In</span><a class="achs-addto-mendeley_button" title="Add to mendeley button"><i class="achs-addto-mendeley_icon icon-mendeley"></i><i class="achs-addto-mendeley_close icon-close"></i></a><div class="achs-addto-mendeley_list dropBlock__holder" data-db-target-of="5423a74c-bbd8-47b1-9f43-99423ee72e5c"><ul><li><a class="achs-addto-mendeley_disabled-button add-full-document" href="#" title="Add Full Text with Reference"><i class="icon-bookmark-o"></i><span>Add Full Text with Reference</span></a></li><li><a class="achs-mendeley_button add-metadata-description" href="#" title="Add Description"><i class="icon-mendeley"></i><span>Add Description</span></a></li></ul></div><a class="achs-addto-mendeley_viewin-button" href="#" title="View in mendeley button"><i class="icon-mendeley"></i></a><div class="achs_loader"><div class="achs_loader_dot"></div><div class="achs_loader_dot"></div><div class="achs_loader_dot"></div></div><input class="meta-data" name="meta-data" type="hidden" value='{"title":"Changing the Phosphorus Allotrope from a Square Columnar Structure to a Planar Zigzag Nanoribbon by Increasing the Diameter of Carbon Nanotube Nanoreactors","type":"journal","authors":[{"first_name":"Jinying","last_name":"Zhang"},{"first_name":"Chengcheng","last_name":"Fu"},{"first_name":"Shixin","last_name":"Song"},{"first_name":"Hongchu","last_name":"Du"},{"first_name":"Dan","last_name":"Zhao"},{"first_name":"Hongyang","last_name":"Huang"},{"first_name":"Lihui","last_name":"Zhang"},{"first_name":"Jie","last_name":"Guan"},{"first_name":"Yifan","last_name":"Zhang"},{"first_name":"Xinluo","last_name":"Zhao"},{"first_name":"Chuansheng","last_name":"Ma"},{"first_name":"Chun-Lin","last_name":"Jia"},{"first_name":"David","last_name":"Tománek"}],"source":"Nano Letters","year":"2020","month":"01","day":"08","issue":"0","volume":"0","pages":"","identifiers":{"doi":"10.1021/acs.nanolett.9b04741"},"abstract":"Elemental phosphorus nanostructures are notorious for a large number of allotropes, which limits their usefulness as semiconductors. To limit this structural diversity, we synthesize selectively quasi-1D phosphorus nanostructures inside carbon nanotubes (CNTs) that act both as stable templates and nanoreactors. Whereas zigzag phosphorus nanoribbons form preferably in CNTs with an inner diameter exceeding 1.4 nm, a previously unknown square columnar structure of phosphorus is observed to form inside narrower nanotubes. Our findings are supported by electron microscopy and Raman spectroscopy observations as well as ab initio density functional theory calculations. Our computational results suggest that square columnar structures form preferably in CNTs with an inner diameter around 1.0 nm, whereas black phosphorus nanoribbons form preferably inside CNTs with a 4.1 nm inner diameter, with zigzag nanoribbons energetically favored over armchair nanoribbons. Our theoretical predictions agree with the experimental f"}'/><input class="mendeley-api-endpoint" name="mendeley-api-endpoint" type="hidden" value="https://api.mendeley.com/documents"/><input class="pub-access" name="pub-access" type="hidden" value="no"/><input class="library-url" name="library-url" type="hidden" value="https://www.mendeley.com/library/"/><input class="selected-share-option" name="selected-share-option" type="hidden"/></div>
+<div class="cit-download-dropdown"><span class="cit-download-dropdown_label">Export</span><a class="cit-download-dropdown_button" data-db-target-for="cit-download-dropdown_content" href="#" title="Download citation button"><span>RIS</span><i class="icon-close"></i></a><div class="cit-download-dropdown_content" data-db-target-of="cit-download-dropdown_content"><ul><li><a href="/action/downloadCitation?doi=10.1021%2Facs.nanolett.9b04741&amp;include=cit&amp;format=ris&amp;direct=true&amp;downloadFileName=acs.nanolett.9b04741" title="Citation"><span>Citation</span></a></li><li><a href="/action/downloadCitation?doi=10.1021%2Facs.nanolett.9b04741&amp;include=abs&amp;format=ris&amp;direct=true&amp;downloadFileName=acs.nanolett.9b04741" title="Citation and abstract"><span>Citation and abstract</span></a></li><li><a href="/action/downloadCitation?doi=10.1021%2Facs.nanolett.9b04741&amp;include=ref&amp;format=ris&amp;direct=true&amp;downloadFileName=acs.nanolett.9b04741" title="Citation and references"><span>Citation and references</span></a></li><li><a href="/action/showCitFormats?doi=10.1021%2Facs.nanolett.9b04741&amp;include=cit&amp;format=ris&amp;direct=true&amp;downloadFileName=acs.nanolett.9b04741&amp;href=/doi/10.1021/acs.nanolett.9b04741" title="Cite This"><i class="icon-plus-square"></i><span>More Options</span></a></li></ul></div></div>
+<div class="share__block dropBlock__holder fixed" data-db-target-of="787b5b92-0445-40f4-bdd2-9591d56f4a67" id="787b5b92-0445-40f4-bdd2-9591d56f4a67_Pop"><ul class="rlist w-slide--list addthis addthis_toolbox addthis_default_style addthis_32x32_style"><li><a class="addthis_button_facebook"><i aria-hidden="true" class="at-icon-wrapper icon-facebook"></i>Facebook</a></li><li><a class="addthis_button_twitter"><i aria-hidden="true" class="at-icon-wrapper icon-twitter"></i>Twitter</a></li><li><a class="addthis_button_wechat"><i aria-hidden="true" class="at-icon-wrapper icon-wechat"></i>WeChat</a></li><li><a class="addthis_button_linkedin"><i aria-hidden="true" class="at-icon-wrapper icon-linkedin"></i>Linked In</a></li><li><a class="addthis_button_reddit"><i aria-hidden="true" class="at-icon-wrapper icon-reddit"></i>Reddit</a></li><li><a class="addthis_button_email"><i aria-hidden="true" class="at-icon-wrapper icon-envelope-o"></i>Email</a></li></ul></div></div>
+</div></div></div></div><div class="article_header-footer"><div class="article_header-footer-left pull-left clearfix"><div class="article_header-links pull-left"><a class="button_primary" href="/doi/full/10.1021/acs.nanolett.9b04741" id="readOnlineID" title="Read Online">Read Online</a><a class="button_primary" href="/doi/pdf/10.1021/acs.nanolett.9b04741" target="_blank" title="PDF"><i class="icon-file-pdf-o"></i><span>PDF (3 MB)
+                            </span></a><div class="articleHeaderDropzone8" data-pb-dropzone="articleHeaderDropzone8"><!-- Empty dropzone --></div></div><div class="article_header-suppInfo pull-left"><i class="icon-supporting-info"></i><span class="article_header-suppInfo-text">Supporting Info (1)</span><span class="article_header-suppInfo-arrow">»</span><a class="article_header-suppInfo-link-mobile hidden-sm hidden-md hidden-lg w-slide__btn" data-slide-target=".tab__pane-suppInfo" href="#" title="Supporting Information">Supporting Information
+                </a><a class="article_header-suppInfo-link internalNav hidden-xs" data-scrollduration="1000" href="#article_content-right" title="Supporting Information">Supporting Information
+                </a></div></div><div class="article_header-footer-right"><div class="articleHeaderDropzone7" data-pb-dropzone="articleHeaderDropzone7"><!-- Empty dropzone --></div></div></div></div><div class="article_header-right pull-left hidden-md hidden-sm hidden-xs"><div class="articleHeaderDropzone2" data-pb-dropzone="articleHeaderDropzone2"><div class="cover-image"><div class="cover-image__image"><a href="/toc/nalefd/0/0" title="Go to Volume 0, Issue 0"><img alt="Go to Volume 0, Issue 0" src="/na101/home/literatum/publisher/achs/journals/covergifs/nalefd/largecover.jpg"/></a></div></div>
+<div class="pj-badge"></div>
+<div class="aJhp_link"></div>
+<a class="button_primary_2" href="/action/doUpdateAlertSettings?action=addJournal&amp;journalCode=nalefd"><i class="icon-send"></i><span>Get e-Alerts</span></a></div></div></div></div></div></div><div class="article_abstract"><div class="container container_scaled-down"><div class="row"><div class="col-xs-12"><h2 class="article_abstract-title" id="Abstract">Abstract</h2><div class="article_abstract-content hlFld-Abstract" id="abstractBox"><div class="article_abstract-img" id="_i1"><img alt="Abstract Image" src="/na101/home/literatum/publisher/achs/journals/content/nalefd/0/nalefd.ahead-of-print/acs.nanolett.9b04741/20200108/images/medium/nl9b04741_0006.gif"/></div><p class="articleBody_abstractText">Elemental phosphorus nanostructures are notorious for a large number of allotropes, which limits their usefulness as semiconductors. To limit this structural diversity, we synthesize selectively quasi-1D phosphorus nanostructures inside carbon nanotubes (CNTs) that act both as stable templates and nanoreactors. Whereas zigzag phosphorus nanoribbons form preferably in CNTs with an inner diameter exceeding 1.4 nm, a previously unknown square columnar structure of phosphorus is observed to form inside narrower nanotubes. Our findings are supported by electron microscopy and Raman spectroscopy observations as well as <i>ab initio</i> density functional theory calculations. Our computational results suggest that square columnar structures form preferably in CNTs with an inner diameter around 1.0 nm, whereas black phosphorus nanoribbons form preferably inside CNTs with a 4.1 nm inner diameter, with zigzag nanoribbons energetically favored over armchair nanoribbons. Our theoretical predictions agree with the experimental findings.</p></div></div></div></div><div class="article_keywords hlFld-Abstract"><div class="container container_scaled-down"><div class="row"><div class="col-xs-12"><div class="article_keywords-container"><span>KEYWORDS:</span><ul class="rlist--inline"><li><a class="keyword" href="https://pubs.acs.org/action/doSearch?action=search&amp;AllField=Selective+Synthesis&amp;qsSearchArea=AllField">selective synthesis</a></li><li> <a class="keyword" href="https://pubs.acs.org/action/doSearch?action=search&amp;AllField=Phosphorus+Allotrope&amp;qsSearchArea=AllField">phosphorus allotrope</a></li><li> <a class="keyword" href="https://pubs.acs.org/action/doSearch?action=search&amp;AllField=Phosphorus+Square+Column&amp;qsSearchArea=AllField">phosphorus square column</a></li><li> <a class="keyword" href="https://pubs.acs.org/action/doSearch?action=search&amp;AllField=Black+Phosphorus+Nanoribbon&amp;qsSearchArea=AllField">black phosphorus nanoribbon</a></li><li> <a class="keyword" href="https://pubs.acs.org/action/doSearch?action=search&amp;AllField=Carbon+Nanotube&amp;qsSearchArea=AllField">carbon nanotube</a></li><li> <a class="keyword" href="https://pubs.acs.org/action/doSearch?action=search&amp;AllField=Nanoreactor&amp;qsSearchArea=AllField">nanoreactor</a></li></ul></div></div></div></div></div></div><div class="container container_scaled-down article_si-figshare-container"><div class="row"><div class="col-xs-12"><div class="article_content-table"><div class="article_content-row"><div class="article_content-left article_content-left-fullwidth"><div class="article_supporting-info" id="notes1"><div class="article_content-header"><div class="article_content-header-row"><div class="article_content-title"><h2 id="_i4"><a class="ext-link" href="/doi/suppl/10.1021/acs.nanolett.9b04741">Supporting Information</a></h2></div><div class="article_content-sections"><span>ARTICLE SECTIONS</span><div class="article_sections-dropBlock"><a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_56065" href="#"><span>Jump To</span><i class="icon-angle-down"></i></a><div class="dropBlock__holder" data-db-target-of="sectionsDB_56065"></div></div></div></div></div><hr/><p class="last">The Supporting Information is available free of charge at <a class="ext-link" href="/doi/10.1021/acs.nanolett.9b04741?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acs.nanolett.9b04741</a>.<ul class="NLM_list-list_type-label" id="silist"><li><p class="inline">Structural models, Raman spectra, vibrational phonon spectra, and electronic band structure (<a class="ext-link" href="/doi/suppl/10.1021/acs.nanolett.9b04741/suppl_file/nl9b04741_si_001.pdf">PDF</a>)</p></li></ul></p><div class="supInfoBoxOnFTP"><div class="sup-info-attachments"><ul><li class="decorationNone"><h3><div class="suppl-file-img img-pdf">pdf</div></h3><ul><li><a class="suppl-anchor" href="/doi/suppl/10.1021/acs.nanolett.9b04741/suppl_file/nl9b04741_si_001.pdf">nl9b04741_si_001.pdf (585.82 kb)</a></li></ul></li></ul></div></div></div><div class="testing" data-doi="10.1021/acs.nanolett.9b04741" data-url="https://widgets.figshare.com/static/figshare.js" id="figshare-widget"></div><div class="TermsAndConditionsDropzone5" data-pb-dropzone="TermsAndConditionsDropzone5"><div class="mb-4" data-widget-def="UX3HTMLWidget" data-widget-id="4f56e050-da32-4718-9a4f-153e1aca7abc">
+<h2 class="">
+                Terms &amp; Conditions
+            </h2>
+<p>Electronic Supporting Information files are available without a subscription to ACS Web Editions.
+The American Chemical Society holds a copyright ownership interest in any copyrightable Supporting
+Information. Files available from the ACS website may be downloaded for personal use only. Users are
+not otherwise permitted to reproduce, republish, redistribute, or sell any Supporting Information
+from the ACS website, either in whole or in part, in either machine-readable form or any other form
+without permission from the American Chemical Society. For permission to reproduce, republish and
+redistribute this material, requesters must process their own requests via the RightsLink permission
+system. Information about how to use the RightsLink permission system can be found at
+<a href="/page/copyright/permissions.html" title="RightsLink">http://pubs.acs.org/page/copyright/permissions.html</a>.</p>
+</div></div></div></div></div></div></div></div><div class="container container_scaled-down article_citedby-section-container"><div class="row"><div class="col-xs-12"><div class="article_content-table"><div class="article_content-row"><div class="article_content-left article_content-left-fullwidth"><div class="article_content-header cited-content_header"><div class="article_content-header-row"><div class="article_content-title"><h2 id="citeThis">
+                        Cited By
+                        </h2></div></div></div><hr/><div class="cited-content"><a id="citing" name="citing"></a><p>This article has not yet been cited by other publications.</p><ol class="cited-content_cbyCitation"></ol></div></div></div></div></div></div></div></article></main>
+<footer class="footer">
+<div class="footer_first-row" id="partners">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<div class="footer_first-row_title">
+<span>
+						Partners
+					</span>
+</div>
+<div class="footer_first-row_logos">
+<div>
+<a href="http://www.atypon.com/">
+<img alt="Atypon" src="/pb-assets/images/footer_logos/logo-atypon-1525376610217.png"/>
+</a>
+</div>
+<div>
+<a href="http://www.chorusaccess.org/">
+<img alt="Chorus" src="/pb-assets/images/footer_logos/logo-chorus-1525375622947.png"/>
+</a>
+</div>
+<div>
+<a href="http://publicationethics.org/">
+<img alt="Cope publication ethics" src="/pb-assets/images/footer_logos/logo-cope-1525375622977.png"/>
+</a>
+</div>
+<div>
+<a href="http://www.projectcounter.org/">
+<img alt="Project Counter" src="/pb-assets/images/footer_logos/logo-counter-1523044519173.jpg"/>
+</a>
+</div>
+<div>
+<a href="http://www.crossref.org/">
+<img alt="Crossref" src="/pb-assets/images/footer_logos/logo-crossref-1525377362093.png"/>
+</a>
+</div>
+<div>
+<a href="http://www.crossref.org/crosscheck/index.html">
+<img alt="Crossref similarity check" src="/pb-assets/images/footer_logos/logo-crosscheck-1525375623000.png"/>
+</a>
+</div>
+<div>
+<a href="http://www.orcid.org/">
+<img alt="Orcid Connecting Research and Researchers" src="/pb-assets/images/footer_logos/logo-orcid-1525375623187.png"/>
+</a>
+</div>
+<div>
+<a href="http://www.portico.org/">
+<img alt="Portico digital preservation service" src="/pb-assets/images/footer_logos/logo-portico-1525375623203.png"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer_second-row col-xs-12 gutterless">
+<div class="row container" data-widget-def="ux3-layout-widget" data-widget-id="f963f9aa-5ade-4a09-8515-e6cd8e6364cf">
+<div class="col-xs-12">
+<div class="footer_second-row_left col-md-2 gutterless">
+<a href="/"><img alt="ACS Publications" src="/pb-assets/images/pubslogo-small-1444685090580.png"/></a>
+<div class="footer_menu">
+<ul>
+<li class="footer_menu_address">
+<span>
+				1155 Sixteenth Street N.W.
+			</span>
+</li>
+<li class="footer_menu_address">
+<span>
+				Washington, DC 20036
+			</span>
+</li>
+<li class="footer_menu_copyright">
+<a href="http://www.acs.org/content/acs/en/copyright.html">
+				Copyright © 2020<br/>
+				American Chemical Society
+			</a>
+</li>
+</ul>
+</div>
+</div><div class="footer_second-row_middle col-md-2 gutterless"></div><div class="footer_second-row_right col-md-8 gutterless">
+<div class="footer_second-row_about col-xs-4">
+<h4>About</h4>
+<ul>
+<li><a href="/page/about-us.html">About ACS Publications</a></li>
+<li><a href="http://acsopenaccess.org">ACS &amp; Open Access</a></li>
+<li><a href="https://www.acs.org/content/acs/en/membership/member-benefits/publications-discounts.html">ACS Membership</a></li>
+</ul>
+</div><div class="footer_second-row_resources col-xs-5">
+<h4>Resources and Information</h4>
+<ul>
+<li><a href="/action/showPublications?pubType=journal">Journals A-Z</a></li>
+<li><a href="/action/showPublications?pubType=book">Books and Reference</a></li>
+<li><a href="http://acsmediakit.org/digital/acs-pubs/?utm_source=Footer&amp;utm_medium=Pubs&amp;utm_campaign=CEN">Advertising Media Kit</a></li>
+<li><a href="/page/4librarians/contact-us/index.html">Institutional Sales</a></li>
+<li><a href="https://publish.acs.org/publish/">ACS Publishing Center</a></li>
+<li><a href="http://www.acs.org/content/acs/en/privacy.html">Privacy Policy</a></li>
+<li><a href="https://www.acs.org/content/acs/en/terms.html">Terms of Use</a></li>
+</ul>
+</div><div class="footer_second-row_support col-xs-3">
+<h4>Support &amp; Contact</h4>
+<ul>
+<li><a href="/cdn-cgi/l/email-protection#3c4f494c4c534e487c4f594e4a555f594f125d5f4f12534e5b">Help</a></li>
+<li><a class="help help-chat" href="#" onclick="SnapEngage.startLink();return false;">Live Chat</a></li>
+<li><a href="https://helpfaqs.acs.org/category/acs-publications-website/">FAQ</a></li>
+</ul>
+</div>
+</div>
+<div class="footer_social_section col-xs-12">
+<div class="footer_social_header">
+<h4>Connect with ACS Publications</h4>
+</div>
+<div class="footer_social">
+<ul>
+<li>
+<a aria-label="email" class="icon-envelope-o" href="/action/showPreferences?menuTab=Alerts">
+</a>
+</li>
+<li>
+<a aria-label="facebook" class="icon-facebook" href="https://www.facebook.com/ACSPublications/" rel="noreferrer" target="_blank">
+</a>
+</li>
+<li>
+<a aria-label="twitter" class="icon-twitter" href="https://twitter.com/ACSPublications" rel="noreferrer" target="_blank">
+</a>
+</li>
+<li>
+<a aria-label="youtube" class="icon-youtube-play" href="https://www.youtube.com/user/AmerChemSoc" rel="noreferrer" target="_blank">
+</a>
+</li>
+<li>
+<a aria-label="rss feed" class="icon-rss" href="/page/follow.html?widget=follow-pane-rss">
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<div class="achs-mendeley"><input class="tokenEndpoint" name="tokenEndpoint" type="hidden" value="https://sso.acs.org/mendeley/token"/><input class="appID" name="appID" type="hidden" value="literatum"/><input class="reopen-mendeley-modal-after-reload" name="reopen-mendeley-modal-after-reload" type="hidden"/><input class="statusEndpoint" name="statusEndpoint" type="hidden" value="https://sso.acs.org/idp/status"/><input class="clientID" name="clientID" type="hidden" value="atypon-lives"/><div class="achs-mendeley_table"><div class="achs-mendeley_row"><div class="achs-mendeley_cell"><div class="achs-mendeley_container"><a class="achs-mendeley_close" title="Close"><i class="icon-close"></i></a><div class="achs-mendeley_dropzone1"><div class="achs-mendeley_dropzone1_state1">
+<p style="font-weight: bold;">Pair your accounts.</p>
+<p>Export articles to Mendeley</p>
+<p>Get article recommendations from ACS based on references in your Mendeley library.</p>
+</div><div class="achs-mendeley_dropzone1_state2">
+<p style="font-weight: bold;">Pair your accounts.</p>
+<p>Export articles to Mendeley</p>
+<p>Get article recommendations from ACS based on references in your Mendeley library.</p>
+</div><div class="achs-mendeley_dropzone1_state3">
+<p style="font-weight: bold;">You’ve supercharged your research process with ACS and Mendeley!</p>
+</div></div><div class="achs-mendeley_continue-header"><button class="achs-mendeley_continue-btn"><span class="achs-mendeley_buttonText">Continue</span></button></div><div class="achs-mendeley_steps"><div class="achs-mendeley_steps_row"><div class="achs-mendeley_steps_cell achs-mendeley_acsLogin"><h6>STEP 1:</h6><button class="button_primary achs-mendeley_acsLogin_button"><span class="achs-mendeley_buttonText">Login with ACS ID</span><span class="achs-mendeley_success_buttonText">Logged in Success</span></button><span class="achs-mendeley_acsLogin_label">Click to create an ACS ID</span><i class="icon-if-arrow-right"></i></div><div class="achs-mendeley_steps_cell achs-mendeley_login"><h6>STEP 2:</h6><button class="button_primary achs-mendeley_login_button"><i class="icon-mendeley"></i><span class="achs-mendeley_buttonText">Login with Mendeley</span><span class="achs-mendeley_success_buttonText">Logged in Success</span></button><a href="https://id.elsevier.com/as/authorization.oauth2?state=c33c27125763433d4d32a15accaacc18&amp;prompt=login&amp;scope=openid%20email%20profile%20els_auth_info&amp;authType=SINGLE_SIGN_IN&amp;response_type=code&amp;platSite=MDY%2Fmendeley&amp;redirect_uri=https%3A%2F%2Fwww.mendeley.com%2Fcallback%2F&amp;client_id=MENDELEY" title="Create a Mendeley account">Create a Mendeley account</a></div></div></div><div class="achs-mendeley_dropzone2"><div class="achs-mendeley_dropzone2_state1">
+<p style="font-weight: bold;font-style:italic;">Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+</p>
+</div><div class="achs-mendeley_dropzone2_state2">
+<p style="font-weight: bold;font-style:italic;">Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+</p>
+</div><div class="achs-mendeley_dropzone2_state3">
+<p style="font-weight: bold;font-style:italic;">Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+</p>
+</div></div></div></div></div></div></div><div class="achs-mendeley_alert"><div class="achs-mendeley_alert_table"><div class="achs-mendeley_alert_row"><div class="achs-mendeley_alert_cell"><div class="achs-mendeley_alert_container"><a class="achs-mendeley_alert_close" title="Close"><i class="icon-close"></i></a><div class="achs-mendeley_alert_dropzone">
+<h1>OOPS</h1><p>You have to login with your ACS ID befor you can login with your Mendeley account.</p><button class="button_tertiary achs-mendeley_acsLogin_button mendeley-acs-custom-login-btn" onclick="loginToAcsSso(event); return false;">Login with ACS ID</button>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+    function loginToAcsSso(event){
+        event.preventDefault();
+        $('.achs-mendeley_acsLogin .achs-mendeley_acsLogin_button').trigger('click');
+    }
+</script>
+</div><div class="achs-mendeley_alert_error-msg"></div></div></div></div></div><div class="pairing-expired-dialog-container"><div class="pairing-expired-dialog"><div class="pairing-expired-dialog_top-btns"><span class="pairing-expired-dialog_heading">MENDELEY PAIRING EXPIRED</span><button class="pairing-expired-dialog_reconnect" onclick="UX.achsMendeley.reconnectOnClickHandler();">Reconnect</button></div><div class="pairing-expired-dialog_content"><span>Your Mendeley pairing has expired. Please reconnect</span></div></div></div></div>
+<script type="text/javascript">
+$(document).ready(function() {
+  setTimeout(function() {
+		// var journalTitle = 'nano_letters';
+		var articleKeyword = $('meta[name="keywords"]');
+		var articleTitle = $('meta[name="dc.Title"]');
+		var articleDescription = $('meta[name="dc.Description"]');
+		var abstractKeyword = $('p.articleBody_abstractText:contains("Keywords: ")');
+		var searchTerms = [];
+
+		if (articleKeyword.length > 0) { 
+			searchTerms = searchTerms.concat(articleKeyword.prop('content').split(', '));
+		}
+		else if (abstractKeyword.length > 0) {
+			searchTerms = searchTerms.concat(abstractKeyword.text().split("Keywords: ")[1].split('; '));
+		}
+		else if (articleDescription.length > 0) {
+			$(articleDescription).each(function() {
+				articleDescriptionKeywords = $(this).prop('content');
+				articleDescriptionKeywords = articleDescriptionKeywords.replace(/.,/g,"");
+				articleDescriptionKeywords = articleDescriptionKeywords.replace(/\s{2,}/g," ");
+				searchTerms = searchTerms.concat(articleDescriptionKeywords.split(' '));
+			});
+		}
+
+		searchTerms = searchTerms.concat(articleTitle.prop('content').split(' '));
+
+		googletag.cmd.push(function() {
+		    var mappingLeader = googletag.sizeMapping().
+		      addSize([320, 400], [320, 50]).
+		      addSize([320, 700], [320, 50]).
+		      addSize([750, 200], [728, 90]). 
+		      addSize([980, 690], [728, 90]).
+		      addSize([1024, 768], [728, 90]).
+		      build();
+
+			googletag.defineSlot('/8868/journal/nano_letters/article', [728, 90], 'dfp-journal-article-leaderboard').defineSizeMapping(mappingLeader).setTargeting('location', 'leaderboard1').setTargeting('Keyword', searchTerms).addService(googletag.pubads());
+			//googletag.pubads().enableSingleRequest();
+			googletag.pubads().collapseEmptyDivs();
+			googletag.pubads().setTargeting('inst',dartInstitutionType).setTargeting('memb',dartMember);
+			googletag.enableServices();
+		});
+  }, 1000);
+
+	setTimeout(function() {
+    (function(){
+      googletag.cmd.push(function() {
+        googletag.pubads().addEventListener("slotRenderEnded", function(event) {
+          if(event.isEmpty === false) {
+            $("#" + event.slot.getSlotElementId()).parents(".advertisement").show();
+          }
+        });
+      });
+    })();
+  }, 1500);
+});
+</script>
+<script>
+(function(){
+	
+	/*Event Tracking for RIS menu dropdown - Article pages*/
+
+	$('.cit-download-dropdown_button').on('click',function(e)
+	{	
+		e.preventDefault();
+	    ga('send', 'event', 'Citation', 'Export', 'Main');
+	});
+
+
+	$('.cit-download-dropdown_content ul li').on('click',function(e)
+	{	
+	//	e.preventDefault();
+	    var idx = $(this).index();
+	    
+	    var label = '';
+	    if (idx === 0 ) {
+	    	label = 'Citation';
+	    } else if (idx === 1 ) {
+	    	label = 'Abstract';
+	    } else if (idx === 2 ) {
+	    	label = 'Reference';
+	    } else if (idx === 3 ) {
+	    	label = 'More Options';
+	    }
+	   ga('send', 'event', 'Citation', 'Export', label);
+	});
+
+	$('.header_contnav-next a').on('click', function(e){
+        e.preventDefault();
+        ga('send', 'event', 'Article', 'Top', 'Right Arrow');
+	}); 
+
+ 	$('.header_contnav-pre a').on('click', function(e){
+	    e.preventDefault();
+	     ga('send', 'event', 'Article', 'Top', 'Left Arrow');
+	}); 
+
+	$('.share_button').on('click', function(e){
+		e.preventDefault();
+		ga('send', 'event', 'Article', 'Top', 'Share');
+	});
+
+	$("#pane-m1con").on('click', function(e) {
+		e.preventDefault();
+		ga('send', 'event', 'Article', 'Sidebar', 'Figures');
+	});
+
+	$("#pane-m2con").on('click', function(e) {
+		e.preventDefault();
+		ga('send', 'event', 'Article', 'Sidebar', 'References');
+	});
+
+	$("#pane-m3con").on('click', function(e) {
+		e.preventDefault();
+		ga('send', 'event', 'Article', 'Sidebar', 'Supporting Info');
+	});
+
+	$('.tab__close').on('click', function(){
+		ga('send', 'event', 'Article', 'Sidebar', 'Close');
+	}); 
+
+
+
+})();
+
+</script>
+<script>
+//This changes the url of the OA links on the article page
+(function (){
+	if ( $('.article_header-open-access').length > 0) {
+		if ( !($('.article_header-open-access').children('div').length  > 0) ) { 
+			$('.article_header-open-access > a').attr('href','/page/policy/authorchoice_termsofuse.html');
+		}
+	}
+})();
+</script>
+<style type="text/css">
+#gdpr-message-modal {
+    display: none;
+    /* Hidden by default */
+    position: fixed;
+    /* Stay in place */
+    z-index: 2;
+    /* Sit on top */
+    /*padding-top: 100px;*/
+    /* Location of the box */
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    /* Full width */
+    /*height: 100%;*/
+    /* Full height */
+    overflow: auto;
+    /* Enable scroll if needed */
+    /*background-color: rgb(0,0,0);*/
+    /* Fallback color */
+    /*background-color: rgba(0,0,0,0.4);*/
+    /* Black w/ opacity */
+}
+#gdpr-message-content {
+    font-family: Arial;
+    background-color: #005083;
+    color: #fff;
+    margin: auto;
+    padding: 5px 0 10px 0;
+    /*border: 1px solid #888;*/
+    box-shadow: 0 -1px 3px #666;
+    width: 100%;
+    display: block;
+    bottom: 0;
+}
+#gdpr-message-container {
+    /*width: 1130px;*/
+    margin: 0 auto;
+}
+.gdpr-innerwrap {
+    display: block;
+    /*width: 1100px;*/
+    margin: 0 auto;
+    text-align: center;
+}
+#gdpr-message-content h1 {
+    color: #0629b5;
+    font-size: 26px;
+    margin: 0.5em 0 0 0;
+    border-bottom: solid 2px #4c7fb9;
+    display: inline;
+    padding-bottom: 10px;
+}
+#gdpr-message-content h4 {
+    display: inline-block;
+    margin-left: 0;
+    margin-right: 14px;
+    margin-top: 13px;
+    /*width: 980px;*/
+    font-size: 14px;
+    font-weight: normal;
+}
+#gdpr-message-content p {
+    font-size: 14px;
+    margin: 2em 2em 0.5em 0em;
+    text-align: left;
+    font-weight: bold;
+}
+#gdpr-message-content a,
+#gdpr-message-content a:hover {
+    color: #9bcfff;
+}
+.gdpr-listwrap {
+    display: block;
+    margin-bottom: 10px;
+    min-height: 100px;
+    min-width: 200px;
+}
+#gdpr-message-content ul {
+    margin-top: 20px;
+    font-size: 13px;
+}
+#gdpr-ul1 {
+    display: inline-block;
+    float: left;
+}
+#gdpr-ul2 {
+    display: inline-block;
+    margin-left: 10px;
+}
+#gdpr-message-content ul li {
+    margin-top: 4px;
+}
+a#gdpr-con-btn,
+a#gdpr-con-btn:hover {
+    width: 110px;
+    height: 35px;
+    background: #fec82a;
+    background-image: none;
+    background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #fec82a), color-stop(100%, #daa301));
+    background-image: -webkit-linear-gradient(top, #fec82a, #daa301);
+    background-image: -moz-linear-gradient(top, #fec82a, #daa301);
+    background-image: -o-linear-gradient(top, #fec82a, #daa301);
+    background-image: linear-gradient(top, #fec82a, #daa301);
+    border-radius: 4px;
+    color: #004a7b;
+    display: inline-block;
+    text-decoration: none;
+    line-height: 35px;
+    text-align: center;
+    margin-top: 5px;
+    /*margin-right: 14px;*/
+    /*float: right;*/
+    font-weight: bold;
+}
+#gdpr-message-btn {
+    width: 60px;
+    height: 38px;
+    background: #4b8fc2;
+    border-radius: 4px;
+    color: white;
+    display: inline-block;
+    margin-top: -4px;
+    font-size: 12px;
+}
+a#closebtn {
+    float: right;
+    color: #d4e5ef;
+}
+#gdpr-input {
+    width: 200px;
+    height: 30px;
+    border-radius: 3px;
+    border-width: 1px;
+    box-shadow: none;
+    margin-right: 10px;
+    font-size: 14px;
+    outline: none;
+    padding-left: 2px;
+    display: inline-block;
+    float: left;
+}
+#gdpr-message-content p.gdpr_err {
+    font-size: 15px;
+    margin-top: 10px;
+}
+#gdpr-message-modal.mobile, #gdpr-message-modal.mobile .gdpr-message-content {
+    height: 160px;
+}
+@media only screen and (min-width: 1026px) and (max-width: 1368px) {
+	#gdpr-message-content h4 {
+		width: 80%;
+		text-align: left;
+	}
+}
+</style>
+<div id="gdpr-message-modal">
+<div id="gdpr-message-content">
+<!-- <div id="gdpr-message-container">
+			<a id="closebtn" href="#"><i class="icon-times-circle-o"></i></a> -->
+<div class="gdpr-innerwrap container">
+<h4>This website uses cookies to improve your user experience. By continuing to use the site, you are accepting our use of cookies. <a href="http://www.acs.org/content/acs/en/privacy.html">Read the ACS privacy policy</a>.</h4>
+<a href="#" id="gdpr-con-btn">CONTINUE</a>
+</div>
+<!-- </div> -->
+</div>
+</div>
+<script type="text/javascript">
+"use strict"
+//Script checks gdpr cookie and submits form
+	/* 
+	Create an in-page pop-up message, only for the InfoCentral homepage, that will gather email registrants for the library marketing list.
+	 
+	Needs the end point
+	*/
+
+var infoCentralCapture = (function() {
+
+    //Detect mobile device
+    window.mobilecheck = function() {
+        var check = false;
+        (function(a){if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4))) check = true;})(navigator.userAgent||navigator.vendor||window.opera);
+              return check;
+        };
+
+    var _isMobile = window.mobilecheck();
+    if (_isMobile) {
+        $('#gdpr-message-modal').addClass('mobile');
+    }
+
+    var emailValid = "",
+        time = 3000,
+        btnStatus = true,
+        errorStatus = false,
+        errormessage = "<p class='gdpr_err'><b>Please Enter a valid email address<b><p>";
+
+    function init() {
+        setTimeout(function() {
+            var cookieExist = getCookie("gdpr");
+            if (cookieExist) {
+                //console.log("gdpr cookie exist");
+                return false;
+            } else {
+                //console.log("gdpr cookie does not exist")
+                gdprMessage();
+            }
+            //Events
+            $('#closebtn').on("click", hideForm);
+
+            //Handle submit
+            $('#gdpr-message-btn').on("click", function(event) {
+                handleClick();
+            });
+
+            // //Hide if clicked outside div - TO DO stop handling click after submit
+            // $(document).click(function(event) {
+            // 	event.stopPropagation();
+            //   console.log(event.target);
+            //   if (!$(event.target).closest("#gdpr-message-content").length) {
+            //     $("body").find("#gdpr-message-modal").hide();
+            //     $(this).off();
+            //   }
+            // });
+            $('#gdpr-con-btn').click(function() {
+                setCookie("gdpr", "true");
+                hideForm();
+            });
+        }, time);
+    }
+
+    //Show the message
+    function gdprMessage() {
+        //console.log("Show GDPR Message");
+        var tMessage, emailInput, messageButton, ewrap;
+
+        $('#gdpr-message-modal').show();
+    }
+
+    function handleClick() {
+        //console.log($("#gdpr-input").val());
+        emailValid = validateEmail($("#gdpr-input").val());
+        if (emailValid) {
+            //Submit the form
+            //Hide form
+            if ($('.gdpr_err')) {
+                $('.gdpr_err').hide();
+            }
+
+            $("#gdpr-message-content")
+                //If successful then...
+            setCookie("gdpr", "true");
+            //console.log("emailValid " + emailValid + " submiting form");
+        } else {
+            //Show error message
+            gdprErrorMessage();
+            //console.log("emailValid " + emailValid);
+        }
+    }
+
+    function gdprErrorMessage() {
+        if (errorStatus) {
+            return false;
+        } else {
+            errorStatus = true;
+            $("#gdpr-message-content").append(errormessage);
+        }
+    }
+
+    function validateEmail(email) {
+        var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+        return re.test(String(email).toLowerCase());
+    }
+
+    function setCookie(name, value) {
+        var expires = "";
+        expires = "; expires=Fri, 31 Dec 9999 23:59:59 GMT";
+        document.cookie = name + "=" + (value || "") + expires + "; path=/";
+    }
+
+    function getCookie(name) {
+        var match = document.cookie.match(new RegExp(name + '=([^;]+)'));
+        if (match) return match[1];
+    }
+
+    function hideForm() { //And set cookie
+        $('#gdpr-message-modal').hide();
+        setCookie("gdpr", "false");
+        ga('send', 'event', 'Pubs GDPR', 'GDPR Modal', 'GDPR Dismissal');
+    }
+
+    return {
+        init: init
+    }
+})();
+
+$(document).ready(infoCentralCapture.init);
+</script>
+<script>
+    //Top nav tracking
+
+    (function(){
+        $('.header_my-activity').on('click', function(e){
+            e.preventDefault();
+            //console.log('Button , Activity')
+            ga('send', 'event', 'Top Nav', 'Button', 'Activity');
+        })
+
+
+        $('.pubModal_button').on('click', function(e){
+            e.preventDefault();
+            //console.log('Button , Publications')
+            ga('send', 'event', 'Top Nav', 'Button', 'Publications');
+        }) 
+
+        $('.header_burger-menu_button').on('click', function(e){
+            e.preventDefault();
+            //console.log('Button , Hamburger');
+            ga('send', 'event', 'Top Nav', 'Button', 'Hamburger');
+        }) 
+
+        // $('.header_burger-menu_content ul li').on('click', function(e){
+        //     // e.preventDefault();
+        //     var idx = $(this).index();
+        //     console.log('Menu item' + idx)
+        // })
+    })();
+    
+    
+</script>
+</div>
+</div>
+<script src="/products/achs/releasedAssets/js/main.bundle.js" type="text/javascript"></script>
+<script src="/wro/i0cf~product.js" type="text/javascript"></script>
+</body>
+</html>

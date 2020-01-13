@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="ie=edge" http-equiv="X-UA-Compatible"/>
+<title>不忘初心牢记使命主题教育网</title><meta content="不忘初心牢记使命主题教育网" name="keywords">
+<link href="css/style.css" rel="stylesheet"/>
+<link href="css/reset.css" rel="stylesheet"/>
+<link href="css/animate.min.css" rel="stylesheet"/>
+<script charset="utf-8" src="js/jquery.min.js"></script>
+<script charset="utf-8" src="js/jquery.SuperSlide.js"></script>
+<!--Announced by Visual SiteBuilder 9-->
+<link href="_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307045120812 -->
+<link href="index.vsb.css" rel="stylesheet" type="text/css">
+<script src="/system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1571490783)</script>
+</link></link></meta></head>
+<body>
+<div class="header">
+<div class="header_ct">
+<div class="hdr_logo divtest animated rollIn">
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="index.htm" title="不忘初心牢记使命主题教育网"><img src="images/logo.png"/>
+</a>
+</div>
+<div class="hdr_hz">
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+<img border="0" src="images/hdr_hz.png"/>
+</div>
+<div class="hdr_cx divtest animated zoomInRight" data-animation="fadeInLeft">
+<img border="0" src="images/hdr_cx.png"/>
+</div>
+</div>
+</div>
+<div class="banner">
+<div class="slideBox" id="slideBox">
+<div class="bd">
+<ul>
+<li>
+<a href="info/1033/1539.htm" onclick='_addDynClicks("wbimage", 1571490783, 53120)' target="_blank" title="">
+<img border="0" src="images/xiqianjingshen.jpg"/>
+</a>
+</li>
+<li>
+<img border="0" src="images/600-20190927083222.jpg"/>
+</li>
+<li>
+<a href="info/1012/1431.htm" onclick='_addDynClicks("wbimage", 1571490783, 54433)' target="_blank" title="">
+<img border="0" src="images/20190912105833.jpg"/>
+</a>
+</li>
+<li>
+<img border="0" src="images/2019080602.jpg"/>
+</li>
+</ul>
+</div>
+<div class="hd">
+<ul>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+</div>
+<!-- 下面是前/后按钮代码，如果不需要删除即可 -->
+<a class="prev" href="javascript:void(0)"></a>
+<a class="next" href="javascript:void(0)"></a>
+</div>
+</div>
+<div class="box_hz divtest animated" data-animation="fadeInUp">
+<script language="javascript" src="/system/resource/js/ajax.js"></script> <h3><a href="info/1033/1594.htm" title="【光明日报】整版聚焦西安交大主题教育开展情况">【光明日报】整版聚焦西安交大主题教育开展情况</a></h3>
+<p>弘扬西迁精神 失志爱国奋斗</p>
+<script>_showDynClickBatch(['dynclicks_u4_1594'],[1594],"wbnews", 1571490783)</script>
+</div>
+<div class="dyz divtest animated fadeInLeft" data-animation="fadeInUp">
+<a href="" onclick='_addDynClicks("wbimage", 1571490783, 53128)' title="">
+<img border="0" src="images/dyz.png"/>
+</a>
+</div>
+<div class="m-slide">
+<ul class="img divtest animated zoomInRight">
+<li>
+<ul class="img_hz">
+<li style="padding-top:20px;"><a href="info/1030/1507.htm" title="习近平：在国家勋章和国家荣誉称号颁授仪式上的讲话">习近平：在国家勋章和国家荣誉称号颁授仪式上的讲话</a><span class="time">09/29</span></li>
+<li><a href="info/1030/1415.htm" title="牢记党的初心和使命 牢记党的性质和宗旨 走好新时代的长征路">牢记党的初心和使命 牢记党的性质和宗旨 走好新...</a><span class="time">08/19</span></li>
+<li><a href="info/1030/1401.htm" title="牢记初心使命，推进自我革命">牢记初心使命，推进自我革命</a><span class="time">07/31</span></li>
+<li><a href="info/1030/1402.htm" title="在“不忘初心、牢记使命”主题教育工作会议上的讲话">在“不忘初心、牢记使命”主题教育工作会议上的讲话</a><span class="time">07/01</span></li>
+<li><a href="info/1030/1403.htm" title="关于坚持和发展中国特色社会主义的几个问题">关于坚持和发展中国特色社会主义的几个问题</a><span class="time">04/01</span></li>
+<li style="border:none;"><a href="info/1030/1405.htm" title="在常学常新中加强理论修养 在知行合一中主动担当作为">在常学常新中加强理论修养 在知行合一中主动担当...</a><span class="time">03/02</span></li>
+<script>_showDynClickBatch(['dynclicks_u6_1507','dynclicks_u6_1415','dynclicks_u6_1401','dynclicks_u6_1402','dynclicks_u6_1403','dynclicks_u6_1405'],[1507,1415,1401,1402,1403,1405],"wbnews", 1571490783)</script>
+</ul>
+</li>
+<li>
+<ul class="img_hz">
+<li style="padding-top:20px;"><a href="info/1032/1352.htm" title="习近平新时代中国特色社会主义思想是党和国家必须长期坚持的指导思想">习近平新时代中国特色社会主义思想是党和国家必...</a><span class="time">08/20</span></li>
+<li><a href="info/1032/1353.htm" title="一、中国特色社会主义进入新时代——关于我国发展新的历史方位">一、中国特色社会主义进入新时代——关于我国发...</a><span class="time">08/20</span></li>
+<li><a href="info/1032/1354.htm" title="二、当代中国发展进步的根本方向——关于新时代坚持和发展中国特色社会主义">二、当代中国发展进步的根本方向——关于新时代...</a><span class="time">08/20</span></li>
+<li><a href="info/1032/1355.htm" title="三、坚持以人民为中心——关于新时代坚持和发展中国特色社会主义的根本立场">三、坚持以人民为中心——关于新时代坚持和发展...</a><span class="time">08/20</span></li>
+<li><a href="info/1032/1356.htm" title="四、实现中华民族伟大复兴的中国梦——关于新时代坚持和发展中国特色社会主义的奋斗目标">四、实现中华民族伟大复兴的中国梦——关于新时...</a><span class="time">08/20</span></li>
+<li style="border:none;"><a href="info/1032/1357.htm" title="五、开启全面建设社会主义现代化国家新征程——关于新时代坚持和发展中国特色社会主义的战略安排">五、开启全面建设社会主义现代化国家新征程——...</a><span class="time">08/20</span></li>
+<script>_showDynClickBatch(['dynclicks_u7_1352','dynclicks_u7_1353','dynclicks_u7_1354','dynclicks_u7_1355','dynclicks_u7_1356','dynclicks_u7_1357'],[1352,1353,1354,1355,1356,1357],"wbnews", 1571490783)</script>
+</ul>
+</li>
+<li>
+<ul class="img_hz">
+<li style="padding-top:20px;"><a href="info/1031/1534.htm" title="确保主题教育取得扎实成效">确保主题教育取得扎实成效</a><span class="time">10/24</span></li>
+<li><a href="info/1031/1508.htm" title="中央“不忘初心、牢记使命”主题教育领导小组印发《关于在“不忘初心、牢记使命”主题教育中加强爱国主义教育、弘扬爱国主义精神的通知》">中央“不忘初心、牢记使命”主题教育领导小组印...</a><span class="time">09/29</span></li>
+<li><a href="info/1031/1496.htm" title="高举旗帜团结一致锐意进取 为夺取新时代中国特色社会主义伟大胜利不懈奋进">高举旗帜团结一致锐意进取 为夺取新时代中国特色...</a><span class="time">09/24</span></li>
+<li><a href="info/1031/1495.htm" title="坚定信心埋头苦干奋勇争先 谱写新时代中原更加出彩的绚丽篇章">坚定信心埋头苦干奋勇争先 谱写新时代中原更加出...</a><span class="time">09/19</span></li>
+<li><a href="info/1031/1414.htm" title="中共中央印发《中国共产党问责条例》">中共中央印发《中国共产党问责条例》</a><span class="time">09/05</span></li>
+<li style="border:none;"><a href="info/1031/1416.htm" title="发扬斗争精神增强斗争本领 为实现“两个一百年”奋斗目标而顽强奋斗">发扬斗争精神增强斗争本领 为实现“两个一百年”...</a><span class="time">09/04</span></li>
+<script>_showDynClickBatch(['dynclicks_u8_1534','dynclicks_u8_1508','dynclicks_u8_1496','dynclicks_u8_1495','dynclicks_u8_1414','dynclicks_u8_1416'],[1534,1508,1496,1495,1414,1416],"wbnews", 1571490783)</script>
+</ul>
+</li>
+<li>
+<ul class="img_hz">
+<li style="padding-top:20px;"><a href="info/1033/1592.htm" title="西安交大召开领导班子专题民主生活会">西安交大召开领导班子专题民主生活会</a><span class="time">12/09</span></li>
+<li><a href="info/1033/1594.htm" title="【光明日报】整版聚焦西安交大主题教育开展情况">【光明日报】整版聚焦西安交大主题教育开展情况</a><span class="time">12/06</span></li>
+<li><a href="info/1033/1595.htm" title="教育部官网：西安交通大学深学实做 推进“不忘初心、牢记使命”主题教育">教育部官网：西安交通大学深学实做 推进“不忘初...</a><span class="time">12/03</span></li>
+<li><a href="info/1033/1591.htm" title="中央第一指导组来校调研主题教育专项整治立行立改推进情况">中央第一指导组来校调研主题教育专项整治立行立...</a><span class="time">11/29</span></li>
+<li><a href="info/1033/1584.htm" title="领导班子成员深入师生讲党课，推进主题教育再深化">领导班子成员深入师生讲党课，推进主题教育再深化</a><span class="time">11/28</span></li>
+<li style="border:none;"><a href="info/1033/1587.htm" title="系列评论之七：整改落实最终要看效果">系列评论之七：整改落实最终要看效果</a><span class="time">11/27</span></li>
+<script>_showDynClickBatch(['dynclicks_u9_1592','dynclicks_u9_1594','dynclicks_u9_1595','dynclicks_u9_1591','dynclicks_u9_1584','dynclicks_u9_1587'],[1592,1594,1595,1591,1584,1587],"wbnews", 1571490783)</script>
+</ul>
+</li>
+</ul>
+<ul class="tab divtest animated" data-animation="fadeInLeft">
+<li class="divtest animated animation-delay-1" data-animation="fadeInLeft">
+<a href="index/lsxl.htm">
+          习近平关于“不忘初心、牢记使命”重要论述选编
+        </a>
+</li>
+<li class="divtest animated animation-delay-2" data-animation="fadeInLeft">
+<a href="index/xxgy.htm">
+
+          学习纲要
+        </a>
+</li>
+<li class="divtest animated animation-delay-3" data-animation="fadeInLeft">
+<a href="index/zyjs.htm">
+
+
+          中央精神
+        </a>
+</li>
+<li class="divtest animated animation-delay-4" data-animation="fadeInLeft">
+<a href="index/jddt.htm">
+
+
+          交大动态
+        </a>
+</li>
+</ul>
+</div>
+<div class="dgdz">
+<ul>
+<li class="divtest animated animation-delay-$(pos)" data-animation="fadeInLeft" style="background-color: #F5798B;">
+<a href="http://djsjk.people.cn/search/index/318041" onclick='_addDynClicks("wbimage", 1571490783, 53121)' title="党章党规">
+<img src="images/dzdg.png"/>
+<p>党章党规</p>
+</a>
+</li>
+<li class="divtest animated animation-delay-$(pos)" data-animation="fadeInLeft" style="background-color: #DDB565;">
+<a href="http://jhsjk.people.cn/result?form=706&amp;else=501" onclick='_addDynClicks("wbimage", 1571490783, 53122)' title="重要讲话">
+<img src="images/zyjh.png"/>
+<p>重要讲话</p>
+</a>
+</li>
+<li class="divtest animated animation-delay-$(pos)" data-animation="fadeInLeft" style="margin-right: 0px;">
+<a href="http://cpc.people.com.cn/n1/2017/1028/c64094-29613660.html" onclick='_addDynClicks("wbimage", 1571490783, 53123)' title="十九大报告">
+<img src="images/sjdbg.png" style="margin-top: 12px;"/>
+<p>十九大报告</p>
+</a>
+</li>
+</ul>
+</div>
+<div class="box_ct">
+<div class="xxjy">
+<div class="xxjy_lt divtest animated animation-delay-1" data-animation="fadeInLeft">
+<div class="hdr divtest animated bounceIn">学习教育</div>
+<ul>
+<li style="margin-top:35px;"><a href="info/1012/1582.htm" title="省委宣讲团党的十九届四中全会精神报告会在西安交大举行">
+<i></i>
+<p>省委宣讲团党的十九届四中全会精神报告会在西安交大举行</p>
+</a></li>
+<li><a href="info/1012/1572.htm" title="【立行立改出实效】西安交大：在学深悟透中守初心担使命">
+<i></i>
+<p>【立行立改出实效】西安交大：在学深悟透中守初心担使命</p>
+</a></li>
+<li><a href="info/1012/1537.htm" title="交大学子开展经典著作背诵交流活动">
+<i></i>
+<p>交大学子开展经典著作背诵交流活动</p>
+</a></li>
+<li><a href="info/1012/1555.htm" title="西安交大第十二期“常委读书班”举行">
+<i></i>
+<p>西安交大第十二期“常委读书班”举行</p>
+</a></li>
+</ul>
+<i class="more"><a href="xxjy.htm">&gt;更多</a></i><script>_showDynClickBatch(['dynclicks_u11_1582','dynclicks_u11_1572','dynclicks_u11_1537','dynclicks_u11_1555'],[1582,1572,1537,1555],"wbnews", 1571490783)</script>
+</div>
+<div class="xxjy_lt divtest animated animation-delay-2" data-animation="fadeInLeft" style="float: right;">
+<div class="hdr divtest animated bounceIn" style="background-image: url(images/dcyj.png);">调查研究</div>
+<ul>
+<li style="margin-top:35px;"><a href="info/1013/1567.htm" title="西安交大召开主题教育调查研究成果交流会">
+<i></i>
+<p>西安交大召开主题教育调查研究成果交流会</p>
+</a></li>
+<li><a href="info/1013/1527.htm" title="人民日报评论员：注重开门抓教育">
+<i></i>
+<p>人民日报评论员：注重开门抓教育</p>
+</a></li>
+<li><a href="info/1013/1523.htm" title="电信学部扎实推进“不忘初心、牢记使命”主题教育活动">
+<i></i>
+<p>电信学部扎实推进“不忘初心、牢记使命”主题教育活动</p>
+</a></li>
+<li><a href="info/1013/1525.htm" title="人民日报评论员：注重减轻基层负担 激励干部担当作为">
+<i></i>
+<p>人民日报评论员：注重减轻基层负担 激励干部担当作为</p>
+</a></li>
+</ul>
+<i class="more"><a href="dcyj.htm">&gt;更多</a></i><script>_showDynClickBatch(['dynclicks_u12_1567','dynclicks_u12_1527','dynclicks_u12_1523','dynclicks_u12_1525'],[1567,1527,1523,1525],"wbnews", 1571490783)</script>
+</div>
+</div>
+<div class="xxjy">
+<div class="xxjy_lt divtest animated animation-delay-3" data-animation="fadeInLeft">
+<div class="hdr divtest animated bounceIn" style="background-image: url(images/jswt.png);">检视问题</div>
+<ul>
+<li style="margin-top:35px;"><a href="info/1014/1585.htm" title="领导班子成员深入师生讲党课，推进主题教育再深化">
+<i></i>
+<p>领导班子成员深入师生讲党课，推进主题教育再深化</p>
+</a></li>
+<li><a href="info/1014/1576.htm" title="郑庆华副校长、王铁军副校长讲“不忘初心、牢记使命”主题教育专题党课">
+<i></i>
+<p>郑庆华副校长、王铁军副校长讲“不忘初心、牢记使命...</p>
+</a></li>
+<li><a href="info/1014/1570.htm" title="系列评论之六：决不给“检视问题”留情面！">
+<i></i>
+<p>系列评论之六：决不给“检视问题”留情面！</p>
+</a></li>
+<li><a href="info/1014/1565.htm" title="王树国校长主讲“不忘初心、牢记使命”主题教育专题党课">
+<i></i>
+<p>王树国校长主讲“不忘初心、牢记使命”主题教育专题党课</p>
+</a></li>
+</ul>
+<i class="more"><a href="jswt.htm">&gt;更多</a></i><script>_showDynClickBatch(['dynclicks_u13_1585','dynclicks_u13_1576','dynclicks_u13_1570','dynclicks_u13_1565'],[1585,1576,1570,1565],"wbnews", 1571490783)</script>
+</div>
+<div class="xxjy_lt divtest animated animation-delay-4" data-animation="fadeInLeft" style="float: right;">
+<div class="hdr divtest animated bounceIn" style="background-image: url(images/ztls.png);">整改落实</div>
+<ul>
+<li style="margin-top:35px;"><a href="info/1015/1593.htm" title="西安交大召开领导班子专题民主生活会">
+<i></i>
+<p>西安交大召开领导班子专题民主生活会</p>
+</a></li>
+<li><a href="info/1015/1590.htm" title="中央第一指导组来校调研主题教育专项整治立行立改推进情况">
+<i></i>
+<p>中央第一指导组来校调研主题教育专项整治立行立改推...</p>
+</a></li>
+<li><a href="info/1015/1586.htm" title="系列评论之七：整改落实最终要看效果">
+<i></i>
+<p>系列评论之七：整改落实最终要看效果</p>
+</a></li>
+<li><a href="info/1015/1588.htm" title="第二附属医院：把“改”字贯穿主题教育全过程">
+<i></i>
+<p>第二附属医院：把“改”字贯穿主题教育全过程</p>
+</a></li>
+</ul>
+<i class="more"><a href="zgls.htm">&gt;更多</a></i><script>_showDynClickBatch(['dynclicks_u14_1593','dynclicks_u14_1590','dynclicks_u14_1586','dynclicks_u14_1588'],[1593,1590,1586,1588],"wbnews", 1571490783)</script>
+</div>
+</div>
+</div>
+<div class="cxsm">
+<div class="cxsm_lyb divtest animated bounceIn">
+<img alt="" src="images/cxsm.png"/><i>留言板</i>
+</div>
+<div class="cxsm_f1 divtest animated animation-delay-1" data-animation="fadeInLeft">
+<div class="cxsm_f1_one">
+<i class="liuyan">
+<a href="lyb.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1018">&gt;留言</a>
+</i>
+<i>您认为，您和您所在单位的</i>
+<i>“初心、使命”是什么？</i>
+</div>
+</div>
+<div class="cxsm_f1 cxsm_f2 divtest animated animation-delay-2" data-animation="fadeInLeft">
+<div class="cxsm_f1_one">
+<i class="liuyan">
+<a href="copy_1_lyb.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1020">&gt;留言</a>
+</i>
+<i>您觉得，您和您所在单位</i>
+<i>忘记“初心、使命”的表现是什么？</i>
+</div>
+</div>
+<div class="cxsm_f1 cxsm_f3 divtest animated animation-delay-3" data-animation="fadeInLeft">
+<div class="cxsm_f1_one">
+<i class="liuyan">
+<a href="copy_2_lyb.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1022">&gt;留言</a>
+</i>
+<i>您分析，您和您所在单位</i>
+<i>忘记“初心、使命”的原因是什么？</i>
+</div>
+</div>
+<div class="cxsm_f1 cxsm_f4 divtest animated animation-delay-4" data-animation="fadeInLeft" style="margin-right:0px;">
+<div class="cxsm_f1_one">
+<i class="liuyan">
+<a href="copy_3_lyb.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1024">&gt;留言</a>
+</i>
+<i>您建议，您和您所在单位</i>
+<i>将应怎样整改？</i>
+</div>
+</div>
+</div>
+<div class="db_img divtest animated bounceInRight">
+<ul>
+<li>
+<a href="index/cwdsb.htm" onclick='_addDynClicks("wbimage", 1571490783, 53124)' title="常委读书班">
+<img border="0" src="images/xxsjd.png"/>
+<i>常委读书班</i>
+</a>
+</li>
+<li class="img_two">
+<a href="http://chuxin.people.cn" onclick='_addDynClicks("wbimage", 1571490783, 53125)' title="主题教育官方网站">
+<img border="0" src="images/gfwz.png"/>
+<i>主题教育官方网站</i>
+</a>
+</li>
+<li>
+<a href="yxsy.htm" onclick='_addDynClicks("wbimage", 1571490783, 53127)' title="一线声音">
+<img border="0" src="images/gjys.png"/>
+<i style="margin-left: -72px;">一线声音</i>
+</a>
+</li>
+<li style="margin-right:0px;">
+<a href="http://www.xjtu.edu.cn" onclick='_addDynClicks("wbimage", 1571490783, 53126)' title="交大主页">
+<img border="0" src="images/jdzy.png"/>
+<i style="margin-left: -72px;">交大主页</i>
+</a>
+</li>
+</ul>
+</div>
+<div class="footer divtest animated" data-animation="fadeInUp">
+<!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>
+    版权所有：西安交通大学党委组织部    地址：陕西省西安市咸宁西路28号  邮编：710049  技术支持：西安交通大学网信中心
+</p>
+</div>
+</body>
+<script charset="utf-8" src="js/isScroll.js"></script>
+<script type="text/javascript">
+            $(document).ready(function() {
+                isScroll.init('.divtest');
+            });
+        </script>
+<script id="jsID" type="text/javascript">
+  jQuery("#nav").slide({
+    type: "menu", // 效果类型，针对菜单/导航而引入的参数（默认slide）
+    titCell: ".nLi", //鼠标触发对象
+    targetCell: ".sub", //titCell里面包含的要显示/消失的对象
+    effect: "slideDown", //targetCell下拉效果
+    delayTime: 300, //效果时间
+    triggerTime: 0, //鼠标延迟触发时间（默认150）
+    returnDefault: true //鼠标移走后返回默认状态，例如默认频道是“预告片”，鼠标移走后会返回“预告片”（默认false）
+  });
+</script><script type="text/javascript">
+  jQuery(".slideBox").slide({
+    mainCell: ".bd ul",
+    autoPlay: true,
+    delayTime: 1000
+  }); //轮播图
+</script><script type="text/javascript">
+  jQuery(".slideTxtBox").slide();
+</script><script type="text/javascript">
+  jQuery(".douban").slide({
+    mainCell: ".bd ul",
+    effect: "left",
+    delayTime: 800,
+    vis: 4,
+    scroll: 4,
+    pnLoop: false,
+    trigger: "click",
+    easing: "easeOutCubic"
+  });
+</script><script type="text/javascript">
+  jQuery(".m-slide").slide({
+    titCell: ".tab li",
+    mainCell: ".img",
+    effect: "fold",
+    autoPlay: false
+  });
+</script>
+</html>

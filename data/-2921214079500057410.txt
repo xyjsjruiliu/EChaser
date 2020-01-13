@@ -1,0 +1,426 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html><head><title>综合办公室</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><link href="style.css" rel="stylesheet" type="text/css"/>
+<!--Announced at 2019-11-12 08:35:53-->
+<!-- CustomerNO:77656262657e7011697547545253554b03020000 -->
+<link href="index.vsb.css" rel="stylesheet" type="text/css">
+<meta content="综合办公室" name="keywords">
+<script src="system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1135555956)</script>
+<!--[if lt IE 7]><script type="text/javascript" src="/system/resource/js/unitpngfix/unitpngfix.js"></script><![endif]--></meta></link></head>
+<body target="_blank"><a href="&lt;span style='color:red;font-size:9pt'&gt;转换链接错误&lt;/span&gt;"></a>
+<div class="w-980">
+<div class="top-bar">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="29" width="965">
+<tbody>
+<tr>
+<td width="139"><a href="&lt;span style='color:red;font-size:9pt'&gt;转换链接错误&lt;/span&gt;"></a>
+<div>
+<div>欢迎访问本网站 今天是：</div></div></td>
+<td width="673"><!--#begineditable name="文本日历" viewid="65327" tagname="文本日历" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone=""--><script language="javascript" src="system/resource/js/calendar/cld.js"></script>
+<script language="JavaScript">
+function RunGLNL65327(){          
+var today=new Date();          
+var d=new Array("星期日","星期一","星期二","星期三","星期四","星期五","星期六");
+var nian = getYear(today)+"年"+(today.getMonth()+1)+"月" +today.getDate()+"日";         
+document.write('<div  class="fontstyle65327" >');          
+document.write(nian+"&nbsp;&nbsp;"+d[today.getDay()]);          
+document.write("</div>");         
+} RunGLNL65327();          
+</script> <!--#endeditable--></td>
+<td align="right" width="153"><!--#begineditable name="主页|收藏" viewid="65326" tagname="主页|收藏" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone=""--><script language="javascript">
+function dosuba65326a()
+{
+    try{
+		var ua = navigator.userAgent.toLowerCase();
+		if(ua.indexOf("msie 8")>-1)
+		{
+			window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+		}else{
+			if (document.all) 
+			{
+				window.external.addFavorite(document.location.href, document.title);
+			}else if(window.sidebar)
+			{
+				window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+			}
+		}
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function setHomepagea65326a()
+{
+		var url = document.location.href;
+    if (document.all){
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }else if (window.sidebar){
+        if(window.netscape){
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+    }
+var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+prefs.setCharPref('browser.startup.homepage',url);}
+}
+</script><table><tr><td style="font-size:9pt"><a href="javascript:setHomepagea65326a()"><span class="font65326">设为首页</span></a> <span class="splitcharstyle65326"> | </span> <a href="#" onclick="javascript:dosuba65326a();"><span class="font65326">加入收藏</span></a></td></tr></table><!--#endeditable--></td></tr></tbody></table></div>
+<div class="banner"><!--#begineditable name="LOGO" viewid="1069" tagname="LOGO" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone=""--><table border="0" cellpadding="0" cellspacing="0"><tr><td><img alt="/image/logo.png" border="0" src="image/logo.png"/></td></tr></table><!--#endeditable--></div></div>
+<div class="w-980 nav">
+<table border="0" cellpadding="0" cellspacing="0" height="40" width="980">
+<tbody>
+<tr>
+<td align="center" width="980"><!--#begineditable name="网站导航" viewid="65306" tagname="网站导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone=""--><style type="text/css">
+td.b1_3_{FONT-SIZE:9pt;}
+td.b2_3_{FONT-SIZE:9pt;}
+td.b3_3_{FONT-SIZE:9pt;BORDER-BOTTOM: #cccccc 1px solid;BACKGROUND-COLOR: #eeeeee;BORDER-RIGHT: #cccccc 1px solid;}
+td.b4_3_{FONT-SIZE:9pt;BORDER-BOTTOM: #cccccc 1px solid;BACKGROUND-COLOR: #eeeeee;BORDER-RIGHT: #cccccc 1px solid;}
+a.menu0_3_:link {TEXT-DECORATION: none;};
+a.menu0_3_:visited { TEXT-DECORATION: none;};
+a.menu0_3_:hover {TEXT-DECORATION: none;};
+a.menu0_3_:active {TEXT-DECORATION: none;};
+table.tb1_3_{FONT-SIZE:9pt;border:0;}
+span.s1_3_{TEXT-ALIGN: center;LINE-HEIGHT: 160%;MARGIN: 0px auto;FONT-FAMILY: 宋体;COLOR: #ffffff;FONT-SIZE: 14px;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s2_3_{LINE-HEIGHT: 160%;FONT-FAMILY: 宋体;COLOR: #cc0000;FONT-SIZE: 11pt;TEXT-DECORATION: none;}
+span.s10_3_{TEXT-ALIGN: center;LINE-HEIGHT: 160%;MARGIN: 0px auto;FONT-FAMILY: 宋体;COLOR: #ffffff;FONT-SIZE: 14px;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s20_3_{LINE-HEIGHT: 160%;FONT-FAMILY: 宋体;COLOR: #000000;FONT-SIZE: 11pt;TEXT-DECORATION: none;}
+</style>
+<script language="javascript"> 
+ var showfix_3_ = 1;
+ var isvertical_3_ = false;
+</script>
+<script language="javascript" src="system/resource/js/menu/text.js"></script>
+<table border="0" cellpadding="0" cellspacing="0" height="0" id="t1_3_" width="930"><tr><td valign="center"></td><td align="center" class="b1_3_" height="0" id="a_3_1001" nowrap="" onmouseout="thideLayers('1001','b1_3_', '_3_')" onmouseover="tshowLayers('1001','b2_3_', '_3_')" valign="middle" width="0"><a class="menu0_3_" href="index.htm"><span class="currentfontStyle65306"> 网站首页 </span></a></td><td class="leaderfont65306" valign="center">|</td><td align="center" class="b1_3_" id="a_3_1002" nowrap="" onmouseout="thideLayers('1002','b1_3_', '_3_')" onmouseover="tshowLayers('1002','b2_3_', '_3_')" valign="middle" width="0"><a class="menu0_3_" href="csgk.htm"><span class="fontstyle65306"> 处室概况 </span></a></td><td class="leaderfont65306" valign="center">|</td><td align="center" class="b1_3_" id="a_3_1003" nowrap="" onmouseout="thideLayers('1003','b1_3_', '_3_')" onmouseover="tshowLayers('1003','b2_3_', '_3_')" valign="middle" width="0"><a class="menu0_3_" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1003"><span class="fontstyle65306"> 工作动态 </span></a></td><td class="leaderfont65306" valign="center">|</td><td align="center" class="b1_3_" id="a_3_1004" nowrap="" onmouseout="thideLayers('1004','b1_3_', '_3_')" onmouseover="tshowLayers('1004','b2_3_', '_3_')" valign="middle" width="0"><a class="menu0_3_" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1004"><span class="fontstyle65306"> 通知公告 </span></a></td><td class="leaderfont65306" valign="center">|</td><td align="center" class="b1_3_" id="a_3_1007" nowrap="" onmouseout="thideLayers('1007','b1_3_', '_3_')" onmouseover="tshowLayers('1007','b2_3_', '_3_')" valign="middle" width="0"><a class="menu0_3_" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1007"><span class="fontstyle65306"> 规章制度 </span></a></td><td class="leaderfont65306" valign="center">|</td><td align="center" class="b1_3_" id="a_3_1008" nowrap="" onmouseout="thideLayers('1008','b1_3_', '_3_')" onmouseover="tshowLayers('1008','b2_3_', '_3_')" valign="middle" width="0"><a class="menu0_3_" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1008"><span class="fontstyle65306"> 办事指南 </span></a></td><td class="leaderfont65306" valign="center">|</td><td align="center" class="b1_3_" id="a_3_1009" nowrap="" onmouseout="thideLayers('1009','b1_3_', '_3_')" onmouseover="tshowLayers('1009','b2_3_', '_3_')" valign="middle" width="0"><a class="menu0_3_" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1009"><span class="fontstyle65306"> 文档下载 </span></a></td><td class="leaderfont65306" valign="center">|</td><td align="center" class="b1_3_" id="a_3_1017" nowrap="" onmouseout="thideLayers('1017','b1_3_', '_3_')" onmouseover="tshowLayers('1017','b2_3_', '_3_')" valign="middle" width="0"><a class="menu0_3_" href="English.htm"><span class="fontstyle65306"> English </span></a></td></tr></table></td></tr></tbody></table><!--#endeditable--></div></body></html>
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="476" width="980">
+<tr>
+<td><div class="white-bg w-980">
+<div class="side-left">
+<div class="news-pic"><span><img src="image/index_33.jpg"/></span>
+<div class="news-pic-contant"><!--#begineditable name="图片新闻" viewid="65312" tagname="图片新闻" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone=""-->
+<link href="system/resource/style/component/news/list/imagechangenews.css" rel="stylesheet" type="text/css"/>
+<script language="javascript" src="system/resource/js/news/imagechangenews.js"></script><script language="JavaScript">
+var u_1oets9uzhw_icn = new ImageChangeNews("u_1oets9uzhw_", 230, 170, 4, 2.0, true, false, false, true);
+
+//初始化图片, 并启动定时
+function u_1oets9uzhw_init_img()
+{
+
+    u_1oets9uzhw_icn.addimg("\/_mediafile\/zhbgs\/2019\/08\/02\/_thumb\/46pcavmsxu.png", "\/info\/1003\/1261.htm", "【暑期不放假】坚守岗位，...", "");
+
+    u_1oets9uzhw_icn.addimg("\/_mediafile\/zhbgs\/2019\/04\/19\/_thumb\/24lns6zm5k.jpg", "\/info\/1003\/1259.htm", "医学部举办国家安全教育日...", "");
+
+    u_1oets9uzhw_icn.addimg("\/_mediafile\/zhbgs\/2019\/02\/25\/_thumb\/5lhencfhdu.jpg", "\/info\/1003\/1252.htm", "医学部召开兼职辅导员和党...", "");
+
+    u_1oets9uzhw_icn.addimg("\/_mediafile\/zhbgs\/2019\/01\/08\/_thumb\/7bf6bga29n.jpg", "\/info\/1003\/1250.htm", "医学部召开兼职辅导员考核...", "");
+
+    u_1oets9uzhw_icn.addimg("\/_mediafile\/zhbgs\/2018\/12\/19\/_thumb\/26smmcaird.jpg", "\/info\/1003\/1246.htm", "医学部集中观看庆祝改革开...", "");
+
+    u_1oets9uzhw_icn.addimg("\/_mediafile\/zhbgs\/2018\/10\/30\/_thumb\/2nvsi6g4mk.jpg", "\/info\/1003\/1242.htm", "教育部专家组莅校对临床医...", "");
+
+    u_1oets9uzhw_icn.changeimg(0);
+}
+</script><table border="0" cellpadding="0" cellspacing="0" style="padding:0px margin:0px;border:0px">
+<tr><td>
+<div style="OVERFLOW: hidden;height:170px;width:230px">
+<div align="center" id="u_1oets9uzhw_div" style="padding:0px;margin:0px;border:0px solid black;background-color:#000000;FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2.0,transition=23);height:170px;width:230px">
+<div id="u_1oets9uzhw_imgdiv" style="padding:0px;margin-top:0px;border:0px"><a id="u_1oets9uzhw_url" target="_blank"><img border="0" height="170" id="u_1oets9uzhw_pic" src="system/resource/images/space.gif" width="230"/></a></div>
+</div>
+<div style="filter:alpha(style=1,opacity=10,finishOpacity=80);width:229px;height:19px;text-align:right;top:-19px;position:relative;padding:0px;margin:0px;border:0px">
+<a ;="" class="imagechangenews_pnode" href="javascript:u_1oets9uzhw_icn.changeimg(0)" id="u_1oets9uzhw_selectNode0" target="_self">1</a><a ;="" class="imagechangenews_pnode" href="javascript:u_1oets9uzhw_icn.changeimg(1)" id="u_1oets9uzhw_selectNode1" target="_self">2</a><a ;="" class="imagechangenews_pnode" href="javascript:u_1oets9uzhw_icn.changeimg(2)" id="u_1oets9uzhw_selectNode2" target="_self">3</a><a ;="" class="imagechangenews_pnode" href="javascript:u_1oets9uzhw_icn.changeimg(3)" id="u_1oets9uzhw_selectNode3" target="_self">4</a><a ;="" class="imagechangenews_pnode" href="javascript:u_1oets9uzhw_icn.changeimg(4)" id="u_1oets9uzhw_selectNode4" target="_self">5</a><a ;="" class="imagechangenews_pnode" href="javascript:u_1oets9uzhw_icn.changeimg(5)" id="u_1oets9uzhw_selectNode5" target="_self">6</a>
+</div></div></td></tr>
+<tr><td height="25">
+<div align="center" style="overflow:hidden;text-overflow:ellipsis;height:25px;width:230px"><a class="titlestyle65312" id="u_1oets9uzhw_newstitle" target="_blank"></a></div>
+</td></tr>
+<div align="left" display="none" style="overflow:hidden;text-overflow:ellipsis;height:0px;width:230px;padding-left:2px;padding-right:2px"><a class="summarystyle65312" id="u_1oets9uzhw_newssummary" target="_blank"></a></div>
+</table><script language="JavaScript">u_1oets9uzhw_init_img();</script><!--#endeditable--></div>
+</div>
+<div class="side-bottom m-t-5">
+<h1 class="side-botton-title2"><span>办事指南</span><a class="more" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1008" target="_blank">更多&gt;&gt;</a></h1></div></div></div></td></tr></table>
+<ul class="side-botton-content">
+<!--#begineditable name="办事指南" viewid="65313" tagname="办事指南" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone=""--><script language="javascript" src="system/resource/js/dynclicks.js"></script><ul>
+<li><a class="c65313" href="info/1008/1194.htm" target="_blank" title="图解2018年新修订的《西安交通大学采购管理办法》">图解2018年新修订的《西安交通大学...</a></li>
+<li><a class="c65313" href="2017jjczsc.pdf" target="_blank" title="西安交通大学竞价网用户操作手册">西安交通大学竞价网用户操作手册</a></li>
+<li><a class="c65313" href="2017jjpxh.pdf" target="_blank" title="2017年网上竞价培训会">2017年网上竞价培训会</a></li>
+<li><a class="c65313" href="info/1008/1157.htm" target="_blank" title="10万至50万外贸货物采购办事指南">10万至50万外贸货物采购办事指南</a></li>
+<li><a class="c65313" href="info/1008/1156.htm" target="_blank" title="10万至50万内贸货物采购办事指南">10万至50万内贸货物采购办事指南</a></li>
+<li><a class="c65313" href="info/1008/1155.htm" target="_blank" title="设备招标工作流程图">设备招标工作流程图</a></li>
+<li><a class="c65313" href="info/1008/1078.htm" target="_blank" title="医学部、医学部党工委印章使用范围及程序">医学部、医学部党工委印章使用范围...</a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u5_1194','dynclicks_u5_1176','dynclicks_u5_1175','dynclicks_u5_1157','dynclicks_u5_1156','dynclicks_u5_1155','dynclicks_u5_1078'],[1194,1176,1175,1157,1156,1155,1078],"wbnews", 1135555956)</script>
+<!--#endeditable-->
+</ul>
+
+
+<div class="side-right">
+<div class="work">
+<h2 class="work-title"><span>工作动态<a class="f-12-000" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1003" target="_blank">更多&gt;&gt;</a></span></h2>
+<ul class="work-content">
+<!--#begineditable name="工作动态" viewid="65314" tagname="工作动态" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone=""--><ul>
+<li><a class="c65314" href="info/1003/1261.htm" target="_blank" title="【暑期不放假】坚守岗位，扎实推进各项工作">【暑期不放假】坚守岗位，扎实推进各项工作</a></li>
+<li><a class="c65314" href="info/1003/1260.htm" target="_blank" title="综合办公室传达学校进驻创新港动员大会精神">综合办公室传达学校进驻创新港动员大会精神</a></li>
+<li><a class="c65314" href="info/1003/1259.htm" target="_blank" title="医学部举办国家安全教育日专题讲座">医学部举办国家安全教育日专题讲座</a></li>
+<li><a class="c65314" href="info/1003/1254.htm" target="_blank" title="综合办公室召开会议安排部署相关工作">综合办公室召开会议安排部署相关工作</a></li>
+<li><a class="c65314" href="info/1003/1253.htm" target="_blank" title="医学部召开新学期首次部务会议">医学部召开新学期首次部务会议</a></li>
+<li><a class="c65314" href="info/1003/1252.htm" target="_blank" title="医学部召开兼职辅导员和党支部书记会议">医学部召开兼职辅导员和党支部书记会议</a></li>
+<li><a class="c65314" href="info/1003/1251.htm" target="_blank" title="【追梦2019】综合办公室传达学习寒假工作会议精神">【追梦2019】综合办公室传达学习寒假工作会议精神</a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u6_1261','dynclicks_u6_1260','dynclicks_u6_1259','dynclicks_u6_1254','dynclicks_u6_1253','dynclicks_u6_1252','dynclicks_u6_1251'],[1261,1260,1259,1254,1253,1252,1251],"wbnews", 1135555956)</script>
+<!--#endeditable-->
+</ul>
+</div>
+<div class="m-top-8 side-bottom">
+<h1 class="side-botton-title"><span>通知公告<a class="more" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1004" target="_blank">更多&gt;&gt;</a></span></h1>
+<ul class="side-botton-content">
+<!--#begineditable name="通知公告" viewid="65315" tagname="通知公告" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone=""--><ul>
+<li><a class="c65315" href="info/1004/1262.htm" target="_blank" title="综合办公室创新港值班安排">综合办公室创新港值班安排</a></li>
+<li><a class="c65315" href="info/1004/1248.htm" target="_blank" title="关于2019年元旦放假的通知">关于2019年元旦放假的通知</a></li>
+<li><a class="c65315" href="info/1004/1240.htm" target="_blank" title="孟晓军同志和张明同志出访日本公示">孟晓军同志和张明同志出访日本公示</a></li>
+<li><a class="c65315" href="info/1004/1238.htm" target="_blank" title="关于2018年国庆节放假的通知">关于2018年国庆节放假的通知</a></li>
+<li><a class="c65315" href="info/1004/1237.htm" target="_blank" title="关于2018年中秋节放假的通知">关于2018年中秋节放假的通知</a></li>
+<li><a class="c65315" href="info/1004/1215.htm" target="_blank" title="关于2018年暑期放假的通知">关于2018年暑期放假的通知</a></li>
+<li><a class="c65315" href="info/1004/1214.htm" target="_blank" title="关于征集李嘉诚基金会资助项目的通知">关于征集李嘉诚基金会资助项目的通知</a></li>
+<li><a class="c65315" href="info/1004/1192.htm" target="_blank" title="关于2018年寒假安排的通知">关于2018年寒假安排的通知</a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u7_1262','dynclicks_u7_1248','dynclicks_u7_1240','dynclicks_u7_1238','dynclicks_u7_1237','dynclicks_u7_1215','dynclicks_u7_1214','dynclicks_u7_1192'],[1262,1248,1240,1238,1237,1215,1214,1192],"wbnews", 1135555956)</script>
+<!--#endeditable-->
+</ul>
+</div>
+<div class="work m-t-5">
+<h2 class="work-title"><span>规章制度<a class="f-12-000" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1007" target="_blank">更多&gt;&gt;</a></span></h2>
+<ul class="work-content">
+<!--#begineditable name="规章制度" viewid="65316" tagname="规章制度" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone=""--><ul>
+<li><a class="c65316" href="info/1007/1255.htm" target="_blank" title="西安交通大学医学部部务会议议事规则">西安交通大学医学部部务会议议事规则</a></li>
+<li><a class="c65316" href="info/1007/1167.htm" target="_blank" title="医学部办公室工作人员守则">医学部办公室工作人员守则</a></li>
+<li><a class="c65316" href="info/1007/1109.htm" target="_blank" title="医学部会议安排工作细则">医学部会议安排工作细则</a></li>
+<li><a class="c65316" href="info/1007/1077.htm" target="_blank" title="西安交通大学医学部公章管理暂行办法">西安交通大学医学部公章管理暂行办法</a></li>
+<li><a class="c65316" href="info/1007/1075.htm" target="_blank" title="西安交通大学医学部教学委员会章程">西安交通大学医学部教学委员会章程</a></li>
+<li><a class="c65316" href="info/1007/1074.htm" target="_blank" title="医学部干部五项准则">医学部干部五项准则</a></li>
+<li><a class="c65316" href="info/1007/1080.htm" target="_blank" title="西安交通大学国内公务接待管理实施细则">西安交通大学国内公务接待管理实施细则</a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u8_1255','dynclicks_u8_1167','dynclicks_u8_1109','dynclicks_u8_1077','dynclicks_u8_1075','dynclicks_u8_1074','dynclicks_u8_1080'],[1255,1167,1109,1077,1075,1074,1080],"wbnews", 1135555956)</script>
+<!--#endeditable-->
+</ul>
+</div>
+<div class="side-bottom m-t-5">
+<h1 class="side-botton-title1"><span>医学动态</span><a class="more" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1015" target="_blank">更多&gt;&gt;</a></h1></div></div>
+<ul class="side-botton-content">
+<!--#begineditable name="医学动态" viewid="65317" tagname="医学动态" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone=""--><ul>
+<li><a class="c65317" href="info/1015/1218.htm" target="_blank" title="比“熊猫”还“熊猫”的血——二附院输血科成功解决一例罕见疑难配血">比“熊猫”还“熊猫”的血——二附...</a></li>
+<li><a class="c65317" href="info/1015/1222.htm" target="_blank" title="一附院癌症中心胃癌MDT门诊开诊">一附院癌症中心胃癌MDT门诊开诊</a></li>
+<li><a class="c65317" href="info/1015/1221.htm" target="_blank" title="男子遭遇现实版“电锯惊魂” 二附院多学科协作救治">男子遭遇现实版“电锯惊魂” 二附院...</a></li>
+<li><a class="c65317" href="info/1015/1220.htm" target="_blank" title="交大医学部韩冰校友“肝再生研究成果”被搬上著名美剧《实习医生格蕾》">交大医学部韩冰校友“肝再生研究成...</a></li>
+<li><a class="c65317" href="info/1015/1219.htm" target="_blank" title="一附院完成西北首例“激光原位双开窗”手术治愈高危胸主动脉瘤患者">一附院完成西北首例“激光原位双开...</a></li>
+<li><a class="c65317" href="info/1015/1223.htm" target="_blank" title="770克肠穿孔早产儿手术成功">770克肠穿孔早产儿手术成功</a></li>
+<li><a class="c65317" href="info/1015/1224.htm" target="_blank" title="二附院成功实施医院首例低出生体重新生儿腹膜透析管置管术">二附院成功实施医院首例低出生体重...</a></li>
+<li><a class="c65317" href="info/1015/1107.htm" target="_blank" title="一附院完成国内首例成人颈动脉起源节细胞神经母细胞瘤杂交手术">一附院完成国内首例成人颈动脉起源...</a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u9_1218','dynclicks_u9_1222','dynclicks_u9_1221','dynclicks_u9_1220','dynclicks_u9_1219','dynclicks_u9_1223','dynclicks_u9_1224','dynclicks_u9_1107'],[1218,1222,1221,1220,1219,1223,1224,1107],"wbnews", 1135555956)</script>
+<!--#endeditable-->
+</ul>
+
+
+<div class="clear"></div>
+<div class="w-980">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="960">
+<form id="form" name="form">
+<tbody>
+<tr>
+<td align="center" height="50"><!--#begineditable name="下拉链接一" viewid="65307" tagname="下拉链接一" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone=""-->
+<script language="javascript">    
+<!--    
+    function doLinks1vvu9dhzhx(o)    
+    {    
+        var link=document.getElementsByName("s1vvu9dhzhx")[0];    
+        var index=link.selectedIndex;    
+        if (index==-1 || index>=link.options.length)    
+        {    
+          return;    
+        }    
+        var value = link.options[index].value;    
+        var obj = document.getElementById("h2qwxrhdzhx");    
+        obj.href = value;
+        var wburlid =link.options[index].getAttribute("aa65307aa");
+        _addDynClicks('wburl',1135555956,wburlid)
+            
+                     obj.target = "_blank"
+                    
+         if(document.all){
+          obj.click();     
+        }         
+         else 
+        { 
+          window.open(value);
+         }
+       
+       if(o.selectedIndex != 0)    
+       {    
+           o.selectedIndex = 0;    
+       }    
+    }    
+-->    
+</script>
+<table>
+<tr><td align="center">
+<span class="titlestyle65307"></span> <a id="h2qwxrhdzhx"></a>
+<select class="selectstyle65307" name="s1vvu9dhzhx" onchange="doLinks1vvu9dhzhx(this)">
+<option value="">-----全国各校链接-----</option>
+<option aa65307aa="12164" value="http://www.tsinghua.edu.cn" vsbhrefname="value">清华大学    
+                <option aa65307aa="12163" value="http://www.pku.edu.cn/" vsbhrefname="value">北京大学    
+                <option aa65307aa="12238" value="http://www.sjtu.edu.cn/" vsbhrefname="value">上海交通大学    
+                <option aa65307aa="12239" value="http://www.fudan.edu.cn" vsbhrefname="value">复旦大学    
+                </option></option></option></option></select>
+</td><tr></tr></tr></table><!--#endeditable--></td>
+<td align="center"><!--#begineditable name="下拉链接二" viewid="65308" tagname="下拉链接二" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone=""-->
+<script language="javascript">    
+<!--    
+    function doLinks3petrxmzhx(o)    
+    {    
+        var link=document.getElementsByName("s3petrxmzhx")[0];    
+        var index=link.selectedIndex;    
+        if (index==-1 || index>=link.options.length)    
+        {    
+          return;    
+        }    
+        var value = link.options[index].value;    
+        var obj = document.getElementById("h4b6oso9zhx");    
+        obj.href = value;
+        var wburlid =link.options[index].getAttribute("aa65308aa");
+        _addDynClicks('wburl',1135555956,wburlid)
+            
+                     obj.target = "_blank"
+                    
+         if(document.all){
+          obj.click();     
+        }         
+         else 
+        { 
+          window.open(value);
+         }
+       
+       if(o.selectedIndex != 0)    
+       {    
+           o.selectedIndex = 0;    
+       }    
+    }    
+-->    
+</script>
+<table>
+<tr><td align="center">
+<span class="titlestyle65308"></span> <a id="h4b6oso9zhx"></a>
+<select class="selectstyle65308" name="s3petrxmzhx" onchange="doLinks3petrxmzhx(this)">
+<option value="">-----省内高校链接-----</option>
+<option aa65308aa="12166" value="http://www.fmmu.edu.cn" vsbhrefname="value">第四军医大学    
+                <option aa65308aa="12165" value="http://www.nwu.edu.cn" vsbhrefname="value">西北大学    
+                <option aa65308aa="12241" value="http://www.xahu.edu.cn" vsbhrefname="value">长安大学    
+                <option aa65308aa="12242" value="http://www.nwpu.edu.cn" vsbhrefname="value">西北工业大学    
+                </option></option></option></option></select>
+</td><tr></tr></tr></table><!--#endeditable--></td>
+<td align="center"><!--#begineditable name="下拉链接三" viewid="65309" tagname="下拉链接三" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone=""-->
+<script language="javascript">    
+<!--    
+    function doLinks536f0wazhx(o)    
+    {    
+        var link=document.getElementsByName("s536f0wazhx")[0];    
+        var index=link.selectedIndex;    
+        if (index==-1 || index>=link.options.length)    
+        {    
+          return;    
+        }    
+        var value = link.options[index].value;    
+        var obj = document.getElementById("h6bwd46szhx");    
+        obj.href = value;
+        var wburlid =link.options[index].getAttribute("aa65309aa");
+        _addDynClicks('wburl',1135555956,wburlid)
+            
+                     obj.target = "_blank"
+                    
+         if(document.all){
+          obj.click();     
+        }         
+         else 
+        { 
+          window.open(value);
+         }
+       
+       if(o.selectedIndex != 0)    
+       {    
+           o.selectedIndex = 0;    
+       }    
+    }    
+-->    
+</script>
+<table>
+<tr><td align="center">
+<span class="titlestyle65309"></span> <a id="h6bwd46szhx"></a>
+<select class="selectstyle65309" name="s536f0wazhx" onchange="doLinks536f0wazhx(this)">
+<option value="">-----医学部链接-----</option>
+<option aa65309aa="12244" value="http://bms.xjtu.edu.cn" vsbhrefname="value">基础医学院    
+                <option aa65309aa="12243" value="http://sph.xjtu.edu.cn" vsbhrefname="value">公共卫生学院    
+                <option aa65309aa="12245" value="http://forensmed.xjtu.edu.cn" vsbhrefname="value">法医学院    
+                <option aa65309aa="12246" value="http://pharm.xjtu.edu.cn" vsbhrefname="value">药学院    
+                <option aa65309aa="12247" value="http://nursing.xjtu.edu.cn" vsbhrefname="value">护理系    
+                <option aa65309aa="12248" value="http://hrm.xjtu.edu.cn" vsbhrefname="value">人力资源处    
+                <option aa65309aa="12249" value="http://yxbpyc.xjtu.edu.cn" vsbhrefname="value">人才培养处    
+                <option aa65309aa="12250" value="http://yxbkjc.xjtu.edu.cn" vsbhrefname="value">科学技术处    
+                <option aa65309aa="12251" value="http://ygc.xjtu.edu.cn" vsbhrefname="value">医院管理处    
+                </option></option></option></option></option></option></option></option></option></select>
+</td><tr></tr></tr></table><!--#endeditable--></td>
+<td align="center"><!--#begineditable name="下拉链接四" viewid="65310" tagname="下拉链接四" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone=""-->
+<script language="javascript">    
+<!--    
+    function doLinks7r1l9y6zhx(o)    
+    {    
+        var link=document.getElementsByName("s7r1l9y6zhx")[0];    
+        var index=link.selectedIndex;    
+        if (index==-1 || index>=link.options.length)    
+        {    
+          return;    
+        }    
+        var value = link.options[index].value;    
+        var obj = document.getElementById("h8efdk2pzhx");    
+        obj.href = value;
+        var wburlid =link.options[index].getAttribute("aa65310aa");
+        _addDynClicks('wburl',1135555956,wburlid)
+            
+                     obj.target = "_blank"
+                    
+         if(document.all){
+          obj.click();     
+        }         
+         else 
+        { 
+          window.open(value);
+         }
+       
+       if(o.selectedIndex != 0)    
+       {    
+           o.selectedIndex = 0;    
+       }    
+    }    
+-->    
+</script>
+<table>
+<tr><td align="center">
+<span class="titlestyle65310"></span> <a id="h8efdk2pzhx"></a>
+<select class="selectstyle65310" name="s7r1l9y6zhx" onchange="doLinks7r1l9y6zhx(this)">
+<option value="">-----公共资源链接-----</option>
+<option aa65310aa="12170" value="http://www.12306.cn" vsbhrefname="value">火车时刻    
+                <option aa65310aa="12169" value="http://www1.xbus.cn/" vsbhrefname="value">西安公交    
+                <option aa65310aa="12179" value="http://www.weather.com.cn" vsbhrefname="value">天气预报    
+                <option aa65310aa="12180" value="http://map.xjtu.edu.cn:8080" vsbhrefname="value">交大地图    
+                <option aa65310aa="12181" value="http://202.117.3.96" vsbhrefname="value">电子校历    
+                </option></option></option></option></option></select>
+</td><tr></tr></tr></table><!--#endeditable--></td>
+</tr>
+</tbody>
+</form>
+<tr>
+<td></td></tr></table></div>
+
+
+
+
+
+
+<div class="w-980 footer"><!--#begineditable name="版权" viewid="65311" tagname="版权" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone=""--><p><font style="font-size: 9pt">版权所有  综合办公室   地址：西安市雁塔西路76号   邮编：710061</font></p>
+<p><font style="font-size: 9pt">联系电话：029-82655011  E-mail：yxbbgs@mail.xjtu.edu.cn</font></p><!--#endeditable--></div>
+<a href="http://webscan.360.cn/index/checkwebsite/url/yxbzhb.xjtu.edu.cn" name="a7d43dc1c7ddf144d3f4355666b89107"></a>
+

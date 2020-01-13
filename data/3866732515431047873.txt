@@ -1,0 +1,270 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html><head><title>医疗在线-西安交大新闻网</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="CSS:AloeR@BMY,美工设计:阿颖" name="author"/>
+<meta content="西安交通大学 新闻网XJTUNEWS" name="description"/><link href="../AloeR/AloeR_news.css" rel="stylesheet" type="text/css"/><script language="JavaScript" src="../AloeR/AloeR_news.js" type="text/JavaScript"></script>
+<!--Announced by Visual SiteBuilder 9-->
+<link href="../_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230697547545255564203030000 -->
+<link href="../erji.vsb.css" rel="stylesheet" type="text/css"/>
+<meta content="西安交大新闻网" name="keywords">
+<script src="../system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1012,'/erji.jsp',-1,1025023737)</script>
+</meta></link></head>
+<body>
+<div class="i_top">
+<div class="i_top_xjtu"><!--#begineditable "交大LOGO" name="交大LOGO" viewid="43031" tagname="交大LOGO" contype="" stylesysid="" clone="0"--><table border="0" cellpadding="0" cellspacing="0"><tr><td><img alt="/AloeR/i_top_xjtu.jpg" border="0" src="../AloeR/i_top_xjtu.jpg"/></td></tr></table><!--#endeditable--></div>
+<div class="i_top_news"><!--#begineditable "新闻网logo" name="新闻网logo" viewid="43060" tagname="新闻网logo" contype="" stylesysid="" clone="0"-->
+<script language="javascript" src="../system/resource/js/dynclicks.js"></script>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img border="0" height="85" hspace="3" src="../newindex/pic/i_top_news.jpg" vspace="2" width="340"/></td>
+</tr>
+</table><!--#endeditable--></div>
+<div class="i_top_right" style="padding-top:20px">
+<div class="i_top_datett"><script language="JavaScript" src="../AloeR/datatime.js" type="text/javascript"></script>| <a class="i_white" href="http://xiaoli.xjtu.edu.cn" target="_blank">电子校历
+
+</a></div>
+<div class="i_top_writesq" style="float:right;width:112px"><a class="i_white" href="http://202.117.3.237:8080/system/contribute/login.jsp" target="_blank"><img height="51" src="../images/xwtg_r2_c2.jpg" width="112"/></a></div></div>
+</div>
+<div class="i_menu"><!--#begineditable "网站导航" name="网站导航" viewid="43061" tagname="网站导航" contype="" stylesysid="" clone="0"--> <div class="i_menu_home">
+<a class="i_home" href="../index.htm">新闻网首页</a>
+<a class="i_home" href="http://www.xjtu.edu.cn" target="_blank">交大首页</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../zyxw.htm">主页新闻</a>
+<a class="i_menu" href="../zhxw.htm">综合新闻</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../jyjx.htm">教育教学</a>
+<a class="i_menu" href="../kydt.htm">科研动态</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../wshd.htm">外事活动</a>
+<a class="i_menu" href="../zsjy.htm">招生就业</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../ybdt.htm">院部动态</a>
+<a class="i_menu" href="../dcsy.htm">多彩书院</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../xysh.htm">校园生活</a>
+<a class="i_menu" href="../syjt.htm">思源讲堂</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../rwfc.htm">人物风采</a>
+<a class="i_menu" href="../xyzs.htm">校友之声</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../ylzx.htm">医疗在线</a>
+<a class="i_menu" href="../shfw.htm">社会服务</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../mtjd.htm">媒体交大</a>
+<a class="i_menu" href="../xwzh.htm">新闻纵横</a>
+</div>
+<div class="i_menu_split"><img height="40" src="../AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="../xwzt.htm">新闻专题</a>
+<a class="i_menu" href="../tpxw.htm">图片新闻</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../spjd.htm">视频交大</a>
+<a class="i_menu" href="../llyd.htm">理论园地</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="../xxyg.htm">信息预告</a>
+<a class="i_menu" href="../xysb.htm">校园随笔</a>
+</div>
+<!--#endeditable--></div>
+<div class="i_menu_bottom"> </div>
+<div class="pw">
+<div class="i_left">
+<div class="l_location"><!--#begineditable "当前位置" name="当前位置" viewid="43063" tagname="当前位置" contype="" stylesysid="" clone="0"-->
+<table cellpadding="0" cellspacing="0" class="winstyle43063"><tr><td nowrap="">
+<a href="../index.htm"><span class="fontstyle43063">新闻网首页</span></a><span class="splitflagstyle43063"> &gt; </span><a href="../ylzx.htm"><span class="fontstyle43063">医疗在线</span></a></td></tr></table><!--#endeditable--></div></div></div></body></html>
+<div class="l_split"> </div><!--#begineditable "静态翻页列表" name="静态翻页列表" viewid="42986" tagname="静态翻页列表" contype="" stylesysid="" clone="0"-->
+<div class="l_li" id="lineu4_0" style="display:none"><a class="i_li" href="../info/1012/125137.htm" title="二附院团队参加中国微循环学会第十届学术大会">二附院团队参加中国微循环学会第十届学术大会</a> <cite>[2019-11-28 16:06:04]</cite></div>
+<div class="l_li" id="lineu4_1" style="display:none"><a class="i_li" href="../info/1012/125150.htm" title="二附院承办陕西省2019年超声医学科专业住院医师规范化培训骨干师资培训班">二附院承办陕西省2019年超声医学科专业住院医师规范化培训骨干师资培训...</a> <cite>[2019-11-27 10:17:50]</cite></div>
+<div class="l_li" id="lineu4_2" style="display:none"><a class="i_li" href="../info/1012/125141.htm" title="二附院获得陕西省首届中医护理质量管理价值案例最具价值奖">二附院获得陕西省首届中医护理质量管理价值案例最具价值奖</a> <cite>[2019-11-27 09:41:09]</cite></div>
+<div class="l_li" id="lineu4_3" style="display:none"><a class="i_li" href="../info/1012/125084.htm" title="二附院完成西北首例经胸骨后路径空肠代食管手术">二附院完成西北首例经胸骨后路径空肠代食管手术</a> <cite>[2019-11-26 14:17:36]</cite></div>
+<div class="l_li" id="lineu4_4" style="display:none"><a class="i_li" href="../info/1012/124987.htm" title="二附院举办ERAS下人工智能计算机辅助关节置换技术高级培训班暨大师面对面学术会议">二附院举办ERAS下人工智能计算机辅助关节置换技术高级培训班暨大师面对...</a> <cite>[2019-11-25 10:59:45]</cite></div>
+<div class="l_li" id="lineu4_5" style="display:none"><a class="i_li" href="../info/1012/124921.htm" title="西安交大医学部关节外科中心无锡分中心 及王坤正主委名医工作室（无锡）成立">西安交大医学部关节外科中心无锡分中心 及王坤正主委名医工作室（无锡）...</a> <cite>[2019-11-22 14:17:39]</cite></div>
+<div class="l_li" id="lineu4_6" style="display:none"><a class="i_li" href="../info/1012/124757.htm" title="二附院采用“零射线”射频消融术治愈特殊患者室性心律失常">二附院采用“零射线”射频消融术治愈特殊患者室性心律失常</a> <cite>[2019-11-22 14:06:14]</cite></div>
+<div class="l_li" id="lineu4_7" style="display:none"><a class="i_li" href="../info/1012/124832.htm" title="二附院团队参加2019中华医学会第二十一届骨科学术年会 着力打造西安交大骨科特色品牌">二附院团队参加2019中华医学会第二十一届骨科学术年会 着力打造西安交大...</a> <cite>[2019-11-21 15:24:05]</cite></div>
+<div class="l_li" id="lineu4_8" style="display:none"><a class="i_li" href="../info/1012/124788.htm" title="2019临床研究与大数据高峰论坛在一附院召开">2019临床研究与大数据高峰论坛在一附院召开</a> <cite>[2019-11-21 08:42:54]</cite></div>
+<div class="l_li" id="lineu4_9" style="display:none"><a class="i_li" href="../info/1012/124697.htm" title="一附院慢性病防控能力建设培训班正式开班">一附院慢性病防控能力建设培训班正式开班</a> <cite>[2019-11-19 10:06:04]</cite></div>
+<div class="l_li" id="lineu4_10" style="display:none"><a class="i_li" href="../info/1012/124027.htm" title="二附院两个专科获批2019年国家重大疾病多学科合作诊疗能力建设项目">二附院两个专科获批2019年国家重大疾病多学科合作诊疗能力建设项目</a> <cite>[2019-11-11 11:28:27]</cite></div>
+<div class="l_li" id="lineu4_11" style="display:none"><a class="i_li" href="../info/1012/124148.htm" title="一附院感染科赵英仁教授团队制订国内首部《中国乙型肝炎病毒母婴传播防治指南》">一附院感染科赵英仁教授团队制订国内首部《中国乙型肝炎病毒母婴传播防...</a> <cite>[2019-11-07 11:11:24]</cite></div>
+<div class="l_li" id="lineu4_12" style="display:none"><a class="i_li" href="../info/1012/123788.htm" title="二附院赴商洛市开展专科质控工作">二附院赴商洛市开展专科质控工作</a> <cite>[2019-11-07 08:39:14]</cite></div>
+<div class="l_li" id="lineu4_13" style="display:none"><a class="i_li" href="../info/1012/123634.htm" title="国家卫健委科教司医学教育处处长程明漾考察二附院全科医学科">国家卫健委科教司医学教育处处长程明漾考察二附院全科医学科</a> <cite>[2019-11-05 08:44:52]</cite></div>
+<div class="l_li" id="lineu4_14" style="display:none"><a class="i_li" href="../info/1012/123593.htm" title="二附院骨二科联合多学科完成一例腰椎巨大肿瘤切除重建手术">二附院骨二科联合多学科完成一例腰椎巨大肿瘤切除重建手术</a> <cite>[2019-11-04 14:39:16]</cite></div>
+<div class="l_li" id="lineu4_15" style="display:none"><a class="i_li" href="../info/1012/123761.htm" title="中华医学会“临床研究”专家巡讲会在西安召开">中华医学会“临床研究”专家巡讲会在西安召开</a> <cite>[2019-11-04 10:36:04]</cite></div>
+<div class="l_li" id="lineu4_16" style="display:none"><a class="i_li" href="../info/1012/123217.htm" title="二附院完成西北五省首例药物基因治疗SMA">二附院完成西北五省首例药物基因治疗SMA</a> <cite>[2019-10-30 18:02:55]</cite></div>
+<div class="l_li" id="lineu4_17" style="display:none"><a class="i_li" href="../info/1012/123013.htm" title="一附院石景森教授荣获中国胆道外科终身成就奖">一附院石景森教授荣获中国胆道外科终身成就奖</a> <cite>[2019-10-29 08:46:18]</cite></div>
+<div class="l_li" id="lineu4_18" style="display:none"><a class="i_li" href="../info/1012/123222.htm" title="一附院在中国卫促会省级医院分会年会上获多项荣誉">一附院在中国卫促会省级医院分会年会上获多项荣誉</a> <cite>[2019-10-28 18:06:19]</cite></div>
+<div class="l_li" id="lineu4_19" style="display:none"><a class="i_li" href="../info/1012/122996.htm" title="一附院举办首届脊柱微创创新与发展国际高峰论坛">一附院举办首届脊柱微创创新与发展国际高峰论坛</a> <cite>[2019-10-28 09:12:35]</cite></div>
+<div class="l_li" id="lineu4_20" style="display:none"><a class="i_li" href="../info/1012/122673.htm" title="二附院荣获全国医院医疗保险服务规范先进单位">二附院荣获全国医院医疗保险服务规范先进单位</a> <cite>[2019-10-24 14:03:55]</cite></div>
+<div class="l_li" id="lineu4_21" style="display:none"><a class="i_li" href="../info/1012/122468.htm" title="一附院位居2019中国医院影响力排行榜全国前列">一附院位居2019中国医院影响力排行榜全国前列</a> <cite>[2019-10-22 10:20:04]</cite></div>
+<div class="l_li" id="lineu4_22" style="display:none"><a class="i_li" href="../info/1012/122107.htm" title="一附院院长施秉银获颁“中国好医生2019年7月月度人物”">一附院院长施秉银获颁“中国好医生2019年7月月度人物”</a> <cite>[2019-10-17 08:46:59]</cite></div>
+<div class="l_li" id="lineu4_23" style="display:none"><a class="i_li" href="../info/1012/121699.htm" title="一附院癌症中心肿瘤多学科诊疗（MDT）例数再创新高">一附院癌症中心肿瘤多学科诊疗（MDT）例数再创新高</a> <cite>[2019-10-16 11:21:33]</cite></div>
+<div class="l_li" id="lineu4_24" style="display:none"><a class="i_li" href="../info/1012/121710.htm" title="一附院积极参与推动国家儿童健康事业">一附院积极参与推动国家儿童健康事业</a> <cite>[2019-10-16 08:22:52]</cite></div>
+<div class="l_li" id="lineu4_25" style="display:none"><a class="i_li" href="../info/1012/121698.htm" title="一附院国庆期间手术量创历史新高">一附院国庆期间手术量创历史新高</a> <cite>[2019-10-12 09:24:51]</cite></div>
+<div class="l_li" id="lineu4_26" style="display:none"><a class="i_li" href="../info/1012/121684.htm" title="二附院完成西北地区首例贝利尤单抗治疗系统性红斑狼疮患者临床应用">二附院完成西北地区首例贝利尤单抗治疗系统性红斑狼疮患者临床应用</a> <cite>[2019-10-11 10:21:51]</cite></div>
+<div class="l_li" id="lineu4_27" style="display:none"><a class="i_li" href="../info/1012/121627.htm" title="二附院肾病科举办“中新双边学术论坛”">二附院肾病科举办“中新双边学术论坛”</a> <cite>[2019-10-10 15:25:18]</cite></div>
+<div class="l_li" id="lineu4_28" style="display:none"><a class="i_li" href="../info/1012/121126.htm" title="丝绸之路口腔预防医学协作组在西安成立">丝绸之路口腔预防医学协作组在西安成立</a> <cite>[2019-09-30 09:18:55]</cite></div>
+<div class="l_li" id="lineu4_29" style="display:none"><a class="i_li" href="../info/1012/121022.htm" title="国内首家省级地方病临床医学研究中心在二附院成立">国内首家省级地方病临床医学研究中心在二附院成立</a> <cite>[2019-09-29 09:43:24]</cite></div>
+<div class="l_li" id="lineu4_30" style="display:none"><a class="i_li" href="../info/1012/120505.htm" title="一附院成功实施西北地区首例乳腺小结节完形切除术">一附院成功实施西北地区首例乳腺小结节完形切除术</a> <cite>[2019-09-23 11:54:03]</cite></div>
+<div class="l_li" id="lineu4_31" style="display:none"><a class="i_li" href="../info/1012/120343.htm" title="一附院成功实施西北首例体外膜氧合联合选择性低温脑灌流">一附院成功实施西北首例体外膜氧合联合选择性低温脑灌流</a> <cite>[2019-09-19 11:32:05]</cite></div>
+<div class="l_li" id="lineu4_32" style="display:none"><a class="i_li" href="../info/1012/120066.htm" title="一附院成功开展帕金森病多巴胺转运体（DAT）显像新技术">一附院成功开展帕金森病多巴胺转运体（DAT）显像新技术</a> <cite>[2019-09-18 14:49:56]</cite></div>
+<div class="l_li" id="lineu4_33" style="display:none"><a class="i_li" href="../info/1012/119871.htm" title="西安交大医疗联盟风湿免疫病诊疗中心暨陕西省风湿免疫病专科联盟成立">西安交大医疗联盟风湿免疫病诊疗中心暨陕西省风湿免疫病专科联盟成立</a> <cite>[2019-09-15 09:43:36]</cite></div>
+<div class="l_li" id="lineu4_34" style="display:none"><a class="i_li" href="../info/1012/119884.htm" title="卫健委临床药师培训基地2019届学员顺利结业">卫健委临床药师培训基地2019届学员顺利结业</a> <cite>[2019-09-12 18:31:06]</cite></div>
+<div class="l_li" id="lineu4_35" style="display:none"><a class="i_li" href="../info/1012/119882.htm" title="二附院成功举办“第三届陕西省药物性肝损伤高峰论坛”">二附院成功举办“第三届陕西省药物性肝损伤高峰论坛”</a> <cite>[2019-09-12 18:30:32]</cite></div>
+<div class="l_li" id="lineu4_36" style="display:none"><a class="i_li" href="../info/1012/119863.htm" title="一附院举行“陕西省健康促进与教育协会体外生命支持分会”成立仪式">一附院举行“陕西省健康促进与教育协会体外生命支持分会”成立仪式</a> <cite>[2019-09-12 18:28:32]</cite></div>
+<div class="l_li" id="lineu4_37" style="display:none"><a class="i_li" href="../info/1012/119479.htm" title="2019年国家卫建委属（管）单位建设项目督导检查西安组启动会在二附院召开">2019年国家卫建委属（管）单位建设项目督导检查西安组启动会在二附院召...</a> <cite>[2019-09-09 16:59:49]</cite></div>
+<div class="l_li" id="lineu4_38" style="display:none"><a class="i_li" href="../info/1012/119424.htm" title="一附院东院胸部外科（胸外三病区）正式开科">一附院东院胸部外科（胸外三病区）正式开科</a> <cite>[2019-09-09 09:50:34]</cite></div>
+<div class="l_li" id="lineu4_39" style="display:none"><a class="i_li" href="../info/1012/119338.htm" title="一附院李晖教授获中国儿科学界唯一心理学家称号">一附院李晖教授获中国儿科学界唯一心理学家称号</a> <cite>[2019-09-06 10:28:38]</cite></div>
+<div class="l_li" id="lineu4_40" style="display:none"><a class="i_li" href="../info/1012/119337.htm" title="二附院住院医师规范化培训工作获表彰">二附院住院医师规范化培训工作获表彰</a> <cite>[2019-09-06 10:27:24]</cite></div>
+<div class="l_li" id="lineu4_41" style="display:none"><a class="i_li" href="../info/1012/119335.htm" title="一附院举办陕西省LCI/BLI内镜诊疗联盟中心挂牌仪式暨研讨会">一附院举办陕西省LCI/BLI内镜诊疗联盟中心挂牌仪式暨研讨会</a> <cite>[2019-09-06 10:23:04]</cite></div>
+<div class="l_li" id="lineu4_42" style="display:none"><a class="i_li" href="../info/1012/119282.htm" title="一附院创作医患关系主题曲《医心不忘》正式发布">一附院创作医患关系主题曲《医心不忘》正式发布</a> <cite>[2019-09-06 09:28:55]</cite></div>
+<div class="l_li" id="lineu4_43" style="display:none"><a class="i_li" href="../info/1012/119213.htm" title="让帕金森患者不再害“帕”——二附院神经外科开展首例脑深部电极植入术">让帕金森患者不再害“帕”——二附院神经外科开展首例脑深部电极植入术</a> <cite>[2019-09-04 09:58:07]</cite></div>
+<div class="l_li" id="lineu4_44" style="display:none"><a class="i_li" href="../info/1012/119112.htm" title="一附院举办“第五届丝绸之路•中国器官捐献与移植发展论坛”">一附院举办“第五届丝绸之路•中国器官捐献与移植发展论坛”</a> <cite>[2019-09-03 10:36:32]</cite></div>
+<div class="l_li" id="lineu4_45" style="display:none"><a class="i_li" href="../info/1012/119110.htm" title="二附院普外科成功实施首例NOSES V式直肠癌根治术">二附院普外科成功实施首例NOSES V式直肠癌根治术</a> <cite>[2019-09-02 17:14:27]</cite></div>
+<div class="l_li" id="lineu4_46" style="display:none"><a class="i_li" href="../info/1012/118842.htm" title="西安交大一附院与上海联影共建智能医学技术联合创新实验室">西安交大一附院与上海联影共建智能医学技术联合创新实验室</a> <cite>[2019-08-29 10:31:03]</cite></div>
+<div class="l_li" id="lineu4_47" style="display:none"><a class="i_li" href="../info/1012/118802.htm" title="二附院参加健康陕西高峰论坛暨陕西省康复医学会2019年学术年会">二附院参加健康陕西高峰论坛暨陕西省康复医学会2019年学术年会</a> <cite>[2019-08-28 19:13:13]</cite></div>
+<div class="l_li" id="lineu4_48" style="display:none"><a class="i_li" href="../info/1012/118057.htm" title="袁祖贻等四位教授荣获第三届国之名医称号">袁祖贻等四位教授荣获第三届国之名医称号</a> <cite>[2019-08-14 17:20:32]</cite></div>
+<div class="l_li" id="lineu4_49" style="display:none"><a class="i_li" href="../info/1012/117336.htm" title="二附院胸外科为伊拉克留学生成功实施胸壁巨大Ewing肉瘤切除手术">二附院胸外科为伊拉克留学生成功实施胸壁巨大Ewing肉瘤切除手术</a> <cite>[2019-07-26 16:04:12]</cite></div>
+<div class="l_li" id="lineu4_50" style="display:none"><a class="i_li" href="../info/1012/117264.htm" title="二附院普外科成功开展国内首例磁锚定辅助内镜粘膜剥离术">二附院普外科成功开展国内首例磁锚定辅助内镜粘膜剥离术</a> <cite>[2019-07-26 09:05:43]</cite></div>
+<div class="l_li" id="lineu4_51" style="display:none"><a class="i_li" href="../info/1012/116513.htm" title="一附院开展西北首例“ZELIF可扩张通道下脊柱内镜后路腰椎融合术”">一附院开展西北首例“ZELIF可扩张通道下脊柱内镜后路腰椎融合术”</a> <cite>[2019-07-12 16:13:01]</cite></div>
+<div class="l_li" id="lineu4_52" style="display:none"><a class="i_li" href="../info/1012/116494.htm" title="一附院召开李晖、李文涛同志通报表彰仪式">一附院召开李晖、李文涛同志通报表彰仪式</a> <cite>[2019-07-12 11:19:22]</cite></div>
+<div class="l_li" id="lineu4_53" style="display:none"><a class="i_li" href="../info/1012/115988.htm" title="二附院实施国内首例磁锚定减戳卡腔镜直肠癌根治术">二附院实施国内首例磁锚定减戳卡腔镜直肠癌根治术</a> <cite>[2019-07-03 15:21:36]</cite></div>
+<div class="l_li" id="lineu4_54" style="display:none"><a class="i_li" href="../info/1012/115918.htm" title="二附院妇产科成功完成经阴道单孔腹腔镜子宫肌瘤剔除术">二附院妇产科成功完成经阴道单孔腹腔镜子宫肌瘤剔除术</a> <cite>[2019-07-02 19:08:03]</cite></div>
+<div class="l_li" id="lineu4_55" style="display:none"><a class="i_li" href="../info/1012/115991.htm" title="二附院皮肤科王万卷教授当选西安医学会皮肤性病学分会第八届专业委员会主任委员">二附院皮肤科王万卷教授当选西安医学会皮肤性病学分会第八届专业委员会...</a> <cite>[2019-07-02 17:44:50]</cite></div>
+<div class="l_li" id="lineu4_56" style="display:none"><a class="i_li" href="../info/1012/115830.htm" title="二附院神经内科张桂莲主任当选中国卒中学会神经介入分会常务委员">二附院神经内科张桂莲主任当选中国卒中学会神经介入分会常务委员</a> <cite>[2019-07-01 09:09:21]</cite></div>
+<div class="l_li" id="lineu4_57" style="display:none"><a class="i_li" href="../info/1012/115729.htm" title="二附院心血管病院郑强荪院长获中国心律学会杰出贡献奖">二附院心血管病院郑强荪院长获中国心律学会杰出贡献奖</a> <cite>[2019-06-27 17:32:16]</cite></div>
+<div class="l_page"><form method="GET" name="a42986" style="display: inline"><input name="actiontype" type="hidden" value=""/><input name="_scode_" type="hidden" value="1578841107295"/><input name="urltype" type="hidden" value="tree.TreeTempUrl"/><input name="wbtreeid" type="hidden" value="1012"/><input name="startnum" type="hidden" value="24"/><input name="endnum" type="hidden" value="82"/><input name="queryParam" type="hidden" value="urltype=tree.TreeTempUrl&amp;wbtreeid=1012"/><style type="text/css">.headStyle4oo6tvd0sp, .headStyle4oo6tvd0sp td, .headStyle4oo6tvd0sp div {font-size: 12px;font-family:宋体;color: #000000; margin-left: auto; margin-right: auto; line-height:14px;}.defaultButtonStyle {font-size: 12px;font-family:宋体;height:20px;color: #000000;BORDER: #AFD5F5 1px solid; margin: 0px;padding: 0px; FILTER:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#ffffff, EndColorStr=#BDDBF7);  CURSOR: hand; line-height:14px;}.defaultinputStyle {font-size: 12px;font-family:宋体;height:20px; border:1px solid #AFD5F5; line-height:14px;}.colHeader {font-size: 12px;font-family:宋体;line-height:14px;}.headStyle4oo6tvd0sp a, .pageList .this-page {font-size: 12px;font-family:宋体;display:inline-block;height:14px; padding: 2px 4px; border: solid 1px #AFD5F5; background: #fff; text-decoration: none; MARGIN-RIGHT: 1px;line-height:14px;}.headStyle4oo6tvd0sp a:visited {font-size: 12px;font-family:宋体;color: #000000; text-decoration: none; line-height:14px;}.headStyle4oo6tvd0sp .PrevDisabled {font-size: 12px;font-family:宋体;display:inline-block; height:14px;  margin-right: 3px; padding: 2px 4px; background: #fff; color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}.headStyle4oo6tvd0sp .SelectList {font-size: 12px;font-family:宋体;height:16px;line-height:14px;}.headStyle4oo6tvd0sp .Prev { font-size: 12px;font-family:宋体;margin-right: 3px; padding: 2px 4px;line-height:14px;}.headStyle4oo6tvd0sp .break {font-size: 12px;font-family:宋体; border: none; text-decoration: none; line-height:14px;}.headStyle4oo6tvd0sp .NextDisabled { font-size: 12px;font-family:宋体;display:inline-block; height:14px; margin-left: 2px; padding: 2px 4px;background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}.headStyle4oo6tvd0sp .Next { font-size: 12px;font-family:宋体; margin-left: 2px; padding: 2px 4px;line-height:14px;}.headStyle4oo6tvd0sp .this-page {font-size: 12px;font-family:宋体;display:inline-block; height:14px;padding: 2px 4px; border: solid 1px #AFD5F5; background: #E1F0FD; font-weight: bold; color:black; MARGIN-RIGHT: 1px;line-height:14px;}.headStyle4oo6tvd0sp a:hover {font-size: 12px;font-family:宋体;color: black; background: #EFF7FE; border-color: #AFD5F5; text-decoration: none;line-height:14px;}.headStyle4oo6tvd0sp a:link {font-size: 12px;font-family:宋体;color: #000000; text-decoration: none;line-height:14px;}.headStyle4oo6tvd0sp a:active { font-size: 12px;font-family:宋体;color: black; text-decoration: none; background: #bddbf7; line-height:14px;}
+</style><script language="javascript" src="../system/resource/js/gotopage.js"></script><script type="text/javascript">function a42986_gopage_fun(){_simple_list_gotopage_fun(18,'a42986GOPAGE',2)}</script><table border="0" cellpadding="0" cellspacing="0"><tr><td colspan="0"><table cellpadding="1" cellspacing="0" class="headStyle4oo6tvd0sp" width="100%"><tr valign="middle"><td align="left" id="fanyeu4" nowrap="" width="1%">共517条  2/18 </td><td align="left" nowrap=""><div><a class="Prev" href="../ylzx.htm">首页</a><a class="Prev" href="../ylzx.htm">上页</a><a class="Next" href="16.htm">下页</a><a class="Next" href="1.htm">尾页</a>  <input align="absmiddle" class="defaultButtonStyle" id="gotopagebut" name="a42986Find" onclick="javascript:a42986_gopage_fun()" type="button" value="转到"/><input align="absmiddle" class="defaultInputStyle" id="a42986GOPAGE" name="a42986GOPAGE" size="2" style="margin-left:1px;margin-right:1px" value=""/>页</div></td></tr></table></td></tr></table></form></div>
+<script language="javascript">
+    document.write("<s"+"cript type='text/javascript' src='/ylzx/statlist.js?d=" + escape(new Date().toUTCString()) + "'></scr"+"ipt>");
+    document.write("<s"+"cript type='text/javascript' src='/system/resource/js/news/statpagedown.js'></scr"+"ipt>");
+</script>
+<script language="javascript">
+    var size = 58;//文章条数
+    var pageNums = 29;//每页文章条数(默认10条)
+    var oldrowcount = 517;
+    var oldnowpage = 2;
+    var oldtotal = 18;
+    try{showStaticList('u4', size, pageNums, pageCount, rowCount, oldrowcount, oldnowpage, oldtotal);}catch(e){}
+</script>
+<script>_showDynClickBatch(['dynclicks_u4_125137','dynclicks_u4_125150','dynclicks_u4_125141','dynclicks_u4_125084','dynclicks_u4_124987','dynclicks_u4_124921','dynclicks_u4_124757','dynclicks_u4_124832','dynclicks_u4_124788','dynclicks_u4_124697','dynclicks_u4_124027','dynclicks_u4_124148','dynclicks_u4_123788','dynclicks_u4_123634','dynclicks_u4_123593','dynclicks_u4_123761','dynclicks_u4_123217','dynclicks_u4_123013','dynclicks_u4_123222','dynclicks_u4_122996','dynclicks_u4_122673','dynclicks_u4_122468','dynclicks_u4_122107','dynclicks_u4_121699','dynclicks_u4_121710','dynclicks_u4_121698','dynclicks_u4_121684','dynclicks_u4_121627','dynclicks_u4_121126','dynclicks_u4_121022','dynclicks_u4_120505','dynclicks_u4_120343','dynclicks_u4_120066','dynclicks_u4_119871','dynclicks_u4_119884','dynclicks_u4_119882','dynclicks_u4_119863','dynclicks_u4_119479','dynclicks_u4_119424','dynclicks_u4_119338','dynclicks_u4_119337','dynclicks_u4_119335','dynclicks_u4_119282','dynclicks_u4_119213','dynclicks_u4_119112','dynclicks_u4_119110','dynclicks_u4_118842','dynclicks_u4_118802','dynclicks_u4_118057','dynclicks_u4_117336','dynclicks_u4_117264','dynclicks_u4_116513','dynclicks_u4_116494','dynclicks_u4_115988','dynclicks_u4_115918','dynclicks_u4_115991','dynclicks_u4_115830','dynclicks_u4_115729'],[125137,125150,125141,125084,124987,124921,124757,124832,124788,124697,124027,124148,123788,123634,123593,123761,123217,123013,123222,122996,122673,122468,122107,121699,121710,121698,121684,121627,121126,121022,120505,120343,120066,119871,119884,119882,119863,119479,119424,119338,119337,119335,119282,119213,119112,119110,118842,118802,118057,117336,117264,116513,116494,115988,115918,115991,115830,115729],"wbnews", 1025023737)</script>
+<!--#endeditable-->
+<div class="clear"> </div>
+<div class="i_right">
+<div class="i_search">
+<!--#begineditable contype="" name="全文检索" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="全文检索" viewid="65621" stylesysid=""--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode65621').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword65621").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword65621").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword65621").value = base64.encode(document.getElementById("lucenenewssearchkeyword65621").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode65621"));
+        return true;
+    } 
+</script>
+<form action="../ssjgy.jsp?wbtreeid=1012" id="au5a" method="post" name="au5a" onsubmit="return _nl_ys_check()" style="display: inline">
+<input id="lucenenewssearchkeyword65621" name="lucenenewssearchkeyword" type="hidden" value=""/><input id="_lucenesearchtype65621" name="_lucenesearchtype" type="hidden" value="1"/><input id="searchScope65621" name="searchScope" type="hidden" value="0"/>
+<div>
+<table border="0" cellpadding="0" cellspacing="1">
+<tr>
+<td height="20px">
+<input id="showkeycode65621" name="showkeycode" style="height:20px;width:136px"/>
+</td>
+<td width="5px"> </td>
+<td align="absmiddle" height="1" nowrap="nowrap">
+<input align="absmiddle" src="../i_search_btn.jpg" style="cursor: hand" type="image" valign="bottom"/>
+</td>
+<td width="5px"> </td>
+<td align="absmiddle" class="i_search_left" nowrap="nowrap"><a "arial";="" background:="" center="" href="../index/gjjs.htm" no-repeat="" style="font-family:" top;="" url(i_body_bg.jpg)="" 宋体",="">高级搜索</a></td>
+</tr>
+</table>
+</div>
+</form>
+<script language="javascript" src="../system/resource/js/base64.js"></script><script language="javascript" src="../system/resource/js/formfunc.js"></script>
+<!--#endeditable-->
+</div>
+<div class="split"> </div>
+<div class="split"> </div>
+<div class="l_redian"><span class="l_redian">信息预告</span> <a class="l_redian_more" href="../xxyg.htm" target="_blank">更多</a>
+<div class="clear"> </div></div>
+<div class="l_redian_con"><!--#begineditable "信息预告" name="信息预告" viewid="42987" tagname="信息预告" contype="" stylesysid="" clone="0"--> <div class="l_redian_li"><a class="i_li" href="../info/1017/121206.htm" title="第十一届国际研究生奖学金信息说明会即将召开">·第十一届国际研究生奖学金信息说明...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../info/1017/121129.htm" title="第10届“学术之星”评选活动通知">·第10届“学术之星”评选活动通知</a></div>
+<div class="l_redian_li"><a class="i_li" href="../info/1017/120815.htm" title="【初心·使命】西安交大教职工歌咏比赛即将倾情上演">·【初心·使命】西安交大教职工歌咏比...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../info/1017/120096.htm" title="未来汽车动力与出行方式创新发展论坛即将举行">·未来汽车动力与出行方式创新发展论...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../info/1017/119463.htm" title="文脉相继——交通大学人文教育文献暨钟明善教授从教60周年成果展">·文脉相继——交通大学人文教育文献...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../info/1033/119195.htm" title="欢迎关注研究生开学典礼网络直播和新媒体互动">·欢迎关注研究生开学典礼网络直播和...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../info/1017/117943.htm" title="第12届微纳尺度材料行为国际研讨会开幕在即">·第12届微纳尺度材料行为国际研讨会...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../info/1017/116024.htm" title="第三届“一带一路”全球健康国际研讨会暨丝绸之路大学联盟2019全球健康论坛第二轮会议通知">·第三届“一带一路”全球健康国际研...</a></div>
+<div class="l_redian_li"><a class="i_li" href="../info/1017/114980.htm" title="西安交大VEX机器人夏令营报名啦！">·西安交大VEX机器人夏令营报名啦！</a></div>
+<div class="l_redian_li"><a class="i_li" href="../info/1017/114752.htm" title="“青马问道”第十一讲预告">·“青马问道”第十一讲预告</a></div>
+<script>_showDynClickBatch(['dynclicks_u6_121206','dynclicks_u6_121129','dynclicks_u6_120815','dynclicks_u6_120096','dynclicks_u6_119463','dynclicks_u6_119195','dynclicks_u6_117943','dynclicks_u6_116024','dynclicks_u6_114980','dynclicks_u6_114752'],[121206,121129,120815,120096,119463,119195,117943,116024,114980,114752],"wbnews", 1025023737)</script>
+<!--#endeditable--></div>
+<div class="split"> </div>
+<div class="l_lanmu"><span class="l_redian">栏目新闻</span>  
+<div class="clear"> </div></div>
+<div class="l_redian_con"><!--#begineditable "栏目新闻" name="栏目新闻" viewid="42988" tagname="栏目新闻" contype="" stylesysid="" clone="0"--> <div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/127560.htm" title="共青团西安交通大学第二十九次代表大会召开">·共青团西安交通大学第二十九次代表...</a></div></div></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/127456.htm" title="【奋翅起高飞】只争朝夕 不负韶华">·【奋翅起高飞】只争朝夕 不负韶华</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/127428.htm" title="西安交大召开2020年寒假工作会议">·西安交大召开2020年寒假工作会议</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/127418.htm" title="西安交通大学召开“不忘初心、牢记使命”主题教育总结大会">·西安交通大学召开“不忘初心、牢记...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/127446.htm" title="统一战线助力发展：扶贫攻坚有担当">·统一战线助力发展：扶贫攻坚有担当</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/127421.htm" title="西安交通大学参加2020年全国教育工作网络视频会议">·西安交通大学参加2020年全国教育工...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/127402.htm" title="【初心·使命】焦仲平系列评论之十：鼓满风帆踏征程，全力奋进创明天">·【初心·使命】焦仲平系列评论之十：...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/127391.htm" title="【“团”聚青春】共青团西安交通大学第二十九次代表大会预备会议召开">·【“团”聚青春】共青团西安交通大...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/127377.htm" title="学校召开研究生辅导员座谈会">·学校召开研究生辅导员座谈会</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="../info/1002/127368.htm" title="西安交大新增4个单位入选教育部新时代高校党建“双创”培育创建行列">·西安交大新增4个单位入选教育部新时...</a></div>
+<script>_showDynClickBatch(['dynclicks_u7_127560','dynclicks_u7_127456','dynclicks_u7_127428','dynclicks_u7_127418','dynclicks_u7_127446','dynclicks_u7_127421','dynclicks_u7_127402','dynclicks_u7_127391','dynclicks_u7_127377','dynclicks_u7_127368'],[127560,127456,127428,127418,127446,127421,127402,127391,127377,127368],"wbnews", 1025023737)</script>
+<!--#endeditable-->
+<div class="i_weibo" id="div_weibo_span"><span class="i_weibo_now" id="span_weibo_1" onmousemove="switchWeibo(1);"><img align="absMiddle" src="../AloeR/i_sina.jpg"/> 新浪微博</span> <span class="i_weibo_split"> </span> <span class="i_weibo" id="span_weibo_2" onmousemove="switchWeibo(2);"><img align="absMiddle" src="../AloeR/i_toutiao.png"/> 今日头条</span> <span class="i_weibo_split"> </span> <span class="i_weibo" id="span_weibo_3" onmousemove="switchWeibo(3);"><img align="absMiddle" src="../AloeR/i_weixin.jpg"/> 微信</span> </div>
+<div class="i_weibo_con" id="div_weibo_div">
+<div class="i_weibo_detail" id="div_weibo_1" style="display: block"><img src="../pic/weibo_ewm.png"/> </div>
+<div class="i_weibo_detail" id="div_weibo_2" style="display: none"><!--#begineditable "人人网" name="人人网" viewid="43083" tagname="人人网" contype="" stylesysid="" clone="0"-->
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><a href="https://www.toutiao.com/c/user/6223492102/#mid=6223492102" onclick="_addDynClicks('wbimage',1025023737,11002)" target="_blank"><img border="0" height="190" hspace="3" src="../toutiao_ewm.png" vspace="2" width="266"/></a></td>
+</tr>
+</table><!--#endeditable--></div>
+<div class="i_weibo_detail" id="div_weibo_3" style="display: none"><!--#begineditable "微信" name="微信" viewid="43084" tagname="微信" contype="" stylesysid="" clone="0"-->
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img border="0" height="190" hspace="3" src="../02.jpg" vspace="2" width="266"/></td>
+</tr>
+</table><!--#endeditable--></div>
+<div class="clear"> </div></div>
+<div class="clear"> </div>
+<div class="clear"> </div>
+<div class="split"> </div>
+<div class="i_bottom"><!--#begineditable "底部链接" name="底部链接" viewid="42989" tagname="底部链接" contype="" stylesysid="" clone="0"--><script language="javascript" src="../system/resource/js/openlink.js"></script> <a class="i_bottom" href="http://xwtg.xjtu.edu.cn:8080/system/contribute/alogin.jsp">在线投稿</a>
+<strong>|</strong>
+<a class="i_bottom" href="../lxwm.htm">联系我们</a>
+<strong>|</strong>
+<a class="i_bottom" href="http://202.117.3.24:8080/system/login.jsp">管理登陆</a>
+<strong>|</strong>
+<a class="i_bottom" href="http://xwlc1.xjtu.edu.cn/">新闻流程</a>
+<!--#endeditable--><br/> <!--#begineditable "版权" name="版权" viewid="42990" tagname="版权" contype="" stylesysid="" clone="0"-->版权所有：西安交通大学党委宣传部 网站建设：<a class="design" href="http://nic.xjtu.edu.cn">网络信息中心</a><br/><a href="http://www.beian.miit.gov.cn/">陕ICP备06008037号</a> 网络信息中心提供网络带宽 <!--#endeditable--></div>
+

@@ -1,0 +1,359 @@
+
+<html>
+<head>
+<link content-type="text/css" href="/system/contribute/login/regsite.css" rel="stylesheet"/>
+<style type="text/css">
+	body,td,th {
+		font-size: 12px;
+	}
+	body {
+		background-color: #00477F;
+		background-image: url(img/xt_r1_c1.jpg);
+		margin-left: 0px;
+		margin-top: 0px;
+		margin-right: 0px;
+		margin-bottom: 0px;
+		background-repeat: repeat-x;
+		background-position: top;
+	}
+	a:link {
+		text-decoration: none;
+	}
+	a:visited {
+		text-decoration: none;
+	}
+	a:hover {
+		text-decoration: none;
+	}
+	a:active {
+		text-decoration: none;
+	}
+	#account  {
+		background-image: url(/system/contribute/login/img/tg_r3_c41.jpg);
+		background-repeat: no-repeat;
+		background-position: left center;
+		padding-left: 28px;
+		height: 22px;
+		width: 150px;
+		padding-top: 3px;
+		padding-right: 0px;
+		padding-bottom: 0px;
+		border: 1px solid #CCC;
+	}
+	#password  {
+		background-image: url(/system/contribute/login/img/tg_r5_c41.jpg);
+		background-repeat: no-repeat;
+		background-position: left center;
+		padding-left: 28px;
+		height: 22px;
+		width: 150px;
+		padding-top: 3px;
+		padding-right: 0px;
+		padding-bottom: 0px;
+		border: 1px solid #CCC;}
+	#checkagain  {
+		background-image: url(/system/contribute/login/img/tg_r5_c41.jpg);
+		background-repeat: no-repeat;
+		background-position: left center;
+		padding-left: 28px;
+		height: 22px;
+		width: 150px;
+		padding-top: 3px;
+		padding-right: 0px;
+		padding-bottom: 0px;
+		border: 1px solid #CCC;}
+	#username  {
+		background-image: url(/system/contribute/login/img/tg_r3_c41.jpg);
+		background-repeat: no-repeat;
+		background-position: left center;
+		padding-left: 28px;
+		height: 22px;
+		width: 150px;
+		padding-top: 3px;
+		padding-right: 0px;
+		padding-bottom: 0px;
+		border: 1px solid #CCC;
+	}
+	#phone  {
+		background-image: url(/system/contribute/login/img/tg_r8_c51.jpg);
+		background-repeat: no-repeat;
+		background-position: left center;
+		padding-left: 28px;
+		height: 22px;
+		width: 150px;
+		padding-top: 3px;
+		padding-right: 0px;
+		padding-bottom: 0px;
+		border: 1px solid #CCC;}
+	#email  {
+		background-image: url(/system/contribute/login/img/tg_r8_c51.jpg);
+		background-repeat: no-repeat;
+		background-position: left center;
+		padding-left: 28px;
+		height: 22px;
+		width: 150px;
+		padding-top: 3px;
+		padding-right: 0px;
+		padding-bottom: 0px;
+		border: 1px solid #CCC;}
+	</style>
+<script language="javascript" src="/system/dwr/engine.js"></script>
+<script language="javascript" src="/system/dwr/util.js"></script>
+<script language="javascript" src="/system/dwr/interface/RegisterDwr.js"></script>
+<script language="javascript" src="/system/dwr/interface/CheckPasswordDWR.js"></script>
+<script language="javascript" src="/system/resource/js/login/reguser.js"></script>
+<script language="javascript" src="/system/contribute/login/login.js"></script>
+<script>
+		function isTelephone(str)
+		{
+			if(isMobile(str) || isFixedPhone(str))
+			{
+				return true;
+			}
+			return false;
+		}
+		function isMobile(str)
+		{
+			var re = /^(13[0-9]|14[0-9]|15[0-9]|18[0-9])\d{8}$/;
+			return re.test(str);
+		}
+		function isFixedPhone(str)
+		{
+			var re =/^(\d{7,8})(-(\d{3,}))?$/;
+			var re1 = /^(([0\+]\d{2,3}-)?(0\d{2,3})-)(\d{7,8})(-(\d{3,}))?$/;
+			return (re.test(str) || re1.test(str));
+		}
+		function  isEmail(email)
+		{
+			isEmail1 = /^\w+([\.\-]\w+)*\@\w+([\.\-]\w+)*\.\w+$/;
+			isEmail2 = /^.*@[^_]*$/;
+			return (isEmail1.test(email) && isEmail2.test(email));
+		}
+		function doSave()
+		{
+			RegisterDwr.ishasWbaccount(document.getElementById("account").value,function (data){ 
+				var account = trim(document.getElementById("account").value); 
+				var password = trim(document.getElementById("password").value); 
+				var checkagain = trim(document.getElementById("checkagain").value); 
+				var username = trim(document.getElementById("username").value); 
+				var phone = trim(document.getElementById("phone").value); 
+				var email = trim(document.getElementById("email").value);
+
+				if(account==null||account=="") 
+				{
+					 alert("请输入用户账号"); 
+					 return; 
+				}
+				var re = /^[a-z][a-z0-9_]*$/;
+				if(!re.test(account)) 
+				{
+					alert("用户账号只能以小写英文字母开始，允许使用小写英文字母、数字、下划线的组合"); 
+					return; 
+				} 
+				if(checkname(account)==false) 
+				{
+					return; 
+				} 
+				if(account.length > 20) 
+				{ 
+					alert("用户账号长度最长20个字符"); 
+					return; 
+				} 
+				if($("logincode") != undefined)
+				{
+					if($("logincode").value.trim()=="")
+					{
+						alert("请输入登录验证码");
+						$("logincode").focus();
+						return;      
+					} 
+				
+					if($("logincode").value.length!=4)
+					{
+						alert("登录验证码必须是4位");
+						$("logincode").focus();
+						return;      
+					}
+				}
+
+				if(data) 
+				{
+					alert("用户账号已经存在"); 
+					return; 
+				}else 
+				{ 
+					if(password==null||password=="")
+					{
+						alert("请输入密码");
+						return
+					}
+					CheckPasswordDWR.checkSite(password,function(data){ 
+						var result = data.split("@"); 
+						if(result[0]=="true") 
+						{ 
+							if(checkagain==null||checkagain=="")
+							{
+								alert("请输入确认密码");
+								return
+							} 
+							if(password!=checkagain)
+							{
+								alert("两次密码输入不一致");
+								return
+							} 
+							if(username==null||username=="")
+							{
+								alert("请输入姓名");
+								return
+							} 
+							if(username.indexOf(",")>=0||username.indexOf(";")>=0||username.indexOf("|")>=0||username.indexOf("<")>=0||username.indexOf(">")>=0) 
+							{ 
+								alert("姓名中不能包含字符,;|<>"); 
+								return; 
+							} 
+							if(username.length > 20) 
+							{ 
+								alert("姓名过长，长度最大为20个字符");
+								return; 
+							} 
+							if(phone==null||phone=="")
+							{
+								alert("请输入联系电话");
+								return
+							} 
+							if(!isTelephone(phone))
+							{
+								alert("请输入正确的联系电话");
+								return   
+							}
+							if(email==null||email=="")
+							{
+								alert("请输入邮箱地址");
+								return
+							} 
+							if(isEmail(email)==false)
+							{
+								alert("邮箱输入不正确");
+								return
+							}
+						}else 
+						{ 
+							alert(result[1]); 
+							return; 
+						}
+					});
+				}
+			});
+			document.getElementById("actiontype").value = "save";
+			document.getElementById("newsite").submit();;
+		}
+	</script>
+</head>
+<body>
+<form action="register.jsp" id="newsite" method="post" name="newsite" style="display:inline">
+<input name="actiontype" type="hidden" value=""/>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1000">
+<tr>
+<td background="/system/contribute/login/img/zc_r1_c2.jpg" height="471" width="440"> </td>
+<td colspan="2" rowspan="2" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="560">
+<tr>
+<td background="/system/contribute/login/img/zc_r1_c3.jpg" colspan="2" height="273"> </td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" height="182" rowspan="2" width="556"><table align="center" border="0" cellpadding="0" cellspacing="0" width="540">
+<tr>
+<td align="center" height="36" style="color:#025CB2; font-size:14px;" width="80">用户账号：</td>
+<td align="left" width="190">
+<label for="account"></label>
+<input id="account" name="account" type="text" value=""/>
+</td>
+<td align="left" style="color:#F00" width="270">用户账号只能以小写英文字母开始，最长为20个字符，允许使用小写英文字母、数字、下划线的组合</td>
+</tr>
+<tr>
+<td align="center" height="36" style="color:#025CB2; font-size:14px;">设置密码：</td>
+<td align="left">
+<label for="password"></label>
+<input id="password" maxlength="100/" name="password" type="password" value=""/>
+</td>
+<td align="left" style="color:#F00">密码长度为6到20位</td>
+</tr>
+<tr>
+<td align="center" height="36" style="color:#025CB2; font-size:14px;">密码确认：</td>
+<td width="110">
+<label for="checkagain"></label>
+<input id="checkagain" maxlength="100/" name="checkagain" type="password" value=""/>
+</td>
+<td style="color:#F00" width="110">再输入一次密码</td>
+</tr>
+<tr>
+<td align="center" height="36" style="color:#025CB2; font-size:14px;">姓        名：</td>
+<td>
+<label for="username"></label>
+<input id="username" name="username" type="text">
+</input></td>
+<td style="color:#F00">输入用户姓名</td>
+</tr>
+<tr>
+<td align="center" height="36" style="color:#025CB2; font-size:14px;">联系电话：</td>
+<td>
+<label for="phone"></label>
+<input id="phone" name="phone" type="text">
+</input></td>
+<td style="color:#F00">输入用户办公电话或手机号码</td>
+</tr>
+<tr>
+<td align="center" height="36" style="color:#025CB2; font-size:14px;">邮箱地址：</td>
+<td>
+<label for="email"></label>
+<input id="email" name="email" type="text"/>
+</td>
+<td style="color:#F00">输入正在使用的电子信箱地址</td>
+</tr>
+<tr>
+<td align="center" height="36" style="color:#025CB2; font-size:14px;">验证码</td>
+<td>
+<label for="textfield3"></label>
+<input autocomplete="off" id="logincode" maxlength="4" name="logincode" type="text"/>
+</td>
+<td width="110"><img align="absmiddle" border="0" height="27" id="codeimg" onclick="changeCodeImg()" style="cursor:hand" title="看不清点我" width="87"/><script>
+			if(!bClosed)
+				changeCodeImg();
+			</script></td>
+</tr>
+<tr>
+<td height="36"> </td>
+<td align="right"><img height="32" onclick="doSave();" src="/system/contribute/login/img/zc_r4_c4.jpg" style="cursor:pointer" width="96"/></td>
+<td> </td>
+</tr>
+</table></td>
+<td background="/system/contribute/login/img/zc_r2_c4.jpg" height="198" width="4"></td>
+</tr>
+<tr>
+<td background="/system/contribute/login/img/zc_r3_c4.jpg" height="69"></td>
+</tr>
+<tr>
+<td background="/system/contribute/login/img/zc_r4_c3.jpg" height="11" width="556"></td>
+<td></td>
+</tr>
+<tr>
+<td height="37"><table align="right" border="0" cellpadding="0" cellspacing="0" width="306">
+<tr>
+<td align="right" style="color:#FFF;"><a href="login.jsp" style="color:#FFF;">  投稿系统登录  </a>/<a href="syslogin.jsp" style="color:#FFF;">  系统配置登录  </a>/<a href="register.jsp" style="color:#FFF;">  新用户注册  </a></td>
+</tr>
+</table></td>
+<td></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td background="/system/contribute/login/img/zc_r3_c2.jpg" height="164" width="440"> </td>
+</tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="color:#FFF; text-align:center;" width="1000">
+<tr>
+<td>版权所有：西安交通大学党委宣传部        技术支持：西安交通大学数据与信息中心</td>
+</tr>
+</table>
+</form>
+</body>
+</html>

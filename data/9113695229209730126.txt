@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<title>西安交通大学医学部-人才培养处</title><meta content="人才培养处" name="keywords">
+<link href="css/style.css" rel="stylesheet" type="text/css"/>
+<script src="js/TouchSlide.js" type="text/javascript"></script>
+<script src="js/TouchSlide.source.js" type="text/javascript"></script>
+<script src="js/jquery.min.js" type="text/javascript"></script>
+<script src="js/js.js" type="text/javascript"></script>
+<script src="js/js2.js" type="text/javascript"></script>
+<script charset="utf-8" src="js/jquery.SuperSlide.js" type="text/javascript"></script>
+<script charset="utf-8" src="js/jquery.SuperSlide.source.js" type="text/javascript"></script>
+<!--Announced by Visual SiteBuilder 9-->
+<link href="_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css"/>
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230697547545257544003060005 -->
+<link href="index.vsb.css" rel="stylesheet" type="text/css"/>
+<script src="/system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1483700532)</script>
+</meta></head>
+<body>
+<div class="wrapper">
+<div class="logo_">
+<div class="log">
+<div class="logo_link">
+<div class="llink">
+<!--#begineditable name="主页|收藏" viewid="205764" tagname="主页|收藏" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->
+<script language="javascript">
+function dosuba205764a()
+{
+    try{
+        var ua = navigator.userAgent.toLowerCase();
+        if(ua.indexOf("msie 8")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+        }else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+            if (document.all) 
+            {
+                window.external.addFavorite(document.location.href, document.title);
+            }else if(window.sidebar)
+            {
+                window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+            }
+            else
+            {
+                alert(hotKeysa205764a());
+            }
+        }
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa205764a() 
+{
+    var ua = navigator.userAgent.toLowerCase(); 
+    var str = "";    
+    var isWebkit = (ua.indexOf('webkit') != - 1); 
+    var isMac = (ua.indexOf('mac') != - 1);     
+    if (ua.indexOf('konqueror') != - 1) 
+    {  
+        str = 'CTRL + B'; // Konqueror   
+    } 
+    else if (window.home || isWebkit || isMac) 
+    {        
+        str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+    }
+    return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea205764a()
+{
+    var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+        }
+    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+    prefs.setCharPref('browser.startup.homepage',url);
+    }
+    else
+    {
+        alert("浏览器不支持自动设为首页，请手动设置");
+    }
+}
+</script>
+<a href="javascript:setHomepagea205764a()" style="TEXT-DECORATION: none;">设为首页</a>
+<span style="COLOR: #222222;FONT-FAMILY: 宋体;FONT-SIZE: 9pt;">|</span>
+<a href="#" onclick="javascript:dosuba205764a();" style="TEXT-DECORATION: none;">加入收藏</a>
+<span style="COLOR: #222222;FONT-FAMILY: 宋体;FONT-SIZE: 9pt;">|</span>
+<!--#endeditable-->
+<!--#begineditable name="English-链接列表" viewid="205765" tagname="English-链接列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script>
+<a href="Home.htm" onclick='_addDynClicks("wburl", 1483700532, 43181)' title="">English</a>
+<!--#endeditable-->
+</div>
+<!--#begineditable name="全文检索" viewid="205766" tagname="全文检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode205766').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword205766").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword205766").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword205766").value = base64.encode(document.getElementById("lucenenewssearchkeyword205766").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode205766"));
+        return true;
+    } 
+</script>
+<form action="ssjg.jsp?wbtreeid=1001" id="au2a" method="post" name="au2a" onsubmit="return _nl_ys_check()" style="display: inline">
+<input id="lucenenewssearchkeyword205766" name="lucenenewssearchkeyword" type="hidden" value=""/><input id="_lucenesearchtype205766" name="_lucenesearchtype" type="hidden" value="1"/><input id="searchScope205766" name="searchScope" type="hidden" value="0"/>
+<div class="sousuo">
+<input id="showkeycode205766" name="showkeycode" onfocus="this.value=''" style="width: 200px; height: 30px; background: url(img/sousuobjk.png) no-repeat; text-indent: 15px; border: none; vertical-align: middle; outline: none; color: #888888; font-size: 12px;line-height:30px;" type="" value="请输入关键字">
+<input id="" name="" style="background: url(img/sousuo.png) no-repeat;     width: 19px;    height: 19px;    position: relative;    left: -32px;    vertical-align: middle;    border: none;    outline: none" type="submit" value="">
+</input></input></div>
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable-->
+</div>
+<div class="logo">
+<!--#begineditable name="LOGO" viewid="205767" tagname="LOGO" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="index.htm"><img alt="医学部人才培养处" border="0" height="80" src="img/logo.png" title="医学部人才培养处" width="677"/></a><!--#endeditable-->
+</div>
+</div>
+</div>
+<div class="nav_">
+<div class="menu">
+<!--导航开始-->
+<!--#begineditable name="网站导航" viewid="205768" tagname="网站导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><ul class="nav" id="nav">
+<li class="mainlevel" id="click">
+<a href="index.htm">首页</a>
+</li>
+<li class="mainlevel">
+<a href="jgsz.htm">机构设置</a>
+<ul>
+<li>
+<a href="jgsz/dwjj.htm">单位简介</a>
+</li>
+<li>
+<a href="jgsz/gzzz.htm">工作职责</a>
+</li>
+</ul>
+</li>
+<li class="mainlevel">
+<a href="gzzd1.htm">规章制度</a>
+<ul>
+<li>
+<a href="gzzd1/zcfg.htm">政策法规</a>
+</li>
+<li>
+<a href="gzzd1/jxgz.htm">教学规章</a>
+</li>
+<li>
+<a href="gzzd1/bksgz.htm">本科生规章</a>
+</li>
+<li>
+<a href="gzzd1/yjsgz.htm">研究生规章</a>
+</li>
+</ul>
+</li>
+<li class="mainlevel">
+<a href="bksjy.htm">本科生教育</a>
+</li>
+<li class="mainlevel">
+<a href="http://medgs.xjtu.edu.cn/">研究生教育</a>
+</li>
+<li class="mainlevel">
+<a href="lxsjy.htm">留学生教育</a>
+</li>
+<li class="mainlevel">
+<a href="bszn.htm">办事指南</a>
+<ul>
+<li>
+<a href="bszn/jsfw.htm">教师服务</a>
+</li>
+<li>
+<a href="bszn/xsfw.htm">学生服务</a>
+</li>
+</ul>
+</li>
+</ul><!--#endeditable-->
+<script type="text/javascript">
+						$(document).ready(function() {
+
+							$('li.mainlevel').mousemove(function() {
+								$(this).find('ul').slideDown(300); //you can give it a speed
+							});
+							$('li.mainlevel').mouseleave(function() {
+								$(this).find('ul').slideUp("fast");
+							});
+
+						});
+					</script>
+<!--导航结束-->
+</div>
+</div>
+<div class="rcpycbody_">
+<div class="rcpycbody_a">
+<div class="rcpycbody_a_con">
+<div class="ry_a_left">
+<!--开始-->
+<div class="slideBox" id="slideBox">
+<div class="hd">
+<ul><li>1</li><li>2</li><li>3</li><li>4</li></ul>
+</div>
+<!--#begineditable name="banner-图片列表" viewid="205769" tagname="banner-图片列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->
+<div class="bd">
+<ul>
+<li>
+<img border="0" height="350" src="style/IMG_20140.jpg" width="780"/>
+<p class="banjjj"></p>
+</li>
+<li>
+<img border="0" height="350" src="img/bannertp.png" width="780"/>
+<p class="banjjj">吴祥凤--奠基西北现代医学教育的领头人</p>
+</li>
+</ul>
+</div>
+<!--#endeditable-->
+<!-- 下面是前/后按钮代码，如果不需要删除即可 -->
+<a class="prev" href="javascript:void(0)"></a>
+<a class="next" href="javascript:void(0)"></a>
+</div>
+<script type="text/javascript">
+		jQuery(".slideBox").slide({mainCell:".bd ul",autoPlay:true});
+		</script>
+<!--结束-->
+</div>
+<div class="ry_a_right">
+<!--#begineditable name="youbanner-图片列表" viewid="205771" tagname="youbanner-图片列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->
+<img border="0" height="350" src="img/youbannertp.png" width="380"/>
+<!--#endeditable-->
+</div>
+</div>
+</div>
+<div class="rcpycbody_b">
+<div class="ry_b_left">
+<div class="ry_b_left_top">
+<h5>教学动态</h5>
+<a href="jxdt.htm"><span class="mores">
+								+More
+							</span></a>
+</div>
+<!--#begineditable name="教学动态-标题列表" viewid="205773" tagname="教学动态-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><div class="ry_b_left_con">
+<div class="ry_b_left_con_left">
+<a href="info/1003/2431.htm" target="_blank"><img height="156px" src="/__local/5/8A/14/7899DCF647A53C8538449FF4426_40D2847A_55438.jpg" width="278"/></a>
+</div>
+<div class="ry_b_left_con_right">
+<a href="info/1003/2431.htm" target="_blank"><h6> 医学部人才培养处传达寒假工作会议精神</h6></a>
+<p>1月12日上午，医学部人才培养处召开工作会议，传达寒假工作会议精神，部署2020年重点工作任务。吴小建副处长主持会议，人才培养处全体成员参加。王渊传达了王树国校长与张迈曾书记讲话内容。王树国校长总结回顾了我校2019年工作业绩，他表示2019年交大在人...</p>
+<a href="info/1003/2431.htm" target="_blank"><span class="gdxx">更多详细&gt;&gt;</span></a>
+</div>
+</div>
+<div class="ry_b_left_bottom">
+<ul>
+<li><a href="info/1003/2418.htm" target="_blank">医学部组织临床实习专项检查</a><span class="jxdtriqi">2019-12-26</span></li>
+<li><a href="info/1003/2411.htm" target="_blank">教育部来华留学医学教育专家组一行莅校调研</a><span class="jxdtriqi">2019-12-16</span></li>
+<li><a href="info/1003/2394.htm" target="_blank">西安交通大学医学部2019年在职博士杭州医学院班开学典礼暨西...</a><span class="jxdtriqi">2019-11-25</span></li>
+<li><a href="info/1003/2388.htm" target="_blank">“新港报告——医学与健康系列讲座”圆满结束</a><span class="jxdtriqi">2019-11-18</span></li>
+<li><a href="info/1003/2380.htm" target="_blank">医学研究生教学实验中心在创新港开展防火疏散演练</a><span class="jxdtriqi">2019-11-07</span></li>
+<li><a href="info/1003/2349.htm" target="_blank">西安交大“新港报告”医学与健康系列启动</a><span class="jxdtriqi">2019-09-25</span></li>
+<li><a href="info/1003/2330.htm" target="_blank">交大创新港正式开课 医学生第一课“为生命之光”</a><span class="jxdtriqi">2019-09-11</span></li>
+</ul>
+</div><script>_showDynClickBatch(['dynclicks_u7_2431','dynclicks_u7_2418','dynclicks_u7_2411','dynclicks_u7_2394','dynclicks_u7_2388','dynclicks_u7_2380','dynclicks_u7_2349','dynclicks_u7_2330'],[2431,2418,2411,2394,2388,2380,2349,2330],"wbnews", 1483700532)</script>
+<!--#endeditable-->
+</div>
+<div class="ry_b_right">
+<div class="huibj">
+</div>
+<div class="ry_b_right_top">
+<h5>通知公告</h5>
+<a href="tzgg.htm"><span class="mores1">
+								+More
+							</span></a>
+<!--<a href="/system/go.jsp?treeid=1004&apptype=treetemp&urltype=tree.TreeTempUrl"><img src="img/tzggjttp.png" class="tzggjt" /></a><span></span>-->
+</div>
+<!--#begineditable name="通知公告-标题列表" viewid="205774" tagname="通知公告-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><div class="ry_b_right_con">
+<a href="info/1004/2430.htm" target="_blank"><h6> 关于医学部2020年国家公派研究生项目选派工作安排...</h6></a>
+<p>各学院： 为做好2020年国家建设高水平大学公派研究生项目选派工作，根据国家留学基金委有关文件精神,结合我校的实际情况，现将医学部具体安排如下...</p>
+<a href="info/1004/2430.htm" target="_blank"><span class="gdxx tzggmore">更多详细&gt;&gt;</span></a>
+</div>
+<div class="ry_b_right_bottom">
+<ul>
+<li><a href="info/1004/2429.htm" target="_blank">关于做好2019-2020学年第二学期研究生助教工作的通...</a></li>
+<li><a href="info/1004/2428.htm" target="_blank">2020年医学部研究生寒假安排及报到注册通知</a></li>
+<li><a href="info/1004/2412.htm" target="_blank">关于集中补办研究生证的通知</a></li>
+<li><a href="info/1004/2399.htm" target="_blank">领取英语四、六考试准考证的通知</a></li>
+<li><a href="info/1004/2398.htm" target="_blank">关于2019年下半年教师授课竞赛医学复赛的通知</a></li>
+<li><a href="info/1004/2393.htm" target="_blank">研究生系列讲座“生命之光”大讲堂第153讲</a></li>
+</ul>
+</div>
+<script>_showDynClickBatch(['dynclicks_u8_2430','dynclicks_u8_2429','dynclicks_u8_2428','dynclicks_u8_2412','dynclicks_u8_2399','dynclicks_u8_2398','dynclicks_u8_2393'],[2430,2429,2428,2412,2399,2398,2393],"wbnews", 1483700532)</script>
+<!--#endeditable-->
+</div>
+</div>
+</div>
+<div class="rcpyclink_">
+<div class="rcpyclink">
+<div class="rk_a">
+<!--#begineditable name="小logo-图片列表" viewid="205780" tagname="小logo-图片列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->
+<img border="0" height="60" src="img/xiaologo.png" width="391"/>
+<!--#endeditable-->
+</div>
+<div class="rk" id="rk">
+<div class="rk_b">
+<p>信息下载</p>
+<!--#begineditable name="信息下载-链接列表" viewid="205775" tagname="信息下载-链接列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><ul>
+<li><a href="tzgg.htm" onclick='_addDynClicks("wburl", 1483700532, 43182)' title="">信息公开</a></li>
+<li><a href="xxxz.htm" onclick='_addDynClicks("wburl", 1483700532, 43184)' title="">下载</a></li>
+</ul>
+<!--#endeditable-->
+</div>
+<div class="rk_c">
+<p>友情链接</p>
+<!--#begineditable name="友情链接-链接列表" viewid="205777" tagname="友情链接-链接列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><ul>
+<li><a href="http://www.moe.gov.cn/" onclick='_addDynClicks("wburl", 1483700532, 43201)' title="">教育部</a></li>
+<li><a href="http://www.nhfpc.gov.cn/" onclick='_addDynClicks("wburl", 1483700532, 43202)' title="">国家卫健委</a></li>
+<li><a href="http://www.nsfc.gov.cn/" onclick='_addDynClicks("wburl", 1483700532, 43203)' title="">国家自然科学基金委</a></li>
+<li><a href="http://www.snedu.gov.cn/" onclick='_addDynClicks("wburl", 1483700532, 43204)' title="">陕西省教育厅</a></li>
+<li><a href="http://www.sxwjw.gov.cn/" onclick='_addDynClicks("wburl", 1483700532, 43205)' title="">陕西省卫计委</a></li>
+<li><a href="http://zs.xjtu.edu.cn/" onclick='_addDynClicks("wburl", 1483700532, 43206)' title="">西安交通大学本科招生网</a></li>
+<li><a href="http://gs.xjtu.edu.cn/" onclick='_addDynClicks("wburl", 1483700532, 43207)' title="">西安交通大学研究生院</a></li>
+<li><a href="http://www.med.xjtu.edu.cn/index.htm" onclick='_addDynClicks("wburl", 1483700532, 44803)' title="">西安交通大学医学部</a></li>
+</ul><!--#endeditable-->
+</div>
+<div class="rk_d">
+<p>常用服务</p>
+<!--#begineditable name="常用服务-链接列表" viewid="205778" tagname="常用服务-链接列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><ul>
+<li><a href="http://ehall.xjtu.edu.cn/new/index.html" onclick='_addDynClicks("wburl", 1483700532, 43208)' title="">综合教学服务平台</a></li>
+<li><a href="http://xkfw.xjtu.edu.cn/" onclick='_addDynClicks("wburl", 1483700532, 43209)' title="">选课端</a></li>
+<li><a href="http://cc.xjtu.edu.cn/" onclick='_addDynClicks("wburl", 1483700532, 43210)' title="">课程中心</a></li>
+<li><a href="http://202.117.1.152:8080/" onclick='_addDynClicks("wburl", 1483700532, 43211)' title="">考勤查询</a></li>
+<li><a href="http://pts.xjtu.edu.cn:8080/" onclick='_addDynClicks("wburl", 1483700532, 43212)' title="">毕业论文设计</a></li>
+<li><a href="http://pts.xjtu.edu.cn:8081/" onclick='_addDynClicks("wburl", 1483700532, 43213)' title="">创新训练</a></li>
+<li><a href="http://due.xjtu.edu.cn/xxfw/xl.htm" onclick='_addDynClicks("wburl", 1483700532, 43214)' title="">交大校历</a></li>
+<li><a href="http://job.xjtu.edu.cn/" onclick='_addDynClicks("wburl", 1483700532, 43215)' title="">就业服务</a></li>
+<li><a href="http://www.lib.xjtu.edu.cn/" onclick='_addDynClicks("wburl", 1483700532, 43216)' title="">图书馆</a></li>
+</ul><!--#endeditable-->
+</div>
+</div>
+</div>
+</div>
+<div class="rcpycbqbq">
+<!--#begineditable name="版权" viewid="205779" tagname="版权" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>地址：陕西省西安市咸宁西路28号 邮编：710049 <br/>版权所有：西安交通大学 站点建设与维护： 网络信息中心 陕ICP备06008037号</p><!--#endeditable-->
+</div>
+</div>
+</body>
+</html>

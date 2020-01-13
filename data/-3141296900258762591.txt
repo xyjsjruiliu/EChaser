@@ -1,0 +1,1043 @@
+<!DOCTYPE html>
+
+<html lang="zh-CN"><head><title>知名校友-西安交通大学</title>
+<meta charset="utf-8"/><link href="../style/reset.css" rel="stylesheet"/><link href="../style/common.css" rel="stylesheet"/><link href="../style/page.css" rel="stylesheet"/><script src="../js/jquery.js"></script>
+<style></style>
+<base target="_blank"/>
+<!--Announced by Visual SiteBuilder 9-->
+<link href="../_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230697547545352544203050000 -->
+<link href="../zmxy_abstract.vsb.css" rel="stylesheet" type="text/css">
+<meta content="西安交通大学,知名校友" name="keywords">
+<script src="../system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1239,'/zmxy_abstract.jsp',-1,1151962237)</script>
+<!--[if lt IE 7]><script type="text/javascript" src="/system/resource/js/unitpngfix/unitpngfix.js"></script><![endif]--></meta></link></link></head>
+<body>
+<div class="top">
+<div class="jrsc"><!--#begineditable name="主页|收藏" viewid="65623"-->
+<script language="javascript">
+function dosuba65623a()
+{
+    try{
+        var ua = navigator.userAgent.toLowerCase();
+        if(ua.indexOf("msie 8")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+        }else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+            if (document.all) 
+            {
+                window.external.addFavorite(document.location.href, document.title);
+            }else if(window.sidebar)
+            {
+                window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+            }
+            else
+            {
+                alert(hotKeysa65623a());
+            }
+        }
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa65623a() 
+{
+    var ua = navigator.userAgent.toLowerCase(); 
+    var str = "";    
+    var isWebkit = (ua.indexOf('webkit') != - 1); 
+    var isMac = (ua.indexOf('mac') != - 1);     
+    if (ua.indexOf('konqueror') != - 1) 
+    {  
+        str = 'CTRL + B'; // Konqueror   
+    } 
+    else if (window.home || isWebkit || isMac) 
+    {        
+        str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+    }
+    return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea65623a()
+{
+    var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+        }
+    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+    prefs.setCharPref('browser.startup.homepage',url);
+    }
+    else
+    {
+        alert("浏览器不支持自动设为首页，请手动设置");
+    }
+}
+</script>
+<a href="javascript:setHomepagea65623a()">设为首页</a><span>|</span><a href="http://en.xjtu.edu.cn/">English Version</a> <!--#endeditable--></div></div>
+<div id="header">
+<div class="face">
+<div class="container">
+<div class="logo"><!--#begineditable viewid="61951" name="LOGO"--><!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="../index.htm"><img src="../images/logo_pic001.png"/></a><!--#endeditable--></div>
+<div class="tips">
+<div class="links">
+<ul><!--#begineditable viewid="1003" name="顶部-链接列表"--><script language="javascript" src="../system/resource/js/dynclicks.js"></script><script language="javascript" src="../system/resource/js/openlink.js"></script><li><a href="../fkdh/zxxs.htm">在校生</a></li>
+<li>|</li>
+<li><a href="../fkdh/jzyg.htm">教职工</a></li>
+<li>|</li>
+<li><a href="../fkdh/xy.htm">校友</a></li>
+<li>|</li>
+<li><a href="../fkdh/ksyfk.htm">考生与访客</a></li>
+<li>|</li>
+<li><a href="../fkdh/hzz_.htm">合作者</a></li>
+<li>|</li>
+<li><a href="http://www.ef.xjtu.edu.cn/">捐赠</a></li>
+<!--#endeditable--></ul></div>
+<div class="clear"></div>
+<div class=""><!--#begineditable name="简单检索2" viewid="65695"--><script type="text/javascript">
+function checksearchu3(type){
+        var keyword = document.getElementById('_w_v_l_s_n_s_kword_show_idu3').value;
+        if(keyword==null||keyword==""){
+            alert("请输入查询内容");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("_w_v_l_s_n_s_kword_show_idu3").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("_w_v_l_s_n_s_kword_show_idu3").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("_w_v_l_s_n_s_kword_idu3").value = base64.encode(document.getElementById("_w_v_l_s_n_s_kword_show_idu3").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("_w_v_l_s_n_s_kword_show_idu3"));
+        return true;
+    } 
+</script>
+<form action="../soso_s.jsp?wbtreeid=1239" id="au3a" method="post" name="au3a" onsubmit="return checksearchu3(1)" style="display: inline" target="_blank">
+<input id="_w_v_l_s_n_s_kword_idu3" name="_w_v_l_s_n_s_kword" type="hidden" value=""/>
+<input id="searchScope" name="searchScope" type="hidden" value="0"/>
+<table align="center" border="0" cellpadding="3" cellspacing="1" width="100%">
+<tr class="listTitle">
+<td align="left" nowrap="nowrap" style="FONT-FAMILY: 宋体;FONT-SIZE: 9pt">
+<input id="_w_v_l_s_n_s_kword_show_idu3" name="_w_v_l_s_n_s_kword_show" onblur="if (value=='') {value='站内搜索'}" onfocus="if(value=='站内搜索') {value=''}" style="line-height:18px;padding:0;margin:0;height:18px;width:215px" type="text" value="站内搜索"/>
+<select id="_w_v_l_s_n_s_kstype_id" name="_w_v_l_s_n_s_kstype">
+<option selected="" value="1">
+                                            全部
+                    </option>
+<option value="2">
+                        标题
+                    </option>
+<option value="3">
+                                             正文
+                    </option>
+<option value="4">
+                        标签
+                    </option>
+<option value="5">
+                                        摘要
+                    </option>
+<option value="6">
+                                        作者
+                    </option>
+<option value="7">
+                                        来源
+                    </option>
+<option value="8">
+                        栏目
+                    </option>
+</select>
+<select id="_w_v_l_s_n_s_kstime_id" name="_w_v_l_s_n_s_kstime">
+<option selected="" value="0">
+                        全部时间
+                    </option>
+<option value="2,019">2019</option>
+<option value="2,018">2018</option>
+<option value="2,017">2017</option>
+<option value="2,016">2016</option>
+<option value="2,015">2015</option>
+<option value="2,014">2014</option>
+<option value="2,013">2013</option>
+<option value="2,012">2012</option>
+<option value="2,011">2011</option>
+<option value="2,010">2010</option>
+<option value="2,009">2009</option>
+<option value="2,008">2008</option>
+<option value="2,007">2007</option>
+<option value="2,006">2006</option>
+<option value="2,005">2005</option>
+</select>
+<input align="absMiddle" src="../images/search.png" style="cursor: hand" type="image"/>
+</td>
+</tr>
+</table>
+</form><script language="javascript" src="../system/resource/js/base64.js"></script><script language="javascript" src="../system/resource/js/formfunc.js"></script>
+<!--#endeditable--></div></div>
+<div class="clear"></div>
+<div class="menu"><!--#begineditable viewid="61954" name="网站导航"--><script src="../js/ddsmoothmenu.js" type="text/javascript"></script>
+<div class="ddsmoothmenu" id="smoothmenu1">
+<ul>
+<li>
+<a class="" href="../index.htm">首页</a>
+</li>
+<li>
+<a class="" href="javascript:;">交大概况</a>
+<ul class="ul_2">
+<li><a href="../jdgk/jdjj.htm"><span>交大简介</span></a></li>
+<li><a href="../jdgk/ydxc.htm"><span>元旦献辞</span></a></li>
+<li><a href="../jdgk/xxld1.htm"><span>学校领导</span></a></li>
+<li><a href="../jdgk/tjsj.htm"><span>统计数据</span></a></li>
+<li><a href="../jdgk/xsyg.htm"><span>校史沿革</span></a></li>
+<li><a href="../jdgk/xxbs.htm"><span>学校标识</span></a></li>
+</ul>
+</li>
+<li>
+<a class="" href="javascript:;">院系设置</a>
+<ul class="ul_3">
+<li><a href="../xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1025"><span>理学院</span></a></li>
+<li><a href="../xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1026"><span>数学学院</span></a></li>
+<li><a href="../xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1048"><span>前沿院</span></a></li>
+<li><a href="../xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1027"><span>机械学院</span></a></li>
+<li><a href="../xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1028"><span>电气学院</span></a></li>
+<li><a href="../xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1029"><span>能动学院</span></a></li>
+<li><a href="../xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1030"><span>电信学部</span></a></li>
+<li><a href="../xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1032"><span>材料学院</span></a></li>
+<li><a href="../xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1033"><span>人居学院</span></a></li>
+<li><a href="../xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1034"><span>生命学院</span></a></li>
+<li><a href="../xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1035"><span>航天学院</span></a></li>
+<li><a href="../xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1036"><span>化工学院</span></a></li>
+<li><a href="../yxy_xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1037"><span>医学部</span></a></li>
+<li><a href="../xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1038"><span>经金学院</span></a></li>
+<li><a href="../xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1047"><span>金禾经济中心</span></a></li>
+<li><a href="../xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1039"><span>管理学院</span></a></li>
+<li><a href="../xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1040"><span>公管学院</span></a></li>
+<li><a href="../xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1041"><span>人文学院</span></a></li>
+<li><a href="../xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1730"><span>新媒体学院</span></a></li>
+<li><a href="../xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1042"><span>马克思主义学院</span></a></li>
+<li><a href="../xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1043"><span>法学院</span></a></li>
+<li><a href="../xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1044"><span>外国语学院</span></a></li>
+<li><a href="../xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1049"><span>体育中心</span></a></li>
+<li><a href="../xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1050"><span>继续教育学院</span></a></li>
+<li><a href="../xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1051"><span>网络教育学院</span></a></li>
+<li><a href="../xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1052"><span>国际教育学院</span></a></li>
+<li><a href="#"><span>创新创业学院</span></a></li>
+</ul>
+</li>
+<li>
+<a class="" href="javascript:;">组织机构</a>
+<ul class="ul_4">
+<li><a href="../zzjg_dqjg.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1054"><span>党群机构</span></a></li>
+<li><a href="../zzjg_xzbm.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1055"><span>行政部门</span></a></li>
+<li><a href="../zzjg_list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1056"><span>直属单位</span></a></li>
+<li><a href="../zzjg_list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1058"><span>附属单位</span></a></li>
+<li><a href="../zzjg_list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=2017"><span>创新港研究院</span></a></li>
+<li><a href="../zzjg_list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1059"><span>其它</span></a></li>
+</ul>
+</li>
+<li>
+<a class="" href="javascript:;">本科书院</a>
+<ul class="ul_5">
+<li><a href="../bksy/pksy.htm"><span>彭康书院</span></a></li>
+<li><a href="../bksy/wzsy.htm"><span>文治书院</span></a></li>
+<li><a href="../bksy/zlsy.htm"><span>宗濂书院</span></a></li>
+<li><a href="../bksy/qdsy.htm"><span>启德书院</span></a></li>
+<li><a href="../bksy/zysy.htm"><span>仲英书院</span></a></li>
+<li><a href="../bksy/lzsy.htm"><span>励志书院</span></a></li>
+<li><a href="../bksy/cssy.htm"><span>崇实书院</span></a></li>
+<li><a href="../bksy/nysy.htm"><span>南洋书院</span></a></li>
+<li><a href="../bksy/qxssy.htm"><span>钱学森书院</span></a></li>
+</ul>
+</li>
+<li>
+<a class="" href="javascript:;">医学教育</a>
+<ul class="ul_6" style="width:360px !important">
+<table border="0" cellpadding="1" cellspacing="0" width="360">
+<tr>
+<td align="center" colspan="2"><a href="../new_yxb_xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1757" title="医学部"><span style="font-size:18px;font-weight:bold">医学部</span></a></td>
+</tr>
+<tr>
+<td><a href="../new_son_xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1759" target="_blank">基础医学院 </a></td>
+<td><a href="http://yxbzhb.xjtu.edu.cn" target="_blank">综合办公室 </a></td>
+</tr>
+<tr>
+<td><a href="../new_son_xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1760" target="_blank">公共卫生学院 </a></td>
+<td><a href="http://yxbpyc.xjtu.edu.cn" target="_blank">人才培养处</a></td>
+</tr>
+<tr>
+<td><a href="../new_son_xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1761" target="_blank">药学院</a></td>
+<td><a href="http://hrm.xjtu.edu.cn" target="_blank">人力资源处</a></td>
+</tr>
+<tr>
+<td><a href="../new_son_xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1762" target="_blank">法医学院 </a></td>
+<td><a href="http://yxbkjc.xjtu.edu.cn" target="_blank">科学技术与学科建设处</a></td>
+</tr>
+<tr>
+<td><a href="../new_son_xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1763" target="_blank">护理学系</a></td>
+<td><a href="http://ygc.xjtu.edu.cn" target="_blank">医院管理处</a></td>
+</tr>
+<tr>
+<td><a href="../new_son_xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1764" target="_blank">第一临床医学院(第一附属医院)</a></td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="../new_son_xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1765" target="_blank">第二临床医学院(第二附属医院)</a></td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="../new_son_xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1766" target="_blank">口腔医学院(口腔医院)</a></td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="../new_son_xynr.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1897" target="_blank">全球健康研究院</a></td>
+<td> </td>
+</tr>
+</table>
+</ul>
+</li>
+<li>
+<a class="" href="javascript:;">科学研究</a>
+<ul class="ul_7">
+<li><a href="../kxyj/kjgk.htm"><span>科技概况</span></a></li>
+<li><a href="../kxyj/kyjd.htm"><span>科研基地</span></a></li>
+<li><a href="http://std.xjtu.edu.cn/cxyhz/sy.htm" target="_blank"><span>产学研合作</span></a></li>
+<li><a href="../kxyj/kycg.htm"><span>科研成果</span></a></li>
+<li><a href="http://meeting.xjtu.edu.cn/" target="_blank"><span>学术资源</span></a></li>
+<li><a href="../kxyj_list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1093"><span>学术期刊</span></a></li>
+<li><a href="http://equip.xjtu.edu.cn" target="_blank"><span>仪器设备</span></a></li>
+<li><a href="../kxyj_list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1095"><span>协同创新中心</span></a></li>
+<li><a href="http://stdmis.xjtu.edu.cn/"><span>科研系统</span></a></li>
+</ul>
+</li>
+<li>
+<a class="" href="javascript:;">师资队伍</a>
+<ul class="ul_8">
+<li><a href="../szdw1/szjs.htm"><span>师资介绍</span></a></li>
+<li><a href="../szdw_lyys.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1062"><span>两院院士</span></a></li>
+<li><a href="../cxtd.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1064"><span>创新团队</span></a></li>
+<li><a href="../szdw_zhimjs.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1065"><span>知名教授</span></a></li>
+<li><a href="../szdu_bssds.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1066"><span>博士生导师</span></a></li>
+<li><a href="http://pdc.xjtu.edu.cn/"><span>博士后站</span></a></li>
+<li><a href="http://hr.xjtu.edu.cn/zoxxlbye.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1017"><span>招聘信息</span></a></li>
+</ul>
+</li>
+<li>
+<a class="" href="javascript:;">人才培养</a>
+<ul class="ul_9">
+<li><a href="../rcpy/xsjy.htm"><span>学生教育</span></a></li>
+<li><a href="../rcpy/jxjd.htm"><span>教学基地</span></a></li>
+<li><a href="../rcpy/bksjy.htm"><span>本科生教育</span></a></li>
+<li><a href="../rcpy/yjsjy.htm"><span>研究生教育</span></a></li>
+<li><a href="../rcpy/lxsjy.htm"><span>留学生教育</span></a></li>
+<li><a href="../rcpy/ycjy.htm"><span>远程教育</span></a></li>
+<li><a href="../rcpy/jxjy.htm"><span>继续教育</span></a></li>
+<li><a href="../rcpy/gfsjy.htm"><span>国防生教育</span></a></li>
+</ul>
+</li>
+<li>
+<a class="" href="javascript:;">国际交流</a>
+<ul class="ul_10">
+<li><a href="../gjjl/gjhzyjlc.htm"><span>国际合作与交流处</span></a></li>
+<li><a href="../gjjl/sczldxlm.htm"><span>丝绸之路大学联盟</span></a></li>
+<li><a href="../gjjl/gjjyxy.htm"><span>国际教育学院</span></a></li>
+<li><a href="../gjjl/hwlxfwzx.htm"><span>海外留学服务中心</span></a></li>
+<li><a href="../gjjl/xjlwpdx.htm"><span>西交利物浦大学</span></a></li>
+</ul>
+</li>
+<li>
+<a class="" href="javascript:;">图书档案</a>
+<ul class="ul_11">
+<li><a href="../tsda/qxstsg.htm"><span>钱学森图书馆</span></a></li>
+<li><a href="../tsda/dag_bwg.htm"><span>档案馆、博物馆</span></a></li>
+<li><a href="../tsda/jdxqbwg.htm" target="_blank"><span>交大西迁博物馆</span></a></li>
+</ul>
+</li>
+<li>
+<a class="" href="javascript:;">校友服务</a>
+<ul class="ul_12">
+<li><a href="http://alumni.xjtu.edu.cn/" target="_blank"><span>交大校友网</span></a></li>
+<li><a href="ldzc.htm"><span>领导致辞</span></a></li>
+<li><a href="zmxy.htm"><span>知名校友</span></a></li>
+<li><a href="http://www.ef.xjtu.edu.cn/" target="_blank"><span>基金会</span></a></li>
+</ul>
+</li>
+<li>
+<a class="" href="javascript:;">校园生活</a>
+<ul class="ul_13">
+<li><a href="http://gonghui.xjtu.edu.cn/"><span>工会活动</span></a></li>
+<li><a href="../xysh/xsdj.htm"><span>学生党建</span></a></li>
+<li><a href="../xysh/xsh.htm"><span>学生会</span></a></li>
+<li><a href="../xysh/xywh.htm"><span>校园文化</span></a></li>
+<li><a href="../xysh/jxj.htm"><span>奖学金</span></a></li>
+<li><a href="../xysh/qgzx.htm"><span>勤工助学</span></a></li>
+<li><a href="../xysh/xswz.htm"><span>学生网站</span></a></li>
+<li><a href="../xysh/xysp.htm"><span>校园视频</span></a></li>
+</ul>
+</li>
+<li>
+<a class="" href="javascript:;">信息服务</a>
+<ul class="ul_14">
+<li><a href="../xxfw/xyjbjs.htm"><span>校园基本建设</span></a></li>
+<li><a href="../xxfw/xywljs.htm"><span>校园网络建设</span></a></li>
+<li><a href="../xxfw/xytxjs.htm"><span>校园通讯建设</span></a></li>
+<li><a href="../xxfw/xyy.htm"><span>校医院</span></a></li>
+<li><a href="https://one.xjtu.edu.cn/EIP/schoolCalendar/schoolCalendar1.html" target="_blank"><span>交大校历</span></a></li>
+<li><a href="../xxfw/hqfw.htm"><span>后勤服务</span></a></li>
+<li><a href="../xxfw/cydh.htm"><span>常用电话</span></a></li>
+<li><a href="http://nic.xjtu.edu.cn/fwzn/sdgj.htm" target="_blank"><span>病毒防治</span></a></li>
+<li><a href="http://ms.xjtu.edu.cn/" target="_blank"><span>正版软件</span></a></li>
+<li><a href="../xxfw/ydcg.htm"><span>运动场馆</span></a></li>
+<li><a href="http://gis.xjtu.edu.cn/" target="_blank"><span>校园地图</span></a></li>
+<li><a href="../xxfw/cylj.htm"><span>常用链接</span></a></li>
+<li><a href="../xxfw/xyfw.htm"><span>校园风物</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<script type="text/javascript">
+ddsmoothmenu.init({
+mainmenuid: "smoothmenu1", //menu DIV id
+orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+classname: 'ddsmoothmenu', //class added to menu's outer DIV
+//customtheme: ["#1c5a80", "#18374a"],
+contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+})
+</script><!--#endeditable--></div></div></div></div>
+<div id="main">
+<div style="background: url(../images/beijing.jpg)">
+<div class="huise"><div class="where container"><!--#begineditable name="当前位置" viewid="61965"--><div class="huise"></div>
+当前位置: 
+        <a href="../index.htm">首页</a>
+        &gt;&gt;
+        <a href="../list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1007">校友服务</a>
+        &gt;&gt;
+        <a href="zmxy.htm">知名校友</a>
+<!--#endeditable--></div></div>
+<div class="container" id="beijing">
+<div class="sidebar">
+<div class="list_title01"><!--#begineditable viewid="62091" name="装饰文字"-->校友服务<!--#endeditable--></div><!--#begineditable viewid="61966" name="网站二级导航"--><script>
+       $(function(){
+            var a=$('.content').height();
+            var b=$('.zheight').height();
+            if(a > b){
+            $('.zheight').css('height', $('.content').height() - 50);
+            }
+        })
+</script>
+<ul class="zheight">
+<li class=""><a href="http://alumni.xjtu.edu.cn/" target="_blank" title="交大校友网"><span>交大校友网</span></a></li>
+<li class=""><a href="ldzc.htm" title="领导致辞"><span>领导致辞</span></a></li>
+<li class="click" style="border-left:5px rgb(13, 89, 167) solid;background-color:#d3d3d3;color:#0c58a6"><a href="zmxy.htm" style="color:#0c58a6" title="知名校友"><span>知名校友</span></a></li>
+<li class="last"><a href="http://www.ef.xjtu.edu.cn/" target="_blank" title="基金会"><span>基金会</span></a></li>
+</ul>
+<div class="clear"></div><!--#endeditable--></div>
+<div class="content">
+<div class="title"><!--#begineditable viewid="61980" name="栏目banner图片"-->
+<table border="0" cellpadding="0" cellspacing="0" class="winstyle61980">
+<tr>
+<td><img border="0" height="252" hspace="0" src="../images/tutu6.jpg" vspace="0" width="955"/></td>
+</tr>
+</table><!--#endeditable--></div>
+<div class="text">
+<div class="clear"></div><!--#begineditable viewid="65458" name="标题列表-两院院士"--><div class="zmxy_lm">
+<ul>
+<span>  两院院士<span> <font style="font-size:12px;color:#333;font-weight:normal">（按入校年排序）</font>
+<hr/>
+<li><a href="../info/1732/205297.htm" target="_blank" title="张  维">张  维</a></li>
+<li><a href="../info/1732/205298.htm" target="_blank" title="严  恺">严  恺</a></li>
+<li><a href="../info/1732/205299.htm" target="_blank" title="张光斗">张光斗</a></li>
+<li><a href="../info/1732/205300.htm" target="_blank" title="钱学森">钱学森</a></li>
+<li><a href="../info/1732/205301.htm" target="_blank" title="邵象华">邵象华</a></li>
+<li><a href="../info/1732/205302.htm" target="_blank" title="顾诵芬">顾诵芬</a></li>
+<li><a href="../info/1732/205303.htm" target="_blank" title="陈俊亮">陈俊亮</a></li>
+</span></span></ul>
+<div class="clear"></div>
+</div><script>_showDynClickBatch(['dynclicks_u9_205297','dynclicks_u9_205298','dynclicks_u9_205299','dynclicks_u9_205300','dynclicks_u9_205301','dynclicks_u9_205302','dynclicks_u9_205303'],[205297,205298,205299,205300,205301,205302,205303],"wbnews", 1151962237)</script>
+<!--#endeditable--><!--#begineditable viewid="65456" name="标题列表-科学院"--><div class="zmxy_lm">
+<ul>
+<span>  中国科学院院士<span> <font style="font-size:12px;color:#333;font-weight:normal">（按入校年排序）</font>
+<hr/>
+<li><a href="../info/1728/197999.htm" target="_blank" title="沈志远">沈志远</a></li>
+<li><a href="../info/1728/198000.htm" target="_blank" title="戴芳澜">戴芳澜</a></li>
+<li><a href="../info/1728/198001.htm" target="_blank" title="茅以升">茅以升</a></li>
+<li><a href="../info/1728/198002.htm" target="_blank" title="周 仁">周 仁</a></li>
+<li><a href="../info/1728/198003.htm" target="_blank" title="张德庆">张德庆</a></li>
+<li><a href="../info/1728/198004.htm" target="_blank" title="朱物华">朱物华</a></li>
+<li><a href="../info/1728/198005.htm" target="_blank" title="方  俊">方  俊</a></li>
+<li><a href="../info/1728/198006.htm" target="_blank" title="汪菊潜">汪菊潜</a></li>
+<li><a href="../info/1728/198007.htm" target="_blank" title="蔡金涛">蔡金涛</a></li>
+<li><a href="../info/1728/198008.htm" target="_blank" title="周惠久">周惠久</a></li>
+<li><a href="../info/1728/198009.htm" target="_blank" title="陈永龄">陈永龄</a></li>
+<li><a href="../info/1728/198010.htm" target="_blank" title="林同炎">林同炎</a></li>
+<li><a href="../info/1728/198011.htm" target="_blank" title="李文采">李文采</a></li>
+<li><a href="../info/1728/198012.htm" target="_blank" title="褚应璜">褚应璜</a></li>
+<li><a href="../info/1728/198013.htm" target="_blank" title="丁舜年">丁舜年</a></li>
+<li><a href="../info/1728/198014.htm" target="_blank" title="王之卓">王之卓</a></li>
+<li><a href="../info/1728/198015.htm" target="_blank" title="马寅初">马寅初</a></li>
+<li><a href="../info/1728/198016.htm" target="_blank" title="程孝刚">程孝刚</a></li>
+<li><a href="../info/1728/198017.htm" target="_blank" title="刘仙洲">刘仙洲</a></li>
+<li><a href="../info/1728/198018.htm" target="_blank" title="张  维">张  维</a></li>
+<li><a href="../info/1728/198019.htm" target="_blank" title="严  恺">严  恺</a></li>
+<li><a href="../info/1728/198020.htm" target="_blank" title="刘恢先">刘恢先</a></li>
+<li><a href="../info/1728/198021.htm" target="_blank" title="钱钟韩">钱钟韩</a></li>
+<li><a href="../info/1728/198022.htm" target="_blank" title="张  煦">张  煦</a></li>
+<li><a href="../info/1728/198023.htm" target="_blank" title="张钟俊">张钟俊</a></li>
+<li><a href="../info/1728/198024.htm" target="_blank" title="钱保功">钱保功</a></li>
+<li><a href="../info/1728/198025.htm" target="_blank" title="朱  夏">朱  夏</a></li>
+<li><a href="../info/1728/198026.htm" target="_blank" title="吴学周">吴学周</a></li>
+<li><a href="../info/1728/198027.htm" target="_blank" title="谈镐生">谈镐生</a></li>
+<li><a href="../info/1728/198028.htm" target="_blank" title="陈学俊">陈学俊</a></li>
+<li><a href="../info/1728/198029.htm" target="_blank" title="吴文俊">吴文俊</a></li>
+<li><a href="../info/1728/198030.htm" target="_blank" title="曹建猷">曹建猷</a></li>
+<li><a href="../info/1728/198031.htm" target="_blank" title="杨嘉墀">杨嘉墀</a></li>
+<li><a href="../info/1728/198032.htm" target="_blank" title="顾翼东">顾翼东</a></li>
+<li><a href="../info/1728/198033.htm" target="_blank" title="林秉南">林秉南</a></li>
+<li><a href="../info/1728/198034.htm" target="_blank" title="徐采栋">徐采栋</a></li>
+<li><a href="../info/1728/198035.htm" target="_blank" title="肖纪美">肖纪美</a></li>
+<li><a href="../info/1728/198036.htm" target="_blank" title="徐芝纶">徐芝纶</a></li>
+<li><a href="../info/1728/198037.htm" target="_blank" title="高小霞">高小霞</a></li>
+<li><a href="../info/1728/198038.htm" target="_blank" title="徐光宪">徐光宪</a></li>
+<li><a href="../info/1728/198039.htm" target="_blank" title="杨  栖">杨  栖</a></li>
+<li><a href="../info/1728/198040.htm" target="_blank" title="陈能宽">陈能宽</a></li>
+<li><a href="../info/1728/198041.htm" target="_blank" title="庄逢甘">庄逢甘</a></li>
+<li><a href="../info/1728/198042.htm" target="_blank" title="胡聿贤">胡聿贤</a></li>
+<li><a href="../info/1728/198043.htm" target="_blank" title="胡济民">胡济民</a></li>
+<li><a href="../info/1728/198044.htm" target="_blank" title="周同庆">周同庆</a></li>
+<li><a href="../info/1728/198045.htm" target="_blank" title="许学彦">许学彦</a></li>
+<li><a href="../info/1728/198046.htm" target="_blank" title="徐晓白">徐晓白</a></li>
+<li><a href="../info/1728/198047.htm" target="_blank" title="李正武">李正武</a></li>
+<li><a href="../info/1728/198048.htm" target="_blank" title="夏培肃">夏培肃</a></li>
+<li><a href="../info/1728/198049.htm" target="_blank" title="何祚庥">何祚庥</a></li>
+<li><a href="../info/1728/198050.htm" target="_blank" title="胡和生">胡和生</a></li>
+<li><a href="../info/1728/198051.htm" target="_blank" title="汪  耕">汪  耕</a></li>
+<li><a href="../info/1728/198052.htm" target="_blank" title="孙  钧">孙  钧</a></li>
+<li><a href="../info/1728/198053.htm" target="_blank" title="周尧和">周尧和</a></li>
+<li><a href="../info/1728/198054.htm" target="_blank" title="曾昭抡">曾昭抡</a></li>
+<li><a href="../info/1728/198055.htm" target="_blank" title="张大煜">张大煜</a></li>
+<li><a href="../info/1728/198056.htm" target="_blank" title="黄宏嘉">黄宏嘉</a></li>
+<li><a href="../info/1728/198057.htm" target="_blank" title="吴承康">吴承康</a></li>
+<li><a href="../info/1728/198058.htm" target="_blank" title="唐九华">唐九华</a></li>
+<li><a href="../info/1728/198059.htm" target="_blank" title="胡仁宇">胡仁宇</a></li>
+<li><a href="../info/1728/198060.htm" target="_blank" title="匡定波">匡定波</a></li>
+<li><a href="../info/1728/198061.htm" target="_blank" title="徐如人">徐如人</a></li>
+<li><a href="../info/1728/198062.htm" target="_blank" title="王景唐">王景唐</a></li>
+<li><a href="../info/1728/198063.htm" target="_blank" title="王方定">王方定</a></li>
+<li><a href="../info/1728/198064.htm" target="_blank" title="袁见齐">袁见齐</a></li>
+<li><a href="../info/1728/198065.htm" target="_blank" title="吴有训">吴有训</a></li>
+<li><a href="../info/1728/198066.htm" target="_blank" title="苏元复">苏元复</a></li>
+<li><a href="../info/1728/198067.htm" target="_blank" title="王希季">王希季</a></li>
+<li><a href="../info/1728/198068.htm" target="_blank" title="吴杭生">吴杭生</a></li>
+<li><a href="../info/1728/198069.htm" target="_blank" title="胡  英">胡  英</a></li>
+<li><a href="../info/1728/198070.htm" target="_blank" title="沈珠江">沈珠江</a></li>
+<li><a href="../info/1728/198071.htm" target="_blank" title="方守贤">方守贤</a></li>
+<li><a href="../info/1728/198078.htm" target="_blank" title="徐祖耀">徐祖耀</a></li>
+<li><a href="../info/1728/198079.htm" target="_blank" title="陈国良">陈国良</a></li>
+<li><a href="../info/1728/198076.htm" target="_blank" title="刘高联">刘高联</a></li>
+<li><a href="../info/1728/198075.htm" target="_blank" title="李大潜">李大潜</a></li>
+<li><a href="../info/1728/198074.htm" target="_blank" title="周志宏">周志宏</a></li>
+<li><a href="../info/1728/198073.htm" target="_blank" title="曹春晓">曹春晓</a></li>
+<li><a href="../info/1728/198072.htm" target="_blank" title="蔡睿贤">蔡睿贤</a></li>
+<li><a href="../info/1728/222035.htm" target="_blank" title="王锡凡">王锡凡</a></li>
+<li><a href="../info/1728/198077.htm" target="_blank" title="姚  熹">姚  熹</a></li>
+<li><a href="../info/1728/198081.htm" target="_blank" title="陶文铨">陶文铨</a></li>
+<li><a href="../info/1728/198080.htm" target="_blank" title="熊有伦">熊有伦</a></li>
+<li><a href="../info/1728/198083.htm" target="_blank" title="程时杰">程时杰</a></li>
+<li><a href="../info/1728/198082.htm" target="_blank" title="陈桂林">陈桂林</a></li>
+<li><a href="../info/1728/198084.htm" target="_blank" title="李济生">李济生</a></li>
+<li><a href="../info/1728/198085.htm" target="_blank" title="徐宗本">徐宗本</a></li>
+<li><a href="../info/1728/482363.htm" target="_blank" title="高华健">高华健</a></li>
+<li><a href="../info/1728/1960200.htm" target="_blank" title="郭烈锦">郭烈锦</a></li>
+<li><a href="../info/1728/198086.htm" target="_blank" title="韩启德">韩启德</a></li>
+<li><a href="../info/1728/198087.htm" target="_blank" title="谭铁牛">谭铁牛</a></li>
+<li><a href="../info/1728/482364.htm" target="_blank" title="何雅玲">何雅玲</a></li>
+<li><a href="../info/1728/482361.htm" target="_blank" title="江  松">江  松</a></li>
+<li><a href="../info/1728/1960199.htm" target="_blank" title="管晓宏">管晓宏</a></li>
+<li><a href="../info/1728/482362.htm" target="_blank" title="房建成">房建成</a></li>
+<li><a href="../info/1728/1960201.htm" target="_blank" title="郭万林">郭万林</a></li>
+<li><a href="../info/1728/198088.htm" target="_blank" title="郝  跃">郝  跃</a></li>
+<li><a href="../info/1728/198089.htm" target="_blank" title="安芷生">安芷生</a></li>
+<li><a href="../info/1728/198090.htm" target="_blank" title="侯  洵">侯  洵</a></li>
+</span></span></ul>
+<div class="clear"></div>
+</div><script>_showDynClickBatch(['dynclicks_u10_197999','dynclicks_u10_198000','dynclicks_u10_198001','dynclicks_u10_198002','dynclicks_u10_198003','dynclicks_u10_198004','dynclicks_u10_198005','dynclicks_u10_198006','dynclicks_u10_198007','dynclicks_u10_198008','dynclicks_u10_198009','dynclicks_u10_198010','dynclicks_u10_198011','dynclicks_u10_198012','dynclicks_u10_198013','dynclicks_u10_198014','dynclicks_u10_198015','dynclicks_u10_198016','dynclicks_u10_198017','dynclicks_u10_198018','dynclicks_u10_198019','dynclicks_u10_198020','dynclicks_u10_198021','dynclicks_u10_198022','dynclicks_u10_198023','dynclicks_u10_198024','dynclicks_u10_198025','dynclicks_u10_198026','dynclicks_u10_198027','dynclicks_u10_198028','dynclicks_u10_198029','dynclicks_u10_198030','dynclicks_u10_198031','dynclicks_u10_198032','dynclicks_u10_198033','dynclicks_u10_198034','dynclicks_u10_198035','dynclicks_u10_198036','dynclicks_u10_198037','dynclicks_u10_198038','dynclicks_u10_198039','dynclicks_u10_198040','dynclicks_u10_198041','dynclicks_u10_198042','dynclicks_u10_198043','dynclicks_u10_198044','dynclicks_u10_198045','dynclicks_u10_198046','dynclicks_u10_198047','dynclicks_u10_198048','dynclicks_u10_198049','dynclicks_u10_198050','dynclicks_u10_198051','dynclicks_u10_198052','dynclicks_u10_198053','dynclicks_u10_198054','dynclicks_u10_198055','dynclicks_u10_198056','dynclicks_u10_198057','dynclicks_u10_198058','dynclicks_u10_198059','dynclicks_u10_198060','dynclicks_u10_198061','dynclicks_u10_198062','dynclicks_u10_198063','dynclicks_u10_198064','dynclicks_u10_198065','dynclicks_u10_198066','dynclicks_u10_198067','dynclicks_u10_198068','dynclicks_u10_198069','dynclicks_u10_198070','dynclicks_u10_198071','dynclicks_u10_198078','dynclicks_u10_198079','dynclicks_u10_198076','dynclicks_u10_198075','dynclicks_u10_198074','dynclicks_u10_198073','dynclicks_u10_198072','dynclicks_u10_222035','dynclicks_u10_198077','dynclicks_u10_198081','dynclicks_u10_198080','dynclicks_u10_198083','dynclicks_u10_198082','dynclicks_u10_198084','dynclicks_u10_198085','dynclicks_u10_482363','dynclicks_u10_1960200','dynclicks_u10_198086','dynclicks_u10_198087','dynclicks_u10_482364','dynclicks_u10_482361','dynclicks_u10_1960199','dynclicks_u10_482362','dynclicks_u10_1960201','dynclicks_u10_198088','dynclicks_u10_198089','dynclicks_u10_198090'],[197999,198000,198001,198002,198003,198004,198005,198006,198007,198008,198009,198010,198011,198012,198013,198014,198015,198016,198017,198018,198019,198020,198021,198022,198023,198024,198025,198026,198027,198028,198029,198030,198031,198032,198033,198034,198035,198036,198037,198038,198039,198040,198041,198042,198043,198044,198045,198046,198047,198048,198049,198050,198051,198052,198053,198054,198055,198056,198057,198058,198059,198060,198061,198062,198063,198064,198065,198066,198067,198068,198069,198070,198071,198078,198079,198076,198075,198074,198073,198072,222035,198077,198081,198080,198083,198082,198084,198085,482363,1960200,198086,198087,482364,482361,1960199,482362,1960201,198088,198089,198090],"wbnews", 1151962237)</script>
+<!--#endeditable--><!--#begineditable viewid="65455" name="标题列表-工程院"--><div class="zmxy_lm">
+<ul>
+<span>  中国工程院院士<span> <font style="font-size:12px;color:#333;font-weight:normal">（按入校年排序）</font>
+<hr/>
+<li><a href="../info/1729/197909.htm" target="_blank" title="罗沛霖">罗沛霖</a></li>
+<li><a href="../info/1729/197910.htm" target="_blank" title="侯德原">侯德原</a></li>
+<li><a href="../info/1729/197911.htm" target="_blank" title="吴祖垲">吴祖垲</a></li>
+<li><a href="../info/1729/197912.htm" target="_blank" title="孙俊人">孙俊人</a></li>
+<li><a href="../info/1729/197913.htm" target="_blank" title="杜庆华">杜庆华</a></li>
+<li><a href="../info/1729/197914.htm" target="_blank" title="高鼎三">高鼎三</a></li>
+<li><a href="../info/1729/197915.htm" target="_blank" title="顾夏声">顾夏声</a></li>
+<li><a href="../info/1729/197916.htm" target="_blank" title="许国志">许国志</a></li>
+<li><a href="../info/1729/197917.htm" target="_blank" title="周炯槃">周炯槃</a></li>
+<li><a href="../info/1729/197918.htm" target="_blank" title="邱竹贤">邱竹贤</a></li>
+<li><a href="../info/1729/197919.htm" target="_blank" title="陈德仁">陈德仁</a></li>
+<li><a href="../info/1729/197920.htm" target="_blank" title="屠善澄">屠善澄</a></li>
+<li><a href="../info/1729/197921.htm" target="_blank" title="童志鹏">童志鹏</a></li>
+<li><a href="../info/1729/197922.htm" target="_blank" title="李天和">李天和</a></li>
+<li><a href="../info/1729/197923.htm" target="_blank" title="谭靖夷">谭靖夷</a></li>
+<li><a href="../info/1729/197924.htm" target="_blank" title="陈太一">陈太一</a></li>
+<li><a href="../info/1729/197925.htm" target="_blank" title="周  镜">周  镜</a></li>
+<li><a href="../info/1729/197926.htm" target="_blank" title="曹楚生">曹楚生</a></li>
+<li><a href="../info/1729/197927.htm" target="_blank" title="冯叔瑜">冯叔瑜</a></li>
+<li><a href="../info/1729/197928.htm" target="_blank" title="胡光镇">胡光镇</a></li>
+<li><a href="../info/1729/197929.htm" target="_blank" title="陈先霖">陈先霖</a></li>
+<li><a href="../info/1729/197930.htm" target="_blank" title="赵国藩">赵国藩</a></li>
+<li><a href="../info/1729/197931.htm" target="_blank" title="徐乾清">徐乾清</a></li>
+<li><a href="../info/1729/197932.htm" target="_blank" title="黄旭华">黄旭华</a></li>
+<li><a href="../info/1729/197933.htm" target="_blank" title="陈志恺">陈志恺</a></li>
+<li><a href="../info/1729/197934.htm" target="_blank" title="陈明致">陈明致</a></li>
+<li><a href="../info/1729/197935.htm" target="_blank" title="钱皋韵">钱皋韵</a></li>
+<li><a href="../info/1729/197936.htm" target="_blank" title="章基嘉">章基嘉</a></li>
+<li><a href="../info/1729/197937.htm" target="_blank" title="屠基达">屠基达</a></li>
+<li><a href="../info/1729/197938.htm" target="_blank" title="朱伯芳">朱伯芳</a></li>
+<li><a href="../info/1729/197939.htm" target="_blank" title="刘建航">刘建航</a></li>
+<li><a href="../info/1729/197940.htm" target="_blank" title="陈敬熊">陈敬熊</a></li>
+<li><a href="../info/1729/197941.htm" target="_blank" title="唐任远">唐任远</a></li>
+<li><a href="../info/1729/197942.htm" target="_blank" title="李乐民">李乐民</a></li>
+<li><a href="../info/1729/197943.htm" target="_blank" title="季国标">季国标</a></li>
+<li><a href="../info/1729/197944.htm" target="_blank" title="毛用泽">毛用泽</a></li>
+<li><a href="../info/1729/197945.htm" target="_blank" title="朱英浩">朱英浩</a></li>
+<li><a href="../info/1729/197946.htm" target="_blank" title="沙庆林">沙庆林</a></li>
+<li><a href="../info/1729/197947.htm" target="_blank" title="翁史烈">翁史烈</a></li>
+<li><a href="../info/1729/197948.htm" target="_blank" title="汪应洛">汪应洛</a></li>
+<li><a href="../info/1729/197949.htm" target="_blank" title="屈梁生">屈梁生</a></li>
+<li><a href="../info/1729/197950.htm" target="_blank" title="李乐民">李乐民</a></li>
+<li><a href="../info/1729/197951.htm" target="_blank" title="陈士橹">陈士橹</a></li>
+<li><a href="../info/1729/197952.htm" target="_blank" title="秦裕琨">秦裕琨</a></li>
+<li><a href="../info/1729/197953.htm" target="_blank" title="沈闻孙">沈闻孙</a></li>
+<li><a href="../info/1729/197954.htm" target="_blank" title="阮雪榆">阮雪榆</a></li>
+<li><a href="../info/1729/197955.htm" target="_blank" title="赵梓森">赵梓森</a></li>
+<li><a href="../info/1729/197956.htm" target="_blank" title="顾懋祥">顾懋祥</a></li>
+<li><a href="../info/1729/197957.htm" target="_blank" title="姚福生">姚福生</a></li>
+<li><a href="../info/1729/197958.htm" target="_blank" title="周永茂">周永茂</a></li>
+<li><a href="../info/1729/197959.htm" target="_blank" title="谢友柏">谢友柏</a></li>
+<li><a href="../info/1729/197960.htm" target="_blank" title="徐秉汉">徐秉汉</a></li>
+<li><a href="../info/1729/197961.htm" target="_blank" title="涂铭旌">涂铭旌</a></li>
+<li><a href="../info/1729/197962.htm" target="_blank" title="关兴亚">关兴亚</a></li>
+<li><a href="../info/1729/197963.htm" target="_blank" title="陈  新">陈  新</a></li>
+<li><a href="../info/1729/197964.htm" target="_blank" title="董石麟">董石麟</a></li>
+<li><a href="../info/1729/197965.htm" target="_blank" title="蒋新松">蒋新松</a></li>
+<li><a href="../info/1729/197966.htm" target="_blank" title="林宗虎">林宗虎</a></li>
+<li><a href="../info/1729/197967.htm" target="_blank" title="李伯虎">李伯虎</a></li>
+<li><a href="../info/1729/197968.htm" target="_blank" title="潘健生">潘健生</a></li>
+<li><a href="../info/1729/197969.htm" target="_blank" title="李鹤林">李鹤林</a></li>
+<li><a href="../info/1729/197970.htm" target="_blank" title="刘友梅">刘友梅</a></li>
+<li><a href="../info/1729/197972.htm" target="_blank" title="叶尚福">叶尚福</a></li>
+<li><a href="../info/1729/197971.htm" target="_blank" title="雷清泉">雷清泉</a></li>
+<li><a href="../info/1729/197976.htm" target="_blank" title="苏君红">苏君红</a></li>
+<li><a href="../info/1729/197975.htm" target="_blank" title="龙乐豪">龙乐豪</a></li>
+<li><a href="../info/1729/197974.htm" target="_blank" title="闻雪友">闻雪友</a></li>
+<li><a href="../info/1729/197973.htm" target="_blank" title="陈亚珠">陈亚珠</a></li>
+<li><a href="../info/1729/197979.htm" target="_blank" title="李佩成">李佩成</a></li>
+<li><a href="../info/1729/197978.htm" target="_blank" title="邱爱慈">邱爱慈</a></li>
+<li><a href="../info/1729/197977.htm" target="_blank" title="孙九林">孙九林</a></li>
+<li><a href="../info/1729/197980.htm" target="_blank" title="郑南宁">郑南宁</a></li>
+<li><a href="../info/1729/197988.htm" target="_blank" title="蒋庄德">蒋庄德</a></li>
+<li><a href="../info/1729/197989.htm" target="_blank" title="孙才新">孙才新</a></li>
+<li><a href="../info/1729/482365.htm" target="_blank" title="王华明">王华明</a></li>
+<li><a href="../info/1729/197992.htm" target="_blank" title="卢秉恒">卢秉恒</a></li>
+<li><a href="../info/1729/482366.htm" target="_blank" title="陈政清">陈政清</a></li>
+<li><a href="../info/1729/1960197.htm" target="_blank" title="汤广福">汤广福</a></li>
+<li><a href="../info/1729/197993.htm" target="_blank" title="丛  斌">丛  斌</a></li>
+<li><a href="../info/1729/197994.htm" target="_blank" title="柳百成">柳百成</a></li>
+</span></span></ul>
+<div class="clear"></div>
+</div><script>_showDynClickBatch(['dynclicks_u11_197909','dynclicks_u11_197910','dynclicks_u11_197911','dynclicks_u11_197912','dynclicks_u11_197913','dynclicks_u11_197914','dynclicks_u11_197915','dynclicks_u11_197916','dynclicks_u11_197917','dynclicks_u11_197918','dynclicks_u11_197919','dynclicks_u11_197920','dynclicks_u11_197921','dynclicks_u11_197922','dynclicks_u11_197923','dynclicks_u11_197924','dynclicks_u11_197925','dynclicks_u11_197926','dynclicks_u11_197927','dynclicks_u11_197928','dynclicks_u11_197929','dynclicks_u11_197930','dynclicks_u11_197931','dynclicks_u11_197932','dynclicks_u11_197933','dynclicks_u11_197934','dynclicks_u11_197935','dynclicks_u11_197936','dynclicks_u11_197937','dynclicks_u11_197938','dynclicks_u11_197939','dynclicks_u11_197940','dynclicks_u11_197941','dynclicks_u11_197942','dynclicks_u11_197943','dynclicks_u11_197944','dynclicks_u11_197945','dynclicks_u11_197946','dynclicks_u11_197947','dynclicks_u11_197948','dynclicks_u11_197949','dynclicks_u11_197950','dynclicks_u11_197951','dynclicks_u11_197952','dynclicks_u11_197953','dynclicks_u11_197954','dynclicks_u11_197955','dynclicks_u11_197956','dynclicks_u11_197957','dynclicks_u11_197958','dynclicks_u11_197959','dynclicks_u11_197960','dynclicks_u11_197961','dynclicks_u11_197962','dynclicks_u11_197963','dynclicks_u11_197964','dynclicks_u11_197965','dynclicks_u11_197966','dynclicks_u11_197967','dynclicks_u11_197968','dynclicks_u11_197969','dynclicks_u11_197970','dynclicks_u11_197972','dynclicks_u11_197971','dynclicks_u11_197976','dynclicks_u11_197975','dynclicks_u11_197974','dynclicks_u11_197973','dynclicks_u11_197979','dynclicks_u11_197978','dynclicks_u11_197977','dynclicks_u11_197980','dynclicks_u11_197988','dynclicks_u11_197989','dynclicks_u11_482365','dynclicks_u11_197992','dynclicks_u11_482366','dynclicks_u11_1960197','dynclicks_u11_197993','dynclicks_u11_197994'],[197909,197910,197911,197912,197913,197914,197915,197916,197917,197918,197919,197920,197921,197922,197923,197924,197925,197926,197927,197928,197929,197930,197931,197932,197933,197934,197935,197936,197937,197938,197939,197940,197941,197942,197943,197944,197945,197946,197947,197948,197949,197950,197951,197952,197953,197954,197955,197956,197957,197958,197959,197960,197961,197962,197963,197964,197965,197966,197967,197968,197969,197970,197972,197971,197976,197975,197974,197973,197979,197978,197977,197980,197988,197989,482365,197992,482366,1960197,197993,197994],"wbnews", 1151962237)</script>
+<!--#endeditable--><!--#begineditable viewid="65457" name="标题列表-外籍院士"--><div class="zmxy_lm">
+<ul>
+<span>  外籍院士<span> <font style="font-size:12px;color:#333;font-weight:normal">（按入校年排序）</font>
+<hr/>
+<li><a href="../info/1731/205304.htm" target="_blank" title="林同炎">林同炎</a></li>
+<li><a href="../info/1731/205305.htm" target="_blank" title="李天和">李天和</a></li>
+<li><a href="../info/1731/205306.htm" target="_blank" title="葛守仁">葛守仁</a></li>
+<li><a href="../info/1731/205307.htm" target="_blank" title="梁  平">梁  平</a></li>
+<li><a href="../info/1731/205320.htm" target="_blank" title="姜   晶">姜   晶</a></li>
+<li><a href="../info/1731/205319.htm" target="_blank" title="高华健">高华健</a></li>
+<li><a href="../info/1731/205321.htm" target="_blank" title="锁志刚">锁志刚</a></li>
+</span></span></ul>
+<div class="clear"></div>
+</div><script>_showDynClickBatch(['dynclicks_u12_205304','dynclicks_u12_205305','dynclicks_u12_205306','dynclicks_u12_205307','dynclicks_u12_205320','dynclicks_u12_205319','dynclicks_u12_205321'],[205304,205305,205306,205307,205320,205319,205321],"wbnews", 1151962237)</script>
+<!--#endeditable--><!--#begineditable viewid="61996" name="标题列表-交大英才"--><div class="zmxy_lm">
+<ul>
+<span>  交大英才<span> <font style="font-size:12px;color:#333;font-weight:normal">（按入校年排序）</font>
+<hr/>
+<li><a href="../info/1242/5685.htm" target="_blank" title="蔡元培">蔡元培</a></li>
+<li><a href="../info/1242/5684.htm" target="_blank" title="黄炎培">黄炎培</a></li>
+<li><a href="../info/1242/5683.htm" target="_blank" title="李叔同">李叔同</a></li>
+<li><a href="../info/1242/5682.htm" target="_blank" title="邵力子">邵力子</a></li>
+<li><a href="../info/1242/5681.htm" target="_blank" title="叶恭绰">叶恭绰</a></li>
+<li><a href="../info/1242/5680.htm" target="_blank" title="蔡  锷">蔡  锷</a></li>
+<li><a href="../info/1242/5679.htm" target="_blank" title="黎照寰">黎照寰</a></li>
+<li><a href="../info/1242/5678.htm" target="_blank" title="凌鸿勋">凌鸿勋</a></li>
+<li><a href="../info/1242/5676.htm" target="_blank" title="茅以升">茅以升</a></li>
+<li><a href="../info/1242/5675.htm" target="_blank" title="吴保丰">吴保丰</a></li>
+<li><a href="../info/1242/5674.htm" target="_blank" title="侯宗濂">侯宗濂</a></li>
+<li><a href="../info/1242/5673.htm" target="_blank" title="彭  康">彭  康</a></li>
+<li><a href="../info/1242/5672.htm" target="_blank" title="陆定一">陆定一</a></li>
+<li><a href="../info/1242/5671.htm" target="_blank" title="钱学森">钱学森</a></li>
+<li><a href="../info/1242/5670.htm" target="_blank" title="张光斗">张光斗</a></li>
+<li><a href="../info/1242/5669.htm" target="_blank" title="汪道涵">汪道涵</a></li>
+<li><a href="../info/1242/5668.htm" target="_blank" title="吴文俊">吴文俊</a></li>
+<li><a href="../info/1242/5667.htm" target="_blank" title="王  安">王  安</a></li>
+<li><a href="../info/1242/5666.htm" target="_blank" title="江泽民">江泽民</a></li>
+<li><a href="../info/1242/5665.htm" target="_blank" title="丁关根">丁关根</a></li>
+<li><a href="../info/1242/5663.htm" target="_blank" title="江其务">江其务</a></li>
+<li><a href="../info/1242/5662.htm" target="_blank" title="蒋正华">蒋正华</a></li>
+<li><a href="../info/1242/5661.htm" target="_blank" title="韩启德">韩启德</a></li>
+<li><a href="../info/1242/432269.htm" target="_blank" title="龚元相">龚元相</a></li>
+<li><a href="../info/1242/432265.htm" target="_blank" title="李照森">李照森</a></li>
+<li><a href="../info/1242/432254.htm" target="_blank" title="卢剑国">卢剑国</a></li>
+<li><a href="../info/1242/432253.htm" target="_blank" title="申学光">申学光</a></li>
+<li><a href="../info/1242/365325.htm" target="_blank" title="吴世华">吴世华</a></li>
+<li><a href="../info/1242/365305.htm" target="_blank" title="屈贤明">屈贤明</a></li>
+<li><a href="../info/1242/365304.htm" target="_blank" title="李社钊">李社钊</a></li>
+<li><a href="../info/1242/365303.htm" target="_blank" title="张福安">张福安</a></li>
+<li><a href="../info/1242/337776.htm" target="_blank" title="罗锡恩">罗锡恩</a></li>
+<li><a href="../info/1242/799955.htm" target="_blank" title="李韩弟">李韩弟</a></li>
+<li><a href="../info/1242/432257.htm" target="_blank" title="甘师俊">甘师俊</a></li>
+<li><a href="../info/1242/432256.htm" target="_blank" title="华裕达">华裕达</a></li>
+<li><a href="../info/1242/432255.htm" target="_blank" title="洪  瀛">洪  瀛</a></li>
+<li><a href="../info/1242/398806.htm" target="_blank" title="薛福昌">薛福昌</a></li>
+<li><a href="../info/1242/398805.htm" target="_blank" title="危师让">危师让</a></li>
+<li><a href="../info/1242/365306.htm" target="_blank" title="蔡自兴">蔡自兴</a></li>
+<li><a href="../info/1242/337777.htm" target="_blank" title="李雅芳">李雅芳</a></li>
+<li><a href="../info/1242/432266.htm" target="_blank" title="赵步长">赵步长</a></li>
+<li><a href="../info/1242/432258.htm" target="_blank" title="许维达">许维达</a></li>
+<li><a href="../info/1242/337778.htm" target="_blank" title="李天文">李天文</a></li>
+<li><a href="../info/1242/432260.htm" target="_blank" title="赖俊贤">赖俊贤</a></li>
+<li><a href="../info/1242/432259.htm" target="_blank" title="谭瑞骥">谭瑞骥</a></li>
+<li><a href="../info/1242/432250.htm" target="_blank" title="周雍年">周雍年</a></li>
+<li><a href="../info/1242/432249.htm" target="_blank" title="王宝琛">王宝琛</a></li>
+<li><a href="../info/1242/398804.htm" target="_blank" title="陈惠波">陈惠波</a></li>
+<li><a href="../info/1242/365307.htm" target="_blank" title="凌复华">凌复华</a></li>
+<li><a href="../info/1242/337779.htm" target="_blank" title="李雪莹">李雪莹</a></li>
+<li><a href="../info/1242/799956.htm" target="_blank" title="刘爱梅">刘爱梅</a></li>
+<li><a href="../info/1242/432261.htm" target="_blank" title="张玉浦">张玉浦</a></li>
+<li><a href="../info/1242/337780.htm" target="_blank" title="耿庆义">耿庆义</a></li>
+<li><a href="../info/1242/950666.htm" target="_blank" title="刘端章">刘端章</a></li>
+<li><a href="../info/1242/446498.htm" target="_blank" title="何履梅">何履梅</a></li>
+<li><a href="../info/1242/446497.htm" target="_blank" title="刘  宏">刘  宏</a></li>
+<li><a href="../info/1242/446494.htm" target="_blank" title="张志武">张志武</a></li>
+<li><a href="../info/1242/446493.htm" target="_blank" title="汤  泉">汤  泉</a></li>
+<li><a href="../info/1242/432267.htm" target="_blank" title="陈必寿">陈必寿</a></li>
+<li><a href="../info/1242/365308.htm" target="_blank" title="高国珠">高国珠</a></li>
+<li><a href="../info/1242/337782.htm" target="_blank" title="孔心田">孔心田</a></li>
+<li><a href="../info/1242/337781.htm" target="_blank" title="刘顺成">刘顺成</a></li>
+<li><a href="../info/1242/482320.htm" target="_blank" title="刘振宇">刘振宇</a></li>
+<li><a href="../info/1242/446499.htm" target="_blank" title="柴育麒">柴育麒</a></li>
+<li><a href="../info/1242/365309.htm" target="_blank" title="席义方">席义方</a></li>
+<li><a href="../info/1242/337783.htm" target="_blank" title="周俊林">周俊林</a></li>
+<li><a href="../info/1242/720471.htm" target="_blank" title="宁长珊">宁长珊</a></li>
+<li><a href="../info/1242/720470.htm" target="_blank" title="杨希圣">杨希圣</a></li>
+<li><a href="../info/1242/720469.htm" target="_blank" title="孔庆森">孔庆森</a></li>
+<li><a href="../info/1242/482321.htm" target="_blank" title="马师模">马师模</a></li>
+<li><a href="../info/1242/482306.htm" target="_blank" title="丁康年">丁康年</a></li>
+<li><a href="../info/1242/446500.htm" target="_blank" title="范英俊">范英俊</a></li>
+<li><a href="../info/1242/446496.htm" target="_blank" title="张天仁">张天仁</a></li>
+<li><a href="../info/1242/446495.htm" target="_blank" title="李锦江">李锦江</a></li>
+<li><a href="../info/1242/365310.htm" target="_blank" title="孙安华">孙安华</a></li>
+<li><a href="../info/1242/337784.htm" target="_blank" title="温熙森">温熙森</a></li>
+<li><a href="../info/1242/720473.htm" target="_blank" title="郭敏杰">郭敏杰</a></li>
+<li><a href="../info/1242/720472.htm" target="_blank" title="赵恒扬">赵恒扬</a></li>
+<li><a href="../info/1242/482307.htm" target="_blank" title="陈金友">陈金友</a></li>
+<li><a href="../info/1242/398799.htm" target="_blank" title="潘连生">潘连生</a></li>
+<li><a href="../info/1242/398798.htm" target="_blank" title="马昌裔">马昌裔</a></li>
+<li><a href="../info/1242/883691.htm" target="_blank" title="周合洲">周合洲</a></li>
+<li><a href="../info/1242/766542.htm" target="_blank" title="魏万进">魏万进</a></li>
+<li><a href="../info/1242/766541.htm" target="_blank" title="秦随周">秦随周</a></li>
+<li><a href="../info/1242/766540.htm" target="_blank" title="顾家騟">顾家騟</a></li>
+<li><a href="../info/1242/482322.htm" target="_blank" title="林瑞华">林瑞华</a></li>
+<li><a href="../info/1242/482308.htm" target="_blank" title="张文元">张文元</a></li>
+<li><a href="../info/1242/398800.htm" target="_blank" title="李金华">李金华</a></li>
+<li><a href="../info/1242/883690.htm" target="_blank" title="孙  朝">孙  朝</a></li>
+<li><a href="../info/1242/883689.htm" target="_blank" title="王学谦">王学谦</a></li>
+<li><a href="../info/1242/983815.htm" target="_blank" title="孟建国">孟建国</a></li>
+<li><a href="../info/1242/766543.htm" target="_blank" title="刘晓北">刘晓北</a></li>
+<li><a href="../info/1242/482323.htm" target="_blank" title="苏秉雄">苏秉雄</a></li>
+<li><a href="../info/1242/432240.htm" target="_blank" title="马德秀">马德秀</a></li>
+<li><a href="../info/1242/432235.htm" target="_blank" title="何学清">何学清</a></li>
+<li><a href="../info/1242/398802.htm" target="_blank" title="侯义斌">侯义斌</a></li>
+<li><a href="../info/1242/398801.htm" target="_blank" title="毕小平">毕小平</a></li>
+<li><a href="../info/1242/365326.htm" target="_blank" title="朱国怀">朱国怀</a></li>
+<li><a href="../info/1242/365311.htm" target="_blank" title="马德秀">马德秀</a></li>
+<li><a href="../info/1242/337785.htm" target="_blank" title="范群喜">范群喜</a></li>
+<li><a href="../info/1242/883686.htm" target="_blank" title="张光荣">张光荣</a></li>
+<li><a href="../info/1242/482325.htm" target="_blank" title="刘小为">刘小为</a></li>
+<li><a href="../info/1242/482324.htm" target="_blank" title="刘振华">刘振华</a></li>
+<li><a href="../info/1242/398803.htm" target="_blank" title="张德江">张德江</a></li>
+<li><a href="../info/1242/337787.htm" target="_blank" title="吴  静">吴  静</a></li>
+<li><a href="../info/1242/337786.htm" target="_blank" title="黄友兴">黄友兴</a></li>
+<li><a href="../info/1242/983814.htm" target="_blank" title="李鸿光">李鸿光</a></li>
+<li><a href="../info/1242/799946.htm" target="_blank" title="杨学义">杨学义</a></li>
+<li><a href="../info/1242/432243.htm" target="_blank" title="刘小河">刘小河</a></li>
+<li><a href="../info/1242/432242.htm" target="_blank" title="陈宝根">陈宝根</a></li>
+<li><a href="../info/1242/398815.htm" target="_blank" title="赵东科">赵东科</a></li>
+<li><a href="../info/1242/398816.htm" target="_blank" title="雷菊芳">雷菊芳</a></li>
+<li><a href="../info/1242/950667.htm" target="_blank" title="于向国">于向国</a></li>
+<li><a href="../info/1242/915553.htm" target="_blank" title="王天才">王天才</a></li>
+<li><a href="../info/1242/883692.htm" target="_blank" title="沈晓祖">沈晓祖</a></li>
+<li><a href="../info/1242/799959.htm" target="_blank" title="顾大伟">顾大伟</a></li>
+<li><a href="../info/1242/799958.htm" target="_blank" title="谢焕忠">谢焕忠</a></li>
+<li><a href="../info/1242/799957.htm" target="_blank" title="武津生">武津生</a></li>
+<li><a href="../info/1242/799947.htm" target="_blank" title="樊建人">樊建人</a></li>
+<li><a href="../info/1242/482313.htm" target="_blank" title="刘小稚">刘小稚</a></li>
+<li><a href="../info/1242/482310.htm" target="_blank" title="汤  炎">汤  炎</a></li>
+<li><a href="../info/1242/482309.htm" target="_blank" title="荣  海">荣  海</a></li>
+<li><a href="../info/1242/446488.htm" target="_blank" title="韩新民">韩新民</a></li>
+<li><a href="../info/1242/446487.htm" target="_blank" title="张  炜">张  炜</a></li>
+<li><a href="../info/1242/446486.htm" target="_blank" title="申  江">申  江</a></li>
+<li><a href="../info/1242/446485.htm" target="_blank" title="田东平">田东平</a></li>
+<li><a href="../info/1242/446484.htm" target="_blank" title="乔学光">乔学光</a></li>
+<li><a href="../info/1242/446483.htm" target="_blank" title="姚引良">姚引良</a></li>
+<li><a href="../info/1242/446481.htm" target="_blank" title="崔殿国">崔殿国</a></li>
+<li><a href="../info/1242/446480.htm" target="_blank" title="陈大卫">陈大卫</a></li>
+<li><a href="../info/1242/446479.htm" target="_blank" title="张光强">张光强</a></li>
+<li><a href="../info/1242/432244.htm" target="_blank" title="刘  鹏">刘  鹏</a></li>
+<li><a href="../info/1242/365327.htm" target="_blank" title="吴  秦">吴  秦</a></li>
+<li><a href="../info/1242/365312.htm" target="_blank" title="武省墩">武省墩</a></li>
+<li><a href="../info/1242/337789.htm" target="_blank" title="赵  杰">赵  杰</a></li>
+<li><a href="../info/1242/337788.htm" target="_blank" title="文秉友">文秉友</a></li>
+<li><a href="../info/1242/1017650.htm" target="_blank" title="高  亮">高  亮</a></li>
+<li><a href="../info/1242/1017644.htm" target="_blank" title="陈建国">陈建国</a></li>
+<li><a href="../info/1242/983829.htm" target="_blank" title="印建安">印建安</a></li>
+<li><a href="../info/1242/950668.htm" target="_blank" title="林孟良">林孟良</a></li>
+<li><a href="../info/1242/950665.htm" target="_blank" title="毛绍融">毛绍融</a></li>
+<li><a href="../info/1242/950664.htm" target="_blank" title="钱嘉斌">钱嘉斌</a></li>
+<li><a href="../info/1242/950663.htm" target="_blank" title="袁治平">袁治平</a></li>
+<li><a href="../info/1242/950662.htm" target="_blank" title="李顺民">李顺民</a></li>
+<li><a href="../info/1242/950659.htm" target="_blank" title="王雪梅">王雪梅</a></li>
+<li><a href="../info/1242/915556.htm" target="_blank" title="陈新有">陈新有</a></li>
+<li><a href="../info/1242/915555.htm" target="_blank" title="周士荣">周士荣</a></li>
+<li><a href="../info/1242/915554.htm" target="_blank" title="樊少文">樊少文</a></li>
+<li><a href="../info/1242/799962.htm" target="_blank" title="黄明生">黄明生</a></li>
+<li><a href="../info/1242/799951.htm" target="_blank" title="王安斌">王安斌</a></li>
+<li><a href="../info/1242/799950.htm" target="_blank" title="齐  鸣">齐  鸣</a></li>
+<li><a href="../info/1242/799949.htm" target="_blank" title="徐可为">徐可为</a></li>
+<li><a href="../info/1242/799948.htm" target="_blank" title="王田苗">王田苗</a></li>
+<li><a href="../info/1242/766546.htm" target="_blank" title="张志英">张志英</a></li>
+<li><a href="../info/1242/766545.htm" target="_blank" title="王珏">王珏</a></li>
+<li><a href="../info/1242/766544.htm" target="_blank" title="张福宝">张福宝</a></li>
+<li><a href="../info/1242/766532.htm" target="_blank" title="谭琳">谭琳</a></li>
+<li><a href="../info/1242/720475.htm" target="_blank" title="辛保安">辛保安</a></li>
+<li><a href="../info/1242/720474.htm" target="_blank" title="汪建平">汪建平</a></li>
+<li><a href="../info/1242/718811.htm" target="_blank" title="李  铭">李  铭</a></li>
+<li><a href="../info/1242/718660.htm" target="_blank" title="孙来燕">孙来燕</a></li>
+<li><a href="../info/1242/718555.htm" target="_blank" title="高小玫">高小玫</a></li>
+<li><a href="../info/1242/718503.htm" target="_blank" title="江小涓">江小涓</a></li>
+<li><a href="../info/1242/718224.htm" target="_blank" title="张国宝">张国宝</a></li>
+<li><a href="../info/1242/482326.htm" target="_blank" title="陈  宏">陈  宏</a></li>
+<li><a href="../info/1242/482316.htm" target="_blank" title="赵凤济">赵凤济</a></li>
+<li><a href="../info/1242/482315.htm" target="_blank" title="杜长喜">杜长喜</a></li>
+<li><a href="../info/1242/482314.htm" target="_blank" title="陈宣政">陈宣政</a></li>
+<li><a href="../info/1242/482312.htm" target="_blank" title="王保庆">王保庆</a></li>
+<li><a href="../info/1242/482311.htm" target="_blank" title="杨兴平">杨兴平</a></li>
+<li><a href="../info/1242/446492.htm" target="_blank" title="胡均平">胡均平</a></li>
+<li><a href="../info/1242/446491.htm" target="_blank" title="苟锐锋">苟锐锋</a></li>
+<li><a href="../info/1242/446490.htm" target="_blank" title="杨一平">杨一平</a></li>
+<li><a href="../info/1242/446489.htm" target="_blank" title="朱学农">朱学农</a></li>
+<li><a href="../info/1242/432271.htm" target="_blank" title="李星星">李星星</a></li>
+<li><a href="../info/1242/432270.htm" target="_blank" title="贾全喜">贾全喜</a></li>
+<li><a href="../info/1242/432252.htm" target="_blank" title="程  旭">程  旭</a></li>
+<li><a href="../info/1242/432251.htm" target="_blank" title="郑明光">郑明光</a></li>
+<li><a href="../info/1242/432248.htm" target="_blank" title="蔡宁生">蔡宁生</a></li>
+<li><a href="../info/1242/432247.htm" target="_blank" title="何  宁">何  宁</a></li>
+<li><a href="../info/1242/432246.htm" target="_blank" title="杨燕华">杨燕华</a></li>
+<li><a href="../info/1242/432245.htm" target="_blank" title="程光旭">程光旭</a></li>
+<li><a href="../info/1242/398818.htm" target="_blank" title="刘奕路">刘奕路</a></li>
+<li><a href="../info/1242/398817.htm" target="_blank" title="郭汝艳">郭汝艳</a></li>
+<li><a href="../info/1242/365313.htm" target="_blank" title="张晓鲁">张晓鲁</a></li>
+<li><a href="../info/1242/1017641.htm" target="_blank" title="郑育林">郑育林</a></li>
+<li><a href="../info/1242/1017640.htm" target="_blank" title="徐  强">徐  强</a></li>
+<li><a href="../info/1242/1017638.htm" target="_blank" title="赵宝升">赵宝升</a></li>
+<li><a href="../info/1242/983832.htm" target="_blank" title="温枢刚">温枢刚</a></li>
+<li><a href="../info/1242/983831.htm" target="_blank" title="龙兴元">龙兴元</a></li>
+<li><a href="../info/1242/983830.htm" target="_blank" title="孙建科">孙建科</a></li>
+<li><a href="../info/1242/950656.htm" target="_blank" title="苏荣誉">苏荣誉</a></li>
+<li><a href="../info/1242/883688.htm" target="_blank" title="吴小洁">吴小洁</a></li>
+<li><a href="../info/1242/883687.htm" target="_blank" title="许万军">许万军</a></li>
+<li><a href="../info/1242/799954.htm" target="_blank" title="韩志玉">韩志玉</a></li>
+<li><a href="../info/1242/799953.htm" target="_blank" title="齐  斌">齐  斌</a></li>
+<li><a href="../info/1242/799952.htm" target="_blank" title="范长信">范长信</a></li>
+<li><a href="../info/1242/766533.htm" target="_blank" title="连维良">连维良</a></li>
+<li><a href="../info/1242/720476.htm" target="_blank" title="蒲忠杰">蒲忠杰</a></li>
+<li><a href="../info/1242/720468.htm" target="_blank" title="姚书志">姚书志</a></li>
+<li><a href="../info/1242/720467.htm" target="_blank" title="姚秀平">姚秀平</a></li>
+<li><a href="../info/1242/720466.htm" target="_blank" title="项  兵">项  兵</a></li>
+<li><a href="../info/1242/720465.htm" target="_blank" title="李岩锋">李岩锋</a></li>
+<li><a href="../info/1242/482327.htm" target="_blank" title="杨文波">杨文波</a></li>
+<li><a href="../info/1242/398809.htm" target="_blank" title="袁占亭">袁占亭</a></li>
+<li><a href="../info/1242/398808.htm" target="_blank" title="杨  进">杨  进</a></li>
+<li><a href="../info/1242/398807.htm" target="_blank" title="岳华峰">岳华峰</a></li>
+<li><a href="../info/1242/365321.htm" target="_blank" title="张金泉">张金泉</a></li>
+<li><a href="../info/1242/365314.htm" target="_blank" title="刘天民">刘天民</a></li>
+<li><a href="../info/1242/1017642.htm" target="_blank" title="于  杰">于  杰</a></li>
+<li><a href="../info/1242/983817.htm" target="_blank" title="李兴旺">李兴旺</a></li>
+<li><a href="../info/1242/950669.htm" target="_blank" title="王  龙">王  龙</a></li>
+<li><a href="../info/1242/915558.htm" target="_blank" title="柴新建">柴新建</a></li>
+<li><a href="../info/1242/915557.htm" target="_blank" title="陈德美">陈德美</a></li>
+<li><a href="../info/1242/915546.htm" target="_blank" title="张旭波">张旭波</a></li>
+<li><a href="../info/1242/883683.htm" target="_blank" title="方  明">方  明</a></li>
+<li><a href="../info/1242/883682.htm" target="_blank" title="周延波">周延波</a></li>
+<li><a href="../info/1242/766550.htm" target="_blank" title="张  毅">张  毅</a></li>
+<li><a href="../info/1242/766549.htm" target="_blank" title="王瑞平">王瑞平</a></li>
+<li><a href="../info/1242/766547.htm" target="_blank" title="雷厉">雷厉</a></li>
+<li><a href="../info/1242/766535.htm" target="_blank" title="孙新阳">孙新阳</a></li>
+<li><a href="../info/1242/766534.htm" target="_blank" title="潘蓓蕾">潘蓓蕾</a></li>
+<li><a href="../info/1242/482319.htm" target="_blank" title="林  江">林  江</a></li>
+<li><a href="../info/1242/482318.htm" target="_blank" title="顾宜凡">顾宜凡</a></li>
+<li><a href="../info/1242/482317.htm" target="_blank" title="谭  洪">谭  洪</a></li>
+<li><a href="../info/1242/398811.htm" target="_blank" title="杨永忠">杨永忠</a></li>
+<li><a href="../info/1242/398810.htm" target="_blank" title="耿宪良">耿宪良</a></li>
+<li><a href="../info/1242/337797.htm" target="_blank" title="江忠永">江忠永</a></li>
+<li><a href="../info/1242/337796.htm" target="_blank" title="张慧民">张慧民</a></li>
+<li><a href="../info/1242/337795.htm" target="_blank" title="谢  民">谢  民</a></li>
+<li><a href="../info/1242/337794.htm" target="_blank" title="谭  刚">谭  刚</a></li>
+<li><a href="../info/1242/337793.htm" target="_blank" title="徐龙斌">徐龙斌</a></li>
+<li><a href="../info/1242/337792.htm" target="_blank" title="洪  嵘">洪  嵘</a></li>
+<li><a href="../info/1242/337791.htm" target="_blank" title="邱  劲">邱  劲</a></li>
+<li><a href="../info/1242/337790.htm" target="_blank" title="王毅峰">王毅峰</a></li>
+<li><a href="../info/1242/983818.htm" target="_blank" title="刘顺智">刘顺智</a></li>
+<li><a href="../info/1242/883697.htm" target="_blank" title="王  勇">王  勇</a></li>
+<li><a href="../info/1242/799960.htm" target="_blank" title="曾庆锋">曾庆锋</a></li>
+<li><a href="../info/1242/766538.htm" target="_blank" title="史  琳">史  琳</a></li>
+<li><a href="../info/1242/766537.htm" target="_blank" title="王亚杰">王亚杰</a></li>
+<li><a href="../info/1242/720477.htm" target="_blank" title="桂生悦">桂生悦</a></li>
+<li><a href="../info/1242/398812.htm" target="_blank" title="何  毅">何  毅</a></li>
+<li><a href="../info/1242/365322.htm" target="_blank" title="卢  雷">卢  雷</a></li>
+<li><a href="../info/1242/337799.htm" target="_blank" title="谈  庆">谈  庆</a></li>
+<li><a href="../info/1242/337798.htm" target="_blank" title="饶国平">饶国平</a></li>
+<li><a href="../info/1242/950658.htm" target="_blank" title="乔  红">乔  红</a></li>
+<li><a href="../info/1242/950657.htm" target="_blank" title="张  震">张  震</a></li>
+<li><a href="../info/1242/883677.htm" target="_blank" title="葛红林">葛红林</a></li>
+<li><a href="../info/1242/799961.htm" target="_blank" title="庞庆平">庞庆平</a></li>
+<li><a href="../info/1242/799943.htm" target="_blank" title="王兆星">王兆星</a></li>
+<li><a href="../info/1242/766539.htm" target="_blank" title="于鸿君">于鸿君</a></li>
+<li><a href="../info/1242/365320.htm" target="_blank" title="施红阳">施红阳</a></li>
+<li><a href="../info/1242/365319.htm" target="_blank" title="仇建平">仇建平</a></li>
+<li><a href="../info/1242/365316.htm" target="_blank" title="赵  欢">赵  欢</a></li>
+<li><a href="../info/1242/365315.htm" target="_blank" title="董文标">董文标</a></li>
+<li><a href="../info/1242/1017651.htm" target="_blank" title="任慧宏">任慧宏</a></li>
+<li><a href="../info/1242/1017643.htm" target="_blank" title="石  军">石  军</a></li>
+<li><a href="../info/1242/983819.htm" target="_blank" title="梁志鹏">梁志鹏</a></li>
+<li><a href="../info/1242/883695.htm" target="_blank" title="邱小灃">邱小灃</a></li>
+<li><a href="../info/1242/766548.htm" target="_blank" title="朱吉满">朱吉满</a></li>
+<li><a href="../info/1242/432262.htm" target="_blank" title="陈林龙">陈林龙</a></li>
+<li><a href="../info/1242/365323.htm" target="_blank" title="方世文">方世文</a></li>
+<li><a href="../info/1242/1017652.htm" target="_blank" title="刘  勇">刘  勇</a></li>
+<li><a href="../info/1242/950660.htm" target="_blank" title="吕建成">吕建成</a></li>
+<li><a href="../info/1242/883696.htm" target="_blank" title="韩西武">韩西武</a></li>
+<li><a href="../info/1242/883685.htm" target="_blank" title="曹一家">曹一家</a></li>
+<li><a href="../info/1242/432263.htm" target="_blank" title="张军洲">张军洲</a></li>
+<li><a href="../info/1242/365318.htm" target="_blank" title="梁海山">梁海山</a></li>
+<li><a href="../info/1242/983811.htm" target="_blank" title="张  波">张  波</a></li>
+<li><a href="../info/1242/983810.htm" target="_blank" title="娄  军">娄  军</a></li>
+<li><a href="../info/1242/915548.htm" target="_blank" title="高  勇">高  勇</a></li>
+<li><a href="../info/1242/432264.htm" target="_blank" title="周新生">周新生</a></li>
+<li><a href="../info/1242/1017655.htm" target="_blank" title="尉俊东">尉俊东</a></li>
+<li><a href="../info/1242/1017653.htm" target="_blank" title="石旭刚">石旭刚</a></li>
+<li><a href="../info/1242/950653.htm" target="_blank" title="凌靖波">凌靖波</a></li>
+<li><a href="../info/1242/915547.htm" target="_blank" title="房建成">房建成</a></li>
+<li><a href="../info/1242/883693.htm" target="_blank" title="邱中伟">邱中伟</a></li>
+<li><a href="../info/1242/799944.htm" target="_blank" title="王莉霞">王莉霞</a></li>
+<li><a href="../info/1242/1017654.htm" target="_blank" title="王文斌">王文斌</a></li>
+<li><a href="../info/1242/1017639.htm" target="_blank" title="于文海">于文海</a></li>
+<li><a href="../info/1242/983812.htm" target="_blank" title="李雪松">李雪松</a></li>
+<li><a href="../info/1242/950661.htm" target="_blank" title="李清平">李清平</a></li>
+<li><a href="../info/1242/950654.htm" target="_blank" title="李惠峰">李惠峰</a></li>
+<li><a href="../info/1242/883694.htm" target="_blank" title="王卫东">王卫东</a></li>
+<li><a href="../info/1242/883684.htm" target="_blank" title="邹积岩">邹积岩</a></li>
+<li><a href="../info/1242/1017645.htm" target="_blank" title="林向红">林向红</a></li>
+<li><a href="../info/1242/983833.htm" target="_blank" title="张  欣">张  欣</a></li>
+<li><a href="../info/1242/950655.htm" target="_blank" title="林金朝">林金朝</a></li>
+<li><a href="../info/1242/365317.htm" target="_blank" title="周鸿祎">周鸿祎</a></li>
+<li><a href="../info/1242/983835.htm" target="_blank" title="阎新锋">阎新锋</a></li>
+<li><a href="../info/1242/983834.htm" target="_blank" title="白洪法">白洪法</a></li>
+<li><a href="../info/1242/883698.htm" target="_blank" title="陈  曦">陈  曦</a></li>
+<li><a href="../info/1242/398813.htm" target="_blank" title="金剑华">金剑华</a></li>
+<li><a href="../info/1242/2059568.htm" target="_blank" title="王建忠">王建忠</a></li>
+<li><a href="../info/1242/1017637.htm" target="_blank" title="仪垂杰">仪垂杰</a></li>
+<li><a href="../info/1242/983807.htm" target="_blank" title="米  红">米  红</a></li>
+<li><a href="../info/1242/915559.htm" target="_blank" title="祝  健">祝  健</a></li>
+<li><a href="../info/1242/799945.htm" target="_blank" title="李寿生">李寿生</a></li>
+<li><a href="../info/1242/398814.htm" target="_blank" title="常  宏">常  宏</a></li>
+<li><a href="../info/1242/1017636.htm" target="_blank" title="刘卫国">刘卫国</a></li>
+<li><a href="../info/1242/983837.htm" target="_blank" title="张  彦">张  彦</a></li>
+<li><a href="../info/1242/915560.htm" target="_blank" title="张有方">张有方</a></li>
+<li><a href="../info/1242/337800.htm" target="_blank" title="张  鹏">张  鹏</a></li>
+<li><a href="../info/1242/365324.htm" target="_blank" title="路一鸣">路一鸣</a></li>
+<li><a href="../info/1242/983808.htm" target="_blank" title="李  垣">李  垣</a></li>
+<li><a href="../info/1242/883678.htm" target="_blank" title="白阿莹">白阿莹</a></li>
+<li><a href="../info/1242/337802.htm" target="_blank" title="柳  嘉">柳  嘉</a></li>
+<li><a href="../info/1242/337801.htm" target="_blank" title="孙  剑">孙  剑</a></li>
+<li><a href="../info/1242/983813.htm" target="_blank" title="李  健">李  健</a></li>
+<li><a href="../info/1242/983809.htm" target="_blank" title="屈  展">屈  展</a></li>
+<li><a href="../info/1242/883679.htm" target="_blank" title="宋远方">宋远方</a></li>
+<li><a href="../info/1242/883680.htm" target="_blank" title="刘烈宏">刘烈宏</a></li>
+<li><a href="../info/1242/337803.htm" target="_blank" title="杨晓刚">杨晓刚</a></li>
+<li><a href="../info/1242/1017646.htm" target="_blank" title="王一林">王一林</a></li>
+<li><a href="../info/1242/915549.htm" target="_blank" title="孔建益">孔建益</a></li>
+<li><a href="../info/1242/337804.htm" target="_blank" title="马  静">马  静</a></li>
+<li><a href="../info/1242/983836.htm" target="_blank" title="李万寿">李万寿</a></li>
+<li><a href="../info/1242/950652.htm" target="_blank" title="史文清">史文清</a></li>
+<li><a href="../info/1242/950651.htm" target="_blank" title="刘新文">刘新文</a></li>
+<li><a href="../info/1242/883681.htm" target="_blank" title="庄心一">庄心一</a></li>
+<li><a href="../info/1242/1017647.htm" target="_blank" title="于东升">于东升</a></li>
+<li><a href="../info/1242/766551.htm" target="_blank" title="李建国">李建国</a></li>
+<li><a href="../info/1242/915550.htm" target="_blank" title="王东峰">王东峰</a></li>
+<li><a href="../info/1242/1017649.htm" target="_blank" title="陈高志">陈高志</a></li>
+<li><a href="../info/1242/1017648.htm" target="_blank" title="安保和">安保和</a></li>
+<li><a href="../info/1242/915551.htm" target="_blank" title="何  力">何  力</a></li>
+<li><a href="../info/1242/915552.htm" target="_blank" title="刘  奇">刘  奇</a></li>
+</span></span></ul>
+<div class="clear"></div>
+</div><script>_showDynClickBatch(['dynclicks_u13_5685','dynclicks_u13_5684','dynclicks_u13_5683','dynclicks_u13_5682','dynclicks_u13_5681','dynclicks_u13_5680','dynclicks_u13_5679','dynclicks_u13_5678','dynclicks_u13_5676','dynclicks_u13_5675','dynclicks_u13_5674','dynclicks_u13_5673','dynclicks_u13_5672','dynclicks_u13_5671','dynclicks_u13_5670','dynclicks_u13_5669','dynclicks_u13_5668','dynclicks_u13_5667','dynclicks_u13_5666','dynclicks_u13_5665','dynclicks_u13_5663','dynclicks_u13_5662','dynclicks_u13_5661','dynclicks_u13_432269','dynclicks_u13_432265','dynclicks_u13_432254','dynclicks_u13_432253','dynclicks_u13_365325','dynclicks_u13_365305','dynclicks_u13_365304','dynclicks_u13_365303','dynclicks_u13_337776','dynclicks_u13_799955','dynclicks_u13_432257','dynclicks_u13_432256','dynclicks_u13_432255','dynclicks_u13_398806','dynclicks_u13_398805','dynclicks_u13_365306','dynclicks_u13_337777','dynclicks_u13_432266','dynclicks_u13_432258','dynclicks_u13_337778','dynclicks_u13_432260','dynclicks_u13_432259','dynclicks_u13_432250','dynclicks_u13_432249','dynclicks_u13_398804','dynclicks_u13_365307','dynclicks_u13_337779','dynclicks_u13_799956','dynclicks_u13_432261','dynclicks_u13_337780','dynclicks_u13_950666','dynclicks_u13_446498','dynclicks_u13_446497','dynclicks_u13_446494','dynclicks_u13_446493','dynclicks_u13_432267','dynclicks_u13_365308','dynclicks_u13_337782','dynclicks_u13_337781','dynclicks_u13_482320','dynclicks_u13_446499','dynclicks_u13_365309','dynclicks_u13_337783','dynclicks_u13_720471','dynclicks_u13_720470','dynclicks_u13_720469','dynclicks_u13_482321','dynclicks_u13_482306','dynclicks_u13_446500','dynclicks_u13_446496','dynclicks_u13_446495','dynclicks_u13_365310','dynclicks_u13_337784','dynclicks_u13_720473','dynclicks_u13_720472','dynclicks_u13_482307','dynclicks_u13_398799','dynclicks_u13_398798','dynclicks_u13_883691','dynclicks_u13_766542','dynclicks_u13_766541','dynclicks_u13_766540','dynclicks_u13_482322','dynclicks_u13_482308','dynclicks_u13_398800','dynclicks_u13_883690','dynclicks_u13_883689','dynclicks_u13_983815','dynclicks_u13_766543','dynclicks_u13_482323','dynclicks_u13_432240','dynclicks_u13_432235','dynclicks_u13_398802','dynclicks_u13_398801','dynclicks_u13_365326','dynclicks_u13_365311','dynclicks_u13_337785','dynclicks_u13_883686','dynclicks_u13_482325','dynclicks_u13_482324','dynclicks_u13_398803','dynclicks_u13_337787','dynclicks_u13_337786','dynclicks_u13_983814','dynclicks_u13_799946','dynclicks_u13_432243','dynclicks_u13_432242','dynclicks_u13_398815','dynclicks_u13_398816','dynclicks_u13_950667','dynclicks_u13_915553','dynclicks_u13_883692','dynclicks_u13_799959','dynclicks_u13_799958','dynclicks_u13_799957','dynclicks_u13_799947','dynclicks_u13_482313','dynclicks_u13_482310','dynclicks_u13_482309','dynclicks_u13_446488','dynclicks_u13_446487','dynclicks_u13_446486','dynclicks_u13_446485','dynclicks_u13_446484','dynclicks_u13_446483','dynclicks_u13_446481','dynclicks_u13_446480','dynclicks_u13_446479','dynclicks_u13_432244','dynclicks_u13_365327','dynclicks_u13_365312','dynclicks_u13_337789','dynclicks_u13_337788','dynclicks_u13_1017650','dynclicks_u13_1017644','dynclicks_u13_983829','dynclicks_u13_950668','dynclicks_u13_950665','dynclicks_u13_950664','dynclicks_u13_950663','dynclicks_u13_950662','dynclicks_u13_950659','dynclicks_u13_915556','dynclicks_u13_915555','dynclicks_u13_915554','dynclicks_u13_799962','dynclicks_u13_799951','dynclicks_u13_799950','dynclicks_u13_799949','dynclicks_u13_799948','dynclicks_u13_766546','dynclicks_u13_766545','dynclicks_u13_766544','dynclicks_u13_766532','dynclicks_u13_720475','dynclicks_u13_720474','dynclicks_u13_718811','dynclicks_u13_718660','dynclicks_u13_718555','dynclicks_u13_718503','dynclicks_u13_718224','dynclicks_u13_482326','dynclicks_u13_482316','dynclicks_u13_482315','dynclicks_u13_482314','dynclicks_u13_482312','dynclicks_u13_482311','dynclicks_u13_446492','dynclicks_u13_446491','dynclicks_u13_446490','dynclicks_u13_446489','dynclicks_u13_432271','dynclicks_u13_432270','dynclicks_u13_432252','dynclicks_u13_432251','dynclicks_u13_432248','dynclicks_u13_432247','dynclicks_u13_432246','dynclicks_u13_432245','dynclicks_u13_398818','dynclicks_u13_398817','dynclicks_u13_365313','dynclicks_u13_1017641','dynclicks_u13_1017640','dynclicks_u13_1017638','dynclicks_u13_983832','dynclicks_u13_983831','dynclicks_u13_983830','dynclicks_u13_950656','dynclicks_u13_883688','dynclicks_u13_883687','dynclicks_u13_799954','dynclicks_u13_799953','dynclicks_u13_799952','dynclicks_u13_766533','dynclicks_u13_720476','dynclicks_u13_720468','dynclicks_u13_720467','dynclicks_u13_720466','dynclicks_u13_720465','dynclicks_u13_482327','dynclicks_u13_398809','dynclicks_u13_398808','dynclicks_u13_398807','dynclicks_u13_365321','dynclicks_u13_365314','dynclicks_u13_1017642','dynclicks_u13_983817','dynclicks_u13_950669','dynclicks_u13_915558','dynclicks_u13_915557','dynclicks_u13_915546','dynclicks_u13_883683','dynclicks_u13_883682','dynclicks_u13_766550','dynclicks_u13_766549','dynclicks_u13_766547','dynclicks_u13_766535','dynclicks_u13_766534','dynclicks_u13_482319','dynclicks_u13_482318','dynclicks_u13_482317','dynclicks_u13_398811','dynclicks_u13_398810','dynclicks_u13_337797','dynclicks_u13_337796','dynclicks_u13_337795','dynclicks_u13_337794','dynclicks_u13_337793','dynclicks_u13_337792','dynclicks_u13_337791','dynclicks_u13_337790','dynclicks_u13_983818','dynclicks_u13_883697','dynclicks_u13_799960','dynclicks_u13_766538','dynclicks_u13_766537','dynclicks_u13_720477','dynclicks_u13_398812','dynclicks_u13_365322','dynclicks_u13_337799','dynclicks_u13_337798','dynclicks_u13_950658','dynclicks_u13_950657','dynclicks_u13_883677','dynclicks_u13_799961','dynclicks_u13_799943','dynclicks_u13_766539','dynclicks_u13_365320','dynclicks_u13_365319','dynclicks_u13_365316','dynclicks_u13_365315','dynclicks_u13_1017651','dynclicks_u13_1017643','dynclicks_u13_983819','dynclicks_u13_883695','dynclicks_u13_766548','dynclicks_u13_432262','dynclicks_u13_365323','dynclicks_u13_1017652','dynclicks_u13_950660','dynclicks_u13_883696','dynclicks_u13_883685','dynclicks_u13_432263','dynclicks_u13_365318','dynclicks_u13_983811','dynclicks_u13_983810','dynclicks_u13_915548','dynclicks_u13_432264','dynclicks_u13_1017655','dynclicks_u13_1017653','dynclicks_u13_950653','dynclicks_u13_915547','dynclicks_u13_883693','dynclicks_u13_799944','dynclicks_u13_1017654','dynclicks_u13_1017639','dynclicks_u13_983812','dynclicks_u13_950661','dynclicks_u13_950654','dynclicks_u13_883694','dynclicks_u13_883684','dynclicks_u13_1017645','dynclicks_u13_983833','dynclicks_u13_950655','dynclicks_u13_365317','dynclicks_u13_983835','dynclicks_u13_983834','dynclicks_u13_883698','dynclicks_u13_398813','dynclicks_u13_2059568','dynclicks_u13_1017637','dynclicks_u13_983807','dynclicks_u13_915559','dynclicks_u13_799945','dynclicks_u13_398814','dynclicks_u13_1017636','dynclicks_u13_983837','dynclicks_u13_915560','dynclicks_u13_337800','dynclicks_u13_365324','dynclicks_u13_983808','dynclicks_u13_883678','dynclicks_u13_337802','dynclicks_u13_337801','dynclicks_u13_983813','dynclicks_u13_983809','dynclicks_u13_883679','dynclicks_u13_883680','dynclicks_u13_337803','dynclicks_u13_1017646','dynclicks_u13_915549','dynclicks_u13_337804','dynclicks_u13_983836','dynclicks_u13_950652','dynclicks_u13_950651','dynclicks_u13_883681','dynclicks_u13_1017647','dynclicks_u13_766551','dynclicks_u13_915550','dynclicks_u13_1017649','dynclicks_u13_1017648','dynclicks_u13_915551','dynclicks_u13_915552'],[5685,5684,5683,5682,5681,5680,5679,5678,5676,5675,5674,5673,5672,5671,5670,5669,5668,5667,5666,5665,5663,5662,5661,432269,432265,432254,432253,365325,365305,365304,365303,337776,799955,432257,432256,432255,398806,398805,365306,337777,432266,432258,337778,432260,432259,432250,432249,398804,365307,337779,799956,432261,337780,950666,446498,446497,446494,446493,432267,365308,337782,337781,482320,446499,365309,337783,720471,720470,720469,482321,482306,446500,446496,446495,365310,337784,720473,720472,482307,398799,398798,883691,766542,766541,766540,482322,482308,398800,883690,883689,983815,766543,482323,432240,432235,398802,398801,365326,365311,337785,883686,482325,482324,398803,337787,337786,983814,799946,432243,432242,398815,398816,950667,915553,883692,799959,799958,799957,799947,482313,482310,482309,446488,446487,446486,446485,446484,446483,446481,446480,446479,432244,365327,365312,337789,337788,1017650,1017644,983829,950668,950665,950664,950663,950662,950659,915556,915555,915554,799962,799951,799950,799949,799948,766546,766545,766544,766532,720475,720474,718811,718660,718555,718503,718224,482326,482316,482315,482314,482312,482311,446492,446491,446490,446489,432271,432270,432252,432251,432248,432247,432246,432245,398818,398817,365313,1017641,1017640,1017638,983832,983831,983830,950656,883688,883687,799954,799953,799952,766533,720476,720468,720467,720466,720465,482327,398809,398808,398807,365321,365314,1017642,983817,950669,915558,915557,915546,883683,883682,766550,766549,766547,766535,766534,482319,482318,482317,398811,398810,337797,337796,337795,337794,337793,337792,337791,337790,983818,883697,799960,766538,766537,720477,398812,365322,337799,337798,950658,950657,883677,799961,799943,766539,365320,365319,365316,365315,1017651,1017643,983819,883695,766548,432262,365323,1017652,950660,883696,883685,432263,365318,983811,983810,915548,432264,1017655,1017653,950653,915547,883693,799944,1017654,1017639,983812,950661,950654,883694,883684,1017645,983833,950655,365317,983835,983834,883698,398813,2059568,1017637,983807,915559,799945,398814,1017636,983837,915560,337800,365324,983808,883678,337802,337801,983813,983809,883679,883680,337803,1017646,915549,337804,983836,950652,950651,883681,1017647,766551,915550,1017649,1017648,915551,915552],"wbnews", 1151962237)</script>
+<!--#endeditable--><!--#begineditable viewid="61997" name="标题列表-交大英烈"--><div class="zmxy_lm">
+<ul>
+<span>  交大英烈<span> <font style="font-size:12px;color:#333;font-weight:normal">（按入校年排序）</font>
+<hr/>
+<li><a href="../info/1243/5659.htm" target="_blank" title="侯绍裘">侯绍裘</a></li>
+<li><a href="../info/1243/5658.htm" target="_blank" title="陈虞钦">陈虞钦</a></li>
+<li><a href="../info/1243/5657.htm" target="_blank" title="穆汉祥">穆汉祥</a></li>
+</span></span></ul>
+<div class="clear"></div>
+</div><script>_showDynClickBatch(['dynclicks_u14_5659','dynclicks_u14_5658','dynclicks_u14_5657'],[5659,5658,5657],"wbnews", 1151962237)</script>
+<!--#endeditable--></div></div>
+<div style="clear: both"></div></div></div></div>
+<div class="clear"></div>
+<div id="footer">
+<div class="container"><!--#begineditable viewid="61955" name="底部联系方式链接列表"--> <a href="http://page.renren.com/600722033?checked=true" onclick='_addDynClicks("wbimage", 1151962237, 12997)' target="_blank" title="">
+<img border="0" height="24" src="../images/renren.jpg" width="23"/>
+</a>
+<a href="http://t.qq.com/xjtuofficial" onclick='_addDynClicks("wbimage", 1151962237, 12996)' target="_blank" title="">
+<img border="0" height="24" src="../images/tencent.jpg" width="23"/>
+</a>
+<a href="http://passport.weibo.com/visitor/visitor?a=enter&amp;url=http%3A%2F%2Fweibo.com%2F1862928653&amp;_rand=1425023538.5662" onclick='_addDynClicks("wbimage", 1151962237, 12995)' target="_blank" title="">
+<img border="0" height="24" src="../images/weibo.jpg" width="23"/>
+</a>
+<!--#endeditable--><!--#begineditable viewid="61963" name="版权"--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p><font style="font-size: 9pt">地址：陕西省西安市咸宁西路28号 邮编：710049 <span style="font-size: 9pt;font-family: 宋体;mso-bidi-font-family: 宋体;mso-ansi-language: EN-US;mso-fareast-language: ZH-CN;mso-bidi-language: AR-SA"><a href="../liuyanban.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1537"><font color="#ffffff">主页建议意见</font></a></span></font></p>
+<p><font style="font-size: 9pt">版权所有：西安交通大学 站点建设与维护： 
+<style>a{color:white;}</style>
+<a href="http://nic.xjtu.edu.cn" target="_blank">网络信息中心</a> <a href="http://www.beian.miit.gov.cn/">陕ICP备06008037号</a></font></p><!--#endeditable--></div></div><script>
+        $(function(){
+            $('.sidebar').css('height', $('.content').height() + 10)
+        })
+    </script>
+</body></html>

@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en"><head><title>庆祝改革开放四十周年专题网</title><meta content="庆祝改革开放四十周年专题网" name="keywords"/>
+<meta charset="utf-8"/>
+<meta content="IE=Edge,chrome=1" http-equiv="X-UA-Compatible"/><link href="css/main.css" rel="stylesheet"/><script src="js/bdtxk.min.js"></script><script src="js/SuperSlide.source.js"></script><script type="text/javascript">
+		$(function () {
+			$(".slideBox").slide({
+				mainCell: ".bd ul",
+				autoPlay: true
+			});
+			$('.slideTxtBox').slide({
+				
+			})
+			$("#picscroll1").slide({
+				mainCell: ".bd ul",
+				autoPage: true,
+				effect: "left",
+				autoPlay: true,
+				vis: 4,
+				trigger: "click"
+			});
+			$("#picscroll2").slide({
+				mainCell: ".bd ul",
+				autoPage: true,
+				effect: "left",
+				autoPlay: true,
+				vis: 5,
+				trigger: "click"
+			});
+		})
+	</script>
+<!--Announced by Visual SiteBuilder 9-->
+<link href="_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230697547545257544003060005 -->
+<link href="index.vsb.css" rel="stylesheet" type="text/css"/>
+<script src="/system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1485128552)</script>
+</link></head>
+<body><!--#begineditable name="顶部图片" clone="0" namechanged="0" order="0" ispublic="0" tagname="顶部图片" viewid="211910" contentviewid="" contype="" stylesysid="" layout="" action=""--> <script language="javascript" src="/system/resource/js/dynclicks.js"></script><div id="quanping_img1" style="background:url(images/ad-ggkf.gif) no-repeat;background=size:cover;-webkit-background-size:cover;-o-background-size:cover;background-position:center 0;"></div>
+<script type="text/javascript">
+
+$('#quanping_img1').fadeIn(600).css({"z-index":"99999999999999999999999999999"}).delay(2380).fadeOut(600);
+</script>
+<!--#endeditable-->
+<div class="header-banner">
+<div class="pic"><!--#begineditable name="改革开放四十周年图" clone="0" namechanged="0" order="1" ispublic="0" tagname="改革开放四十周年图" viewid="211911" contentviewid="" contype="" stylesysid="" layout="" action=""-->
+<img alt="" src="images/ggkfbanner.jpg"/>
+<!--#endeditable--></div></div>
+<div class="index">
+<div class="wrap">
+<div class="row1 clearfix">
+<div class="c1 fl">
+<div class="slideBox"><!--#begineditable name="图片新闻" clone="0" namechanged="0" order="2" ispublic="0" tagname="图片新闻" viewid="211912" contentviewid="" contype="" stylesysid="" layout="" action=""--><div class="hd">
+<ul>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+</div>
+<div class="bd">
+<ul>
+<li><a href="info/1002/3257.htm" target="_blank"><img src="/__local/6/0B/DE/E1BBB2749891376E888AFF638C7_2122A8D9_6D3F0.jpg"/></a></li>
+<li><a href="info/1002/3243.htm" target="_blank"><img src="/__local/D/2A/0E/893E5870EC0D455ED0BC7A64DDC_90C66D2B_554D8.jpg"/></a></li>
+<li><a href="info/1002/3262.htm" target="_blank"><img src="/__local/A/4C/FB/18DC8BAE880C39AD3B8B0F82AFD_B167B6EE_ACF22.jpg"/></a></li>
+</ul>
+</div><script>_showDynClickBatch(['dynclicks_u2_3257','dynclicks_u2_3243','dynclicks_u2_3262'],[3257,3243,3262],"wbnews", 1485128552)</script>
+<!--#endeditable--></div></div>
+<div class="c2 fr"><!--#begineditable name="新闻焦点列表" clone="0" namechanged="0" order="3" ispublic="0" tagname="新闻焦点列表" viewid="211913" contentviewid="" contype="" stylesysid="" layout="" action=""--> <div class="headline">
+<h3><a href="info/1002/2936.htm">西安交大师生热议庆祝改革开放40周年大会</a></h3>
+<div class="desc">12月18日上午，中共中央、国务院召开大会，隆重庆祝改革开放40周年，回顾改革开放40年的光辉历程，深刻总结改革开放的宝贵经验，表彰为改革开放做...</div>
+</div>
+<div class="main-list">
+<ul>
+<li><a href="info/1002/3800.htm">数学与统计学院举办庆祝教师节暨西迁纪念日活动</a></li>
+<li><a href="info/1002/3802.htm">西安交通大学文明网上线</a></li>
+<li><a href="info/1002/3801.htm">【青春告白祖国】西安交大首届“三新班”圆满闭幕</a></li>
+<li><a href="info/1002/3781.htm">【青春告白祖国】奋斗青春，实践理想，交大学子向祖国告白</a></li>
+</ul>
+</div><script>_showDynClickBatch(['dynclicks_u3_2936','dynclicks_u3_3800','dynclicks_u3_3802','dynclicks_u3_3801','dynclicks_u3_3781'],[2936,3800,3802,3801,3781],"wbnews", 1485128552)</script>
+<!--#endeditable-->
+<div class="more"><a href="xwdt.htm">MORE</a></div></div></div><!-- row1 end -->
+<div class="row2 clearfix">
+<div class="c1">
+<div class="cover"></div>
+<div class="slideTxtBox">
+<div class="hd">
+<ul class="clearfix">
+<li><img alt="" src="images/tab-ico1.png"/><a href="zyjs.htm">中央精神</a> </li>
+<li><img alt="" src="images/tab-ico2.png"/><a href="ts40n.htm">图说40年</a> </li>
+<li><img alt="" src="images/tab-ico3.png"/><a href="mtjj.htm">媒体聚焦</a> </li></ul></div>
+<div class="bd">
+<div class="item"><!--#begineditable name="中央精神" clone="0" namechanged="0" order="4" ispublic="0" tagname="中央财经" viewid="211914" contentviewid="" contype="" stylesysid="" layout="" action=""--> <div class="headline">
+<h3><a href="info/1003/2912.htm" style="font-size:20px; font-weight:bold; color:#fff;">习近平：在庆祝改革开放40周年大会上的讲话</a></h3>
+<div class="desc">习近平
+同志们，朋友们：1978年12月18日，在中华民族历史上，在中国共产党历史上，在中华人民共和国历史上，都必将是载入史册的重要日子。这一天，我们党召开十一届三...</div>
+</div>
+<div class="main-list">
+<ul>
+<li><a href="info/1003/2971.htm">铸就中华民族伟大复兴的里程碑</a></li>
+<li><a href="info/1003/2962.htm">人民日报：在新时代继续把改革开放推向前进</a></li>
+<li><a href="info/1003/2911.htm">习近平号召，将改革开放进行到底</a></li>
+<li><a href="info/1003/2910.htm">人民日报国纪平：“我们这个时代的伟大故事”</a></li>
+<li><a href="info/1003/2909.htm">人民日报：在新时代创造新的更大奇迹</a></li>
+<li><a href="info/1003/2908.htm">习近平总书记改革开放金句 改革不停顿 开放不止步</a></li>
+<li><a href="info/1003/2895.htm">新华社评论员：向着更加壮阔的航程——致敬改革开放40周年</a></li>
+</ul>
+</div><script>_showDynClickBatch(['dynclicks_u4_2912','dynclicks_u4_2971','dynclicks_u4_2962','dynclicks_u4_2911','dynclicks_u4_2910','dynclicks_u4_2909','dynclicks_u4_2908','dynclicks_u4_2895'],[2912,2971,2962,2911,2910,2909,2908,2895],"wbnews", 1485128552)</script>
+<!--#endeditable--></div>
+<div class="item"><!--#begineditable name="图说40年" clone="0" namechanged="0" order="5" ispublic="0" tagname="图说40年" viewid="211915" contentviewid="" contype="" stylesysid="" layout="" action=""--> <div class="headline">
+<h3><a href="info/1004/2572.htm" style="font-size:20px; font-weight:bold; color:#fff;">【图说交大40年】1978：改革开放·腾飞新起点</a></h3>
+<div class="desc">用图片回首来路，以光影彰显初心，与读者一同感受汇入时代长河的交大伟力，展现交大人誓将改革开放进行到底、誓将交大印记载入民族复兴伟大史册的壮志豪情！</div>
+</div>
+<div class="main-list">
+<ul>
+<li><a href="info/1004/3332.htm">【图说交大40年】2018：弘扬西迁精神 矢志爱国奋斗</a></li>
+<li><a href="info/1004/3331.htm">【图说交大40年】2017：习近平总书记对西迁精神做出重要指示</a></li>
+<li><a href="info/1004/3312.htm">【图说交大40年】2016：风云两甲子 弦歌三世纪</a></li>
+<li><a href="info/1004/3311.htm">【图说交大40年】2015：扎根西部 服务国家 世界一流</a></li>
+<li><a href="info/1004/3284.htm">【图说交大40年】2014：大手笔绘就创新港宏图</a></li>
+<li><a href="info/1004/3281.htm">【图说交大40年】2013：三个国家重点实验室评估获优秀</a></li>
+<li><a href="info/1004/3285.htm">【图说交大40年】2012：争创一流·踏上新征程</a></li>
+</ul>
+</div><script>_showDynClickBatch(['dynclicks_u5_2572','dynclicks_u5_3332','dynclicks_u5_3331','dynclicks_u5_3312','dynclicks_u5_3311','dynclicks_u5_3284','dynclicks_u5_3281','dynclicks_u5_3285'],[2572,3332,3331,3312,3311,3284,3281,3285],"wbnews", 1485128552)</script>
+<!--#endeditable--></div>
+<div class="item"><!--#begineditable name="媒体聚焦" clone="0" namechanged="0" order="6" ispublic="0" tagname="媒体聚焦" viewid="211916" contentviewid="" contype="" stylesysid="" layout="" action=""--> <div class="headline">
+<h3><a href="info/1007/3008.htm" style="font-size:20px; font-weight:bold; color:#fff;">中国教育电视台走进西安交大 聚焦高等教育改革的中国经验</a></h3>
+<div class="desc">中国教育电视台走进西安交大 聚焦高等教育改革的中国经验</div>
+</div>
+<div class="main-list">
+<ul>
+<li><a href="info/1007/2855.htm">媒体聚焦纪念恢复研究生教育四十周年暨改革创新高端论坛</a></li>
+<li><a href="info/1007/2847.htm">中国社会科学报整版刊发西安交大专家谈改革开放系列文章（二）</a></li>
+<li><a href="info/1007/2853.htm">中国社会科学报整版刊发西安交大专家谈改革开放系列文章</a></li>
+<li><a href="info/1007/3805.htm">【央广网】西安交大一附院“三管齐下”助力西藏阿里地区医疗水平快速提升</a></li>
+<li><a href="info/1007/3804.htm">【中国青年报头版】西安交大：用奋斗书写青春</a></li>
+<li><a href="info/1007/3797.htm">【西安日报】李永胜：中国特色社会主义为什么“好”？</a></li>
+<li><a href="info/1007/3794.htm">【人民网】第七届中国移植运动会在西安交通大学举行</a></li>
+</ul>
+</div><script>_showDynClickBatch(['dynclicks_u6_3008','dynclicks_u6_2855','dynclicks_u6_2847','dynclicks_u6_2853','dynclicks_u6_3805','dynclicks_u6_3804','dynclicks_u6_3797','dynclicks_u6_3794'],[3008,2855,2847,2853,3805,3804,3797,3794],"wbnews", 1485128552)</script>
+<!--#endeditable--></div></div></div></div>
+<div class="c2">
+<div class="title"><a href="spxw.htm" style="color: #fff">视频新闻</a></div><!--#begineditable name="视频新闻" clone="0" namechanged="0" order="7" ispublic="0" tagname="视频新闻" viewid="211917" contentviewid="" contype="" stylesysid="" layout="" action=""--><div class="video">
+<a href="info/1008/3001.htm">
+<img alt="" class="pic" src="/__local/E/EF/F4/C6E66D4564F39BFA06E4A571817_1733ACC4_87C7.jpg"/>
+<div class="play"><img alt="" src="images/play.png"/></div>
+<div class="text">中国教育电视台：走进西安交大 聚焦高等教育改革的...</div>
+</a>
+</div>
+<div class="main-list">
+<ul>
+<li><a href="info/1008/2991.htm">央视朝闻天下：庆祝改革开放40年 蓄力改革开放再出...</a></li>
+<li><a href="info/1008/2990.htm">央视晚间新闻：数说改革开放40年</a></li>
+<li><a href="info/1008/2989.htm">央视朝闻天下：改革开放杰出贡献人员 致敬改革开放...</a></li>
+</ul>
+</div><script>_showDynClickBatch(['dynclicks_u7_3001','dynclicks_u7_2991','dynclicks_u7_2990','dynclicks_u7_2989'],[3001,2991,2990,2989],"wbnews", 1485128552)</script>
+<!--#endeditable--></div></div>
+<div class="row3">
+<div class="title"><a href="wyggtx.htm" style="color: #db0d1a">我与改革同行</a></div>
+<div class="picScroll-left" id="picscroll1"><a class="next"></a><a class="prev"></a>
+<div class="bd"><!--#begineditable name="我与改革同行" clone="0" namechanged="0" order="8" ispublic="0" tagname="我与改革同行" viewid="211918" contentviewid="" contype="" stylesysid="" layout="" action=""--><ul class="clearfix">
+<li><a href="info/1006/2773.htm"><img alt="" src="http://202.117.3.24:8080/_mediafile/news/2018/12/03/2djsjtuu0u.jpg"/></a></li>
+<li><a href="info/1006/2771.htm"><img alt="" src="http://202.117.3.24:8080/_mediafile/news/2018/12/05/1h3g4aecgn.jpg"/></a></li>
+<li><a href="info/1006/2871.htm"><img alt="" src="/__local/0/51/7A/5361B12E3E7A70E3D99671C8B7C_617EC7B2_288BE.png"/></a></li>
+<li><a href="info/1006/2568.htm"><img alt="" src="http://202.117.3.24:8080/_mediafile/news/2018/10/31/1ayknimx8r.jpg"/></a></li>
+<li><a href="info/1006/2515.htm"><img alt="" src="/__local/0/B9/97/34D72589FB43B923914D8F68BE8_BBDE871B_119CA.jpg"/></a></li>
+<li><a href="info/1006/2525.htm"><img alt="" src="/_mediafile/ggkf40zn/2018/09/27/2psngitrfm.jpg"/></a></li>
+<li><a href="info/1006/1061.htm"><img alt="" src="/__local/9/EF/3A/34164AAAD4FE3263C00DDFEC54A_6E317088_13146.png"/></a></li>
+<li><a href="info/1006/1022.htm"><img alt="" src="/__local/1/32/7D/E0614FD90E570F90FD857E89DB1_0733ECBD_1167B.png"/></a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u8_2773','dynclicks_u8_2771','dynclicks_u8_2871','dynclicks_u8_2568','dynclicks_u8_2515','dynclicks_u8_2525','dynclicks_u8_1061','dynclicks_u8_1022'],[2773,2771,2871,2568,2515,2525,1061,1022],"wbnews", 1485128552)</script>
+<!--#endeditable--></div></div></div><!-- row3 end -->
+<div class="row4 clearfix">
+<div class="c1">
+<div class="title"><a href="cgxl.htm" style="color: #db0d1a">成果巡礼</a></div>
+<div class="main">
+<div class="more"><a href="cgxl.htm"></a></div><!--#begineditable name="成果巡礼" clone="0" namechanged="0" order="9" ispublic="0" tagname="成果巡礼" viewid="211919" contentviewid="" contype="" stylesysid="" layout="" action=""--><dl>
+<dt><a href="info/1005/2906.htm">繁荣发展哲学社会科学 加快建设世界一流大学</a></dt>
+<dd>
+<span class="time"></span>
+<span>​伴随着改革开放的伟大历程，中国哲学社会科学经历了四十年的快速发展。西安交通大学作为“985工程”、“211工程”及“双一流”建设高校，在国家大力支持和全校师生共...</span>
+<a href="info/1005/2906.htm">[详情]</a>
+</dd>
+</dl>
+<dl>
+<dt><a href="info/1005/2873.htm">党建领航促发展，凝心聚气谱新篇</a></dt>
+<dd>
+<span class="time"></span>
+<span>伟大的变革造就伟大的时代。改革开放40年来，在中国共产党的坚强领导下，中国人民艰苦奋斗、顽强拼搏，用双手书写了国家和民族发展的壮丽史诗，中华大地发生了感天动地...</span>
+<a href="info/1005/2873.htm">[详情]</a>
+</dd>
+</dl>
+<dl>
+<dt><a href="info/1005/2786.htm">西安交大本科人才培养成就回顾</a></dt>
+<dd>
+<span class="time"></span>
+<span>翻开波澜壮阔的改革开放40年长卷，西安交大一直与祖国发展同向同行，为中国高等教育、国家经济建设尤其是西部地区发展做出了卓越贡献。学校坚持“欲成第一等学问、事业...</span>
+<a href="info/1005/2786.htm">[详情]</a>
+</dd>
+</dl>
+<dl>
+<dt><a href="info/1005/2785.htm">西安交大人事制度改革与队伍建设成就回顾</a></dt>
+<dd>
+<span class="time"></span>
+<span>40年斗转星移，40年春华秋实。回顾改革开放以来，在党中央领导下，全党全社会同心同德，艰苦奋斗，开辟出具有中国特色的社会主义教育发展道路，推进高校深化改革。西安...</span>
+<a href="info/1005/2785.htm">[详情]</a>
+</dd>
+</dl>
+<script>_showDynClickBatch(['dynclicks_u9_2906','dynclicks_u9_2873','dynclicks_u9_2786','dynclicks_u9_2785'],[2906,2873,2786,2785],"wbnews", 1485128552)</script>
+<!--#endeditable--></div></div>
+<div class="c2">
+<div class="title">e<a href="Ey40n.htm" style="color: #db0d1a">眼四十年</a></div>
+<div class="main">
+<h6><img alt="" src="images/weichat.jpg"/>微信</h6>
+<div class="pic"><!--#begineditable name="微信图片" clone="0" namechanged="0" order="10" ispublic="0" tagname="微信图片" viewid="211921" contentviewid="" contype="" stylesysid="" layout="" action=""-->
+<img src="images/img1.jpg"/>
+<!--#endeditable--></div>
+<div class="main-list"><!--#begineditable name="微信标题列表" clone="0" namechanged="0" order="11" ispublic="0" tagname="微信标题列表" viewid="211922" contentviewid="" contype="" stylesysid="" layout="" action=""--><ul>
+<li><a href="https://mp.weixin.qq.com/s/G4Otclyrkro4D7tRlNbafQ">星光璀璨 | 西安交大庆祝改革开放40周年合唱...</a></li>
+<li><a href="https://mp.weixin.qq.com/s/TlHcDMTqw1dDIcSt8OBLog">点赞！西安交大召开纪念恢复研究生教育40周...</a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u11_2893','dynclicks_u11_2894'],[2893,2894],"wbnews", 1485128552)</script>
+<!--#endeditable--></div></div>
+<div class="main">
+<h6><img alt="" src="images/weibo.jpg"/>微博</h6><!--#begineditable name="新浪微博秀" clone="0" namechanged="0" order="12" ispublic="0" tagname="新浪微博秀" viewid="211923" contentviewid="" contype="" stylesysid="" layout="" action=""-->
+<!--
+使用说明：
+1、请登录新浪微博(http://weibo.com)并用您要秀的微博账号登录
+2、选择左侧菜单中的“微博秀”，即进入微博秀样式设置界面，设置完成后可得到一段“嵌入代码”
+3、将获得的“嵌入代码”粘贴至本组件的样式模板中。
+-->
+<iframe class="share_self" frameborder="0" height="260" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&amp;width=0&amp;height=260&amp;fansRow=2&amp;ptype=1&amp;speed=300&amp;skin=5&amp;isTitle=0&amp;noborder=0&amp;isWeibo=1&amp;isFans=0&amp;uid=1862928653&amp;verifier=b193b9de&amp;dpc=1" width="100%"></iframe><!--#endeditable--></div></div></div><!-- row4 end -->
+<div class="row5">
+<div class="title"><a href="jdyj.htm" style="color: #db0d1a">交大印记</a></div>
+<div class="picScroll-left" id="picscroll2"><a class="next"></a><a class="prev"></a>
+<div class="bd"><!--#begineditable name="交大印记" clone="0" namechanged="0" order="13" ispublic="0" tagname="交大印记" viewid="211920" contentviewid="" contype="" stylesysid="" layout="" action=""--><ul class="clearfix">
+<li><a><img alt="" src="/__local/B/F0/5B/2D76F8D02DC02A376C26F782FE9_9E3A174E_9C51.jpg"/></a></li>
+<li><a><img alt="" src="/__local/0/90/E4/E2C302149493813FEA77D200711_4517D6D7_E86D.jpg"/></a></li>
+<li><a><img alt="" src="/__local/B/8C/DA/6F9F2D661B6E76481CA93EB6312_855A504B_6ED1.jpg"/></a></li>
+<li><a><img alt="" src="/__local/C/59/7F/295CF7F01DAE1FC47E8163BCE69_C399B0DA_AA74.jpg"/></a></li>
+<li><a><img alt="" src="/__local/6/C7/DD/E1D11C0F35B6C090CB350B06B6D_2B3B6D24_6AEC.jpg"/></a></li>
+<li><a><img alt="" src="/__local/E/6E/34/E7D30402C7C6F445858CDF067F3_9F1C622A_12608.jpg"/></a></li>
+<li><a><img alt="" src="/__local/0/E4/66/1E098EB4A0B80BB44CC861C8E51_61D5897A_73E9.jpg"/></a></li>
+<li><a><img alt="" src="/__local/C/94/E6/0F1E04B06BD208318303C04060B_6478ACF7_B8D6.jpg"/></a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u13_2812','dynclicks_u13_2811','dynclicks_u13_2810','dynclicks_u13_2809','dynclicks_u13_2808','dynclicks_u13_2807','dynclicks_u13_2806','dynclicks_u13_2805'],[2812,2811,2810,2809,2808,2807,2806,2805],"wbnews", 1485128552)</script>
+<!--#endeditable--></div></div></div><!-- row5 end -->
+<div class="f-banner"><!--#begineditable name="底部大banner图" clone="0" namechanged="0" order="14" ispublic="0" tagname="底部大banner图" viewid="211924" contentviewid="" contype="" stylesysid="" layout="" action=""-->
+<img alt="" src="images/d_banner.png"/>
+<!--#endeditable--></div></div>
+<div class="footer">
+<div class="f-logo"><!--#begineditable name="底部logo图" clone="0" namechanged="0" order="15" ispublic="0" tagname="底部logo图" viewid="211925" contentviewid="" contype="" stylesysid="" layout="" action=""-->
+<img alt="" src="images/f-logo.jpg"/>
+<!--#endeditable--></div>
+<div class="copyright"><!--#begineditable name="版权" clone="0" namechanged="0" order="16" ispublic="0" tagname="版权" viewid="211926" contentviewid="" contype="" stylesysid="" layout="" action=""--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>地址：陕西省西安市咸宁西路28号 邮编：710049 主页建议意见</p><p>版权所有：西安交通大学党委宣传部  站点建设与维护： 网络信息中心 陕ICP备06008037号</p><!--#endeditable--></div></div>
+</div></body></html>

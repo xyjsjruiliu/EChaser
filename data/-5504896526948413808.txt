@@ -1,0 +1,268 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<title>学校召开党委常委会-西安交通大学数字报</title>
+<link href="css/ys.css" rel="stylesheet" type="text/css"/>
+<script language="Javascript" src="js/prototype.js"></script>
+<script language="Javascript" src="js/range1.js"></script>
+<script language="Javascript" src="js/calendar.js"></script>
+<script language="Javascript" src="js/menu.js"></script>
+<script language="Javascript" src="js/jquery-1.9.1.min.js"></script>
+<meta content="交大报,西安交大报,西安交大数字报,西安交大数字报纸 ,西安交大电子报" name="keywords">
+<meta content="交大报,西安交大报,西安交大数字报,西安交大数字报纸 ,西安交大电子报" name="description"/>
+<script type="text/javaScript">
+		function doZoom(size){
+			document.getElementById('zoom').style.fontSize=size+'px'}
+	</script>
+<style type="text/css">
+	.bantu_img {position:relative;  top:22px; left:15px;width:402px;height:542px;z-index:99;}
+</style>
+<script type="text/javascript">
+
+         jQuery(document).ready(function () {
+			 	  //通版
+			if(402>403){
+			jQuery('#zhankan').click(function(){
+			jQuery('img.bantu_img').css("width","790");
+			
+			  });
+			jQuery("#shousuo").click(function(){
+            jQuery("img.bantu_img").css("width","373");
+			
+            });
+			jQuery("#tongban").show();
+			}
+			if(402<403){
+			jQuery("#tongban").hide();
+			}
+			//选框移入移出
+		   jQuery("map").mouseover(function(event){
+  
+	    rangeDeltaX =11;
+		rangeDeltaY = -60;
+		drawLine(event.target,event);
+		  });
+
+		jQuery("#sss").mouseout(function(){
+		var divElm = document.getElementById("leveldiv");
+		divElm.style.border = "";
+	
+		showTitlePane(false);
+
+		});
+		jQuery("#ttt").mouseout(function(){
+		var divElm = document.getElementById("leveldiv");
+		divElm.style.border = "";
+	
+		showTitlePane(false);
+
+		});
+		var content = jQuery("#zoom").html().replace(/&nbsp;&nbsp;&nbsp;&nbsp;/g,"&#12288;&#12288;");
+		jQuery("#zoom").html(content);
+
+		//点击量和文章字数统计
+               var count1=content.length;
+			   jQuery.get("/tbarticle.do?epaper=sum&riqi="+"19-9-12"+"&banci="+"01"+"&title="+encodeURIComponent("学校召开党委常委会"),function(data,status){
+			  
+					var str = "文章字数："+count1+"&nbsp;&nbsp;&nbsp;&nbsp;文章浏览数："+data;;
+					jQuery("#div1").html(str);
+				});
+
+			     //日历控件
+			   	
+			var dd='19-9-12'.split('-');
+			$("#rili").html("<span  class='search_span1'>20"+dd[0]+"年"+dd[1]+"月"+dd[2]+"日</span>");
+            
+		});
+		</script>
+</meta></head>
+<body>
+<div id="ttt">
+</div><div id="leveldiv" style="z-index:100;  POSITION: absolute; pointer-events: none;"></div>
+<div class="tb_sxrb">
+<!--导航-->
+</div>
+<div class="main_02">
+<div class="logo_dt_1">
+</div>
+<div class="daoh">
+<div class="menu">
+<div class="menu_nei">
+<ul id="nav">
+<li class="top1">
+<a class="top_link" href="/"><span>数字报首页</span></a>
+</li>
+<li class="top1">
+<a class="top_link" href="" id="products"><span class="down">版面导航</span></a>
+<ul class="sub1">
+<li>
+<div onclick="window.open('index.htm','_self')"><a href="#">第01版：要闻</a></div>
+<div onclick="window.open('page_01.htm','_self')"><a href="#">第02版：综合信息</a></div>
+<div onclick="window.open('page_02.htm','_self')"><a href="#">第03版：校园生活</a></div>
+<div onclick="window.open('page_03.htm','_self')"><a href="#">第04版：专版</a></div>
+</li>
+</ul>
+</li>
+<li class="top1">
+<a class="top_link" href="" id="contacts"><span class="down">标题导航</span></a>
+<ul class="sub2">
+<li>
+<div onclick="window.open('index_content_000.htm','_self')" title="学校举行2019级新生开学典礼">
+<div id="mp000" style="DISPLAY: inline">
+<a href="#">学校举行2019级新生开学典礼</a>
+</div>
+</div>
+<div onclick="window.open('index_content_002.htm','_self')" title="重教尊师人文蔚起 育才启智事业昌隆">
+<div id="mp002" style="DISPLAY: inline">
+<a href="#">重教尊师人文蔚起 育才启智事业昌隆</a>
+</div>
+</div>
+<div onclick="window.open('index_content_003.htm','_self')" title="学校召开党委常委会">
+<div id="mp003" style="DISPLAY: inline">
+<a href="#">学校召开党委常委会</a>
+</div>
+</div>
+<div onclick="window.open('index_content_004.htm','_self')" title="陶文铨当选最美科技工作者">
+<div id="mp004" style="DISPLAY: inline">
+<a href="#">陶文铨当选最美科技工作者</a>
+</div>
+</div>
+<div onclick="window.open('index_content_001.htm','_self')" title="用青春之我 创造青春之交大">
+<div id="mp001" style="DISPLAY: inline">
+<a href="#">用青春之我 创造青春之交大</a>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="top1">
+<a class="top_link" href="outline.htm" id="privacy"><span>版面概览</span></a>
+</li>
+<li class="top1">
+<a class="top_link" href="/about.jsp" target="_blank"><span>联系我们</span></a>
+</li>
+<li class="shijian">
+<script type="text/javascript">
+ var today = new Date(); //新建一个Date对象
+  var date = today.getDate();//查询当月日期
+  var day = today.getDay();//查询当前星期几
+  var month = today.getMonth()+1;//查询月份
+  var year = today.getFullYear();//查询年份  
+  var hour=today.getHours();
+  var morning="";
+  if (hour>=8 & hour<=12) morning="上午好";
+  var week="";                               
+  if (day==0) week='星期日';
+  if (day==1) week='星期一';
+  if (day==2) week='星期二';
+  if (day==3) week='星期三';
+  if (day==4) week='星期四';
+  if (day==5) week='星期五';
+  if (day==6) week='星期六';
+  document.write(year+"年"+month+"月"+date+"日 "+week+" ");
+</script></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div style=" clear:both"></div>
+<div class="wrap_03">
+<div class="main">
+<div class="page">
+<div id="sss" style="width: 440px;height: 591px;float: left;background: url('images/bz_bg.png') no-repeat;">
+<img border="0" class="bantu_img" src="index.jpg" usemap="#Map"/>
+</div>
+<div id="tongban">
+<div class="dianji">通版阅读请点击：</div><div id="zhankan">展开通版</div> <div id="shousuo">收缩通版</div>
+</div>
+<div class="bott_1">
+<div class="b_bot">
+                        当前版：01版
+                </div>
+<div class="page_bottom">
+<a href="index.htm">首版</a>
+<a href="#">上一版</a>
+<a href="page_01.htm">下一版</a>
+<a href="page_03.htm">末版</a>
+</div>
+</div>
+</div>
+<div class="right">
+<div class="r_top">
+<div class="ss_rl"><span class="ss_rl_1">发布日期:</span><span class="ss_rl_2" id="rili"></span></div>
+<div class="search">
+<form action="/tbarticle.do?" id="Form1" method="get" name="formSearch" target="_blank">
+<input name="epaper" type="hidden" value="searchlistWy"/>
+<input name="STime" type="hidden" value=""/>
+<input name="ETime" type="hidden" value=""/>
+<div class="search_span"><select name="type" style=" font-size:12px; border:1px solid #D0D0D0;  height:25px; float:left; width:80px;"><option selected="selected" value="1">文章标题</option>
+<option value="2">文章内容</option>
+<option value="3">文章作者</option></select></div>
+<div class="search_text01">
+<input id="title" name="title" style="  border: 1px solid #D0D0D0;  width: 172px; height: 21px; line-height: 23px;  float: left;" type="text"/>
+</div>
+<div class="search_bat"><input height="25" name="image" onclick="return searchSubmit();" src="images/search_btn.jpg" type="image" width="60"/></div>
+</form>
+<script type="text/javascript">
+		function searchSubmit(){
+		var title = document.getElementById("title").value;
+			if(title==''){
+				alert('搜索关键字不能为空！');
+				return false;
+			}else{
+				return true;
+			}
+		
+		}
+	</script>
+</div>
+</div>
+<div class="bmnr">
+<div class="list_title">
+<a class="list_title_fanye" href="index_content_002.htm">上一篇</a>
+<a class="list_title_fanye" href="index_content_004.htm">下一篇</a>
+<div class="list_title_ziti">字体：</div>
+<a class="list_title_ziti_a" href="javascript:doZoom(18)">放大<img src="images/fangda_icon.gif"/></a>
+<a class="list_title_ziti_a" href="javascript:doZoom(12)">缩小<img src="images/suoxiao_icon.gif"/></a>
+<a class="list_title_ziti_a" href="javascript:doZoom(14)">默认<img src="images/moren_icon.gif"/></a>
+</div>
+<div class="bmnr_con">
+<div class="bmnr_con_yinti"> </div>
+<div class="bmnr_con_biaoti">
+						学校召开党委常委会 	
+					</div>
+<div class="bmnr_con_yinti">学习交流《《约法十则约法十则》》审议创新港建设标准等文件 </div>
+<div class="bmnr_con_biaoti"><div id="div1" style="font-size:12px; class:#ccc; font-weight:100;height:20px"></div></div>
+<div class="bmnr_con_con">
+<div id="zoom">　　<strong>本报讯</strong> 8月30日上午，学校召开党委常委会，传达学习中央《关于深化新时代学校思想政治理论课改革创新的若干意见》精神，通报学校思想政治理论课建设情况。重温《约法十则》，履行不变的承诺。审议《西安交通大学领导干部廉政档案管理办法》《西安交通大学党纪政纪处分决定执行工作办法》《西安交通大学落实二级纪委监督责任实施办法》《西安交通大学二级党组织纪检委员管理办法》《中国西部科技创新港建设标准》《西安交通大学岗位聘用实施办法》等，通报创新港启用运行的有关情况。校党委书记张迈曾主持会议。学院负责人代表列席会议。 <br/>　　会议要求，充分认识思政课是落实立德树人根本任务的关键课程。要对标《意见》，跟进落实好《西安交通大学加强思想政治理论课建设20条》，全面提高思政课质量和水平，坚持不懈用习近平新时代中国特色社会主义思想铸魂育人。 <br/>　　常委同志重温《约法十则》，各位同志进行了热烈讨论，一致表示，《约法十则》体现了本届领导班子的初心和使命，体现了对全校师生的郑重承诺，必须始终带头履行好《约法十则》，为践行初心使命增添力量；必须始终以自身的坚持和落实，带动各级干部坚守承诺、履职尽责。 <br/>　　新的学期，使命崇高、任务繁重、压力巨大，要结合“不忘初心、牢记使命”主题教育，凝聚力量、振奋精神，坚决推进好学科评估、创新港建设、庆祝中华人民共和国成立70周年系列活动等各项工作，以优异成绩向新中国70华诞献礼。 <br/>　　会议指出，《西安交通大学领导干部廉政档案管理办法》等4个文件的出台，是学校持续落实中央政治巡视整改的重要举措。校纪委要加强宣传解读，抓好纪检干部培训，加大监督检查力度，确保文件落实成效。 <br/>　　会议通过了《中国西部科技创新港建设标准》，要求将一流标准落实到创新港建设的各项工作中，为早日实现建“港”目标、助力世界一流大学建设作出积极贡献。 <br/>　　会议通报了创新港迎新和开学典礼工作筹备，工位、教室、宿舍等空气质量检查以及管理服务、后勤保障等情况，要求各单位主动作为，抓细抓实，确保创新港顺利启用运行。 <br/>　　会议通过了创新港科创基地二期建设相关事宜，要求加快推进项目建设手续办理工作，多渠道争取支持，推动项目尽早建成投用。 <br/>　　会议通过了《西安交通大学岗位聘用实施办法》，要求聚焦一流大学建设目标，围绕“明导向、重业绩、可调整、全覆盖”的思路，坚持“业绩为王”，打破岗位设置的“天花板”，充分激发人才创新创造活力，为深化改革、加强队伍建设提供制度保障。 <br/>　　会议还研究了其他事项。（党、校办）</div>
+<script charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript"></script>
+<script charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript"></script>
+</div>
+</div>
+<div style="clear:both"></div>
+<div class="fx">
+<div class="bshare-custom" style="position:relative; left:10px; top:10px">
+<a class="bshare-more" href="http://www.bShare.cn/" id="bshare-shareto" title="分享到">分享到</a><a class="bshare-weixin" title="分享到微信">微信</a><a class="bshare-qqim" title="分享到QQ好友">QQ好友</a><a class="bshare-qzone" title="分享到QQ空间">QQ空间</a><a class="bshare-sinaminiblog" title="分享到新浪微博">新浪微博</a><a class="bshare-more bshare-more-icon more-style-sharethis" title="更多平台"></a><span class="BSHARE_COUNT bshare-share-count">0</span></div><script charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=cc34420b-96de-4724-8b64-1634161dff4e&amp;pophcol=3&amp;lang=zh" type="text/javascript"></script><script charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript"></script>
+</div>
+</div>
+</div>
+<div style="clear:both;height:10px;"></div>
+</div></div>
+</body></html>
+<div class="main">
+<div class="bottom">
+版权所有：西安交通大学 陕ICP备05001571号  技术支持：<a href="http://www.joyhua.com">锦华科技</a>
+</div></div>
+<map name="Map">
+<area coords="0,0,0,0,0,0,0,0,0,0,0,0" href="#" shape="poly"/><area coords="34,102,271,281" href="index_content_000.htm" shape="rect"/>
+<area coords="279,105,365,500" href="index_content_001.htm" shape="rect"/>
+<area coords="34,294,137,504" href="index_content_002.htm" shape="rect"/>
+<area coords="141,295,271,437" href="index_content_003.htm" shape="rect"/>
+<area coords="141,448,271,503" href="index_content_004.htm" shape="rect"/>
+</map>
+
+

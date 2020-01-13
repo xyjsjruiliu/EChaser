@@ -1,0 +1,280 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<title>理论学习要“管用”-西安交通大学数字报</title>
+<link href="css/ys.css" rel="stylesheet" type="text/css"/>
+<script language="Javascript" src="js/prototype.js"></script>
+<script language="Javascript" src="js/range1.js"></script>
+<script language="Javascript" src="js/calendar.js"></script>
+<script language="Javascript" src="js/menu.js"></script>
+<script language="Javascript" src="js/jquery-1.9.1.min.js"></script>
+<meta content="交大报,西安交大报,西安交大数字报,西安交大数字报纸 ,西安交大电子报" name="keywords">
+<meta content="交大报,西安交大报,西安交大数字报,西安交大数字报纸 ,西安交大电子报" name="description"/>
+<script type="text/javaScript">
+		function doZoom(size){
+			document.getElementById('zoom').style.fontSize=size+'px'}
+	</script>
+<style type="text/css">
+	.bantu_img {position:relative;  top:22px; left:15px;width:402px;height:542px;z-index:99;}
+</style>
+<script type="text/javascript">
+
+         jQuery(document).ready(function () {
+			 	  //通版
+			if(402>403){
+			jQuery('#zhankan').click(function(){
+			jQuery('img.bantu_img').css("width","790");
+			
+			  });
+			jQuery("#shousuo").click(function(){
+            jQuery("img.bantu_img").css("width","373");
+			
+            });
+			jQuery("#tongban").show();
+			}
+			if(402<403){
+			jQuery("#tongban").hide();
+			}
+			//选框移入移出
+		   jQuery("map").mouseover(function(event){
+  
+	    rangeDeltaX =11;
+		rangeDeltaY = -60;
+		drawLine(event.target,event);
+		  });
+
+		jQuery("#sss").mouseout(function(){
+		var divElm = document.getElementById("leveldiv");
+		divElm.style.border = "";
+	
+		showTitlePane(false);
+
+		});
+		jQuery("#ttt").mouseout(function(){
+		var divElm = document.getElementById("leveldiv");
+		divElm.style.border = "";
+	
+		showTitlePane(false);
+
+		});
+		var content = jQuery("#zoom").html().replace(/&nbsp;&nbsp;&nbsp;&nbsp;/g,"&#12288;&#12288;");
+		jQuery("#zoom").html(content);
+
+		//点击量和文章字数统计
+               var count1=content.length;
+			   jQuery.get("/tbarticle.do?epaper=sum&riqi="+"19-9-26"+"&banci="+"01"+"&title="+encodeURIComponent("理论学习要“管用”"),function(data,status){
+			  
+					var str = "文章字数："+count1+"&nbsp;&nbsp;&nbsp;&nbsp;文章浏览数："+data;;
+					jQuery("#div1").html(str);
+				});
+
+			     //日历控件
+			   	
+			var dd='19-9-26'.split('-');
+			$("#rili").html("<span  class='search_span1'>20"+dd[0]+"年"+dd[1]+"月"+dd[2]+"日</span>");
+            
+		});
+		</script>
+</meta></head>
+<body>
+<div id="ttt">
+</div><div id="leveldiv" style="z-index:100;  POSITION: absolute; pointer-events: none;"></div>
+<div class="tb_sxrb">
+<!--导航-->
+</div>
+<div class="main_02">
+<div class="logo_dt_1">
+</div>
+<div class="daoh">
+<div class="menu">
+<div class="menu_nei">
+<ul id="nav">
+<li class="top1">
+<a class="top_link" href="/"><span>数字报首页</span></a>
+</li>
+<li class="top1">
+<a class="top_link" href="" id="products"><span class="down">版面导航</span></a>
+<ul class="sub1">
+<li>
+<div onclick="window.open('index.htm','_self')"><a href="#">第01版：要闻</a></div>
+<div onclick="window.open('page_01.htm','_self')"><a href="#">第02版：综合信息</a></div>
+<div onclick="window.open('page_02.htm','_self')"><a href="#">第03版：专版</a></div>
+<div onclick="window.open('page_03.htm','_self')"><a href="#">第04版：校园生活</a></div>
+</li>
+</ul>
+</li>
+<li class="top1">
+<a class="top_link" href="" id="contacts"><span class="down">标题导航</span></a>
+<ul class="sub2">
+<li>
+<div onclick="window.open('index_content_000.htm','_self')" title="学校“不忘初心、牢记使命”主题教育全面启动">
+<div id="mp000" style="DISPLAY: inline">
+<a href="#">学校“不忘初心、牢记使命”主题教育全面启动</a>
+</div>
+</div>
+<div onclick="window.open('index_content_004.htm','_self')" title="学校召开党委常委会">
+<div id="mp004" style="DISPLAY: inline">
+<a href="#">学校召开党委常委会</a>
+</div>
+</div>
+<div onclick="window.open('index_content_006.htm','_self')" title="学校进入ESI前1%学科达15个">
+<div id="mp006" style="DISPLAY: inline">
+<a href="#">学校进入ESI前1%学科达15个</a>
+</div>
+</div>
+<div onclick="window.open('index_content_002.htm','_self')" title="我校“西迁人”爱国奋斗先进群体被授予“最美奋斗者”称号">
+<div id="mp002" style="DISPLAY: inline">
+<a href="#">我校“西迁人”爱国奋斗先进群体被授予“最美奋斗者”称号</a>
+</div>
+</div>
+<div onclick="window.open('index_content_003.htm','_self')" title="两名校友被授予国家勋章和国家荣誉称号">
+<div id="mp003" style="DISPLAY: inline">
+<a href="#">两名校友被授予国家勋章和国家荣誉称号</a>
+</div>
+</div>
+<div onclick="window.open('index_content_005.htm','_self')" title="我校214人获颁“庆祝中华人民共和国成立70周年”纪念章">
+<div id="mp005" style="DISPLAY: inline">
+<a href="#">我校214人获颁“庆祝中华人民共和国成立70周年”纪念章</a>
+</div>
+</div>
+<div onclick="window.open('index_content_001.htm','_self')" title="理论学习要“管用”">
+<div id="mp001" style="DISPLAY: inline">
+<a href="#">理论学习要“管用”</a>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="top1">
+<a class="top_link" href="outline.htm" id="privacy"><span>版面概览</span></a>
+</li>
+<li class="top1">
+<a class="top_link" href="/about.jsp" target="_blank"><span>联系我们</span></a>
+</li>
+<li class="shijian">
+<script type="text/javascript">
+ var today = new Date(); //新建一个Date对象
+  var date = today.getDate();//查询当月日期
+  var day = today.getDay();//查询当前星期几
+  var month = today.getMonth()+1;//查询月份
+  var year = today.getFullYear();//查询年份  
+  var hour=today.getHours();
+  var morning="";
+  if (hour>=8 & hour<=12) morning="上午好";
+  var week="";                               
+  if (day==0) week='星期日';
+  if (day==1) week='星期一';
+  if (day==2) week='星期二';
+  if (day==3) week='星期三';
+  if (day==4) week='星期四';
+  if (day==5) week='星期五';
+  if (day==6) week='星期六';
+  document.write(year+"年"+month+"月"+date+"日 "+week+" ");
+</script></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div style=" clear:both"></div>
+<div class="wrap_03">
+<div class="main">
+<div class="page">
+<div id="sss" style="width: 440px;height: 591px;float: left;background: url('images/bz_bg.png') no-repeat;">
+<img border="0" class="bantu_img" src="index.jpg" usemap="#Map"/>
+</div>
+<div id="tongban">
+<div class="dianji">通版阅读请点击：</div><div id="zhankan">展开通版</div> <div id="shousuo">收缩通版</div>
+</div>
+<div class="bott_1">
+<div class="b_bot">
+                        当前版：01版
+                </div>
+<div class="page_bottom">
+<a href="index.htm">首版</a>
+<a href="#">上一版</a>
+<a href="page_01.htm">下一版</a>
+<a href="page_03.htm">末版</a>
+</div>
+</div>
+</div>
+<div class="right">
+<div class="r_top">
+<div class="ss_rl"><span class="ss_rl_1">发布日期:</span><span class="ss_rl_2" id="rili"></span></div>
+<div class="search">
+<form action="/tbarticle.do?" id="Form1" method="get" name="formSearch" target="_blank">
+<input name="epaper" type="hidden" value="searchlistWy"/>
+<input name="STime" type="hidden" value=""/>
+<input name="ETime" type="hidden" value=""/>
+<div class="search_span"><select name="type" style=" font-size:12px; border:1px solid #D0D0D0;  height:25px; float:left; width:80px;"><option selected="selected" value="1">文章标题</option>
+<option value="2">文章内容</option>
+<option value="3">文章作者</option></select></div>
+<div class="search_text01">
+<input id="title" name="title" style="  border: 1px solid #D0D0D0;  width: 172px; height: 21px; line-height: 23px;  float: left;" type="text"/>
+</div>
+<div class="search_bat"><input height="25" name="image" onclick="return searchSubmit();" src="images/search_btn.jpg" type="image" width="60"/></div>
+</form>
+<script type="text/javascript">
+		function searchSubmit(){
+		var title = document.getElementById("title").value;
+			if(title==''){
+				alert('搜索关键字不能为空！');
+				return false;
+			}else{
+				return true;
+			}
+		
+		}
+	</script>
+</div>
+</div>
+<div class="bmnr">
+<div class="list_title">
+<a class="list_title_fanye" href="index_content_005.htm">上一篇</a>
+<a class="list_title_fanye" href="#">下一篇</a>
+<div class="list_title_ziti">字体：</div>
+<a class="list_title_ziti_a" href="javascript:doZoom(18)">放大<img src="images/fangda_icon.gif"/></a>
+<a class="list_title_ziti_a" href="javascript:doZoom(12)">缩小<img src="images/suoxiao_icon.gif"/></a>
+<a class="list_title_ziti_a" href="javascript:doZoom(14)">默认<img src="images/moren_icon.gif"/></a>
+</div>
+<div class="bmnr_con">
+<div class="bmnr_con_yinti">●思源时评</div>
+<div class="bmnr_con_biaoti">
+						理论学习要“管用” 	
+					</div>
+<div class="bmnr_con_yinti">特约评论员 焦仲平</div>
+<div class="bmnr_con_biaoti"><div id="div1" style="font-size:12px; class:#ccc; font-weight:100;height:20px"></div></div>
+<div class="bmnr_con_con">
+<div id="zoom">　　“不忘初心、牢记使命”主题教育在全党自上而下分两批进行，就是要坚持思想建党、理论强党，以理论滋养初心、以理论引领使命，推动全党深入学习贯彻习近平新时代中国特色社会主义思想，推动全党更加自觉地为新时代党的历史使命而努力奋斗。 <br/>　　一个政党，历经98年依然焕发活力与生机，一定有其原因。而在这诸多原因中，学习是非常关键的因素。习近平总书记指出：“好学才能上进。中国共产党人依靠学习走到今天，也必然要依靠学习走向未来。”只有不断加强理论学习，才能检验初心的光荣；只有不断加强理论学习，才能为担当使命注入新的动力；只有不断加强理论学习，才能认识到与先进的差距；只有不断加强理论学习，才能在落实整改中定位正确的方向。 <br/>　　立身百行，以学为基。西安交通大学面对当今世界百年未有之大变局，面对第四次工业革命的兴起，面对光荣艰巨的为党育人、为国育才的重任，面对进行伟大斗争、伟大工程、伟大事业、伟大梦想的波澜壮阔实践，全体交大人，特别是党员干部必须更加崇尚学习、积极改造学习、持续深化学习，不断增强适应新时代党和国家事业发展要求的能力。 <br/>　　加强理论学习，以理论滋养初心、引领使命为根本。作为党员干部，要坚持不懈抓好理论武装，不断提高马克思主义思想觉悟和理论水平。守初心、担使命，离不开科学思想引领。习近平新时代中国特色社会主义思想是当代中国马克思主义、21世纪马克思主义。用这一重要思想武装头脑、指导实践、推动工作，是我们做好一切工作的重要前提。开展这次“不忘初心、牢记使命”主题教育，要把强化理论武装作为根本性任务，聚焦解决思想根子问题。 <br/>　　毛泽东曾说过：“如果我们党有一百个至二百个系统地而不是零碎地、实际地而不是空洞地学会了马克思列宁主义的同志，就会大大地提高我们党的战斗力量”。高校知识分子是专业化、职业化的脑力劳动者，是先进生产力的开拓者，更是先进思想文化的传承者、阐释者、创造者、教育者，在实现中华民族伟大复兴中肩负着特别重要的使命。因此，在理论学习方面，高校知识分子应该要有更高的要求和标准，从思想根子上真正解决好“培养什么人、怎样培养人、为谁培养人”的核心之问。尤其是党员干部，要更加注意思想建设和思维建设，要在原有学习的基础上取得新进步，进一步加深对习近平新时代中国特色社会主义思想和党中央大政方针的理解。在进行理论学习的时候，既需要“深得进去”，反复精读原文，掌握思想原旨，提高政治站位和政治觉悟；又需要“浅得出来”，把习近平新时代中国特色社会主义思想落细落小落实，从实际出发、把自己摆进去，在上下结合中做到学深悟透、学以致知、学以力行。这样才能够让理论学习有广度，有深度，有态度。 <br/>　　理论的生命在实践中孕育，理论的价值在实践中彰显。马克思在《黑格尔法哲学批判》中讲：“理论一经掌握群众，也会变成物质力量”。同时，理论联系实际也是中国共产党的三大优良作风之一。以理论滋养初心、引领使命，就要更加自觉用党的创新理论指导解决实际问题，破除形而上学和教条主义思维，切实把学习成效转化为做好本职工作、推动事业发展的生动实践。当前，我国正在由高等教育大国向高等教育强国迈进，高校改革发展进入新阶段。适应这一新形势新要求，学校的党员干部要坚持学习与实践相统一、理论与实践相结合，通过不断学习和实践克服本领恐慌、能力不足的问题，学出战略思维能力、综合决策能力、驾驭全局能力。面对学校的建设发展，党员干部要以敏锐的眼光和宽广的视野去思考，善于从纷繁复杂的现象中找到问题，以科学方法来分析问题，由表及里、由浅入深，弄清楚问题的本来面目及相互联系，找到问题存在的背景、根源和症结所在，最终选择正确合理的方法去解决和化解问题，大力推进高等教育改革，实现高等教育内涵式发展，努力培养一代又一代拥护中国共产党领导和我国社会主义制度、立志为中国特色社会主义奋斗终身的有用人才，为实现中华民族伟大复兴的中国梦贡献智慧和力量。 <br/>　　理论学习，与调查研究、检视问题、整改落实是密切联系的整体。理论学习本身不是目的，它是守住初心、担当使命、找准差距、抓好落实的前提和基础。把学习变成一种习惯，从一时的坚持变成一辈子的坚持。只有在学习教育阶段打下坚实的理论基础，才能保证调查研究、检视问题、整改落实的有条有理、有物有则、有的放矢。 <br/>　　只有以服务党和国家重大需求为导向，以解决社会发展的新问题为重点，以巩固“知行合一”的思想风尚为特色，才能使“不忘初心、牢记使命”主题教育，在交大结出丰硕的实践之果，才能不辜负这个伟大的时代，才能无愧于党和人民对交大的殷切希望和重托！</div>
+<script charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript"></script>
+<script charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript"></script>
+</div>
+</div>
+<div style="clear:both"></div>
+<div class="fx">
+<div class="bshare-custom" style="position:relative; left:10px; top:10px">
+<a class="bshare-more" href="http://www.bShare.cn/" id="bshare-shareto" title="分享到">分享到</a><a class="bshare-weixin" title="分享到微信">微信</a><a class="bshare-qqim" title="分享到QQ好友">QQ好友</a><a class="bshare-qzone" title="分享到QQ空间">QQ空间</a><a class="bshare-sinaminiblog" title="分享到新浪微博">新浪微博</a><a class="bshare-more bshare-more-icon more-style-sharethis" title="更多平台"></a><span class="BSHARE_COUNT bshare-share-count">0</span></div><script charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=cc34420b-96de-4724-8b64-1634161dff4e&amp;pophcol=3&amp;lang=zh" type="text/javascript"></script><script charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript"></script>
+</div>
+</div>
+</div>
+<div style="clear:both;height:10px;"></div>
+</div></div>
+</body></html>
+<div class="main">
+<div class="bottom">
+版权所有：西安交通大学 陕ICP备05001571号  技术支持：<a href="http://www.joyhua.com">锦华科技</a>
+</div></div>
+<map name="Map">
+<area coords="0,0,0,0,0,0,0,0,0,0,0,0" href="#" shape="poly"/><area coords="34,101,279,251" href="index_content_000.htm" shape="rect"/>
+<area coords="286,103,364,498" href="index_content_001.htm" shape="rect"/>
+<area coords="116,262,278,347" href="index_content_002.htm" shape="rect"/>
+<area coords="116,351,278,428" href="index_content_003.htm" shape="rect"/>
+<area coords="34,263,113,411" href="index_content_004.htm" shape="rect"/>
+<area coords="116,434,278,504" href="index_content_005.htm" shape="rect"/>
+<area coords="34,415,112,505" href="index_content_006.htm" shape="rect"/>
+</map>
+
+

@@ -1,0 +1,96 @@
+
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>404错误提示</title>
+<style type="text/css">
+<!--
+body {
+	background-image:   url();
+	background-color: #FFFFFF;
+}
+.style1 {
+	color: #003399;
+	font-weight: bold;
+}
+.style2 {color: #0066FF}
+.style6 {color: #000066}
+.style7 {
+	color: #FF0000;
+	font-weight: bold;
+}
+-->
+</style>
+<body buttonmargin="0" leftmargin="0" rightmargin="0" scroll="no" topmargin="0">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+<tr>
+<td bgcolor="#F0F8FF" valign="top"><table border="0" cellpadding="0" cellspacing="0" height="85" width="254">
+<tr>
+<td> </td>
+</tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td height="10" scope="col" width="10"><img height="10" src="/nginxerror/images/bg_bk_01.gif" width="10"/></td>
+<td background="/nginxerror/images/bg_bk_03.gif" scope="col" width="484"><img height="10" src="/nginxerror/images/bg_bk_03.gif" width="10"/></td>
+<td scope="col" width="10"><img height="10" src="/nginxerror/images/bg_bk_04.gif" width="10"/></td>
+</tr>
+<tr>
+<td background="/nginxerror/images/bg_bk_02.gif" height="202" scope="col"> </td>
+<td bgcolor="#FFFFFF" height="202" scope="col"><table align="center" border="1" bordercolor="#7592CA" cellpadding="0" cellspacing="0" height="300" width="600">
+<tr>
+<td bordercolor="#FFFFFF" valign="top" width="600"><table bgcolor="#FF9900" border="0" cellpadding="0" cellspacing="0" height="3" width="100%">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="10" cellspacing="0" height="65" width="600">
+<tr>
+<td align="center" class="t14"><span class="style1">404错误提示</span></td>
+</tr>
+</table>
+<table bgcolor="#FF9900" border="0" cellpadding="0" cellspacing="0" height="1" width="100%">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+<table bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" height="1" width="100%">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+<table background="/nginxerror/images/pic2006_bg_02_18.jpg" border="0" cellpadding="10" cellspacing="0" height="230" width="600">
+<tr>
+<td valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" height="138" width="466">
+<tr>
+<td width="466">                         页面没有找到!</td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></body></head></html>
+
+
+
+
+
+
+<td background="/nginxerror/images/bg_bk_05.gif" scope="col"> </td>
+
+<tr>
+<td height="10" scope="col"><img height="10" src="/nginxerror/images/bg_bk_08.gif" width="10"/></td>
+<td background="/nginxerror/images/bg_bk_06.gif" scope="col"><img height="10" src="/nginxerror/images/bg_bk_06.gif" width="10"/></td>
+<td scope="col"><img height="10" src="/nginxerror/images/bg_bk_07.gif" width="10"/></td>
+</tr>
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="78">
+<tr>
+<td width="78"> </td>
+</tr>
+</table>
+
+

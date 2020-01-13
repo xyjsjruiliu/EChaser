@@ -1,0 +1,268 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<title>用青春之我 创造青春之交大-西安交通大学数字报</title>
+<link href="css/ys.css" rel="stylesheet" type="text/css"/>
+<script language="Javascript" src="js/prototype.js"></script>
+<script language="Javascript" src="js/range1.js"></script>
+<script language="Javascript" src="js/calendar.js"></script>
+<script language="Javascript" src="js/menu.js"></script>
+<script language="Javascript" src="js/jquery-1.9.1.min.js"></script>
+<meta content="交大报,西安交大报,西安交大数字报,西安交大数字报纸 ,西安交大电子报" name="keywords">
+<meta content="交大报,西安交大报,西安交大数字报,西安交大数字报纸 ,西安交大电子报" name="description"/>
+<script type="text/javaScript">
+		function doZoom(size){
+			document.getElementById('zoom').style.fontSize=size+'px'}
+	</script>
+<style type="text/css">
+	.bantu_img {position:relative;  top:22px; left:15px;width:402px;height:542px;z-index:99;}
+</style>
+<script type="text/javascript">
+
+         jQuery(document).ready(function () {
+			 	  //通版
+			if(402>403){
+			jQuery('#zhankan').click(function(){
+			jQuery('img.bantu_img').css("width","790");
+			
+			  });
+			jQuery("#shousuo").click(function(){
+            jQuery("img.bantu_img").css("width","373");
+			
+            });
+			jQuery("#tongban").show();
+			}
+			if(402<403){
+			jQuery("#tongban").hide();
+			}
+			//选框移入移出
+		   jQuery("map").mouseover(function(event){
+  
+	    rangeDeltaX =11;
+		rangeDeltaY = -60;
+		drawLine(event.target,event);
+		  });
+
+		jQuery("#sss").mouseout(function(){
+		var divElm = document.getElementById("leveldiv");
+		divElm.style.border = "";
+	
+		showTitlePane(false);
+
+		});
+		jQuery("#ttt").mouseout(function(){
+		var divElm = document.getElementById("leveldiv");
+		divElm.style.border = "";
+	
+		showTitlePane(false);
+
+		});
+		var content = jQuery("#zoom").html().replace(/&nbsp;&nbsp;&nbsp;&nbsp;/g,"&#12288;&#12288;");
+		jQuery("#zoom").html(content);
+
+		//点击量和文章字数统计
+               var count1=content.length;
+			   jQuery.get("/tbarticle.do?epaper=sum&riqi="+"19-9-12"+"&banci="+"01"+"&title="+encodeURIComponent("用青春之我 创造青春之交大"),function(data,status){
+			  
+					var str = "文章字数："+count1+"&nbsp;&nbsp;&nbsp;&nbsp;文章浏览数："+data;;
+					jQuery("#div1").html(str);
+				});
+
+			     //日历控件
+			   	
+			var dd='19-9-12'.split('-');
+			$("#rili").html("<span  class='search_span1'>20"+dd[0]+"年"+dd[1]+"月"+dd[2]+"日</span>");
+            
+		});
+		</script>
+</meta></head>
+<body>
+<div id="ttt">
+</div><div id="leveldiv" style="z-index:100;  POSITION: absolute; pointer-events: none;"></div>
+<div class="tb_sxrb">
+<!--导航-->
+</div>
+<div class="main_02">
+<div class="logo_dt_1">
+</div>
+<div class="daoh">
+<div class="menu">
+<div class="menu_nei">
+<ul id="nav">
+<li class="top1">
+<a class="top_link" href="/"><span>数字报首页</span></a>
+</li>
+<li class="top1">
+<a class="top_link" href="" id="products"><span class="down">版面导航</span></a>
+<ul class="sub1">
+<li>
+<div onclick="window.open('index.htm','_self')"><a href="#">第01版：要闻</a></div>
+<div onclick="window.open('page_01.htm','_self')"><a href="#">第02版：综合信息</a></div>
+<div onclick="window.open('page_02.htm','_self')"><a href="#">第03版：校园生活</a></div>
+<div onclick="window.open('page_03.htm','_self')"><a href="#">第04版：专版</a></div>
+</li>
+</ul>
+</li>
+<li class="top1">
+<a class="top_link" href="" id="contacts"><span class="down">标题导航</span></a>
+<ul class="sub2">
+<li>
+<div onclick="window.open('index_content_000.htm','_self')" title="学校举行2019级新生开学典礼">
+<div id="mp000" style="DISPLAY: inline">
+<a href="#">学校举行2019级新生开学典礼</a>
+</div>
+</div>
+<div onclick="window.open('index_content_002.htm','_self')" title="重教尊师人文蔚起 育才启智事业昌隆">
+<div id="mp002" style="DISPLAY: inline">
+<a href="#">重教尊师人文蔚起 育才启智事业昌隆</a>
+</div>
+</div>
+<div onclick="window.open('index_content_003.htm','_self')" title="学校召开党委常委会">
+<div id="mp003" style="DISPLAY: inline">
+<a href="#">学校召开党委常委会</a>
+</div>
+</div>
+<div onclick="window.open('index_content_004.htm','_self')" title="陶文铨当选最美科技工作者">
+<div id="mp004" style="DISPLAY: inline">
+<a href="#">陶文铨当选最美科技工作者</a>
+</div>
+</div>
+<div onclick="window.open('index_content_001.htm','_self')" title="用青春之我 创造青春之交大">
+<div id="mp001" style="DISPLAY: inline">
+<a href="#">用青春之我 创造青春之交大</a>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="top1">
+<a class="top_link" href="outline.htm" id="privacy"><span>版面概览</span></a>
+</li>
+<li class="top1">
+<a class="top_link" href="/about.jsp" target="_blank"><span>联系我们</span></a>
+</li>
+<li class="shijian">
+<script type="text/javascript">
+ var today = new Date(); //新建一个Date对象
+  var date = today.getDate();//查询当月日期
+  var day = today.getDay();//查询当前星期几
+  var month = today.getMonth()+1;//查询月份
+  var year = today.getFullYear();//查询年份  
+  var hour=today.getHours();
+  var morning="";
+  if (hour>=8 & hour<=12) morning="上午好";
+  var week="";                               
+  if (day==0) week='星期日';
+  if (day==1) week='星期一';
+  if (day==2) week='星期二';
+  if (day==3) week='星期三';
+  if (day==4) week='星期四';
+  if (day==5) week='星期五';
+  if (day==6) week='星期六';
+  document.write(year+"年"+month+"月"+date+"日 "+week+" ");
+</script></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div style=" clear:both"></div>
+<div class="wrap_03">
+<div class="main">
+<div class="page">
+<div id="sss" style="width: 440px;height: 591px;float: left;background: url('images/bz_bg.png') no-repeat;">
+<img border="0" class="bantu_img" src="index.jpg" usemap="#Map"/>
+</div>
+<div id="tongban">
+<div class="dianji">通版阅读请点击：</div><div id="zhankan">展开通版</div> <div id="shousuo">收缩通版</div>
+</div>
+<div class="bott_1">
+<div class="b_bot">
+                        当前版：01版
+                </div>
+<div class="page_bottom">
+<a href="index.htm">首版</a>
+<a href="#">上一版</a>
+<a href="page_01.htm">下一版</a>
+<a href="page_03.htm">末版</a>
+</div>
+</div>
+</div>
+<div class="right">
+<div class="r_top">
+<div class="ss_rl"><span class="ss_rl_1">发布日期:</span><span class="ss_rl_2" id="rili"></span></div>
+<div class="search">
+<form action="/tbarticle.do?" id="Form1" method="get" name="formSearch" target="_blank">
+<input name="epaper" type="hidden" value="searchlistWy"/>
+<input name="STime" type="hidden" value=""/>
+<input name="ETime" type="hidden" value=""/>
+<div class="search_span"><select name="type" style=" font-size:12px; border:1px solid #D0D0D0;  height:25px; float:left; width:80px;"><option selected="selected" value="1">文章标题</option>
+<option value="2">文章内容</option>
+<option value="3">文章作者</option></select></div>
+<div class="search_text01">
+<input id="title" name="title" style="  border: 1px solid #D0D0D0;  width: 172px; height: 21px; line-height: 23px;  float: left;" type="text"/>
+</div>
+<div class="search_bat"><input height="25" name="image" onclick="return searchSubmit();" src="images/search_btn.jpg" type="image" width="60"/></div>
+</form>
+<script type="text/javascript">
+		function searchSubmit(){
+		var title = document.getElementById("title").value;
+			if(title==''){
+				alert('搜索关键字不能为空！');
+				return false;
+			}else{
+				return true;
+			}
+		
+		}
+	</script>
+</div>
+</div>
+<div class="bmnr">
+<div class="list_title">
+<a class="list_title_fanye" href="index_content_004.htm">上一篇</a>
+<a class="list_title_fanye" href="#">下一篇</a>
+<div class="list_title_ziti">字体：</div>
+<a class="list_title_ziti_a" href="javascript:doZoom(18)">放大<img src="images/fangda_icon.gif"/></a>
+<a class="list_title_ziti_a" href="javascript:doZoom(12)">缩小<img src="images/suoxiao_icon.gif"/></a>
+<a class="list_title_ziti_a" href="javascript:doZoom(14)">默认<img src="images/moren_icon.gif"/></a>
+</div>
+<div class="bmnr_con">
+<div class="bmnr_con_yinti">●思源时评</div>
+<div class="bmnr_con_biaoti">
+						用青春之我 创造青春之交大 	
+					</div>
+<div class="bmnr_con_yinti">特约评论员 焦仲平</div>
+<div class="bmnr_con_biaoti"><div id="div1" style="font-size:12px; class:#ccc; font-weight:100;height:20px"></div></div>
+<div class="bmnr_con_con">
+<div id="zoom">　　荣获2019年“最美科技工作者”的陶文铨院士常常说自己是“西迁大树上的一片小叶”。每一个交大学子又何尝不是这棵参天大树上的一片小叶呢？从踏入交通大学校门的那一刻起，交大的文脉和精神就融入学子们的血液中，并在他们身上得以升华。 <br/>　　建功当趁年轻，不负韶华不负卿。一代代交大学子，在共和国的光辉征程上书写着青春华章。新时代，交大学子要有新的使命和担当。建设中国特色世界一流大学，实现西安交通大学的再次腾飞就是我们新的使命和担当。这是一场接力跑，交大前辈们已经为我们跑出了一个好成绩，新一代的交大学子必定要跑出更好的成绩。 <br/>　　每个人的青春都只有一次，稍纵即逝间，却定义了人的一生。交大学子应该具有什么样的精气神呢？如何定义出自己的一生呢？ <br/>　　<strong>一流的交大学子，要有爱国爱校的情怀。</strong>一流大学的学生，首先是要爱国的。交大学子应当是有深厚家国情怀的青年！交大人历来秉承“为世界之光”的理想，与国家民族相伴相生，兴学报国为天下先，创新引领弄时代潮。爱国才能爱家，爱国才能爱校。就像钱学森等一批批拥有家国情怀的科学家一样，交大人的血脉里始终流淌着爱国奋斗的热情，用赤子之心、报国之情为祖国奉献着青春和智慧。交大学子深深懂得，为国家和民族奋斗，才能成就伟大和光荣，才能成就一流。 <br/>　　<strong>一流的交大学子，要有宽广豁达的胸襟</strong>。胸怀决定高度，高度决定视野，视野决定格局。汪应洛院士常常告诫学生：“我们交大人考虑问题，就是要站在国家的角度上。”一流的交大学子要敢于站在前人的肩膀上审视历史和世界，用深邃的历史眼光和宽广的国际视野塑造自己的人生境界。交大的校园里，大师云集，要善于向德才兼备的师长学习讨教，增长学问。社会发展日新月异，要善于利用学校提供的机会，走向国家发展的主战场、走出国门，带着问题思考家国天下，增长见识。 <br/>　　<strong>一流的交大学子，要有拼搏奋进的毅力。</strong>张迈曾书记曾经告诫我们，“精气神很重要，但它又是易碎品，我们必须小心呵护好。”保持踏实苦干，坚韧坚毅的品格，是交大人最淳朴的底色。在浮躁的社会风气里，交大始终能安放下安静的书桌。学校取得的一项项优秀成果，哪个不是艰苦卓绝的长期付出换来的。不静下心、沉住气、坐住冷板凳，怎么能换来货真价实的好成绩、好成果。“革命人永远是年轻，他好比大松树冬夏常青”，要让生活更加充实，让步伐更加坚定。 <br/>　　<strong>一流的交大学子，要要有追求卓越的习惯。</strong>卓越不是一个标准，而是一种境界。创校之初，唐文治校长就要求我们“求一等学问、成一等事业、育一等人才、塑一等品格”。历经百年风雨，交大淳朴的校风锤炼出了“起点高、基础厚、要求严、重实践”的办学特色，塑造了一代代交大学子果敢坚毅、勇创一流的秉性。“干就要干出个好样子”，一流的交大学子要把追求卓越内化为一种习惯和人生境界，我们不仅要做到优秀，更要追求优秀中的最优。 <br/>　　世界一流大学的建设之路，需要我们每一位同学干出一流的成绩。我们应该如何去做呢？ <br/>　　<strong>学业上要精深广博。</strong>一流的交大学生首先要把学习搞好，尤其是本科生同学。要积极参与学校的教学改革和创新实践，善于培养自主学习、奋发学习和全面发展的能力。在大类招生的培养模式改革背景下，要主动培养学科兴趣，早立目标，快速融入。 <br/>　　<strong>科研上要求真创新。</strong>一流的学问是踏踏实实钻研出来的，要在求真务实的基础上勇于开拓。研究生一定要参与研究课题并作主要参加人，撰写出色的学术论文，形成有用的研究成果。本科生要主动参与科研学术会议，至少参与一项科研项目的研究，至少撰写一篇研究报告或者专利申请。 <br/>　　<strong>文化素养上要厚积潜修。</strong>大学是文化的殿堂，我们首先要树立文化自觉和制度自信，传承好一流大学的精神和文化，修炼出广阔的文化视野和强大的文化创新能力。这就要求我们，除了专业学习以外，还要广泛涉猎并汲取优秀传统文化和先进西方思想的精髓，扬弃继承、转化创新。为往圣继绝学是一流学子的使命和担当，交大学子就是要传承好中华文化和交大精神，传承好科研优势，传承好交大的优秀校风、学风和教风。 <br/>　　<strong>视野上要胸怀天下。</strong>一流的交大学子要有兼济天下的胸怀与担当，要在历史的长河和国际视野中树立自己的目标和发展方向，并努力在自己的领域成为一流。千里之行，始于足下。我们要不断掌握历史唯物主义和辩证法的精髓，学会分析我们的社会和生活。要敢于走向国际舞台，在专业学习之外学好一门或多门外语。 <br/>　　<strong>生活实践上要知行合一。</strong>一流的交大学子要锤炼一流的创新精神和实践能力，培养自己的社会责任感和法治意识，要把所学知识辩证地运用到实践当中。在工作和事业上，无论是搞学术、进企业、做公务员或选调生，还是自己创业，我们都要踏踏实实干事创业。生活中，我们要做乐观阳光、有血有肉的青年，对自己既要严格要求，又要悦纳不足；对他人既要真诚相待，又要学会善意地指出他人缺点；对社会既要鼓励正能量，又要为它的进步提出自己的见解。 <br/>　　时间之河川流不息，每一代青年都有自己的际遇和机缘，都要在自己所处的时代条件下谋划人生、创造历史。一流大学建设是新时代给予交大的一份考题，我们每个人都是答题者，我们站在前人的肩膀上，必须要有一份好的答卷。在西安交通大学“双一流”的建设道路上，“不抛弃，不放弃”，以一流学子的精神和气象、以一流学子的贡献与作为，向世人展示新时代一流的西安交通大学的勃勃生机。 <br/>　　交大学子，始终向阳而生，始终奋力前行。</div>
+<script charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript"></script>
+<script charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript"></script>
+</div>
+</div>
+<div style="clear:both"></div>
+<div class="fx">
+<div class="bshare-custom" style="position:relative; left:10px; top:10px">
+<a class="bshare-more" href="http://www.bShare.cn/" id="bshare-shareto" title="分享到">分享到</a><a class="bshare-weixin" title="分享到微信">微信</a><a class="bshare-qqim" title="分享到QQ好友">QQ好友</a><a class="bshare-qzone" title="分享到QQ空间">QQ空间</a><a class="bshare-sinaminiblog" title="分享到新浪微博">新浪微博</a><a class="bshare-more bshare-more-icon more-style-sharethis" title="更多平台"></a><span class="BSHARE_COUNT bshare-share-count">0</span></div><script charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=cc34420b-96de-4724-8b64-1634161dff4e&amp;pophcol=3&amp;lang=zh" type="text/javascript"></script><script charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript"></script>
+</div>
+</div>
+</div>
+<div style="clear:both;height:10px;"></div>
+</div></div>
+</body></html>
+<div class="main">
+<div class="bottom">
+版权所有：西安交通大学 陕ICP备05001571号  技术支持：<a href="http://www.joyhua.com">锦华科技</a>
+</div></div>
+<map name="Map">
+<area coords="0,0,0,0,0,0,0,0,0,0,0,0" href="#" shape="poly"/><area coords="34,102,271,281" href="index_content_000.htm" shape="rect"/>
+<area coords="279,105,365,500" href="index_content_001.htm" shape="rect"/>
+<area coords="34,294,137,504" href="index_content_002.htm" shape="rect"/>
+<area coords="141,295,271,437" href="index_content_003.htm" shape="rect"/>
+<area coords="141,448,271,503" href="index_content_004.htm" shape="rect"/>
+</map>
+
+

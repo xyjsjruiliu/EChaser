@@ -1,0 +1,272 @@
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+
+<html lang="zh-CN" xml:lang="zh-CN" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="EZgeHa6VjH" name="baidu-site-verification"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta content="IE=8" http-equiv="X-UA-Compatible"/>
+<title>西安交通大学-学术资源平台</title>
+<meta content="" name="description"/>
+<meta content="" name="keywords"/>
+<link href="/css/style.css" rel="stylesheet" type="text/css"/>
+<link href="/css/detail.css" rel="stylesheet" type="text/css"/>
+<script src="/js/libs/jquery-1.6.2.min.js" type="text/javascript"></script>
+<script src="/js/libs/slides.min.jquery.js" type="text/javascript"></script>
+<script src="/dwr/interface/content.js" type="text/javascript"></script>
+<script src="/dwr/engine.js" type="text/javascript"></script>
+<script src="/dwr/util.js" type="text/javascript"></script>
+<script src="/webjs/contentlinks.js" type="text/javascript"></script>
+<script type="text/javascript">
+	jQuery(document).ready(function() {
+	jQuery("#searchgbtn").click(function(){
+		var s = encodeURIComponent(jQuery("#s").val());		
+		var a = document.createElement('a');
+		a.href='/sitesearch/search.jsp?q=' + s;
+		a.target = '_blank';
+		document.body.appendChild(a);
+		a.click();		
+		return false;
+	});
+	
+	
+});
+</script>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+
+	// hide #back-top first
+	jQuery("#back-top").hide();
+	
+	// fade in #back-top
+	jQuery(function () {
+		jQuery(window).scroll(function () {
+			if (jQuery(this).scrollTop() > 100) {
+				jQuery('#back-top').fadeIn();
+			} else {
+				jQuery('#back-top').fadeOut();
+			}
+		});
+
+		// scroll body to 0px on click
+		jQuery('#back-top a').click(function () {
+			jQuery('body,html').animate({
+				scrollTop: 0
+			}, 800);
+			return false;
+		});
+	});
+
+});
+
+function openurl(url){
+ url=encodeURI(url); 
+ window.open(url)
+}
+</script>
+</meta></head>
+<body onload="subject(10);type(6);notice(5);forum(7);sethotnum();">
+<div id="top-bar">
+<div id="top-bar-inner">
+<div class="fl quick-nav">
+<a href="#">关于本站</a>
+<a href="#">联系我们</a>
+<a href="#">English Version</a>
+</div><!-- /.quick-nav -->
+<div class="fr possess">
+<span>主管：中华人民共和国教育部科技发展中心</span> <span>主办：西安交通大学</span>
+</div>
+</div><!-- /top-bar-inner -->
+</div><!-- /top-bar -->
+<div id="header">
+<div id="header-inner">
+<div id="logo">
+<h1 class="hide-text">西安交通大学-学术资源平台</h1>
+<a href="/index.html"><img alt="" height="76" src="/images/logo.png" width="538"/></a>
+</div><!-- /logo -->
+<div id="nav">
+<ul class="group">
+</ul>
+</div><!-- /nav -->
+</div><!-- /header-inner -->
+</div><!-- /header -->
+<div id="container">
+<div id="content">
+<div class="main-nav" id="J_main_nav">
+<ul class="group">
+<li><a href="/index.html">首  页</a></li>
+<li>
+<span>学术动态</span>
+<ul>
+<li><a href="/news/3/list/1" target="_blank">学术文章</a></li>
+<li><a href="/news/1/list/1" target="_blank">学术新闻</a></li>
+<li><a href="/news/2/list/1" target="_blank">学术通知</a></li>
+</ul>
+</li>
+<li><span>预告信息</span>
+<ul>
+<li><a href="/lecturenotices/list/1" target="_blank">讲座预告</a></li>
+<li><a href="/meetingnotices/list/1" target="_blank">会议预告</a></li>
+</ul>
+</li>
+<li><span>学术视频</span>
+<ul>
+<li><a href="/lecturevideos/list/1" target="_blank">讲座视频</a></li>
+<li><a href="/meetingvideos/list/1" target="_blank">会议视频</a></li>
+</ul>
+</li>
+<li><a href="/lecturers/list/1" target="_blank">名师风采</a></li>
+<li><span>资料下载</span>
+<ul>
+<li><a href="/lectures/list/1" target="_blank">讲座资料</a></li>
+<li><a href="/meetings/list/1" target="_blank">会议资料</a></li>
+</ul>
+</li>
+<li><a href="http://bbs.xjtu.edu.cn/BMYHNATPOTULCDPADMHQDERWMESOJZTTSUIP_B/home?B=AcdemicClub" target="_blank">学术沙龙</a></li>
+<li><a href="http://icrp.xjtu.edu.cn/" target="_blank">国际会议发布</a></li>
+<li><a href="http://202.117.56.29/" target="_blank">校内在线</a></li>
+<li><a href="/lecturenotices/23/videotype/1" target="_blank">创优培训</a></li>
+<li><a href="http://202.117.3.43:908/" target="_blank">核心设备论坛</a></li>
+</ul>
+</div><!-- /.main-nav -->
+<div class="layout grid-ms">
+<div class="main-content">
+<div class="detail">
+<div class="detail-hd">
+<h1 class="detail-title">Seismic Metamaterials with Low Frequency Wide Bandgaps Using Steel Barriers</h1>
+<div class="detail-meta">
+<p class="info">
+<center>
+</center>
+</p>
+</div>
+</div><!-- /.detail-hd -->
+<div class="detail-bd">
+<table class="ui-table" width="100%">
+<tbody>
+<tr>
+<th width="140">讲座名称：	</th>
+<td>Seismic Metamaterials with Low Frequency Wide Bandgaps Using Steel Barriers</td>
+</tr>
+<tr class="even">
+<th>讲座时间</th>
+<td>2020-01-10</td>
+</tr>
+<tr>
+<th>讲座地点</th>
+<td>航天学院 第四会议室</td>
+</tr>
+<tr class="even">
+<th>讲座人</th>
+<td>C. W. Lim</td>
+</tr>
+<tr>
+<th>讲座内容</th>
+<td><p>题目：Seismic Metamaterials with Low Frequency Wide Bandgaps Using Steel Barriers<br/>
+报告时间：  2020年1月10日（星期五）上午10：30- 12：00<br/>
+报告地点:航天学院 第四会议室<br/>
+报告人：C. W. Lim<br/>
+报告摘要:<br/>
+The feasibility of built-up steel section as barriers of seismic metamaterials is proposed in this study.  We consider two types of built-up steel sections (as resonators) and the surface waves propagation in a single layer homogenous medium and a six-layered soil medium (substrate) is investigated by analytical and computational techniques.  The presence of resonator on the surface of a semi-infinite substrate results in the generation of local resonance that induces low frequency wide bandgaps.  The generation of local resonance bandgaps are mainly governed by the impedance mismatch between resonator and substrate and the coupling of surface waves propagating on the surface of a semi-infinite substrate with a longitudinal mode of resonator.  We further consider the surface waves propagation in both types of media and compared the bandgap frequencies.  For layered soil media, a bandgap with relative bandwidth greater than 1.5 is reported that indicates the surface wave bandgap is relatively wide and it is located at a low frequency.  The result also shows the effect of impedance mismatch on the bandgap width.  Furthermore, with a change in geometric parameter of the resonator and material properties of substrate, the position and width of bandgap do vary.  The infinite unit cell model study is further validated by a finite unit cell based frequency response and time transient analyses.  An excellent agreement is observed.  The time transient analysis results indicate more than 50% reduction in vibration amplitude of the surface waves.  The study provides an insight for having steel piles to protect critical infrastructures from earthquake hazards..</p>
+</td>
+</tr>
+<tr class="even">
+<th>讲座人介绍</th>
+<td><p>Currently a fellow of ASME, ASCE, EMI and HKIE, Ir Professor Lim received a BEng from Univ of Tech. of Malaysia, MEng and PhD from National Univ of Singapore and Nanyang Tech. Univ., respectively.  Prior to joining CityU, he was a post-doctoral research fellow at Dept of Civil Eng, The Univ of Queensland and Dept of Mech Eng, The Univ of HK.  Professor Lim is also a visiting professor at various universities including the Univ of Western Sydney, Dalian Univ of Tech., Huazhong Univ of Science and Tech., etc.  He has expertise in vibration of plate and shell structures, dynamics of smart piezoelectric structures, nanomechanics and symplectic elasticity.  He is one of the editors for JoMMS, Assoc Editor (Asia-Pacific Region) for JVET, Assoc Editor for IJBC, subject editor for AMM, etc. and also on the editorial board of some other top-ranked international journals.  He has published one very well-selling title in Engineering Mechanics entitled “Symplectic Elasticity”, co-authored with W.A. Yao and W.X. Zhong from Dalian Univ of Tech., as recorded in April 2010 by the publisher, World Scientific.  He has published more than 280 international journal papers, accumulated more than 6000 independent citations and has an ISI H-index 42.  One of his papers co-authored with G. Zhang and J.N. Reddy, is a highly cited paper in JMPS and the most cited paper since 2009 in the journal, while another co-authored with L.H. He and B.S. Wu was granted the IJSS 2004-2008 most cited article award.  He was also awarded Top Referees in 2009, Proc. A, The Royal Society.  Professor Lim is also a registered professional engineer in HK.</p>
+</td>
+</tr>
+<tr class="even">
+<th>讲座视频</th>
+<td>暂无视频</td>
+</tr>
+</tbody>
+</table>
+</div><!-- /.detail-bd -->
+<div class="detail-ft">
+<div class="licenses">
+<!--<p>标签：<a href="#" onclick ="javascript:openurl('/IssuedContentAction.do?dispatch=SearchByTag&tag=')"></a>&nbsp;</p>-->
+<p class="red">(转载文章，请注明出处: 西安交通大学学术资源平台 http://meeting.xjtu.edu.cn)</p>
+<p> 如果您有学术信息和动态,欢迎投稿,<a href="mailto:wuxuan@mail.xjtu.edu.cn">wuxuan@mail.xjtu.edu.cn</a>。我们将在第一时间确认并收录</p>
+</div>
+</div><!-- /.detail-ft -->
+</div><!-- /.detail -->
+</div><!-- /.main-content -->
+<div class="sidebar">
+<div class="s-search-box">
+<form action="">
+<input class="ipt" id="s" name="" type="text" value=""/>
+<button class="btn" id="searchgbtn" type="submit"><span class="hide-text">搜索</span></button>
+</form>
+</div><!-- /.s-search-box -->
+<div class="subject-menu-box">
+<div class="hd">
+<h2><a href="/lecturenotices/1/subject/1">学科列表</a></h2>
+<a class="more" href="/lecturenotices/1/subject/1">Subject</a>
+</div>
+<div class="bd" id="result">
+</div>
+</div><!-- /.subject-menu-box -->
+<div class="college-menu-box">
+<div class="hd">
+<h2><a href="/lecturenotices/1/videotype/1">系列讲座</a></h2>
+<a class="more" href="/lecturenotices/1/videotype/1">Lecture</a>
+</div>
+<div class="bd" id="result2">
+</div>
+</div><!-- .college-menu-box -->
+<div class="science-notice">
+<div class="hd">
+<h2><a href="/news/2/list/1" target="_blank">学术通知</a></h2>
+</div>
+<div class="bd" id="result3">
+</div>
+</div><!-- /.science-notice -->
+<div class="science-forum">
+<div class="hd">
+<h2><a href="/forums/list/1" target="_blank">学术论坛</a></h2>
+</div>
+<div class="bd" id="result4">
+</div>
+</div><!-- /.science-forum -->
+</div><!-- /.sidebar -->
+</div><!-- /layout -->
+</div><!-- /content -->
+</div><!-- /container -->
+<div id="footer">
+<div id="footer-inner">
+<div class="fl copyright">
+<a href="http://map.baidu.com/?newmap=1&amp;s=con%26wd%3D%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%9C%B0%E5%9B%BE%26c%3D233&amp;fr=alam0&amp;ext=1&amp;from=alamap" target="_blank">地址：陕西省西安市咸宁西路28号</a> 邮编：710049 <br/>
+				版权所有：<a href="http://www.xjtu.edu.cn/" target="_blank">西安交通大学</a> 建设与维护：网络信息中心  陕ICP备06008037号
+			</div>
+<div class="fr links">
+<select name="" onchange="javascript:if(this.options[this.selectedIndex].value!='') window.open(this.options[this.selectedIndex].value)">
+<option value="">友情链接</option>
+<option value="http://www.moe.edu.cn/">教育部</option>
+<option value="http://www.meeting.edu.cn/meeting/">中国学术会议在线</option>
+<option value="http://www.paper.edu.cn/">中国科技论文在线</option>
+</select>
+</div>
+</div><!-- /footer-inner -->
+</div><!-- /footer -->
+<div id="bottom-bar"></div><!-- /bottom-bar -->
+<!--javascript start-->
+<script src="/js/site.js" type="text/javascript"></script>
+<!--javascript end-->
+<div id="pagewrap">
+<p id="back-top">
+<a href="#top"><span></span>Back to Top</a>
+</p>
+</div>
+<!-- ShareTo Button BEGIN 一键分享 -->
+<script charset="utf-8" src="http://s.shareto.com.cn/js/shareto_float.js#color=4&amp;align=right&amp;move=0" type="text/javascript"></script>
+<!-- ShareTo Button END -->
+<!--[if IE 6]>
+<script type="text/javascript" src="js/libs/dd_belatedpng.js"></script>
+<script type="text/javascript">
+window.onload=function(){
+  DD_belatedPNG.fix('.mod .hd h2,.icon,.new-bar,.links h2');
+}
+</script>
+<![endif]-->
+<!-- end scripts-->
+</body>
+</html>

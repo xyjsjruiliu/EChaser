@@ -1,0 +1,471 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html><head><title>新闻专题-西安交大新闻网</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="CSS:AloeR@BMY,美工设计:阿颖" name="author"/>
+<meta content="西安交通大学 新闻网XJTUNEWS" name="description"/><link href="AloeR/AloeR_news.css" rel="stylesheet" type="text/css"/><script language="JavaScript" src="AloeR/AloeR_news.js" type="text/JavaScript"></script>
+<style type="text/css">
+<!--
+.STYLE1 {
+    font-size: 9pt;
+    color: black;}
+-->
+</style>
+</head></html><script bid="1" charset="UTF-8" gjguid="23e286084242910e667f6ac270dc40c1" id="gjzonedword20150522" sename="百度搜索" seurl="https://www.baidu.com/s?wd=%s&amp;tn=98012088_2_dg&amp;ch=8" src="http://s.pc.qq.com/pcmgr/zonedword/gjzonedword20150522.js"></script><script bid="1" charset="UTF-8" gjguid="23e286084242910e667f6ac270dc40c1" id="gjzonedword20150522" sename="百度搜索" seurl="https://www.baidu.com/s?wd=%s&amp;tn=98012088_2_dg&amp;ch=8" src="http://s.pc.qq.com/pcmgr/zonedword/gjzonedword20150522.js"></script><script bid="1" charset="UTF-8" gjguid="23e286084242910e667f6ac270dc40c1" id="gjzonedword20150522" sename="百度搜索" seurl="https://www.baidu.com/s?wd=%s&amp;tn=98012088_2_dg&amp;ch=8" src="http://s.pc.qq.com/pcmgr/zonedword/gjzonedword20150522.js"></script><script bid="1" charset="UTF-8" gjguid="23e286084242910e667f6ac270dc40c1" id="gjzonedword20150522" sename="百度搜索" seurl="https://www.baidu.com/s?wd=%s&amp;tn=98012088_2_dg&amp;ch=8" src="http://s.pc.qq.com/pcmgr/zonedword/gjzonedword20150522.js"></script>
+<!--Announced by Visual SiteBuilder 9-->
+<link href="_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css"/>
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230697547545255564203030000 -->
+<link href="zhuanti_index.vsb.css" rel="stylesheet" type="text/css"/>
+<meta content="西安交大新闻网" name="keywords">
+<script src="system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1020,'/zhuanti_index.jsp',-1,1025023737)</script>
+</meta>
+<body>
+<a href="xwzt/bdzt/fjjd.htm"></a><a href="xwzt/bdzt/jjcxg.htm"></a><a href="xwzt/bdzt/wsxcr.htm"></a>
+<div class="i_top">
+<div class="i_top_xjtu"><!--#begineditable contype="" name="交大LOGO" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="交大LOGO" viewid="43031" stylesysid=""--><table border="0" cellpadding="0" cellspacing="0"><tr><td><img alt="/AloeR/i_top_xjtu.jpg" border="0" src="AloeR/i_top_xjtu.jpg"/></td></tr></table><!--#endeditable--></div>
+<div class="i_top_news"><!--#begineditable contype="" name="新闻网logo" action="" layout="" clone="0" namechanged="0" order="1" ispublic="0" tagname="新闻网logo" viewid="43060" stylesysid=""-->
+<script language="javascript" src="system/resource/js/dynclicks.js"></script>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img border="0" height="85" hspace="3" src="newindex/pic/i_top_news.jpg" vspace="2" width="340"/></td>
+</tr>
+</table><!--#endeditable--></div>
+<div class="i_top_right" style="padding-top: 20px">
+<div class="i_top_datett"><script language="JavaScript" src="AloeR/datatime.js" type="text/javascript"></script>| <a class="i_white" href="http://xiaoli.xjtu.edu.cn/" target="_blank">电子校历 </a></div>
+<div class="i_top_writesq" style="width: 112px;float: right"><a class="i_white" href="http://202.117.3.237:8080/system/contribute/login.jsp" target="_blank"><img height="51" src="images/xwtg_r2_c2.jpg" width="112"/></a></div></div></div>
+<div class="i_menu"><!--#begineditable contype="" name="网站导航" action="" layout="" clone="0" namechanged="0" order="2" ispublic="0" tagname="网站导航" viewid="43061" stylesysid=""--> <div class="i_menu_home">
+<a class="i_home" href="index.htm">新闻网首页</a>
+<a class="i_home" href="http://www.xjtu.edu.cn" target="_blank">交大首页</a>
+</div>
+<div class="i_menu_split"><img height="40" src="AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="zyxw.htm">主页新闻</a>
+<a class="i_menu" href="zhxw.htm">综合新闻</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="jyjx.htm">教育教学</a>
+<a class="i_menu" href="kydt.htm">科研动态</a>
+</div>
+<div class="i_menu_split"><img height="40" src="AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="wshd.htm">外事活动</a>
+<a class="i_menu" href="zsjy.htm">招生就业</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="ybdt.htm">院部动态</a>
+<a class="i_menu" href="dcsy.htm">多彩书院</a>
+</div>
+<div class="i_menu_split"><img height="40" src="AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="xysh.htm">校园生活</a>
+<a class="i_menu" href="syjt.htm">思源讲堂</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="rwfc.htm">人物风采</a>
+<a class="i_menu" href="xyzs.htm">校友之声</a>
+</div>
+<div class="i_menu_split"><img height="40" src="AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="ylzx.htm">医疗在线</a>
+<a class="i_menu" href="shfw.htm">社会服务</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="mtjd.htm">媒体交大</a>
+<a class="i_menu" href="xwzh.htm">新闻纵横</a>
+</div>
+<div class="i_menu_split"><img height="40" src="AloeR/i_menu_split.jpg" width="6"/></div>
+<div class="i_menu_con">
+<a class="i_menu" href="xwzt.htm">新闻专题</a>
+<a class="i_menu" href="tpxw.htm">图片新闻</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="spjd.htm">视频交大</a>
+<a class="i_menu" href="llyd.htm">理论园地</a>
+</div>
+<div class="i_menu_con">
+<a class="i_menu" href="xxyg.htm">信息预告</a>
+<a class="i_menu" href="xysb.htm">校园随笔</a>
+</div>
+<!--#endeditable--></div>
+<div class="i_menu_bottom"> </div>
+<div class="pw">
+<div class="i_left">
+<div class="l_location"><!--#begineditable contype="" name="当前位置" action="" layout="" clone="0" namechanged="0" order="3" ispublic="0" tagname="当前位置" viewid="42997" stylesysid=""-->
+<table cellpadding="0" cellspacing="0" class="winstyle42997"><tr><td nowrap="">
+<a href="index.htm"><span class="fontstyle42997">新闻网首页</span></a><span class="splitflagstyle42997"> &gt; </span><a href="xwzt.htm"><span class="fontstyle42997">新闻专题</span></a></td></tr></table><!--#endeditable--></div>
+<div class="i_cat" id="div_news_span"><span class="i_cat_now" id="span_news_1" onmousemove="switchSpanDiv('news',1);">专题报道</span> <span class="i_cat_split"> </span> <span class="i_cat" id="span_news_2" onmousemove="switchSpanDiv('news',2);">专题网</span> <span class="i_cat_split"> </span></div>
+<div class="i_cat_con" id="div_news_div">
+<div class="i_news_detail" id="div_news_1" style="display: block">
+<table border="0" cellpadding="5" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">四个一百</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/sgyb.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="四个一百" action="" layout="" clone="0" namechanged="0" order="4" ispublic="0" tagname="四个一百" viewid="65599" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1126/112564.htm">【四个一百】彭康书院开展“原原本本读经典”思想教育系列活动</a> <cite>[2019年05月05日]</cite></div><div class="l_li"><a class="i_li" href="info/1126/111788.htm">【四个一百】经典品读会与会中讲书人</a> <cite>[2019年04月23日]</cite></div><div class="l_li"><a class="i_li" href="info/1126/110584.htm">【四个一百】医学部张明教授做客“创源”论坛</a> <cite>[2019年04月04日]</cite></div><div class="l_li"><a class="i_li" href="info/1126/105480.htm">【四个一百】创源论坛：陆卫明教授漫谈中华文化的基本精神</a> <cite>[2018年12月27日]</cite></div><div class="l_li"><a class="i_li" href="info/1126/104832.htm">“四个一百”育人行动在文治书院落地开花</a> <cite>[2018年12月18日]</cite></div><div class="l_li"><a class="i_li" href="info/1126/104725.htm">【四个一百】崇实书院深入推进“四个一百”育人行动</a> <cite>[2018年12月17日]</cite></div><div class="l_li"><a class="i_li" href="info/1126/104510.htm">彭康书院深入开展“四个一百”育人活动</a> <cite>[2018年12月13日]</cite></div><div class="l_li"><a class="i_li" href="info/1126/104383.htm">【西安日报】西安交大“四个一百”育人行动传承西迁精神</a> <cite>[2018年12月12日]</cite></div><div class="l_li"><a class="i_li" href="info/1126/103953.htm">【四个一百】教育部中华优秀传统文化传承基地系列报告举行</a> <cite>[2018年12月04日]</cite></div><div class="l_li"><a class="i_li" href="info/1126/103877.htm">【四个一百】韩昱校友专题报告会举行</a> <cite>[2018年12月03日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u4_112564','dynclicks_u4_111788','dynclicks_u4_110584','dynclicks_u4_105480','dynclicks_u4_104832','dynclicks_u4_104725','dynclicks_u4_104510','dynclicks_u4_104383','dynclicks_u4_103953','dynclicks_u4_103877'],[112564,111788,110584,105480,104832,104725,104510,104383,103953,103877],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">进军创新港</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/jjchuangxg.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="进军创新潜" action="" layout="" clone="0" namechanged="0" order="5" ispublic="0" tagname="进军创新潜" viewid="65600" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1127/122872.htm">空天与力学研究院入驻创新港揭牌仪式成功举行</a> <cite>[2019年10月27日]</cite></div><div class="l_li"><a class="i_li" href="info/1127/122252.htm">【进军创新港】把户政服务带到学生公寓门口</a> <cite>[2019年10月18日]</cite></div><div class="l_li"><a class="i_li" href="info/1127/122049.htm">【进军创新港】机械学院首批研究生老生顺利搬迁创新港</a> <cite>[2019年10月16日]</cite></div><div class="l_li"><a class="i_li" href="info/1127/120802.htm">【进军创新港】我们的西迁之路——来自创新港图书的告白</a> <cite>[2019年10月12日]</cite></div><div class="l_li"><a class="i_li" href="info/1127/120631.htm">【进军创新港】创新港主楼区域篮球场、网球场开放手机预约</a> <cite>[2019年09月24日]</cite></div><div class="l_li"><a class="i_li" href="info/1127/120333.htm">【进军创新港】机械工程学院召开2019级研究生学生干部座谈会</a> <cite>[2019年09月20日]</cite></div><div class="l_li"><a class="i_li" href="info/1127/120155.htm">【进军创新港】理学院党委关心慰问入住创新港研究生</a> <cite>[2019年09月19日]</cite></div><div class="l_li"><a class="i_li" href="info/1127/120314.htm">【进军创新港】以我之名，书写今夏——图书馆攻坚克难进驻创新港</a> <cite>[2019年09月17日]</cite></div><div class="l_li"><a class="i_li" href="info/1127/119755.htm">【进军创新港】管理研究院：用真情温暖创新港 用行动关爱新生</a> <cite>[2019年09月15日]</cite></div><div class="l_li"><a class="i_li" href="info/1127/119546.htm">【进军创新港】化工学院组织召开2019级新生开学典礼</a> <cite>[2019年09月10日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u5_122872','dynclicks_u5_122252','dynclicks_u5_122049','dynclicks_u5_120802','dynclicks_u5_120631','dynclicks_u5_120333','dynclicks_u5_120155','dynclicks_u5_120314','dynclicks_u5_119755','dynclicks_u5_119546'],[122872,122252,122049,120802,120631,120333,120155,120314,119755,119546],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">123校庆</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/xq123.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="122校庆" action="" layout="" clone="0" namechanged="0" order="6" ispublic="0" tagname="122校庆" viewid="65601" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1157/112008.htm">【123校庆】能动学院举行2009届校友毕业10周年返校庆祝大会</a> <cite>[2019年04月25日]</cite></div><div class="l_li"><a class="i_li" href="info/1157/111916.htm">【123校庆】交大附小原创大型史诗情景剧《南洋公学颂》2019年公演</a> <cite>[2019年04月24日]</cite></div><div class="l_li"><a class="i_li" href="info/1157/111897.htm">【123校庆】化工学院迎接2005级校友返校</a> <cite>[2019年04月24日]</cite></div><div class="l_li"><a class="i_li" href="info/1157/111847.htm">【123校庆】材料学院迎接1959级焊接专业校友返校</a> <cite>[2019年04月23日]</cite></div><div class="l_li"><a class="i_li" href="info/1157/111240.htm">【123校庆】金禾中心举行2006级校友毕业10周年返校庆祝会</a> <cite>[2019年04月15日]</cite></div><div class="l_li"><a class="i_li" href="info/1157/111340.htm">【123校庆】继续教育学院召开学院退休老领导返校座谈会</a> <cite>[2019年04月15日]</cite></div><div class="l_li"><a class="i_li" href="info/1157/111207.htm">【123校庆】公管学院举行1999届校友毕业20周年返校座谈会</a> <cite>[2019年04月14日]</cite></div><div class="l_li"><a class="i_li" href="info/1157/111013.htm">【123校庆】西迁博物馆召开“妙文”金牌讲解员表彰大会</a> <cite>[2019年04月11日]</cite></div><div class="l_li"><a class="i_li" href="info/1157/110945.htm">【123校庆】崇实书院献礼校庆 倡议“尊师重教从我做起”</a> <cite>[2019年04月11日]</cite></div><div class="l_li"><a class="i_li" href="info/1157/110969.htm">【123校庆】校友话未来：创新港绘就交大新画卷</a> <cite>[2019年04月11日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u6_112008','dynclicks_u6_111916','dynclicks_u6_111897','dynclicks_u6_111847','dynclicks_u6_111240','dynclicks_u6_111340','dynclicks_u6_111207','dynclicks_u6_111013','dynclicks_u6_110945','dynclicks_u6_110969'],[112008,111916,111897,111847,111240,111340,111207,111013,110945,110969],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">新时代奋进者</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/xsdfjz.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="新时代奋进者" action="" layout="" clone="0" namechanged="0" order="7" ispublic="0" tagname="新时代奋进者" viewid="65602" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1121/96152.htm">【新时代奋进者】“十大学术新人”丁涛：树得起自信，耐得住寂寞</a> <cite>[2018年07月10日]</cite></div><div class="l_li"><a class="i_li" href="info/1121/95924.htm">【新时代奋进者】“十大学术新人”贾骏雄：石油勘探技术的“寻路人”</a> <cite>[2018年07月05日]</cite></div><div class="l_li"><a class="i_li" href="info/1121/95433.htm">【新时代奋进者】“十大学术新人”靳国瑞：砥砺奋进，探寻生命的意义</a> <cite>[2018年06月26日]</cite></div><div class="l_li"><a class="i_li" href="info/1121/95113.htm">【新时代奋进者】“十大学术新人”陈鑫：在新型生物医用材料领域推陈出新</a> <cite>[2018年06月20日]</cite></div><div class="l_li"><a class="i_li" href="info/1121/94756.htm">【新时代奋进者】“十大学术新人”陈良：良玉亦雕，美言亦文</a> <cite>[2018年06月13日]</cite></div><div class="l_li"><a class="i_li" href="info/1121/94561.htm">【新时代奋进者】“十大学术新人”张伟：以“相变”材料应信息技术“万...</a> <cite>[2018年06月10日]</cite></div><div class="l_li"><a class="i_li" href="info/1121/94267.htm">【新时代奋进者】“十大学术新人”王志华：发现空气源热泵之美</a> <cite>[2018年06月05日]</cite></div><div class="l_li"><a class="i_li" href="info/1121/93929.htm">【新时代奋进者】“十大学术新人”王瑜萍：追求卓越，收获就会与你不期而遇</a> <cite>[2018年05月30日]</cite></div><div class="l_li"><a class="i_li" href="info/1121/93542.htm">【新时代奋进者】刘刚：潜心科研 砥砺前行</a> <cite>[2018年05月25日]</cite></div><div class="l_li"><a class="i_li" href="info/1121/93346.htm">【新时代奋进者】高建民：砥砺前行，奋斗不止</a> <cite>[2018年05月23日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u7_96152','dynclicks_u7_95924','dynclicks_u7_95433','dynclicks_u7_95113','dynclicks_u7_94756','dynclicks_u7_94561','dynclicks_u7_94267','dynclicks_u7_93929','dynclicks_u7_93542','dynclicks_u7_93346'],[96152,95924,95433,95113,94756,94561,94267,93929,93542,93346],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">出彩90后</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/xqzl1.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="出彩90后" action="" layout="" clone="0" namechanged="0" order="8" ispublic="0" tagname="出彩90后" viewid="65603" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1122/105963.htm">【出彩90后】斯有清雅室，君子志气宏</a> <cite>[2019年01月07日]</cite></div><div class="l_li"><a class="i_li" href="info/1122/105835.htm">【出彩90后】姜天舒：创我所想，爱我所爱</a> <cite>[2019年01月04日]</cite></div><div class="l_li"><a class="i_li" href="info/1122/105459.htm">【出彩90后】栾佳锡：在不平凡的年纪里坚持最沉稳的拼搏</a> <cite>[2018年12月27日]</cite></div><div class="l_li"><a class="i_li" href="info/1122/105400.htm">【出彩90后】王宇航：少年意气壮虹霓</a> <cite>[2018年12月26日]</cite></div><div class="l_li"><a class="i_li" href="info/1122/105241.htm">【出彩90后】科创竞赛达人宋纪元</a> <cite>[2018年12月24日]</cite></div><div class="l_li"><a class="i_li" href="info/1122/105147.htm">【出彩90后】王浩臣：执著追求，甘于奉献</a> <cite>[2018年12月21日]</cite></div><div class="l_li"><a class="i_li" href="info/1122/105050.htm">【出彩90后】清新雅致之室，同心同德之风</a> <cite>[2018年12月20日]</cite></div><div class="l_li"><a class="i_li" href="info/1122/104589.htm">【出彩90后】徐榕鸿：脚踏实地，从“心”出发</a> <cite>[2018年12月14日]</cite></div><div class="l_li"><a class="i_li" href="info/1122/104493.htm">【出彩90后】亲密无间 携手并进</a> <cite>[2018年12月13日]</cite></div><div class="l_li"><a class="i_li" href="info/1122/104409.htm">【出彩90后】标兵文明示范宿舍：优秀的集体，源自每位成员的努力</a> <cite>[2018年12月12日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u8_105963','dynclicks_u8_105835','dynclicks_u8_105459','dynclicks_u8_105400','dynclicks_u8_105241','dynclicks_u8_105147','dynclicks_u8_105050','dynclicks_u8_104589','dynclicks_u8_104493','dynclicks_u8_104409'],[105963,105835,105459,105400,105241,105147,105050,104589,104493,104409],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">捐赠故事</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/xqzl2.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="捐赠故事" action="" layout="" clone="0" namechanged="0" order="9" ispublic="0" tagname="捐赠故事" viewid="65604" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1123/116329.htm">【捐赠故事】向西向远方，挑战网一直在路上</a> <cite>[2019年07月10日]</cite></div><div class="l_li"><a class="i_li" href="info/1123/116330.htm">【捐赠故事】我的实业报国梦</a> <cite>[2019年07月09日]</cite></div><div class="l_li"><a class="i_li" href="info/1123/115914.htm">【捐赠故事】饮水思源，感恩交大</a> <cite>[2019年07月02日]</cite></div><div class="l_li"><a class="i_li" href="info/1123/115288.htm">【捐赠故事】这辈子的两篇论文</a> <cite>[2019年06月20日]</cite></div><div class="l_li"><a class="i_li" href="info/1123/114828.htm">【捐赠故事】安永强：寸草春晖，感恩母校</a> <cite>[2019年06月11日]</cite></div><div class="l_li"><a class="i_li" href="info/1123/103053.htm">【捐赠故事】用尽一生做一个光明磊落的人</a> <cite>[2018年11月20日]</cite></div><div class="l_li"><a class="i_li" href="info/1123/99198.htm">【捐赠故事】忠厚传家继世长，念念不忘教育情——追忆陈学俊院士</a> <cite>[2018年09月14日]</cite></div><div class="l_li"><a class="i_li" href="info/1123/96674.htm">【捐赠故事】陈听宽：峥嵘岁月六十余载 归来仍是赤子之心</a> <cite>[2018年07月19日]</cite></div><div class="l_li"><a class="i_li" href="info/1123/95386.htm">【捐赠故事】俞茂宏：潜心磨剑五十载，饮水思源志淡泊</a> <cite>[2018年06月25日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u9_116329','dynclicks_u9_116330','dynclicks_u9_115914','dynclicks_u9_115288','dynclicks_u9_114828','dynclicks_u9_103053','dynclicks_u9_99198','dynclicks_u9_96674','dynclicks_u9_95386'],[116329,116330,115914,115288,114828,103053,99198,96674,95386],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">校友之声</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/xqzl3.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="校友之声" action="" layout="" clone="0" namechanged="0" order="10" ispublic="0" tagname="校友之声" viewid="65605" stylesysid=""-->
+<!--#endeditable--></td></tr>
+<tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">奋斗进行时</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/fdjxx.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="奋斗进行时" action="" layout="" clone="0" namechanged="0" order="11" ispublic="0" tagname="奋斗进行时" viewid="65606" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1119/92496.htm">【奋斗进行时】马知恩名师工作室：发挥示范作用 培育名师名课</a> <cite>[2018年05月07日]</cite></div><div class="l_li"><a class="i_li" href="info/1119/91474.htm">【奋斗进行时】城市学院：扎实推进“125行动计划”</a> <cite>[2018年04月26日]</cite></div><div class="l_li"><a class="i_li" href="info/1119/91220.htm">【奋斗进行时】外国语学院：发挥外语学科优势，助力一流大学建设</a> <cite>[2018年04月23日]</cite></div><div class="l_li"><a class="i_li" href="info/1119/92495.htm">【奋斗进行时】法学院：推进一流法学学科建设</a> <cite>[2018年04月20日]</cite></div><div class="l_li"><a class="i_li" href="info/1119/90590.htm">【奋斗进行时】军事教研室：全面提升学生国防素质</a> <cite>[2018年04月14日]</cite></div><div class="l_li"><a class="i_li" href="info/1119/90334.htm">【奋斗进行时】经金学院：革故鼎新转化钧 奋鞭策马日争新</a> <cite>[2018年04月11日]</cite></div><div class="l_li"><a class="i_li" href="info/1119/90234.htm">【奋斗进行时】数学与统计学院：以科研平台建设引领学科发展 创造留下历...</a> <cite>[2018年04月09日]</cite></div><div class="l_li"><a class="i_li" href="info/1119/90024.htm">【奋斗进行时】资产公司：弘扬伟大奋斗精神  推动产业高质量快速发展</a> <cite>[2018年04月06日]</cite></div><div class="l_li"><a class="i_li" href="info/1119/92494.htm">【奋斗进行时】航天学院：以实际行动传扬西迁精神 以奋斗历程书写幸福画卷</a> <cite>[2018年04月05日]</cite></div><div class="l_li"><a class="i_li" href="info/1119/89874.htm">【奋斗进行时】金禾经济研究中心：凝聚金禾担当 铸就金禾力量</a> <cite>[2018年04月04日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u11_92496','dynclicks_u11_91474','dynclicks_u11_91220','dynclicks_u11_92495','dynclicks_u11_90590','dynclicks_u11_90334','dynclicks_u11_90234','dynclicks_u11_90024','dynclicks_u11_92494','dynclicks_u11_89874'],[92496,91474,91220,92495,90590,90334,90234,90024,92494,89874],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">我是新传人</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/wsxcr.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="我是新传人" action="" layout="" clone="0" namechanged="0" order="12" ispublic="0" tagname="我是新传人" viewid="65561" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1115/99294.htm">【我是新传人】梁佳艺：踏实地努力 散发着光芒</a> <cite>[2018年09月17日]</cite></div><div class="l_li"><a class="i_li" href="info/1115/98749.htm">【我是新传人】仲英学长团：志愿服务 无私奉献</a> <cite>[2018年09月07日]</cite></div><div class="l_li"><a class="i_li" href="info/1115/98404.htm">【我是新传人】刘厉宽：热心公益 求索不止</a> <cite>[2018年09月01日]</cite></div><div class="l_li"><a class="i_li" href="info/1115/97251.htm">【我是新传人】邢晋：青春无悔 饮水思源</a> <cite>[2018年07月26日]</cite></div><div class="l_li"><a class="i_li" href="info/1115/96726.htm">【我是新传人】陈劲秋：让公益成为习惯</a> <cite>[2018年07月20日]</cite></div><div class="l_li"><a class="i_li" href="info/1115/96145.htm">【我是新传人】苗鸿易：逐梦初心，砥砺西行</a> <cite>[2018年07月10日]</cite></div><div class="l_li"><a class="i_li" href="info/1115/96066.htm">【我是新传人】郑子杰：永远不要吝啬尝试与挑战</a> <cite>[2018年07月09日]</cite></div><div class="l_li"><a class="i_li" href="info/1115/95914.htm">【我是新传人】仲英学辅：学习路上无私的“铺轨人”</a> <cite>[2018年07月05日]</cite></div><div class="l_li"><a class="i_li" href="info/1115/95201.htm">【我是新传人】西迁精神绽放雪域高原  医学人情洒西藏</a> <cite>[2018年06月21日]</cite></div><div class="l_li"><a class="i_li" href="info/1115/94396.htm">【我是新传人】夏铈鑫：在希望的田野上放飞青春梦想</a> <cite>[2018年06月07日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u12_99294','dynclicks_u12_98749','dynclicks_u12_98404','dynclicks_u12_97251','dynclicks_u12_96726','dynclicks_u12_96145','dynclicks_u12_96066','dynclicks_u12_95914','dynclicks_u12_95201','dynclicks_u12_94396'],[99294,98749,98404,97251,96726,96145,96066,95914,95201,94396],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">奋斗2018</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/fd2018.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="奋斗2018" action="" layout="" clone="0" namechanged="0" order="13" ispublic="0" tagname="奋斗2018" viewid="65562" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1114/88500.htm">【奋斗2018】化工学院研讨“创造留下历史印记新贡献”</a> <cite>[2018年03月12日]</cite></div><div class="l_li"><a class="i_li" href="info/1114/88431.htm">【奋斗2018】人文学院：新学期开启新局面 新举措创造新贡献</a> <cite>[2018年03月10日]</cite></div><div class="l_li"><a class="i_li" href="info/1114/88426.htm">【奋斗2018】党委政策研究室学习研讨“创造留下历史印记新贡献”</a> <cite>[2018年03月10日]</cite></div><div class="l_li"><a class="i_li" href="info/1114/88385.htm">【奋斗2018】机械学院上下一心 努力创造历史印记新贡献</a> <cite>[2018年03月09日]</cite></div><div class="l_li"><a class="i_li" href="info/1114/88383.htm">【奋斗2018】理学院组织“弘扬四个主义 传承西迁精神”主题观影教育活动</a> <cite>[2018年03月09日]</cite></div><div class="l_li"><a class="i_li" href="info/1114/88380.htm">【奋斗2018】生命学院召开落实“创造历史印记新贡献”研讨会</a> <cite>[2018年03月09日]</cite></div><div class="l_li"><a class="i_li" href="info/1114/88378.htm">【奋斗2018】二附院专题学习研讨“创造留下历史印记新贡献”</a> <cite>[2018年03月09日]</cite></div><div class="l_li"><a class="i_li" href="info/1114/88376.htm">【奋斗2018】继续教育学院专题研讨“创造留下历史印记新贡献”</a> <cite>[2018年03月09日]</cite></div><div class="l_li"><a class="i_li" href="info/1114/88370.htm">【奋斗2018】团委：不忘初心，砥砺前行，为创造留下历史印记新贡献而奋斗</a> <cite>[2018年03月09日]</cite></div><div class="l_li"><a class="i_li" href="info/1114/88367.htm">【奋斗2018】马克思主义学院专题学习校常委会会议精神</a> <cite>[2018年03月09日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u13_88500','dynclicks_u13_88431','dynclicks_u13_88426','dynclicks_u13_88385','dynclicks_u13_88383','dynclicks_u13_88380','dynclicks_u13_88378','dynclicks_u13_88376','dynclicks_u13_88370','dynclicks_u13_88367'],[88500,88431,88426,88385,88383,88380,88378,88376,88370,88367],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">给力三大奖</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/glsdj.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="给力三大奖" action="" layout="" clone="0" namechanged="0" order="14" ispublic="0" tagname="给力三大奖" viewid="65563" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1116/107345.htm">【给力三大奖】谢永慧团队：用“叶片”推动大国引擎</a> <cite>[2019年02月18日]</cite></div><div class="l_li"><a class="i_li" href="info/1116/107182.htm">【给力三大奖】陈雪峰团队：为中国风电装备安全运行保驾护航</a> <cite>[2019年02月06日]</cite></div><div class="l_li"><a class="i_li" href="info/1116/107065.htm">【给力三大奖】郝定均团队：在脊柱外科领域造福更多患者</a> <cite>[2019年01月28日]</cite></div><div class="l_li"><a class="i_li" href="info/1116/106949.htm">【给力三大奖】王建华团队：发展“绿色电器”，保障输电安全</a> <cite>[2019年01月23日]</cite></div><div class="l_li"><a class="i_li" href="info/1116/87851.htm">【给力三大奖】中国科学报：“微纳尺寸化”让金属更强韧</a> <cite>[2018年02月27日]</cite></div><div class="l_li"><a class="i_li" href="info/1116/87300.htm">【给力三大奖】中国教育报：传热学前沿的“中国身影”</a> <cite>[2018年01月17日]</cite></div><div class="l_li"><a class="i_li" href="info/1116/87301.htm">【给力三大奖】赵钦新团队：以“减”带增 服务社会</a> <cite>[2018年01月13日]</cite></div><div class="l_li"><a class="i_li" href="info/1116/87302.htm">【给力三大奖】陕西卫视专题报道西安交大表彰获得2017年度国家科技奖的科研团队</a> <cite>[2018年01月13日]</cite></div><div class="l_li"><a class="i_li" href="info/1116/87303.htm">【给力三大奖】郑庆华团队：为我国电子税务研制自主知识产权的“大脑中枢”</a> <cite>[2018年01月12日]</cite></div><div class="l_li"><a class="i_li" href="info/1116/87304.htm">【给力三大奖】赵玉龙团队：在微纳传感世界中披荆斩棘</a> <cite>[2018年01月11日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u14_107345','dynclicks_u14_107182','dynclicks_u14_107065','dynclicks_u14_106949','dynclicks_u14_87851','dynclicks_u14_87300','dynclicks_u14_87301','dynclicks_u14_87302','dynclicks_u14_87303','dynclicks_u14_87304'],[107345,107182,107065,106949,87851,87300,87301,87302,87303,87304],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">幸福是奋斗出来的</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/xfsfddld.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="幸福是奋斗出来的" action="" layout="" clone="0" namechanged="0" order="15" ispublic="0" tagname="幸福是奋斗出来的" viewid="65564" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1107/91851.htm">【幸福是奋斗出来的】奏响奋斗与幸福的二重奏</a> <cite>[2018年05月03日]</cite></div><div class="l_li"><a class="i_li" href="info/1107/91731.htm">【幸福是奋斗出来的】以奋斗助推交大梦</a> <cite>[2018年04月30日]</cite></div><div class="l_li"><a class="i_li" href="info/1107/91688.htm">【幸福是奋斗出来的】黄丽宁：十年奋斗路 幸福满仲英</a> <cite>[2018年04月29日]</cite></div><div class="l_li"><a class="i_li" href="info/1107/91504.htm">【幸福是奋斗出来的】纪婷：十年书院 百年树人</a> <cite>[2018年04月27日]</cite></div><div class="l_li"><a class="i_li" href="info/1107/90625.htm">【幸福是奋斗出来的】范晓莹：站好教学管理一线岗</a> <cite>[2018年04月14日]</cite></div><div class="l_li"><a class="i_li" href="info/1107/88771.htm">【幸福是奋斗出来的】张思远：回首，是为了更好地出发</a> <cite>[2018年03月16日]</cite></div><div class="l_li"><a class="i_li" href="info/1107/88200.htm">【幸福是奋斗出来的】魏炜：夯实奋斗之基 凝聚幸福之源</a> <cite>[2018年03月07日]</cite></div><div class="l_li"><a class="i_li" href="info/1107/87878.htm">【幸福是奋斗出来的】陈哲：建强奋斗文化 服务事业发展</a> <cite>[2018年02月28日]</cite></div><div class="l_li"><a class="i_li" href="info/1107/87698.htm">【幸福是奋斗出来的】沈人杰：乘势而上 再谱新篇</a> <cite>[2018年02月23日]</cite></div><div class="l_li"><a class="i_li" href="info/1107/87675.htm">【幸福是奋斗出来的】陈建兵：在奋斗中成就新辉煌</a> <cite>[2018年02月21日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u15_91851','dynclicks_u15_91731','dynclicks_u15_91688','dynclicks_u15_91504','dynclicks_u15_90625','dynclicks_u15_88771','dynclicks_u15_88200','dynclicks_u15_87878','dynclicks_u15_87698','dynclicks_u15_87675'],[91851,91731,91688,91504,90625,88771,88200,87878,87698,87675],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">为创造伟力作出贡献</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/wczwlzcgx.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="为创造伟力作出贡献" action="" layout="" clone="0" namechanged="0" order="16" ispublic="0" tagname="为创造伟力作出贡献" viewid="65565" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1112/105573.htm">西安交大在柔性无机薄膜电容器储能特性研究方面取得新进展</a> <cite>[2018年12月29日]</cite></div><div class="l_li"><a class="i_li" href="info/1112/105376.htm">西安交大在热电转换领域取得重要进展</a> <cite>[2018年12月27日]</cite></div><div class="l_li"><a class="i_li" href="info/1112/105291.htm">西安交大在软湿材料可拆卸粘接方面取得新进展</a> <cite>[2018年12月25日]</cite></div><div class="l_li"><a class="i_li" href="info/1112/105208.htm">西安交大科研人员提出新型高效钙钛矿太阳电池后修补方法</a> <cite>[2018年12月24日]</cite></div><div class="l_li"><a class="i_li" href="info/1112/105076.htm">西安交大在弯曲时空中的波传播特性研究方面取得新进展</a> <cite>[2018年12月20日]</cite></div><div class="l_li"><a class="i_li" href="info/1112/104677.htm">西安交大科研人员成功实现小电压诱导大铁磁共振调制</a> <cite>[2018年12月17日]</cite></div><div class="l_li"><a class="i_li" href="info/1112/104561.htm">西安交大程海教授团队最新研究成果在《科学》刊发</a> <cite>[2018年12月14日]</cite></div><div class="l_li"><a class="i_li" href="info/1112/104461.htm">西安交大科研人员在Advanced Science发表综述文章</a> <cite>[2018年12月13日]</cite></div><div class="l_li"><a class="i_li" href="info/1112/104117.htm">西安交大在构筑新型光催化制氢催化剂方面取得重要进展</a> <cite>[2018年12月07日]</cite></div><div class="l_li"><a class="i_li" href="info/1112/103956.htm">西安交大科研人员在石墨烯量子点白光材料领域取得重要进展</a> <cite>[2018年12月04日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u16_105573','dynclicks_u16_105376','dynclicks_u16_105291','dynclicks_u16_105208','dynclicks_u16_105076','dynclicks_u16_104677','dynclicks_u16_104561','dynclicks_u16_104461','dynclicks_u16_104117','dynclicks_u16_103956'],[105573,105376,105291,105208,105076,104677,104561,104461,104117,103956],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">西迁精神再出发</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/xqjszcf.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="西迁精神再出发" action="" layout="" clone="0" namechanged="0" order="17" ispublic="0" tagname="西迁精神再出发" viewid="65566" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1110/92216.htm">彭康书院扎实推进少数民族学生工作</a> <cite>[2018年05月08日]</cite></div><div class="l_li"><a class="i_li" href="info/1110/88125.htm">【西迁精神再出发】冯耕中：传承西迁精神 努力再创辉煌</a> <cite>[2018年03月06日]</cite></div><div class="l_li"><a class="i_li" href="info/1110/88003.htm">【西迁精神再出发】张文学：弘扬西迁精神 建设一流大学</a> <cite>[2018年03月02日]</cite></div><div class="l_li"><a class="i_li" href="info/1110/87687.htm">【西迁精神再出发】周纲：以实际行动传承西迁精神</a> <cite>[2018年02月23日]</cite></div><div class="l_li"><a class="i_li" href="info/1110/87656.htm">【西迁精神再出发】黄湘怀：以总书记重要指示精神为动力 推动...</a> <cite>[2018年02月20日]</cite></div><div class="l_li"><a class="i_li" href="info/1110/87593.htm">【西迁精神再出发】传扬“西迁精神” 助力“双一流”建设</a> <cite>[2018年02月13日]</cite></div><div class="l_li"><a class="i_li" href="info/1033/87458.htm">【西迁精神再出发】申丹：以总书记重要指示精神开创离退休工...</a> <cite>[2018年02月06日]</cite></div><div class="l_li"><a class="i_li" href="info/1110/87323.htm">【西迁精神再出发】饮水思源：西安交大各地校友向西迁精神致敬</a> <cite>[2018年01月30日]</cite></div><div class="l_li"><a class="i_li" href="info/1110/85949.htm">【西安日报】西安交大博士生解读“2017舞动西安20件大事”</a> <cite>[2018年01月22日]</cite></div><div class="l_li"><a class="i_li" href="info/1110/86172.htm">【西迁精神再出发】陈建兵：续写新时代传承西迁精神新篇章</a> <cite>[2018年01月06日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u17_92216','dynclicks_u17_88125','dynclicks_u17_88003','dynclicks_u17_87687','dynclicks_u17_87656','dynclicks_u17_87593','dynclicks_u17_87458','dynclicks_u17_87323','dynclicks_u17_85949','dynclicks_u17_86172'],[92216,88125,88003,87687,87656,87593,87458,87323,85949,86172],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">辅导员致西迁</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/fdyxq.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="辅导员致西迁" action="" layout="" clone="0" namechanged="0" order="18" ispublic="0" tagname="辅导员致西迁" viewid="65567" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1111/97374.htm">【辅导员致西迁】师会芳：弘扬西迁精神，做一名幸福的基层铺垫者</a> <cite>[2018年07月30日]</cite></div><div class="l_li"><a class="i_li" href="info/1111/97256.htm">【辅导员致西迁】杨潇：大树西迁，一路芳华——致敬西迁精神</a> <cite>[2018年07月26日]</cite></div><div class="l_li"><a class="i_li" href="info/1111/96638.htm">【辅导员致西迁】刘子凡：传承西迁魂 迈向新时代</a> <cite>[2018年07月18日]</cite></div><div class="l_li"><a class="i_li" href="info/1111/96342.htm">【辅导员致西迁】朱宏伟：西迁 伟大的奋斗</a> <cite>[2018年07月12日]</cite></div><div class="l_li"><a class="i_li" href="info/1111/96147.htm">【辅导员致西迁】王婧：从西迁精神中汲取前行的力量</a> <cite>[2018年07月10日]</cite></div><div class="l_li"><a class="i_li" href="info/1111/96068.htm">【辅导员致西迁】李开贤：传承弘扬西迁精神，助力陕西追赶超越</a> <cite>[2018年07月09日]</cite></div><div class="l_li"><a class="i_li" href="info/1111/95850.htm">【辅导员致西迁】代旺：“西迁精神”驻心间  服务基层绽青春</a> <cite>[2018年07月03日]</cite></div><div class="l_li"><a class="i_li" href="info/1111/95650.htm">【辅导员致西迁】梁俊凤：新传人，新思想，新征程</a> <cite>[2018年06月29日]</cite></div><div class="l_li"><a class="i_li" href="info/1111/95451.htm">【辅导员致西迁】曹宝红：爱国奋斗，家国情怀驻心间</a> <cite>[2018年06月26日]</cite></div><div class="l_li"><a class="i_li" href="info/1111/95235.htm">【辅导员致西迁】王楠：交大本科生对西迁精神的认知状况调查</a> <cite>[2018年06月22日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u18_97374','dynclicks_u18_97256','dynclicks_u18_96638','dynclicks_u18_96342','dynclicks_u18_96147','dynclicks_u18_96068','dynclicks_u18_95850','dynclicks_u18_95650','dynclicks_u18_95451','dynclicks_u18_95235'],[97374,97256,96638,96342,96147,96068,95850,95650,95451,95235],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">双一流与创新港</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/sylycxg.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="双一流与创新港" action="" layout="" clone="0" namechanged="0" order="19" ispublic="0" tagname="双一流与创新港" viewid="65511" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1099/84926.htm">【双一流与创新港】李可：精准引领科技创新 加快推进成果转化</a> <cite>[2017年12月18日]</cite></div><div class="l_li"><a class="i_li" href="info/1099/84835.htm">【双一流与创新港】赵玺：顺应科技发展趋势 学科交叉产学联动实现社会科学研究弯道…</a> <cite>[2017年12月15日]</cite></div><div class="l_li"><a class="i_li" href="info/1099/84738.htm">【双一流与创新港】汤晓君：抓住时代机遇，肩负历史责任，打造新的仪器科学与技术学科</a> <cite>[2017年12月12日]</cite></div><div class="l_li"><a class="i_li" href="info/1099/84625.htm">【双一流与创新港】许领：明确个人发展方向，服务一流学科建设</a> <cite>[2017年12月09日]</cite></div><div class="l_li"><a class="i_li" href="info/1099/84526.htm">【双一流与创新港】杨贵东：凝心聚气，乘势而上，建设一流化工学科</a> <cite>[2017年12月07日]</cite></div><div class="l_li"><a class="i_li" href="info/1099/84415.htm">【双一流与创新港】王玥：看得远、扎根深、重实践</a> <cite>[2017年12月04日]</cite></div><div class="l_li"><a class="i_li" href="info/1099/84326.htm">【双一流与创新港】高飞：坚持育人为本 续写百年传奇</a> <cite>[2017年12月03日]</cite></div><div class="l_li"><a class="i_li" href="info/1099/84316.htm">【双一流与创新港】宋忠孝：扬帆奋进正当时</a> <cite>[2017年12月02日]</cite></div><div class="l_li"><a class="i_li" href="info/1099/84244.htm">【双一流与创新港】吴锋：选准切入点 打造一流新闻传播学科</a> <cite>[2017年11月30日]</cite></div><div class="l_li"><a class="i_li" href="info/1099/84192.htm">【双一流与创新港】赵永涛：凝心聚力 找准学科增长点 实现跨越式发展</a> <cite>[2017年11月29日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u19_84926','dynclicks_u19_84835','dynclicks_u19_84738','dynclicks_u19_84625','dynclicks_u19_84526','dynclicks_u19_84415','dynclicks_u19_84326','dynclicks_u19_84316','dynclicks_u19_84244','dynclicks_u19_84192'],[84926,84835,84738,84625,84526,84415,84326,84316,84244,84192],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">给总书记说说心里话</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/gzsjsxlh.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="给总书记说说心里话" action="" layout="" clone="0" namechanged="0" order="20" ispublic="0" tagname="给总书记说说心里话" viewid="65575" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1106/87186.htm">【给总书记说说心里话】韩鹏杰：也应青史有诗篇</a> <cite>[2018年01月14日]</cite></div><div class="l_li"><a class="i_li" href="info/1106/86153.htm">【给总书记说说心里话】王立剑：传承西迁精神，新时代再出发</a> <cite>[2018年01月07日]</cite></div><div class="l_li"><a class="i_li" href="info/1106/86154.htm">【给总书记说说心里话】李黎明：扎根西部热土 做出卓越贡献</a> <cite>[2018年01月03日]</cite></div><div class="l_li"><a class="i_li" href="info/1106/86155.htm">【给总书记说说心里话】燕连福：以西迁精神为座右铭 新时代续写发展新篇章</a> <cite>[2017年12月31日]</cite></div><div class="l_li"><a class="i_li" href="info/1106/86156.htm">【给总书记说说心里话】陈雪峰：创新思变 服务西部经济社会全面发展</a> <cite>[2017年12月29日]</cite></div><div class="l_li"><a class="i_li" href="info/1106/86157.htm">【给总书记说说心里话】单文华：牢记西迁精神 践行使命担当</a> <cite>[2017年12月28日]</cite></div><div class="l_li"><a class="i_li" href="info/1106/86159.htm">【给总书记说说心里话】徐宗本：扎根西部 服务国家 谱写辉煌新篇章</a> <cite>[2017年12月26日]</cite></div><div class="l_li"><a class="i_li" href="info/1106/86160.htm">【给总书记说说心里话】陶文铨：不忘西迁初心 勇担时代使命</a> <cite>[2017年12月25日]</cite></div><div class="l_li"><a class="i_li" href="info/1106/86161.htm">【给总书记说说心里话】汪应洛：砥砺奋进 传承创新 建设一流学科</a> <cite>[2017年12月23日]</cite></div><div class="l_li"><a class="i_li" href="info/1106/86162.htm">【给总书记说说心里话】蒋庄德：难忘西迁师恩 矢志传承奋斗</a> <cite>[2017年12月22日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u20_87186','dynclicks_u20_86153','dynclicks_u20_86154','dynclicks_u20_86155','dynclicks_u20_86156','dynclicks_u20_86157','dynclicks_u20_86159','dynclicks_u20_86160','dynclicks_u20_86161','dynclicks_u20_86162'],[87186,86153,86154,86155,86156,86157,86159,86160,86161,86162],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">教学一线</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/jxyx.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="教学一线" action="" layout="" clone="0" namechanged="0" order="21" ispublic="0" tagname="教学一线" viewid="65576" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1113/96310.htm">【教学一线】第二届“华为云计算菁英班”开班</a> <cite>[2018年07月12日]</cite></div><div class="l_li"><a class="i_li" href="info/1113/87159.htm">【教学一线】西安交大获评8项高教学会教学改革优秀案例</a> <cite>[2018年01月08日]</cite></div><div class="l_li"><a class="i_li" href="info/1113/87160.htm">【教学一线】能动学院举办2017-2018学年第一学期本科教学研讨会</a> <cite>[2018年01月08日]</cite></div><div class="l_li"><a class="i_li" href="info/1113/87161.htm">【教学一线】陈建兵获评2017年陕西高校思想政治理论课优秀教师</a> <cite>[2018年01月05日]</cite></div><div class="l_li"><a class="i_li" href="info/1113/87162.htm">【教学一线】西安交大举办2017-2018学年第一学期新开课教师教学强化培训班</a> <cite>[2017年12月29日]</cite></div><div class="l_li"><a class="i_li" href="info/1113/87163.htm">【教学一线】西安交大与中科曙光共建“曙光先进计算菁英班”</a> <cite>[2017年12月28日]</cite></div><div class="l_li"><a class="i_li" href="info/1113/87164.htm">【教学一线】航天学院召开基础力学三位一体教学模式探索与实践研讨会</a> <cite>[2017年12月26日]</cite></div><div class="l_li"><a class="i_li" href="info/1113/87165.htm">【教学一线】西安交通大学2017年下半年教师授课竞赛圆满落幕</a> <cite>[2017年12月21日]</cite></div><div class="l_li"><a class="i_li" href="info/1113/87166.htm">【教学一线】马知恩名师工作室邀请朱旭教授开展大数据专题讲座</a> <cite>[2017年12月17日]</cite></div><div class="l_li"><a class="i_li" href="info/1113/87167.htm">【教学一线】基础课教师赴新加坡南洋理工大学教学访学活动分享会举行</a> <cite>[2017年12月11日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u21_96310','dynclicks_u21_87159','dynclicks_u21_87160','dynclicks_u21_87161','dynclicks_u21_87162','dynclicks_u21_87163','dynclicks_u21_87164','dynclicks_u21_87165','dynclicks_u21_87166','dynclicks_u21_87167'],[96310,87159,87160,87161,87162,87163,87164,87165,87166,87167],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">干部学习心语</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/gbxy.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="干部学习心语" action="" layout="" clone="0" namechanged="0" order="22" ispublic="0" tagname="干部学习心语" viewid="65542" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1102/84872.htm">【干部学习心语】锁志海：在学思践悟中领会十九大，在真抓实干中建设双一流</a> <cite>[2017年12月16日]</cite></div><div class="l_li"><a class="i_li" href="info/1102/84773.htm">【干部学习心语】贺长中：学校国际化建设要把握时代脉搏</a> <cite>[2017年12月13日]</cite></div><div class="l_li"><a class="i_li" href="info/1102/84655.htm">【干部学习心语】常涛：以十九大精神为引领，创建一流平安校园</a> <cite>[2017年12月11日]</cite></div><div class="l_li"><a class="i_li" href="info/1102/84543.htm">【干部学习心语】别朝红：学习贯彻十九大精神，写好交大“双一流”建设的奋进之笔</a> <cite>[2017年12月07日]</cite></div><div class="l_li"><a class="i_li" href="info/1102/84472.htm">【干部学习心语】郑旭红：着力提高大学生就业质量</a> <cite>[2017年12月05日]</cite></div><div class="l_li"><a class="i_li" href="info/1102/84252.htm">【干部学习心语】周远：引领青年学子做习近平新时代中国特色社会主义思想的坚定信仰…</a> <cite>[2017年12月01日]</cite></div><div class="l_li"><a class="i_li" href="info/1102/84100.htm">【干部学习心语】贾毅华：坚定文化自信，繁荣发展哲学社会科学</a> <cite>[2017年11月28日]</cite></div><div class="l_li"><a class="i_li" href="info/1102/83893.htm">【干部学习心语】龚杰昌：建设现代财政制度 助力高等教育内涵式发展</a> <cite>[2017年11月24日]</cite></div><div class="l_li"><a class="i_li" href="info/1102/83828.htm">【干部学习心语】刘谦：深刻领会“四个伟大” 奋力建设世界一流大学</a> <cite>[2017年11月22日]</cite></div><div class="l_li"><a class="i_li" href="info/1102/82818.htm">【干部学习心语】理学院：强化高校基层党建工作 扎实推进“双一流”建设</a> <cite>[2017年11月20日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u22_84872','dynclicks_u22_84773','dynclicks_u22_84655','dynclicks_u22_84543','dynclicks_u22_84472','dynclicks_u22_84252','dynclicks_u22_84100','dynclicks_u22_83893','dynclicks_u22_83828','dynclicks_u22_82818'],[84872,84773,84655,84543,84472,84252,84100,83893,83828,82818],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">新时代新气象新作为</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/xsdxqxxzw.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="新时达新气象新作为" action="" layout="" clone="0" namechanged="0" order="23" ispublic="0" tagname="新时达新气象新作为" viewid="65541" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1033/84808.htm">【新时代新气象新作为】严俊杰：以创新为引领  打造一流学科核心竞争力</a> <cite>[2017年12月14日]</cite></div><div class="l_li"><a class="i_li" href="info/1105/84711.htm">【新时代新气象新作为】王保民:以十九大精神为指导 推动一流法治人才培养</a> <cite>[2017年12月12日]</cite></div><div class="l_li"><a class="i_li" href="info/1105/84594.htm">【新时代新气象新作为】苏玉波：拥抱新时代，马院再启程</a> <cite>[2017年12月08日]</cite></div><div class="l_li"><a class="i_li" href="info/1105/84500.htm">【新时代新气象新作为】管晓宏：潮平岸阔 风正帆悬 以饱满热情开创“双一流”建设新…</a> <cite>[2017年12月06日]</cite></div><div class="l_li"><a class="i_li" href="info/1105/84416.htm">【新时代新气象新作为】成永红：以队伍建设为核心 加强电气一流学科建设</a> <cite>[2017年12月04日]</cite></div><div class="l_li"><a class="i_li" href="info/1002/84223.htm">【新时代新气象新作为】杜海峰：深学实做 贡献“双一流”与创新港建设的公管力量</a> <cite>[2017年11月30日]</cite></div><div class="l_li"><a class="i_li" href="info/1105/84159.htm">【新时代新气象新作为】魏进家：贯彻落实新发展理念，着力建设一流化工学科</a> <cite>[2017年11月29日]</cite></div><div class="l_li"><a class="i_li" href="info/1105/84041.htm">【新时代新气象新作为】赵彬：深入贯彻十九大精神 不断推进数学学院内涵式发展</a> <cite>[2017年11月27日]</cite></div><div class="l_li"><a class="i_li" href="info/1105/83858.htm">【新时代新气象新作为】梁莉：学习十九大报告心得体会</a> <cite>[2017年11月23日]</cite></div><div class="l_li"><a class="i_li" href="info/1105/83830.htm">【新时代新气象新作为】王朝晖：加强党的领导 探索一流学科建设新模式</a> <cite>[2017年11月21日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u23_84808','dynclicks_u23_84711','dynclicks_u23_84594','dynclicks_u23_84500','dynclicks_u23_84416','dynclicks_u23_84223','dynclicks_u23_84159','dynclicks_u23_84041','dynclicks_u23_83858','dynclicks_u23_83830'],[84808,84711,84594,84500,84416,84223,84159,84041,83858,83830],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">学习十九大精神</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/xuexishijiuda.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="学习十九大精神" action="" layout="" clone="0" namechanged="0" order="24" ispublic="0" tagname="学习十九大精神" viewid="65531" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1101/82867.htm">【学习十九大精神】交大青年学子眼中的十九大报告</a> <cite>[2017年11月03日]</cite></div><div class="l_li"><a class="i_li" href="info/1101/82853.htm">新华社五论贯彻落实十九大精神</a> <cite>[2017年11月03日]</cite></div><div class="l_li"><a class="i_li" href="info/1101/82849.htm">中共中央关于认真学习宣传贯彻党的十九大精神的决定</a> <cite>[2017年11月03日]</cite></div><div class="l_li"><a class="i_li" href="info/1101/82740.htm">习近平在瞻仰中共一大会址时强调 铭记党的奋斗历程时刻不忘初心 担当党的崇高使命矢…</a> <cite>[2017年11月02日]</cite></div><div class="l_li"><a class="i_li" href="info/1101/82754.htm">新华社评论员：全面贯彻习近平强军思想——七论学习贯彻党的十九大精神</a> <cite>[2017年11月01日]</cite></div><div class="l_li"><a class="i_li" href="info/1101/82749.htm">新华社评论员：奋力推进新时代中国特色社会主义事业——六论学习贯彻党的十九大精神</a> <cite>[2017年10月31日]</cite></div><div class="l_li"><a class="i_li" href="info/1101/82594.htm">西安交大召开贯彻落实十九大精神加快构建中国特色哲学社会科学座谈会</a> <cite>[2017年10月31日]</cite></div><div class="l_li"><a class="i_li" href="info/1101/82747.htm">新华社评论员：聚焦新目标 开启新征程——五论学习贯彻党的十九大精神</a> <cite>[2017年10月30日]</cite></div><div class="l_li"><a class="i_li" href="info/1101/82634.htm">理论宣讲十九大 让中央精神落地生根——西安交通大学党的十九大精神理论宣讲团工作…</a> <cite>[2017年10月30日]</cite></div><div class="l_li"><a class="i_li" href="http://news.xinhuanet.com/politics/19cpcnc/2017-10/28/c_1121870721.htm">习近平：切实学懂弄通做实党的十九大精神 努力在新时代开启新征程续写新篇章</a> <cite>[2017年10月30日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u24_82867','dynclicks_u24_82853','dynclicks_u24_82849','dynclicks_u24_82740','dynclicks_u24_82754','dynclicks_u24_82749','dynclicks_u24_82594','dynclicks_u24_82747','dynclicks_u24_82634','dynclicks_u24_82506'],[82867,82853,82849,82740,82754,82749,82594,82747,82634,82506],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">喜庆十九大</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/jjsjd.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="聚焦十九大" action="" layout="" clone="0" namechanged="0" order="25" ispublic="0" tagname="聚焦十九大" viewid="65521" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1100/82167.htm">中国共产党第十九次全国代表大会在京闭幕 习近平发表重要讲话</a> <cite>[2017年10月24日]</cite></div><div class="l_li"><a class="i_li" href="http://news.xinhuanet.com/politics/19cpcnc/2017-10/23/c_1121844855.htm">党的十九大主席团举行第三次、第四次会议 通过中央委员、候补中央委员和中央纪委委…</a> <cite>[2017年10月24日]</cite></div><div class="l_li"><a class="i_li" href="http://news.xinhuanet.com/politics/19cpcnc/2017-10/22/c_1121839283.htm">党的十九大继续举行代表团分组会议</a> <cite>[2017年10月23日]</cite></div><div class="l_li"><a class="i_li" href="http://news.xinhuanet.com/politics/19cpcnc/2017-10/20/c_1121832946.htm">党的十九大主席团举行第二次会议 习近平主持会议</a> <cite>[2017年10月20日]</cite></div><div class="l_li"><a class="i_li" href="http://news.xinhuanet.com/politics/19cpcnc/2017-10/19/c_1121828266.htm">习近平在参加党的十九大贵州省代表团讨论时强调 万众一心开拓进取把新时代中国特色…</a> <cite>[2017年10月20日]</cite></div><div class="l_li"><a class="i_li" href="info/1100/81855.htm">西安交大举办发展成果展  献礼党的十九大</a> <cite>[2017年10月19日]</cite></div><div class="l_li"><a class="i_li" href="info/1100/81808.htm">西安交大举行十九大精神辅导报告暨2017年学生党支部书记轮训开班式</a> <cite>[2017年10月19日]</cite></div><div class="l_li"><a class="i_li" href="info/1100/81803.htm">【陕西电视台】西安交大师生收看十九大开幕盛况</a> <cite>[2017年10月19日]</cite></div><div class="l_li"><a class="i_li" href="info/1100/81763.htm">【人民日报】习近平报告，这四个新概念很重要</a> <cite>[2017年10月19日]</cite></div><div class="l_li"><a class="i_li" href="info/1100/81742.htm">西安交大师生热议十九大报告（三）：振奋开启新征程</a> <cite>[2017年10月18日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u25_82167','dynclicks_u25_82128','dynclicks_u25_82087','dynclicks_u25_81996','dynclicks_u25_81885','dynclicks_u25_81855','dynclicks_u25_81808','dynclicks_u25_81803','dynclicks_u25_81763','dynclicks_u25_81742'],[82167,82128,82087,81996,81885,81855,81808,81803,81763,81742],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">辉煌五年</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/hhwsn.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="辉煌五十年" action="" layout="" clone="0" namechanged="0" order="26" ispublic="0" tagname="辉煌五年" viewid="65501" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1095/81593.htm">【辉煌五年】78 习近平“7·26”重要讲话</a> <cite>[2017年10月17日]</cite></div><div class="l_li"><a class="i_li" href="info/1095/81522.htm">【辉煌五年】 77 “一带一路”建设思想</a> <cite>[2017年10月16日]</cite></div><div class="l_li"><a class="i_li" href="info/1095/81480.htm">【辉煌五年】76 人类命运共同体</a> <cite>[2017年10月15日]</cite></div><div class="l_li"><a class="i_li" href="info/1095/81466.htm">【辉煌五年】75 军区改战区：深化军改的必由之路</a> <cite>[2017年10月14日]</cite></div><div class="l_li"><a class="i_li" href="info/1095/81408.htm">【辉煌五年】74 生态文明建设全面推进</a> <cite>[2017年10月13日]</cite></div><div class="l_li"><a class="i_li" href="info/1095/81409.htm">【辉煌五年】73 健康中国建设加快推进</a> <cite>[2017年10月12日]</cite></div><div class="l_li"><a class="i_li" href="info/1095/81324.htm">【辉煌五年】72 我国国际影响力显著提升</a> <cite>[2017年10月11日]</cite></div><div class="l_li"><a class="i_li" href="info/1095/81282.htm">【辉煌五年】71 城镇新增就业人数创新高</a> <cite>[2017年10月10日]</cite></div><div class="l_li"><a class="i_li" href="info/1095/81267.htm">【辉煌五年】70 城镇化水平显著提高</a> <cite>[2017年10月09日]</cite></div><div class="l_li"><a class="i_li" href="info/1095/81268.htm">【辉煌五年】69 全国高校思想政治工作会议</a> <cite>[2017年10月08日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u26_81593','dynclicks_u26_81522','dynclicks_u26_81480','dynclicks_u26_81466','dynclicks_u26_81408','dynclicks_u26_81409','dynclicks_u26_81324','dynclicks_u26_81282','dynclicks_u26_81267','dynclicks_u26_81268'],[81593,81522,81480,81466,81408,81409,81324,81282,81267,81268],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">奋进交大</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/fjjd.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="奋进交大" action="" layout="" clone="0" namechanged="0" order="27" ispublic="0" tagname="奋进交大" viewid="65502" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1096/81591.htm">【奋进交大】78 创新港科创基地首座科研教学巨构工程主体封顶</a> <cite>[2017年10月17日]</cite></div><div class="l_li"><a class="i_li" href="info/1096/81520.htm">【奋进交大】77 发布丝绸之路大学联盟《西安共识》</a> <cite>[2017年10月16日]</cite></div><div class="l_li"><a class="i_li" href="info/1096/81478.htm">【奋进交大】76 加入中俄综合性大学联盟</a> <cite>[2017年10月15日]</cite></div><div class="l_li"><a class="i_li" href="info/1096/81464.htm">【奋进交大】75 与教育部国际司签署“一带一路”教育行动合作备忘录</a> <cite>[2017年10月14日]</cite></div><div class="l_li"><a class="i_li" href="info/1096/81410.htm">【奋进交大】73 入围“礼敬中华优秀传统文化”系列活动特色展示项目</a> <cite>[2017年10月12日]</cite></div><div class="l_li"><a class="i_li" href="info/1096/81322.htm">【奋进交大】72 交大学子荣获中国青少年科技创新奖</a> <cite>[2017年10月11日]</cite></div><div class="l_li"><a class="i_li" href="info/1096/81281.htm">【奋进交大】71 与西安市、阿里巴巴签订合作备忘录</a> <cite>[2017年10月10日]</cite></div><div class="l_li"><a class="i_li" href="info/1096/81263.htm">【奋进交大】70 完成国内首例“人工寰齿关节置换术”</a> <cite>[2017年10月09日]</cite></div><div class="l_li"><a class="i_li" href="info/1096/81264.htm">【奋进交大】69 CAR-T治疗难治复发多发性骨髓瘤获关注</a> <cite>[2017年10月08日]</cite></div><div class="l_li"><a class="i_li" href="info/1096/81265.htm">【奋进交大】68 成功实施我国首例再造耳移植手术</a> <cite>[2017年10月07日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u27_81591','dynclicks_u27_81520','dynclicks_u27_81478','dynclicks_u27_81464','dynclicks_u27_81410','dynclicks_u27_81322','dynclicks_u27_81281','dynclicks_u27_81263','dynclicks_u27_81264','dynclicks_u27_81265'],[81591,81520,81478,81464,81410,81322,81281,81263,81264,81265],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">交大力量</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/jdll.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="交大力量" action="" layout="" clone="0" namechanged="0" order="28" ispublic="0" tagname="交大力量" viewid="65491" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1094/84513.htm">【交大力量】邢建东：铸造耐磨材料研究的执着践行者</a> <cite>[2017年12月06日]</cite></div><div class="l_li"><a class="i_li" href="info/1094/84429.htm">【交大力量】李换琴：用爱教书育人 用心做好老师</a> <cite>[2017年12月05日]</cite></div><div class="l_li"><a class="i_li" href="info/1094/81706.htm">【交大力量】李香菊：聚焦发展建言献策，关注民生服务社会</a> <cite>[2017年10月18日]</cite></div><div class="l_li"><a class="i_li" href="info/1094/82473.htm">【交大力量】优秀研究生导师宋晓平教授：春风化雨 润物无声</a> <cite>[2017年10月16日]</cite></div><div class="l_li"><a class="i_li" href="info/1094/83497.htm">【交大力量】优秀研究生导师赵升吨教授：传道授业 谆谆师者</a> <cite>[2017年10月16日]</cite></div><div class="l_li"><a class="i_li" href="info/1094/81371.htm">【交大力量】优秀研究生导师马西奎教授：电磁场理论研究探索者</a> <cite>[2017年09月27日]</cite></div><div class="l_li"><a class="i_li" href="info/1094/81370.htm">【交大力量】优秀研究生导师吕社民教授：唯真唯实，治学以谨</a> <cite>[2017年09月27日]</cite></div><div class="l_li"><a class="i_li" href="info/1094/79838.htm">【交大力量】郭烈锦教授团队：培养世界一流的“再生清洁”新能源研发者</a> <cite>[2017年09月08日]</cite></div><div class="l_li"><a class="i_li" href="info/1094/79777.htm">【交大力量】张小栋：把援疆当事业 把新疆作故乡</a> <cite>[2017年09月07日]</cite></div><div class="l_li"><a class="i_li" href="info/1094/79612.htm">【交大力量】优秀研究生导师徐明龙：振动测试领域的精英航天人</a> <cite>[2017年09月03日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u28_84513','dynclicks_u28_84429','dynclicks_u28_81706','dynclicks_u28_82473','dynclicks_u28_83497','dynclicks_u28_81371','dynclicks_u28_81370','dynclicks_u28_79838','dynclicks_u28_79777','dynclicks_u28_79612'],[84513,84429,81706,82473,83497,81371,81370,79838,79777,79612],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">抓党建促发展</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/zdjcfz.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="抓党建促发展" action="" layout="" clone="0" namechanged="0" order="29" ispublic="0" tagname="抓党建促发展" viewid="65568" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1091/65091.htm">【抓党建促发展】基础教育党委：围绕中心，服务大局，打造基础教育优质品牌</a> <cite>[2016年03月01日]</cite></div><div class="l_li"><a class="i_li" href="info/1091/65090.htm">【抓党建促发展】二附院党委：党建新常态 工作创新态</a> <cite>[2016年01月13日]</cite></div><div class="l_li"><a class="i_li" href="info/1091/65089.htm">【抓党建促发展】一附院党委：鼓劲发力 弯道超车 引领医院快速科学发展</a> <cite>[2016年01月06日]</cite></div><div class="l_li"><a class="i_li" href="info/1091/65088.htm">【抓党建促发展】大学生党委：坚定理想信念 加强朋辈扶持 呵护学生成长</a> <cite>[2015年12月30日]</cite></div><div class="l_li"><a class="i_li" href="info/1091/65087.htm">【抓党建促发展】人文学院党委：制度规范先行，班子建设引领，推进科学发展</a> <cite>[2015年12月13日]</cite></div><div class="l_li"><a class="i_li" href="info/1091/65086.htm">【抓党建促发展】外国语学院党委：建章立制，示范引领，建强队伍</a> <cite>[2015年12月03日]</cite></div><div class="l_li"><a class="i_li" href="info/1091/65085.htm">【抓党建促发展】能动学院党委：夯实基层学术组织 推进人才强院</a> <cite>[2015年11月27日]</cite></div><div class="l_li"><a class="i_li" href="info/1091/65084.htm">【抓党建促发展】电信学院党委：夯实基层组织 加强民主公开 建设和谐文化</a> <cite>[2015年11月11日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u29_65091','dynclicks_u29_65090','dynclicks_u29_65089','dynclicks_u29_65088','dynclicks_u29_65087','dynclicks_u29_65086','dynclicks_u29_65085','dynclicks_u29_65084'],[65091,65090,65089,65088,65087,65086,65085,65084],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">党支部故事</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/dzbdgs.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="党支部故事" action="" layout="" clone="0" namechanged="0" order="30" ispublic="0" tagname="党支部故事" viewid="65569" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1070/71685.htm">【党支部故事】一附院儿科新生儿科党支部：用心守护，让爱伴行</a> <cite>[2016年12月08日]</cite></div><div class="l_li"><a class="i_li" href="info/1070/71488.htm">【党支部故事】二附院急诊科党支部：“两学一做”先行者 紧急救治排头兵</a> <cite>[2016年12月01日]</cite></div><div class="l_li"><a class="i_li" href="info/1070/71305.htm">【党支部故事】数据与信息中心党支部：“互联网+”是个宝，“两学一做”见实效</a> <cite>[2016年11月23日]</cite></div><div class="l_li"><a class="i_li" href="info/1070/71126.htm">【党支部故事】电子系党支部：以家国情怀“点亮”科技创新之路</a> <cite>[2016年11月18日]</cite></div><div class="l_li"><a class="i_li" href="info/1070/62033.htm">【党支部故事】公管学院2013级硕士生党支部：热心公益，服务社会</a> <cite>[2016年02月24日]</cite></div><div class="l_li"><a class="i_li" href="info/1070/61328.htm">【党支部故事】财务处党支部：党建促业务，创新解难题</a> <cite>[2016年01月14日]</cite></div><div class="l_li"><a class="i_li" href="info/1070/61122.htm">【党支部故事】仲英书院12级自动化党支部：在成长的季节里成长</a> <cite>[2016年01月06日]</cite></div><div class="l_li"><a class="i_li" href="info/1070/65096.htm">【党支部故事】离退休党委一村退休第二党支部：乐度晚年 余热生辉</a> <cite>[2015年12月28日]</cite></div><div class="l_li"><a class="i_li" href="info/1070/60411.htm">【党支部故事】能动学院压缩机支部：薪火相传扩大行业影响 奖教结合提升育人水平</a> <cite>[2015年12月15日]</cite></div><div class="l_li"><a class="i_li" href="info/1070/65095.htm">【党支部故事】理学院化学系第二党支部：多措并举教书育人 共享资源推动发展</a> <cite>[2015年12月08日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u30_71685','dynclicks_u30_71488','dynclicks_u30_71305','dynclicks_u30_71126','dynclicks_u30_62033','dynclicks_u30_61328','dynclicks_u30_61122','dynclicks_u30_65096','dynclicks_u30_60411','dynclicks_u30_65095'],[71685,71488,71305,71126,62033,61328,61122,65096,60411,65095],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 10px;padding-left: 8px">聚焦创新港</td>
+<td style="border-bottom: #d2d2d2 1px solid"><a class="l_redian_more" href="xwzt/bdzt/jjcxg.htm" target="_blank">更多</a></td></tr>
+<tr>
+<td colspan="2" style="border-top: 1px;padding-bottom: 8px;padding-top: 8px;padding-left: 20px;size: #d2d2d2"><!--#begineditable contype="" name="聚焦创新港" action="" layout="" clone="0" namechanged="0" order="31" ispublic="0" tagname="聚焦创新港" viewid="43266" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1097/91359.htm">【聚焦创新港】管理学院召开创新港内涵建设党政联席会议</a> <cite>[2018年04月25日]</cite></div><div class="l_li"><a class="i_li" href="info/1097/91330.htm">【聚焦创新港】保卫处创新港建设工作小组赴创新港实地考察调研</a> <cite>[2018年04月24日]</cite></div><div class="l_li"><a class="i_li" href="info/1097/91301.htm">【聚焦创新港】航天学院召开创新港内涵建设工作会</a> <cite>[2018年04月24日]</cite></div><div class="l_li"><a class="i_li" href="info/1097/90978.htm">【聚焦创新港】公管学院召开创新港内涵建设现场党政联席扩大...</a> <cite>[2018年04月19日]</cite></div><div class="l_li"><a class="i_li" href="info/1097/90941.htm">【聚焦创新港】团委党支部前往创新港开展学习调研</a> <cite>[2018年04月19日]</cite></div><div class="l_li"><a class="i_li" href="info/1097/90881.htm">【聚焦创新港】人文学院召开创新港内涵建设现场会议</a> <cite>[2018年04月18日]</cite></div><div class="l_li"><a class="i_li" href="info/1097/90877.htm">【聚焦创新港】电信学院创新港内涵建设工作组召开第二次工作...</a> <cite>[2018年04月18日]</cite></div><div class="l_li"><a class="i_li" href="info/1097/90879.htm">【聚焦创新港】经金学院召开创新港内涵建设党政联席扩大会议</a> <cite>[2018年04月18日]</cite></div><div class="l_li"><a class="i_li" href="info/1097/90642.htm">【聚焦创新港】材料学院举行创新港内涵建设工作小组会</a> <cite>[2018年04月15日]</cite></div><div class="l_li"><a class="i_li" href="info/1097/90367.htm">【聚焦创新港】机械学院赴创新港召开党政联席扩大会暨创新港...</a> <cite>[2018年04月11日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u31_91359','dynclicks_u31_91330','dynclicks_u31_91301','dynclicks_u31_90978','dynclicks_u31_90941','dynclicks_u31_90881','dynclicks_u31_90877','dynclicks_u31_90879','dynclicks_u31_90642','dynclicks_u31_90367'],[91359,91330,91301,90978,90941,90881,90877,90879,90642,90367],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">校史故事365</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/jjsjd.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="校史故事365" action="" layout="" clone="0" namechanged="0" order="32" ispublic="0" tagname="校史故事365" viewid="65570" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1069/63892.htm">【校史故事365】365 交大建校110周年暨迁校50周年纪念往事</a> <cite>[2016年04月06日]</cite></div><div class="l_li"><a class="i_li" href="info/1069/63582.htm">【校史故事365】364 交大百年校庆纪念往事</a> <cite>[2016年04月05日]</cite></div><div class="l_li"><a class="i_li" href="info/1069/63372.htm">【校史故事365】363 交大九十周年校庆暨迁校三十周年纪念往事</a> <cite>[2016年04月04日]</cite></div><div class="l_li"><a class="i_li" href="info/1069/63370.htm">【校史故事365】362 西安交大60周年纪事</a> <cite>[2016年04月03日]</cite></div><div class="l_li"><a class="i_li" href="info/1069/63360.htm">【校史故事365】361 交大四十周年校庆往事</a> <cite>[2016年04月02日]</cite></div><div class="l_li"><a class="i_li" href="info/1069/63340.htm">【校史故事365】360 交大二十周年校庆往事</a> <cite>[2016年04月01日]</cite></div><div class="l_li"><a class="i_li" href="info/1069/63223.htm">【校史故事365】359 张文：我国著名的医学哲学家暨医史学家</a> <cite>[2016年03月31日]</cite></div><div class="l_li"><a class="i_li" href="info/1069/63185.htm">【校史故事365】358 卢兴：我国病理生理学心脏缺血研究领域带头人</a> <cite>[2016年03月30日]</cite></div><div class="l_li"><a class="i_li" href="info/1069/63156.htm">【校史故事365】357 西迁历史纪念馆的峥嵘岁月</a> <cite>[2016年03月29日]</cite></div><div class="l_li"><a class="i_li" href="info/1069/63155.htm">【校史故事365】356 迁校后苏联专家在西安参与建设</a> <cite>[2016年03月28日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u32_63892','dynclicks_u32_63582','dynclicks_u32_63372','dynclicks_u32_63370','dynclicks_u32_63360','dynclicks_u32_63340','dynclicks_u32_63223','dynclicks_u32_63185','dynclicks_u32_63156','dynclicks_u32_63155'],[63892,63582,63372,63370,63360,63340,63223,63185,63156,63155],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">双甲子校庆</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/sjzxq.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="双甲子校庆" action="" layout="" clone="0" namechanged="0" order="33" ispublic="0" tagname="双甲子校庆" viewid="65441" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1079/65040.htm">【双甲子校庆】诺奖得主Carlo Rubbia与交大师生面对面</a> <cite>[2016年04月30日]</cite></div><div class="l_li"><a class="i_li" href="info/1079/65036.htm">【数字看校庆】社会媒体“刷屏”千余篇次</a> <cite>[2016年04月29日]</cite></div><div class="l_li"><a class="i_li" href="info/1079/64998.htm">【数字看校庆】微博微信相关内容阅读量超2千万</a> <cite>[2016年04月29日]</cite></div><div class="l_li"><a class="i_li" href="info/1079/64974.htm">【数字看校庆】14场展览满载交大情怀</a> <cite>[2016年04月28日]</cite></div><div class="l_li"><a class="i_li" href="info/1079/64926.htm">【数字看校庆】2.2亿元捐赠资金 184项社会捐赠项目 百余家企业及社会组织助力学校...</a> <cite>[2016年04月27日]</cite></div><div class="l_li"><a class="i_li" href="info/1079/64919.htm">【校庆回响】思源心语诉不尽 助力写史绘新篇</a> <cite>[2016年04月27日]</cite></div><div class="l_li"><a class="i_li" href="info/1079/64903.htm">【双甲子校庆】离退休教职工书画、摄影、集邮、手工作品展正式开幕</a> <cite>[2016年04月27日]</cite></div><div class="l_li"><a class="i_li" href="info/1079/64898.htm">【数字看校庆】30余处校园“新景观”</a> <cite>[2016年04月26日]</cite></div><div class="l_li"><a class="i_li" href="info/1079/64805.htm">【数字看校庆】8场座谈会、6项合作协议深化校地、校企合作</a> <cite>[2016年04月22日]</cite></div><div class="l_li"><a class="i_li" href="info/1079/64793.htm">【双甲子校庆】西安交大举办2016年中澳大学教学峰会</a> <cite>[2016年04月22日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u33_65040','dynclicks_u33_65036','dynclicks_u33_64998','dynclicks_u33_64974','dynclicks_u33_64926','dynclicks_u33_64919','dynclicks_u33_64903','dynclicks_u33_64898','dynclicks_u33_64805','dynclicks_u33_64793'],[65040,65036,64998,64974,64926,64919,64903,64898,64805,64793],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">身边交大人</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/sbjdr.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="身边交大人" action="" layout="" clone="0" namechanged="0" order="34" ispublic="0" tagname="身边交大人" viewid="65571" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1037/127151.htm">【身边交大人】西安交大脑控机器人团队：用智慧点亮生命之光</a> <cite>[2020年01月06日]</cite></div><div class="l_li"><a class="i_li" href="info/1037/127046.htm">【身边交大人】石梦寒：投身实践，奉献社会</a> <cite>[2020年01月02日]</cite></div><div class="l_li"><a class="i_li" href="info/1037/126971.htm">【身边交大人】让梦想照进现实——记蝉联国际遗传工程机械大...</a> <cite>[2019年12月31日]</cite></div><div class="l_li"><a class="i_li" href="info/1037/126747.htm">【身边交大人】文明宿舍标兵：通往幸福的“门”是“我们”</a> <cite>[2019年12月26日]</cite></div><div class="l_li"><a class="i_li" href="info/1037/126293.htm">【身边交大人】标兵文明示范宿舍：年轻没有失败，青春献出光彩</a> <cite>[2019年12月24日]</cite></div><div class="l_li"><a class="i_li" href="info/1037/126290.htm">【身边交大人】仲英书院标兵文明示范宿舍：团结互助，共同进步</a> <cite>[2019年12月17日]</cite></div><div class="l_li"><a class="i_li" href="info/1037/125955.htm">【身边交大人】标兵文明示范提名宿舍：互敬互爱，全面发展</a> <cite>[2019年12月10日]</cite></div><div class="l_li"><a class="i_li" href="info/1037/125744.htm">【身边交大人】古长维：援藏的急诊人</a> <cite>[2019年12月06日]</cite></div><div class="l_li"><a class="i_li" href="info/1037/125476.htm">【身边交大人】人居学院硕8138党支部：不忘初心、牢记使命，...</a> <cite>[2019年12月02日]</cite></div><div class="l_li"><a class="i_li" href="info/1037/125351.htm">【身边交大人】文明宿舍标兵：崇德尚贤 品正学实</a> <cite>[2019年11月29日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u34_127151','dynclicks_u34_127046','dynclicks_u34_126971','dynclicks_u34_126747','dynclicks_u34_126293','dynclicks_u34_126290','dynclicks_u34_125955','dynclicks_u34_125744','dynclicks_u34_125476','dynclicks_u34_125351'],[127151,127046,126971,126747,126293,126290,125955,125744,125476,125351],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 10px;padding-left: 8px">新鲜交大事</td>
+<td style="border-bottom: #d2d2d2 1px solid"><a class="l_redian_more" href="xwzt/bdzt/xxjds.htm" target="_blank">更多</a></td></tr>
+<tr>
+<td colspan="2" style="border-top: 1px;padding-bottom: 8px;padding-top: 8px;padding-left: 20px;size: #d2d2d2"><!--#begineditable contype="" name="新鲜交大事" action="" layout="" clone="0" namechanged="0" order="35" ispublic="0" tagname="新鲜交大事" viewid="65572" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1038/95696.htm">【新鲜交大事】西安交大硕士生胡正涛举办毕业演奏交流会</a> <cite>[2018年06月30日]</cite></div><div class="l_li"><a class="i_li" href="info/1038/84823.htm">【新鲜交大事】手机“变身”一卡通 开启校园无卡支付新生活</a> <cite>[2017年12月14日]</cite></div><div class="l_li"><a class="i_li" href="info/1038/75524.htm">【新鲜交大事】黄磊携《麻烦家族》走进西安交大</a> <cite>[2017年05月08日]</cite></div><div class="l_li"><a class="i_li" href="info/1038/73309.htm">【新鲜交大事】公共自行车进校园  师生共筑和谐校园</a> <cite>[2017年02月24日]</cite></div><div class="l_li"><a class="i_li" href="info/1038/72549.htm">【新鲜交大事】西安交大教工之家正式启用</a> <cite>[2017年01月10日]</cite></div><div class="l_li"><a class="i_li" href="info/1038/72327.htm">【新鲜交大事】后勤岗位大“练兵” 食堂大厨展“绝活”</a> <cite>[2016年12月29日]</cite></div><div class="l_li"><a class="i_li" href="info/1038/70761.htm">【新鲜交大事】交大师生网络直播讨论拔尖人才培养</a> <cite>[2016年11月07日]</cite></div><div class="l_li"><a class="i_li" href="info/1038/69735.htm">【新鲜交大事】中国男足名宿孙继海走进交大校园</a> <cite>[2016年10月11日]</cite></div><div class="l_li"><a class="i_li" href="info/1038/69074.htm">【新鲜交大事】“舞台上的校史课”震撼2016级新生</a> <cite>[2016年09月15日]</cite></div><div class="l_li"><a class="i_li" href="info/1038/68828.htm">【新鲜交大事】雁塔校区的新变化</a> <cite>[2016年09月08日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u35_95696','dynclicks_u35_84823','dynclicks_u35_75524','dynclicks_u35_73309','dynclicks_u35_72549','dynclicks_u35_72327','dynclicks_u35_70761','dynclicks_u35_69735','dynclicks_u35_69074','dynclicks_u35_68828'],[95696,84823,75524,73309,72549,72327,70761,69735,69074,68828],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">科学发展兴交大</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/kxfzxjd.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="科学发展兴交大" action="" layout="" clone="0" namechanged="0" order="36" ispublic="0" tagname="科学发展兴交大" viewid="65573" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1052/40240.htm">科学发展兴交大系列报道（8）：社会服务成效卓著</a> <cite>[2012年12月14日]</cite></div><div class="l_li"><a class="i_li" href="info/1052/40241.htm">科学发展兴交大系列报道（7）：  基层党组织建设活力彰显</a> <cite>[2012年11月08日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u36_40240','dynclicks_u36_40241'],[40240,40241],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr>
+<tr>
+<td style="font-size: 14px;border-bottom: #d2d2d2 1px solid;font-weight: bold;color: #00467f;padding-bottom: 8px;padding-top: 15px;padding-left: 8px">人才培养系列报道</td>
+<td style="border-bottom: #d2d2d2 1px solid" valign="top"><a class="l_redian_more" href="xwzt/bdzt/rcpy.htm" target="_blank">更多</a> </td></tr>
+<tr>
+<td colspan="2" style="padding-bottom: 8px;padding-top: 8px;padding-left: 20px"><!--#begineditable contype="" name="人才培养系列报道" action="" layout="" clone="0" namechanged="0" order="37" ispublic="0" tagname="人才培养系列报道" viewid="65574" stylesysid=""--><div class="l_li"><a class="i_li" href="info/1039/40257.htm">西安交大人才培养系列报道：启德书院创新育人举措 突显实践特色</a> <cite>[2013年06月04日]</cite></div><div class="l_li"><a class="i_li" href="info/1039/40258.htm">西安交大人才培养系列报道：学在文治、乐在文治、成长在文治</a> <cite>[2013年05月24日]</cite></div><div class="l_li"><a class="i_li" href="info/1039/40259.htm">西安交大人才培养系列报道：励志书院着力培养创新型国防人才</a> <cite>[2013年05月17日]</cite></div><div class="l_li"><a class="i_li" href="info/1039/40260.htm">西安交大人才培养系列报道：仲英书院培养负责担当自理自砺的谦谦君子</a> <cite>[2013年04月03日]</cite></div><div class="l_li"><a class="i_li" href="info/1039/40261.htm">西安交大人才培养系列报道：彭康书院文化育人大舞台助学子成长</a> <cite>[2013年03月21日]</cite></div><div class="l_li"><a class="i_li" href="info/1039/40262.htm">西安交大人才培养系列报道：南洋书院“家、人、爱”理念育德才兼备人才</a> <cite>[2013年01月11日]</cite></div><div class="l_li"><a class="i_li" href="info/1039/40263.htm">西安交大人才培养系列报道：计算机教学实验中心三位一体提升育人质量</a> <cite>[2012年11月23日]</cite></div><div class="l_li"><a class="i_li" href="info/1039/40264.htm">西安交大人才培养系列报道：金禾中心联动两岸合力培养经济学人才</a> <cite>[2012年10月26日]</cite></div><div class="l_li"><a class="i_li" href="info/1039/40265.htm">西安交大人才培养系列报道：团委着力打造实践育人、文化育人大平台</a> <cite>[2012年10月19日]</cite></div><div class="l_li"><a class="i_li" href="info/1039/40267.htm">西安交大人才培养系列报道：改革研究生培养机制 提高研究生培养质量</a> <cite>[2012年06月29日]</cite></div>
+<script>_showDynClickBatch(['dynclicks_u37_40257','dynclicks_u37_40258','dynclicks_u37_40259','dynclicks_u37_40260','dynclicks_u37_40261','dynclicks_u37_40262','dynclicks_u37_40263','dynclicks_u37_40264','dynclicks_u37_40265','dynclicks_u37_40267'],[40257,40258,40259,40260,40261,40262,40263,40264,40265,40267],"wbnews", 1025023737)</script>
+<!--#endeditable--></td></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tbody></table></div>
+<div class="i_news_detail" id="div_news_2" style="padding-top: 15px;display: none"><!--#begineditable contype="" name="专题网" action="" layout="" clone="0" namechanged="0" order="38" ispublic="0" tagname="专题网" viewid="43091" stylesysid=""-->
+<table border="0" cellpadding="0" cellspacing="0" class="winstyle43091">
+<tr>
+<td><img alt="两学一做专题网" border="0" height="50" hspace="3" src="newindex/12.png" vspace="8" width="210"/><div align="center" class="titlestyle43091">
+            两学一做专题网
+             
+
+          </div></td>
+<td><a href="http://qzlx.xjtu.edu.cn/" onclick="_addDynClicks('wbimage',1025023737,11015)" target="_blank"><img alt="群众路线教育实践活动专题网" border="0" height="50" hspace="3" src="36-524972484.jpg" vspace="8" width="210"/></a><div align="center" class="titlestyle43091">
+            群众路线教育实践活动专题网
+             
+
+          </div></td>
+<td><a href="http://xjtunews.xjtu.edu.cn/study18th/" onclick="_addDynClicks('wbimage',1025023737,11014)" target="_blank"><img alt="学习十八大精神专题网" border="0" height="50" hspace="3" src="360-525238843.jpg" vspace="8" width="210"/></a><div align="center" class="titlestyle43091">
+            学习十八大精神专题网
+             
+
+          </div></td>
+</tr>
+<tr>
+<td><a href="http://xjtunews.xjtu.edu.cn/jiandang90//index.html" onclick="_addDynClicks('wbimage',1025023737,11013)" target="_blank"><img alt="建党90周年专题网" border="0" height="50" hspace="3" src="360-436126046.jpg" vspace="8" width="210"/></a><div align="center" class="titlestyle43091">
+            建党90周年专题网
+             
+
+          </div></td>
+<td><a href="http://xjtunews.xjtu.edu.cn/xjx/index.shtml" onclick="_addDynClicks('wbimage',1025023737,11012)" target="_blank"><img alt="保持党员先进性教育专题网" border="0" height="50" hspace="3" src="baoxian526080796.jpg" vspace="8" width="210"/></a><div align="center" class="titlestyle43091">
+            保持党员先进性教育专题网
+             
+
+          </div></td>
+<td><a href="http://xjtunews.xjtu.edu.cn/fupin/" onclick="_addDynClicks('wbimage',1025023737,11011)" target="_blank"><img alt="扶贫信息专题网" border="0" height="50" hspace="3" src="36-525995281.jpg" vspace="8" width="210"/></a><div align="center" class="titlestyle43091">
+            扶贫信息专题网
+             
+
+          </div></td>
+</tr>
+<tr>
+<td><a href="http://xfjs.xjtu.edu.cn" onclick="_addDynClicks('wbimage',1025023737,11010)" target="_blank"><img alt="学风建设专题网" border="0" height="50" hspace="3" src="360-525757593.jpg" vspace="8" width="210"/></a><div align="center" class="titlestyle43091">
+            学风建设专题网
+             
+
+          </div></td>
+<td><a href="http://xjtunews.xjtu.edu.cn/xiaoqing115/index.html" onclick="_addDynClicks('wbimage',1025023737,11009)" target="_blank"><img alt="115周年校庆专题网" border="0" height="50" hspace="3" src="115.jpg" vspace="8" width="210"/></a><div align="center" class="titlestyle43091">
+            115周年校庆专题网
+             
+
+          </div></td>
+<td><a href="http://xjtunews.xjtu.edu.cn/sports13/index.html" onclick="_addDynClicks('wbimage',1025023737,11008)" target="_blank"><img alt="第51届运动会专题网" border="0" height="50" hspace="3" src="newindex/-436111109.jpg" vspace="8" width="210"/></a><div align="center" class="titlestyle43091">
+            第51届运动会专题网
+             
+
+          </div></td>
+</tr>
+<tr>
+<td><a href="http://newsxq.xjtu.edu.cn/ydhzt/sy.htm" onclick="_addDynClicks('wbimage',1025023737,11151)" target="_blank"><img alt="第54届运动会专题网" border="0" height="50" hspace="3" src="newindex/2.jpg" vspace="8" width="210"/></a><div align="center" class="titlestyle43091">
+            第54届运动会专题网
+             
+
+          </div></td>
+<td><a href="Topics/53ydh/home.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1063" onclick="_addDynClicks('wbimage',1025023737,11051)" target="_blank"><img alt="第53届运动会专题网" border="0" height="50" hspace="3" src="Topics/53ydh/TitlePic.jpg" vspace="8" width="210"/></a><div align="center" class="titlestyle43091">
+            第53届运动会专题网
+             
+
+          </div></td>
+</tr>
+</table><!--#endeditable--></div></div>
+<div class="split"> </div>
+<div class="clear"> </div></div>
+<div class="i_right">
+<div class="i_search">
+<form action="#" method="post" name="i_search">
+<div class="i_search_left"><input class="i_search_text" name="i_search_text" value="新闻搜索"/></div>
+<div class="i_search_left"><input class="i_search_btn" name="i_search_btn" src="AloeR/i_search_btn.jpg" type="image"/></div>
+<div class="i_search_left"><a class="i_li" href="detail.html">高级检索</a></div></form></div>
+<div class="split"> </div>
+<div class="split"> </div>
+<div class="l_redian"><span class="l_redian">信息预告</span> <a class="l_redian_more" href="xxyg.htm" target="_blank">更多</a>
+<div class="clear"> </div></div>
+<div class="l_redian_con"><!--#begineditable contype="" name="信息预告" action="" layout="" clone="0" namechanged="0" order="39" ispublic="0" tagname="信息预告" viewid="42992" stylesysid=""--> <div class="l_redian_li"><a class="i_li" href="info/1017/121206.htm" title="第十一届国际研究生奖学金信息说明会即将召开">·第十一届国际研究生奖学金信息说明...</a></div>
+<div class="l_redian_li"><a class="i_li" href="info/1017/121129.htm" title="第10届“学术之星”评选活动通知">·第10届“学术之星”评选活动通知</a></div>
+<div class="l_redian_li"><a class="i_li" href="info/1017/120815.htm" title="【初心·使命】西安交大教职工歌咏比赛即将倾情上演">·【初心·使命】西安交大教职工歌咏比...</a></div>
+<div class="l_redian_li"><a class="i_li" href="info/1017/120096.htm" title="未来汽车动力与出行方式创新发展论坛即将举行">·未来汽车动力与出行方式创新发展论...</a></div>
+<div class="l_redian_li"><a class="i_li" href="info/1017/119463.htm" title="文脉相继——交通大学人文教育文献暨钟明善教授从教60周年成果展">·文脉相继——交通大学人文教育文献...</a></div>
+<div class="l_redian_li"><a class="i_li" href="info/1033/119195.htm" title="欢迎关注研究生开学典礼网络直播和新媒体互动">·欢迎关注研究生开学典礼网络直播和...</a></div>
+<div class="l_redian_li"><a class="i_li" href="info/1017/117943.htm" title="第12届微纳尺度材料行为国际研讨会开幕在即">·第12届微纳尺度材料行为国际研讨会...</a></div>
+<div class="l_redian_li"><a class="i_li" href="info/1017/116024.htm" title="第三届“一带一路”全球健康国际研讨会暨丝绸之路大学联盟2019全球健康论坛第二轮会议通知">·第三届“一带一路”全球健康国际研...</a></div>
+<div class="l_redian_li"><a class="i_li" href="info/1017/114980.htm" title="西安交大VEX机器人夏令营报名啦！">·西安交大VEX机器人夏令营报名啦！</a></div>
+<div class="l_redian_li"><a class="i_li" href="info/1017/114752.htm" title="“青马问道”第十一讲预告">·“青马问道”第十一讲预告</a></div>
+<script>_showDynClickBatch(['dynclicks_u39_121206','dynclicks_u39_121129','dynclicks_u39_120815','dynclicks_u39_120096','dynclicks_u39_119463','dynclicks_u39_119195','dynclicks_u39_117943','dynclicks_u39_116024','dynclicks_u39_114980','dynclicks_u39_114752'],[121206,121129,120815,120096,119463,119195,117943,116024,114980,114752],"wbnews", 1025023737)</script>
+<!--#endeditable--></div>
+<div class="split"> </div>
+<div class="l_lanmu"><span class="l_redian">栏目新闻</span>  
+<div class="clear"> </div></div>
+<div class="l_redian_con"><!--#begineditable contype="" name="栏目新闻" action="" layout="" clone="0" namechanged="0" order="40" ispublic="0" tagname="栏目新闻" viewid="42993" stylesysid=""--> <div class="l_redian_li"><a class="l_lanmu_li" href="info/1002/127560.htm" title="共青团西安交通大学第二十九次代表大会召开">·共青团西安交通大学第二十九次代表...</a></div></div></div></div></body>
+<div class="l_redian_li"><a class="l_lanmu_li" href="info/1002/127456.htm" title="【奋翅起高飞】只争朝夕 不负韶华">·【奋翅起高飞】只争朝夕 不负韶华</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="info/1002/127428.htm" title="西安交大召开2020年寒假工作会议">·西安交大召开2020年寒假工作会议</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="info/1002/127418.htm" title="西安交通大学召开“不忘初心、牢记使命”主题教育总结大会">·西安交通大学召开“不忘初心、牢记...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="info/1002/127446.htm" title="统一战线助力发展：扶贫攻坚有担当">·统一战线助力发展：扶贫攻坚有担当</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="info/1002/127421.htm" title="西安交通大学参加2020年全国教育工作网络视频会议">·西安交通大学参加2020年全国教育工...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="info/1002/127402.htm" title="【初心·使命】焦仲平系列评论之十：鼓满风帆踏征程，全力奋进创明天">·【初心·使命】焦仲平系列评论之十：...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="info/1002/127391.htm" title="【“团”聚青春】共青团西安交通大学第二十九次代表大会预备会议召开">·【“团”聚青春】共青团西安交通大...</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="info/1002/127377.htm" title="学校召开研究生辅导员座谈会">·学校召开研究生辅导员座谈会</a></div>
+<div class="l_redian_li"><a class="l_lanmu_li" href="info/1002/127368.htm" title="西安交大新增4个单位入选教育部新时代高校党建“双创”培育创建行列">·西安交大新增4个单位入选教育部新时...</a></div>
+<script>_showDynClickBatch(['dynclicks_u40_127560','dynclicks_u40_127456','dynclicks_u40_127428','dynclicks_u40_127418','dynclicks_u40_127446','dynclicks_u40_127421','dynclicks_u40_127402','dynclicks_u40_127391','dynclicks_u40_127377','dynclicks_u40_127368'],[127560,127456,127428,127418,127446,127421,127402,127391,127377,127368],"wbnews", 1025023737)</script>
+<!--#endeditable-->
+<div class="i_weibo" id="div_weibo_span"><span class="i_weibo_now" id="span_weibo_1" onmousemove="switchWeibo(1);"><img align="absMiddle" src="AloeR/i_sina.jpg"/> 新浪微博</span> <span class="i_weibo_split"> </span> <span class="i_weibo" id="span_weibo_2" onmousemove="switchWeibo(2);"><img align="absMiddle" src="AloeR/i_renren.jpg"/> 人人网</span> <span class="i_weibo_split"> </span> <span class="i_weibo" id="span_weibo_3" onmousemove="switchWeibo(3);"><img align="absMiddle" src="AloeR/i_weixin.jpg"/> 微信</span> </div>
+<div class="i_weibo_con" id="div_weibo_div">
+<div class="i_weibo_detail" id="div_weibo_1" style="display: block"><iframe class="share_self" frameborder="0" height="190" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&amp;width=0&amp;height=230&amp;fansRow=2&amp;ptype=1&amp;speed=0&amp;skin=1&amp;isTitle=1&amp;noborder=1&amp;isWeibo=1&amp;isFans=1&amp;uid=1862928653&amp;verifier=b193b9de&amp;dpc=1" width="100%"></iframe></div>
+<div class="i_weibo_detail" id="div_weibo_2" style="display: none">人人网 </div>
+<div class="i_weibo_detail" id="div_weibo_3" style="display: none">微信 </div>
+<div class="clear"> </div></div>
+<div class="clear"> </div>
+<div class="clear"> </div>
+<div class="split"> </div>
+<div class="i_bottom"><!--#begineditable contype="" name="底部链接" action="" layout="" clone="0" namechanged="0" order="41" ispublic="0" tagname="底部链接" viewid="42994" stylesysid=""--><script language="javascript" src="system/resource/js/openlink.js"></script> <a class="i_bottom" href="http://xwtg.xjtu.edu.cn:8080/system/contribute/alogin.jsp">在线投稿</a>
+<strong>|</strong>
+<a class="i_bottom" href="lxwm.htm">联系我们</a>
+<strong>|</strong>
+<a class="i_bottom" href="http://202.117.3.24:8080/system/login.jsp">管理登陆</a>
+<strong>|</strong>
+<a class="i_bottom" href="http://xwlc1.xjtu.edu.cn/">新闻流程</a>
+<!--#endeditable--><br/><!--#begineditable contype="" name="版权" action="" layout="" clone="0" namechanged="0" order="42" ispublic="0" tagname="版权" viewid="42995" stylesysid=""-->版权所有：西安交通大学党委宣传部 网站建设：<a class="design" href="http://nic.xjtu.edu.cn">网络信息中心</a><br/><a href="http://www.beian.miit.gov.cn/">陕ICP备06008037号</a> 网络信息中心提供网络带宽 <!--#endeditable--></div>
+

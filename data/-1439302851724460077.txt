@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<link href="home.css" rel="stylesheet" type="text/css"/>
+<title>第53届运动会-西安交大新闻网</title>
+<!--Announced by Visual SiteBuilder 9-->
+<link href="/_sitegray/_sitegray_d.css" rel="stylesheet" type="text/css"/>
+<script language="javascript" src="/_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230697547545255564203030000 -->
+<link href="/Topics/53ydh/home.vsb.css" rel="stylesheet" type="text/css"/>
+<meta content="西安交大新闻网" name="keywords"/>
+<script src="/system/resource/js/counter.js" type="text/javascript"></script>
+<script type="text/javascript">_jsq_(1063,'/Topics/53ydh/home.jsp',-1,1025023737)</script>
+</head>
+<body>
+<div id="container">
+<div id="header">
+<div id="pic1"><img src="./tp/x.jpg"/></div>
+<a class="tit" href="/Topics/53ydh/home.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1063"><div class="head1">主  页<br/>Main</div></a>
+<a class="tit" href="/xwzt/ztw/yudonghui531/sksb.htm"><div class="head2">赛    事<br/>Matches</div></a>
+<a class="tit" href="/xwzt/ztw/yudonghui531/ssxw.htm"><div class="head3">新  闻<br/>News</div></a>
+<a class="tit" href="/xwzt/ztw/yudonghui531/jsrc.htm"><div class="head4">其  他<br/>Others</div></a>
+</div>
+<div id="pic">
+<img height="100%" src="./tp/100.jpg" width="100%"/>
+</div>
+<div id="pic2">
+<img height="100%" src="./tp/t1.jpg" width="100%"/>
+</div>
+<div id="pic3">
+<img height="100%" src="./tp/t2.jpg" width="100%"/>
+</div>
+<div id="pic4">
+<img height="100%" src="./tp/t3.jpg" width="100%"/>
+</div>
+<div id="pic5">
+<img height="100%" src="./tp/t4.jpg" width="100%"/>
+</div>
+<div class="footer">
+            Copyright 腾飞工作室 2015~2016<br/>
+            All Rights Reserved
+        </div>
+</div>
+</body>
+</html>

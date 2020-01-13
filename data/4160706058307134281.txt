@@ -1,0 +1,262 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<title>学校教职工暑期全速推进重点工作-西安交通大学数字报</title>
+<link href="css/ys.css" rel="stylesheet" type="text/css"/>
+<script language="Javascript" src="js/prototype.js"></script>
+<script language="Javascript" src="js/range1.js"></script>
+<script language="Javascript" src="js/calendar.js"></script>
+<script language="Javascript" src="js/menu.js"></script>
+<script language="Javascript" src="js/jquery-1.9.1.min.js"></script>
+<meta content="交大报,西安交大报,西安交大数字报,西安交大数字报纸 ,西安交大电子报" name="keywords">
+<meta content="交大报,西安交大报,西安交大数字报,西安交大数字报纸 ,西安交大电子报" name="description"/>
+<script type="text/javaScript">
+		function doZoom(size){
+			document.getElementById('zoom').style.fontSize=size+'px'}
+	</script>
+<style type="text/css">
+	.bantu_img {position:relative;  top:22px; left:15px;width:402px;height:542px;z-index:99;}
+</style>
+<script type="text/javascript">
+
+         jQuery(document).ready(function () {
+			 	  //通版
+			if(402>403){
+			jQuery('#zhankan').click(function(){
+			jQuery('img.bantu_img').css("width","790");
+			
+			  });
+			jQuery("#shousuo").click(function(){
+            jQuery("img.bantu_img").css("width","373");
+			
+            });
+			jQuery("#tongban").show();
+			}
+			if(402<403){
+			jQuery("#tongban").hide();
+			}
+			//选框移入移出
+		   jQuery("map").mouseover(function(event){
+  
+	    rangeDeltaX =11;
+		rangeDeltaY = -60;
+		drawLine(event.target,event);
+		  });
+
+		jQuery("#sss").mouseout(function(){
+		var divElm = document.getElementById("leveldiv");
+		divElm.style.border = "";
+	
+		showTitlePane(false);
+
+		});
+		jQuery("#ttt").mouseout(function(){
+		var divElm = document.getElementById("leveldiv");
+		divElm.style.border = "";
+	
+		showTitlePane(false);
+
+		});
+		var content = jQuery("#zoom").html().replace(/&nbsp;&nbsp;&nbsp;&nbsp;/g,"&#12288;&#12288;");
+		jQuery("#zoom").html(content);
+
+		//点击量和文章字数统计
+               var count1=content.length;
+			   jQuery.get("/tbarticle.do?epaper=sum&riqi="+"19-7-25"+"&banci="+"01"+"&title="+encodeURIComponent("学校教职工暑期全速推进重点工作"),function(data,status){
+			  
+					var str = "文章字数："+count1+"&nbsp;&nbsp;&nbsp;&nbsp;文章浏览数："+data;;
+					jQuery("#div1").html(str);
+				});
+
+			     //日历控件
+			   	
+			var dd='19-7-25'.split('-');
+			$("#rili").html("<span  class='search_span1'>20"+dd[0]+"年"+dd[1]+"月"+dd[2]+"日</span>");
+            
+		});
+		</script>
+</meta></head>
+<body>
+<div id="ttt">
+</div><div id="leveldiv" style="z-index:100;  POSITION: absolute; pointer-events: none;"></div>
+<div class="tb_sxrb">
+<!--导航-->
+</div>
+<div class="main_02">
+<div class="logo_dt_1">
+</div>
+<div class="daoh">
+<div class="menu">
+<div class="menu_nei">
+<ul id="nav">
+<li class="top1">
+<a class="top_link" href="/"><span>数字报首页</span></a>
+</li>
+<li class="top1">
+<a class="top_link" href="" id="products"><span class="down">版面导航</span></a>
+<ul class="sub1">
+<li>
+<div onclick="window.open('index.htm','_self')"><a href="#">第01版：要闻</a></div>
+<div onclick="window.open('page_01.htm','_self')"><a href="#">第02版：综合信息</a></div>
+<div onclick="window.open('page_02.htm','_self')"><a href="#">第03版：综合信息</a></div>
+<div onclick="window.open('page_03.htm','_self')"><a href="#">第04版：校园笔会</a></div>
+</li>
+</ul>
+</li>
+<li class="top1">
+<a class="top_link" href="" id="contacts"><span class="down">标题导航</span></a>
+<ul class="sub2">
+<li>
+<div onclick="window.open('index_content_003.htm','_self')" title="我校召开2019年暑期工作会议">
+<div id="mp003" style="DISPLAY: inline">
+<a href="#">我校召开2019年暑期工作会议</a>
+</div>
+</div>
+<div onclick="window.open('index_content_002.htm','_self')" title="电气科学与技术研究院暨合作研究院入驻创新港">
+<div id="mp002" style="DISPLAY: inline">
+<a href="#">电气科学与技术研究院暨合作研究院入驻创新港</a>
+</div>
+</div>
+<div onclick="window.open('index_content_000.htm','_self')" title="学校教职工暑期全速推进重点工作">
+<div id="mp000" style="DISPLAY: inline">
+<a href="#">学校教职工暑期全速推进重点工作</a>
+</div>
+</div>
+<div onclick="window.open('index_content_001.htm','_self')" title="交大人 干就要干出个好样子">
+<div id="mp001" style="DISPLAY: inline">
+<a href="#">交大人 干就要干出个好样子</a>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="top1">
+<a class="top_link" href="outline.htm" id="privacy"><span>版面概览</span></a>
+</li>
+<li class="top1">
+<a class="top_link" href="/about.jsp" target="_blank"><span>联系我们</span></a>
+</li>
+<li class="shijian">
+<script type="text/javascript">
+ var today = new Date(); //新建一个Date对象
+  var date = today.getDate();//查询当月日期
+  var day = today.getDay();//查询当前星期几
+  var month = today.getMonth()+1;//查询月份
+  var year = today.getFullYear();//查询年份  
+  var hour=today.getHours();
+  var morning="";
+  if (hour>=8 & hour<=12) morning="上午好";
+  var week="";                               
+  if (day==0) week='星期日';
+  if (day==1) week='星期一';
+  if (day==2) week='星期二';
+  if (day==3) week='星期三';
+  if (day==4) week='星期四';
+  if (day==5) week='星期五';
+  if (day==6) week='星期六';
+  document.write(year+"年"+month+"月"+date+"日 "+week+" ");
+</script></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div style=" clear:both"></div>
+<div class="wrap_03">
+<div class="main">
+<div class="page">
+<div id="sss" style="width: 440px;height: 591px;float: left;background: url('images/bz_bg.png') no-repeat;">
+<img border="0" class="bantu_img" src="index.jpg" usemap="#Map"/>
+</div>
+<div id="tongban">
+<div class="dianji">通版阅读请点击：</div><div id="zhankan">展开通版</div> <div id="shousuo">收缩通版</div>
+</div>
+<div class="bott_1">
+<div class="b_bot">
+                        当前版：01版
+                </div>
+<div class="page_bottom">
+<a href="index.htm">首版</a>
+<a href="#">上一版</a>
+<a href="page_01.htm">下一版</a>
+<a href="page_03.htm">末版</a>
+</div>
+</div>
+</div>
+<div class="right">
+<div class="r_top">
+<div class="ss_rl"><span class="ss_rl_1">发布日期:</span><span class="ss_rl_2" id="rili"></span></div>
+<div class="search">
+<form action="/tbarticle.do?" id="Form1" method="get" name="formSearch" target="_blank">
+<input name="epaper" type="hidden" value="searchlistWy"/>
+<input name="STime" type="hidden" value=""/>
+<input name="ETime" type="hidden" value=""/>
+<div class="search_span"><select name="type" style=" font-size:12px; border:1px solid #D0D0D0;  height:25px; float:left; width:80px;"><option selected="selected" value="1">文章标题</option>
+<option value="2">文章内容</option>
+<option value="3">文章作者</option></select></div>
+<div class="search_text01">
+<input id="title" name="title" style="  border: 1px solid #D0D0D0;  width: 172px; height: 21px; line-height: 23px;  float: left;" type="text"/>
+</div>
+<div class="search_bat"><input height="25" name="image" onclick="return searchSubmit();" src="images/search_btn.jpg" type="image" width="60"/></div>
+</form>
+<script type="text/javascript">
+		function searchSubmit(){
+		var title = document.getElementById("title").value;
+			if(title==''){
+				alert('搜索关键字不能为空！');
+				return false;
+			}else{
+				return true;
+			}
+		
+		}
+	</script>
+</div>
+</div>
+<div class="bmnr">
+<div class="list_title">
+<a class="list_title_fanye" href="index_content_002.htm">上一篇</a>
+<a class="list_title_fanye" href="index_content_001.htm">下一篇</a>
+<div class="list_title_ziti">字体：</div>
+<a class="list_title_ziti_a" href="javascript:doZoom(18)">放大<img src="images/fangda_icon.gif"/></a>
+<a class="list_title_ziti_a" href="javascript:doZoom(12)">缩小<img src="images/suoxiao_icon.gif"/></a>
+<a class="list_title_ziti_a" href="javascript:doZoom(14)">默认<img src="images/moren_icon.gif"/></a>
+</div>
+<div class="bmnr_con">
+<div class="bmnr_con_yinti">只争朝夕 全情投入</div>
+<div class="bmnr_con_biaoti">
+						学校教职工暑期全速推进重点工作 	
+					</div>
+<div class="bmnr_con_yinti"> </div>
+<div class="bmnr_con_biaoti"><div id="div1" style="font-size:12px; class:#ccc; font-weight:100;height:20px"></div></div>
+<div class="bmnr_con_con">
+<div id="zoom"><a class="thumbnail" href="#"><img align="center" height="101" src="./2586cbe7b609fe974317d82315b68f28_img_455_1284_152_101.jpg" width="152"/><span><img src="2586cbe7b609fe974317d82315b68f28_img_455_1284_152_101.jpg" width="600"/></span></a><br/><a class="thumbnail" href="#"><img align="center" height="156" src="./2586cbe7b609fe974317d82315b68f28_img_602_1240_209_156.jpg" width="209"/><span><img src="2586cbe7b609fe974317d82315b68f28_img_602_1240_209_156.jpg" width="600"/></span></a><br/><a class="thumbnail" href="#"><img align="center" height="104" src="./2586cbe7b609fe974317d82315b68f28_img_455_1385_191_104.jpg" width="191"/><span><img src="2586cbe7b609fe974317d82315b68f28_img_455_1385_191_104.jpg" width="600"/></span></a><br/><a class="thumbnail" href="#"><img align="center" height="111" src="./2586cbe7b609fe974317d82315b68f28_img_642_1378_153_111.jpg" width="153"/><span><img src="2586cbe7b609fe974317d82315b68f28_img_642_1378_153_111.jpg" width="600"/></span></a><br/>　　<strong>本报讯</strong> 这个暑期，是创新港搬迁入驻的最后冲刺期，我校全体教职工放弃休息，为入驻创新港做着最后的准备，用坚守和拼搏，书写西安交大昂扬向上的新乐章。 <br/>　　7月22日，暑期工作的第一天，各职能部门、学院工作人员坚守岗位，全情投入，为全力推进学校搬迁入驻创新港等各项工作保驾护航。 <br/>　　在主楼2层财务报账大厅，大屏显示：目前有11人在等待办理。所有教工到岗上班，一切与平时无异。看到有师生来办理业务，他们耐心地解释。大家纷纷表示，在创新港搬迁入驻这个关键时刻，我们将克服一切困难，坚持到岗工作，为全校师生做好服务，确保学校财务工作运转顺畅。 <br/>　　记者走进研究生院后发现，该院正在召开每周一上午例行的院务会。推开会议室的门，吴宏春常务副院长正在发言：“希望大家攻坚克难，在暑期全力做好创新港教室、宿舍等与研究生教育相关工作的检查推进，做好创新港首届研究生报到注册与开学典礼筹备工作，配合相关部门进行‘双一流’中期自评估、开展调研与会议交流等工作。”“没问题，我们一定积极主动，做好各项工作。”与会的教师职工们纷纷表态。研究生院全体工作人员这个暑期按时上班，各项业务正常开展，确保创新港搬迁、创新港首届研究生报到注册、开学典礼、教学和日常管理等各项工作平稳有序推进。 <br/>　　走进学科办办公室，大家都在各自的电脑旁紧张忙碌着，有的在查资料，有的在统计数据。学科办副主任鲁伟介绍，“双一流”中期自评工作和第五轮学科评估摸底工作目前已全面铺开，学科办正牵头协同相关职能部门起草学校“双一流”中期自评报告，总结建设成效，挖掘建设亮点，查找关键问题，提出改进举措，力争在高质量完成自评报告的同时，为下一阶段的建设厘清思路、打好基础；同时，为切实协助校内各学科做好“双一流”和创新港建设的推进工作以及中期自评和各类数据的梳理总结工作，结合已经建立的学科联系人制度，学科办将深入各学院，面对面解答各类问题，全力做好服务保障。 <br/>　　上午，机械学院党委书记王朝晖带队到创新港督促并检查二次装修，明确现阶段主要任务，对问题进行排查，做到万无一失。学院院办主任张新功、职员李瑞萍、丁立库等同志暑假期间，将每天都守在创新港，确保搬迁入驻工作一切顺利。 <br/>　　在电气学院会议室，党政班子和职员代表正在为明天即将举办的创新港揭牌仪式做准备，热火朝天地讨论着具体细节。学院党委书记成永红表示，昨天在创新港筹备入驻仪式，现在开会讨论表决一些事项，下午我们再赴创新港进行最后一次彩排，确保明日活动办得有声有色。常务副院长李盛涛说，电气学院已经走过111年的发展历程，明天揭牌后标志着正式挺进创新港，创新港为电气学科的发展提供了一流的平台和机遇，我们将不负学校厚望，继续把电气学科发扬光大。 <br/>　　在能动学院1410会议室，学院党委书记何茂刚正在主持召开学院“双一流”中期评估工作推进会，大家你一言我一语，对标暑期工作会议要求进行着深入研讨。除了推进重点工作外，教师和学生也都没闲着，胡二江教授在办公室和学生讨论着问题，博士教学秘书高晓东的窗口一直学生不断，学生研修室更是坐得满满当当……胡二江表示，这个暑期不仅要推进“两机”专项课题的研究，还要为10月份国际燃烧会议的投稿做好充分准备；博士生郭实龙说因为要准备9月份的预答辩，这个暑期准备不回家了。 <br/>　　走进后勤保障部，也是一如既往忙碌的工作状态。假期不休息其实一直是后勤保障部的工作常态，今年因为有着入驻创新港的紧迫任务，大家更是绷紧了弦。一上午，就有几个会议同时在推进：校长助理、后勤保障部部长程建设组织后勤保障部、规建中心、陕建集团召开协调会，推进创新港装修改造工作；保障部党委副书记代晓勇组织相关人员召开宣传工作部署会，推进暑期宣传工作；后勤创新港工作组的工作人员正与施工单位技术人员交接创新港电信学部—电子学院装修改造的建筑施工图。暑期创新港工作组的工作重点之一就是协调推进各学院的二次装修。保障部办公室副主任王龙岗介绍，创新港学生食堂、宿舍等相关工作都在积极推进中，今天校医院暑期创新港临时医疗点已开始工作，为创新港搬迁入驻提供坚实保障。暑期后勤还将稳步推进垃圾分类、电梯加装、校内锅炉低氮改造、供暖管网改造、校园环境美化、校园修缮改造等工作。<br/>　　<strong>（文/图 新闻中心）</strong></div>
+<script charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript"></script>
+<script charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript"></script>
+</div>
+</div>
+<div style="clear:both"></div>
+<div class="fx">
+<div class="bshare-custom" style="position:relative; left:10px; top:10px">
+<a class="bshare-more" href="http://www.bShare.cn/" id="bshare-shareto" title="分享到">分享到</a><a class="bshare-weixin" title="分享到微信">微信</a><a class="bshare-qqim" title="分享到QQ好友">QQ好友</a><a class="bshare-qzone" title="分享到QQ空间">QQ空间</a><a class="bshare-sinaminiblog" title="分享到新浪微博">新浪微博</a><a class="bshare-more bshare-more-icon more-style-sharethis" title="更多平台"></a><span class="BSHARE_COUNT bshare-share-count">0</span></div><script charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=cc34420b-96de-4724-8b64-1634161dff4e&amp;pophcol=3&amp;lang=zh" type="text/javascript"></script><script charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript"></script>
+</div>
+</div>
+</div>
+<div style="clear:both;height:10px;"></div>
+</div></div>
+</body></html>
+<div class="main">
+<div class="bottom">
+版权所有：西安交通大学 陕ICP备05001571号  技术支持：<a href="http://www.joyhua.com">锦华科技</a>
+</div></div>
+<map name="Map">
+<area coords="0,0,0,0,0,0,0,0,0,0,0,0" href="#" shape="poly"/><area coords="32,333,270,506" href="index_content_000.htm" shape="rect"/>
+<area coords="278,107,364,498" href="index_content_001.htm" shape="rect"/>
+<area coords="34,214,270,325" href="index_content_002.htm" shape="rect"/>
+<area coords="34,101,270,204" href="index_content_003.htm" shape="rect"/>
+</map>
+
+

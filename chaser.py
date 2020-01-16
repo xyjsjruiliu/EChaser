@@ -2,13 +2,13 @@
 # author: liu rui
 import codecs
 import random
-import threading
-from time import ctime, sleep
-
 import requests
+import threading
+import happybase
 import lxml.etree as etree
-from queue import Queue
 
+from queue import Queue
+from time import ctime, sleep
 from bs4 import BeautifulSoup
 
 # 起始网页
@@ -23,6 +23,49 @@ number_page = {"count": 0}
 # 创建线程列表
 threads = []
 num_thread = 10
+
+
+class HBaseClient(object):
+    def __init__(
+            self,
+            host=None,
+            port=None,
+            timeout=None
+    ):
+        self.host = host
+        self.port = port
+        self.timeout = timeout
+        # HBase库中表的名字，可以修改
+        self.table_name = "echaser_db"
+
+        # 连接数据库
+        self.connection = happybase.Connection(host=self.host,
+                                               port=self.port,
+                                               timeout=self.timeout,
+                                               # protocol='compact', transport='framed'
+                                               )
+        self.connection.open()
+
+    # 扫描全表
+    def scan(self, table_name, row_key):
+        table = self.connection.table(table_name)
+        # 全局扫描一个table
+        for key, value in table.scan(row_prefix=bytes(row_key, encoding="utf8")):
+            print(str(key, encoding="utf-8"))
+            for k, v in value.items():
+                print("\t", str(k, encoding="utf-8"), str(v, encoding="utf-8"))
+
+    # 批量导入数据
+    def batch_put(self, table_name, data):
+        table = self.connection.table(table_name)
+        bat = table.batch()
+        for hbase_data in data:
+            bat.put(hbase_data["row_key"],
+                    {'baseInfo:' + hbase_data["column"]: hbase_data["value"]})
+        bat.send()
+
+
+client = HBaseClient("localhost", 9090, 5000)
 
 
 # 爬虫线程类
@@ -42,15 +85,21 @@ class university_spider_thread(threading.Thread):
                   "\t待爬链接数量：", url_queue.qsize(),
                   "\t总共获取链接数量：", len(url_set),
                   "\t当前时间：", ctime(),
-                  "\t当前下载链接数量：", number_page["count"])
+                  "\t当前下载链接数量：", number_page["count"],
+                  "\t线程name：", self.name)
             sleep(random.randint(2, 7))
-            get_children_url(url)
+            try:
+                get_children_url(url)
+            except Exception as e:
+                print(e)
+                print("get children url error!!!!!")
+                # client = HBaseClient("localhost", 9090, 5000)
 
 
 # 获取当前网页中的所有子链接，并保存当前网页的内容
 def get_children_url(url):
     try:
-        html = requests.get(url, timeout=2).content
+        html = requests.get(url, timeout=4).content
     except:
         return
 
@@ -105,10 +154,16 @@ def isErrorUrl(new):
 # 保存当前网页的所有内容
 def save_html(url, text):
     h = hash(url)
-    with codecs.open("index_url.txt", "a+", encoding="utf-8") as file:
-        file.writelines(str(h) + "\t" + url + "\n")
-    with codecs.open("data/" + str(h) + ".txt", "w", encoding="utf-8") as file:
-        file.writelines(str(text))
+    data = [
+            {"row_key": url, "column": "url", "value": url},
+            {"row_key": url, "column": "html", "value": text},
+            {"row_key": url, "column": "time", "value": ctime()}
+        ]
+    # with codecs.open("index_url.txt", "a+", encoding="utf-8") as file:
+    #     file.writelines(str(h) + "\t" + url + "\n")
+    # with codecs.open("data/" + str(h) + ".txt", "w", encoding="utf-8") as file:
+    #     file.writelines(str(text))
+    client.batch_put("echaser_db", data)
 
 
 # 单线程运行模式
